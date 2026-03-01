@@ -40,10 +40,10 @@
             },
             // {
             //     slot: '4055138220',
-            //     selector: '.categories',
+            //     selector: '.recipe-story .story-section',
             //     position: 'after',
             //     format: 'in-article',
-            //     pages: 'recipe',
+            //     pages: 'all',
             //     nthChild: '1/3',
             //     className: 'ad-in-article',
             // }
@@ -160,8 +160,12 @@
         }
 
         new MutationObserver(function(_, obs) {
-            if (adIns.getAttribute('data-ad-status') === 'filled') {
+            var status = adIns.getAttribute('data-ad-status');
+            if (status === 'filled') {
                 label.style.display = '';
+                obs.disconnect();
+            } else if (status === 'unfilled') {
+                container.style.display = 'none';
                 obs.disconnect();
             }
         }).observe(adIns, { attributes: true, attributeFilter: ['data-ad-status'] });
