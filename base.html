@@ -45,7 +45,8 @@
     </script> -->
 
     <!-- Google AdSense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3666818985097490" crossorigin="anonymous"></script>
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3666818985097490"
+     crossorigin="anonymous"></script>
     <!-- AdSense Auto-Injection -->
     <script src="ads.js" defer></script>
 
@@ -112,10 +113,10 @@
 <script src="./js/authors.js"></script>
 
 <script>
-    document.getElementById('facebook-config').href = globalThis.facebookURL; // Clear main content
-    document.getElementById('pinterest-config').href = globalThis.PinterestURL;
-    document.getElementById('mail-config').href = 'mailto:' + globalThis.email;
-    document.getElementsByClassName('copyright').innerHTML = globalThis.copyright;    
+    var fb = document.getElementById('facebook-config'); if (fb) fb.href = globalThis.facebookURL;
+    var pi = document.getElementById('pinterest-config'); if (pi) pi.href = globalThis.PinterestURL;
+    var ml = document.getElementById('mail-config'); if (ml) ml.href = 'mailto:' + globalThis.email;
+    var cr = document.getElementsByClassName('copyright')[0]; if (cr) cr.innerHTML = globalThis.copyright;    
 
    
 </script>

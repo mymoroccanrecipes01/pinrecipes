@@ -2979,7 +2979,7 @@ nav.nav a img {
 }
 
 .ad-container .ad-label {
-    display: block;
+    display: none;
     font-size: 11px;
     color: #999;
     text-transform: uppercase;
