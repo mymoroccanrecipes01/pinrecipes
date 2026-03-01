@@ -1,161 +1,157 @@
 {
-    "id": "text_recipe_1761680885_461",
-    "slug": "zucchini-stir-fry",
-    "title": "Zucchini Stir-Fry",
-    "promptIMG": "Zucchini stir-fry, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": true,
-    "description": "This one-pan zucchini stir-fry is a delightful blend of sweet and savory flavors, making it a quick and nutritious meal. Perfect for busy weeknights, it comes together in just 25 minutes and is sure to please everyone at the table.",
-    "category_id": "cat_1761230383_494",
-    "author_id": "author_001",
+    "title": "Quick One-Pan Zucchini Stir-Fry in 25 Minutes",
+    "promptIMG": "Professional food photography prompt: \"One-pan zucchini stir-fry, artfully arranged on a vibrant plate, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": false,
+    "description": "Need a meal that comes together in a flash? This one-pan zucchini stir-fry is packed with vibrant veggies and flavors. Ready in just 25 minutes, it’s a go-to for busy nights. Save this recipe for later!",
+    "hashtags": "#zucchinistirfry #quickmeals #healthyrecipes #vegetarian #easyrecipes",
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 4,
     "ingredients": [
         "2 medium zucchinis, sliced",
         "1 bell pepper, sliced",
-        "1 onion, sliced",
-        "2 tablespoons soy sauce",
-        "1 tablespoon olive oil",
-        "1 teaspoon garlic, minced",
-        "1 teaspoon ginger, minced",
-        "Salt and pepper to taste"
+        "1 cup cherry tomatoes, halved",
+        "3 cloves garlic, minced",
+        "2 tablespoons olive oil",
+        "1 teaspoon soy sauce",
+        "Salt and pepper to taste",
+        "Fresh basil for garnish"
     ],
     "instructions": [
-        "Heat olive oil in a large skillet over medium heat.",
-        "Add onion and sautÃ© until translucent, about 3-4 minutes.",
-        "Stir in garlic and ginger, cooking for an additional minute until fragrant.",
-        "Add zucchini and bell pepper, cooking for 5-7 minutes until tender.",
-        "Pour in soy sauce, stirring to combine, and cook for another 2-3 minutes.",
-        "Season with salt and pepper to taste before serving."
+        "Start by heating olive oil in a large skillet over medium heat. You want it hot enough to sizzle but not smoke.",
+        "Add the minced garlic first. Sauté for about 30 seconds until fragrant—don’t let it burn!",
+        "Toss in the sliced zucchinis and bell pepper. Cook for about 5-7 minutes until they soften, stirring occasionally.",
+        "Add the cherry tomatoes and soy sauce. Cook for another 3-5 minutes until everything is well combined and heated through.",
+        "Season with salt and pepper to taste. If you like a little heat, throw in some red pepper flakes!",
+        "Finish with a sprinkle of fresh basil before serving. Looks good, right?"
     ],
-    "prep_time": 15,
-    "cook_time": 30,
-    "total_time": 45,
-    "servings": 4,
-    "difficulty": "easy",
-    "tips": "For the best flavor, use fresh vegetables and adjust the soy sauce to your taste preference.",
+    "tips": "Here’s the thing - don’t overcrowd the pan. If you do, the veggies will steam instead of stir-fry, and that’s a bummer. I always use my KitchenAid skillet for even cooking. Also, you can prep your veggies ahead of time to save on chaos during the week. And if you’ve got leftover veggies, toss them in! I once added some broccoli and it was a hit. Honestly, you can’t go wrong with this stir-fry. Just remember to keep an eye on the garlic; it burns quickly. Enjoy it over rice or with some crusty bread for a heartier meal. And leftovers? They taste even better the next day, trust me!",
+    "image_keywords": [
+        "appetizing",
+        "fresh",
+        "colorful",
+        "quick",
+        "homemade"
+    ],
     "structured_content": [
         {
-            "content": "<p>This zucchini stir-fry is a vibrant and healthy dish that brings together the freshness of vegetables with a savory sauce. It's quick to prepare, making it an ideal choice for busy weeknights or when you want something light yet satisfying.<\/p>"
+            "content": "<p>So I've made this one-pan zucchini stir-fry a bunch of times, and honestly, it never disappoints. The aroma of sautéed garlic mingling with fresh veggies is like a summer breeze in my kitchen. The zucchini becomes tender yet retains a bit of crunch, and the sweet burst of cherry tomatoes? Absolutely good. It’s a quick, nutritious meal that’s not just about filling your belly but also about enjoying those vibrant flavors!</p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Versatile enough to add your favorite proteins<\/li><\/ul>"
+                "content": "<ul><li>30 minutes from start to finish. That’s it.</li><li>Loaded with fresh veggies—you'll feel good eating it!</li><li>My picky kids actually devoured it (shocking!)</li><li>Uses ingredients you probably have on hand.</li><li>Tastes great warmed up, so leftovers are awesome.</li><li>Great for meal prepping—just make a big batch!</li></ul>"
             }
         },
         {
-            "content": "<p>I remember the first time I made this stir-fry; it was a last-minute dinner idea that turned into a family favorite. The colors and flavors were so inviting, and it was a hit with everyone!<\/p>"
+            "headline": "My Story With This Recipe"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "content": "<p>I first tried this at my friend Lisa's house last August during a casual get-together. The smell of garlic and fresh veggies filled the air, and I was instantly intrigued. Lisa said, \"You've gotta try this—it's so easy!\" One bite, and I was sold. Now I whip it up for my family every Friday night, and my husband, who usually turns his nose up at zucchini, said, \"Wow, THIS is really good!\"</p>"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Zucchini is the star here, providing a tender texture and mild flavor that absorbs the sauce beautifully. Choose firm zucchinis for the best results.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Soy sauce adds depth and umami, while garlic and ginger bring a fragrant kick.<\/li><li><strong>Supporting ingredients:<\/strong> Bell peppers and onions contribute sweetness and crunch, enhancing the overall dish.<\/li><li><strong>Equipment needed:<\/strong> A large skillet or wok is essential for even cooking and easy stirring.<\/li><\/ul>"
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>Honestly, the first time I made this, I overcooked the zucchini. It turned to mush, and I was bummed. Now I know to keep it crisp-tender, which means keeping an eye on it and stirring often. I also learned that garlic can go from golden to burnt in seconds, so keep it moving!</p>"
+        },
+        {
+            "headline": "Essential Ingredients & Smart Substitutions"
+        },
+        {
+            "content": "<p><ul><li><strong>Main ingredient:</strong> Zucchini is key here. Look for firm, glossy ones. They should feel heavy for their size. I usually slice them thin for quicker cooking.</li><li><strong>Key seasonings:</strong> Garlic packs a punch. I love using fresh cloves, but pre-minced works in a pinch. It adds a fragrant depth to the dish.</li><li><strong>Supporting ingredients:</strong> Bell peppers add sweetness and color. I love red or yellow for that vibrant pop, and they soften nicely when cooked.</li><li><strong>Smart substitutions:</strong> If you don’t have zucchini, yellow squash works too! You could also throw in some snap peas or broccoli for added crunch.</li><li><strong>Equipment needed:</strong> A good non-stick skillet is essential. I love my KitchenAid skillet for even heat distribution.</li></ul></p>"
+        },
+        {
+            "headline": "Step-by-Step Cooking Instructions"
+        },
+        {
+            "content": "<p><dl><dt><strong>Preparation phase:</strong></dt><dd>Chop your veggies ahead of time—zucchini, bell pepper, and tomatoes. It makes cooking a breeze. I usually spend about 10 minutes on this.</dd><dt><strong>Cooking process:</strong></dt><dd>Heat your skillet over medium heat. Once it’s hot, add the oil and garlic. You’ll know it’s ready when the garlic starts to sizzle.</dd><dt><strong>Finishing touches:</strong></dt><dd>Once everything is cooked and mixed, garnish with fresh basil. It adds a lovely aroma and color.</dd></dl></p>"
+        },
+        {
+            "headline": "Flavor Boosters & Customization Ideas"
+        },
+        {
+            "content": "<p><ul><li><strong>Herbs:</strong> Fresh basil is a must! Add it at the end to keep its flavor bright. You could also try parsley or cilantro for a different twist.</li><li><strong>Spices:</strong> A pinch of red pepper flakes can amp up the flavor. Just a little goes a long way!</li><li><strong>Upgrades:</strong> Toss in some cooked shrimp or chicken for protein. It changes the dish completely!</li><li><strong>Technique variations:</strong> Instead of stir-frying, try roasting the veggies for a deeper flavor. Just toss them on a sheet pan with oil and roast until tender.</li></ul></p>"
+        },
+        {
+            "headline": "Perfect Pairings & Serving Suggestions"
+        },
+        {
+            "content": "<p><ul><li><strong>Side dishes:</strong> Serve it over rice or quinoa for a filling meal. You could also pair it with some crusty bread for a nice touch.</li><li><strong>Beverage pairings:</strong> A crisp white wine like Sauvignon Blanc works great with this dish. Or a refreshing iced tea if you prefer non-alcoholic!</li><li><strong>Temperature serving note:</strong> This dish is best served hot, just off the stove. You want that freshness!</li></ul></p>"
+        },
+        {
+            "headline": "Creative Variations to Try"
+        },
+        {
+            "content": "<p><ul><li><strong>Dietary adaptation 1:</strong> For gluten-free, just skip the soy sauce or use a gluten-free version.</li><li><strong>Dietary adaptation 2:</strong> For vegan, you’re already set! Just keep it plant-based and enjoy the freshness.</li><li><strong>Flavor variation:</strong> Add a splash of balsamic vinegar for a tangy twist. It brings a whole new dimension!</li><li><strong>Protein swap:</strong> Swap zucchini for eggplant for a richer taste. Just slice it thin and cook it the same way.</li></ul></p>"
         },
         {
             "upload": {
-                "context": "A colorful array of sliced vegetables ready for stir-frying, showcasing fresh zucchini, bell peppers, and onions.",
-                "url": "zucchini-stir-fry\/images\/zucchini-stir-fry_image_1.webp",
-                "fileName": "zucchini-stir-fry_image_1.webp",
-                "type": "main"
+                "context": "Steaming hot zucchini stir-fry with vibrant veggies served in a rustic bowl, garnished with fresh basil on a wooden table",
+                "url": "zucchini-stir-fry/images/zucchini-stir-fry_image_1.webp"
             }
         },
         {
-            "headline": "How to Make It"
+            "content": "<p>Sharing this dish with family is always a joy. The vibrant colors and aromas make everyone excited to dig in. I remember my kids' faces lighting up as they took their first bites—their laughter filled the kitchen. It’s more than just a meal; it’s about gathering together, sharing stories, and enjoying each other's company. And honestly, seeing them enjoy their veggies? Priceless.</p>"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Slice all vegetables evenly to ensure they cook at the same rate. Mince garlic and ginger finely for maximum flavor release.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Follow the step-by-step instructions, ensuring to stir frequently for even cooking and to prevent burning.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Once cooked, taste and adjust seasoning if necessary, then serve hot for the best flavor.<\/dd><\/dl>"
+            "headline": "Conclusion"
         },
         {
-            "upload": {
-                "context": "A vibrant stir-fry in a skillet, showcasing the cooking process with colorful vegetables sizzling.",
-                "url": "zucchini-stir-fry\/images\/zucchini-stir-fry_image_2.webp",
-                "fileName": "zucchini-stir-fry_image_2.webp",
-                "type": "process"
-            }
-        },
-        {
-            "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Cook zucchini just until tender to maintain a slight crunch.<\/li><li>Avoid overcrowding the pan to ensure even cooking.<\/li><li>When the vegetables are bright and tender, they're ready to serve.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>This dish has become a staple in our home, often served during family gatherings. It's a joy to see everyone enjoying the vibrant flavors and colorful presentation together!<\/p>"
-        },
-        {
-            "headline": "Flavor Boosters"
-        },
-        {
-            "content": "<p>Consider adding a splash of sesame oil for a nutty flavor or toss in some red pepper flakes for heat. You can also mix in cooked chicken or tofu for added protein.<\/p>"
-        },
-        {
-            "headline": "Serving Suggestions"
-        },
-        {
-            "content": "<p>This stir-fry pairs beautifully with steamed rice or quinoa. For a complete meal, serve with a side of spring rolls or a light salad.<\/p>"
-        },
-        {
-            "headline": "Creative Variations"
-        },
-        {
-            "content": "<p>For a gluten-free option, use tamari instead of soy sauce. You can also swap out zucchini for other vegetables like broccoli or snap peas for a different twist.<\/p>"
-        },
-        {
-            "upload": {
-                "context": "A beautifully plated zucchini stir-fry garnished with sesame seeds, ready to be enjoyed.",
-                "url": "zucchini-stir-fry\/images\/zucchini-stir-fry_image_3.webp",
-                "fileName": "zucchini-stir-fry_image_3.webp",
-                "type": "final"
-            }
-        },
-        {
-            "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Use high heat for a quick stir-fry to lock in flavors.<\/li><li>Prep all ingredients before starting to cook for a seamless experience.<\/li><li>Keep an eye on the cooking time to prevent overcooking the vegetables.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Don't hesitate to try this recipe! It's not only easy to make but also incredibly rewarding to serve a dish that looks and tastes amazing.<\/p>"
+            "content": "<p>Alright, you’ve got a quick and easy one-pan zucchini stir-fry recipe in your back pocket! It's a dish that brings comfort and warmth, making it ideal for busy weeknights. I hope you try it out and let me know how it goes! Don't forget to share your photos on social media or drop a rating. Happy cooking!</p>"
         }
     ],
+    "category_id": "cat_1761230594_885",
+    "generation_metadata": {
+        "voice": "Practical Expert",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-03-01 22:20:07"
+    },
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "zucchini-stir-fry_image_1.webp",
-            "filePath": "recipes\/zucchini-stir-fry\/images\/zucchini-stir-fry_image_1.webp",
-            "relativePath": "zucchini-stir-fry\/images\/zucchini-stir-fry_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "filePath": "recipes/zucchini-stir-fry/images/zucchini-stir-fry_image_1.webp",
+            "relativePath": "zucchini-stir-fry/images/zucchini-stir-fry_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "zucchini-stir-fry_image_2.webp",
-            "filePath": "recipes\/zucchini-stir-fry\/images\/zucchini-stir-fry_image_2.webp",
-            "relativePath": "zucchini-stir-fry\/images\/zucchini-stir-fry_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "filePath": "recipes/zucchini-stir-fry/images/zucchini-stir-fry_image_2.webp",
+            "relativePath": "zucchini-stir-fry/images/zucchini-stir-fry_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2,
             "type": "process"
         },
         {
             "fileName": "zucchini-stir-fry_image_3.webp",
-            "filePath": "recipes\/zucchini-stir-fry\/images\/zucchini-stir-fry_image_3.webp",
-            "relativePath": "zucchini-stir-fry\/images\/zucchini-stir-fry_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "filePath": "recipes/zucchini-stir-fry/images/zucchini-stir-fry_image_3.webp",
+            "relativePath": "zucchini-stir-fry/images/zucchini-stir-fry_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3,
             "type": "final"
         },
         {
-            "fileName": "zucchini-stir-fry_image_4.webp",
-            "filePath": "recipes\/zucchini-stir-fry\/images\/zucchini-stir-fry_image_4.webp",
-            "relativePath": "zucchini-stir-fry\/images\/zucchini-stir-fry_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/zucchini-stir-fry\/images\/zucchini-stir-fry_image_4.webp",
+            "fileName": "zucchini-stir-fry_pinrecipes_image_4.webp",
+            "filePath": "recipes/zucchini-stir-fry/images/zucchini-stir-fry_pinrecipes_image_4.webp",
+            "relativePath": "zucchini-stir-fry/images/zucchini-stir-fry_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/recipes/zucchini-stir-fry/images/zucchini-stir-fry_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "zucchini-stir-fry",
+    "id": "text_recipe_1761680885_461",
     "image": "zucchini-stir-fry_image_1.webp",
-    "image_path": "recipes\/zucchini-stir-fry\/images\/zucchini-stir-fry_image_1.webp",
-    "image_dir": "zucchini-stir-fry\/images",
+    "image_path": "recipes/zucchini-stir-fry/images/zucchini-stir-fry_image_1.webp",
+    "image_dir": "zucchini-stir-fry/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-10-28T20:48:05+01:00",
-    "updatedAt": "2025-10-28T20:48:05+01:00"
+    "updatedAt": "2026-03-01T22:20:07+01:00"
 }
