@@ -1,0 +1,24 @@
+# Activation du module de réécriture
+RewriteEngine On
+
+# Règles pour les fichiers RSS dans le dossier /rss/
+# Permet d'accéder aux fichiers XML directement
+<IfModule mod_rewrite.c>
+    # Assurer que le dossier rss est accessible
+    RewriteCond %{REQUEST_FILENAME} -f
+    RewriteRule ^rss/(.+\.xml)$ rss/$1 [L]
+</IfModule>
+
+# Configuration pour permettre l'accès aux fichiers XML
+<FilesMatch "\.xml$">
+    Header set Content-Type "application/rss+xml; charset=UTF-8"
+    Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
+
+# Cache pour les flux RSS (1 heure)
+<IfModule mod_expires.c>
+    <FilesMatch "\.xml$">
+        ExpiresActive On
+        ExpiresDefault "access plus 1 hour"
+    </FilesMatch>
+</IfModule>

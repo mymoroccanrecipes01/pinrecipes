@@ -1,0 +1,8 @@
+# Ignorer tous les fichiers RSS générés
+pinterest-*.xml
+
+# Garder le fichier index.php
+!index.php
+
+# Garder ce gitignore
+!.gitignore

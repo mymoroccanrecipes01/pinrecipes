@@ -1,0 +1,13 @@
+### AL ###
+#Template for AL projects for Dynamics 365 Business Central
+#launch.json folder
+*.php
+tmpIMG/
+fonts/
+test/
+logs/
+*.log
+image1.png
+image2.png
+*.md
+*.sql

@@ -1,0 +1,167 @@
+{
+    "id": "text_recipe_1761759975_809",
+    "slug": "strawberry-shortcake",
+    "title": "Strawberry Shortcake",
+    "promptIMG": "Strawberry shortcake, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": true,
+    "description": "Indulge in the delightful layers of fluffy shortcake, fresh strawberries, and homemade whipped cream. This classic dessert is not only easy to make but also a crowd-pleaser that will brighten any occasion.",
+    "category_id": "cat_1761230294_638",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 cups fresh strawberries, hulled and sliced",
+        "1 cup heavy cream",
+        "1\/4 cup sugar",
+        "2 cups all-purpose flour",
+        "1 tablespoon baking powder",
+        "1\/2 teaspoon salt",
+        "1\/4 cup unsalted butter, softened",
+        "3\/4 cup milk"
+    ],
+    "instructions": [
+        "Preheat the oven to 425Â°F (220Â°C).",
+        "In a bowl, mix flour, baking powder, salt, and sugar.",
+        "Cut in butter until mixture resembles coarse crumbs.",
+        "Stir in milk until just combined.",
+        "Turn dough onto a floured surface and knead gently.",
+        "Roll out to 1-inch thickness and cut into rounds.",
+        "Place on a baking sheet and bake for 15-20 minutes until golden.",
+        "While the cakes bake, whip the heavy cream with sugar until soft peaks form.",
+        "Once the cakes are cool, slice them in half, layer with strawberries and whipped cream, and serve."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 8,
+    "difficulty": "easy",
+    "tips": "For the best results, use fresh strawberries at their peak ripeness and chill your mixing bowl before whipping the cream.",
+    "structured_content": [
+        {
+            "content": "<p>This Strawberry Shortcake is a delightful dessert that showcases the sweetness of ripe strawberries layered between fluffy shortcake and rich whipped cream. Perfect for summer gatherings or a cozy family dinner, it's a treat that never fails to impress.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 45 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for summer parties and celebrations<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customizable with different fruits or toppings<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember making this Strawberry Shortcake with my grandmother every summer. The joy of picking fresh strawberries from the garden and layering them with fluffy cake and cream is a cherished memory that brings smiles to everyone who enjoys this dessert.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh strawberries are key for their natural sweetness and vibrant color; choose ripe, juicy ones for the best flavor.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Sugar enhances the sweetness of the strawberries and cream, balancing the flavors perfectly.<\/li><li><strong>Supporting ingredients:<\/strong> The shortcake is made with basic pantry staples, ensuring a tender and fluffy texture.<\/li><li><strong>Equipment needed:<\/strong> Essential tools include a mixing bowl, baking sheet, and an electric mixer for whipping cream.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of fresh strawberries and ingredients ready for preparation, highlighting the colors and textures.",
+                "url": "strawberry-shortcake\/images\/strawberry-shortcake_image_1.webp",
+                "fileName": "strawberry-shortcake_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by preheating your oven and preparing the strawberries. Make sure to hull and slice them ahead of time for easy layering.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Follow the baking instructions carefully, keeping an eye on the shortcakes to achieve a golden brown color.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Layer the shortcakes with strawberries and whipped cream, and consider garnishing with mint leaves for a pop of color.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Capturing the baking process of shortcakes, showcasing the golden color and fluffy texture.",
+                "url": "strawberry-shortcake\/images\/strawberry-shortcake_image_2.webp",
+                "fileName": "strawberry-shortcake_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Ensure your butter is softened for easy mixing.<\/li><li>A common mistake is overmixing the dough, which can lead to tough shortcakes.<\/li><li>Look for a light golden color on the shortcakes to indicate they are done.<\/li><li>Store leftovers in the refrigerator and enjoy within a day or two for the best taste.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This Strawberry Shortcake is not just a dessert; it's a celebration of summer flavors. Sharing it with friends and family creates lasting memories and smiles all around.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding a splash of vanilla extract to the whipped cream or a sprinkle of lemon zest over the strawberries for an extra layer of flavor.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This dessert pairs beautifully with a glass of sweet iced tea or a light sparkling wine. Serve it alongside a fresh fruit salad for a refreshing summer meal.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free version, substitute the all-purpose flour with a gluten-free blend. You can also experiment with other fruits like peaches or blueberries for a twist on the classic.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated Strawberry Shortcake, showcasing layers of strawberries and whipped cream, perfect for sharing.",
+                "url": "strawberry-shortcake\/images\/strawberry-shortcake_image_3.webp",
+                "fileName": "strawberry-shortcake_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For restaurant-quality whipped cream, chill your mixing bowl and beaters beforehand.<\/li><li>Use a serrated knife to slice the shortcakes for clean edges.<\/li><li>Time your baking to ensure the shortcakes are fresh when serving.<\/li><li>Arrange the layers neatly for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try making this Strawberry Shortcake! It's a simple yet rewarding dessert that will bring joy to your table and create sweet memories.<\/p>"
+        },
+        {
+            "category_id": "cat_1761230294_638"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "strawberry-shortcake_image_1.webp",
+            "filePath": "recipes\/strawberry-shortcake\/images\/strawberry-shortcake_image_1.webp",
+            "relativePath": "strawberry-shortcake\/images\/strawberry-shortcake_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "strawberry-shortcake_image_2.webp",
+            "filePath": "recipes\/strawberry-shortcake\/images\/strawberry-shortcake_image_2.webp",
+            "relativePath": "strawberry-shortcake\/images\/strawberry-shortcake_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "strawberry-shortcake_image_3.webp",
+            "filePath": "recipes\/strawberry-shortcake\/images\/strawberry-shortcake_image_3.webp",
+            "relativePath": "strawberry-shortcake\/images\/strawberry-shortcake_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "strawberry-shortcake_image_4.webp",
+            "filePath": "recipes\/strawberry-shortcake\/images\/strawberry-shortcake_image_4.webp",
+            "relativePath": "strawberry-shortcake\/images\/strawberry-shortcake_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/strawberry-shortcake\/images\/strawberry-shortcake_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "strawberry-shortcake_image_1.webp",
+    "image_path": "recipes\/strawberry-shortcake\/images\/strawberry-shortcake_image_1.webp",
+    "image_dir": "strawberry-shortcake\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-29T18:46:15+01:00",
+    "updatedAt": "2025-10-29T18:46:15+01:00"
+}

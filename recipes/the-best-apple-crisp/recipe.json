@@ -1,0 +1,79 @@
+{
+    "title": "Warm and Cozy Apple Crisp Recipe to Try Anytime",
+    "promptIMG": "Professional food photography prompt: \"Apple crisp with crunchy oat topping, served in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": false,
+    "description": "Warm, cozy apple crisp that’s ready in just about 45 minutes! Loaded with sweet apples and a crunchy oat topping, this dessert is great for family gatherings or a cozy night in. Don’t forget the ice cream on top! Save this recipe for later!",
+    "hashtags": "#applecrisp #dessertrecipes #comfortfood #easyrecipes #homemade",
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "6 cups of peeled and sliced apples (Granny Smith or Honeycrisp work well)",
+        "1 cup brown sugar, packed",
+        "1 cup rolled oats (I prefer Bob's Red Mill)",
+        "1 cup all-purpose flour, sifted",
+        "1 teaspoon cinnamon",
+        "1/2 cup unsalted butter, melted (I use Kerrygold for the flavor)",
+        "1/4 teaspoon salt"
+    ],
+    "instructions": [
+        "Preheat your oven to 350°F (175°C). While that’s heating up, grab a big bowl and toss your sliced apples with 1/2 cup of the brown sugar and the cinnamon. Set aside so those flavors meld.",
+        "In another bowl, mix together the oats, flour, remaining brown sugar, and salt. Pour in the melted butter and mix it all until it looks crumbly. Seriously, don’t be afraid to get your hands in there!",
+        "Now, layer those apples in a greased 9x13 baking dish. Spread the oat mixture over the top, covering it like a cozy blanket.",
+        "Bake it in the oven for about 30 minutes, or until the topping is golden brown and the apples are bubbly.",
+        "Let it cool for a bit before serving. I mean, who doesn’t want some vanilla ice cream on top when it’s warm? It’s like a hug in a bowl!"
+    ],
+    "tips": "So, here are a few tips to nail this apple crisp every time…\n\n- **Choosing apples:** Go for a mix of sweet and tart apples. It really brings out the flavor. I like using at least one tart variety, like Granny Smith.\n- **Oats matter:** Not all rolled oats are created equal. Bob's Red Mill gives a great texture. Also, you can toast them lightly for even more flavor.\n- **Butter choice:** I always use Kerrygold butter because it adds that rich, creamy taste. Seriously, it’s worth it!\n- **Storage:** If you have leftovers (which I doubt, honestly), store it in an airtight container in the fridge for up to 3 days. Reheat in the oven for best results.\n- **Serving suggestion:** Top with a drizzle of caramel sauce for an extra special touch. Trust me, it’s killer!",
+    "generation_metadata": {
+        "voice": "Honest Cook",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-03-01 16:08:47"
+    },
+    "author_id": "author_001",
+    "images": [
+        {
+            "fileName": "the-best-apple-crisp_image_1.webp",
+            "filePath": "recipes/the-best-apple-crisp/images/the-best-apple-crisp_image_1.webp",
+            "relativePath": "the-best-apple-crisp/images/the-best-apple-crisp_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-apple-crisp_image_2.webp",
+            "filePath": "recipes/the-best-apple-crisp/images/the-best-apple-crisp_image_2.webp",
+            "relativePath": "the-best-apple-crisp/images/the-best-apple-crisp_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "the-best-apple-crisp_image_3.webp",
+            "filePath": "recipes/the-best-apple-crisp/images/the-best-apple-crisp_image_3.webp",
+            "relativePath": "the-best-apple-crisp/images/the-best-apple-crisp_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "the-best-apple-crisp_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes/the-best-apple-crisp/images/the-best-apple-crisp_mollykitchendaily-main_image_4.webp",
+            "relativePath": "the-best-apple-crisp/images/the-best-apple-crisp_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/recipes/the-best-apple-crisp/images/the-best-apple-crisp_mollykitchendaily-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "slug": "the-best-apple-crisp",
+    "id": "text_recipe_1761759059_850",
+    "image": "the-best-apple-crisp_image_1.webp",
+    "image_path": "recipes/the-best-apple-crisp/images/the-best-apple-crisp_image_1.webp",
+    "image_dir": "the-best-apple-crisp/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-29T18:30:59+01:00",
+    "updatedAt": "2026-03-01T16:08:47+01:00"
+}

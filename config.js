@@ -1,0 +1,9 @@
+globalThis.facebookURL = "#";
+globalThis.PinterestURL = "https://www.pinterest.com/mollykitchendaily/";
+globalThis.twitterURL = "#";
+globalThis.redditURL = "#";
+globalThis.siteUrl = 'https://www.pinrecipes.org';
+globalThis.homepageTitle = 'Pin Recipes';
+globalThis.homepageTagline = 'Pin Recipes - Simple Recipes for Every day';
+globalThis.email = 'contact@pinrecipes.org';
+globalThis.copyright = '2023 - 2024 Pin Recipes. All rights reserved.';
