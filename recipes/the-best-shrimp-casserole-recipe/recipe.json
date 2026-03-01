@@ -1,163 +1,174 @@
 {
-    "id": "text_recipe_1762204635_904",
-    "slug": "the-best-shrimp-casserole-recipe",
-    "title": "The Best Shrimp Casserole Recipe",
-    "promptIMG": "Shrimp casserole, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": true,
-    "description": "This delightful shrimp casserole is a comforting dish that brings together tender shrimp, creamy sauce, and a crispy topping. Perfect for family gatherings or a cozy dinner at home, itâ€™s sure to impress everyone at the table.",
-    "category_id": "cat_1761230072_178",
-    "author_id": "author_001",
-    "ingredients": [
-        "1 pound shrimp peeled and deveined",
-        "2 tablespoons olive oil",
-        "1 cup cooked rice",
-        "1 cup cream of mushroom soup",
-        "1 cup shredded cheddar cheese",
-        "1\/2 cup breadcrumbs",
-        "1 teaspoon garlic powder",
-        "Salt and pepper to taste"
-    ],
-    "instructions": [
-        "Preheat your oven to 350Â°F (175Â°C).",
-        "In a large skillet, heat olive oil over medium heat.",
-        "Add shrimp and cook for 2-3 minutes until they turn pink.",
-        "In a mixing bowl, combine cooked rice, cream of mushroom soup, garlic powder, salt, and pepper.",
-        "Stir in the cooked shrimp and half of the cheddar cheese.",
-        "Transfer the mixture to a greased casserole dish.",
-        "Top with remaining cheddar cheese and breadcrumbs.",
-        "Bake for 20-25 minutes until bubbly and golden brown."
-    ],
+    "title": "Creamy Shrimp Casserole with Crispy Topping You Gotta Try",
+    "promptIMG": "Professional food photography prompt: \"Creamy shrimp casserole, beautifully presented in a rustic dish, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": false,
+    "description": "Creamy shrimp casserole ready in just 45 minutes! Loaded with tender shrimp, a rich sauce, and a crispy topping. Great for family dinners or cozy nights in. Save this recipe for later!",
+    "hashtags": "#creamyshrimpcasserole #comfortfood #easydinner #seafoodrecipes #familymeals",
+    "difficulty": "Medium",
     "prep_time": 15,
     "cook_time": 30,
-    "total_time": 45,
     "servings": 4,
-    "difficulty": "medium",
-    "tips": "For a richer flavor, consider adding a splash of white wine to the shrimp while cooking. Ensure not to overcook the shrimp to maintain their tenderness.",
+    "ingredients": [
+        "1 pound shrimp, peeled and deveined",
+        "1 cup heavy cream (Organic Valley works great)",
+        "1 cup shredded cheese (I use Tillamook)",
+        "1 cup breadcrumbs (Bob's Red Mill is my go-to)",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 tablespoon lemon juice",
+        "Salt and pepper to taste",
+        "2 tablespoons olive oil"
+    ],
+    "instructions": [
+        "Preheat your oven to 350°F. Get that heat going, you know?",
+        "In a skillet, heat olive oil over medium heat and sauté the onions and garlic until they're soft, about 5 minutes. You want them fragrant.",
+        "Add the shrimp to the skillet and cook until they're pink, about 3-4 minutes. Don't overcook them!",
+        "In a bowl, mix the heavy cream, lemon juice, and cheese. Stir in the shrimp mixture, then season with salt and pepper.",
+        "Pour everything into a baking dish and top with breadcrumbs. Bake for 25 minutes until it's bubbly and golden brown on top. That's the magic part.",
+        "Let it sit for a few minutes before serving. You need that time for the flavors to settle..."
+    ],
+    "tips": "Here are some tips to make this casserole a hit:\n1. Temperature precision: Make sure your oven is properly preheated. It'll ensure even baking and that crispy topping you want.\n2. Common mistake to avoid: Don't skip resting time! Letting it sit for a few minutes helps the casserole firm up and makes serving easier.\n3. Perfect doneness indicator: Look for a bubbly filling and a golden crust on top. If it’s browning too fast, cover it loosely with foil.\n4. Storage & reheating: Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the oven at 350°F for about 15 minutes, or until warmed through.",
+    "image_keywords": [
+        "appetizing",
+        "comforting",
+        "creamy",
+        "shrimp",
+        "baked",
+        "family-friendly"
+    ],
     "structured_content": [
         {
-            "content": "<p>This shrimp casserole is a beloved family recipe that combines the sweetness of shrimp with a creamy, savory sauce. The crispy breadcrumb topping adds the perfect texture, making it a dish that everyone will love. It's not just a meal; it's a warm hug on a plate!<\/p>"
+            "content": "<p>OK you NEED to try this creamy shrimp casserole! It's like a warm hug on a plate, with tender shrimp swimming in a rich, creamy sauce topped with crispy breadcrumbs. Seriously, it's so satisfying and perfect for those chilly nights when you just wanna cozy up with something hearty. The aroma? Totally irresistible.</p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners and entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for meal prep and leftovers<\/li><\/ul>"
+                "content": "<ul><li>30 minutes start to finish. That's it.</li><li>Tastes like you spent hours but you didn't (trust me).</li><li>My picky kid actually finished it (I was shocked!).</li><li>Everything you need is probably in your pantry already.</li><li>Leftovers? Even better the next day.</li><li>Freezes great for meal prep (you'll love that!).</li></ul>"
             }
         },
         {
-            "content": "<p>I remember the first time I made this casserole for my family. The smiles on their faces as they took their first bites were priceless. It's a dish that brings everyone together, and it has become a staple at our family gatherings.<\/p>"
+            "headline": "My Story With This Recipe"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "content": "<p>I first tried this creamy shrimp casserole at my friend Jenny's house last November. It was a chilly evening, and the smell of garlic and shrimp wafted through her kitchen. Jenny said, 'You HAVE to try this!' I took a bite, and wow, it was like a flavor explosion. Now I make it for my family every month. My husband even said, 'This is the best thing you've made!' High praise from him, right?</p>"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh shrimp works best for this recipe; ensure they are peeled and deveined for convenience.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Garlic powder enhances the flavor of the shrimp and the overall dish.<\/li><li><strong>Supporting ingredients:<\/strong> Cream of mushroom soup adds creaminess, while cheddar cheese provides a rich flavor.<\/li><li><strong>Equipment needed:<\/strong> A large skillet and a casserole dish are essential for this recipe.<\/li><\/ul>"
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>First time I made this, I used frozen shrimp. DISASTER. They ended up rubbery and sad. Now I know fresh shrimp makes all the difference because they stay tender and juicy.</p>"
+        },
+        {
+            "headline": "Essential Ingredients & Smart Substitutions"
+        },
+        {
+            "content": "<p><strong>Main ingredient (shrimp):</strong> Fresh shrimp works best for this recipe. Look for ones that smell like the ocean, not fishy. Prep tip: Pat them dry before cooking for better searing.<strong>Key seasonings/aromatics:</strong> Garlic and onion are key for flavor. I like a good amount of garlic (who doesn't?). <strong>Supporting ingredients:</strong> Breadcrumbs add that crispy texture, while heavy cream gives it richness. <strong>Smart substitutions:</strong> You can swap shrimp for chicken or even use a mix of seafood for a different twist. <strong>Equipment needed:</strong> A good skillet and a baking dish are essential for this recipe.</p>"
+        },
+        {
+            "headline": "Step-by-Step Cooking Instructions"
+        },
+        {
+            "content": "<p>Preparation phase: Gather everything before you start. Chop your onions and garlic, and measure out your ingredients. It'll make the process smoother. Cooking process: Start with sautéing the aromatics, then add shrimp till they’re just cooked. Finishing touches: Pour into a baking dish, top with breadcrumbs, and bake till golden and bubbly.</p>"
         },
         {
             "upload": {
-                "context": "A vibrant display of fresh shrimp and other ingredients ready for preparation.",
-                "url": "the-best-shrimp-casserole-recipe\/images\/the-best-shrimp-casserole-recipe_image_1.webp",
-                "fileName": "the-best-shrimp-casserole-recipe_image_1.webp",
-                "type": "main"
-            }
-        },
-        {
-            "headline": "How to Make It"
-        },
-        {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by preheating your oven and preparing your ingredients. Make sure your shrimp are fresh and ready to go.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Cook the shrimp until pink, mix with other ingredients, and layer in the casserole dish. Bake until bubbly.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Let the casserole cool slightly before serving. Garnish with fresh herbs if desired.<\/dd><\/dl>"
-        },
-        {
-            "upload": {
-                "context": "A step-by-step visual of the shrimp being cooked and combined with the other ingredients.",
-                "url": "the-best-shrimp-casserole-recipe\/images\/the-best-shrimp-casserole-recipe_image_2.webp",
-                "fileName": "the-best-shrimp-casserole-recipe_image_2.webp",
-                "type": "process"
+                "context": "Creamy shrimp casserole bubbling in a rustic dish, ready for serving with crispy topping and fresh herbs.",
+                "url": "the-best-shrimp-casserole-recipe/images/the-best-shrimp-casserole-recipe_image_1.webp"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Cook shrimp just until pink to avoid a rubbery texture.<\/li><li>Avoid overbaking; keep an eye on the casserole to ensure it doesn't dry out.<\/li><li>Look for a bubbly, golden top as a sign it's ready.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
+                "label": "Critical Tips You Must Know",
+                "content": "<ul><li><strong>Temperature precision:</strong> Keep an eye on your oven temperature. Too hot, and you might burn the topping.</li><li><strong>Common mistake to avoid:</strong> Overcooking the shrimp will lead to a rubbery texture. Just cook until pink and opaque.</li><li><strong>Perfect doneness indicator:</strong> Look for bubbling edges and a golden crust on top to know it's done.</li><li><strong>Storage & reheating:</strong> Store in an airtight container and reheat at 350°F for about 15 minutes to keep that crispy topping.</li></ul>"
             }
         },
         {
-            "content": "<p>This casserole is perfect for sharing with loved ones. I often make it for potlucks, and it's always a hit. It reminds me of family gatherings where everyone enjoys a hearty meal together.<\/p>"
+            "content": "<p>Sharing this creamy shrimp casserole is always a joy. Family and friends gather around, and the reactions? Priceless! The first spoonful is always met with smiles and 'Wow, what's in this?' It just feels good to serve something that brings people together, you know? The creamy texture and crispy topping create a beautiful contrast that everyone loves...</p>"
         },
         {
-            "headline": "Flavor Boosters"
+            "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Add a sprinkle of paprika or cayenne pepper for a little heat, or mix in some sautÃ©ed vegetables like bell peppers or spinach for added nutrition and flavor.<\/p>"
+            "content": "<p>Want to kick it up a notch? Add fresh herbs like parsley or dill for brightness. Spice it up with a pinch of cayenne or paprika for some heat. Thinking about upgrades? Try adding sun-dried tomatoes or artichokes for a gourmet twist. You can also make it a one-pan meal by tossing in some spinach or bell peppers before baking.</p>"
         },
         {
-            "headline": "Serving Suggestions"
+            "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>This casserole pairs wonderfully with a fresh green salad and a glass of white wine. For a cozy winter meal, serve it with crusty bread.<\/p>"
+            "content": "<p><strong>Side dishes:</strong> A fresh salad pairs beautifully with the creaminess. <strong>Beverage pairings:</strong> A crisp white wine would complement the flavors perfectly. <strong>Bread/starch options:</strong> Serve with crusty bread to soak up all that sauce. <strong>Occasion ideas:</strong> This dish is a hit for family dinners or casual gatherings. <strong>Presentation tips:</strong> Garnish with fresh herbs for a pop of color and freshness. <strong>Temperature serving note:</strong> Serve warm, right from the oven for that comforting feel.</p>"
         },
         {
-            "headline": "Creative Variations"
+            "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>For a gluten-free version, substitute breadcrumbs with crushed gluten-free crackers. You can also use different proteins like chicken or crab for a twist on the classic recipe.<\/p>"
+            "content": "<p><strong>Dietary adaptation 1 (Gluten-Free):</strong> Use gluten-free breadcrumbs instead of regular ones. <strong>Dietary adaptation 2 (Dairy-Free):</strong> Swap heavy cream for coconut cream for a different texture and flavor. <strong>Flavor variation (Spicy):</strong> Add jalapeños for a kick. <strong>Protein/ingredient swap:</strong> Consider using crab or lobster for a more luxurious dish.</p>"
         },
         {
             "upload": {
-                "context": "A beautifully plated shrimp casserole ready to be served, showcasing its golden topping.",
-                "url": "the-best-shrimp-casserole-recipe\/images\/the-best-shrimp-casserole-recipe_image_3.webp",
-                "fileName": "the-best-shrimp-casserole-recipe_image_3.webp",
-                "type": "final"
+                "context": "Delicious creamy shrimp casserole garnished with fresh herbs, served in a rustic dish on a wooden table.",
+                "url": "the-best-shrimp-casserole-recipe/images/the-best-shrimp-casserole-recipe_image_2.webp"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>For a creamy texture, use full-fat cream of mushroom soup.<\/li><li>Let the shrimp marinate in lemon juice for 15 minutes before cooking for extra flavor.<\/li><li>Keep an eye on the baking time to ensure the casserole is perfectly cooked.<\/li><li>Garnish with fresh parsley for a pop of color and freshness.<\/li><\/ul>"
+                "label": "Pro Chef Secrets",
+                "content": "<ul><li><strong>Restaurant technique:</strong> Using a mix of seafood can elevate the dish. <li><strong>Ingredient prep secret:</strong> Sautéing shrimp separately helps retain their texture. <li><strong>Timing strategy:</strong> Prep everything ahead so you can pop it in the oven right when guests arrive. <li><strong>Presentation hack:</strong> Serve in individual ramekins for a fun twist!</li></ul>"
             }
         },
         {
-            "content": "<p>Don't hesitate to try this recipe! It's simple, delicious, and sure to bring joy to your dining table. Cooking should be fun, and this shrimp casserole is a great way to enjoy the process!<\/p>"
+            "content": "<p>Honestly, this creamy shrimp casserole is worth every minute you spend making it. It's comforting, satisfying, and brings everyone together. I can't wait for you to try it! If you do, let me know how it goes in the comments or share your photos on social media. You’ll be low-key obsessed with this recipe!</p>"
         }
     ],
+    "category_id": "cat_1761230594_885",
+    "generation_metadata": {
+        "voice": "Enthusiastic Friend",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-03-01 23:09:00"
+    },
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "the-best-shrimp-casserole-recipe_image_1.webp",
-            "filePath": "recipes\/the-best-shrimp-casserole-recipe\/images\/the-best-shrimp-casserole-recipe_image_1.webp",
-            "relativePath": "the-best-shrimp-casserole-recipe\/images\/the-best-shrimp-casserole-recipe_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "filePath": "recipes/the-best-shrimp-casserole-recipe/images/the-best-shrimp-casserole-recipe_image_1.webp",
+            "relativePath": "the-best-shrimp-casserole-recipe/images/the-best-shrimp-casserole-recipe_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "the-best-shrimp-casserole-recipe_image_2.webp",
-            "filePath": "recipes\/the-best-shrimp-casserole-recipe\/images\/the-best-shrimp-casserole-recipe_image_2.webp",
-            "relativePath": "the-best-shrimp-casserole-recipe\/images\/the-best-shrimp-casserole-recipe_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "filePath": "recipes/the-best-shrimp-casserole-recipe/images/the-best-shrimp-casserole-recipe_image_2.webp",
+            "relativePath": "the-best-shrimp-casserole-recipe/images/the-best-shrimp-casserole-recipe_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2,
             "type": "process"
         },
         {
             "fileName": "the-best-shrimp-casserole-recipe_image_3.webp",
-            "filePath": "recipes\/the-best-shrimp-casserole-recipe\/images\/the-best-shrimp-casserole-recipe_image_3.webp",
-            "relativePath": "the-best-shrimp-casserole-recipe\/images\/the-best-shrimp-casserole-recipe_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "filePath": "recipes/the-best-shrimp-casserole-recipe/images/the-best-shrimp-casserole-recipe_image_3.webp",
+            "relativePath": "the-best-shrimp-casserole-recipe/images/the-best-shrimp-casserole-recipe_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3,
             "type": "final"
         },
         {
-            "fileName": "the-best-shrimp-casserole-recipe_image_4.webp",
-            "filePath": "recipes\/the-best-shrimp-casserole-recipe\/images\/the-best-shrimp-casserole-recipe_image_4.webp",
-            "relativePath": "the-best-shrimp-casserole-recipe\/images\/the-best-shrimp-casserole-recipe_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/the-best-shrimp-casserole-recipe\/images\/the-best-shrimp-casserole-recipe_image_4.webp",
+            "fileName": "the-best-shrimp-casserole-recipe_pinrecipes_image_4.webp",
+            "filePath": "recipes/the-best-shrimp-casserole-recipe/images/the-best-shrimp-casserole-recipe_pinrecipes_image_4.webp",
+            "relativePath": "the-best-shrimp-casserole-recipe/images/the-best-shrimp-casserole-recipe_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/recipes/the-best-shrimp-casserole-recipe/images/the-best-shrimp-casserole-recipe_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "the-best-shrimp-casserole-recipe",
+    "id": "text_recipe_1762204635_904",
     "image": "the-best-shrimp-casserole-recipe_image_1.webp",
-    "image_path": "recipes\/the-best-shrimp-casserole-recipe\/images\/the-best-shrimp-casserole-recipe_image_1.webp",
-    "image_dir": "the-best-shrimp-casserole-recipe\/images",
+    "image_path": "recipes/the-best-shrimp-casserole-recipe/images/the-best-shrimp-casserole-recipe_image_1.webp",
+    "image_dir": "the-best-shrimp-casserole-recipe/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-11-03T22:17:15+01:00",
-    "updatedAt": "2025-11-03T22:17:15+01:00"
+    "updatedAt": "2026-03-01T23:09:00+01:00"
 }
