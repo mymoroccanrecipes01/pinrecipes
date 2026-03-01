@@ -38,15 +38,15 @@
                 pages: 'all',
                 className: 'ad-after-description',
             },
-            // {
-            //     slot: '4055138220',
-            //     selector: '.recipe-story .story-section',
-            //     position: 'after',
-            //     format: 'in-article',
-            //     pages: 'all',
-            //     nthChild: '1/3',
-            //     className: 'ad-in-article',
-            // }
+            {
+                slot: '4055138220',
+                selector: '.recipe-story .story-section',
+                position: 'after',
+                format: 'in-article',
+                pages: 'all',
+                nthChild: '1/3',
+                className: 'ad-in-article',
+            }
             // {
             //     slot: '4055138220',
             //     selector: '.recipe-story .story-section',
