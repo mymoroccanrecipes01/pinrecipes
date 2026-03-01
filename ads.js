@@ -139,6 +139,7 @@
         var label = document.createElement('span');
         label.className = 'ad-label';
         label.textContent = 'Advertisement';
+        label.style.display = 'none'; // Hidden until ad loads
 
         var adIns = document.createElement('ins');
         adIns.className = 'adsbygoogle';
@@ -158,6 +159,12 @@
             adIns.setAttribute('data-full-width-responsive', 'true');
         }
 
+        new MutationObserver(function(_, obs) {
+            if (adIns.getAttribute('data-ad-status') === 'filled') {
+                label.style.display = '';
+                obs.disconnect();
+            }
+        }).observe(adIns, { attributes: true, attributeFilter: ['data-ad-status'] });
         container.appendChild(label);
         container.appendChild(adIns);
         return container;
