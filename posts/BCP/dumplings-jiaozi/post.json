@@ -1,0 +1,162 @@
+{
+    "id": "text_recipe_1761239052_904",
+    "slug": "dumplings-jiaozi",
+    "title": "Dumplings (Jiaozi)",
+    "promptIMG": "Dumplings (Jiaozi), on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "These homemade dumplings are a delightful blend of savory pork and fresh vegetables, wrapped in tender dough. Perfect for sharing, they bring warmth and comfort to any meal.",
+    "category_id": "cat_1761230072_178",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound ground pork",
+        "2 cups napa cabbage, finely chopped",
+        "2 green onions, minced",
+        "2 tablespoons soy sauce",
+        "1 tablespoon sesame oil",
+        "Ginger, minced",
+        "Garlic, minced",
+        "Dumpling wrappers (store-bought or homemade)",
+        "Dipping sauce: soy sauce, vinegar, chili oil"
+    ],
+    "instructions": [
+        "Salt the cabbage and let it sit for 10 minutes, then squeeze out the moisture.",
+        "In a bowl, mix the ground pork, cabbage, green onions, soy sauce, sesame oil, ginger, and garlic until well combined.",
+        "Place a spoonful of filling in the center of each dumpling wrapper.",
+        "Fold and pleat the edges of the wrapper to seal the dumpling.",
+        "Boil, steam, or pan-fry the dumplings for 6-8 minutes until cooked through.",
+        "Serve with a dipping sauce made of soy sauce, vinegar, and chili oil."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "medium",
+    "tips": "For perfect dumplings, ensure the filling is well-seasoned and the wrappers are sealed tightly to prevent leaks during cooking.",
+    "structured_content": [
+        {
+            "content": "<p>Dumplings, or Jiaozi, are a beloved dish in many cultures, known for their comforting flavors and versatility. These little pockets of joy can be filled with various ingredients, but the classic combination of pork and vegetables is always a winner. Whether boiled, steamed, or pan-fried, they are sure to impress your family and friends.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1.5 hours<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners and entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customizable filling options for everyone’s taste<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made dumplings with my grandmother. The kitchen was filled with laughter and the delicious aroma of ginger and garlic. It became a cherished family tradition that I now pass on to my children.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Ground pork is ideal for its rich flavor and tenderness; choose a good quality meat for the best results.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Soy sauce and sesame oil add depth; look for low-sodium soy sauce for a healthier option.<\/li><li><strong>Supporting ingredients:<\/strong> Napa cabbage and green onions provide freshness and crunch, balancing the richness of the pork.<\/li><li><strong>Equipment needed:<\/strong> A large mixing bowl, a rolling pin for homemade wrappers, and a steamer or skillet for cooking.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "",
+                "url": "dumplings-jiaozi\/images\/dumplings-jiaozi_image_1.webp",
+                "fileName": "dumplings-jiaozi_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by salting the cabbage to draw out moisture, which enhances the filling's flavor.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Follow the instructions to fill and seal the dumplings, then choose your cooking method: boiling, steaming, or pan-frying.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Serve the dumplings hot with a side of dipping sauce for an extra kick.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Short description for the alt image of the cooking process.",
+                "url": "dumplings-jiaozi\/images\/dumplings-jiaozi_image_2.webp",
+                "fileName": "dumplings-jiaozi_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Ensure the filling is well-seasoned for maximum flavor.<\/li><li>A common mistake is overfilling the dumplings, which can cause them to burst.<\/li><li>Cook until the dumplings are tender and the filling is cooked through; they should be firm but not tough.<\/li><li>Store leftovers in an airtight container in the fridge and reheat gently to avoid drying out.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing these dumplings with family brings back memories of laughter and love. They are not just food; they are a way to connect and celebrate togetherness.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding chopped mushrooms or water chestnuts for extra texture, or try different proteins like chicken or tofu for a twist on the traditional recipe.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair these dumplings with a light salad or steamed vegetables for a complete meal. They also go well with a refreshing drink like iced tea or a light beer.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, use rice wrappers instead of traditional dumpling wrappers. You can also experiment with vegetarian fillings using mushrooms, tofu, or a mix of vegetables.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Short description for the alt image of the final plated dish or variation.",
+                "url": "dumplings-jiaozi\/images\/dumplings-jiaozi_image_3.webp",
+                "fileName": "dumplings-jiaozi_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For restaurant-quality dumplings, ensure your filling is well-mixed and flavorful.<\/li><li>Chill the filling before wrapping to make it easier to handle.<\/li><li>Timing is key; don’t overcook the dumplings to maintain their delicate texture.<\/li><li>Garnish with chopped green onions or sesame seeds for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't be intimidated by making dumplings! With a little practice, you'll find joy in creating these delicious bites that bring people together. Enjoy the process and the delicious results!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "dumplings-jiaozi_image_1.webp",
+            "filePath": "posts\/dumplings-jiaozi\/images\/dumplings-jiaozi_image_1.webp",
+            "relativePath": "dumplings-jiaozi\/images\/dumplings-jiaozi_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "dumplings-jiaozi_image_2.webp",
+            "filePath": "posts\/dumplings-jiaozi\/images\/dumplings-jiaozi_image_2.webp",
+            "relativePath": "dumplings-jiaozi\/images\/dumplings-jiaozi_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "dumplings-jiaozi_image_3.webp",
+            "filePath": "posts\/dumplings-jiaozi\/images\/dumplings-jiaozi_image_3.webp",
+            "relativePath": "dumplings-jiaozi\/images\/dumplings-jiaozi_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "dumplings-jiaozi_image_4.webp",
+            "filePath": "posts\/dumplings-jiaozi\/images\/dumplings-jiaozi_image_4.webp",
+            "relativePath": "dumplings-jiaozi\/images\/dumplings-jiaozi_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/dumplings-jiaozi\/images\/dumplings-jiaozi_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "dumplings-jiaozi_image_1.webp",
+    "image_path": "posts\/dumplings-jiaozi\/images\/dumplings-jiaozi_image_1.webp",
+    "image_dir": "dumplings-jiaozi\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-23T19:04:12+02:00",
+    "updatedAt": "2025-10-23T19:04:12+02:00"
+}

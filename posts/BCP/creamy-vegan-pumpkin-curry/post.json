@@ -1,0 +1,164 @@
+{
+    "id": "text_recipe_1761679992_596",
+    "slug": "creamy-vegan-pumpkin-curry",
+    "title": "Creamy Vegan Pumpkin Curry",
+    "promptIMG": "Creamy vegan pumpkin curry, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in this creamy vegan pumpkin curry that brings warmth and comfort to your table. Packed with fresh vegetables and spices, it's a delightful dish that is both healthy and satisfying.",
+    "category_id": "cat_1761230594_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 cups pumpkin purée (fresh or canned)",
+        "1 tablespoon coconut oil",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 tablespoon ginger, grated",
+        "1 bell pepper, diced",
+        "1 cup spinach",
+        "1 can coconut milk",
+        "2 teaspoons curry powder",
+        "1 teaspoon cumin",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "Heat coconut oil in a large pot over medium heat.",
+        "Add chopped onion, garlic, and ginger, and sauté until fragrant.",
+        "Stir in the bell pepper and cook for another 3-4 minutes.",
+        "Add the pumpkin purée, coconut milk, curry powder, cumin, salt, and pepper, and mix well.",
+        "Bring to a simmer and cook for 15-20 minutes, stirring occasionally.",
+        "Fold in the spinach just before serving until wilted."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "medium",
+    "tips": "For a richer flavor, let the curry simmer longer and adjust spices to your taste.",
+    "structured_content": [
+        {
+            "content": "<p>This creamy vegan pumpkin curry is a delightful fusion of flavors that warms the soul. The combination of spices and the richness of coconut milk create a comforting dish that's perfect for any occasion.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Perfect for cozy weeknight dinners<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Nutritious and satisfying for the whole family<\/li><li>Can be made in an Instant Pot for added convenience<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this curry; the aroma filled my kitchen, and my family couldn't wait to dig in. It's become a staple in our home, especially during the cooler months.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Pumpkin purée adds creaminess and a subtle sweetness that balances the spices perfectly.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Curry powder and cumin are essential for that warm, aromatic flavor profile.<\/li><li><strong>Supporting ingredients:<\/strong> Spinach adds color and nutrients, while coconut milk provides richness.<\/li><li><strong>Equipment needed:<\/strong> A large pot or Instant Pot for cooking.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of fresh vegetables and pumpkin purée ready for cooking, highlighting the colorful ingredients.",
+                "url": "creamy-vegan-pumpkin-curry\/images\/creamy-vegan-pumpkin-curry_image_1.webp",
+                "fileName": "creamy-vegan-pumpkin-curry_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Chop the onion, garlic, ginger, and bell pepper. Measure out the spices and coconut milk.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Follow the step-by-step instructions to sauté, mix, and simmer the ingredients until perfectly blended.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Serve hot, garnished with fresh herbs if desired, and enjoy the creamy texture.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "The cooking process of the pumpkin curry, showcasing the vibrant colors and creamy texture as it simmers.",
+                "url": "creamy-vegan-pumpkin-curry\/images\/creamy-vegan-pumpkin-curry_image_2.webp",
+                "fileName": "creamy-vegan-pumpkin-curry_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Simmering the curry longer enhances the flavors.<\/li><li>Avoid overcooking the spinach to retain its vibrant color.<\/li><li>When the curry thickens and is fragrant, it's ready to serve.<\/li><li>Store leftovers in an airtight container for up to 3 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This dish is a family favorite, and I love sharing it with friends during gatherings. It's always a hit, and everyone leaves with a smile and a full belly.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>For an extra kick, add a pinch of red pepper flakes or a splash of lime juice to brighten the flavors. Fresh cilantro as a garnish can also elevate the dish.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This curry pairs wonderfully with steamed rice or quinoa. A side of naan or a fresh salad complements it perfectly for a complete meal.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, ensure your curry powder is certified gluten-free. You can also swap in other vegetables like carrots or peas for variety.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated dish of creamy pumpkin curry, garnished and ready to serve, showcasing its vibrant colors.",
+                "url": "creamy-vegan-pumpkin-curry\/images\/creamy-vegan-pumpkin-curry_image_3.webp",
+                "fileName": "creamy-vegan-pumpkin-curry_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use fresh pumpkin for a more intense flavor.<\/li><li>Let the spices bloom in the oil for maximum flavor.<\/li><li>Keep an eye on the curry to prevent it from sticking to the pot.<\/li><li>Serve in a colorful bowl for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe! It's simple, delicious, and will surely become a beloved dish in your home.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "creamy-vegan-pumpkin-curry_image_1.webp",
+            "filePath": "posts\/creamy-vegan-pumpkin-curry\/images\/creamy-vegan-pumpkin-curry_image_1.webp",
+            "relativePath": "creamy-vegan-pumpkin-curry\/images\/creamy-vegan-pumpkin-curry_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-vegan-pumpkin-curry_image_2.webp",
+            "filePath": "posts\/creamy-vegan-pumpkin-curry\/images\/creamy-vegan-pumpkin-curry_image_2.webp",
+            "relativePath": "creamy-vegan-pumpkin-curry\/images\/creamy-vegan-pumpkin-curry_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "creamy-vegan-pumpkin-curry_image_3.webp",
+            "filePath": "posts\/creamy-vegan-pumpkin-curry\/images\/creamy-vegan-pumpkin-curry_image_3.webp",
+            "relativePath": "creamy-vegan-pumpkin-curry\/images\/creamy-vegan-pumpkin-curry_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "creamy-vegan-pumpkin-curry_image_4.webp",
+            "filePath": "posts\/creamy-vegan-pumpkin-curry\/images\/creamy-vegan-pumpkin-curry_image_4.webp",
+            "relativePath": "creamy-vegan-pumpkin-curry\/images\/creamy-vegan-pumpkin-curry_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/creamy-vegan-pumpkin-curry\/images\/creamy-vegan-pumpkin-curry_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "creamy-vegan-pumpkin-curry_image_1.webp",
+    "image_path": "posts\/creamy-vegan-pumpkin-curry\/images\/creamy-vegan-pumpkin-curry_image_1.webp",
+    "image_dir": "creamy-vegan-pumpkin-curry\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-28T20:33:12+01:00",
+    "updatedAt": "2025-10-28T20:33:12+01:00"
+}

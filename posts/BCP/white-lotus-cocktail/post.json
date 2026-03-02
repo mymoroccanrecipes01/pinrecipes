@@ -1,0 +1,157 @@
+{
+    "id": "text_recipe_1762111248_705",
+    "slug": "white-lotus-cocktail",
+    "title": "White Lotus Cocktail",
+    "promptIMG": "A descriptive prompt for generating an appetizing image of the finished dish, base in the prompt : \"White Lotus Cocktail, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300\"",
+    "isOnline": false,
+    "description": "Experience the refreshing and vibrant flavors of the White Lotus Cocktail, a delightful blend that will transport you to a tropical paradise. Perfect for any occasion, this cocktail is sure to impress your guests and elevate your gatherings.",
+    "category_id": "cat_1761230072_178",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 ounces vodka",
+        "1 ounce elderflower liqueur",
+        "1 ounce fresh lime juice",
+        "2 ounces coconut water",
+        "Ice",
+        "Lime wheel and mint sprig for garnish"
+    ],
+    "instructions": [
+        "In a cocktail shaker, combine vodka, elderflower liqueur, fresh lime juice, and coconut water.",
+        "Fill the shaker with ice and shake well until chilled.",
+        "Strain the mixture into two glasses filled with ice.",
+        "Garnish with a lime wheel and a sprig of mint."
+    ],
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "servings": 2,
+    "difficulty": "easy",
+    "tips": "For the best flavor, use fresh lime juice and high-quality vodka. Experiment with different garnishes like edible flowers for a stunning presentation.",
+    "structured_content": [
+        {
+            "content": "<p>The White Lotus Cocktail is a refreshing drink that combines the floral notes of elderflower with the tropical essence of coconut water. This cocktail is perfect for summer gatherings or a cozy evening at home, bringing a taste of paradise to your glass.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 10 minutes<\/li><li>Bright and refreshing flavors that delight the palate<\/li><li>Perfect for summer parties, brunches, or relaxing evenings<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customizable with different fruits and herbs for a unique twist<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This cocktail reminds me of a summer vacation spent on the beach, where the sun kissed my skin and the sound of the waves provided the perfect soundtrack. Sharing this drink with friends brings back those joyful memories.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Vodka is the base spirit, providing a smooth foundation for the cocktail. Choose a quality brand for the best flavor.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Elderflower liqueur adds a floral sweetness that balances the tartness of lime.<\/li><li><strong>Supporting ingredients:<\/strong> Coconut water offers a refreshing twist and hydrates, making this cocktail light and enjoyable.<\/li><li><strong>Equipment needed:<\/strong> A cocktail shaker is essential for mixing and chilling the ingredients properly.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation.",
+                "url": "white-lotus-cocktail\/images\/white-lotus-cocktail_image_1.webp",
+                "fileName": "white-lotus-cocktail_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Gather all ingredients and equipment. Measure out the vodka, elderflower liqueur, lime juice, and coconut water.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Combine all ingredients in a shaker with ice. Shake vigorously until well chilled, then strain into glasses.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with a lime wheel and mint sprig for a beautiful presentation.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the cooking process.",
+                "url": "white-lotus-cocktail\/images\/white-lotus-cocktail_image_2.webp",
+                "fileName": "white-lotus-cocktail_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Shake the cocktail well to ensure it is properly chilled and mixed.<\/li><li>A common mistake is over-shaking, which can dilute the flavors.<\/li><li>Look for a frosty appearance on the shaker as a cue that it's ready to serve.<\/li><li>This cocktail is best enjoyed fresh but can be stored in the fridge for a few hours.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this cocktail with friends during a warm evening brings joy and laughter, making it a staple for gatherings. It's a drink that sparks conversation and creates lasting memories.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Enhance the cocktail by adding fresh fruit like strawberries or mangoes, or infuse the vodka with herbs like basil or rosemary for an aromatic twist.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair this cocktail with light appetizers like shrimp cocktails or fresh salads for a perfect summer meal. It also goes well with tropical-themed dishes.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a non-alcoholic version, replace vodka with additional coconut water and add a splash of sparkling water for fizz. You can also try using different flavored liqueurs to create your own signature drink.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
+                "url": "white-lotus-cocktail\/images\/white-lotus-cocktail_image_3.webp",
+                "fileName": "white-lotus-cocktail_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a cocktail strainer to ensure a smooth pour without ice shards.<\/li><li>Chill your glasses beforehand for an extra refreshing experience.<\/li><li>Timing is key; serve immediately after shaking for the best flavor.<\/li><li>Consider using a colorful straw or decorative garnish for an impressive appearance.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try making this cocktail at home! With its vibrant flavors and easy preparation, you'll feel like a mixologist in no time. Enjoy the satisfaction of crafting a delightful drink that everyone will love.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "white-lotus-cocktail_image_1.webp",
+            "filePath": "posts\/white-lotus-cocktail\/images\/white-lotus-cocktail_image_1.webp",
+            "relativePath": "white-lotus-cocktail\/images\/white-lotus-cocktail_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "white-lotus-cocktail_image_2.webp",
+            "filePath": "posts\/white-lotus-cocktail\/images\/white-lotus-cocktail_image_2.webp",
+            "relativePath": "white-lotus-cocktail\/images\/white-lotus-cocktail_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "white-lotus-cocktail_image_3.webp",
+            "filePath": "posts\/white-lotus-cocktail\/images\/white-lotus-cocktail_image_3.webp",
+            "relativePath": "white-lotus-cocktail\/images\/white-lotus-cocktail_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "white-lotus-cocktail_image_4.webp",
+            "filePath": "posts\/white-lotus-cocktail\/images\/white-lotus-cocktail_image_4.webp",
+            "relativePath": "white-lotus-cocktail\/images\/white-lotus-cocktail_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/white-lotus-cocktail\/images\/white-lotus-cocktail_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "white-lotus-cocktail_image_1.webp",
+    "image_path": "posts\/white-lotus-cocktail\/images\/white-lotus-cocktail_image_1.webp",
+    "image_dir": "white-lotus-cocktail\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T20:20:48+01:00",
+    "updatedAt": "2025-11-02T20:20:48+01:00"
+}

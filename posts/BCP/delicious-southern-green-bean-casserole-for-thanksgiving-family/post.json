@@ -1,0 +1,156 @@
+{
+    "id": "recipe_1762794840_723",
+    "slug": "delicious-southern-green-bean-casserole-for-thanksgiving-family",
+    "title": "Delicious Southern Green Bean Casserole for Thanksgiving Family",
+    "promptIMG": "Southern green bean casserole, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This Southern Green Bean Casserole is the ultimate comfort dish for your Thanksgiving feast. Its creamy texture and rich flavors make it a standout at any gathering. Try this recipe to elevate your holiday table!",
+    "category_id": "cat_1761230594_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 pounds fresh green beans, trimmed",
+        "1 can cream of mushroom soup",
+        "1 cup milk",
+        "1 cup crispy fried onions",
+        "1 teaspoon garlic powder",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "Preheat your oven to 350°F (175°C).",
+        "Blanch the green beans in boiling water for 5 minutes, then drain and set aside.",
+        "In a large bowl, mix the cream of mushroom soup, milk, garlic powder, salt, and pepper.",
+        "Add the blanched green beans to the mixture and stir until well combined.",
+        "Transfer the mixture to a baking dish and top with crispy fried onions.",
+        "Bake for 25-30 minutes until bubbly and golden brown."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 6,
+    "difficulty": "easy",
+    "tips": "For a richer flavor, consider adding some grated cheese on top before baking.",
+    "structured_content": [
+        {
+            "content": "<p>This Southern Green Bean Casserole is a classic dish that brings warmth and comfort to any Thanksgiving table. With its creamy sauce and crispy topping, it's sure to be a crowd-pleaser!<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Rich, creamy flavors that everyone loves<\/li><li>Perfect for Thanksgiving gatherings and family dinners<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Can be made ahead and baked just before serving<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember my grandmother making this casserole every Thanksgiving, and it always brought the family together. The aroma alone is enough to make anyone feel at home.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh green beans are best for a vibrant color and crisp texture.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Garlic powder adds depth; adjust to taste.<\/li><li><strong>Supporting ingredients:<\/strong> Cream of mushroom soup provides creaminess, while crispy fried onions give a delightful crunch.<\/li><li><strong>Equipment needed:<\/strong> A large mixing bowl, baking dish, and a pot for blanching.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the ingredients preparation.",
+                "url": "delicious-southern-green-bean-casserole-for-thanksgiving-family\/images\/delicious-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
+                "fileName": "delicious-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Blanch green beans for 5 minutes to keep them vibrant and tender.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Combine all ingredients, transfer to a baking dish, and bake until golden.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Let it cool slightly before serving to allow flavors to meld.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the cooking process.",
+                "url": "delicious-southern-green-bean-casserole-for-thanksgiving-family\/images\/delicious-southern-green-bean-casserole-for-thanksgiving-family_image_2.webp",
+                "fileName": "delicious-southern-green-bean-casserole-for-thanksgiving-family_image_2.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Blanching the beans prevents them from becoming mushy.<\/li><li>A common mistake is overcooking the beans; they should remain crisp.<\/li><li>Look for a bubbly, golden top to know it's ready.<\/li><li>Store leftovers in the fridge for up to 3 days and reheat in the oven.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this dish with family during the holidays is always a joy, as it brings back cherished memories and creates new ones.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>For an extra kick, try adding some cooked bacon or a sprinkle of cheese on top before baking.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This casserole pairs beautifully with roasted turkey, mashed potatoes, and cranberry sauce for a complete Thanksgiving meal.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegetarian twist, substitute the cream of mushroom soup with a homemade version using vegetable broth.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the final plated dish or variation.",
+                "url": "delicious-southern-green-bean-casserole-for-thanksgiving-family\/images\/delicious-southern-green-bean-casserole-for-thanksgiving-family_image_3.webp",
+                "fileName": "delicious-southern-green-bean-casserole-for-thanksgiving-family_image_3.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use fresh ingredients for the best flavor.<\/li><li>Mix in some parmesan cheese for an extra layer of flavor.<\/li><li>Keep an eye on the baking time to avoid burning the topping.<\/li><li>Garnish with fresh herbs for a pop of color.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Enjoy making this delightful casserole and watch it become a beloved tradition at your holiday gatherings!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "delicious-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
+            "filePath": "posts\/delicious-southern-green-bean-casserole-for-thanksgiving-family\/images\/delicious-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
+            "relativePath": "delicious-southern-green-bean-casserole-for-thanksgiving-family\/images\/delicious-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "delicious-southern-green-bean-casserole-for-thanksgiving-family_image_2.webp",
+            "filePath": "posts\/delicious-southern-green-bean-casserole-for-thanksgiving-family\/images\/delicious-southern-green-bean-casserole-for-thanksgiving-family_image_2.webp",
+            "relativePath": "delicious-southern-green-bean-casserole-for-thanksgiving-family\/images\/delicious-southern-green-bean-casserole-for-thanksgiving-family_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "delicious-southern-green-bean-casserole-for-thanksgiving-family_image_3.webp",
+            "filePath": "posts\/delicious-southern-green-bean-casserole-for-thanksgiving-family\/images\/delicious-southern-green-bean-casserole-for-thanksgiving-family_image_3.webp",
+            "relativePath": "delicious-southern-green-bean-casserole-for-thanksgiving-family\/images\/delicious-southern-green-bean-casserole-for-thanksgiving-family_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "delicious-southern-green-bean-casserole-for-thanksgiving-family_image_4.webp",
+            "filePath": "posts\/delicious-southern-green-bean-casserole-for-thanksgiving-family\/images\/delicious-southern-green-bean-casserole-for-thanksgiving-family_image_4.webp",
+            "relativePath": "delicious-southern-green-bean-casserole-for-thanksgiving-family\/images\/delicious-southern-green-bean-casserole-for-thanksgiving-family_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/delicious-southern-green-bean-casserole-for-thanksgiving-family\/images\/delicious-southern-green-bean-casserole-for-thanksgiving-family_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "delicious-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
+    "image_path": "posts\/delicious-southern-green-bean-casserole-for-thanksgiving-family\/images\/delicious-southern-green-bean-casserole-for-thanksgiving-family_image_1.webp",
+    "image_dir": "delicious-southern-green-bean-casserole-for-thanksgiving-family\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-13T11:58:52+01:00",
+    "updatedAt": "2025-11-13T11:58:52+01:00"
+}

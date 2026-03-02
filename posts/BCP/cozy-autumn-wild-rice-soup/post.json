@@ -1,0 +1,162 @@
+{
+    "id": "text_recipe_1761328725_915",
+    "slug": "cozy-autumn-wild-rice-soup",
+    "title": "Cozy Autumn Wild Rice Soup",
+    "promptIMG": "Cozy Autumn Wild Rice Soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Embrace the flavors of fall with this hearty and comforting wild rice soup. Perfect for chilly evenings, it combines butternut squash, mushrooms, and a touch of autumn spice to warm your soul.",
+    "category_id": "cat_1761230166_734",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 cup wild rice",
+        "4 cups vegetable broth",
+        "1 medium butternut squash, peeled and diced",
+        "1 cup mushrooms, sliced",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 teaspoon dried thyme",
+        "1 teaspoon dried sage",
+        "Salt and pepper to taste",
+        "2 tablespoons olive oil"
+    ],
+    "instructions": [
+        "In a large pot, heat olive oil over medium heat. Add onion and garlic, sauté until softened.",
+        "Add butternut squash and mushrooms, cooking for about 5 minutes until they begin to soften.",
+        "Stir in wild rice, vegetable broth, thyme, sage, salt, and pepper.",
+        "Bring to a boil, then reduce heat and simmer for about 1 hour, or until rice is tender.",
+        "Adjust seasoning as needed and serve warm."
+    ],
+    "prep_time": 15,
+    "cook_time": 90,
+    "total_time": 105,
+    "servings": 6,
+    "difficulty": "medium",
+    "tips": "For the best flavor, allow the soup to sit for a few hours or overnight in the fridge before serving.",
+    "structured_content": [
+        {
+            "content": "<p>This Cozy Autumn Wild Rice Soup is a delightful way to celebrate the flavors of fall. With its rich, warming ingredients like butternut squash and earthy mushrooms, it's a dish that not only nourishes but also comforts during chilly evenings.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 90 minutes<\/li><li>Vegan-friendly and packed with nutrients<\/li><li>Perfect for cozy weeknight dinners or gatherings<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Can be made ahead for easy meal prep<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This soup reminds me of family gatherings in the fall, where we would gather around the table, sharing stories and laughter over a warm bowl of soup.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Wild rice adds a nutty flavor and chewy texture, making it perfect for soups.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Thyme and sage bring a warm, earthy aroma that complements the squash.<\/li><li><strong>Supporting ingredients:<\/strong> Butternut squash adds sweetness and creaminess, while mushrooms provide depth of flavor.<\/li><li><strong>Equipment needed:<\/strong> A large pot for cooking and a sharp knife for chopping.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of fresh vegetables and wild rice prepared for the soup, showcasing the ingredients' colors and textures.",
+                "url": "cozy-autumn-wild-rice-soup\/images\/cozy-autumn-wild-rice-soup_image_1.webp",
+                "fileName": "cozy-autumn-wild-rice-soup_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Rinse the wild rice under cold water. Peel and dice the butternut squash, chop the onion, and slice the mushrooms.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Follow the step-by-step instructions to sauté the vegetables, add the rice and broth, and simmer until cooked.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Adjust seasoning to taste and serve hot, garnished with fresh herbs if desired.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Capturing the cooking process of the soup, highlighting the vibrant colors and textures as ingredients meld together.",
+                "url": "cozy-autumn-wild-rice-soup\/images\/cozy-autumn-wild-rice-soup_image_2.webp",
+                "fileName": "cozy-autumn-wild-rice-soup_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Simmering the soup longer enhances the flavors.<\/li><li>Avoid overcooking the vegetables to maintain their texture.<\/li><li>The soup is ready when the wild rice is tender and has split open.<\/li><li>Store leftovers in the fridge for up to 3 days; reheat gently on the stove.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This soup has become a family favorite, often served during our autumn gatherings, bringing warmth and joy to our table.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding a splash of coconut milk for creaminess, or a pinch of red pepper flakes for a hint of heat.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve with crusty bread or a fresh salad for a complete meal. Pair with a light white wine for a delightful dining experience.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, ensure the wild rice is certified gluten-free. You can also swap in different seasonal vegetables like carrots or kale.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated bowl of Cozy Autumn Wild Rice Soup, showcasing its vibrant colors and inviting presentation.",
+                "url": "cozy-autumn-wild-rice-soup\/images\/cozy-autumn-wild-rice-soup_image_3.webp",
+                "fileName": "cozy-autumn-wild-rice-soup_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Toast the wild rice before cooking for enhanced flavor.<\/li><li>Chop vegetables uniformly for even cooking.<\/li><li>Check the rice for doneness; it should be tender but not mushy.<\/li><li>Garnish with fresh herbs for an impressive look.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this comforting soup; it's a delightful way to bring the flavors of fall into your home and create lasting memories.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "cozy-autumn-wild-rice-soup_image_1.webp",
+            "filePath": "posts\/cozy-autumn-wild-rice-soup\/images\/cozy-autumn-wild-rice-soup_image_1.webp",
+            "relativePath": "cozy-autumn-wild-rice-soup\/images\/cozy-autumn-wild-rice-soup_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-autumn-wild-rice-soup_image_2.webp",
+            "filePath": "posts\/cozy-autumn-wild-rice-soup\/images\/cozy-autumn-wild-rice-soup_image_2.webp",
+            "relativePath": "cozy-autumn-wild-rice-soup\/images\/cozy-autumn-wild-rice-soup_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "cozy-autumn-wild-rice-soup_image_3.webp",
+            "filePath": "posts\/cozy-autumn-wild-rice-soup\/images\/cozy-autumn-wild-rice-soup_image_3.webp",
+            "relativePath": "cozy-autumn-wild-rice-soup\/images\/cozy-autumn-wild-rice-soup_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "cozy-autumn-wild-rice-soup_image_4.webp",
+            "filePath": "posts\/cozy-autumn-wild-rice-soup\/images\/cozy-autumn-wild-rice-soup_image_4.webp",
+            "relativePath": "cozy-autumn-wild-rice-soup\/images\/cozy-autumn-wild-rice-soup_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/cozy-autumn-wild-rice-soup\/images\/cozy-autumn-wild-rice-soup_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "cozy-autumn-wild-rice-soup_image_1.webp",
+    "image_path": "posts\/cozy-autumn-wild-rice-soup\/images\/cozy-autumn-wild-rice-soup_image_1.webp",
+    "image_dir": "cozy-autumn-wild-rice-soup\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-24T19:58:45+02:00",
+    "updatedAt": "2025-10-24T19:58:45+02:00"
+}

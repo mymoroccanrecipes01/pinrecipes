@@ -5,8 +5,8 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // Fonctionnalités spécifiques à la page des recettes
-window.initRecipesPageFeatures = function() {
-   // // console.log('Initialisation des fonctionnalités de la page Recipes');
+window.initpostsPageFeatures = function() {
+   // // console.log('Initialisation des fonctionnalités de la page posts');
     
     // Filtres de recettes
     const filterBtns = document.querySelectorAll('.filter-btn');
@@ -21,7 +21,7 @@ window.initRecipesPageFeatures = function() {
                 this.classList.add('active');
                 
                 const filter = this.getAttribute('data-filter');
-                filterRecipes(filter, recipeCards);
+                filterposts(filter, recipeCards);
             });
         });
     }
@@ -39,7 +39,7 @@ window.initRecipesPageFeatures = function() {
 };
 
 // Filtrer les recettes par catégorie
-function filterRecipes(category, cards) {
+function filterposts(category, cards) {
     let visibleCount = 0;
     
     cards.forEach(card => {

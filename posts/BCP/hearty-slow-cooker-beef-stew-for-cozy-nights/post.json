@@ -1,0 +1,103 @@
+{
+    "id": "recipe_1768146668_885",
+    "slug": "hearty-slow-cooker-beef-stew-for-cozy-nights",
+    "title": "Hearty Slow Cooker Beef Stew for Cozy Nights",
+    "promptIMG": "Food photography: beef stew, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": true,
+    "description": "This comforting beef stew is a warm hug in a bowl. With tender meat and rich flavors, it’s perfect for chilly evenings. Just set it and forget it in your slow cooker!",
+    "category_id": "cat_1761229889_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 pounds beef chuck, cut into 1-inch cubes",
+        "4 medium carrots, sliced",
+        "3 medium potatoes, diced",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "4 cups beef broth",
+        "2 tablespoons tomato paste",
+        "1 teaspoon dried thyme",
+        "1 bay leaf",
+        "Salt and pepper to taste",
+        "2 tablespoons olive oil"
+    ],
+    "instructions": [
+        "In a large skillet, heat olive oil over medium-high heat. Season beef with salt and pepper, then brown in batches for about 5 minutes until nicely seared.",
+        "Transfer the browned beef to the slow cooker. Add the carrots, potatoes, onion, and garlic.",
+        "In a bowl, mix the beef broth, tomato paste, thyme, and bay leaf. Pour over the beef and vegetables in the slow cooker.",
+        "Cover and cook on low for 8 hours or high for 4 hours, until the beef is tender and flavors meld together.",
+        "Remove the bay leaf before serving. Taste and adjust seasoning if needed.",
+        "Serve hot with crusty bread for a complete meal."
+    ],
+    "prep_time": 15,
+    "cook_time": 480,
+    "total_time": 495,
+    "servings": 6,
+    "difficulty": "Easy",
+    "tips": "One key tip is to brown the beef before adding it to the slow cooker; this enhances the flavor significantly. A common mistake is not seasoning enough—don’t be shy with the salt and pepper! Leftovers store well in the fridge for up to three days, and you can easily reheat them on the stove. If you want to make it lighter, swap out the potatoes for more veggies like green beans or peas.",
+    "structured_content": [
+        {
+            "content": "<p>There's something incredibly comforting about a bowl of beef stew, especially on a cold evening. This hearty slow cooker beef stew is not only simple to make but also packed with rich flavors that develop beautifully as it simmers. I love how all the ingredients come together, and the best part? You can set it and forget it!<\/p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>Here's the thing - This recipe calls for beef chuck, which is perfect for slow cooking as it becomes incredibly tender. Carrots and potatoes add sweetness and heartiness, while garlic and onion provide a lovely aromatic base. If you're out of beef broth, chicken broth works just as well!<\/p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Honestly, Start by browning the beef in a skillet to lock in those flavors before transferring it to your slow cooker. Then, layer in your vegetables and pour over the broth mixture. It’s that easy! Just let it cook low and slow, and you’ll have a delicious meal waiting for you.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A bowl of hearty beef stew with vegetables on a wooden table",
+                "url": "hearty-slow-cooker-beef-stew-for-cozy-nights\/images\/hearty-slow-cooker-beef-stew-for-cozy-nights_image_1.webp",
+                "fileName": "hearty-slow-cooker-beef-stew-for-cozy-nights_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>This stew is perfect for a family dinner or meal prep for the week. You can also serve it with a side of crusty bread or over a bed of rice for a filling meal. Want to spice it up? Add a dash of Worcestershire sauce or some chili flakes for a kick!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "hearty-slow-cooker-beef-stew-for-cozy-nights_image_1.webp",
+            "filePath": "posts\/hearty-slow-cooker-beef-stew-for-cozy-nights\/images\/hearty-slow-cooker-beef-stew-for-cozy-nights_image_1.webp",
+            "relativePath": "hearty-slow-cooker-beef-stew-for-cozy-nights\/images\/hearty-slow-cooker-beef-stew-for-cozy-nights_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "hearty-slow-cooker-beef-stew-for-cozy-nights_image_2.webp",
+            "filePath": "posts\/hearty-slow-cooker-beef-stew-for-cozy-nights\/images\/hearty-slow-cooker-beef-stew-for-cozy-nights_image_2.webp",
+            "relativePath": "hearty-slow-cooker-beef-stew-for-cozy-nights\/images\/hearty-slow-cooker-beef-stew-for-cozy-nights_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "hearty-slow-cooker-beef-stew-for-cozy-nights_image_3.webp",
+            "filePath": "posts\/hearty-slow-cooker-beef-stew-for-cozy-nights\/images\/hearty-slow-cooker-beef-stew-for-cozy-nights_image_3.webp",
+            "relativePath": "hearty-slow-cooker-beef-stew-for-cozy-nights\/images\/hearty-slow-cooker-beef-stew-for-cozy-nights_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "hearty-slow-cooker-beef-stew-for-cozy-nights_Lummyrecipes-main_image_4.webp",
+            "filePath": "posts\/hearty-slow-cooker-beef-stew-for-cozy-nights\/images\/hearty-slow-cooker-beef-stew-for-cozy-nights_Lummyrecipes-main_image_4.webp",
+            "relativePath": "hearty-slow-cooker-beef-stew-for-cozy-nights\/images\/hearty-slow-cooker-beef-stew-for-cozy-nights_Lummyrecipes-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/hearty-slow-cooker-beef-stew-for-cozy-nights\/images\/hearty-slow-cooker-beef-stew-for-cozy-nights_Lummyrecipes-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "hearty-slow-cooker-beef-stew-for-cozy-nights_image_1.webp",
+    "image_path": "posts\/hearty-slow-cooker-beef-stew-for-cozy-nights\/images\/hearty-slow-cooker-beef-stew-for-cozy-nights_image_1.webp",
+    "image_dir": "hearty-slow-cooker-beef-stew-for-cozy-nights\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-13T22:56:08+01:00",
+    "updatedAt": "2026-01-13T22:56:08+01:00"
+}

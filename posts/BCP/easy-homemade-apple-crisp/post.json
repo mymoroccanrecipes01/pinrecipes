@@ -1,0 +1,159 @@
+{
+    "id": "text_recipe_1761758265_736",
+    "slug": "easy-homemade-apple-crisp",
+    "title": "Easy Homemade Apple Crisp",
+    "promptIMG": "Apple crisp, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in this delightful apple crisp, where tender apples meet a crunchy, buttery topping. Perfect for cozy nights or festive gatherings, this recipe is sure to warm your heart and satisfy your sweet tooth.",
+    "category_id": "cat_1761230294_638",
+    "author_id": "author_001",
+    "ingredients": [
+        "4 cups apples, peeled and sliced",
+        "1 cup rolled oats",
+        "1\/2 cup brown sugar",
+        "1\/2 cup all-purpose flour",
+        "1\/2 cup butter, melted",
+        "1 teaspoon cinnamon",
+        "1\/4 teaspoon salt"
+    ],
+    "instructions": [
+        "Preheat your oven to 350°F (175°C).",
+        "In a mixing bowl, combine the sliced apples with cinnamon and salt, then place them in a greased baking dish.",
+        "In another bowl, mix the oats, brown sugar, flour, and melted butter until crumbly.",
+        "Spread the oat mixture evenly over the apples.",
+        "Bake for 25-30 minutes until the topping is golden brown and the apples are tender."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For the best flavor, use a mix of sweet and tart apples. Serve warm with a scoop of vanilla ice cream for an extra treat.",
+    "structured_content": [
+        {
+            "content": "<p>Fall is the perfect time for a warm, comforting dessert, and this easy apple crisp is just the ticket. With its tender apples and crunchy topping, it's a dish that evokes cozy nights and family gatherings.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners and holiday desserts<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Can be made ahead and reheated for convenience<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Every autumn, my family gathers to enjoy this apple crisp. It's a tradition that brings us together, sharing stories and laughter over this delightful dessert.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Use a mix of sweet and tart apples like Granny Smith and Honeycrisp for the best flavor.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Cinnamon adds warmth and depth to the dish; choose fresh ground for the best taste.<\/li><li><strong>Supporting ingredients:<\/strong> Rolled oats and brown sugar create a crunchy topping that contrasts beautifully with the soft apples.<\/li><li><strong>Equipment needed:<\/strong> A baking dish and mixing bowls are essential for this simple recipe.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A beautiful arrangement of fresh apples and ingredients for apple crisp preparation, showcasing vibrant colors and textures.",
+                "url": "easy-homemade-apple-crisp\/images\/easy-homemade-apple-crisp_image_1.webp",
+                "fileName": "easy-homemade-apple-crisp_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by preheating your oven and preparing the apples with cinnamon and salt.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Layer the apples in a baking dish and top with the oat mixture before baking until golden.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Serve warm, optionally topped with vanilla ice cream or whipped cream for an indulgent treat.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Capturing the process of baking apple crisp, highlighting the golden topping and bubbling apples.",
+                "url": "easy-homemade-apple-crisp\/images\/easy-homemade-apple-crisp_image_2.webp",
+                "fileName": "easy-homemade-apple-crisp_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Ensure the apples are tender but not mushy for the best texture.<\/li><li>Avoid overmixing the topping to keep it crumbly.<\/li><li>Look for a golden-brown topping as a sign it's ready.<\/li><li>Store leftovers in the fridge and reheat in the oven for best results.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This apple crisp is a family favorite, and sharing it with loved ones makes it even more special. It's a reminder of the warmth of home and the joy of togetherness.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding nuts like walnuts or pecans to the topping for extra crunch, or a splash of vanilla extract for added depth of flavor.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair this apple crisp with a scoop of vanilla ice cream or a dollop of whipped cream. It also goes wonderfully with a warm cup of spiced cider.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, substitute the all-purpose flour with almond flour or a gluten-free blend. You can also try using pears or berries for a different twist.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "The final plated apple crisp, beautifully presented with a scoop of ice cream and a sprinkle of cinnamon.",
+                "url": "easy-homemade-apple-crisp\/images\/easy-homemade-apple-crisp_image_3.webp",
+                "fileName": "easy-homemade-apple-crisp_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a mix of apple varieties for complex flavors.<\/li><li>Let the crisp cool slightly before serving to set the topping.<\/li><li>Keep an eye on the baking time to prevent burning.<\/li><li>Garnish with fresh mint for an impressive touch.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this easy apple crisp recipe. It's a simple yet rewarding dessert that will bring joy to your kitchen and smiles to your table.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "easy-homemade-apple-crisp_image_1.webp",
+            "filePath": "posts\/easy-homemade-apple-crisp\/images\/easy-homemade-apple-crisp_image_1.webp",
+            "relativePath": "easy-homemade-apple-crisp\/images\/easy-homemade-apple-crisp_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-apple-crisp_image_2.webp",
+            "filePath": "posts\/easy-homemade-apple-crisp\/images\/easy-homemade-apple-crisp_image_2.webp",
+            "relativePath": "easy-homemade-apple-crisp\/images\/easy-homemade-apple-crisp_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "easy-homemade-apple-crisp_image_3.webp",
+            "filePath": "posts\/easy-homemade-apple-crisp\/images\/easy-homemade-apple-crisp_image_3.webp",
+            "relativePath": "easy-homemade-apple-crisp\/images\/easy-homemade-apple-crisp_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "easy-homemade-apple-crisp_image_4.webp",
+            "filePath": "posts\/easy-homemade-apple-crisp\/images\/easy-homemade-apple-crisp_image_4.webp",
+            "relativePath": "easy-homemade-apple-crisp\/images\/easy-homemade-apple-crisp_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/easy-homemade-apple-crisp\/images\/easy-homemade-apple-crisp_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "easy-homemade-apple-crisp_image_1.webp",
+    "image_path": "posts\/easy-homemade-apple-crisp\/images\/easy-homemade-apple-crisp_image_1.webp",
+    "image_dir": "easy-homemade-apple-crisp\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-29T18:17:45+01:00",
+    "updatedAt": "2025-10-29T18:17:45+01:00"
+}

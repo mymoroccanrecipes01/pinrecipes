@@ -1,0 +1,78 @@
+{
+    "title": "Fluffy Keto Yogurt Bread Recipe to Try Today!",
+    "promptIMG": "Professional food photography prompt: \"Fluffy keto yogurt bread sliced and displayed on a rustic wooden board, topped with fresh herbs and a dollop of yogurt, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "You'll wanna dig into this fluffy keto yogurt bread that’s ready in just 30 minutes! Made with Greek yogurt and almond flour, it’s a low-carb treat you can enjoy anytime. Great for breakfast or as a snack. Save this recipe to try later!",
+    "hashtags": "#keto #yogurtbread #lowcarb #easyposts #quickbreads",
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 8,
+    "ingredients": [
+        "2 cups almond flour (I prefer Bob's Red Mill)",
+        "1 cup Greek yogurt (organic is best)",
+        "2 large eggs",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "1 tablespoon olive oil",
+        "1 teaspoon garlic powder (optional)",
+        "Fresh herbs for topping (like rosemary or thyme, totally optional)"
+    ],
+    "instructions": [
+        "OK so first, preheat your oven to 350°F. Line a loaf pan with parchment paper or grease it up (do what you gotta do).",
+        "In a mixing bowl, whisk together the almond flour, baking soda, and salt. It should look kinda fluffy.",
+        "In another bowl, beat the eggs and mix in the Greek yogurt and olive oil until everything’s combined. Seriously, it’s gonna be a bit thick.",
+        "Now, combine the dry and wet ingredients. Mix until just blended - don’t overdo it or it’ll get weird.",
+        "Pour the batter into your prepared loaf pan. If you wanna, sprinkle some fresh herbs on top for that fancy touch.",
+        "Bake for about 20 minutes or until it’s golden and a toothpick comes out clean. Let it cool a bit before slicing!"
+    ],
+    "tips": "Listen, here are some things I learned while making this keto bread: \n1. **Egg Temperature Matters:** Use room temperature eggs for better mixing. I always forget and it turns out okay, but trust me it helps!\n2. **Don’t Skip the Salt:** It’s key for flavor. Sometimes I’m like, 'Eh, I’ll just skip it,' but NOPE. Don’t do it.\n3. **Storage Tip:** Wrap leftovers in plastic wrap and store in the fridge. They’ll last about 3-4 days. Can also freeze slices for later - just pop them in a toaster for a quick snack!\n4. **Mix-Ins:** You could throw in some cheese or spices for a twist. My friend Susan likes to add jalapeños and it’s surprisingly good!\n5. **Watch the Baking Time:** Ovens vary, so start checking around the 17-minute mark. You don't want a dry loaf, you know?",
+    "generation_metadata": {
+        "voice": "Enthusiastic Friend",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-01-04 16:22:32"
+    },
+    "author_id": "author_001",
+    "images": [
+        {
+            "fileName": "zero-carb-yogurt-bread-for-keto-lovers_image_1.webp",
+            "filePath": "posts\/zero-carb-yogurt-bread-for-keto-lovers\/images\/zero-carb-yogurt-bread-for-keto-lovers_image_1.webp",
+            "relativePath": "zero-carb-yogurt-bread-for-keto-lovers\/images\/zero-carb-yogurt-bread-for-keto-lovers_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "zero-carb-yogurt-bread-for-keto-lovers_image_2.webp",
+            "filePath": "posts\/zero-carb-yogurt-bread-for-keto-lovers\/images\/zero-carb-yogurt-bread-for-keto-lovers_image_2.webp",
+            "relativePath": "zero-carb-yogurt-bread-for-keto-lovers\/images\/zero-carb-yogurt-bread-for-keto-lovers_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "zero-carb-yogurt-bread-for-keto-lovers_image_3.webp",
+            "filePath": "posts\/zero-carb-yogurt-bread-for-keto-lovers\/images\/zero-carb-yogurt-bread-for-keto-lovers_image_3.webp",
+            "relativePath": "zero-carb-yogurt-bread-for-keto-lovers\/images\/zero-carb-yogurt-bread-for-keto-lovers_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "zero-carb-yogurt-bread-for-keto-lovers_Lummyrecipes_image_4.webp",
+            "filePath": "posts\/zero-carb-yogurt-bread-for-keto-lovers\/images\/zero-carb-yogurt-bread-for-keto-lovers_Lummyrecipes_image_4.webp",
+            "relativePath": "zero-carb-yogurt-bread-for-keto-lovers\/images\/zero-carb-yogurt-bread-for-keto-lovers_Lummyrecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes\/posts\/zero-carb-yogurt-bread-for-keto-lovers\/images\/zero-carb-yogurt-bread-for-keto-lovers_Lummyrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "slug": "zero-carb-yogurt-bread-for-keto-lovers",
+    "id": "recipe_1763313925_302",
+    "image": "zero-carb-yogurt-bread-for-keto-lovers_image_1.webp",
+    "image_path": "posts\/zero-carb-yogurt-bread-for-keto-lovers\/images\/zero-carb-yogurt-bread-for-keto-lovers_image_1.webp",
+    "image_dir": "zero-carb-yogurt-bread-for-keto-lovers\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-04T16:30:25+01:00",
+    "updatedAt": "2026-01-04T16:30:25+01:00"
+}

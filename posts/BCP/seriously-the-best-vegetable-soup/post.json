@@ -1,0 +1,161 @@
+{
+    "id": "text_recipe_1761328810_944",
+    "slug": "seriously-the-best-vegetable-soup",
+    "title": "Seriously the Best Vegetable Soup",
+    "promptIMG": "Vegetable soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This vegetable soup is not just any soup; it's a comforting bowl of warmth filled with vibrant, healthy vegetables. Perfect for chilly evenings, it's both nourishing and satisfying, making it a go-to recipe for any season.",
+    "category_id": "cat_1761230166_734",
+    "author_id": "author_001",
+    "ingredients": [
+        "4 cups vegetable broth",
+        "2 cups chopped carrots",
+        "2 cups chopped celery",
+        "1 cup diced potatoes",
+        "1 cup chopped onions",
+        "2 cups chopped tomatoes",
+        "1 tablespoon olive oil",
+        "1 teaspoon dried thyme",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "In a large pot, heat olive oil over medium heat.",
+        "Add onions, carrots, and celery; sauté for 5 minutes until softened.",
+        "Stir in the potatoes and tomatoes, then add the vegetable broth.",
+        "Season with thyme, salt, and pepper; bring to a boil.",
+        "Reduce heat and simmer for 25 minutes until vegetables are tender."
+    ],
+    "prep_time": 15,
+    "cook_time": 35,
+    "total_time": 50,
+    "servings": 8,
+    "difficulty": "easy",
+    "tips": "For the best flavor, use fresh vegetables and adjust seasoning to your taste. Adding a splash of lemon juice before serving can brighten the flavors.",
+    "structured_content": [
+        {
+            "content": "<p>This vegetable soup is a delightful blend of fresh, colorful vegetables simmered to perfection. It's not only healthy but also incredibly satisfying, making it a favorite during the cooler months.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 50 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for cozy weeknight dinners<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Vegan and gluten-free, suitable for everyone<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this soup; it was a chilly evening, and the aroma filled my kitchen, bringing my family together around the table. It's a recipe that warms both the heart and the soul.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh vegetables work best for flavor and nutrition; chop them uniformly for even cooking.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Dried thyme adds a lovely earthiness; feel free to experiment with other herbs.<\/li><li><strong>Supporting ingredients:<\/strong> The broth is essential for depth of flavor; choose a high-quality vegetable broth.<\/li><li><strong>Equipment needed:<\/strong> A large pot is essential for cooking and simmering the soup.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant array of fresh vegetables prepared for the soup, showcasing their colors and textures.",
+                "url": "seriously-the-best-vegetable-soup\/images\/seriously-the-best-vegetable-soup_image_1.webp",
+                "fileName": "seriously-the-best-vegetable-soup_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Chop all vegetables into bite-sized pieces for even cooking. Measure out your broth and seasonings.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Follow the instructions to sauté, simmer, and season your soup to perfection. Keep an eye on the vegetables to ensure they don't overcook.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Before serving, taste and adjust seasoning as needed. A sprinkle of fresh herbs can elevate the dish.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "The cooking process of the vegetable soup, with steam rising and vibrant colors visible.",
+                "url": "seriously-the-best-vegetable-soup\/images\/seriously-the-best-vegetable-soup_image_2.webp",
+                "fileName": "seriously-the-best-vegetable-soup_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Simmering the soup allows the flavors to meld beautifully.<\/li><li>A common mistake is overcooking the vegetables; they should be tender but not mushy.<\/li><li>When the vegetables are fork-tender, the soup is ready.<\/li><li>This soup stores well in the fridge for up to 3 days; reheat gently.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This soup is a staple in my home, often shared with friends and family during gatherings. It's a dish that brings comfort and joy, reminding us of the warmth of togetherness.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding a splash of balsamic vinegar or a pinch of red pepper flakes for an extra kick. Fresh herbs like basil or parsley can also enhance the flavor profile.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve with crusty bread or a side salad for a complete meal. Pair with a light white wine or sparkling water for a refreshing touch.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a heartier soup, add beans or lentils. To make it creamy, blend a portion of the soup and stir it back in. You can also swap in seasonal vegetables based on availability.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "The final plated vegetable soup, garnished with fresh herbs and served with bread.",
+                "url": "seriously-the-best-vegetable-soup\/images\/seriously-the-best-vegetable-soup_image_3.webp",
+                "fileName": "seriously-the-best-vegetable-soup_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For restaurant-quality results, sauté the vegetables until just tender before adding broth.<\/li><li>Use homemade broth for maximum flavor.<\/li><li>Timing is key; add delicate vegetables like spinach towards the end of cooking.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe; it's simple, satisfying, and sure to impress. Enjoy the process of making it and the joy it brings to your table!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "seriously-the-best-vegetable-soup_image_1.webp",
+            "filePath": "posts\/seriously-the-best-vegetable-soup\/images\/seriously-the-best-vegetable-soup_image_1.webp",
+            "relativePath": "seriously-the-best-vegetable-soup\/images\/seriously-the-best-vegetable-soup_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "seriously-the-best-vegetable-soup_image_2.webp",
+            "filePath": "posts\/seriously-the-best-vegetable-soup\/images\/seriously-the-best-vegetable-soup_image_2.webp",
+            "relativePath": "seriously-the-best-vegetable-soup\/images\/seriously-the-best-vegetable-soup_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "seriously-the-best-vegetable-soup_image_3.webp",
+            "filePath": "posts\/seriously-the-best-vegetable-soup\/images\/seriously-the-best-vegetable-soup_image_3.webp",
+            "relativePath": "seriously-the-best-vegetable-soup\/images\/seriously-the-best-vegetable-soup_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "seriously-the-best-vegetable-soup_image_4.webp",
+            "filePath": "posts\/seriously-the-best-vegetable-soup\/images\/seriously-the-best-vegetable-soup_image_4.webp",
+            "relativePath": "seriously-the-best-vegetable-soup\/images\/seriously-the-best-vegetable-soup_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/seriously-the-best-vegetable-soup\/images\/seriously-the-best-vegetable-soup_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "seriously-the-best-vegetable-soup_image_1.webp",
+    "image_path": "posts\/seriously-the-best-vegetable-soup\/images\/seriously-the-best-vegetable-soup_image_1.webp",
+    "image_dir": "seriously-the-best-vegetable-soup\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-24T20:00:10+02:00",
+    "updatedAt": "2025-10-24T20:00:10+02:00"
+}

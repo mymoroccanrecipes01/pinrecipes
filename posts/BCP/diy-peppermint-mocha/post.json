@@ -1,0 +1,157 @@
+{
+    "id": "text_recipe_1762046812_890",
+    "slug": "diy-peppermint-mocha",
+    "title": "DIY Peppermint Mocha",
+    "promptIMG": "A delicious cup of peppermint mocha topped with whipped cream and chocolate shavings, on a cozy kitchen countertop, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in the rich, chocolatey goodness of a homemade peppermint mocha that warms your soul and delights your senses. Perfect for cozy mornings or festive gatherings, this drink is a delightful treat that you can easily whip up at home.",
+    "category_id": "cat_1761230749_334",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 cups brewed coffee",
+        "1 cup milk",
+        "2 tablespoons cocoa powder",
+        "2 tablespoons sugar",
+        "1 teaspoon peppermint extract",
+        "Whipped cream for topping",
+        "Chocolate shavings for garnish"
+    ],
+    "instructions": [
+        "In a saucepan, combine milk, cocoa powder, and sugar over medium heat, whisking until smooth.",
+        "Add brewed coffee and peppermint extract, stirring to combine and heat through.",
+        "Pour into mugs and top with whipped cream and chocolate shavings."
+    ],
+    "prep_time": 15,
+    "cook_time": 10,
+    "total_time": 25,
+    "servings": 2,
+    "difficulty": "easy",
+    "tips": "For a richer flavor, use dark chocolate cocoa powder and adjust the peppermint extract to taste for a stronger minty kick.",
+    "structured_content": [
+        {
+            "content": "<p>This DIY Peppermint Mocha is a delightful twist on your favorite coffee shop drink, combining rich chocolate and refreshing peppermint for a cozy treat. Perfect for chilly days, it brings the warmth of the holidays right to your kitchen.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Enjoy café-quality flavors from the comfort of home<\/li><li>Perfect for holiday gatherings or a cozy night in<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customize the sweetness and mintiness to your liking<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this peppermint mocha for a holiday party. The aroma filled the house, and everyone loved how they could enjoy a warm, festive drink without leaving home.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Brewed coffee is essential for that rich base; use your favorite blend for the best flavor.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Cocoa powder adds chocolatey richness, while peppermint extract gives that refreshing kick.<\/li><li><strong>Supporting ingredients:<\/strong> Milk creates a creamy texture, and sugar balances the flavors perfectly.<\/li><li><strong>Equipment needed:<\/strong> A saucepan and whisk are all you need for this simple recipe.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A visual representation of the ingredients laid out for the peppermint mocha preparation.",
+                "url": "diy-peppermint-mocha\/images\/diy-peppermint-mocha_image_1.webp",
+                "fileName": "diy-peppermint-mocha_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by brewing your favorite coffee. Measure out the milk and other ingredients while the coffee brews.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>In a saucepan, combine milk, cocoa powder, and sugar over medium heat, whisking until smooth. Add brewed coffee and peppermint extract, stirring to combine and heat through.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Pour into mugs, top with whipped cream, and sprinkle with chocolate shavings for a festive look.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A visual representation of the cooking process for the peppermint mocha.",
+                "url": "diy-peppermint-mocha\/images\/diy-peppermint-mocha_image_2.webp",
+                "fileName": "diy-peppermint-mocha_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Whisking the milk mixture helps prevent clumps of cocoa powder.<\/li><li>A common mistake is adding too much peppermint extract; start with less and adjust to taste.<\/li><li>When the mixture is steaming but not boiling, it's ready to serve.<\/li><li>This drink can be stored in the fridge for a day; just reheat gently before serving.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This peppermint mocha has become a family favorite, especially during the holidays. Sharing it with loved ones while reminiscing about past celebrations makes it even more special.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Try adding a dash of vanilla extract for an extra layer of flavor, or top with crushed peppermint candies for a festive crunch.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair this drink with gingerbread cookies or a slice of chocolate cake for a delightful treat. It also goes wonderfully with a cozy blanket and a good book!<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a dairy-free version, substitute almond or oat milk. You can also use sugar alternatives to make it healthier without sacrificing flavor.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A visual representation of the final plated peppermint mocha with garnishes.",
+                "url": "diy-peppermint-mocha\/images\/diy-peppermint-mocha_image_3.webp",
+                "fileName": "diy-peppermint-mocha_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a milk frother for a creamy texture if you have one.<\/li><li>For maximum flavor, use freshly brewed coffee rather than instant.<\/li><li>Keep an eye on the heat; overheating can scorch the milk.<\/li><li>Garnish with a sprig of mint for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try making this peppermint mocha at home! It's a simple pleasure that brings joy and warmth, making every sip a delightful experience.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "diy-peppermint-mocha_image_1.webp",
+            "filePath": "posts\/diy-peppermint-mocha\/images\/diy-peppermint-mocha_image_1.webp",
+            "relativePath": "diy-peppermint-mocha\/images\/diy-peppermint-mocha_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "diy-peppermint-mocha_image_2.webp",
+            "filePath": "posts\/diy-peppermint-mocha\/images\/diy-peppermint-mocha_image_2.webp",
+            "relativePath": "diy-peppermint-mocha\/images\/diy-peppermint-mocha_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "diy-peppermint-mocha_image_3.webp",
+            "filePath": "posts\/diy-peppermint-mocha\/images\/diy-peppermint-mocha_image_3.webp",
+            "relativePath": "diy-peppermint-mocha\/images\/diy-peppermint-mocha_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "diy-peppermint-mocha_image_4.webp",
+            "filePath": "posts\/diy-peppermint-mocha\/images\/diy-peppermint-mocha_image_4.webp",
+            "relativePath": "diy-peppermint-mocha\/images\/diy-peppermint-mocha_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/diy-peppermint-mocha\/images\/diy-peppermint-mocha_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "diy-peppermint-mocha_image_1.webp",
+    "image_path": "posts\/diy-peppermint-mocha\/images\/diy-peppermint-mocha_image_1.webp",
+    "image_dir": "diy-peppermint-mocha\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T02:26:52+01:00",
+    "updatedAt": "2025-11-02T02:26:52+01:00"
+}

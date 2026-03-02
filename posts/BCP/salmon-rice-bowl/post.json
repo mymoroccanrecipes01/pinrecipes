@@ -1,0 +1,159 @@
+{
+    "id": "text_recipe_1762112076_199",
+    "slug": "salmon-rice-bowl",
+    "title": "Salmon Rice Bowl",
+    "promptIMG": "Salmon rice bowl, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This Salmon Rice Bowl is a delightful fusion of flavors, combining tender salmon with perfectly cooked rice and a savory soy sauce. It's a quick and satisfying meal that will transport your taste buds to a cozy sushi bar right at home.",
+    "category_id": "cat_1761230072_178",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound salmon fillet, skin removed",
+        "2 cups cooked rice",
+        "2 tablespoons soy sauce",
+        "1 tablespoon sesame oil",
+        "1 teaspoon ginger, grated",
+        "1 green onion, sliced",
+        "1 tablespoon sesame seeds"
+    ],
+    "instructions": [
+        "Preheat the oven to 400°F (200°C).",
+        "Place the salmon fillet on a baking sheet lined with parchment paper.",
+        "In a small bowl, mix soy sauce, sesame oil, and grated ginger.",
+        "Brush the mixture over the salmon and bake for 15-20 minutes until cooked through.",
+        "Serve the salmon over cooked rice, garnished with sliced green onions and sesame seeds."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For perfectly flaky salmon, avoid overcooking. Use a meat thermometer to ensure it reaches 145°F (63°C).",
+    "structured_content": [
+        {
+            "content": "<p>This Salmon Rice Bowl is not just a meal; it's an experience. The rich, buttery flavor of the salmon paired with the umami of soy sauce creates a dish that's both comforting and satisfying. Perfect for a weeknight dinner or a special occasion, this bowl is sure to impress.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customizable with your favorite toppings<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this dish for my family; the smiles on their faces as they took their first bites were priceless. It's a recipe that brings us together, and now it's a staple in our home.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh salmon fillet works best for its rich flavor and tender texture. Look for bright, firm flesh when shopping.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Soy sauce adds depth, while sesame oil gives a nutty aroma.<\/li><li><strong>Supporting ingredients:<\/strong> Rice serves as a hearty base, and green onions add a fresh crunch.<\/li><li><strong>Equipment needed:<\/strong> Baking sheet, parchment paper, and a small mixing bowl.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation.",
+                "url": "salmon-rice-bowl\/images\/salmon-rice-bowl_image_1.webp",
+                "fileName": "salmon-rice-bowl_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Preheat your oven and prepare your baking sheet. Cook rice according to package instructions.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Brush the salmon with the soy sauce mixture and bake until flaky. Serve over rice.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with green onions and sesame seeds for a beautiful presentation.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the cooking process.",
+                "url": "salmon-rice-bowl\/images\/salmon-rice-bowl_image_2.webp",
+                "fileName": "salmon-rice-bowl_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook salmon until it flakes easily with a fork for perfect results.<\/li><li>A common mistake is overcooking the salmon, which can make it dry.<\/li><li>Look for a slight translucence in the center to indicate it's done.<\/li><li>Store leftovers in an airtight container in the fridge for up to 2 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This dish holds a special place in my heart because it reminds me of family dinners. Sharing a meal like this brings us closer together, and I hope it does the same for you.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding avocado slices, pickled ginger, or a drizzle of sriracha for an extra kick. Fresh herbs like cilantro or basil can also elevate the dish.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This bowl pairs beautifully with a side of steamed vegetables or a light salad. For drinks, try a chilled sake or green tea to complement the flavors.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, use tamari instead of soy sauce. You can also swap salmon for tofu or chicken for a different twist.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
+                "url": "salmon-rice-bowl\/images\/salmon-rice-bowl_image_3.webp",
+                "fileName": "salmon-rice-bowl_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For restaurant-quality results, let the salmon rest for a few minutes after baking.<\/li><li>Marinate the salmon for 30 minutes before cooking for maximum flavor.<\/li><li>Keep an eye on the cooking time to avoid dryness.<\/li><li>Use a nice bowl for serving to enhance the dining experience.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't be afraid to make this Salmon Rice Bowl your own! Enjoy the process of cooking and savor the delicious results. Happy cooking!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "salmon-rice-bowl_image_1.webp",
+            "filePath": "posts\/salmon-rice-bowl\/images\/salmon-rice-bowl_image_1.webp",
+            "relativePath": "salmon-rice-bowl\/images\/salmon-rice-bowl_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "salmon-rice-bowl_image_2.webp",
+            "filePath": "posts\/salmon-rice-bowl\/images\/salmon-rice-bowl_image_2.webp",
+            "relativePath": "salmon-rice-bowl\/images\/salmon-rice-bowl_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "salmon-rice-bowl_image_3.webp",
+            "filePath": "posts\/salmon-rice-bowl\/images\/salmon-rice-bowl_image_3.webp",
+            "relativePath": "salmon-rice-bowl\/images\/salmon-rice-bowl_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "salmon-rice-bowl_image_4.webp",
+            "filePath": "posts\/salmon-rice-bowl\/images\/salmon-rice-bowl_image_4.webp",
+            "relativePath": "salmon-rice-bowl\/images\/salmon-rice-bowl_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/salmon-rice-bowl\/images\/salmon-rice-bowl_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "salmon-rice-bowl_image_1.webp",
+    "image_path": "posts\/salmon-rice-bowl\/images\/salmon-rice-bowl_image_1.webp",
+    "image_dir": "salmon-rice-bowl\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T20:34:36+01:00",
+    "updatedAt": "2025-11-02T20:34:36+01:00"
+}

@@ -1,0 +1,160 @@
+{
+    "id": "text_recipe_1762045046_322",
+    "slug": "set-it-forget-it-chicken-noodle-soup",
+    "title": "Set-It-Forget-It Chicken Noodle Soup",
+    "promptIMG": "Set-It-Forget-It Chicken Noodle Soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Warm up with a comforting bowl of Set-It-Forget-It Chicken Noodle Soup, perfect for chilly days. This easy crockpot recipe allows you to enjoy a hearty meal with minimal effort, making it a family favorite.",
+    "category_id": "cat_1761230166_734",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound boneless chicken breasts",
+        "4 cups chicken broth",
+        "2 cups carrots, sliced",
+        "2 cups celery, sliced",
+        "1 onion, chopped",
+        "2 cups egg noodles",
+        "1 teaspoon dried thyme",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "Place chicken breasts in the crockpot and season with salt, pepper, and thyme.",
+        "Add chicken broth, carrots, celery, and onion to the crockpot.",
+        "Cover and cook on low for 6-8 hours or high for 3-4 hours.",
+        "Remove chicken, shred it, and return to the pot.",
+        "Add egg noodles and cook for an additional 30 minutes until noodles are tender."
+    ],
+    "prep_time": 15,
+    "cook_time": 480,
+    "total_time": 495,
+    "servings": 6,
+    "difficulty": "easy",
+    "tips": "For the best flavor, use homemade chicken broth and adjust seasoning to your taste.",
+    "structured_content": [
+        {
+            "content": "<p>This Set-It-Forget-It Chicken Noodle Soup is the ultimate comfort food, perfect for busy weeknights. The slow cooking process melds the flavors beautifully, creating a rich and satisfying dish that warms the soul.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 15 minutes of prep<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for cozy family dinners or meal prep<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Freezes well for future meals<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember making this soup on a cold winter day, the aroma filling the house and bringing everyone to the kitchen. It's a dish that brings back fond memories of family gatherings and warm conversations.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Chicken breasts are lean and shred beautifully, making them perfect for this soup.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Dried thyme adds a wonderful earthiness; fresh herbs can elevate the dish even more.<\/li><li><strong>Supporting ingredients:<\/strong> Carrots and celery provide sweetness and texture, while egg noodles add heartiness.<\/li><li><strong>Equipment needed:<\/strong> A crockpot is essential for this recipe, allowing for hands-off cooking.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation.",
+                "url": "set-it-forget-it-chicken-noodle-soup\/images\/set-it-forget-it-chicken-noodle-soup_image_1.webp",
+                "fileName": "set-it-forget-it-chicken-noodle-soup_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by seasoning the chicken and chopping the vegetables. This should take about 15 minutes.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Combine all ingredients in the crockpot and let it cook on low for 6-8 hours. The chicken will be tender and easy to shred.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>After adding the noodles, ensure they are cooked through before serving. Garnish with fresh parsley for a pop of color.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the cooking process.",
+                "url": "set-it-forget-it-chicken-noodle-soup\/images\/set-it-forget-it-chicken-noodle-soup_image_2.webp",
+                "fileName": "set-it-forget-it-chicken-noodle-soup_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook on low for the best flavor infusion.<\/li><li>Avoid overcooking the noodles; add them towards the end of the cooking time.<\/li><li>When the chicken shreds easily, it’s a sign that it’s perfectly cooked.<\/li><li>Store leftovers in an airtight container for up to 3 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This soup is a staple in our home, often shared with friends and family. It's a dish that brings everyone together, and I love serving it on chilly evenings.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding fresh herbs like parsley or dill for a burst of freshness, or a splash of lemon juice to brighten the flavors.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve with crusty bread or a side salad for a complete meal. A glass of white wine pairs beautifully with this comforting soup.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free version, substitute egg noodles with gluten-free pasta. You can also add spinach or kale for extra nutrients.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
+                "url": "set-it-forget-it-chicken-noodle-soup\/images\/set-it-forget-it-chicken-noodle-soup_image_3.webp",
+                "fileName": "set-it-forget-it-chicken-noodle-soup_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a meat thermometer to ensure chicken is cooked to 165°F for safety.<\/li><li>For maximum flavor, sauté the onions and garlic before adding them to the crockpot.<\/li><li>Timing is key; add noodles in the last 30 minutes to avoid mushiness.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to make this soup your own! With its simple ingredients and easy preparation, you'll find joy in creating a dish that warms your heart and home.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "set-it-forget-it-chicken-noodle-soup_image_1.webp",
+            "filePath": "posts\/set-it-forget-it-chicken-noodle-soup\/images\/set-it-forget-it-chicken-noodle-soup_image_1.webp",
+            "relativePath": "set-it-forget-it-chicken-noodle-soup\/images\/set-it-forget-it-chicken-noodle-soup_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "set-it-forget-it-chicken-noodle-soup_image_2.webp",
+            "filePath": "posts\/set-it-forget-it-chicken-noodle-soup\/images\/set-it-forget-it-chicken-noodle-soup_image_2.webp",
+            "relativePath": "set-it-forget-it-chicken-noodle-soup\/images\/set-it-forget-it-chicken-noodle-soup_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "set-it-forget-it-chicken-noodle-soup_image_3.webp",
+            "filePath": "posts\/set-it-forget-it-chicken-noodle-soup\/images\/set-it-forget-it-chicken-noodle-soup_image_3.webp",
+            "relativePath": "set-it-forget-it-chicken-noodle-soup\/images\/set-it-forget-it-chicken-noodle-soup_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "set-it-forget-it-chicken-noodle-soup_image_4.webp",
+            "filePath": "posts\/set-it-forget-it-chicken-noodle-soup\/images\/set-it-forget-it-chicken-noodle-soup_image_4.webp",
+            "relativePath": "set-it-forget-it-chicken-noodle-soup\/images\/set-it-forget-it-chicken-noodle-soup_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/set-it-forget-it-chicken-noodle-soup\/images\/set-it-forget-it-chicken-noodle-soup_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "set-it-forget-it-chicken-noodle-soup_image_1.webp",
+    "image_path": "posts\/set-it-forget-it-chicken-noodle-soup\/images\/set-it-forget-it-chicken-noodle-soup_image_1.webp",
+    "image_dir": "set-it-forget-it-chicken-noodle-soup\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T01:57:26+01:00",
+    "updatedAt": "2025-11-02T01:57:26+01:00"
+}

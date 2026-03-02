@@ -1,0 +1,162 @@
+{
+    "id": "text_recipe_1761588531_379",
+    "slug": "easy-healthy-broccoli-pasta",
+    "title": "Easy Healthy Broccoli Pasta",
+    "promptIMG": "Easy Healthy Broccoli Pasta, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This Easy Healthy Broccoli Pasta is a delightful dish that's quick to prepare and packed with nutrients. Perfect for busy weeknights, it brings the family together with its vibrant flavors and comforting textures.",
+    "category_id": "cat_1761230119_510",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound broccoli florets",
+        "8 ounces pasta of your choice",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "Salt and pepper to taste",
+        "Parmesan cheese for serving"
+    ],
+    "instructions": [
+        "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+        "In the last 3 minutes of cooking, add the broccoli florets to the pot.",
+        "Drain the pasta and broccoli, reserving a cup of pasta water.",
+        "In a large skillet, heat the olive oil over medium heat and sauté the minced garlic until fragrant.",
+        "Add the drained pasta and broccoli to the skillet, tossing to combine. If needed, add reserved pasta water to reach desired consistency.",
+        "Season with salt and pepper, and serve with grated Parmesan cheese."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For the best results, use fresh broccoli and don't overcook the pasta to maintain its texture.",
+    "structured_content": [
+        {
+            "content": "<p>This Easy Healthy Broccoli Pasta is not just a meal; it's a celebration of fresh ingredients and simple cooking. The vibrant green of the broccoli against the golden pasta creates a dish that's as pleasing to the eye as it is to the palate. Perfect for those busy weeknights, it brings comfort and nutrition to your table without the fuss.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Nutritious and satisfying for the whole family<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this dish for my family; it was a hectic weeknight, and I needed something quick yet healthy. As the pasta and broccoli cooked together, the aroma filled the kitchen, and soon enough, we were all gathered around the table, enjoying every bite.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh broccoli florets work best for vibrant color and crunch.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Garlic adds depth and aroma; choose fresh for the best flavor.<\/li><li><strong>Supporting ingredients:<\/strong> Olive oil for sautéing and Parmesan cheese for a savory finish.<\/li><li><strong>Equipment needed:<\/strong> A large pot for boiling and a skillet for sautéing.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of fresh broccoli and pasta ingredients ready for preparation, showcasing healthy cooking.",
+                "url": "easy-healthy-broccoli-pasta\/images\/easy-healthy-broccoli-pasta_image_1.webp",
+                "fileName": "easy-healthy-broccoli-pasta_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by boiling water and preparing your ingredients. Mince the garlic and chop the broccoli into florets.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Cook the pasta and broccoli together, then sauté with garlic for a quick and flavorful finish.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with Parmesan cheese and serve immediately for the best flavor.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A step-by-step visual of the cooking process, highlighting the vibrant colors and textures of the dish.",
+                "url": "easy-healthy-broccoli-pasta\/images\/easy-healthy-broccoli-pasta_image_2.webp",
+                "fileName": "easy-healthy-broccoli-pasta_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook the pasta al dente for the best texture.<\/li><li>Avoid overcooking the broccoli to maintain its bright color and crunch.<\/li><li>Look for a fragrant garlic aroma as a cue for doneness.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This dish has become a family favorite, often requested for gatherings. It's heartwarming to see everyone enjoying a healthy meal together, and it reminds me of the importance of sharing good food with loved ones.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding red pepper flakes for a spicy kick or a squeeze of lemon juice for brightness. You can also experiment with different types of pasta or add protein like grilled chicken or chickpeas.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This pasta pairs beautifully with a light salad or garlic bread. For beverages, a crisp white wine or sparkling water complements the flavors perfectly.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, use gluten-free pasta. You can also make it vegan by omitting the Parmesan cheese or using a plant-based alternative.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated dish of Easy Healthy Broccoli Pasta, showcasing its vibrant colors and inviting presentation.",
+                "url": "easy-healthy-broccoli-pasta\/images\/easy-healthy-broccoli-pasta_image_3.webp",
+                "fileName": "easy-healthy-broccoli-pasta_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use high-quality olive oil for the best flavor.<\/li><li>Prep all ingredients before starting to streamline the cooking process.<\/li><li>Time the cooking of pasta and broccoli to ensure they finish together.<\/li><li>Plate the dish with a sprinkle of cheese for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe; it's simple yet rewarding. Cooking this Easy Healthy Broccoli Pasta will not only fill your home with delightful aromas but also bring joy to your dining table.<\/p>"
+        },
+        {
+            "category_id": "cat_1761230636_499"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "easy-healthy-broccoli-pasta_image_1.webp",
+            "filePath": "posts\/easy-healthy-broccoli-pasta\/images\/easy-healthy-broccoli-pasta_image_1.webp",
+            "relativePath": "easy-healthy-broccoli-pasta\/images\/easy-healthy-broccoli-pasta_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-healthy-broccoli-pasta_image_2.webp",
+            "filePath": "posts\/easy-healthy-broccoli-pasta\/images\/easy-healthy-broccoli-pasta_image_2.webp",
+            "relativePath": "easy-healthy-broccoli-pasta\/images\/easy-healthy-broccoli-pasta_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "easy-healthy-broccoli-pasta_image_3.webp",
+            "filePath": "posts\/easy-healthy-broccoli-pasta\/images\/easy-healthy-broccoli-pasta_image_3.webp",
+            "relativePath": "easy-healthy-broccoli-pasta\/images\/easy-healthy-broccoli-pasta_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "easy-healthy-broccoli-pasta_image_4.webp",
+            "filePath": "posts\/easy-healthy-broccoli-pasta\/images\/easy-healthy-broccoli-pasta_image_4.webp",
+            "relativePath": "easy-healthy-broccoli-pasta\/images\/easy-healthy-broccoli-pasta_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/easy-healthy-broccoli-pasta\/images\/easy-healthy-broccoli-pasta_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "easy-healthy-broccoli-pasta_image_1.webp",
+    "image_path": "posts\/easy-healthy-broccoli-pasta\/images\/easy-healthy-broccoli-pasta_image_1.webp",
+    "image_dir": "easy-healthy-broccoli-pasta\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-27T19:08:51+01:00",
+    "updatedAt": "2025-10-27T19:08:51+01:00"
+}

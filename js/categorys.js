@@ -208,9 +208,9 @@ function ouvrirCategorie(categorie) {
     
    // // console.log('Slug de catégorie utilisé:', categorySlug);
     
-    // NOUVEAU FORMAT: recipes-category/slug
+    // NOUVEAU FORMAT: posts-category/slug
     const baseUrl = window.location.origin + window.location.pathname.split('?')[0];
-    const newUrl = `${baseUrl}?page=recipes-category/${categorySlug}`;
+    const newUrl = `${baseUrl}?page=posts-category/${categorySlug}`;
     
    // // console.log('Redirection vers:', newUrl);
     window.location.href = newUrl;

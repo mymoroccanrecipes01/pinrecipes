@@ -1,0 +1,159 @@
+{
+    "id": "text_recipe_1762008760_186",
+    "slug": "homemade-apple-pie-moonshine",
+    "title": "Homemade Apple Pie Moonshine",
+    "promptIMG": "Apple Pie Moonshine, in a mason jar, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This Homemade Apple Pie Moonshine is the perfect blend of sweet and spiced, making it an irresistible treat for any occasion. It's a delightful way to capture the essence of fall in a jar, and it makes a fantastic gift for friends and family.",
+    "category_id": "cat_1761230072_178",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 gallon apple cider",
+        "1 cup sugar",
+        "1 cup brown sugar",
+        "1 tablespoon cinnamon",
+        "1 tablespoon vanilla extract",
+        "1 bottle (750ml) vodka",
+        "1 cup apple pie filling (optional)"
+    ],
+    "instructions": [
+        "In a large pot, combine apple cider, sugar, brown sugar, and cinnamon over medium heat until sugars dissolve.",
+        "Remove from heat and stir in vanilla extract and vodka.",
+        "Allow the mixture to cool before transferring to mason jars.",
+        "If desired, add apple pie filling to jars for extra flavor.",
+        "Seal jars tightly and store in a cool, dark place for at least a week before serving."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 8,
+    "difficulty": "medium",
+    "tips": "For the best flavor, let the moonshine sit for at least two weeks. Shake the jars occasionally to mix the ingredients.",
+    "structured_content": [
+        {
+            "content": "<p>This Homemade Apple Pie Moonshine is a delightful concoction that captures the essence of fall with its warm spices and sweet apple flavor. Perfect for sharing with friends or as a thoughtful gift, this recipe is sure to impress anyone who tries it.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Perfect for gifting during the holidays<\/li><li>Great for cozy gatherings and celebrations<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Can be customized with your favorite spices<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Every year, I make this moonshine as a special treat for my friends and family. It has become a beloved tradition that brings everyone together during the holidays.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Apple cider is the base of this recipe, providing the sweet and tangy flavor. Look for fresh, unfiltered cider for the best taste.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Cinnamon and vanilla extract enhance the apple flavor and add warmth to the drink.<\/li><li><strong>Supporting ingredients:<\/strong> Sugar and brown sugar balance the tartness of the cider, while vodka gives it the kick.<\/li><li><strong>Equipment needed:<\/strong> A large pot for mixing, mason jars for storage, and a funnel for easy pouring.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation.",
+                "url": "homemade-apple-pie-moonshine\/images\/homemade-apple-pie-moonshine_image_1.webp",
+                "fileName": "homemade-apple-pie-moonshine_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by measuring out all your ingredients. In a large pot, combine apple cider, sugar, brown sugar, and cinnamon over medium heat until the sugars dissolve.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Remove from heat and stir in vanilla extract and vodka. Allow the mixture to cool completely before transferring it to mason jars.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Seal the jars tightly and store them in a cool, dark place. For the best flavor, let them sit for at least a week before serving.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the cooking process.",
+                "url": "homemade-apple-pie-moonshine\/images\/homemade-apple-pie-moonshine_image_2.webp",
+                "fileName": "homemade-apple-pie-moonshine_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Letting the moonshine sit for at least two weeks enhances the flavors significantly.<\/li><li>A common mistake is not allowing it to cool before sealing, which can lead to pressure build-up.<\/li><li>Look for the mixture to be well combined and the sugars fully dissolved before transferring.<\/li><li>Store in a cool, dark place to maintain flavor and quality.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this moonshine with loved ones during the holidays is always a joy. It's a special treat that brings warmth and cheer to any gathering.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Feel free to customize your moonshine with additional spices like nutmeg or cloves for an extra kick. You can also experiment with different types of alcohol, such as apple brandy, for a unique twist.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This moonshine is perfect served chilled in mason jars or as a warming drink during cold evenings. Pair it with apple pie or other fall desserts for a delightful experience.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free version, ensure your vodka is gluten-free. You can also make a non-alcoholic version by substituting vodka with additional apple cider and adding more spices.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
+                "url": "homemade-apple-pie-moonshine\/images\/homemade-apple-pie-moonshine_image_3.webp",
+                "fileName": "homemade-apple-pie-moonshine_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use high-quality apple cider for the best flavor.<\/li><li>Let the mixture cool completely before sealing to avoid pressure issues.<\/li><li>Shake the jars occasionally to mix the ingredients as they sit.<\/li><li>For an impressive appearance, garnish with a cinnamon stick when serving.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't be afraid to try making this moonshine at home! It's a fun and rewarding project that will surely impress your friends and family.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "homemade-apple-pie-moonshine_image_1.webp",
+            "filePath": "posts\/homemade-apple-pie-moonshine\/images\/homemade-apple-pie-moonshine_image_1.webp",
+            "relativePath": "homemade-apple-pie-moonshine\/images\/homemade-apple-pie-moonshine_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-apple-pie-moonshine_image_2.webp",
+            "filePath": "posts\/homemade-apple-pie-moonshine\/images\/homemade-apple-pie-moonshine_image_2.webp",
+            "relativePath": "homemade-apple-pie-moonshine\/images\/homemade-apple-pie-moonshine_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "homemade-apple-pie-moonshine_image_3.webp",
+            "filePath": "posts\/homemade-apple-pie-moonshine\/images\/homemade-apple-pie-moonshine_image_3.webp",
+            "relativePath": "homemade-apple-pie-moonshine\/images\/homemade-apple-pie-moonshine_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "homemade-apple-pie-moonshine_image_4.webp",
+            "filePath": "posts\/homemade-apple-pie-moonshine\/images\/homemade-apple-pie-moonshine_image_4.webp",
+            "relativePath": "homemade-apple-pie-moonshine\/images\/homemade-apple-pie-moonshine_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/homemade-apple-pie-moonshine\/images\/homemade-apple-pie-moonshine_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "homemade-apple-pie-moonshine_image_1.webp",
+    "image_path": "posts\/homemade-apple-pie-moonshine\/images\/homemade-apple-pie-moonshine_image_1.webp",
+    "image_dir": "homemade-apple-pie-moonshine\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-01T15:52:40+01:00",
+    "updatedAt": "2025-11-01T15:52:40+01:00"
+}

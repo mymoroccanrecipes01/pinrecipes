@@ -1,0 +1,158 @@
+{
+    "id": "text_recipe_1761589456_174",
+    "slug": "egg-and-ham-breakfast-sandwich",
+    "title": "Egg and Ham Breakfast Sandwich",
+    "promptIMG": "Egg and Ham Breakfast Sandwich, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Start your day with a delicious Egg and Ham Breakfast Sandwich that combines savory ham, fluffy eggs, and melted cheese between two slices of bread. This quick and satisfying meal is perfect for busy mornings or leisurely weekends.",
+    "category_id": "cat_1761230422_512",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 slices of bread",
+        "1 egg",
+        "2 slices of ham",
+        "1 slice of cheese",
+        "Salt and pepper to taste",
+        "Butter for cooking"
+    ],
+    "instructions": [
+        "Heat a skillet over medium heat and add a little butter.",
+        "Crack the egg into the skillet and season with salt and pepper. Cook until the white is set and the yolk is cooked to your liking.",
+        "While the egg is cooking, toast the bread in another skillet or toaster.",
+        "Once the egg is done, place the ham slices in the skillet to warm them up.",
+        "Assemble the sandwich by placing the cheese on one slice of bread, followed by the ham, the cooked egg, and then the other slice of bread."
+    ],
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "servings": 1,
+    "difficulty": "easy",
+    "tips": "For a perfect sandwich, use fresh ingredients and adjust the cooking time based on how you like your egg cooked.",
+    "structured_content": [
+        {
+            "content": "<p>This Egg and Ham Breakfast Sandwich is a delightful way to kickstart your morning. With layers of savory ham, a perfectly cooked egg, and melted cheese, it's a satisfying meal that you can whip up in no time.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for busy mornings or leisurely weekends<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for customizing with your favorite toppings<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this sandwich for my family; the smiles on their faces as they took their first bites were priceless. It's a recipe that brings everyone together at the breakfast table.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh eggs work best for a fluffy texture; choose large eggs for optimal size.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Salt and pepper enhance the flavor of the egg.<\/li><li><strong>Supporting ingredients:<\/strong> Use your favorite type of bread; whole grain adds a nice texture.<\/li><li><strong>Equipment needed:<\/strong> A skillet and spatula are essential for cooking the egg and assembling the sandwich.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the ingredients preparation, including keywords for SEO 15 words.",
+                "url": "egg-and-ham-breakfast-sandwich\/images\/egg-and-ham-breakfast-sandwich_image_1.webp",
+                "fileName": "egg-and-ham-breakfast-sandwich_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Gather all ingredients and preheat your skillet over medium heat.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Cook the egg in the skillet until the desired doneness is achieved, then warm the ham.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Assemble the sandwich with cheese, ham, and egg, then serve immediately.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the cooking process, including keywords for SEO 15 words.",
+                "url": "egg-and-ham-breakfast-sandwich\/images\/egg-and-ham-breakfast-sandwich_image_2.webp",
+                "fileName": "egg-and-ham-breakfast-sandwich_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook the egg on medium heat to prevent burning.<\/li><li>Avoid overcooking the egg for a runny yolk.<\/li><li>Look for a firm white and a soft yolk for perfect doneness.<\/li><li>Store leftovers in the fridge and reheat in the microwave.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This sandwich is perfect for sharing with loved ones, and it always sparks joy during breakfast gatherings.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Add avocado slices or hot sauce for an extra kick, or try different cheeses for variety.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair this sandwich with fresh fruit or a smoothie for a complete breakfast experience.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegetarian option, substitute the ham with sautéed spinach or mushrooms.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the final plated dish or variation, including keywords for SEO 15 words.",
+                "url": "egg-and-ham-breakfast-sandwich\/images\/egg-and-ham-breakfast-sandwich_image_3.webp",
+                "fileName": "egg-and-ham-breakfast-sandwich_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a non-stick skillet for easy cooking and cleanup.<\/li><li>Let the egg sit for a moment after cooking for a creamier texture.<\/li><li>Toast the bread lightly for added crunch.<\/li><li>Cut the sandwich in half for a beautiful presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe; it's simple, delicious, and sure to impress anyone who tries it!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "egg-and-ham-breakfast-sandwich_image_1.webp",
+            "filePath": "posts\/egg-and-ham-breakfast-sandwich\/images\/egg-and-ham-breakfast-sandwich_image_1.webp",
+            "relativePath": "egg-and-ham-breakfast-sandwich\/images\/egg-and-ham-breakfast-sandwich_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "egg-and-ham-breakfast-sandwich_image_2.webp",
+            "filePath": "posts\/egg-and-ham-breakfast-sandwich\/images\/egg-and-ham-breakfast-sandwich_image_2.webp",
+            "relativePath": "egg-and-ham-breakfast-sandwich\/images\/egg-and-ham-breakfast-sandwich_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "egg-and-ham-breakfast-sandwich_image_3.webp",
+            "filePath": "posts\/egg-and-ham-breakfast-sandwich\/images\/egg-and-ham-breakfast-sandwich_image_3.webp",
+            "relativePath": "egg-and-ham-breakfast-sandwich\/images\/egg-and-ham-breakfast-sandwich_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "egg-and-ham-breakfast-sandwich_image_4.webp",
+            "filePath": "posts\/egg-and-ham-breakfast-sandwich\/images\/egg-and-ham-breakfast-sandwich_image_4.webp",
+            "relativePath": "egg-and-ham-breakfast-sandwich\/images\/egg-and-ham-breakfast-sandwich_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/egg-and-ham-breakfast-sandwich\/images\/egg-and-ham-breakfast-sandwich_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "egg-and-ham-breakfast-sandwich_image_1.webp",
+    "image_path": "posts\/egg-and-ham-breakfast-sandwich\/images\/egg-and-ham-breakfast-sandwich_image_1.webp",
+    "image_dir": "egg-and-ham-breakfast-sandwich\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-27T19:24:16+01:00",
+    "updatedAt": "2025-10-27T19:24:16+01:00"
+}

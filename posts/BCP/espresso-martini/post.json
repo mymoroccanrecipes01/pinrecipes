@@ -1,0 +1,157 @@
+{
+    "id": "text_recipe_1762112246_302",
+    "slug": "espresso-martini",
+    "title": "Espresso Martini",
+    "promptIMG": "Espresso Martini, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in the rich, bold flavors of an Espresso Martini, a delightful blend of coffee and vodka that will awaken your senses. Perfect for a night out or a cozy evening in, this cocktail is sure to impress your guests.",
+    "category_id": "cat_1761230072_178",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 ounces vodka",
+        "1 ounce coffee liqueur",
+        "1 ounce freshly brewed espresso",
+        "1 ounce simple syrup",
+        "Coffee beans for garnish"
+    ],
+    "instructions": [
+        "Brew a shot of espresso and let it cool slightly.",
+        "In a cocktail shaker, combine vodka, coffee liqueur, espresso, and simple syrup.",
+        "Fill the shaker with ice and shake vigorously for about 15 seconds.",
+        "Strain the mixture into chilled martini glasses.",
+        "Garnish with a few coffee beans on top."
+    ],
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "servings": 2,
+    "difficulty": "easy",
+    "tips": "For the best flavor, use freshly brewed espresso and adjust the sweetness to your preference with simple syrup.",
+    "structured_content": [
+        {
+            "content": "<p>This Espresso Martini is not just a drink; it's an experience. The rich aroma of freshly brewed coffee combined with the smoothness of vodka creates a cocktail that is both energizing and indulgent. Perfect for coffee lovers, this drink is a showstopper at any gathering.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 10 minutes<\/li><li>Perfect balance of coffee and alcohol for a unique flavor<\/li><li>Great for entertaining or a cozy night in<\/li><li>Uses simple ingredients that are easy to find<\/li><li>Can be customized with flavored syrups or different liqueurs<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I tried an Espresso Martini at a friend's party. The combination of coffee and vodka was unlike anything I'd ever tasted, and I knew I had to learn how to make it myself. Now, it's a staple at my gatherings!<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Freshly brewed espresso works best for a rich flavor; make sure it's not too hot when mixing.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Coffee liqueur adds depth; brands like Kahlúa are popular choices.<\/li><li><strong>Supporting ingredients:<\/strong> Simple syrup sweetens the drink; adjust to taste.<\/li><li><strong>Equipment needed:<\/strong> Cocktail shaker and martini glasses are essential for this recipe.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the ingredients preparation.",
+                "url": "espresso-martini\/images\/espresso-martini_image_1.webp",
+                "fileName": "espresso-martini_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Brew espresso and let it cool for a few minutes. Measure out all ingredients.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Combine ingredients in a shaker with ice and shake until well chilled. Strain into glasses.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with coffee beans for an elegant touch.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the cooking process.",
+                "url": "espresso-martini\/images\/espresso-martini_image_2.webp",
+                "fileName": "espresso-martini_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Shake vigorously to create a frothy top.<\/li><li>A common mistake is using hot espresso, which can dilute the drink.<\/li><li>Look for a nice froth on top to indicate it's ready.<\/li><li>Store any leftover ingredients in the fridge for freshness.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This cocktail has become a favorite among my friends, and I love serving it during gatherings. The excitement on their faces when they take the first sip is priceless!<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>For a twist, try adding a splash of flavored syrup like vanilla or hazelnut, or use flavored vodka for an extra kick.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair with chocolate desserts or serve alongside a cheese platter for a sophisticated touch.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegan version, use a plant-based milk in place of simple syrup, or try a non-alcoholic coffee liqueur for a mocktail.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the final plated dish or variation.",
+                "url": "espresso-martini\/images\/espresso-martini_image_3.webp",
+                "fileName": "espresso-martini_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a high-quality vodka for the best taste.<\/li><li>Chill your glasses in the freezer before serving for an extra refreshing experience.<\/li><li>Experiment with different coffee beans for unique flavors.<\/li><li>Serve immediately for the best frothy texture.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try making this Espresso Martini at home; it's easier than you think and incredibly rewarding. Enjoy the process and impress your friends with your mixology skills!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "espresso-martini_image_1.webp",
+            "filePath": "posts\/espresso-martini\/images\/espresso-martini_image_1.webp",
+            "relativePath": "espresso-martini\/images\/espresso-martini_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "espresso-martini_image_2.webp",
+            "filePath": "posts\/espresso-martini\/images\/espresso-martini_image_2.webp",
+            "relativePath": "espresso-martini\/images\/espresso-martini_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "espresso-martini_image_3.webp",
+            "filePath": "posts\/espresso-martini\/images\/espresso-martini_image_3.webp",
+            "relativePath": "espresso-martini\/images\/espresso-martini_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "espresso-martini_image_4.webp",
+            "filePath": "posts\/espresso-martini\/images\/espresso-martini_image_4.webp",
+            "relativePath": "espresso-martini\/images\/espresso-martini_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/espresso-martini\/images\/espresso-martini_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "espresso-martini_image_1.webp",
+    "image_path": "posts\/espresso-martini\/images\/espresso-martini_image_1.webp",
+    "image_dir": "espresso-martini\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T20:37:26+01:00",
+    "updatedAt": "2025-11-02T20:37:26+01:00"
+}

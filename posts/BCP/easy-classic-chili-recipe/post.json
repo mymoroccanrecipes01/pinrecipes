@@ -1,0 +1,164 @@
+{
+    "id": "text_recipe_1761482506_140",
+    "slug": "easy-classic-chili-recipe",
+    "title": "Easy Classic Chili Recipe",
+    "promptIMG": "A descriptive prompt for generating an appetizing image of the finished dish, base in the prompt : \"chili, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300\"",
+    "isOnline": false,
+    "description": "This easy classic chili recipe is bold, hearty, and perfect for cozy nights. It's a simple one-pot meal that satisfies classic beef chili cravings and is sure to become a family favorite.",
+    "category_id": "cat_1761230383_494",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 can kidney beans, drained",
+        "1 can diced tomatoes",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 tablespoons chili powder",
+        "1 teaspoon cumin",
+        "Salt and pepper to taste",
+        "2 tablespoons olive oil"
+    ],
+    "instructions": [
+        "Heat olive oil in a large pot over medium heat.",
+        "Add chopped onion and minced garlic, sauté until softened.",
+        "Add ground beef, cooking until browned.",
+        "Stir in chili powder, cumin, salt, and pepper.",
+        "Add kidney beans and diced tomatoes, simmer for 20 minutes."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For perfect results, let the chili simmer longer to deepen the flavors. Avoid overcooking the beef to keep it tender.",
+    "structured_content": [
+        {
+            "content": "<p>This easy classic chili recipe is a comforting dish that warms you from the inside out. With its rich flavors and hearty texture, it's perfect for chilly evenings spent with family or friends.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners and cozy gatherings<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customizable to suit your taste preferences<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made chili for my family; the aroma filled the house, and everyone gathered around the table, eager to dig in. It's a dish that brings people together.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Ground beef works best for its rich flavor and texture. Use lean beef for a lighter option.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Chili powder and cumin are essential for that classic chili taste; look for high-quality spices.<\/li><li><strong>Supporting ingredients:<\/strong> Kidney beans add heartiness, while diced tomatoes provide moisture and acidity.<\/li><li><strong>Equipment needed:<\/strong> A large pot or Dutch oven is essential for even cooking.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of fresh ingredients for chili preparation, including ground beef, beans, and spices.",
+                "url": "easy-classic-chili-recipe\/images\/image_1.webp",
+                "fileName": "image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Chop the onion and mince the garlic before starting to ensure everything is ready to go.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Follow the steps to sauté the vegetables, brown the beef, and combine all ingredients for a flavorful chili.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Let the chili simmer to meld the flavors, and serve hot with your favorite toppings.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A step-by-step visual guide of the chili cooking process, showcasing the vibrant colors and textures.",
+                "url": "easy-classic-chili-recipe\/images\/image_2.webp",
+                "fileName": "image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Simmering longer enhances the flavors, so don't rush this step.<\/li><li>A common mistake is not seasoning enough; taste as you go!<\/li><li>Look for a thick, hearty texture to know it's ready.<\/li><li>Store leftovers in an airtight container for up to 3 days, and reheat gently.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this chili with friends during game nights has become a cherished tradition. It's a dish filled with warmth and laughter.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Customize your chili by adding jalapeños for heat, or top it with cheese, sour cream, and fresh cilantro for extra flavor.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve with cornbread, tortilla chips, or a fresh salad for a complete meal. Pair with a cold beer or a glass of red wine.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegetarian option, substitute ground beef with lentils or mushrooms. You can also make it spicy by adding more chili powder or fresh peppers.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated bowl of chili topped with cheese and garnished with cilantro, ready to be enjoyed.",
+                "url": "easy-classic-chili-recipe\/images\/image_3.webp",
+                "fileName": "image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a mix of ground meats for a richer flavor.<\/li><li>Let the chili sit overnight for even better taste the next day.<\/li><li>Keep an eye on the heat level; adjust spices to your preference.<\/li><li>Garnish with fresh herbs for a pop of color and flavor.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this chili recipe; it's easy, delicious, and sure to impress. Enjoy the process and the delightful results!<\/p>"
+        },
+        {
+            "category_id": "cat_1761230383_494"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "image_1.webp",
+            "filePath": "posts\/easy-classic-chili-recipe\/images\/image_1.webp",
+            "relativePath": "easy-classic-chili-recipe\/images\/image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "image_2.webp",
+            "filePath": "posts\/easy-classic-chili-recipe\/images\/image_2.webp",
+            "relativePath": "easy-classic-chili-recipe\/images\/image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "image_3.webp",
+            "filePath": "posts\/easy-classic-chili-recipe\/images\/image_3.webp",
+            "relativePath": "easy-classic-chili-recipe\/images\/image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "easy-classic-chili-recipe_image_4.webp",
+            "filePath": "posts\/easy-classic-chili-recipe\/images\/easy-classic-chili-recipe_image_4.webp",
+            "relativePath": "easy-classic-chili-recipe\/images\/easy-classic-chili-recipe_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/easy-classic-chili-recipe\/images\/easy-classic-chili-recipe_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "image_1.webp",
+    "image_path": "posts\/easy-classic-chili-recipe\/images\/image_1.webp",
+    "image_dir": "easy-classic-chili-recipe\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-26T13:41:46+01:00",
+    "updatedAt": "2025-10-26T13:41:46+01:00"
+}

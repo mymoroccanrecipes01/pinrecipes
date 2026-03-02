@@ -1,0 +1,160 @@
+{
+    "id": "text_recipe_1761841523_100",
+    "slug": "grandma-s-no-fail-pumpkin-pie",
+    "title": "Grandma's No-Fail Pumpkin Pie",
+    "promptIMG": "Pumpkin pie, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in the comforting flavors of Grandma's No-Fail Pumpkin Pie, a delightful dessert that brings warmth to any gathering. With its creamy filling and perfectly spiced crust, this pie is sure to become a family favorite.",
+    "category_id": "cat_1761230294_638",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 (15 oz) can pumpkin puree",
+        "1 (14 oz) can sweetened condensed milk",
+        "2 large eggs",
+        "1 teaspoon ground cinnamon",
+        "1\/2 teaspoon ground nutmeg",
+        "1\/2 teaspoon ground ginger",
+        "1\/2 teaspoon salt",
+        "1 (9-inch) unbaked pie crust"
+    ],
+    "instructions": [
+        "Preheat the oven to 425°F (220°C).",
+        "In a large bowl, mix together pumpkin puree, sweetened condensed milk, eggs, cinnamon, nutmeg, ginger, and salt until smooth.",
+        "Pour the filling into the unbaked pie crust.",
+        "Bake in the preheated oven for 15 minutes, then reduce the temperature to 350°F (175°C) and continue baking for 30-35 minutes, or until the filling is set.",
+        "Let the pie cool before serving."
+    ],
+    "prep_time": 15,
+    "cook_time": 45,
+    "total_time": 60,
+    "servings": 8,
+    "difficulty": "easy",
+    "tips": "For a perfect crust, ensure your pie crust is chilled before filling. Use fresh spices for enhanced flavor.",
+    "structured_content": [
+        {
+            "content": "<p>This classic pumpkin pie recipe is a cherished family tradition that never fails to impress. With its rich, spiced filling and flaky crust, it's the perfect dessert for fall gatherings and holiday celebrations.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for holiday gatherings and special occasions<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Guaranteed to impress your guests!<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Every Thanksgiving, my grandma would whip up this pumpkin pie, filling the house with its warm, inviting aroma. It became a staple at our family gatherings, and now I love sharing it with my own family.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Pumpkin puree is key for a smooth filling; canned is convenient and consistent.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Fresh spices like cinnamon and nutmeg elevate the flavor profile.<\/li><li><strong>Supporting ingredients:<\/strong> Sweetened condensed milk adds creaminess and sweetness.<\/li><li><strong>Equipment needed:<\/strong> A 9-inch pie dish and mixing bowl are essential for this recipe.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of ingredients for pumpkin pie preparation, showcasing fresh spices and pumpkin puree.",
+                "url": "grandma-s-no-fail-pumpkin-pie\/images\/grandma-s-no-fail-pumpkin-pie_image_1.webp",
+                "fileName": "grandma-s-no-fail-pumpkin-pie_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Preheat your oven and mix the filling ingredients until smooth.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Pour the filling into the crust and bake, adjusting the temperature as needed.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Allow the pie to cool before slicing for the best texture.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Capturing the cooking process of baking pumpkin pie, highlighting the golden crust and creamy filling.",
+                "url": "grandma-s-no-fail-pumpkin-pie\/images\/grandma-s-no-fail-pumpkin-pie_image_2.webp",
+                "fileName": "grandma-s-no-fail-pumpkin-pie_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Ensure the pie is fully set before removing it from the oven.<\/li><li>A common mistake is overbaking; watch for a slight jiggle in the center.<\/li><li>Letting the pie cool helps it firm up for easier slicing.<\/li><li>Store leftovers in the refrigerator for up to 3 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this pie with family during the holidays brings back fond memories of laughter and love. It's more than just dessert; it's a tradition that connects generations.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding a splash of vanilla extract or a pinch of cloves for an extra layer of flavor. Top with whipped cream for a classic finish!<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This pie pairs beautifully with a scoop of vanilla ice cream or a dollop of whipped cream. Serve alongside coffee or spiced cider for a cozy experience.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, use a gluten-free pie crust. You can also experiment with adding chocolate chips or pecans for a twist on the classic recipe.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "The final plated pumpkin pie, beautifully garnished with whipped cream and spices, ready to serve.",
+                "url": "grandma-s-no-fail-pumpkin-pie\/images\/grandma-s-no-fail-pumpkin-pie_image_3.webp",
+                "fileName": "grandma-s-no-fail-pumpkin-pie_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Chill your pie crust for a flaky texture.<\/li><li>Use room temperature eggs for better incorporation.<\/li><li>Keep an eye on the pie to prevent overbaking.<\/li><li>Garnish with cinnamon for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try making this pie—it's easier than you think! Enjoy the satisfaction of creating a beloved family recipe that will surely delight everyone.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "grandma-s-no-fail-pumpkin-pie_image_1.webp",
+            "filePath": "posts\/grandma-s-no-fail-pumpkin-pie\/images\/grandma-s-no-fail-pumpkin-pie_image_1.webp",
+            "relativePath": "grandma-s-no-fail-pumpkin-pie\/images\/grandma-s-no-fail-pumpkin-pie_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "grandma-s-no-fail-pumpkin-pie_image_2.webp",
+            "filePath": "posts\/grandma-s-no-fail-pumpkin-pie\/images\/grandma-s-no-fail-pumpkin-pie_image_2.webp",
+            "relativePath": "grandma-s-no-fail-pumpkin-pie\/images\/grandma-s-no-fail-pumpkin-pie_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "grandma-s-no-fail-pumpkin-pie_image_3.webp",
+            "filePath": "posts\/grandma-s-no-fail-pumpkin-pie\/images\/grandma-s-no-fail-pumpkin-pie_image_3.webp",
+            "relativePath": "grandma-s-no-fail-pumpkin-pie\/images\/grandma-s-no-fail-pumpkin-pie_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "grandma-s-no-fail-pumpkin-pie_image_4.webp",
+            "filePath": "posts\/grandma-s-no-fail-pumpkin-pie\/images\/grandma-s-no-fail-pumpkin-pie_image_4.webp",
+            "relativePath": "grandma-s-no-fail-pumpkin-pie\/images\/grandma-s-no-fail-pumpkin-pie_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/grandma-s-no-fail-pumpkin-pie\/images\/grandma-s-no-fail-pumpkin-pie_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "grandma-s-no-fail-pumpkin-pie_image_1.webp",
+    "image_path": "posts\/grandma-s-no-fail-pumpkin-pie\/images\/grandma-s-no-fail-pumpkin-pie_image_1.webp",
+    "image_dir": "grandma-s-no-fail-pumpkin-pie\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-30T17:25:23+01:00",
+    "updatedAt": "2025-10-30T17:25:23+01:00"
+}

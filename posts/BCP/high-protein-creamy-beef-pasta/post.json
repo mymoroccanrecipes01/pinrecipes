@@ -1,0 +1,161 @@
+{
+    "id": "text_recipe_1761590576_727",
+    "slug": "high-protein-creamy-beef-pasta",
+    "title": "High Protein Creamy Beef Pasta",
+    "promptIMG": "High Protein Creamy Beef Pasta, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This High Protein Creamy Beef Pasta is a delightful blend of rich flavors and creamy texture, making it the perfect quick dinner for busy weeknights. With its hearty ingredients and simple preparation, this dish will quickly become a family favorite.",
+    "category_id": "cat_1761230383_494",
+    "author_id": "author_001",
+    "ingredients": [
+        "8 ounces pasta of your choice",
+        "1 pound ground beef",
+        "1 cup heavy cream",
+        "1 cup grated Parmesan cheese",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
+    ],
+    "instructions": [
+        "Cook pasta according to package instructions; drain and set aside.",
+        "In a large skillet, heat olive oil over medium heat and add minced garlic.",
+        "Add ground beef and cook until browned; season with salt and pepper.",
+        "Stir in heavy cream and Parmesan cheese, mixing until creamy.",
+        "Add cooked pasta to the skillet and toss to combine.",
+        "Serve hot, garnished with fresh parsley."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For the best flavor, use freshly grated Parmesan cheese and don't overcook the beef.",
+    "structured_content": [
+        {
+            "content": "<p>This High Protein Creamy Beef Pasta is not just a meal; it's a comforting embrace on a plate. The creamy sauce envelops the tender pasta and savory beef, creating a dish that's both satisfying and indulgent. Perfect for those hectic weeknights or when you want to impress guests with minimal effort.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 35 minutes<\/li><li>Rich, creamy flavors that satisfy<\/li><li>Perfect for weeknight dinners or special occasions<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>High in protein to keep you energized<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this dish for my family; the smiles on their faces said it all. It's a recipe that brings us together, and the creamy goodness is always a hit!<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Ground beef works best for its rich flavor and protein content; choose lean ground beef for a healthier option.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Garlic adds depth; fresh herbs can elevate the dish further.<\/li><li><strong>Supporting ingredients:<\/strong> Heavy cream and Parmesan cheese create a luscious sauce that clings to the pasta.<\/li><li><strong>Equipment needed:<\/strong> A large skillet and a pot for boiling pasta are essential for this recipe.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of ingredients for High Protein Creamy Beef Pasta, showcasing fresh produce and pantry staples.",
+                "url": "high-protein-creamy-beef-pasta\/images\/high-protein-creamy-beef-pasta_image_1.webp",
+                "fileName": "high-protein-creamy-beef-pasta_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by boiling water for pasta; prepare all ingredients before cooking to streamline the process.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Cook the beef until browned, then add garlic and cream for a rich sauce. Combine with pasta.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with parsley for a pop of color and freshness before serving.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Capturing the cooking process of High Protein Creamy Beef Pasta, highlighting the creamy sauce and sautéing beef.",
+                "url": "high-protein-creamy-beef-pasta\/images\/high-protein-creamy-beef-pasta_image_2.webp",
+                "fileName": "high-protein-creamy-beef-pasta_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook the beef until just browned to retain moisture.<\/li><li>Avoid overcooking the pasta to keep it al dente.<\/li><li>The sauce should be creamy but not too thick; adjust with pasta water if needed.<\/li><li>Store leftovers in an airtight container for up to 3 days; reheat gently.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This dish is a staple in our home, often shared during family gatherings. It’s a reminder of the joy of cooking and the love that goes into every meal.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding sautéed mushrooms or spinach for extra nutrition and flavor. A pinch of red pepper flakes can add a nice kick!<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair this pasta with a crisp green salad and a glass of red wine for a complete meal. Garlic bread on the side makes it even more special!<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a lighter version, substitute ground turkey or chicken. You can also make it vegetarian by using mushrooms or lentils instead of meat.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated High Protein Creamy Beef Pasta, garnished with parsley and served with a side salad.",
+                "url": "high-protein-creamy-beef-pasta\/images\/high-protein-creamy-beef-pasta_image_3.webp",
+                "fileName": "high-protein-creamy-beef-pasta_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For restaurant-quality results, use high-quality beef and fresh ingredients.<\/li><li>Prep garlic and cheese ahead of time for a smoother cooking experience.<\/li><li>Timing is key; have everything ready to avoid overcooking.<\/li><li>Presentation matters; serve in a nice bowl and sprinkle with extra cheese.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe! It's simple, delicious, and perfect for any occasion. Cooking should be fun, and this dish is sure to bring joy to your kitchen!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "high-protein-creamy-beef-pasta_image_1.webp",
+            "filePath": "posts\/high-protein-creamy-beef-pasta\/images\/high-protein-creamy-beef-pasta_image_1.webp",
+            "relativePath": "high-protein-creamy-beef-pasta\/images\/high-protein-creamy-beef-pasta_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-creamy-beef-pasta_image_2.webp",
+            "filePath": "posts\/high-protein-creamy-beef-pasta\/images\/high-protein-creamy-beef-pasta_image_2.webp",
+            "relativePath": "high-protein-creamy-beef-pasta\/images\/high-protein-creamy-beef-pasta_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "high-protein-creamy-beef-pasta_image_3.webp",
+            "filePath": "posts\/high-protein-creamy-beef-pasta\/images\/high-protein-creamy-beef-pasta_image_3.webp",
+            "relativePath": "high-protein-creamy-beef-pasta\/images\/high-protein-creamy-beef-pasta_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "high-protein-creamy-beef-pasta_image_4.webp",
+            "filePath": "posts\/high-protein-creamy-beef-pasta\/images\/high-protein-creamy-beef-pasta_image_4.webp",
+            "relativePath": "high-protein-creamy-beef-pasta\/images\/high-protein-creamy-beef-pasta_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/high-protein-creamy-beef-pasta\/images\/high-protein-creamy-beef-pasta_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "high-protein-creamy-beef-pasta_image_1.webp",
+    "image_path": "posts\/high-protein-creamy-beef-pasta\/images\/high-protein-creamy-beef-pasta_image_1.webp",
+    "image_dir": "high-protein-creamy-beef-pasta\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-27T19:42:56+01:00",
+    "updatedAt": "2025-10-27T19:42:56+01:00"
+}

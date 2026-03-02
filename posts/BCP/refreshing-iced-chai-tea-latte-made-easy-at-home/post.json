@@ -1,0 +1,89 @@
+{
+    "id": "recipe_1768394406_882",
+    "slug": "refreshing-iced-chai-tea-latte-made-easy-at-home",
+    "title": "Refreshing Iced Chai Tea Latte Made Easy at Home",
+    "promptIMG": "Food photography: iced chai tea latte, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": false,
+    "description": "This iced chai tea latte is a delightful homemade treat. Using just chai tea bags, milk, and ice, it's ready in about 5 minutes. Perfect for a warm afternoon pick-me-up!",
+    "category_id": "cat_1761230221_583",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 chai tea bags",
+        "2 cups boiling water",
+        "1 cup milk (dairy or non-dairy)",
+        "2 tablespoons sweetener (sugar, honey, or maple syrup)",
+        "Ice cubes"
+    ],
+    "instructions": [
+        "Steep the chai tea bags in boiling water for about 5 minutes to get a strong flavor.",
+        "Remove the tea bags and stir in your sweetener until it dissolves.",
+        "Allow the tea to cool slightly, then pour it over a glass filled with ice cubes.",
+        "Add the milk to the glass and stir gently to combine.",
+        "Enjoy your refreshing iced chai tea latte!"
+    ],
+    "prep_time": 5,
+    "cook_time": 0,
+    "total_time": 5,
+    "servings": 2,
+    "difficulty": "Easy",
+    "tips": "When making iced chai tea lattes, feel free to adjust the sweetness to your taste. A common mistake is not letting the tea steep long enough, which can result in a weak flavor. If you want to make it creamier, try using oat milk or almond milk. This drink is best enjoyed fresh, but if you have leftovers, store them in the fridge for a day. Just give it a good stir before serving again!",
+    "structured_content": [
+        {
+            "content": "<p>Honestly, I absolutely love making iced chai tea lattes at home, especially during those warm afternoons when I need a little pick-me-up. This recipe is super simple and quick, taking just about 5 minutes from start to finish. You won’t believe how delicious it is with just a few basic ingredients!</p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>For this iced chai tea latte, you’ll need just a couple of chai tea bags, some milk, and ice. The beauty of using tea bags is that it saves you from having to buy any fancy chai concentrate. You can also swap in your favorite milk—almond, soy, or even coconut milk work beautifully!</p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Making this latte is a breeze! You just steep the tea bags in boiling water, sweeten it to your liking, and then pour it over ice with milk. It’s really that easy! Plus, you can customize it with spices like cinnamon or nutmeg if you want to jazz it up.</p>"
+        },
+        {
+            "upload": {
+                "context": "Iced chai tea latte in a glass on a wooden table",
+                "url": "refreshing-iced-chai-tea-latte-made-easy-at-home/images/refreshing-iced-chai-tea-latte-made-easy-at-home_image_1.webp",
+                "fileName": "refreshing-iced-chai-tea-latte-made-easy-at-home_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>For an extra treat, you can top it with whipped cream and a sprinkle of cinnamon. It’s perfect for brunch with friends or just a cozy afternoon at home. You can even make a larger batch for a gathering—just double or triple the recipe!</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "refreshing-iced-chai-tea-latte-made-easy-at-home_image_1.webp",
+            "filePath": "posts/refreshing-iced-chai-tea-latte-made-easy-at-home/images/refreshing-iced-chai-tea-latte-made-easy-at-home_image_1.webp",
+            "relativePath": "refreshing-iced-chai-tea-latte-made-easy-at-home/images/refreshing-iced-chai-tea-latte-made-easy-at-home_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/Lummyrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "refreshing-iced-chai-tea-latte-made-easy-at-home_image_2.webp",
+            "filePath": "posts/refreshing-iced-chai-tea-latte-made-easy-at-home/images/refreshing-iced-chai-tea-latte-made-easy-at-home_image_2.webp",
+            "relativePath": "refreshing-iced-chai-tea-latte-made-easy-at-home/images/refreshing-iced-chai-tea-latte-made-easy-at-home_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/Lummyrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "refreshing-iced-chai-tea-latte-made-easy-at-home_Lummyrecipes_image_4.webp",
+            "filePath": "posts/refreshing-iced-chai-tea-latte-made-easy-at-home/images/refreshing-iced-chai-tea-latte-made-easy-at-home_Lummyrecipes_image_4.webp",
+            "relativePath": "refreshing-iced-chai-tea-latte-made-easy-at-home/images/refreshing-iced-chai-tea-latte-made-easy-at-home_Lummyrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Lummyrecipes/posts/refreshing-iced-chai-tea-latte-made-easy-at-home/images/refreshing-iced-chai-tea-latte-made-easy-at-home_Lummyrecipes_image_4.webp",
+            "order": 3,
+            "type": "template"
+        }
+    ],
+    "image": "refreshing-iced-chai-tea-latte-made-easy-at-home_image_1.webp",
+    "image_path": "posts/refreshing-iced-chai-tea-latte-made-easy-at-home/images/refreshing-iced-chai-tea-latte-made-easy-at-home_image_1.webp",
+    "image_dir": "refreshing-iced-chai-tea-latte-made-easy-at-home/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-14T13:40:06+01:00",
+    "updatedAt": "2026-01-14T13:40:06+01:00"
+}

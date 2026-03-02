@@ -1,0 +1,159 @@
+{
+    "id": "text_recipe_1761589276_169",
+    "slug": "full-english-breakfast",
+    "title": "Full English Breakfast",
+    "promptIMG": "Full English Breakfast, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Start your day right with a vibrant Full English Breakfast, packed with flavor and all the essentials to keep you energized. This hearty meal combines the best of traditional ingredients, making it a beloved choice for breakfast lovers everywhere.",
+    "category_id": "cat_1761230422_512",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 slices of bread",
+        "1 cup homemade baked beans",
+        "2 tomatoes, halved",
+        "1 cup mushrooms, sliced",
+        "2 sausages",
+        "2 eggs"
+    ],
+    "instructions": [
+        "Toast the bread until golden brown.",
+        "In a skillet, cook the sausages over medium heat until browned.",
+        "Add the mushrooms and tomatoes to the skillet, cooking until softened.",
+        "Heat the baked beans in a small pot until warmed through.",
+        "Fry the eggs to your liking in a separate pan.",
+        "Serve everything on a plate, arranging it for a colorful presentation."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 2,
+    "difficulty": "medium",
+    "tips": "For the best results, use high-quality sausages and fresh ingredients. Don't rush the cooking process to ensure everything is cooked perfectly.",
+    "structured_content": [
+        {
+            "content": "<p>Experience the warmth and comfort of a Full English Breakfast, a dish that brings together a variety of flavors and textures. This meal is not just about sustenance; it's a celebration of hearty ingredients that will keep you satisfied throughout the day.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weekend brunch or special occasions<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for sharing with family and friends<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I had a Full English Breakfast while visiting a quaint café in London. The aroma of sizzling sausages and fresh toast filled the air, and I knew I had to recreate that experience at home.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Use thick-cut bread for the best toast texture.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Fresh herbs can elevate the flavor of your mushrooms.<\/li><li><strong>Supporting ingredients:<\/strong> Baked beans add a sweet and savory element to the dish.<\/li><li><strong>Equipment needed:<\/strong> A large skillet and a pot for the beans will make cooking easier.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of fresh ingredients for a Full English Breakfast, showcasing the variety and colors.",
+                "url": "full-english-breakfast\/images\/full-english-breakfast_image_1.webp",
+                "fileName": "full-english-breakfast_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by gathering all your ingredients and preheating your skillet. Prepare the baked beans in a small pot.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Cook the sausages until browned, then add mushrooms and tomatoes. Toast the bread while the sausages cook. Fry the eggs last for the best texture.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Plate the ingredients neatly, ensuring a colorful presentation with the eggs on top.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Capturing the cooking process of a Full English Breakfast, highlighting the sizzling sausages and vibrant colors.",
+                "url": "full-english-breakfast\/images\/full-english-breakfast_image_2.webp",
+                "fileName": "full-english-breakfast_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook sausages until they reach an internal temperature of 160°F for safety.<\/li><li>Avoid overcrowding the skillet to ensure even cooking.<\/li><li>Eggs are ready when the whites are set but the yolks remain runny.<\/li><li>Store leftovers in an airtight container and reheat gently.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this breakfast with loved ones brings back memories of laughter and joy around the table, making it a cherished tradition in my home.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding a sprinkle of fresh parsley or chives on top for a burst of color and flavor. A dash of hot sauce can also elevate the dish for those who enjoy a bit of heat.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This breakfast pairs wonderfully with a hot cup of tea or coffee. Serve with a side of fresh fruit for a refreshing contrast.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegetarian option, substitute sausages with plant-based alternatives and add extra vegetables like spinach or avocado.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "The final plated Full English Breakfast, showcasing the vibrant colors and textures of the dish.",
+                "url": "full-english-breakfast\/images\/full-english-breakfast_image_3.webp",
+                "fileName": "full-english-breakfast_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a cast iron skillet for even heat distribution.<\/li><li>Prep ingredients ahead of time for a smoother cooking experience.<\/li><li>Keep an eye on the timing to ensure everything is hot and ready to serve together.<\/li><li>Arrange the plate artistically for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try making this Full English Breakfast at home. It's a delightful way to start your day, and I promise you'll feel accomplished and satisfied!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "full-english-breakfast_image_1.webp",
+            "filePath": "posts\/full-english-breakfast\/images\/full-english-breakfast_image_1.webp",
+            "relativePath": "full-english-breakfast\/images\/full-english-breakfast_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "full-english-breakfast_image_2.webp",
+            "filePath": "posts\/full-english-breakfast\/images\/full-english-breakfast_image_2.webp",
+            "relativePath": "full-english-breakfast\/images\/full-english-breakfast_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "full-english-breakfast_image_3.webp",
+            "filePath": "posts\/full-english-breakfast\/images\/full-english-breakfast_image_3.webp",
+            "relativePath": "full-english-breakfast\/images\/full-english-breakfast_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "full-english-breakfast_image_4.webp",
+            "filePath": "posts\/full-english-breakfast\/images\/full-english-breakfast_image_4.webp",
+            "relativePath": "full-english-breakfast\/images\/full-english-breakfast_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/full-english-breakfast\/images\/full-english-breakfast_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "full-english-breakfast_image_1.webp",
+    "image_path": "posts\/full-english-breakfast\/images\/full-english-breakfast_image_1.webp",
+    "image_dir": "full-english-breakfast\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-27T19:21:16+01:00",
+    "updatedAt": "2025-10-27T19:21:16+01:00"
+}

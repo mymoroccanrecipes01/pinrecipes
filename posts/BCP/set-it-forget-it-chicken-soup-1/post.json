@@ -1,0 +1,158 @@
+{
+    "id": "text_recipe_1761926546_844",
+    "slug": "set-it-forget-it-chicken-soup-1",
+    "title": "Set-It-Forget-It Chicken Soup",
+    "promptIMG": "Set-It-Forget-It Chicken Soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This comforting chicken soup is a warm hug in a bowl, perfect for busy days. With minimal prep and a slow cooker, you can enjoy a hearty meal that fills your home with delicious aromas.",
+    "category_id": "cat_1761230166_734",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound boneless, skinless chicken breasts",
+        "4 cups chicken broth",
+        "2 cups mixed vegetables (carrots, peas, corn)",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 teaspoon dried thyme",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "Place the chicken breasts in the slow cooker.",
+        "Add chicken broth, mixed vegetables, onion, garlic, thyme, salt, and pepper.",
+        "Cover and cook on low for 8 hours or high for 4 hours.",
+        "Once cooked, shred the chicken with two forks and stir back into the soup."
+    ],
+    "prep_time": 15,
+    "cook_time": 480,
+    "total_time": 495,
+    "servings": 6,
+    "difficulty": "easy",
+    "tips": "For a richer flavor, sauté the onions and garlic before adding them to the slow cooker.",
+    "structured_content": [
+        {
+            "content": "<p>This Set-It-Forget-It Chicken Soup is the ultimate comfort food, perfect for chilly evenings or when you're feeling under the weather. With its rich flavors and tender chicken, it's a dish that brings warmth and joy to your table.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 15 minutes of prep<\/li><li>Hearty and satisfying, perfect for family dinners<\/li><li>Great for meal prep or leftovers<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Freezes well for future meals<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this soup; it was a rainy day, and the aroma filled my home, making everyone feel cozy and loved. It's a recipe that has become a family favorite.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Chicken breasts are perfect for this soup as they become tender and flavorful when slow-cooked.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Thyme adds a lovely herbal note that complements the chicken.<\/li><li><strong>Supporting ingredients:<\/strong> Mixed vegetables add nutrition and color to the soup.<\/li><li><strong>Equipment needed:<\/strong> A slow cooker is essential for this recipe to achieve that 'set it and forget it' magic.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A colorful array of fresh ingredients for the chicken soup, showcasing the vibrant vegetables and chicken.",
+                "url": "set-it-forget-it-chicken-soup-1\/images\/set-it-forget-it-chicken-soup-1_image_1.webp",
+                "fileName": "set-it-forget-it-chicken-soup-1_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Chop the onion and mince the garlic. Measure out the chicken broth and mixed vegetables.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Combine all ingredients in the slow cooker and set it to low for 8 hours or high for 4 hours.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Shred the chicken before serving and adjust seasoning as needed.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A step-by-step visual of the cooking process, highlighting the transformation of ingredients into a delicious soup.",
+                "url": "set-it-forget-it-chicken-soup-1\/images\/set-it-forget-it-chicken-soup-1_image_2.webp",
+                "fileName": "set-it-forget-it-chicken-soup-1_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook on low for the best flavor infusion.<\/li><li>Avoid overcooking the chicken to keep it tender.<\/li><li>Look for the chicken to shred easily as an indicator it's done.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This soup is perfect for sharing with loved ones, and it always brings back memories of family gatherings and cozy nights in.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Add a splash of lemon juice or a sprinkle of fresh herbs like parsley or dill before serving for an extra burst of flavor.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve with crusty bread or a side salad for a complete meal. Pair with a glass of white wine for a delightful dinner.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, ensure your chicken broth is certified gluten-free. You can also add noodles or rice for a heartier soup.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated bowl of chicken soup, garnished with fresh herbs and served with crusty bread.",
+                "url": "set-it-forget-it-chicken-soup-1\/images\/set-it-forget-it-chicken-soup-1_image_3.webp",
+                "fileName": "set-it-forget-it-chicken-soup-1_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For a richer flavor, add a bay leaf while cooking.<\/li><li>Use homemade broth for maximum flavor.<\/li><li>Shred the chicken while it's still warm for easier handling.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to make this soup your own! It's a forgiving recipe that allows for creativity, and the joy of making it will surely bring a smile to your face.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "set-it-forget-it-chicken-soup-1_image_1.webp",
+            "filePath": "posts\/set-it-forget-it-chicken-soup-1\/images\/set-it-forget-it-chicken-soup-1_image_1.webp",
+            "relativePath": "set-it-forget-it-chicken-soup-1\/images\/set-it-forget-it-chicken-soup-1_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "set-it-forget-it-chicken-soup-1_image_2.webp",
+            "filePath": "posts\/set-it-forget-it-chicken-soup-1\/images\/set-it-forget-it-chicken-soup-1_image_2.webp",
+            "relativePath": "set-it-forget-it-chicken-soup-1\/images\/set-it-forget-it-chicken-soup-1_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "set-it-forget-it-chicken-soup-1_image_3.webp",
+            "filePath": "posts\/set-it-forget-it-chicken-soup-1\/images\/set-it-forget-it-chicken-soup-1_image_3.webp",
+            "relativePath": "set-it-forget-it-chicken-soup-1\/images\/set-it-forget-it-chicken-soup-1_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "set-it-forget-it-chicken-soup-1_image_4.webp",
+            "filePath": "posts\/set-it-forget-it-chicken-soup-1\/images\/set-it-forget-it-chicken-soup-1_image_4.webp",
+            "relativePath": "set-it-forget-it-chicken-soup-1\/images\/set-it-forget-it-chicken-soup-1_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/set-it-forget-it-chicken-soup-1\/images\/set-it-forget-it-chicken-soup-1_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "set-it-forget-it-chicken-soup-1_image_1.webp",
+    "image_path": "posts\/set-it-forget-it-chicken-soup-1\/images\/set-it-forget-it-chicken-soup-1_image_1.webp",
+    "image_dir": "set-it-forget-it-chicken-soup-1\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-31T17:02:26+01:00",
+    "updatedAt": "2025-10-31T17:02:26+01:00"
+}

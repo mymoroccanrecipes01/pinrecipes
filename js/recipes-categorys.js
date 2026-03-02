@@ -1,16 +1,16 @@
 class RecipeLoader {
     constructor(containerId = 'items') {
         this.containerId = containerId;
-        this.recipesContainer = null;
-        this.recipesPath = './recipes/';
+        this.postsContainer = null;
+        this.postsPath = './posts/';
         this.categoriesPath = './categories/'; // NOUVEAU: Chemin vers les catégories
-        this.allRecipes = [];
-        this.filteredRecipes = [];
-        this.displayedRecipes = [];
+        this.allposts = [];
+        this.filteredposts = [];
+        this.displayedposts = [];
         this.currentPage = 0;
-        this.recipesPerPage = 6;
+        this.postsPerPage = 6;
         this.isLoading = false;
-        this.hasMoreRecipes = true;
+        this.hasMoreposts = true;
         this.initialized = false;
         this.currentCategorySlug = null;
         this.categoryMapping = {}; // NOUVEAU: Stockage du mapping des catégories
@@ -21,7 +21,7 @@ class RecipeLoader {
         
         this.waitForContainer();
         
-        if (!this.recipesContainer) {
+        if (!this.postsContainer) {
             // console.error(`Container avec l'ID '${this.containerId}' non trouvé`);
             return false;
         }
@@ -30,7 +30,7 @@ class RecipeLoader {
         await this.loadCategoryMapping();
         
         // Charger toutes les recettes
-        await this.loadAllRecipes();
+        await this.loadAllposts();
         
         // Appliquer les filtres initiaux (y compris catégorie depuis l'URL)
         this.applyUrlFilters();
@@ -89,8 +89,8 @@ class RecipeLoader {
         const baseDelay = 100;
         
         for (let i = 0; i < maxAttempts; i++) {
-            this.recipesContainer = document.getElementById(this.containerId);
-            if (this.recipesContainer) {
+            this.postsContainer = document.getElementById(this.containerId);
+            if (this.postsContainer) {
                 // console.log(`Container '${this.containerId}' trouvé après ${i + 1} tentative(s)`);
                 return;
             }
@@ -130,7 +130,7 @@ class RecipeLoader {
         
         this.resetPagination();
         
-        this.filteredRecipes = this.allRecipes.filter(recipe => {
+        this.filteredposts = this.allposts.filter(recipe => {
             if (!recipe.category_id && !recipe.category) {
                 // console.log(`✗ Recette "${recipe.title}" - pas de catégorie définie`);
                 return false;
@@ -176,23 +176,23 @@ class RecipeLoader {
             return false;
         });
         
-        // console.log(`Filtrage terminé: ${this.filteredRecipes.length} recettes trouvées pour "${categorySlug}"`);
+        // console.log(`Filtrage terminé: ${this.filteredposts.length} recettes trouvées pour "${categorySlug}"`);
         // console.log('==============================');
         
-        this.hasMoreRecipes = this.filteredRecipes.length > 0;
-        this.displayInitialRecipes();
-        this.updateFilterInfo({ category: categorySlug }, this.filteredRecipes.length);
+        this.hasMoreposts = this.filteredposts.length > 0;
+        this.displayInitialposts();
+        this.updateFilterInfo({ category: categorySlug }, this.filteredposts.length);
     }
 
     debugCategories() {
         // console.log('=== DEBUG CATEGORIES & MAPPING ===');
         // console.log('Mapping chargé:', this.categoryMapping);
-        // console.log('Nombre total de recettes:', this.allRecipes.length);
+        // console.log('Nombre total de recettes:', this.allposts.length);
         
         const categories = new Set();
         const categoryDetails = [];
         
-        this.allRecipes.forEach(recipe => {
+        this.allposts.forEach(recipe => {
             if (recipe.category_id) categories.add(recipe.category_id);
             if (recipe.category) categories.add(recipe.category);
             
@@ -213,8 +213,8 @@ class RecipeLoader {
         // console.log('=== VÉRIFICATION CORRESPONDANCES ===');
         Object.keys(this.categoryMapping).forEach(slug => {
             const id = this.categoryMapping[slug];
-            const matchingRecipes = this.allRecipes.filter(r => r.category_id === id);
-            // console.log(`Slug "${slug}" (ID: ${id}) -> ${matchingRecipes.length} recettes`);
+            const matchingposts = this.allposts.filter(r => r.category_id === id);
+            // console.log(`Slug "${slug}" (ID: ${id}) -> ${matchingposts.length} recettes`);
         });
         
         // console.log('==================================');
@@ -239,7 +239,7 @@ class RecipeLoader {
             }
             
             scrollTimeout = setTimeout(() => {
-                if (this.isLoading || !this.hasMoreRecipes) {
+                if (this.isLoading || !this.hasMoreposts) {
                     return;
                 }
 
@@ -248,7 +248,7 @@ class RecipeLoader {
                 
                 // Charger plus de recettes quand on est à 200px du bas
                 if (page !== "home" && scrollPosition >= documentHeight - 200) {
-                    this.loadMoreRecipes();
+                    this.loadMoreposts();
                 }
             }, 100);
         };
@@ -267,13 +267,13 @@ class RecipeLoader {
     // Réinitialiser la pagination
     resetPagination() {
         this.currentPage = 0;
-        this.displayedRecipes = [];
-        this.hasMoreRecipes = true;
+        this.displayedposts = [];
+        this.hasMoreposts = true;
         this.isLoading = false;
         
         // Vider le container
-        if (this.recipesContainer) {
-            this.recipesContainer.innerHTML = '';
+        if (this.postsContainer) {
+            this.postsContainer.innerHTML = '';
         }
     }
 
@@ -285,10 +285,10 @@ class RecipeLoader {
         let category = urlParams.get('category'); // Ancien format
         let categorySlug = null;
         
-        // NOUVEAU: Parser le format recipes-category/slug
+        // NOUVEAU: Parser le format posts-category/slug
         if (pageParam.includes('/')) {
             const parts = pageParam.split('/');
-            if (parts[0] === 'recipes-category' && parts[1]) {
+            if (parts[0] === 'posts-category' && parts[1]) {
                 categorySlug = parts[1];
             }
         }
@@ -310,7 +310,7 @@ class RecipeLoader {
 
     applyUrlFilters() {
         const params = this.getUrlParams();
-        let filteredRecipes = [...this.allRecipes];
+        let filteredposts = [...this.allposts];
         if (!params.category)
             params.category = '';      
         // // console.log('Slugs disponibles dans le mapping:', params.category);
@@ -321,8 +321,8 @@ class RecipeLoader {
         // // console.log('=== VÉRIFICATION CORRESPONDANCES ===');
         // Object.keys(this.categoryMapping).forEach(slug => {
         //     const id = this.categoryMapping[slug];
-        //     const matchingRecipes = this.allRecipes.filter(r => r.category_id === id);
-        //     // console.log(`Slug "${slug}" (ID: ${id}) -> ${matchingRecipes.length} recettes`);
+        //     const matchingposts = this.allposts.filter(r => r.category_id === id);
+        //     // console.log(`Slug "${slug}" (ID: ${id}) -> ${matchingposts.length} recettes`);
         // });
 
 
@@ -334,7 +334,7 @@ class RecipeLoader {
             const categoryToFilter = this.getValueByKey(this.categoryMapping, params.category);
             this.currentCategorySlug = categoryToFilter;
             
-            filteredRecipes = filteredRecipes.filter(recipe => {
+            filteredposts = filteredposts.filter(recipe => {
                 if (!recipe.category_id && !recipe.category) return false;
                 
                 // Correspondance exacte avec category_id
@@ -359,13 +359,13 @@ class RecipeLoader {
                 return false;
             });
             
-            // console.log(`Filtrage par catégorie "${categoryToFilter}": ${filteredRecipes.length} recettes trouvées`);
+            // console.log(`Filtrage par catégorie "${categoryToFilter}": ${filteredposts.length} recettes trouvées`);
         }
 
         // Filtrer par recherche
         if (params.search) {
             const searchTerm = params.search.toLowerCase();
-            filteredRecipes = filteredRecipes.filter(recipe => 
+            filteredposts = filteredposts.filter(recipe => 
                 recipe.title.toLowerCase().includes(searchTerm) ||
                 recipe.description.toLowerCase().includes(searchTerm) ||
                 recipe.category.toLowerCase().includes(searchTerm) ||
@@ -378,29 +378,29 @@ class RecipeLoader {
 
         // Filtrer par difficulté
         if (params.difficulty) {
-            filteredRecipes = filteredRecipes.filter(recipe => 
+            filteredposts = filteredposts.filter(recipe => 
                 recipe.difficulty && 
                 recipe.difficulty.toLowerCase() === params.difficulty.toLowerCase()
             );
         }
 
         // Mettre à jour les recettes filtrées
-        this.filteredRecipes = filteredRecipes;
-        this.hasMoreRecipes = this.filteredRecipes.length > 0;
+        this.filteredposts = filteredposts;
+        this.hasMoreposts = this.filteredposts.length > 0;
         
         // Afficher les premières recettes
-        this.displayInitialRecipes();
-        this.updateFilterInfo(params, this.filteredRecipes.length);
+        this.displayInitialposts();
+        this.updateFilterInfo(params, this.filteredposts.length);
     }
 
     // Afficher les premières recettes selon la page
-    displayInitialRecipes() {     
+    displayInitialposts() {     
         this.resetPagination();
-        this.loadMoreRecipes();        
+        this.loadMoreposts();        
     }
 
     // Charger plus de recettes (6 par 6)
-    async loadMoreRecipes() {
+    async loadMoreposts() {
         const params = new URLSearchParams(window.location.search);
         const pageParam = params.get("page") || "home";
         
@@ -415,7 +415,7 @@ class RecipeLoader {
             return;
         }
 
-        if (this.isLoading || !this.hasMoreRecipes) {
+        if (this.isLoading || !this.hasMoreposts) {
             return;
         }
 
@@ -423,12 +423,12 @@ class RecipeLoader {
         this.showLoadingIndicator();
 
         try {
-            const startIndex = this.currentPage * this.recipesPerPage;
-            const endIndex = startIndex + this.recipesPerPage;
-            const newRecipes = this.filteredRecipes.slice(startIndex, endIndex);
+            const startIndex = this.currentPage * this.postsPerPage;
+            const endIndex = startIndex + this.postsPerPage;
+            const newposts = this.filteredposts.slice(startIndex, endIndex);
             
-            if (newRecipes.length === 0) {
-                this.hasMoreRecipes = false;
+            if (newposts.length === 0) {
+                this.hasMoreposts = false;
                 return;
             }
 
@@ -436,13 +436,13 @@ class RecipeLoader {
             await new Promise(resolve => setTimeout(resolve, 300));     
             
             // Ajouter les nouvelles recettes
-            this.displayedRecipes.push(...newRecipes);
-            this.appendRecipesToDOM(newRecipes);
+            this.displayedposts.push(...newposts);
+            this.appendpostsToDOM(newposts);
             
             this.currentPage++;
-            this.hasMoreRecipes = endIndex < this.filteredRecipes.length;
+            this.hasMoreposts = endIndex < this.filteredposts.length;
 
-            // console.log(`Page ${this.currentPage} chargée: ${newRecipes.length} recettes (${this.displayedRecipes.length}/${this.filteredRecipes.length} total)`);
+            // console.log(`Page ${this.currentPage} chargée: ${newposts.length} recettes (${this.displayedposts.length}/${this.filteredposts.length} total)`);
             
         } catch (error) {
             // console.error('Erreur lors du chargement de plus de recettes:', error);
@@ -454,23 +454,23 @@ class RecipeLoader {
     }
 
     // Ajouter les recettes au DOM
-    appendRecipesToDOM(recipes) {
-        if (!this.recipesContainer) {
+    appendpostsToDOM(posts) {
+        if (!this.postsContainer) {
             // console.error('Container des recettes non disponible');
             return;
         }
 
-        if (recipes.length === 0) {
-            if (this.displayedRecipes.length === 0) {
+        if (posts.length === 0) {
+            if (this.displayedposts.length === 0) {
                 const categoryInfo = this.currentCategorySlug ? 
                     ` pour la catégorie "${this.currentCategorySlug}"` : '';
                 
-                this.recipesContainer.innerHTML = `
-                    <div class="no-recipes">
+                this.postsContainer.innerHTML = `
+                    <div class="no-posts">
                         <h3>Aucune recette trouvée</h3>
                         <p>Aucune recette ne correspond aux filtres sélectionnés${categoryInfo}</p>
                         ${this.currentCategorySlug ? `
-                            <button onclick="window.router.loadPage('recipes')" class="btn-secondary" style="
+                            <button onclick="window.router.loadPage('posts')" class="btn-secondary" style="
                                 background: #007bff; color: white; border: none; padding: 10px 20px; 
                                 border-radius: 5px; cursor: pointer; margin-top: 15px;
                             ">
@@ -484,8 +484,8 @@ class RecipeLoader {
         }
 
        
-        const recipesHTML = recipes.map(recipe => this.createRecipeHTML(recipe)).join('');             
-        this.recipesContainer.insertAdjacentHTML('beforeend', recipesHTML);
+        const postsHTML = posts.map(recipe => this.createRecipeHTML(recipe)).join('');             
+        this.postsContainer.insertAdjacentHTML('beforeend', postsHTML);
           
     }
 
@@ -520,8 +520,8 @@ class RecipeLoader {
             </style>
         `;
 
-        if (this.recipesContainer && this.recipesContainer.parentNode) {
-            this.recipesContainer.parentNode.appendChild(loader);
+        if (this.postsContainer && this.postsContainer.parentNode) {
+            this.postsContainer.parentNode.appendChild(loader);
         }
     }
 
@@ -550,7 +550,7 @@ class RecipeLoader {
         if (params.search) activeFilters.push(`Recherche: "${params.search}"`);
         if (params.difficulty) activeFilters.push(`Difficulté: ${params.difficulty}`);
 
-        if (activeFilters.length > 0 || resultCount !== this.allRecipes.length) {
+        if (activeFilters.length > 0 || resultCount !== this.allposts.length) {
             const filterInfo = document.createElement('section');
             filterInfo.className = 'category-hero';
             filterInfo.innerHTML = `
@@ -596,18 +596,18 @@ class RecipeLoader {
             // `;
             
             // Insérer avant le container de recettes
-            if (this.recipesContainer && this.recipesContainer.parentNode) {
-                this.recipesContainer.parentNode.insertBefore(filterInfo, this.recipesContainer);
+            if (this.postsContainer && this.postsContainer.parentNode) {
+                this.postsContainer.parentNode.insertBefore(filterInfo, this.postsContainer);
             }
         }
     }
 
     clearFilters() {
-        // Rediriger vers la page recipes normale
+        // Rediriger vers la page posts normale
         if (window.router && window.router.loadPage) {
-            window.router.loadPage('recipes');
+            window.router.loadPage('posts');
         } else {
-            window.history.pushState({}, '', window.location.pathname + '?page=recipes');
+            window.history.pushState({}, '', window.location.pathname + '?page=posts');
             window.location.reload();
         }
     }
@@ -630,7 +630,7 @@ class RecipeLoader {
 
     async getRecipeFolders() {
         try {
-            const indexResponse = await fetch(`${this.recipesPath}index.json`);
+            const indexResponse = await fetch(`${this.postsPath}index.json`);
             if (indexResponse.ok) {
 
                 const indexData = await indexResponse.json();
@@ -663,7 +663,7 @@ class RecipeLoader {
 
         for (const folderName of commonRecipeNames) {
             try {
-                const response = await fetch(`${this.recipesPath}${folderName}/recipe.json`, {
+                const response = await fetch(`${this.postsPath}${folderName}/post.json`, {
                     method: 'HEAD'
                 });
                 if (response.ok) {
@@ -677,7 +677,7 @@ class RecipeLoader {
         return folders;
     }
 
-    async loadAllRecipes() {
+    async loadAllposts() {
         try {
             const params = new URLSearchParams(window.location.search);
             const pageParam = params.get("page") || "home";
@@ -691,7 +691,7 @@ class RecipeLoader {
             const recipeFolders = await this.getRecipeFolders();
             
             if (recipeFolders.length === 0) {
-                this.showNoRecipes();
+                this.showNoposts();
                 return;
             }
 
@@ -701,17 +701,17 @@ class RecipeLoader {
                 this.loadRecipeData(folder)
             );
             
-            const recipes = await Promise.all(recipePromises);
-            const validRecipes = recipes.filter(recipe => recipe !== null && recipe.isOnline === true);
+            const posts = await Promise.all(recipePromises);
+            const validposts = posts.filter(recipe => recipe !== null && recipe.isOnline === true);
             
             
-            if (validRecipes.length === 0) {
+            if (validposts.length === 0) {
                 this.showError('Aucune recette valide trouvée dans les dossiers spécifiés');
                 return;
             }
 
             // Trier par date de création (plus récent en premier)
-            validRecipes.sort((a, b) => {
+            validposts.sort((a, b) => {
                 const dateA = new Date(a.createdAt || a.updatedAt || Date.now());
                 const dateB = new Date(b.createdAt || b.updatedAt || Date.now());
                 return dateB - dateA; // Ordre décroissant (plus récent en premier)
@@ -719,13 +719,13 @@ class RecipeLoader {
             
             // Sur la page home, prendre seulement les 6 premières après tri par date
             if (currentPage === "home") {
-                this.allRecipes = validRecipes.slice(0, 6);
-                // console.log(`Page home: ${this.allRecipes.length} recettes les plus récentes affichées`);
+                this.allposts = validposts.slice(0, 6);
+                // console.log(`Page home: ${this.allposts.length} recettes les plus récentes affichées`);
             } else {
-                this.allRecipes = validRecipes;
+                this.allposts = validposts;
             }
             
-            // console.log(`Recettes triées par date de création (${this.allRecipes.length} recettes)`);
+            // console.log(`Recettes triées par date de création (${this.allposts.length} recettes)`);
 
         } catch (error) {
             // console.error('Erreur lors du chargement des recettes:', error);
@@ -733,8 +733,8 @@ class RecipeLoader {
         }
     }
 
-    // Méthode displayInitialRecipes modifiée pour gérer la page home et les catégories
-    displayInitialRecipes() {
+    // Méthode displayInitialposts modifiée pour gérer la page home et les catégories
+    displayInitialposts() {
         const params = new URLSearchParams(window.location.search);
         const pageParam = params.get("page") || "home";
         
@@ -748,24 +748,24 @@ class RecipeLoader {
         
         if (currentPage === "home") {
             // Sur la page home, afficher directement toutes les recettes filtrées
-            // (qui sont déjà limitées à 6 dans loadAllRecipes)
-            this.displayedRecipes = [...this.filteredRecipes];
-            this.appendRecipesToDOM(this.displayedRecipes);
-            this.hasMoreRecipes = false; // Pas de load more sur home
-            // console.log(`Page home: ${this.displayedRecipes.length} recettes affichées (pas de pagination)`);
+            // (qui sont déjà limitées à 6 dans loadAllposts)
+            this.displayedposts = [...this.filteredposts];
+            this.appendpostsToDOM(this.displayedposts);
+            this.hasMoreposts = false; // Pas de load more sur home
+            // console.log(`Page home: ${this.displayedposts.length} recettes affichées (pas de pagination)`);
         } else {
             // Sur les autres pages, utiliser la pagination normale
-            this.loadMoreRecipes();
+            this.loadMoreposts();
         }
     }
 
     async loadRecipeData(folderName) {
         try {
-            const jsonUrl = `${this.recipesPath}${folderName}/recipe.json`;
+            const jsonUrl = `${this.postsPath}${folderName}/post.json`;
             const jsonResponse = await fetch(jsonUrl);
             
             if (!jsonResponse.ok) {
-                // console.warn(`Impossible de charger ${folderName}/recipe.json`);
+                // console.warn(`Impossible de charger ${folderName}/post.json`);
                 return null;
             }
             
@@ -829,7 +829,7 @@ class RecipeLoader {
         
         if (recipeData.image) {
             const imageDir = recipeData.image_dir || `${recipeData.slug || recipeData.folderName}/images`;
-            return `./recipes/${imageDir}/${recipeData.image}`;
+            return `./posts/${imageDir}/${recipeData.image}`;
         }
         
         return this.findMainImage(recipeData.slug || recipeData.folderName);
@@ -852,7 +852,7 @@ class RecipeLoader {
             'hero.jpg', 'hero.jpeg', 'hero.png'
         ];
         
-        const imagesPath = `${this.recipesPath}${folderName}/images/`;
+        const imagesPath = `${this.postsPath}${folderName}/images/`;
         
         for (const imageName of commonImageNames) {
             try {
@@ -879,7 +879,7 @@ createRecipeHTML(recipe) {
     const difficulty = recipe.difficulty || 'Non spécifié';
     const mainImage = recipe.mainImage || 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300"><rect width="400" height="300" fill="%23f8f9fa"/><text x="200" y="150" font-family="Arial" font-size="18" fill="%236c757d" text-anchor="middle">Image non disponible</text></svg>';
 
-    const recipeUrl = `recipes/${slug}`;
+    const recipeUrl = `posts/${slug}`;
     
     return `
         <div class="entry" data-category="${this.slugify(category)}" data-difficulty="${difficulty.toLowerCase()}">
@@ -910,15 +910,15 @@ createRecipeHTML(recipe) {
 }
 
     showError(message) {
-        this.recipesContainer.innerHTML = `<div class="error">${message}</div>`;
+        this.postsContainer.innerHTML = `<div class="error">${message}</div>`;
     }
 
-    showNoRecipes() {
-        this.recipesContainer.innerHTML = `
-            <div class="no-recipes">
-                <h3>Sorry, no recipes found</h3>
-                <p>Please make sure your recipe folders contain <code>recipe.json</code> files.</p>
-                <p><strong>Tip:</strong> Create a <code>recipes/index.json</code> file with the list of your folders:</p>
+    showNoposts() {
+        this.postsContainer.innerHTML = `
+            <div class="no-posts">
+                <h3>Sorry, no posts found</h3>
+                <p>Please make sure your recipe folders contain <code>post.json</code> files.</p>
+                <p><strong>Tip:</strong> Create a <code>posts/index.json</code> file with the list of your folders:</p>
                 <pre style="background: #f8f9fa; padding: 12px; border-radius: 4px; font-size: 0.9em; margin-top: 12px;">["cattle-ranch-casserole", "slow-cooker-cowboy-casserole"]</pre>
             </div>
         `;
@@ -937,16 +937,16 @@ createRecipeHTML(recipe) {
     }
 
     // NOUVEAU: Méthode publique pour obtenir les recettes filtrées
-    getFilteredRecipes() {
-        return this.filteredRecipes;
+    getFilteredposts() {
+        return this.filteredposts;
     }
 
     // NOUVEAU: Méthode pour réinitialiser complètement le loader
     reset() {
         this.resetPagination();
         this.currentCategorySlug = null;
-        this.filteredRecipes = [...this.allRecipes];
-        this.hasMoreRecipes = true;
+        this.filteredposts = [...this.allposts];
+        this.hasMoreposts = true;
     }
 }
 
@@ -1023,12 +1023,12 @@ class PageLoadWatcher {
 }
 
 // NOUVEAU: Fonction d'initialisation pour les pages de catégorie
-function initRecipesCategoryPageFeatures(categorySlug) {
+function initpostsCategoryPageFeatures(categorySlug) {
     // console.log('=== INIT CATEGORY FEATURES ===');
     // console.log('Category slug reçu:', categorySlug);
     // console.log('RecipeLoader exists:', !!recipeLoader);
     // console.log('RecipeLoader initialized:', recipeLoader?.initialized);
-    // console.log('Nombre de recettes totales:', recipeLoader?.allRecipes?.length);
+    // console.log('Nombre de recettes totales:', recipeLoader?.allposts?.length);
     
     if (recipeLoader && recipeLoader.initialized) {
         setTimeout(() => {
@@ -1041,9 +1041,9 @@ function initRecipesCategoryPageFeatures(categorySlug) {
     }
 }
 // Exposer la fonction globalement pour le router
-window.initRecipesCategoryPageFeatures = initRecipesCategoryPageFeatures;
+window.initpostsCategoryPageFeatures = initpostsCategoryPageFeatures;
 
-function initRecipeSystem() {
+function initpostsystem() {
     if (!pageLoadWatcher) {
         pageLoadWatcher = new PageLoadWatcher();
     }
@@ -1052,13 +1052,13 @@ function initRecipeSystem() {
 
 // Points d'entrée multiples pour assurer l'initialisation
 if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initRecipeSystem);
+    document.addEventListener('DOMContentLoaded', initpostsystem);
 } else {
-    setTimeout(initRecipeSystem, 50);
+    setTimeout(initpostsystem, 50);
 }
 
 window.addEventListener('load', () => {
-    setTimeout(initRecipeSystem, 100);
+    setTimeout(initpostsystem, 100);
 });
 
 // Observer les changements DOM
@@ -1068,7 +1068,7 @@ if (typeof MutationObserver !== 'undefined') {
             if (mutation.type === 'childList') {
                 const container = document.getElementById('items');
                 if (container && !recipeLoader) {
-                    initRecipeSystem();
+                    initpostsystem();
                 }
             }
         });
@@ -1086,15 +1086,15 @@ if (typeof MutationObserver !== 'undefined') {
 setTimeout(() => {
     if (!recipeLoader) {
         // console.log('Fallback: Tentative d\'initialisation après 3 secondes');
-        initRecipeSystem();
+        initpostsystem();
     }
 }, 3000);
 
 // Fonction de recherche
-function searchRecipes() {
+function searchposts() {
     if (!recipeLoader || !recipeLoader.initialized) {
         // console.warn('RecipeLoader pas encore initialisé');
-        initRecipeSystem();
+        initpostsystem();
         return;
     }
     
@@ -1124,20 +1124,20 @@ function searchRecipes() {
         params.delete('category');
         
         const otherParams = params.toString();
-        newUrl = `${window.location.pathname}?page=recipes-category/${categorySlug}`;
+        newUrl = `${window.location.pathname}?page=posts-category/${categorySlug}`;
         if (otherParams) {
             newUrl += `&${otherParams}`;
         }
     } else {
         newUrl = params.toString() ? 
-               `${window.location.pathname}?page=recipes&${params.toString()}` : 
-               `${window.location.pathname}?page=recipes`;
+               `${window.location.pathname}?page=posts&${params.toString()}` : 
+               `${window.location.pathname}?page=posts`;
     }
     
     // Naviguer vers la nouvelle URL
     if (window.router && window.router.navigateTo) {
         if (params.has('category')) {
-            window.router.navigateTo('recipes-category', { categorySlug: params.get('category') });
+            window.router.navigateTo('posts-category', { categorySlug: params.get('category') });
         } else {
             window.history.pushState({}, '', newUrl);
             recipeLoader.resetPagination();
@@ -1167,7 +1167,7 @@ function forceInitRecipeLoader() {
     
     // Réinitialiser complètement
     pageLoadWatcher = new PageLoadWatcher();
-    initRecipeSystem();
+    initpostsystem();
 }
 
 // NOUVEAU: Fonction pour naviguer vers une catégorie
@@ -1177,36 +1177,36 @@ function navigateToCategory(categorySlug) {
     } else {
         window.location.href = window.createCategoryUrl ? 
                               window.createCategoryUrl(categorySlug) : 
-                              `base.html?page=recipes-category/${categorySlug}`;
+                              `base.html?page=posts-category/${categorySlug}`;
     }
 }
 
 // NOUVEAU: Fonction pour obtenir les statistiques de recettes
-function getRecipeStats() {
+function getpoststats() {
     if (!recipeLoader) return null;
     
     return {
-        total: recipeLoader.allRecipes.length,
-        filtered: recipeLoader.filteredRecipes.length,
-        displayed: recipeLoader.displayedRecipes.length,
+        total: recipeLoader.allposts.length,
+        filtered: recipeLoader.filteredposts.length,
+        displayed: recipeLoader.displayedposts.length,
         currentCategory: recipeLoader.currentCategorySlug,
-        hasMore: recipeLoader.hasMoreRecipes,
+        hasMore: recipeLoader.hasMoreposts,
         isLoading: recipeLoader.isLoading
     };
 }
 
 // Exposer toutes les fonctions publiques
-window.searchRecipes = searchRecipes;
+window.searchposts = searchposts;
 window.forceInitRecipeLoader = forceInitRecipeLoader;
 window.navigateToCategory = navigateToCategory;
-window.getRecipeStats = getRecipeStats;
+window.getpoststats = getpoststats;
 
 // Debug: Log de l'état du système
 // console.log('RecipeLoader system loaded with category slug support');
 // console.log('Available functions:', {
-//     searchRecipes: typeof searchRecipes,
+//     searchposts: typeof searchposts,
 //     forceInitRecipeLoader: typeof forceInitRecipeLoader,
 //     navigateToCategory: typeof navigateToCategory,
-//     getRecipeStats: typeof getRecipeStats,
-//     initRecipesCategoryPageFeatures: typeof initRecipesCategoryPageFeatures
+//     getpoststats: typeof getpoststats,
+//     initpostsCategoryPageFeatures: typeof initpostsCategoryPageFeatures
 // });

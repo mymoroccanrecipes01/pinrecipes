@@ -1,0 +1,158 @@
+{
+    "id": "text_recipe_1761759241_497",
+    "slug": "cozy-apple-crisp",
+    "title": "Cozy Apple Crisp",
+    "promptIMG": "Apple crisp, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in the warm, comforting flavors of this cozy apple crisp, where flaky, buttery topping meets tender, spiced apples. It's the perfect dessert for chilly evenings or gatherings, guaranteed to impress your guests!",
+    "category_id": "cat_1761230294_638",
+    "author_id": "author_001",
+    "ingredients": [
+        "6 cups sliced apples",
+        "1 cup rolled oats",
+        "1 cup all-purpose flour",
+        "1 cup brown sugar",
+        "1 teaspoon cinnamon",
+        "1\/2 cup unsalted butter, melted"
+    ],
+    "instructions": [
+        "Preheat your oven to 350°F (175°C).",
+        "In a large bowl, mix sliced apples with cinnamon and place them in a greased baking dish.",
+        "In another bowl, combine oats, flour, brown sugar, and melted butter until crumbly.",
+        "Spread the oat mixture evenly over the apples.",
+        "Bake for 30-35 minutes until the topping is golden brown and the apples are tender."
+    ],
+    "prep_time": 15,
+    "cook_time": 35,
+    "total_time": 50,
+    "servings": 6,
+    "difficulty": "easy",
+    "tips": "For the best flavor, use a mix of sweet and tart apples. Serve warm with vanilla ice cream for an extra treat!",
+    "structured_content": [
+        {
+            "content": "<p>This cozy apple crisp recipe is the epitome of comfort food, perfect for fall gatherings or a quiet evening at home. The combination of tender, spiced apples and a flaky, buttery topping creates a dessert that is both simple and satisfying.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 50 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for cozy evenings and gatherings<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Can be served warm with ice cream for a delightful twist<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Growing up, my family always made apple crisp during the fall. The aroma of baking apples and cinnamon filled the house, creating a warm and inviting atmosphere that I cherish to this day.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Use a mix of sweet and tart apples like Granny Smith and Honeycrisp for the best flavor.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Cinnamon adds warmth and spice, enhancing the apple's natural sweetness.<\/li><li><strong>Supporting ingredients:<\/strong> Rolled oats and flour create a deliciously crunchy topping that contrasts beautifully with the tender apples.<\/li><li><strong>Equipment needed:<\/strong> A baking dish and mixing bowls are essential for this straightforward recipe.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A beautiful arrangement of sliced apples ready for the crisp, showcasing their vibrant colors and textures.",
+                "url": "cozy-apple-crisp\/images\/cozy-apple-crisp_image_1.webp",
+                "fileName": "cozy-apple-crisp_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Slice the apples and toss them with cinnamon. Preheat the oven to 350°F (175°C).<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Layer the spiced apples in a greased baking dish, then prepare the topping by mixing oats, flour, brown sugar, and melted butter. Spread it over the apples and bake.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Let it cool slightly before serving. A scoop of vanilla ice cream on top makes it even more delightful!<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "The golden-brown apple crisp baking in the oven, bubbling with deliciousness and ready to be served.",
+                "url": "cozy-apple-crisp\/images\/cozy-apple-crisp_image_2.webp",
+                "fileName": "cozy-apple-crisp_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>For perfect results, ensure the apples are tender but not mushy.<\/li><li>A common mistake is overbaking, which can dry out the topping.<\/li><li>Look for a golden-brown color on the topping to know it's ready.<\/li><li>Store leftovers in the fridge and reheat in the oven for best results.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this apple crisp with friends and family always brings back fond memories of laughter and warmth. It's a dish that brings people together, making every gathering special.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding nuts like walnuts or pecans to the topping for added crunch, or a splash of vanilla extract for extra flavor.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This apple crisp pairs wonderfully with a scoop of vanilla ice cream or a dollop of whipped cream. Serve it warm for the best experience!<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free version, substitute the all-purpose flour with almond flour or a gluten-free blend. You can also experiment with different fruits like pears or berries for a unique twist.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "The final plated apple crisp, warm and inviting, topped with a scoop of melting vanilla ice cream.",
+                "url": "cozy-apple-crisp\/images\/cozy-apple-crisp_image_3.webp",
+                "fileName": "cozy-apple-crisp_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use cold butter for a flakier topping.<\/li><li>Let the apples sit with cinnamon for a few minutes to enhance their flavor.<\/li><li>Keep an eye on the baking time to avoid overbaking.<\/li><li>Serve in individual ramekins for a charming presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this cozy apple crisp recipe! It's simple, delicious, and sure to bring joy to your kitchen and your loved ones.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "cozy-apple-crisp_image_1.webp",
+            "filePath": "posts\/cozy-apple-crisp\/images\/cozy-apple-crisp_image_1.webp",
+            "relativePath": "cozy-apple-crisp\/images\/cozy-apple-crisp_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-apple-crisp_image_2.webp",
+            "filePath": "posts\/cozy-apple-crisp\/images\/cozy-apple-crisp_image_2.webp",
+            "relativePath": "cozy-apple-crisp\/images\/cozy-apple-crisp_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "cozy-apple-crisp_image_3.webp",
+            "filePath": "posts\/cozy-apple-crisp\/images\/cozy-apple-crisp_image_3.webp",
+            "relativePath": "cozy-apple-crisp\/images\/cozy-apple-crisp_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "cozy-apple-crisp_image_4.webp",
+            "filePath": "posts\/cozy-apple-crisp\/images\/cozy-apple-crisp_image_4.webp",
+            "relativePath": "cozy-apple-crisp\/images\/cozy-apple-crisp_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/cozy-apple-crisp\/images\/cozy-apple-crisp_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "cozy-apple-crisp_image_1.webp",
+    "image_path": "posts\/cozy-apple-crisp\/images\/cozy-apple-crisp_image_1.webp",
+    "image_dir": "cozy-apple-crisp\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-29T18:34:01+01:00",
+    "updatedAt": "2025-10-29T18:34:01+01:00"
+}

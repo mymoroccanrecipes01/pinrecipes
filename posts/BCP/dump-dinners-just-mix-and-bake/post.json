@@ -1,0 +1,147 @@
+{
+    "id": "text_recipe_1762462867_905",
+    "slug": "dump-dinners-just-mix-and-bake",
+    "title": "Dump Dinners: Just Mix and Bake!",
+    "promptIMG": "A descriptive prompt for generating an appetizing image of the finished dish, base in the prompt : \"Dump Dinners, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300\"",
+    "isOnline": false,
+    "description": "Discover the simplicity and joy of Dump Dinners, where all you need to do is mix your ingredients and let the oven do the work. Perfect for busy weeknights, this dish is a flavorful, hassle-free solution that your family will love.",
+    "category_id": "cat_1761230749_334",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound shrimp peeled and deveined",
+        "2 tablespoons olive oil"
+    ],
+    "instructions": [
+        "Heat olive oil in large skillet over medium heat",
+        "Add shrimp and cook 2-3 minutes per side until pink"
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For perfectly cooked shrimp, avoid overcrowding the pan and ensure the oil is hot before adding the shrimp.",
+    "structured_content": [
+        {
+            "content": "<p>Dump Dinners are a game-changer for anyone looking to save time in the kitchen without sacrificing flavor. This recipe combines the freshness of shrimp with the ease of a one-pan meal, making it a delightful option for busy families.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners and entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for meal prep and leftovers<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Growing up, my family often enjoyed shrimp dishes during special occasions. This recipe brings back those cherished memories while being simple enough for any day of the week.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh shrimp are ideal for this dish as they cook quickly and absorb flavors beautifully. Ensure they are peeled and deveined for convenience.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Olive oil enhances the shrimp's natural sweetness and prevents sticking.<\/li><li><strong>Supporting ingredients:<\/strong> Feel free to add vegetables like bell peppers or zucchini for added nutrition and color.<\/li><li><strong>Equipment needed:<\/strong> A large skillet is essential for even cooking and to allow the shrimp to sear properly.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation.",
+                "url": "dump-dinners-just-mix-and-bake\/images\/dump-dinners-just-mix-and-bake_image_1.webp",
+                "fileName": "dump-dinners-just-mix-and-bake_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by gathering all your ingredients. Peel and devein the shrimp if not already done. Measure out your olive oil and any additional seasonings.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Heat the olive oil in a large skillet over medium heat. Once hot, add the shrimp in a single layer. Cook for 2-3 minutes on each side until they turn pink and opaque.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Remove the shrimp from the skillet and serve immediately. Consider garnishing with fresh herbs or a squeeze of lemon for brightness.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the cooking process.",
+                "url": "dump-dinners-just-mix-and-bake\/images\/dump-dinners-just-mix-and-bake_image_2.webp",
+                "fileName": "dump-dinners-just-mix-and-bake_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook shrimp just until they turn pink for the best texture.<\/li><li>Avoid overcrowding the pan to ensure even cooking.<\/li><li>When shrimp curl into a C shape, they are perfectly cooked.<\/li><li>Store leftovers in an airtight container in the fridge for up to 2 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This dish is perfect for sharing with friends and family, creating moments of joy and connection over a delicious meal that everyone can enjoy together.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Elevate your Dump Dinner by adding spices like paprika or garlic powder, or toss in fresh herbs like parsley or cilantro just before serving for an extra burst of flavor.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair this dish with a light salad or over a bed of rice for a complete meal. A crisp white wine or sparkling water with lemon makes for a refreshing beverage choice.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, serve the shrimp over quinoa or cauliflower rice. You can also substitute shrimp with chicken or tofu for different dietary preferences.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
+                "url": "dump-dinners-just-mix-and-bake\/images\/dump-dinners-just-mix-and-bake_image_3.webp",
+                "fileName": "dump-dinners-just-mix-and-bake_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a high smoke point oil for better searing.<\/li><li>Marinate shrimp for 15 minutes before cooking for deeper flavor.<\/li><li>Timing is key; keep an eye on the shrimp to prevent overcooking.<\/li><li>Serve on a colorful plate to enhance visual appeal.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't be afraid to experiment with this recipe! Cooking should be fun and rewarding, and with Dump Dinners, you'll find joy in creating delicious meals with ease.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "dump-dinners-just-mix-and-bake_image_1.webp",
+            "filePath": "posts\/dump-dinners-just-mix-and-bake\/images\/dump-dinners-just-mix-and-bake_image_1.webp",
+            "relativePath": "dump-dinners-just-mix-and-bake\/images\/dump-dinners-just-mix-and-bake_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "dump-dinners-just-mix-and-bake_image_2.webp",
+            "filePath": "posts\/dump-dinners-just-mix-and-bake\/images\/dump-dinners-just-mix-and-bake_image_2.webp",
+            "relativePath": "dump-dinners-just-mix-and-bake\/images\/dump-dinners-just-mix-and-bake_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "dump-dinners-just-mix-and-bake_image_3.webp",
+            "filePath": "posts\/dump-dinners-just-mix-and-bake\/images\/dump-dinners-just-mix-and-bake_image_3.webp",
+            "relativePath": "dump-dinners-just-mix-and-bake\/images\/dump-dinners-just-mix-and-bake_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "dump-dinners-just-mix-and-bake_image_1.webp",
+    "image_path": "posts\/dump-dinners-just-mix-and-bake\/images\/dump-dinners-just-mix-and-bake_image_1.webp",
+    "image_dir": "dump-dinners-just-mix-and-bake\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-06T22:01:07+01:00",
+    "updatedAt": "2025-11-06T22:01:07+01:00"
+}

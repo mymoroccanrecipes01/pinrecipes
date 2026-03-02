@@ -1,0 +1,151 @@
+{
+    "id": "text_recipe_1762476875_566",
+    "slug": "cozy-comfort-food-dinners-for-cold-nights",
+    "title": "Cozy Comfort Food Dinners for Cold Nights",
+    "promptIMG": "Cozy comfort food dinner, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Warm up your evenings with this delightful comfort food recipe that brings together rich flavors and heartwarming aromas. Perfect for sharing with loved ones, this dish is sure to become a favorite in your home.",
+    "category_id": "cat_1761230594_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound shrimp peeled and deveined",
+        "2 tablespoons olive oil"
+    ],
+    "instructions": [
+        "Heat olive oil in large skillet over medium heat",
+        "Add shrimp and cook 2-3 minutes per side until pink"
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For perfectly cooked shrimp, ensure the skillet is hot enough before adding the shrimp. Avoid overcrowding the pan to achieve a nice sear.",
+    "structured_content": [
+        {
+            "content": "<p>This cozy shrimp dish is the perfect antidote to chilly nights, combining the sweetness of shrimp with a touch of olive oil for a simple yet satisfying meal. The aroma of cooking shrimp will fill your kitchen, inviting everyone to the table.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for impressing guests with minimal effort<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this dish for my family; the smiles on their faces as they took the first bite made it a cherished memory. It's a recipe that brings us together, especially on those cold winter evenings.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh shrimp are best for this dish; look for ones that are firm and have a mild ocean scent.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Olive oil adds richness and helps in browning the shrimp.<\/li><li><strong>Supporting ingredients:<\/strong> Consider adding garlic or lemon for extra flavor.<\/li><li><strong>Equipment needed:<\/strong> A large skillet is essential for even cooking.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation.",
+                "url": "cozy-comfort-food-dinners-for-cold-nights\/images\/cozy-comfort-food-dinners-for-cold-nights_image_1.webp",
+                "fileName": "cozy-comfort-food-dinners-for-cold-nights_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by peeling and deveining the shrimp if not already done. Pat them dry to ensure a good sear.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Heat the olive oil in a skillet over medium heat. Once hot, add the shrimp in a single layer. Cook for 2-3 minutes on each side until they turn pink and opaque.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Serve immediately with a sprinkle of fresh herbs or a squeeze of lemon for brightness.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the cooking process.",
+                "url": "cozy-comfort-food-dinners-for-cold-nights\/images\/cozy-comfort-food-dinners-for-cold-nights_image_2.webp",
+                "fileName": "cozy-comfort-food-dinners-for-cold-nights_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook shrimp just until they are opaque; overcooking will make them rubbery.<\/li><li>A common mistake is overcrowding the pan, which can lead to steaming instead of searing.<\/li><li>They are ready when they turn pink and curl slightly.<\/li><li>Store leftovers in an airtight container in the fridge for up to 2 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this dish with friends over a cozy dinner is one of my favorite ways to connect. It’s a simple meal that sparks joy and conversation, making any gathering feel special.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Add a pinch of red pepper flakes for heat, or toss in some fresh herbs like parsley or cilantro for a burst of freshness. A dash of soy sauce can also enhance the umami flavor.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair this dish with a light salad, crusty bread, or over a bed of rice or pasta. A crisp white wine or sparkling water with lemon makes for a refreshing accompaniment.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, serve the shrimp over quinoa or cauliflower rice. You can also substitute shrimp with chicken or tofu for different dietary preferences.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
+                "url": "cozy-comfort-food-dinners-for-cold-nights\/images\/cozy-comfort-food-dinners-for-cold-nights_image_3.webp",
+                "fileName": "cozy-comfort-food-dinners-for-cold-nights_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For restaurant-quality results, let the shrimp sit at room temperature for 15 minutes before cooking.<\/li><li>Marinate the shrimp in olive oil, garlic, and herbs for maximum flavor.<\/li><li>Keep an eye on the cooking time to avoid overcooking.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe; it's easier than you think and will fill your home with delightful aromas. Enjoy the process and the joy of cooking!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "cozy-comfort-food-dinners-for-cold-nights_image_1.webp",
+            "filePath": "posts\/cozy-comfort-food-dinners-for-cold-nights\/images\/cozy-comfort-food-dinners-for-cold-nights_image_1.webp",
+            "relativePath": "cozy-comfort-food-dinners-for-cold-nights\/images\/cozy-comfort-food-dinners-for-cold-nights_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-comfort-food-dinners-for-cold-nights_image_2.webp",
+            "filePath": "posts\/cozy-comfort-food-dinners-for-cold-nights\/images\/cozy-comfort-food-dinners-for-cold-nights_image_2.webp",
+            "relativePath": "cozy-comfort-food-dinners-for-cold-nights\/images\/cozy-comfort-food-dinners-for-cold-nights_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "cozy-comfort-food-dinners-for-cold-nights_image_3.webp",
+            "filePath": "posts\/cozy-comfort-food-dinners-for-cold-nights\/images\/cozy-comfort-food-dinners-for-cold-nights_image_3.webp",
+            "relativePath": "cozy-comfort-food-dinners-for-cold-nights\/images\/cozy-comfort-food-dinners-for-cold-nights_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "cozy-comfort-food-dinners-for-cold-nights_image_4.webp",
+            "filePath": "posts\/cozy-comfort-food-dinners-for-cold-nights\/images\/cozy-comfort-food-dinners-for-cold-nights_image_4.webp",
+            "relativePath": "cozy-comfort-food-dinners-for-cold-nights\/images\/cozy-comfort-food-dinners-for-cold-nights_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/cozy-comfort-food-dinners-for-cold-nights\/images\/cozy-comfort-food-dinners-for-cold-nights_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "cozy-comfort-food-dinners-for-cold-nights_image_1.webp",
+    "image_path": "posts\/cozy-comfort-food-dinners-for-cold-nights\/images\/cozy-comfort-food-dinners-for-cold-nights_image_1.webp",
+    "image_dir": "cozy-comfort-food-dinners-for-cold-nights\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-07T23:10:05+01:00",
+    "updatedAt": "2025-11-07T23:10:05+01:00"
+}

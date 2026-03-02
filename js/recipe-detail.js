@@ -1,18 +1,18 @@
 class RecipeDetailLoader {
     constructor() {
         this.contentContainer = null;
-        this.recipesPath = './recipes/';
+        this.postsPath = './posts/';
         this.authorsPath = './authors/authors.json';
         this.initialized = false;
         this.activeAuthor = null;
-        this.recentRecipes = []; // Nouvelle propriété pour stocker les recettes récentes
+        this.recentposts = []; // Nouvelle propriété pour stocker les recettes récentes
         this.rssConfig = {
-            title: 'Delicious Recipes Feed',
-            description: 'Fresh recipes and cooking inspiration for Pinterest',
+            title: 'Delicious posts Feed',
+            description: 'Fresh posts and cooking inspiration for Pinterest',
             link: window.location.origin,
             language: 'en-US',
             copyright: `© ${new Date().getFullYear()} Recipe Collection`,
-            managingEditor: 'recipes@example.com (Recipe Team)',
+            managingEditor: 'posts@example.com (Recipe Team)',
             webMaster: 'webmaster@example.com (Web Master)',
             category: 'Food & Cooking',
             generator: 'RecipeDetailLoader RSS Generator',
@@ -36,24 +36,24 @@ class RecipeDetailLoader {
             // Load active author first
             await this.loadActiveAuthor();
 
-            const recipeSlug = this.getRecipeSlugFromUrl();
+            const postslug = this.getpostslugFromUrl();
             
-            if (!recipeSlug) {
+            if (!postslug) {
                 this.showError('Recipe name missing from URL');
                 return;
             }
 
-           // // console.log('Loading recipe:', recipeSlug);
+           // // console.log('Loading recipe:', postslug);
             
-            const recipe = await this.loadRecipeData(recipeSlug);
+            const recipe = await this.loadRecipeData(postslug);
             
             if (!recipe) {
-                this.showError(`Recipe "${recipeSlug}" not found`);
+                this.showError(`Recipe "${postslug}" not found`);
                 return;
             }
 
-            // Load recent recipes, optionally filtered by current recipe's category
-            await this.loadRecentRecipes(recipe.category_id);
+            // Load recent posts, optionally filtered by current recipe's category
+            await this.loadRecentposts(recipe.category_id);
 
             this.displayRecipe(recipe);
             this.initialized = true;
@@ -236,24 +236,24 @@ class RecipeDetailLoader {
                 this.loadRecipeDataForRSS(folder)
             );
             
-            const recipes = await Promise.all(recipePromises);
-            const validRecipes = recipes.filter(recipe => recipe !== null);
+            const posts = await Promise.all(recipePromises);
+            const validposts = posts.filter(recipe => recipe !== null);
 
             // Trier par date (plus récentes d'abord)
-            validRecipes.sort((a, b) => {
+            validposts.sort((a, b) => {
                 const dateA = new Date(a.publishDate || a.createdAt || a.updatedAt || '2023-01-01');
                 const dateB = new Date(b.publishDate || b.createdAt || b.updatedAt || '2023-01-01');
                 return dateB - dateA;
             });
 
             // Générer le XML RSS
-            const rssXml = this.buildRSSXML(validRecipes);
+            const rssXml = this.buildRSSXML(validposts);
             
             // Intégrer le RSS dans la page
-            this.integrateRSSInPage(rssXml, validRecipes);
+            this.integrateRSSInPage(rssXml, validposts);
             
             // Ajouter les meta tags pour Pinterest
-            this.addPinterestMetaTags(validRecipes);
+            this.addPinterestMetaTags(validposts);
             
             return rssXml;
             
@@ -264,11 +264,11 @@ class RecipeDetailLoader {
     }
 
     // Intégrer le RSS directement dans la page
-    integrateRSSInPage(rssXml, recipes) {
+    integrateRSSInPage(rssXml, posts) {
         // Créer un endpoint RSS virtuel accessible via JavaScript
         window.rssFeedData = {
             xml: rssXml,
-            recipes: recipes,
+            posts: posts,
             generated: new Date().toISOString(),
             url: `${window.location.origin}/rss.xml`
         };
@@ -284,7 +284,7 @@ class RecipeDetailLoader {
         this.createVirtualRSSEndpoint(rssXml);
         
     //    // // console.log('RSS feed integrated successfully!', {
-    //         recipesCount: recipes.length,
+    //         postsCount: posts.length,
     //         rssUrl: window.rssFeedData.url,
     //         virtualUrl: window.rssUrl
     //     });
@@ -354,16 +354,16 @@ class RecipeDetailLoader {
     }
 
     // Ajouter les meta tags Pinterest pour meilleure découverte
-    addPinterestMetaTags(recipes) {
+    addPinterestMetaTags(posts) {
         const metaTags = [
             { property: 'og:type', content: 'website' },
             { property: 'og:site_name', content: this.rssConfig.title },
             { name: 'pinterest-rich-pin', content: 'true' },
             { name: 'pinterest:feed', content: '/rss.xml' },
-            { name: 'pinterest:recipes', content: recipes.length.toString() },
+            { name: 'pinterest:posts', content: posts.length.toString() },
             { name: 'pinterest:updated', content: new Date().toISOString() },
             { name: 'robots', content: 'index,follow' },
-            { name: 'pinterest-verification', content: 'pinterest-recipes-feed' }
+            { name: 'pinterest-verification', content: 'pinterest-posts-feed' }
         ];
 
         metaTags.forEach(tag => {
@@ -386,11 +386,11 @@ class RecipeDetailLoader {
         });
 
         // Ajouter un script JSON-LD pour structured data
-        this.addStructuredData(recipes);
+        this.addStructuredData(posts);
     }
 
     // Ajouter les données structurées JSON-LD pour Pinterest et Google
-    addStructuredData(recipes) {
+    addStructuredData(posts) {
         const existingScript = document.getElementById('recipe-structured-data');
         if (existingScript) {
             existingScript.remove();
@@ -409,8 +409,8 @@ class RecipeDetailLoader {
             },
             "mainEntity": {
                 "@type": "ItemList",
-                "numberOfItems": recipes.length,
-                "itemListElement": recipes.slice(0, 10).map((recipe, index) => ({
+                "numberOfItems": posts.length,
+                "itemListElement": posts.slice(0, 10).map((recipe, index) => ({
                     "@type": "Recipe",
                     "position": index + 1,
                     "name": recipe.title,
@@ -530,7 +530,7 @@ class RecipeDetailLoader {
     // Charger les données d'une recette optimisées pour RSS
     async loadRecipeDataForRSS(folderName) {
         try {
-            const jsonUrl = `${this.recipesPath}${folderName}/recipe.json`;
+            const jsonUrl = `${this.postsPath}${folderName}/post.json`;
             const jsonResponse = await fetch(jsonUrl);
             
             if (!jsonResponse.ok) {
@@ -561,7 +561,7 @@ class RecipeDetailLoader {
                 link: recipeUrl,
                 guid: recipeUrl,
                 publishDate: recipeData.createdAt || recipeData.updatedAt || new Date().toISOString(),
-                category: recipeData.category || 'Recipes',
+                category: recipeData.category || 'posts',
                 author: this.activeAuthor?.name || 'House Chef',
                 mainImage: fullImageUrl,
                 prepTime: recipeData.prep_time || 15,
@@ -665,7 +665,7 @@ class RecipeDetailLoader {
     }
 
     // Construire le XML RSS complet
-    buildRSSXML(recipes) {
+    buildRSSXML(posts) {
         const now = new Date();
         const pubDate = now.toUTCString();
         
@@ -703,7 +703,7 @@ class RecipeDetailLoader {
             <height>144</height>
         </image>`;
 
-        const items = recipes.map(recipe => this.buildRSSItem(recipe)).join('\n');
+        const items = posts.map(recipe => this.buildRSSItem(recipe)).join('\n');
         
         const xmlFooter = `
     </channel>
@@ -1035,15 +1035,15 @@ class RecipeDetailLoader {
         
         document.head.appendChild(style);
     }
-    async loadRecentRecipes(categoryId = null) {
+    async loadRecentposts(categoryId = null) {
         try {
-           // // console.log('Loading recent recipes...', categoryId ? `filtered by category: ${categoryId}` : '');
+           // // console.log('Loading recent posts...', categoryId ? `filtered by category: ${categoryId}` : '');
             
             // Utiliser la même logique que RecipeLoader pour scanner les dossiers
             const recipeFolders = await this.getRecipeFolders();
             
             if (recipeFolders.length === 0) {
-                this.setDefaultRecentRecipes();
+                this.setDefaultRecentposts();
                 return;
             }
 
@@ -1052,28 +1052,28 @@ class RecipeDetailLoader {
                 this.loadRecipeDataForSidebar(folder)
             );
             
-            const recipes = await Promise.all(recipePromises);
-            let validRecipes = recipes.filter(recipe => recipe !== null);
+            const posts = await Promise.all(recipePromises);
+            let validposts = posts.filter(recipe => recipe !== null);
             
             // Filtrer par catégorie si spécifié
             if (categoryId) {
-                validRecipes = this.filterRecipesByCategory(validRecipes, categoryId);
-               // // console.log(`Filtered recipes by category ${categoryId}:`, validRecipes.length);
+                validposts = this.filterpostsByCategory(validposts, categoryId);
+               // // console.log(`Filtered posts by category ${categoryId}:`, validposts.length);
             }
             
-            if (validRecipes.length === 0) {
-                this.setDefaultRecentRecipes();
+            if (validposts.length === 0) {
+                this.setDefaultRecentposts();
                 return;
             }
 
             // Trier par date de création/modification et prendre les 5 plus récentes
-            validRecipes.sort((a, b) => {
+            validposts.sort((a, b) => {
                 const dateA = new Date(a.createdAt || a.updatedAt || '2023-01-01');
                 const dateB = new Date(b.createdAt || b.updatedAt || '2023-01-01');
                 return dateB - dateA; // Plus récent en premier
             });
 
-            this.recentRecipes = validRecipes.slice(0, 5).map(recipe => ({
+            this.recentposts = validposts.slice(0, 5).map(recipe => ({
                 slug: recipe.slug || recipe.folderName,
                 title: recipe.title,
                 image: recipe.mainImage,
@@ -1084,17 +1084,17 @@ class RecipeDetailLoader {
                 isOnline: recipe.isOnline
             }));
 
-           // // console.log('Recent recipes loaded:', this.recentRecipes.length);
+           // // console.log('Recent posts loaded:', this.recentposts.length);
             
         } catch (error) {
-           // console.error('Error loading recent recipes:', error);
-            await this.setDefaultRecentRecipes();
+           // console.error('Error loading recent posts:', error);
+            await this.setDefaultRecentposts();
         }
     }
 
     // Filtrer les recettes par catégorie ID
-    filterRecipesByCategory(recipes, categoryId) {
-        return recipes.filter(recipe => {
+    filterpostsByCategory(posts, categoryId) {
+        return posts.filter(recipe => {
             if (!recipe.category_id) return false;
             
             // Correspondance exacte de l'ID de catégorie
@@ -1112,9 +1112,9 @@ class RecipeDetailLoader {
     }
 
     // Charger les recettes récentes d'une catégorie spécifique
-    async loadRecentRecipesByCategory(categoryId) {
-        await this.loadRecentRecipes(categoryId);
-        return this.recentRecipes;
+    async loadRecentpostsByCategory(categoryId) {
+        await this.loadRecentposts(categoryId);
+        return this.recentposts;
     }
 
     // Obtenir les catégories disponibles
@@ -1125,13 +1125,13 @@ class RecipeDetailLoader {
                 this.loadRecipeDataForSidebar(folder)
             );
             
-            const recipes = await Promise.all(recipePromises);
-            const validRecipes = recipes.filter(recipe => recipe !== null);
+            const posts = await Promise.all(recipePromises);
+            const validposts = posts.filter(recipe => recipe !== null);
             
             // Extraire toutes les catégories uniques
             const categories = new Map();
             
-            validRecipes.forEach(recipe => {
+            validposts.forEach(recipe => {
                 if (recipe.category_id) {
                     categories.set(recipe.category_id, {
                         id: recipe.category_id,
@@ -1152,7 +1152,7 @@ class RecipeDetailLoader {
     // Reprendre la logique de getRecipeFolders du RecipeLoader
     async getRecipeFolders() {
         try {
-            const indexResponse = await fetch(`${this.recipesPath}index.json`);
+            const indexResponse = await fetch(`${this.postsPath}index.json`);
             if (indexResponse.ok) {
                 const indexData = await indexResponse.json();
                 return indexData.folders || indexData;
@@ -1183,7 +1183,7 @@ class RecipeDetailLoader {
 
         for (const folderName of commonRecipeNames) {
             try {
-                const response = await fetch(`${this.recipesPath}${folderName}/recipe.json`, {
+                const response = await fetch(`${this.postsPath}${folderName}/post.json`, {
                     method: 'HEAD'
                 });
                 if (response.ok) {
@@ -1200,7 +1200,7 @@ class RecipeDetailLoader {
     // Charger les données d'une recette pour la sidebar
     async loadRecipeDataForSidebar(folderName) {
         try {
-            const jsonUrl = `${this.recipesPath}${folderName}/recipe.json`;
+            const jsonUrl = `${this.postsPath}${folderName}/post.json`;
             const jsonResponse = await fetch(jsonUrl);
             
             if (!jsonResponse.ok) {
@@ -1232,7 +1232,7 @@ class RecipeDetailLoader {
     }
 
     // Méthode pour définir des recettes par défaut basées sur les dossiers existants
-    async setDefaultRecentRecipes() {
+    async setDefaultRecentposts() {
         try {
             // Essayer de charger quelques recettes réelles du dossier
             const availableFolders = [
@@ -1243,13 +1243,13 @@ class RecipeDetailLoader {
                 'homemade-cheddar-biscuits'
             ];
 
-            const defaultRecipes = [];
+            const defaultposts = [];
 
             for (const folder of availableFolders) {
                 try {
                     const recipeData = await this.loadRecipeDataForSidebar(folder);
                     if (recipeData) {
-                        defaultRecipes.push({
+                        defaultposts.push({
                             slug: recipeData.slug || folder,
                             title: recipeData.title,
                             image: recipeData.mainImage,
@@ -1259,7 +1259,7 @@ class RecipeDetailLoader {
                             isOnline: recipeData.isOnline
                         });
 
-                        if (defaultRecipes.length >= 5) break;
+                        if (defaultposts.length >= 5) break;
                     }
                 } catch (error) {
                    // // console.log(`Recette ${folder} non trouvée, passage à la suivante...`);
@@ -1268,42 +1268,42 @@ class RecipeDetailLoader {
             }
 
             // Si on a trouvé des recettes réelles, les utiliser
-            if (defaultRecipes.length > 0) {
-                this.recentRecipes = defaultRecipes;
-               // // console.log(`Utilisation de ${defaultRecipes.length} recettes réelles comme fallback`);
+            if (defaultposts.length > 0) {
+                this.recentposts = defaultposts;
+               // // console.log(`Utilisation de ${defaultposts.length} recettes réelles comme fallback`);
                 return;
             }
 
             // Sinon, utiliser des recettes par défaut basées sur les noms de dossiers existants
-            this.recentRecipes = [
+            this.recentposts = [
                 {
                     slug: 'cattle-ranch-casserole',
                     title: 'Cattle Ranch Casserole',
-                    image: './recipes/cattle-ranch-casserole/images/cattle-ranch-casserole_image_1.webp',
+                    image: './posts/cattle-ranch-casserole/images/cattle-ranch-casserole_image_1.webp',
                     description: 'Délicieux plat familial au ranch'
                 },
                 {
                     slug: 'slow-cooker-cowboy-casserole-1', 
                     title: 'Slow Cooker Cowboy Casserole',
-                    image: './recipes/slow-cooker-cowboy-casserole-1/images/slow-cooker-cowboy-casserole-1_image_1.webp',
+                    image: './posts/slow-cooker-cowboy-casserole-1/images/slow-cooker-cowboy-casserole-1_image_1.webp',
                     description: 'Casserole de cowboy à la mijoteuse'
                 },
                 {
                     slug: 'red-lobster-shrimp-scampi-1',
                     title: 'Red Lobster Shrimp Scampi',
-                    image: './recipes/red-lobster-shrimp-scampi-1/images/red-lobster-shrimp-scampi-1_image_1.webp',
+                    image: './posts/red-lobster-shrimp-scampi-1/images/red-lobster-shrimp-scampi-1_image_1.webp',
                     description: 'Crevettes scampi style Red Lobster'
                 },
                 {
                     slug: 'homemade-cheddar-biscuits',
                     title: 'Homemade Cheddar Biscuits',
-                    image: './recipes/homemade-cheddar-biscuits/images/homemade-cheddar-biscuits_image_1.webp',
+                    image: './posts/homemade-cheddar-biscuits/images/homemade-cheddar-biscuits_image_1.webp',
                     description: 'Biscuits au cheddar fait maison'
                 },
                 {
                     slug: 'salisbury-steak-meatballs-with-mushroom-gravy',
                     title: 'Salisbury Steak Meatballs',
-                    image: './recipes/salisbury-steak-meatballs-with-mushroom-gravy/images/salisbury-steak-meatballs-with-mushroom-gravy_image_1.webp',
+                    image: './posts/salisbury-steak-meatballs-with-mushroom-gravy/images/salisbury-steak-meatballs-with-mushroom-gravy_image_1.webp',
                     description: 'Boulettes de viande sauce champignons'
                 }
             ];
@@ -1314,7 +1314,7 @@ class RecipeDetailLoader {
            // console.error('Erreur lors du chargement des recettes par défaut:', error);
             
             // Dernier recours : recettes génériques
-            this.recentRecipes = [
+            this.recentposts = [
                 {
                     slug: 'recipe-unavailable-1',
                     title: 'Recette Non Disponible',
@@ -1326,19 +1326,19 @@ class RecipeDetailLoader {
     }
 
     // Nouvelle méthode pour générer le HTML des recettes récentes avec boutons Pinterest
-    generateRecentRecipesHTML() {
-        if (!this.recentRecipes || this.recentRecipes.length === 0) {
+    generateRecentpostsHTML() {
+        if (!this.recentposts || this.recentposts.length === 0) {
             return `
                 <div class="side-widget">
-                    <h5>Other Recipes</h5>
+                    <h5>Other posts</h5>
                     <div style="color: var(--muted, #666); font-size: 14px; padding: 10px;">
-                        No recent recipes available
+                        No recent posts available
                     </div>
                 </div>
             `;
         }
-console.log(this.recentRecipes);
-        const recipesHTML = this.recentRecipes.map(recipe => `
+console.log(this.recentposts);
+        const postsHTML = this.recentposts.map(recipe => `
             <div class="mini-recipe" onclick="loadRecipe('${recipe.slug}')" style="cursor: pointer; ${!recipe.isOnline ? ' display:none;' : ''}">
                 ${this.wrapImageWithPinterestButton(
                     `<img class="" src="${recipe.image}" alt="${recipe.title}">`,
@@ -1355,9 +1355,9 @@ console.log(this.recentRecipes);
 
         return `
             <div class="side-widget">
-                <h5>Recent Recipes</h5>
-                <div class="recent-recipes-list">
-                    ${recipesHTML}
+                <h5>Recent posts</h5>
+                <div class="recent-posts-list">
+                    ${postsHTML}
                 </div>
             </div>
         `;
@@ -1410,7 +1410,7 @@ console.log(this.recentRecipes);
         }
     }
 
-    getRecipeSlugFromUrl() {
+    getpostslugFromUrl() {
         const urlParams = new URLSearchParams(window.location.search);
         
         const recipeParam = urlParams.get('recipe') || urlParams.get('slug');
@@ -1430,9 +1430,9 @@ console.log(this.recentRecipes);
         return null;
     }
 
-    async loadRecipeData(recipeSlug) {
+    async loadRecipeData(postslug) {
         try {
-            const jsonUrl = `${this.recipesPath}${recipeSlug}/recipe.json`;
+            const jsonUrl = `${this.postsPath}${postslug}/post.json`;
            // // console.log('📡 Fetching recipe from:', jsonUrl);
             
             const response = await fetch(jsonUrl);
@@ -1443,9 +1443,9 @@ console.log(this.recentRecipes);
                 
                 // Essayer des variations du nom de fichier
                 const alternatives = [
-                    `${this.recipesPath}${recipeSlug}.json`,
-                    `${this.recipesPath}${recipeSlug}/data.json`,
-                    `${this.recipesPath}${recipeSlug}/recipe-data.json`
+                    `${this.postsPath}${postslug}.json`,
+                    `${this.postsPath}${postslug}/data.json`,
+                    `${this.postsPath}${postslug}/recipe-data.json`
                 ];
                 
                 for (const altUrl of alternatives) {
@@ -1455,8 +1455,8 @@ console.log(this.recentRecipes);
                         if (altResponse.ok) {
                            // // console.log('✅ Found alternative recipe file:', altUrl);
                             const altData = await altResponse.json();
-                            altData.folderName = recipeSlug;
-                            altData.mainImage = this.getMainImage(altData, recipeSlug);
+                            altData.folderName = postslug;
+                            altData.mainImage = this.getMainImage(altData, postslug);
                             return altData;
                         }
                     } catch (altError) {
@@ -1473,7 +1473,7 @@ console.log(this.recentRecipes);
             // Validation des données essentielles
             if (!recipeData.title) {
                 console.warn('⚠️ Recipe missing title, adding default');
-                recipeData.title = recipeSlug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+                recipeData.title = postslug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
             }
             
             if (!recipeData.description) {
@@ -1491,8 +1491,8 @@ console.log(this.recentRecipes);
                 recipeData.instructions = ['Instructions not available'];
             }
             
-            recipeData.folderName = recipeSlug;
-            recipeData.mainImage = this.getMainImage(recipeData, recipeSlug);
+            recipeData.folderName = postslug;
+            recipeData.mainImage = this.getMainImage(recipeData, postslug);
             
         //    // // console.log('🎯 Recipe processed:', {
         //         title: recipeData.title,
@@ -1504,7 +1504,7 @@ console.log(this.recentRecipes);
             return recipeData;
             
         } catch (error) {
-           // console.error(`💥 Error loading recipe ${recipeSlug}:`, error);
+           // console.error(`💥 Error loading recipe ${postslug}:`, error);
             
             // Retourner une recette de fallback si possible
             if (error.name === 'SyntaxError') {
@@ -1513,7 +1513,7 @@ console.log(this.recentRecipes);
                // console.error('❌ Network error - check file paths and server');
             }
             
-            return this.createFallbackRecipe(recipeSlug);
+            return this.createFallbackRecipe(postslug);
         }
     }
 
@@ -1579,12 +1579,12 @@ addRecipeMetaTags(recipe) {
     canonical.href = currentUrl;
 
     // Ajouter Schema.org JSON-LD pour Recipe
-    this.addRecipeSchemaLD(recipe, fullImageUrl, currentUrl);
+    this.addpostschemaLD(recipe, fullImageUrl, currentUrl);
     this.addBreadcrumbSchema(recipe); 
 }
 
 // Méthode pour ajouter Schema.org Recipe
-addRecipeSchemaLD(recipe, fullImageUrl, currentUrl) {
+addpostschemaLD(recipe, fullImageUrl, currentUrl) {
     // Supprimer l'ancien script s'il existe
     const existingScript = document.querySelector('script[type="application/ld+json"][data-recipe="true"]');
     if (existingScript) {
@@ -1683,14 +1683,14 @@ addBreadcrumbSchema(recipe) {
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Recipes",
-                "item": `${window.location.origin}?page=recipes`
+                "name": "posts",
+                "item": `${window.location.origin}?page=posts`
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": recipe.category || "Category",
-                "item": `${window.location.origin}?page=recipes-category&category=${recipe.category_id || ''}`
+                "item": `${window.location.origin}?page=posts-category&category=${recipe.category_id || ''}`
             },
             {
                 "@type": "ListItem",
@@ -1709,13 +1709,13 @@ addBreadcrumbSchema(recipe) {
 }
 
     // Créer une recette de fallback en cas d'erreur
-    createFallbackRecipe(recipeSlug) {
-       // // console.log('🆘 Creating fallback recipe for:', recipeSlug);
+    createFallbackRecipe(postslug) {
+       // // console.log('🆘 Creating fallback recipe for:', postslug);
         
         return {
-            title: recipeSlug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
+            title: postslug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
             description: 'This recipe is temporarily unavailable. Please try again later.',
-            folderName: recipeSlug,
+            folderName: postslug,
             mainImage: 'https://via.placeholder.com/400x300?text=Recipe+Unavailable',
             ingredients: [
                 'Recipe ingredients are currently unavailable',
@@ -1769,7 +1769,7 @@ addBreadcrumbSchema(recipe) {
         }
         
         if (recipeData.image) {
-            return `./recipes/${folderName}/images/${recipeData.image}`;
+            return `./posts/${folderName}/images/${recipeData.image}`;
         }
         
         return 'https://via.placeholder.com/400x300?text=Image+not+available';
@@ -1809,9 +1809,9 @@ addBreadcrumbSchema(recipe) {
 
             // Image upload with Pinterest button
             if (section.upload && section.upload.url && section.upload.url !== 'null') {
-                const imageUrl = section.upload.url.startsWith('./recipes/') ? 
+                const imageUrl = section.upload.url.startsWith('./posts/') ? 
                     section.upload.url : 
-                    `./recipes/${section.upload.url}`;
+                    `./posts/${section.upload.url}`;
                 index += 1;
                 html += `
                     <div class="content-image recipe-position-image-${index}">
@@ -1832,7 +1832,7 @@ addBreadcrumbSchema(recipe) {
     }
 
     // New method to create recipe summary card
-    createRecipeSummaryCard(recipe) {
+    createpostsummaryCard(recipe) {
         const {
             title,
             description,
@@ -2005,10 +2005,10 @@ addBreadcrumbSchema(recipe) {
         const structuredContentHTML = this.renderStructuredContent(structured_content);
         
         // Create summary card
-        const summaryCardHTML = this.createRecipeSummaryCard(recipe);
+        const summaryCardHTML = this.createpostsummaryCard(recipe);
 
-        // Generate recent recipes HTML
-        const recentRecipesHTML = this.generateRecentRecipesHTML();
+        // Generate recent posts HTML
+        const recentpostsHTML = this.generateRecentpostsHTML();
 
         const createdAtFormatted = new Date(createdAt).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
    
@@ -2108,7 +2108,7 @@ addBreadcrumbSchema(recipe) {
                         </div>
                     </div>
 
-                    ${recentRecipesHTML}
+                    ${recentpostsHTML}
                 </aside>
             </div>
 
@@ -2140,16 +2140,16 @@ addBreadcrumbSchema(recipe) {
 }
 
 // Fonction globale pour charger une recette
-function loadRecipe(recipeSlug) {
-    console.log('📖 Loading new recipe:', recipeSlug);
+function loadRecipe(postslug) {
+    console.log('📖 Loading new recipe:', postslug);
     
     // Build URL
-    const newUrl = `${window.location.origin}${window.location.pathname}?page=recipe-detail&recipe=${recipeSlug}`;
+    const newUrl = `${window.location.origin}${window.location.pathname}?page=recipe-detail&recipe=${postslug}`;
     
     // Push state
     window.history.pushState({
         page: 'recipe-detail',
-        recipe: recipeSlug,
+        recipe: postslug,
         timestamp: Date.now()
     }, '', newUrl);
     
@@ -2158,7 +2158,7 @@ function loadRecipe(recipeSlug) {
         // Destroy completely
         window.recipeDetailLoader.initialized = false;
         window.recipeDetailLoader.contentContainer = null;
-        window.recipeDetailLoader.recentRecipes = [];
+        window.recipeDetailLoader.recentposts = [];
         window.recipeDetailLoader.activeAuthor = null;
         
         // Show loading immediately
@@ -2211,7 +2211,7 @@ window.addEventListener('popstate', function(event) {
             // Complete destruction
             window.recipeDetailLoader.initialized = false;
             window.recipeDetailLoader.contentContainer = null;
-            window.recipeDetailLoader.recentRecipes = [];
+            window.recipeDetailLoader.recentposts = [];
             window.recipeDetailLoader.activeAuthor = null;
             
             // Recreate with delay for mobile networks
@@ -2254,7 +2254,7 @@ function initRecipeDetail() {
     //    // // console.log('🔧 Debug info:', {
     //         containerFound: !!container,
     //         currentURL: window.location.href,
-    //         recipePath: recipeDetailLoader.recipesPath,
+    //         recipePath: recipeDetailLoader.postsPath,
     //         attempt: initAttempts
     //     });
         

@@ -1,0 +1,167 @@
+{
+    "id": "text_recipe_1761235402_375",
+    "slug": "pad-thai",
+    "title": "Pad Thai",
+    "promptIMG": "Pad Thai, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Experience the vibrant flavors of Thailand with this classic Pad Thai recipe. It's a delightful stir-fry that combines tender rice noodles, succulent shrimp, and a medley of fresh ingredients, all tossed in a savory tamarind sauce that will transport your taste buds straight to the streets of Bangkok.",
+    "category_id": "cat_1761230749_334",
+    "author_id": "author_001",
+    "ingredients": [
+        "8 oz rice noodles",
+        "8 oz shrimp or chicken",
+        "2 eggs",
+        "1 cup bean sprouts",
+        "1\/4 cup peanuts, crushed",
+        "1 lime, cut into wedges",
+        "2 tablespoons tamarind paste",
+        "2 tablespoons fish sauce",
+        "1 tablespoon sugar",
+        "2 cloves garlic, minced",
+        "2 shallots, sliced"
+    ],
+    "instructions": [
+        "Soak rice noodles in warm water for 20 minutes until soft.",
+        "In a large skillet or wok, stir-fry shrimp or chicken with minced garlic over medium-high heat until cooked through.",
+        "Push the protein to one side of the pan, crack in the eggs, and scramble until just set.",
+        "Add the soaked noodles to the skillet along with tamarind paste, fish sauce, and sugar; toss everything together until well combined.",
+        "Stir in bean sprouts and cook for an additional minute.",
+        "Serve hot, garnished with crushed peanuts and lime wedges."
+    ],
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "servings": 4,
+    "difficulty": "medium",
+    "tips": "For the best flavor, use fresh tamarind paste and adjust the fish sauce to your taste. Don't overcook the noodles; they should be tender but still have a slight bite.",
+    "structured_content": [
+        {
+            "content": "<p>Pad Thai is a beloved dish that brings together the perfect balance of sweet, sour, and savory flavors. This recipe captures the essence of Thai street food, making it easy to recreate at home. The combination of fresh ingredients and bold sauces creates a dish that is both satisfying and exciting to eat.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customizable with your favorite proteins and veggies<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I tried Pad Thai at a local Thai restaurant. The flavors were so vibrant and the textures so delightful that I knew I had to learn to make it myself. Now, I love sharing this dish with friends and family, bringing a taste of Thailand to our table.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Rice noodles are essential for the authentic texture; soak them just until soft.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Tamarind paste provides the signature tang; look for a good quality brand.<\/li><li><strong>Supporting ingredients:<\/strong> Bean sprouts add crunch, while peanuts give a nutty flavor and texture.<\/li><li><strong>Equipment needed:<\/strong> A large skillet or wok is crucial for even cooking and tossing.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "Preparation of Pad Thai ingredients including rice noodles, shrimp, and vegetables, showcasing freshness and vibrant colors",
+                "url": "pad-thai\/images\/pad-thai_image_1.webp",
+                "fileName": "pad-thai_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Soak rice noodles in warm water for 20 minutes. Prepare all ingredients by chopping and measuring before starting to cook.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Stir-fry shrimp or chicken with garlic, scramble eggs, add noodles and sauce, and toss with bean sprouts.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with crushed peanuts and lime wedges before serving.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Cooking process of Pad Thai, highlighting the stir-frying technique and vibrant colors of the dish",
+                "url": "pad-thai\/images\/pad-thai_image_2.webp",
+                "fileName": "pad-thai_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook the noodles just until soft to avoid mushiness.<\/li><li>A common mistake is overcooking the shrimp or chicken; they should be just cooked through.<\/li><li>When the noodles are well-coated and heated through, it's ready to serve.<\/li><li>Store leftovers in an airtight container in the fridge for up to 2 days; reheat gently.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing Pad Thai with friends brings back memories of laughter and good times. It's a dish that not only fills the stomach but also warms the heart, making every meal a celebration.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Enhance your Pad Thai with fresh herbs like cilantro or basil, or add a dash of chili flakes for heat. You can also experiment with different proteins, such as tofu for a vegetarian option.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair Pad Thai with a refreshing cucumber salad or a light Thai iced tea for a complete meal. It's also great served alongside spring rolls for a fun dinner spread.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free version, use rice noodles and ensure your fish sauce is gluten-free. You can also make it vegan by substituting eggs with scrambled tofu and using a plant-based protein.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Final plated Pad Thai dish, beautifully garnished with peanuts and lime, showcasing its vibrant colors",
+                "url": "pad-thai\/images\/pad-thai_image_3.webp",
+                "fileName": "pad-thai_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use high heat for stir-frying to achieve a nice char on the protein.<\/li><li>Prep all ingredients before cooking to streamline the process.<\/li><li>Timing is key; have everything ready to go when you start cooking.<\/li><li>Plate with care for an impressive presentation that highlights the dish's colors.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't be intimidated by the thought of making Pad Thai at home. With this recipe, you'll impress yourself and your guests, enjoying the satisfaction of creating a beloved dish from scratch.<\/p>"
+        },
+        {
+            "category_id": "cat_1761230072_178"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "pad-thai_image_1.webp",
+            "filePath": "posts\/pad-thai\/images\/pad-thai_image_1.webp",
+            "relativePath": "pad-thai\/images\/pad-thai_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "pad-thai_image_2.webp",
+            "filePath": "posts\/pad-thai\/images\/pad-thai_image_2.webp",
+            "relativePath": "pad-thai\/images\/pad-thai_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "pad-thai_image_3.webp",
+            "filePath": "posts\/pad-thai\/images\/pad-thai_image_3.webp",
+            "relativePath": "pad-thai\/images\/pad-thai_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "pad-thai_image_4.webp",
+            "filePath": "posts\/pad-thai\/images\/pad-thai_image_4.webp",
+            "relativePath": "pad-thai\/images\/pad-thai_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/pad-thai\/images\/pad-thai_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "pad-thai_image_1.webp",
+    "image_path": "posts\/pad-thai\/images\/pad-thai_image_1.webp",
+    "image_dir": "pad-thai\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-23T18:03:22+02:00",
+    "updatedAt": "2025-10-23T18:03:22+02:00"
+}

@@ -1,0 +1,164 @@
+{
+    "id": "text_recipe_1761519023_833",
+    "slug": "best-chili",
+    "title": "Best Chili",
+    "promptIMG": "Best Chili, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This chili recipe is a game changer with tender, fall-apart shredded beef and a unique touch of Mexican Masa Harina. The aroma alone will have your mouth watering and your guests begging for the recipe.",
+    "category_id": "cat_1761230383_494",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 pounds beef chuck roast, shredded",
+        "2 tablespoons olive oil",
+        "1 onion, diced",
+        "4 cloves garlic, minced",
+        "2 cans diced tomatoes",
+        "2 cans kidney beans, drained",
+        "2 tablespoons chili powder",
+        "1 tablespoon cumin",
+        "1 cup beef broth",
+        "1\/2 cup Masa Harina",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "Heat olive oil in a large pot over medium heat. Add diced onion and minced garlic, sauté until translucent.",
+        "Add the shredded beef and cook until browned.",
+        "Stir in diced tomatoes, kidney beans, chili powder, cumin, and beef broth. Bring to a simmer.",
+        "Cover and let simmer for 8 hours, stirring occasionally.",
+        "In the last hour, mix Masa Harina with a little water to create a slurry and stir it into the chili to thicken.",
+        "Season with salt and pepper to taste before serving."
+    ],
+    "prep_time": 30,
+    "cook_time": 480,
+    "total_time": 510,
+    "servings": 12,
+    "difficulty": "medium",
+    "tips": "For the best flavor, allow the chili to sit overnight in the refrigerator and reheat before serving. This allows the flavors to meld beautifully.",
+    "structured_content": [
+        {
+            "content": "<p>This chili is not just any chili; it's a comforting bowl of warmth that brings everyone together. The tender beef melts in your mouth, while the spices create a rich, aromatic experience that is simply irresistible.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Cooked low and slow for maximum flavor<\/li><li>Unique twist with shredded beef and Masa Harina<\/li><li>Perfect for game day or family gatherings<\/li><li>Easy to make with simple ingredients<\/li><li>Freezes well for future meals<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this chili for a family gathering. The compliments kept coming, and it quickly became a staple at our get-togethers. It's a dish that brings warmth and joy to any occasion.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Beef chuck roast is ideal for shredding and provides rich flavor.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Chili powder and cumin are essential for that classic chili taste.<\/li><li><strong>Supporting ingredients:<\/strong> Tomatoes and beans add texture and heartiness.<\/li><li><strong>Equipment needed:<\/strong> A large pot or slow cooker for even cooking.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of fresh ingredients ready for chili preparation, highlighting the colors and textures.",
+                "url": "best-chili\/images\/image_1.webp",
+                "fileName": "image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by dicing the onion and mincing the garlic. Shred the beef if not pre-shredded.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Follow the step-by-step instructions for sautéing and simmering to develop flavors.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Thicken the chili with Masa Harina and adjust seasoning before serving.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Capturing the simmering chili in the pot, showcasing the rich colors and textures as it cooks.",
+                "url": "best-chili\/images\/image_2.webp",
+                "fileName": "image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook low and slow for tender beef and deep flavors.<\/li><li>Avoid overcooking the beans to maintain their texture.<\/li><li>The chili is ready when the beef easily shreds with a fork.<\/li><li>Store leftovers in an airtight container for up to a week.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this chili with friends and family has created countless memories. It's a dish that not only fills the stomach but also warms the heart.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding a splash of Worcestershire sauce or a pinch of smoked paprika for an extra layer of flavor. Fresh cilantro or lime juice can brighten the dish just before serving.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve with cornbread, tortilla chips, or over rice for a complete meal. Pair with a cold beer or a refreshing soda for the perfect combination.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegetarian version, substitute the beef with lentils or mushrooms. You can also experiment with different beans or add vegetables like bell peppers for added nutrition.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "The final plated chili garnished with fresh herbs, showcasing its vibrant colors and inviting presentation.",
+                "url": "best-chili\/images\/image_3.webp",
+                "fileName": "image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a good quality beef for the best flavor.<\/li><li>Let the chili rest for a day for even better taste.<\/li><li>Stir occasionally to prevent sticking.<\/li><li>Garnish with cheese and sour cream for an impressive finish.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't be intimidated by the cooking time; the results are worth it! Enjoy the process and the delicious reward that awaits you.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "image_1.webp",
+            "filePath": "posts\/best-chili\/images\/image_1.webp",
+            "relativePath": "best-chili\/images\/image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "image_2.webp",
+            "filePath": "posts\/best-chili\/images\/image_2.webp",
+            "relativePath": "best-chili\/images\/image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "image_3.webp",
+            "filePath": "posts\/best-chili\/images\/image_3.webp",
+            "relativePath": "best-chili\/images\/image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "best-chili_image_4.webp",
+            "filePath": "posts\/best-chili\/images\/best-chili_image_4.webp",
+            "relativePath": "best-chili\/images\/best-chili_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/best-chili\/images\/best-chili_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "image_1.webp",
+    "image_path": "posts\/best-chili\/images\/image_1.webp",
+    "image_dir": "best-chili\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-26T23:50:23+01:00",
+    "updatedAt": "2025-10-26T23:50:23+01:00"
+}

@@ -1,0 +1,163 @@
+{
+    "id": "text_recipe_1762477079_275",
+    "slug": "creative-taco-tuesday-posts",
+    "title": "Creative Taco Tuesday posts",
+    "promptIMG": "Creative tacos on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Elevate your Taco Tuesday with these creative posts that bring vibrant flavors and textures to your table. Perfect for gatherings or a fun family dinner, these tacos will impress everyone!",
+    "category_id": "cat_1761230072_178",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound shrimp peeled and deveined",
+        "2 tablespoons olive oil",
+        "1 teaspoon chili powder",
+        "1 teaspoon cumin",
+        "1\/2 teaspoon garlic powder",
+        "1\/2 teaspoon salt",
+        "8 small corn tortillas",
+        "1 cup shredded cabbage",
+        "1\/2 cup diced tomatoes",
+        "1\/4 cup chopped cilantro",
+        "Lime wedges for serving"
+    ],
+    "instructions": [
+        "Heat olive oil in a large skillet over medium heat.",
+        "Add shrimp, chili powder, cumin, garlic powder, and salt. Cook for 2-3 minutes per side until shrimp are pink and cooked through.",
+        "Warm the corn tortillas in a separate skillet or microwave.",
+        "Assemble tacos by placing shrimp on tortillas and topping with shredded cabbage, diced tomatoes, and chopped cilantro.",
+        "Serve with lime wedges on the side."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "medium",
+    "tips": "For perfectly cooked shrimp, avoid overcrowding the pan and ensure the oil is hot before adding the shrimp.",
+    "structured_content": [
+        {
+            "content": "<p>These creative taco posts are not just about the shrimp; they are a celebration of flavors and textures that come together in a delightful way. Imagine the crunch of fresh cabbage paired with the succulent shrimp, all wrapped in a warm tortilla. Perfect for any occasion, these tacos will become a family favorite!<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customizable with your favorite toppings<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Every Taco Tuesday at my house is a mini celebration. I remember the first time I made these shrimp tacos; my kids couldn't get enough! The combination of flavors and the fun of assembling their own tacos made it a hit.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Shrimp is the star here; choose fresh or frozen, but ensure they are peeled and deveined for easy cooking.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Chili powder and cumin add warmth and depth, while garlic powder enhances the overall flavor.<\/li><li><strong>Supporting ingredients:<\/strong> Cabbage adds crunch, tomatoes bring freshness, and cilantro provides a burst of flavor.<\/li><li><strong>Equipment needed:<\/strong> A large skillet for cooking and a separate skillet or microwave for warming tortillas.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "Preparation of shrimp and toppings for tacos.",
+                "url": "creative-taco-tuesday-posts\/images\/creative-taco-tuesday-posts_image_1.webp",
+                "fileName": "creative-taco-tuesday-posts_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by peeling and deveining the shrimp if not already done. Measure out your spices and chop the vegetables.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Cook the shrimp in a hot skillet, ensuring they are evenly coated with spices and cooked until pink.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Assemble the tacos with shrimp and toppings, and serve with lime wedges for an extra zing.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Cooking process of shrimp in skillet.",
+                "url": "creative-taco-tuesday-posts\/images\/creative-taco-tuesday-posts_image_2.webp",
+                "fileName": "creative-taco-tuesday-posts_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook shrimp just until they turn pink to avoid overcooking.<\/li><li>A common mistake is overcrowding the pan, which can steam the shrimp instead of searing them.<\/li><li>Look for a firm texture and opaque color to know when shrimp are done.<\/li><li>Store leftovers in an airtight container in the fridge for up to 2 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing these tacos with friends and family brings everyone together. It's a simple yet flavorful dish that sparks joy and conversation around the table.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Try adding avocado slices, a drizzle of spicy mayo, or pickled onions for an extra kick. Fresh herbs like mint or parsley can also elevate the flavor profile.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve these tacos with a side of Mexican rice or black beans, and pair with a refreshing margarita or iced tea for a complete meal.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, use corn tortillas. You can also substitute shrimp with grilled chicken or roasted vegetables for a vegetarian twist.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Final plated shrimp tacos with toppings.",
+                "url": "creative-taco-tuesday-posts\/images\/creative-taco-tuesday-posts_image_3.webp",
+                "fileName": "creative-taco-tuesday-posts_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For restaurant-quality results, ensure your skillet is hot before adding shrimp.<\/li><li>Marinate shrimp in lime juice and spices for 15 minutes before cooking for maximum flavor.<\/li><li>Timing is key; have all your toppings ready before you start cooking.<\/li><li>Garnish with extra cilantro for a beautiful presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try making these tacos! They are not only easy but also incredibly satisfying. Enjoy the process and the delicious results!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "creative-taco-tuesday-posts_image_1.webp",
+            "filePath": "posts\/creative-taco-tuesday-posts\/images\/creative-taco-tuesday-posts_image_1.webp",
+            "relativePath": "creative-taco-tuesday-posts\/images\/creative-taco-tuesday-posts_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creative-taco-tuesday-posts_image_2.webp",
+            "filePath": "posts\/creative-taco-tuesday-posts\/images\/creative-taco-tuesday-posts_image_2.webp",
+            "relativePath": "creative-taco-tuesday-posts\/images\/creative-taco-tuesday-posts_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "creative-taco-tuesday-posts_image_3.webp",
+            "filePath": "posts\/creative-taco-tuesday-posts\/images\/creative-taco-tuesday-posts_image_3.webp",
+            "relativePath": "creative-taco-tuesday-posts\/images\/creative-taco-tuesday-posts_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "creative-taco-tuesday-posts_image_4.webp",
+            "filePath": "posts\/creative-taco-tuesday-posts\/images\/creative-taco-tuesday-posts_image_4.webp",
+            "relativePath": "creative-taco-tuesday-posts\/images\/creative-taco-tuesday-posts_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/creative-taco-tuesday-posts\/images\/creative-taco-tuesday-posts_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "creative-taco-tuesday-posts_image_1.webp",
+    "image_path": "posts\/creative-taco-tuesday-posts\/images\/creative-taco-tuesday-posts_image_1.webp",
+    "image_dir": "creative-taco-tuesday-posts\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-07T01:57:59+01:00",
+    "updatedAt": "2025-11-07T01:57:59+01:00"
+}

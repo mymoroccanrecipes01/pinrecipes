@@ -1,0 +1,158 @@
+{
+    "id": "text_recipe_1761234801_750",
+    "slug": "bruschetta-with-tomato-and-basil",
+    "title": "Bruschetta with Tomato and Basil",
+    "promptIMG": "Bruschetta with tomato and basil, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This vibrant bruschetta with fresh tomatoes and basil is a delightful appetizer that bursts with flavor. Perfectly toasted bread topped with a refreshing mix makes it an irresistible starter for any gathering.",
+    "category_id": "cat_1761230221_583",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 baguette",
+        "4 ripe tomatoes, diced",
+        "Fresh basil leaves, chopped",
+        "2 cloves garlic, minced",
+        "2 tablespoons olive oil",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "Preheat the grill or oven to medium-high heat.",
+        "Slice the baguette into 1\/2 inch thick slices and grill until golden brown.",
+        "Rub each slice with minced garlic while still warm.",
+        "In a bowl, combine diced tomatoes, chopped basil, olive oil, salt, and pepper.",
+        "Spoon the tomato mixture generously onto each slice of grilled bread."
+    ],
+    "prep_time": 15,
+    "cook_time": 10,
+    "total_time": 25,
+    "servings": 12,
+    "difficulty": "easy",
+    "tips": "For the best flavor, use the ripest tomatoes you can find and fresh basil. Toast the bread just until golden to maintain a slight chewiness.",
+    "structured_content": [
+        {
+            "content": "<p>This bruschetta recipe is a classic Italian appetizer that showcases the best of summer produce. The combination of juicy tomatoes, fragrant basil, and crunchy bread creates a delightful contrast that is sure to impress your guests.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for entertaining or casual weeknight dinners<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for summer gatherings or as a light snack<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember making bruschetta with my grandmother during summer visits. We would pick fresh tomatoes from her garden, and the taste of that vibrant topping on warm bread is a memory I cherish.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Ripe tomatoes are essential for the best flavor; look for ones that are firm yet slightly soft to the touch.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Fresh basil adds a fragrant note; ensure it's bright green and aromatic.<\/li><li><strong>Supporting ingredients:<\/strong> Olive oil enhances the richness, while garlic adds a punch of flavor.<\/li><li><strong>Equipment needed:<\/strong> A grill or oven for toasting the bread, and a sharp knife for slicing.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "Preparation of ingredients for bruschetta.",
+                "url": "bruschetta-with-tomato-and-basil\/images\/bruschetta-with-tomato-and-basil_image_1.webp",
+                "fileName": "bruschetta-with-tomato-and-basil_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Slice the baguette and prepare the tomato mixture while the grill heats up.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Grill the bread until golden, then rub with garlic and top with the tomato mixture.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Serve immediately for the best texture and flavor.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Cooking process of bruschetta.",
+                "url": "bruschetta-with-tomato-and-basil\/images\/bruschetta-with-tomato-and-basil_image_2.webp",
+                "fileName": "bruschetta-with-tomato-and-basil_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Toast the bread just until golden to avoid it becoming too hard.<\/li><li>Avoid over-salting the tomato mixture; taste and adjust as needed.<\/li><li>Bruschetta is best served fresh, but you can prepare the topping ahead of time.<\/li><li>Store any leftover topping in the fridge for up to a day, but it’s best fresh.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing bruschetta with friends over a glass of wine is one of my favorite ways to unwind. It's a simple dish that brings everyone together, reminding us of the joy of good food and great company.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding a drizzle of balsamic glaze for sweetness or a sprinkle of feta cheese for creaminess. You can also experiment with different herbs like oregano or thyme for a unique twist.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair bruschetta with a light salad, a glass of chilled white wine, or serve it as part of a charcuterie board for a delightful appetizer spread.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, use gluten-free bread. You can also make a vegan version by omitting cheese and using a plant-based oil.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Final plated bruschetta dish.",
+                "url": "bruschetta-with-tomato-and-basil\/images\/bruschetta-with-tomato-and-basil_image_3.webp",
+                "fileName": "bruschetta-with-tomato-and-basil_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For a restaurant-quality finish, grill the bread just before serving.<\/li><li>Let the tomato mixture sit for a few minutes to enhance the flavors.<\/li><li>Timing is key; prepare everything in advance to serve immediately.<\/li><li>Garnish with a sprig of basil for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't be afraid to get creative with your bruschetta! Enjoy the process of making it, and remember that the best meals are those shared with loved ones.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "bruschetta-with-tomato-and-basil_image_1.webp",
+            "filePath": "posts\/bruschetta-with-tomato-and-basil\/images\/bruschetta-with-tomato-and-basil_image_1.webp",
+            "relativePath": "bruschetta-with-tomato-and-basil\/images\/bruschetta-with-tomato-and-basil_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "bruschetta-with-tomato-and-basil_image_2.webp",
+            "filePath": "posts\/bruschetta-with-tomato-and-basil\/images\/bruschetta-with-tomato-and-basil_image_2.webp",
+            "relativePath": "bruschetta-with-tomato-and-basil\/images\/bruschetta-with-tomato-and-basil_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "bruschetta-with-tomato-and-basil_image_3.webp",
+            "filePath": "posts\/bruschetta-with-tomato-and-basil\/images\/bruschetta-with-tomato-and-basil_image_3.webp",
+            "relativePath": "bruschetta-with-tomato-and-basil\/images\/bruschetta-with-tomato-and-basil_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "bruschetta-with-tomato-and-basil_image_4.webp",
+            "filePath": "posts\/bruschetta-with-tomato-and-basil\/images\/bruschetta-with-tomato-and-basil_image_4.webp",
+            "relativePath": "bruschetta-with-tomato-and-basil\/images\/bruschetta-with-tomato-and-basil_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/bruschetta-with-tomato-and-basil\/images\/bruschetta-with-tomato-and-basil_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "bruschetta-with-tomato-and-basil_image_1.webp",
+    "image_path": "posts\/bruschetta-with-tomato-and-basil\/images\/bruschetta-with-tomato-and-basil_image_1.webp",
+    "image_dir": "bruschetta-with-tomato-and-basil\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-23T17:53:21+02:00",
+    "updatedAt": "2025-10-23T17:53:21+02:00"
+}

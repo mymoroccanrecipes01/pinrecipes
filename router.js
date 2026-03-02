@@ -10,20 +10,20 @@ const pages = {
         title: 'About Us - ' + globalThis.homepageTitle,
         content: 'pages/about-content.html'
     },
-    recipes: {
-        title: 'Recipes - ' + globalThis.homepageTitle,
-        content: 'pages/recipes-content.html'
+    posts: {
+        title: 'Posts - ' + globalThis.homepageTitle,
+        content: 'pages/posts-content.html'
     },
-   'recipes-category': {
-        title: 'Recipe Categories - ' + globalThis.homepageTitle,
-        content: 'pages/recipes-category-content.html',
+   'posts-category': {
+        title: 'Post Categories - ' + globalThis.homepageTitle,
+        content: 'pages/posts-category-content.html',
         // Fonction pour extraire le slug de la catégorie
         getParams: function(pageValue) {
-            // pageValue = "recipes-category/box-dessert"
+            // pageValue = "posts-category/box-dessert"
             const parts = pageValue.split('/');
-           
+
             if (parts.length > 1) {
-                
+
                 return { categorySlug: parts[1] };
             }
             return {};
@@ -37,15 +37,15 @@ const pages = {
         title: 'Privacy Policy - ' + globalThis.homepageTitle,
         content: 'pages/privacy-policy-content.html'
     },
-    'recipe-detail': {
-        title: 'Recipe Detail - ' + globalThis.homepageTitle,
-        content: 'pages/recipe-detail-content.html'
+    'post-detail': {
+        title: 'Post Detail - ' + globalThis.homepageTitle,
+        content: 'pages/post-detail-content.html'
     }
 };
 
 // Variables globales
 let currentPage = 'home';
-let currentRecipeId = null;
+let currentPostId = null;
 let currentCategory = null;
 
 // Initialisation au chargement de la page
@@ -61,25 +61,25 @@ function initializeRouter() {
     // Récupérer la page et les paramètres depuis l'URL
     const urlParams = new URLSearchParams(window.location.search);
     const requestedPage = urlParams.get('page') || 'home';
-    const recipeId = urlParams.get('id');
+    const postId = urlParams.get('id');
     const category = urlParams.get('cat'); // Ancien format pour compatibilité
     
     // NOUVEAU: Parsing du format slug category
     let pageName = requestedPage;
     let categorySlug = null;
     
-    // Si la page contient un slash (ex: recipes-category/box-dessert)
+    // Si la page contient un slash (ex: posts-category/box-dessert)
     if (requestedPage.includes('/')) {
         const parts = requestedPage.split('/');
-        pageName = parts[0]; // "recipes-category"
+        pageName = parts[0]; // "posts-category"
         categorySlug = parts[1]; // "box-dessert"
     }
     
     // Si c'est une page de détail de recette
-    if (pageName === 'recipe-detail' && recipeId) {
-        currentRecipeId = parseInt(recipeId);
-        loadRecipeDetailPage(recipeId, false);
-    } else if (pageName === 'recipes-category' && (categorySlug || category)) {
+    if (pageName === 'post-detail' && postId) {
+        currentPostId = parseInt(postId);
+        loadPostDetailPage(postId, false);
+    } else if (pageName === 'posts-category' && (categorySlug || category)) {
         // Si c'est une page de catégorie de recettes (nouveau format ou ancien)
         const categoryToLoad = categorySlug || category;
         currentCategory = categoryToLoad;
@@ -93,7 +93,7 @@ function initializeRouter() {
     window.addEventListener('popstate', function(event) {
         const urlParams = new URLSearchParams(window.location.search);
         const pageParam = urlParams.get('page') || 'home';
-        const recipeId = urlParams.get('id');
+        const postId = urlParams.get('id');
         const category = urlParams.get('cat'); // Ancien format
         
         // NOUVEAU: Parsing du format slug
@@ -106,9 +106,9 @@ function initializeRouter() {
             categorySlug = parts[1];
         }
         
-        if (pageName === 'recipe-detail' && recipeId) {
-            loadRecipeDetailPage(recipeId, false);
-        } else if (pageName === 'recipes-category' && (categorySlug || category)) {
+        if (pageName === 'post-detail' && postId) {
+            loadPostDetailPage(postId, false);
+        } else if (pageName === 'posts-category' && (categorySlug || category)) {
             const categoryToLoad = categorySlug || category;
             loadCategoryPageInternal(categoryToLoad, false);
         } else {
@@ -126,8 +126,8 @@ function handleLinkClick(event) {
     const href = link.getAttribute('href');
     if (!href) return;
     
-    // NOUVEAU: Vérifier si c'est le format recipes-category/slug
-    if (href.includes('page=recipes-category/')) {
+    // NOUVEAU: Vérifier si c'est le format posts-category/slug
+    if (href.includes('page=posts-category/')) {
         event.preventDefault();
         
         const url = new URL(href, window.location.origin);
@@ -149,12 +149,12 @@ function handleLinkClick(event) {
         
         const url = new URL(href, window.location.origin);
         const page = url.searchParams.get('page');
-        const recipeId = url.searchParams.get('id');
+        const postId = url.searchParams.get('id');
         const category = url.searchParams.get('cat'); // Ancien format
         
-        if (page === 'recipe-detail' && recipeId) {
-            loadRecipeDetailPage(recipeId);
-        } else if (page === 'recipes-category' && category) {
+        if (page === 'post-detail' && postId) {
+            loadPostDetailPage(postId);
+        } else if (page === 'posts-category' && category) {
             loadCategoryPageInternal(category);
         } else if (page) {
             loadPage(page);
@@ -172,12 +172,12 @@ function handleLinkClick(event) {
     
     // Vérifier si c'est un lien JavaScript (onclick)
     const onclick = link.getAttribute('onclick');
-    if (onclick && onclick.includes('openRecipe')) {
+    if (onclick && onclick.includes('openPost')) {
         event.preventDefault();
         // Extraire l'ID de la recette depuis onclick
-        const match = onclick.match(/openRecipe\((\d+)\)/);
+        const match = onclick.match(/openPost\((\d+)\)/);
         if (match) {
-            loadRecipeDetailPage(match[1]);
+            loadPostDetailPage(match[1]);
         }
         return;
     }
@@ -241,7 +241,7 @@ async function loadPage(pageName, addToHistory = true) {
         updateActiveNavigation(pageName);
         
         currentPage = pageName;
-        currentRecipeId = null;
+        currentPostId = null;
         currentCategory = null;
         
         // Initialiser les fonctionnalités spécifiques
@@ -263,7 +263,7 @@ async function loadCategoryPageInternal(category, addToHistory = true) {
         showLoadingIndicator();
         
         // Charger le contenu de la page de catégorie
-        const response = await fetch('pages/recipes-category-content.html');
+        const response = await fetch('pages/posts-category-content.html');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -275,13 +275,13 @@ async function loadCategoryPageInternal(category, addToHistory = true) {
         mainContent.innerHTML = content;
         
         // Mettre à jour le titre avec le nom de la catégorie
-        document.title = `Catégorie ${category} - Simple Recipes`;
+        document.title = `Catégorie ${category} - Simple posts`;
         
         // NOUVEAU: Mettre à jour l'URL avec le format slug
         if (addToHistory) {
-            const newUrl = `${window.location.pathname}?page=recipes-category/${category}`;
+            const newUrl = `${window.location.pathname}?page=posts-category/${category}`;
             window.history.pushState({ 
-                page: 'recipes-category', 
+                page: 'posts-category', 
                 categorySlug: category 
             }, `Catégorie ${category}`, newUrl);
         }
@@ -290,9 +290,9 @@ async function loadCategoryPageInternal(category, addToHistory = true) {
         const navLinks = document.querySelectorAll('.nav a');
         navLinks.forEach(link => link.classList.remove('active'));
         
-        currentPage = 'recipes-category';
+        currentPage = 'posts-category';
         currentCategory = category;
-        currentRecipeId = null;
+        currentPostId = null;
         
         // NOUVEAU: Déclencher l'événement avec le slug de catégorie
         window.dispatchEvent(new CustomEvent('pageLoaded', { 
@@ -300,14 +300,14 @@ async function loadCategoryPageInternal(category, addToHistory = true) {
         }));
         
         // Initialiser la page de catégorie avec la catégorie
-        if (typeof window.initRecipesCategoryPageFeatures === 'function') {
-            window.initRecipesCategoryPageFeatures(category);
+        if (typeof window.initPostsCategoryPageFeatures === 'function') {
+            window.initPostsCategoryPageFeatures(category);
         }
         
-        // Si le recipeLoader est disponible, filtrer les recettes par catégorie
-        if (window.recipeLoader) {
+        // Si le postLoader est disponible, filtrer les recettes par catégorie
+        if (window.postLoader) {
             setTimeout(() => {
-                window.recipeLoader.filterByCategory(category);
+                window.postLoader.filterByCategory(category);
             }, 100);
         }
         
@@ -317,17 +317,17 @@ async function loadCategoryPageInternal(category, addToHistory = true) {
     } catch (error) {
         console.error('Erreur lors du chargement de la page de catégorie:', error);
         hideLoadingIndicator();
-        showErrorPage('recipes-category');
+        showErrorPage('posts-category');
     }
 }
 
 // Charger une page de détail de recette
-async function loadRecipeDetailPage(recipeId, addToHistory = true) {
+async function loadPostDetailPage(postId, addToHistory = true) {
     try {
         showLoadingIndicator();
         
         // Charger le contenu de la page de détail
-        const response = await fetch('pages/recipe-detail-content.html');
+        const response = await fetch('pages/post-detail-content.html');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -340,21 +340,21 @@ async function loadRecipeDetailPage(recipeId, addToHistory = true) {
         
         // Mettre à jour l'URL
         if (addToHistory) {
-            const newUrl = `${window.location.pathname}?page=recipe-detail&recipe=${recipeId}`;
-            window.history.pushState({ page: 'recipe-detail', recipe: recipeId }, 'Recipe Detail', newUrl);
+            const newUrl = `${window.location.pathname}posts/${postId}`;
+            window.history.pushState({ page: 'post-detail', recipe: postId }, 'Recipe Detail', newUrl);
         }
         
         // Enlever la classe active de tous les liens
         const navLinks = document.querySelectorAll('.nav a');
         navLinks.forEach(link => link.classList.remove('active'));
         
-        currentPage = 'recipe-detail';
-        currentRecipeId = recipeId;
+        currentPage = 'post-detail';
+        currentPostId = postId;
         currentCategory = null;
         
         // Initialiser la page de recette avec l'ID
-        if (typeof window.initializeRecipeDetailPage === 'function') {
-            window.initializeRecipeDetailPage(recipeId);
+        if (typeof window.initializePostDetailPage === 'function') {
+            window.initializePostDetailPage(postId);
         }
         
         hideLoadingIndicator();
@@ -363,7 +363,7 @@ async function loadRecipeDetailPage(recipeId, addToHistory = true) {
     } catch (error) {
         console.error('Erreur lors du chargement de la page de recette:', error);
         hideLoadingIndicator();
-        showErrorPage('recipe-detail');
+        showErrorPage('post-detail');
     }
 }
 
@@ -396,18 +396,18 @@ function initializePageFeatures(pageName) {
                     window.initHomePageFeatures();
                 }
                 break;
-            case 'recipes':
-                if (typeof window.initRecipesPageFeatures === 'function') {
-                    window.initRecipesPageFeatures();
+            case 'posts':
+                if (typeof window.initPostsPageFeatures === 'function') {
+                    window.initPostsPageFeatures();
                 }
-                // Ajouter les gestionnaires d'événements pour les cartes de recette
-                setupRecipeCardListeners();
+                // Ajouter les gestionnaires d'événements pour les cartes de post
+                setupPostCardListeners();
                 break;
-            case 'recipes-category':
-                if (typeof window.initRecipesCategoryPageFeatures === 'function') {
-                    window.initRecipesCategoryPageFeatures(currentCategory);
+            case 'posts-category':
+                if (typeof window.initPostsCategoryPageFeatures === 'function') {
+                    window.initPostsCategoryPageFeatures(currentCategory);
                 }
-                setupRecipeCardListeners();
+                setupPostCardListeners();
                 break;
             case 'about':
                 if (typeof window.initAboutPageFeatures === 'function') {
@@ -421,16 +421,16 @@ function initializePageFeatures(pageName) {
                 break;
         }
         
-        // Toujours configurer les liens de recette après le chargement
-        setupRecipeCardListeners();
+        // Toujours configurer les liens de post après le chargement
+        setupPostCardListeners();
     }, 100);
 }
 
-// Configurer les listeners pour les cartes de recette
-function setupRecipeCardListeners() {
+// Configurer les listeners pour les cartes de post
+function setupPostCardListeners() {
     setTimeout(() => {
-        const recipeCards = document.querySelectorAll('.recipe-card');
-        recipeCards.forEach(card => {
+        const postCards = document.querySelectorAll('.post-card');
+        postCards.forEach(card => {
             // Vérifier si le listener n'est pas déjà ajouté
             if (!card.hasAttribute('data-router-handled')) {
                 card.setAttribute('data-router-handled', 'true');
@@ -440,25 +440,25 @@ function setupRecipeCardListeners() {
                     if (e.target.closest('a')) return;
                     
                     // Essayer de trouver l'ID de la recette
-                    let recipeId = this.getAttribute('data-recipe-id');
+                    let postId = this.getAttribute('data-post-id');
                     
-                    // Si pas d'attribut data-recipe-id, essayer d'extraire depuis onclick
-                    if (!recipeId && this.getAttribute('onclick')) {
+                    // Si pas d'attribut data-post-id, essayer d'extraire depuis onclick
+                    if (!postId && this.getAttribute('onclick')) {
                         const onclickValue = this.getAttribute('onclick');
-                        const match = onclickValue.match(/openRecipe\((\d+)\)/);
+                        const match = onclickValue.match(/openPost\((\d+)\)/);
                         if (match) {
-                            recipeId = match[1];
+                            postId = match[1];
                         }
                     }
                     
                     // Si c'est l'ID textuel, utiliser le slug de la recette
-                    if (!recipeId) {
-                        recipeId = this.getAttribute('data-recipe-slug') || 
-                                  this.querySelector('[data-recipe-id]')?.getAttribute('data-recipe-id');
+                    if (!postId) {
+                        postId = this.getAttribute('data-post-slug') || 
+                                  this.querySelector('[data-post-id]')?.getAttribute('data-post-id');
                     }
                     
-                    if (recipeId) {
-                        loadRecipeDetailPage(recipeId);
+                    if (postId) {
+                        loadPostDetailPage(postId);
                     }
                 });
             }
@@ -467,8 +467,8 @@ function setupRecipeCardListeners() {
 }
 
 // Fonction globale pour ouvrir une recette (utilisée dans les pages)
-window.openRecipe = function(recipeId) {
-    loadRecipeDetailPage(recipeId);
+window.openPost = function(postId) {
+    loadPostDetailPage(postId);
 };
 
 // Fonction globale pour charger une catégorie (utilisée dans les pages)
@@ -479,15 +479,15 @@ window.loadCategoryPage = function(category) {
         window.router.loadCategoryPageInternal(category);
     } else {
         // Si pas de router, navigation manuelle
-        window.location.href = `base.html?page=recipes-category/${category}`;
+        window.location.href = `base.html?page=posts-category/${category}`;
     }
 };
 
 // Fonction pour naviguer programmatiquement
 window.navigateTo = function(page, params = {}) {
-    if (page === 'recipe-detail' && (params.id || params.recipe)) {
-        loadRecipeDetailPage(params.id || params.recipe);
-    } else if (page === 'recipes-category' && (params.category || params.cat || params.categorySlug)) {
+    if (page === 'post-detail' && (params.id || params.recipe)) {
+        loadPostDetailPage(params.id || params.recipe);
+    } else if (page === 'posts-category' && (params.category || params.cat || params.categorySlug)) {
         loadCategoryPageInternal(params.category || params.cat || params.categorySlug);
     } else {
         loadPage(page);
@@ -496,12 +496,12 @@ window.navigateTo = function(page, params = {}) {
 
 // NOUVEAU: Fonction utilitaire pour créer des URLs de catégorie avec le format slug
 window.createCategoryUrl = function(categorySlug) {
-    return `base.html?page=recipes-category/${categorySlug}`;
+    return `base.html?page=posts-category/${categorySlug}`;
 };
 
 // Fonction utilitaire pour créer des URLs de recette
-window.createRecipeUrl = function(recipeId) {
-    return `base.html?page=recipe-detail&recipe=${recipeId}`;
+window.createPostUrl = function(postId) {
+    return `posts/${postId}`;
 };
 
 // Afficher l'indicateur de chargement
@@ -673,8 +673,8 @@ function getCurrentPage() {
 }
 
 // Fonction utilitaire pour obtenir l'ID de recette actuel
-function getCurrentRecipeId() {
-    return currentRecipeId;
+function getCurrentPostId() {
+    return currentPostId;
 }
 
 // Fonction utilitaire pour obtenir la catégorie actuelle
@@ -685,15 +685,15 @@ function getCurrentCategory() {
 // Exporter les fonctions utiles
 window.router = {
     loadPage,
-    loadRecipeDetailPage,
+    loadPostDetailPage,
     loadCategoryPageInternal,
     getCurrentPage,
-    getCurrentRecipeId,
+    getCurrentPostId,
     getCurrentCategory,
     getUrlParams,
     navigateTo: window.navigateTo,
     createCategoryUrl: window.createCategoryUrl,
-    createRecipeUrl: window.createRecipeUrl
+    createPostUrl: window.createPostUrl
 };
 
-// console.log('Router.js adapté chargé avec support du format recipes-category/slug');
+// console.log('Router.js adapté chargé avec support du format posts-category/slug');

@@ -1,0 +1,161 @@
+{
+    "id": "text_recipe_1761927478_116",
+    "slug": "french-onion-soup-casserole",
+    "title": "French Onion Soup Casserole",
+    "promptIMG": "French Onion Soup Casserole, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This French Onion Soup Casserole combines the rich, savory flavors of classic French onion soup with the comforting texture of a casserole. Topped with gooey cheese and crusty bread, it's a dish that will warm your heart and satisfy your cravings.",
+    "category_id": "cat_1761230594_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "4 large onions, thinly sliced",
+        "4 tablespoons butter",
+        "1 teaspoon sugar",
+        "4 cups beef broth",
+        "1 cup white wine",
+        "1 teaspoon thyme",
+        "Salt and pepper to taste",
+        "1 baguette, sliced",
+        "2 cups Gruyère cheese, shredded"
+    ],
+    "instructions": [
+        "In a large skillet, melt butter over medium heat. Add onions and sugar, cooking until caramelized, about 20 minutes.",
+        "Stir in beef broth, wine, thyme, salt, and pepper. Simmer for 15 minutes.",
+        "Preheat oven to 350°F (175°C).",
+        "In a baking dish, layer half of the bread slices, pour half of the onion mixture, and sprinkle with half of the cheese. Repeat layers.",
+        "Bake for 20-25 minutes until cheese is bubbly and golden."
+    ],
+    "prep_time": 15,
+    "cook_time": 45,
+    "total_time": 60,
+    "servings": 6,
+    "difficulty": "medium",
+    "tips": "For the best flavor, use a good quality beef broth and allow the onions to caramelize fully for a deep, rich taste.",
+    "structured_content": [
+        {
+            "content": "<p>This French Onion Soup Casserole is a delightful twist on the classic soup, transforming it into a hearty and satisfying dish. The sweet caramelized onions meld beautifully with the savory broth, while the melted cheese and crispy bread create an irresistible topping that will have everyone coming back for seconds.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Comfort food at its finest<\/li><li>Perfect for cozy dinners or gatherings<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for meal prep and leftovers<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Growing up, my family often made French onion soup on chilly evenings. This casserole version brings back those warm memories and is perfect for sharing with loved ones.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Onions are the star here; choose sweet onions for the best flavor and slice them thinly for even cooking.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Thyme adds a lovely earthiness; fresh herbs can elevate the dish even more.<\/li><li><strong>Supporting ingredients:<\/strong> The beef broth provides depth, while the white wine adds acidity and brightness.<\/li><li><strong>Equipment needed:<\/strong> A large skillet for caramelizing onions and a baking dish for layering the casserole.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the ingredients preparation.",
+                "url": "french-onion-soup-casserole\/images\/french-onion-soup-casserole_image_1.webp",
+                "fileName": "french-onion-soup-casserole_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by slicing the onions and gathering all ingredients. Preheat your oven to 350°F (175°C) to ensure it's ready for baking.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Caramelize the onions slowly to develop their sweetness. Once done, combine with broth and wine, then layer in a baking dish with bread and cheese.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>After baking, let the casserole cool slightly before serving to allow the layers to set.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the cooking process.",
+                "url": "french-onion-soup-casserole\/images\/french-onion-soup-casserole_image_2.webp",
+                "fileName": "french-onion-soup-casserole_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Caramelizing onions takes time; don't rush it for the best flavor.<\/li><li>Avoid burning the onions by stirring frequently and adjusting heat as needed.<\/li><li>Look for a golden-brown color on the cheese to know it's perfectly baked.<\/li><li>Store leftovers in an airtight container and reheat in the oven for best results.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This casserole is perfect for gatherings, and I love serving it to friends during cozy nights in. It's a dish that brings everyone together around the table.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding a splash of sherry for extra depth or mixing in some sautéed mushrooms for an earthy twist. Fresh herbs like parsley can brighten the flavors.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This casserole pairs beautifully with a simple green salad and a glass of white wine. For a heartier meal, serve with roasted vegetables or a side of garlic bread.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free version, use gluten-free bread. You can also make it vegetarian by substituting vegetable broth for beef broth and omitting the wine.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the final plated dish or variation.",
+                "url": "french-onion-soup-casserole\/images\/french-onion-soup-casserole_image_3.webp",
+                "fileName": "french-onion-soup-casserole_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a mix of cheeses for added flavor; Gruyère and Swiss work well together.<\/li><li>Let the onions cool slightly before layering to prevent soggy bread.<\/li><li>Timing is key; keep an eye on the casserole to avoid over-baking.<\/li><li>Garnish with fresh herbs for a pop of color and flavor.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't be intimidated by the process! This casserole is easier than it looks and will impress your family and friends. Enjoy the satisfaction of creating a comforting dish that warms the soul.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "french-onion-soup-casserole_image_1.webp",
+            "filePath": "posts\/french-onion-soup-casserole\/images\/french-onion-soup-casserole_image_1.webp",
+            "relativePath": "french-onion-soup-casserole\/images\/french-onion-soup-casserole_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "french-onion-soup-casserole_image_2.webp",
+            "filePath": "posts\/french-onion-soup-casserole\/images\/french-onion-soup-casserole_image_2.webp",
+            "relativePath": "french-onion-soup-casserole\/images\/french-onion-soup-casserole_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "french-onion-soup-casserole_image_3.webp",
+            "filePath": "posts\/french-onion-soup-casserole\/images\/french-onion-soup-casserole_image_3.webp",
+            "relativePath": "french-onion-soup-casserole\/images\/french-onion-soup-casserole_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "french-onion-soup-casserole_image_4.webp",
+            "filePath": "posts\/french-onion-soup-casserole\/images\/french-onion-soup-casserole_image_4.webp",
+            "relativePath": "french-onion-soup-casserole\/images\/french-onion-soup-casserole_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/french-onion-soup-casserole\/images\/french-onion-soup-casserole_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "french-onion-soup-casserole_image_1.webp",
+    "image_path": "posts\/french-onion-soup-casserole\/images\/french-onion-soup-casserole_image_1.webp",
+    "image_dir": "french-onion-soup-casserole\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-31T17:17:58+01:00",
+    "updatedAt": "2025-10-31T17:17:58+01:00"
+}

@@ -1,0 +1,160 @@
+{
+    "id": "text_recipe_1761927882_612",
+    "slug": "creamy-chicken-wild-rice-bake",
+    "title": "Creamy Chicken Wild Rice Bake",
+    "promptIMG": "Creamy Chicken Wild Rice Bake, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This Creamy Chicken Wild Rice Bake is a warm, comforting dish that brings together tender chicken, hearty wild rice, and a creamy sauce, making it perfect for family dinners or cozy nights in. With its rich flavors and satisfying texture, it's a dish that will quickly become a favorite.",
+    "category_id": "cat_1761230594_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound chicken breast, diced",
+        "1 cup wild rice, uncooked",
+        "2 cups chicken broth",
+        "1 cup cream of mushroom soup",
+        "1 cup mixed vegetables (peas, carrots, corn)",
+        "1 teaspoon garlic powder",
+        "1 teaspoon onion powder",
+        "Salt and pepper to taste",
+        "1 cup shredded cheese (optional)"
+    ],
+    "instructions": [
+        "Preheat your oven to 350°F (175°C).",
+        "In a large mixing bowl, combine the diced chicken, uncooked wild rice, chicken broth, cream of mushroom soup, mixed vegetables, garlic powder, onion powder, salt, and pepper.",
+        "Transfer the mixture to a greased baking dish and cover with foil.",
+        "Bake for 25 minutes, then remove the foil, stir in cheese if using, and bake for an additional 5-10 minutes until the chicken is cooked through and the rice is tender."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "medium",
+    "tips": "To achieve the best flavor, use high-quality chicken broth and feel free to add your favorite herbs for an extra flavor boost.",
+    "structured_content": [
+        {
+            "content": "<p>This Creamy Chicken Wild Rice Bake is not just a meal; it's a hug in a dish. With tender chicken and wild rice enveloped in a creamy sauce, every bite is a comforting reminder of home-cooked goodness. Perfect for chilly evenings, this dish is sure to warm your heart and satisfy your cravings.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or family gatherings<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for meal prep and leftovers<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this dish for my family; the aroma filled the kitchen, and everyone gathered around the table, eager to dig in. It's become a staple in our home, bringing us together over hearty, delicious meals.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Chicken breast is ideal for this dish as it stays tender and juicy during baking. Dice it into small pieces for even cooking.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Garlic and onion powders add depth to the dish. Look for fresh spices for the best flavor.<\/li><li><strong>Supporting ingredients:<\/strong> Wild rice adds a nutty flavor and chewy texture, while mixed vegetables provide color and nutrition.<\/li><li><strong>Equipment needed:<\/strong> A large mixing bowl, a greased baking dish, and aluminum foil are essential for this recipe.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of the ingredients ready for preparation, showcasing the fresh chicken, wild rice, and colorful vegetables.",
+                "url": "creamy-chicken-wild-rice-bake\/images\/creamy-chicken-wild-rice-bake_image_1.webp",
+                "fileName": "creamy-chicken-wild-rice-bake_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by preheating your oven and preparing your ingredients. Dice the chicken and measure out the rice and vegetables.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Mix all ingredients in a bowl, transfer to a baking dish, cover, and bake. Remove the foil towards the end for a bubbly top.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Stir in cheese before the final bake for a melty topping, and let it rest for a few minutes before serving.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A step-by-step visual of the cooking process, highlighting the mixing of ingredients and the baking stage.",
+                "url": "creamy-chicken-wild-rice-bake\/images\/creamy-chicken-wild-rice-bake_image_2.webp",
+                "fileName": "creamy-chicken-wild-rice-bake_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Ensure the chicken is fully cooked and the rice is tender for perfect results.<\/li><li>A common mistake is not covering the dish initially, which can lead to dry rice.<\/li><li>Look for a bubbly, golden top as a cue that it's ready.<\/li><li>This dish can be stored in the fridge for up to 3 days and reheated in the oven or microwave.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this dish with my family has created some of our best memories. It's a go-to for gatherings, and I love seeing everyone enjoy it together, creating a sense of warmth and togetherness.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding fresh herbs like thyme or rosemary for an aromatic twist, or sprinkle some red pepper flakes for a bit of heat. You can also swap out the cream of mushroom soup for a different flavor profile.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This dish pairs wonderfully with a fresh green salad or crusty bread. For drinks, a light white wine or sparkling water complements the flavors beautifully.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, ensure your cream of mushroom soup is gluten-free. You can also substitute chicken with turkey or tofu for a vegetarian twist, keeping the essence of the dish intact.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated final dish, showcasing the creamy texture and colorful ingredients, ready to be served.",
+                "url": "creamy-chicken-wild-rice-bake\/images\/creamy-chicken-wild-rice-bake_image_3.webp",
+                "fileName": "creamy-chicken-wild-rice-bake_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For restaurant-quality results, sear the chicken before mixing it in for added flavor.<\/li><li>Let the dish rest for a few minutes after baking to allow the flavors to meld.<\/li><li>Use a timer to avoid overbaking, which can dry out the chicken.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe; it's easier than you think! You'll be amazed at how satisfying it is to create such a comforting dish from scratch. Enjoy every moment in the kitchen!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "creamy-chicken-wild-rice-bake_image_1.webp",
+            "filePath": "posts\/creamy-chicken-wild-rice-bake\/images\/creamy-chicken-wild-rice-bake_image_1.webp",
+            "relativePath": "creamy-chicken-wild-rice-bake\/images\/creamy-chicken-wild-rice-bake_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-chicken-wild-rice-bake_image_2.webp",
+            "filePath": "posts\/creamy-chicken-wild-rice-bake\/images\/creamy-chicken-wild-rice-bake_image_2.webp",
+            "relativePath": "creamy-chicken-wild-rice-bake\/images\/creamy-chicken-wild-rice-bake_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "creamy-chicken-wild-rice-bake_image_3.webp",
+            "filePath": "posts\/creamy-chicken-wild-rice-bake\/images\/creamy-chicken-wild-rice-bake_image_3.webp",
+            "relativePath": "creamy-chicken-wild-rice-bake\/images\/creamy-chicken-wild-rice-bake_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "creamy-chicken-wild-rice-bake_image_4.webp",
+            "filePath": "posts\/creamy-chicken-wild-rice-bake\/images\/creamy-chicken-wild-rice-bake_image_4.webp",
+            "relativePath": "creamy-chicken-wild-rice-bake\/images\/creamy-chicken-wild-rice-bake_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/creamy-chicken-wild-rice-bake\/images\/creamy-chicken-wild-rice-bake_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "creamy-chicken-wild-rice-bake_image_1.webp",
+    "image_path": "posts\/creamy-chicken-wild-rice-bake\/images\/creamy-chicken-wild-rice-bake_image_1.webp",
+    "image_dir": "creamy-chicken-wild-rice-bake\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-31T17:24:42+01:00",
+    "updatedAt": "2025-10-31T17:24:42+01:00"
+}

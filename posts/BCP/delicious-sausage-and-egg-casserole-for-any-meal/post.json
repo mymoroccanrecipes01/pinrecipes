@@ -1,0 +1,103 @@
+{
+    "id": "recipe_1768147511_616",
+    "slug": "delicious-sausage-and-egg-casserole-for-any-meal",
+    "title": "Delicious Sausage and Egg Casserole for Any Meal",
+    "promptIMG": "Food photography: Sausage and Egg Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": true,
+    "description": "This sausage and egg casserole is an all-time favorite. It's creamy, cheesy, and packed with flavor. Perfect for breakfast or brunch gatherings with friends!",
+    "category_id": "cat_1761230422_512",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound breakfast sausage, crumbled",
+        "8 large eggs",
+        "2 cups milk",
+        "2 cups shredded cheddar cheese",
+        "4 slices of bread, cubed (optional)",
+        "1 teaspoon salt",
+        "1\/2 teaspoon black pepper",
+        "1\/2 teaspoon garlic powder",
+        "1\/2 teaspoon onion powder"
+    ],
+    "instructions": [
+        "Preheat your oven to 350°F (175°C).",
+        "In a skillet, cook the crumbled sausage over medium heat until browned, about 5-7 minutes. Drain excess fat.",
+        "In a large bowl, whisk together eggs, milk, salt, pepper, garlic powder, and onion powder.",
+        "Stir in the cooked sausage and half of the cheddar cheese. If using, fold in the cubed bread.",
+        "Pour the mixture into a greased 9x13 inch baking dish.",
+        "Top with the remaining cheddar cheese.",
+        "Bake for 30-35 minutes, or until the eggs are set and the top is golden.",
+        "Let it cool for a few minutes before slicing and serving."
+    ],
+    "prep_time": 15,
+    "cook_time": 40,
+    "total_time": 55,
+    "servings": 6,
+    "difficulty": "Easy",
+    "tips": "One key tip is to let the casserole sit for a few minutes after baking; it helps it set better. A common mistake is overcooking the eggs, so keep an eye on it! If you want to add veggies, bell peppers or spinach work great. You can also use any cheese you prefer—Monterey Jack adds a nice twist!",
+    "structured_content": [
+        {
+            "content": "<p>Quick note: This sausage and egg casserole is a go-to dish in my house. I love how versatile it is—perfect for breakfast, brunch, or even a cozy dinner. The combination of creamy eggs, savory sausage, and melted cheese is just heavenly. Plus, it comes together in no time, making it an easy choice for gatherings or lazy weekends.<\/p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>The star of this dish is definitely the breakfast sausage; it adds a depth of flavor that pairs wonderfully with the eggs. You can easily swap it for turkey sausage or even a meat-free option if you'd like to keep it lighter. The bread is optional, but it gives a nice texture and helps soak up the egg mixture.<\/p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Cooking this casserole is straightforward. You’ll start by browning the sausage, then whisking together the eggs and milk. Mixing in the sausage and cheese creates a rich filling that you’ll pour into a baking dish. Don’t forget to check for doneness; the eggs should be set but not overcooked.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Sausage and Egg Casserole on a rustic wooden table",
+                "url": "delicious-sausage-and-egg-casserole-for-any-meal\/images\/delicious-sausage-and-egg-casserole-for-any-meal_image_1.webp",
+                "fileName": "delicious-sausage-and-egg-casserole-for-any-meal_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>This casserole is fantastic on its own, but you can serve it with a side of fresh fruit or a light salad for a complete meal. Want to make it spicier? Add some diced jalapeños or a sprinkle of hot sauce before baking. It’s a dish that’s sure to impress!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "delicious-sausage-and-egg-casserole-for-any-meal_image_1.webp",
+            "filePath": "posts\/delicious-sausage-and-egg-casserole-for-any-meal\/images\/delicious-sausage-and-egg-casserole-for-any-meal_image_1.webp",
+            "relativePath": "delicious-sausage-and-egg-casserole-for-any-meal\/images\/delicious-sausage-and-egg-casserole-for-any-meal_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "delicious-sausage-and-egg-casserole-for-any-meal_image_2.webp",
+            "filePath": "posts\/delicious-sausage-and-egg-casserole-for-any-meal\/images\/delicious-sausage-and-egg-casserole-for-any-meal_image_2.webp",
+            "relativePath": "delicious-sausage-and-egg-casserole-for-any-meal\/images\/delicious-sausage-and-egg-casserole-for-any-meal_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "delicious-sausage-and-egg-casserole-for-any-meal_image_3.webp",
+            "filePath": "posts\/delicious-sausage-and-egg-casserole-for-any-meal\/images\/delicious-sausage-and-egg-casserole-for-any-meal_image_3.webp",
+            "relativePath": "delicious-sausage-and-egg-casserole-for-any-meal\/images\/delicious-sausage-and-egg-casserole-for-any-meal_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "delicious-sausage-and-egg-casserole-for-any-meal_Lummyrecipes-main_image_4.webp",
+            "filePath": "posts\/delicious-sausage-and-egg-casserole-for-any-meal\/images\/delicious-sausage-and-egg-casserole-for-any-meal_Lummyrecipes-main_image_4.webp",
+            "relativePath": "delicious-sausage-and-egg-casserole-for-any-meal\/images\/delicious-sausage-and-egg-casserole-for-any-meal_Lummyrecipes-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/delicious-sausage-and-egg-casserole-for-any-meal\/images\/delicious-sausage-and-egg-casserole-for-any-meal_Lummyrecipes-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "delicious-sausage-and-egg-casserole-for-any-meal_image_1.webp",
+    "image_path": "posts\/delicious-sausage-and-egg-casserole-for-any-meal\/images\/delicious-sausage-and-egg-casserole-for-any-meal_image_1.webp",
+    "image_dir": "delicious-sausage-and-egg-casserole-for-any-meal\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-13T22:56:03+01:00",
+    "updatedAt": "2026-01-13T22:56:03+01:00"
+}

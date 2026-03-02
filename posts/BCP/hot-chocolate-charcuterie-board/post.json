@@ -1,0 +1,162 @@
+{
+    "id": "text_recipe_1762111893_304",
+    "slug": "hot-chocolate-charcuterie-board",
+    "title": "Hot Chocolate Charcuterie Board",
+    "promptIMG": "A descriptive prompt for generating an appetizing image of the finished dish, base in the prompt : \"Hot Chocolate Charcuterie Board, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300\"",
+    "isOnline": false,
+    "description": "Indulge in the ultimate cozy experience with this Hot Chocolate Charcuterie Board, perfect for gatherings or a sweet night in. With a variety of chocolates, marshmallows, and toppings, it's a delightful treat that everyone will love.",
+    "category_id": "cat_1761230749_334",
+    "author_id": "author_001",
+    "ingredients": [
+        "4 cups milk",
+        "1 cup heavy cream",
+        "1 cup chocolate chips",
+        "1 cup mini marshmallows",
+        "1\/2 cup whipped cream",
+        "1\/4 cup crushed peppermint",
+        "1\/4 cup caramel sauce",
+        "1\/4 cup chocolate sauce",
+        "1\/4 cup sprinkles",
+        "1\/4 cup assorted cookies"
+    ],
+    "instructions": [
+        "In a saucepan, heat the milk and heavy cream over medium heat until warm.",
+        "Add the chocolate chips and stir until melted and smooth.",
+        "Pour the hot chocolate into a large serving bowl or pitcher.",
+        "Arrange the mini marshmallows, whipped cream, crushed peppermint, caramel sauce, chocolate sauce, sprinkles, and assorted cookies on a large platter.",
+        "Serve the hot chocolate with the toppings for guests to customize their drinks."
+    ],
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "servings": 6,
+    "difficulty": "easy",
+    "tips": "For a richer flavor, use high-quality chocolate and consider adding a splash of vanilla extract to the hot chocolate.",
+    "structured_content": [
+        {
+            "content": "<p>Gather around this delightful Hot Chocolate Charcuterie Board that brings warmth and joy to any occasion. The combination of rich hot chocolate paired with a variety of toppings makes it a fun and interactive dessert experience.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to assemble in under 15 minutes<\/li><li>Perfect for cozy nights or festive gatherings<\/li><li>Customizable for everyone's taste preferences<\/li><li>Uses simple ingredients that are easy to find<\/li><li>Great for both kids and adults<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This recipe reminds me of chilly winter evenings spent with friends, sipping hot chocolate and sharing laughter. It's a tradition that warms the heart and creates lasting memories.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Whole milk and heavy cream create a creamy base that enhances the richness of the chocolate.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Chocolate chips are essential for a deep chocolate flavor; opt for semi-sweet or dark for a more intense taste.<\/li><li><strong>Supporting ingredients:<\/strong> Mini marshmallows add sweetness and texture, while crushed peppermint brings a refreshing twist.<\/li><li><strong>Equipment needed:<\/strong> A saucepan for heating, a large bowl or pitcher for serving, and a platter for the toppings.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation.",
+                "url": "hot-chocolate-charcuterie-board\/images\/hot-chocolate-charcuterie-board_image_1.webp",
+                "fileName": "hot-chocolate-charcuterie-board_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Measure out all ingredients and set them aside for easy assembly.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Heat the milk and cream gently to avoid scalding, then mix in the chocolate until fully melted.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish the hot chocolate with whipped cream and allow guests to add their favorite toppings from the platter.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the cooking process.",
+                "url": "hot-chocolate-charcuterie-board\/images\/hot-chocolate-charcuterie-board_image_2.webp",
+                "fileName": "hot-chocolate-charcuterie-board_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Heat the milk slowly to prevent it from burning on the bottom.<\/li><li>Avoid using low-fat milk for a creamy texture.<\/li><li>When the chocolate is fully melted, it should be smooth and glossy.<\/li><li>Store any leftover hot chocolate in the fridge and reheat gently.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This Hot Chocolate Charcuterie Board is a wonderful way to bring people together. Sharing this treat with loved ones creates a sense of warmth and joy that is hard to beat.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding flavored syrups like hazelnut or caramel to the hot chocolate for an extra layer of flavor. You can also experiment with different types of chocolate, such as white chocolate or flavored chocolate.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair this board with festive cookies, gingerbread, or even a side of fruit for a refreshing contrast. Hot chocolate also goes well with a variety of holiday-themed snacks.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegan option, substitute dairy milk with almond or oat milk and use dairy-free chocolate chips. You can also create a spicy version by adding a pinch of cayenne pepper or cinnamon.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
+                "url": "hot-chocolate-charcuterie-board\/images\/hot-chocolate-charcuterie-board_image_3.webp",
+                "fileName": "hot-chocolate-charcuterie-board_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a whisk to mix the hot chocolate for a frothy texture.<\/li><li>Let the chocolate chips sit in the warm milk for a minute before stirring for easier melting.<\/li><li>Serve immediately for the best experience.<\/li><li>Arrange toppings in an appealing way for a beautiful presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to get creative and make this Hot Chocolate Charcuterie Board your own. The joy of sharing and customizing makes it a delightful experience for everyone involved!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "hot-chocolate-charcuterie-board_image_1.webp",
+            "filePath": "posts\/hot-chocolate-charcuterie-board\/images\/hot-chocolate-charcuterie-board_image_1.webp",
+            "relativePath": "hot-chocolate-charcuterie-board\/images\/hot-chocolate-charcuterie-board_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "hot-chocolate-charcuterie-board_image_2.webp",
+            "filePath": "posts\/hot-chocolate-charcuterie-board\/images\/hot-chocolate-charcuterie-board_image_2.webp",
+            "relativePath": "hot-chocolate-charcuterie-board\/images\/hot-chocolate-charcuterie-board_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "hot-chocolate-charcuterie-board_image_3.webp",
+            "filePath": "posts\/hot-chocolate-charcuterie-board\/images\/hot-chocolate-charcuterie-board_image_3.webp",
+            "relativePath": "hot-chocolate-charcuterie-board\/images\/hot-chocolate-charcuterie-board_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "hot-chocolate-charcuterie-board_image_4.webp",
+            "filePath": "posts\/hot-chocolate-charcuterie-board\/images\/hot-chocolate-charcuterie-board_image_4.webp",
+            "relativePath": "hot-chocolate-charcuterie-board\/images\/hot-chocolate-charcuterie-board_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/hot-chocolate-charcuterie-board\/images\/hot-chocolate-charcuterie-board_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "hot-chocolate-charcuterie-board_image_1.webp",
+    "image_path": "posts\/hot-chocolate-charcuterie-board\/images\/hot-chocolate-charcuterie-board_image_1.webp",
+    "image_dir": "hot-chocolate-charcuterie-board\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T20:31:33+01:00",
+    "updatedAt": "2025-11-02T20:31:33+01:00"
+}

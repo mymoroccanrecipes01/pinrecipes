@@ -1,0 +1,161 @@
+{
+    "id": "text_recipe_1762047261_229",
+    "slug": "classic-american-pumpkin-pie",
+    "title": "Classic American Pumpkin Pie",
+    "promptIMG": "Classic American pumpkin pie, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in the rich, creamy flavors of this Classic American Pumpkin Pie, a Thanksgiving staple that brings warmth and joy to any gathering. With its perfectly spiced filling and flaky crust, this pie is sure to become a beloved tradition in your home.",
+    "category_id": "cat_1761230294_638",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 (15 ounce) can pumpkin puree",
+        "1 cup heavy cream",
+        "3\/4 cup brown sugar",
+        "1\/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1\/2 teaspoon ground nutmeg",
+        "1\/4 teaspoon ground ginger",
+        "3 large eggs",
+        "1 (9 inch) unbaked pie crust"
+    ],
+    "instructions": [
+        "Preheat the oven to 425°F (220°C).",
+        "In a large bowl, combine pumpkin puree, heavy cream, brown sugar, salt, cinnamon, nutmeg, and ginger.",
+        "Beat in the eggs until the mixture is smooth.",
+        "Pour the filling into the unbaked pie crust.",
+        "Bake for 15 minutes, then reduce the temperature to 350°F (175°C) and continue baking for 30-35 minutes, or until a knife inserted in the center comes out clean."
+    ],
+    "prep_time": 15,
+    "cook_time": 45,
+    "total_time": 60,
+    "servings": 8,
+    "difficulty": "medium",
+    "tips": "For a perfectly smooth filling, make sure to whisk the ingredients thoroughly and avoid overbaking to keep the pie creamy.",
+    "structured_content": [
+        {
+            "content": "<p>This Classic American Pumpkin Pie is the epitome of comfort food, with its velvety filling and aromatic spices that evoke the essence of fall. Perfectly baked in a flaky crust, it's a must-have for Thanksgiving celebrations and a delightful treat for any occasion.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Rich, spiced flavors that capture the essence of autumn<\/li><li>Perfect for Thanksgiving and holiday gatherings<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Can be made ahead of time for convenience<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Growing up, my family always looked forward to Thanksgiving dinner, and this pumpkin pie was the star of the show. The aroma of spices wafting through the house was a signal that the holidays were truly here.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Pumpkin puree is essential for that rich flavor; use canned for convenience or fresh for a homemade touch.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Cinnamon, nutmeg, and ginger add warmth and depth to the pie.<\/li><li><strong>Supporting ingredients:<\/strong> Heavy cream gives the filling its creamy texture, while brown sugar adds a rich sweetness.<\/li><li><strong>Equipment needed:<\/strong> A mixing bowl, whisk, and pie dish are essential for this recipe.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully arranged display of the ingredients for pumpkin pie preparation.",
+                "url": "classic-american-pumpkin-pie\/images\/classic-american-pumpkin-pie_image_1.webp",
+                "fileName": "classic-american-pumpkin-pie_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by preheating your oven and gathering all ingredients. Mix the pumpkin puree with spices and cream before adding eggs for a smooth consistency.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Pour the mixture into the pie crust and bake, first at a high temperature to set the crust, then lower it to ensure the filling cooks through without burning.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Allow the pie to cool before slicing, and serve with whipped cream for an extra touch of indulgence.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A step-by-step visual guide to the cooking process of the pumpkin pie.",
+                "url": "classic-american-pumpkin-pie\/images\/classic-american-pumpkin-pie_image_2.webp",
+                "fileName": "classic-american-pumpkin-pie_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Ensure the filling is smooth for the best texture.<\/li><li>A common mistake is overbaking, which can lead to a dry pie.<\/li><li>The pie is ready when the center is set but still slightly wobbly.<\/li><li>Store leftovers in the refrigerator for up to 3 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this pie with family and friends brings back memories of laughter and gratitude around the dinner table, making it a cherished recipe in our home.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding a splash of vanilla extract or a pinch of cloves for an extra layer of flavor that enhances the pumpkin's natural sweetness.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This pie pairs beautifully with a scoop of vanilla ice cream or a dollop of whipped cream, making it a perfect dessert for any festive occasion.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, use a gluten-free pie crust. You can also experiment with different spices or add chocolate chips for a unique twist.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A stunning final presentation of the pumpkin pie, showcasing its golden crust and creamy filling.",
+                "url": "classic-american-pumpkin-pie\/images\/classic-american-pumpkin-pie_image_3.webp",
+                "fileName": "classic-american-pumpkin-pie_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Chill your pie crust before baking for a flakier texture.<\/li><li>Use fresh spices for a more vibrant flavor.<\/li><li>Monitor the pie closely in the oven to avoid overbaking.<\/li><li>Garnish with a sprinkle of cinnamon for an impressive finish.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Embrace the joy of baking this Classic American Pumpkin Pie, and let it fill your home with warmth and happiness. Enjoy the satisfaction of creating a dish that brings people together!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "classic-american-pumpkin-pie_image_1.webp",
+            "filePath": "posts\/classic-american-pumpkin-pie\/images\/classic-american-pumpkin-pie_image_1.webp",
+            "relativePath": "classic-american-pumpkin-pie\/images\/classic-american-pumpkin-pie_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-american-pumpkin-pie_image_2.webp",
+            "filePath": "posts\/classic-american-pumpkin-pie\/images\/classic-american-pumpkin-pie_image_2.webp",
+            "relativePath": "classic-american-pumpkin-pie\/images\/classic-american-pumpkin-pie_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "classic-american-pumpkin-pie_image_3.webp",
+            "filePath": "posts\/classic-american-pumpkin-pie\/images\/classic-american-pumpkin-pie_image_3.webp",
+            "relativePath": "classic-american-pumpkin-pie\/images\/classic-american-pumpkin-pie_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "classic-american-pumpkin-pie_image_4.webp",
+            "filePath": "posts\/classic-american-pumpkin-pie\/images\/classic-american-pumpkin-pie_image_4.webp",
+            "relativePath": "classic-american-pumpkin-pie\/images\/classic-american-pumpkin-pie_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/classic-american-pumpkin-pie\/images\/classic-american-pumpkin-pie_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "classic-american-pumpkin-pie_image_1.webp",
+    "image_path": "posts\/classic-american-pumpkin-pie\/images\/classic-american-pumpkin-pie_image_1.webp",
+    "image_dir": "classic-american-pumpkin-pie\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T02:34:21+01:00",
+    "updatedAt": "2025-11-02T02:34:21+01:00"
+}

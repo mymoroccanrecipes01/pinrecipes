@@ -1,0 +1,102 @@
+{
+    "id": "recipe_1768146173_587",
+    "slug": "hearty-crockpot-beef-stew-for-cozy-nights",
+    "title": "Hearty Crockpot Beef Stew for Cozy Nights",
+    "promptIMG": "Food photography: beef stew, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": true,
+    "description": "This crockpot beef stew is pure comfort in a bowl. With tender beef and vibrant veggies, it’s perfect for chilly evenings. Just set it and forget it for a delicious, hearty meal!",
+    "category_id": "cat_1761229889_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 lbs beef chuck, cut into 1-inch cubes",
+        "4 medium carrots, sliced",
+        "3 medium potatoes, diced",
+        "1 cup frozen peas",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "4 cups beef broth",
+        "2 tablespoons Worcestershire sauce",
+        "1 teaspoon dried thyme",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "In a large bowl, combine beef cubes, salt, and pepper. Toss to coat.",
+        "Place the beef in the crockpot along with carrots, potatoes, onion, and garlic.",
+        "Pour in the beef broth and Worcestershire sauce, then sprinkle thyme over the top.",
+        "Cover and cook on low for 8 hours or high for 4 hours, until the beef is tender.",
+        "In the last 30 minutes, stir in the frozen peas and let them heat through.",
+        "Serve hot with crusty bread for dipping!"
+    ],
+    "prep_time": 10,
+    "cook_time": 480,
+    "total_time": 490,
+    "servings": 6,
+    "difficulty": "Easy",
+    "tips": "One key tip for this stew is to sear the beef before adding it to the crockpot. This adds depth of flavor you'll really appreciate! Also, don’t skip the Worcestershire sauce; it gives the stew a rich, savory kick. Leftovers store well in the fridge for up to 3 days and can be reheated on the stove or in the microwave. If you want to lighten it up, feel free to add more veggies like green beans or bell peppers!",
+    "structured_content": [
+        {
+            "content": "<p>There's something magical about a warm bowl of beef stew, especially on a chilly evening. This hearty crockpot beef stew is one of my go-to posts for those cozy nights when I want something comforting but easy to prepare. The best part? It only takes 10 minutes to get everything in the pot, and then you can just let it do its thing!<\/p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>One thing I love - For this stew, I like using beef chuck because it gets really tender as it cooks. You'll also need a mix of colorful veggies—carrots and potatoes are classics, but feel free to throw in whatever you have on hand! If you're out of beef broth, chicken broth works in a pinch.<\/p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Making this stew is super straightforward. Just toss everything into the crockpot, give it a good stir, and let the magic happen! You'll know it's ready when the beef is fork-tender and the flavors have melded beautifully. It’s the perfect meal to come home to after a long day.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Hearty beef stew in a rustic bowl on a wooden table",
+                "url": "hearty-crockpot-beef-stew-for-cozy-nights\/images\/hearty-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+                "fileName": "hearty-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>Serve this stew with some crusty bread or over a bed of rice for a filling meal. It also pairs nicely with a simple side salad for some freshness. If you want to switch things up, try adding a splash of red wine for an extra layer of flavor!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "hearty-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+            "filePath": "posts\/hearty-crockpot-beef-stew-for-cozy-nights\/images\/hearty-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+            "relativePath": "hearty-crockpot-beef-stew-for-cozy-nights\/images\/hearty-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "hearty-crockpot-beef-stew-for-cozy-nights_image_2.webp",
+            "filePath": "posts\/hearty-crockpot-beef-stew-for-cozy-nights\/images\/hearty-crockpot-beef-stew-for-cozy-nights_image_2.webp",
+            "relativePath": "hearty-crockpot-beef-stew-for-cozy-nights\/images\/hearty-crockpot-beef-stew-for-cozy-nights_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "hearty-crockpot-beef-stew-for-cozy-nights_image_3.webp",
+            "filePath": "posts\/hearty-crockpot-beef-stew-for-cozy-nights\/images\/hearty-crockpot-beef-stew-for-cozy-nights_image_3.webp",
+            "relativePath": "hearty-crockpot-beef-stew-for-cozy-nights\/images\/hearty-crockpot-beef-stew-for-cozy-nights_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "hearty-crockpot-beef-stew-for-cozy-nights_Lummyrecipes-main_image_4.webp",
+            "filePath": "posts\/hearty-crockpot-beef-stew-for-cozy-nights\/images\/hearty-crockpot-beef-stew-for-cozy-nights_Lummyrecipes-main_image_4.webp",
+            "relativePath": "hearty-crockpot-beef-stew-for-cozy-nights\/images\/hearty-crockpot-beef-stew-for-cozy-nights_Lummyrecipes-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/hearty-crockpot-beef-stew-for-cozy-nights\/images\/hearty-crockpot-beef-stew-for-cozy-nights_Lummyrecipes-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "hearty-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+    "image_path": "posts\/hearty-crockpot-beef-stew-for-cozy-nights\/images\/hearty-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+    "image_dir": "hearty-crockpot-beef-stew-for-cozy-nights\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-13T22:56:10+01:00",
+    "updatedAt": "2026-01-13T22:56:10+01:00"
+}

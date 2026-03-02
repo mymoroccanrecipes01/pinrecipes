@@ -1,0 +1,82 @@
+{
+    "title": "Cozy Thai Coconut Curry Dumpling Soup Recipe",
+    "promptIMG": "Professional food photography prompt: \"Thai coconut curry dumpling soup, steaming in a vibrant bowl, beautifully garnished with fresh herbs and chili, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "Warm up with this cozy Thai coconut curry dumpling soup! It’s got rich flavors, tender dumplings, and is ready in just 30 minutes. Perfect for chilly nights or when you wanna impress your friends. Give it a try!",
+    "hashtags": "#thaicoconutcurrysoup #dumplingsoup #comfortfood #quickmeals #easyposts",
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "1 tablespoon coconut oil",
+        "1 medium onion, diced",
+        "2 cloves garlic, minced",
+        "1 tablespoon ginger, grated",
+        "1 tablespoon red curry paste",
+        "4 cups vegetable broth",
+        "1 can (14 oz) coconut milk",
+        "1 cup frozen dumplings (store-bought or homemade)",
+        "1 cup bell peppers, sliced",
+        "2 cups spinach",
+        "Fresh cilantro for garnish",
+        "Lime wedges for serving"
+    ],
+    "instructions": [
+        "In a large pot over medium heat, melt the coconut oil. Toss in the onion and sauté until it's translucent, about 5 minutes.",
+        "Add the garlic and ginger, stirring for another minute until fragrant. Then, stir in the red curry paste and let it mingle for a bit.",
+        "Pour in the vegetable broth and coconut milk. Bring everything to a gentle simmer, stirring occasionally.",
+        "Now, add the frozen dumplings and bell peppers. Cook for about 5-7 minutes until the dumplings are heated through. They should be floating a bit at this point.",
+        "Lastly, stir in the spinach until it's wilted. This should take just a minute or two.",
+        "Serve hot, garnished with fresh cilantro and a squeeze of lime. Easy peasy!"
+    ],
+    "tips": "Here are some pro tips to make this soup even better:\n\n- Want a richer flavor? You might wanna add a splash of fish sauce or soy sauce. Seriously, it makes a difference!\n- If you can’t find frozen dumplings, try using wontons or even homemade ones if you're feeling ambitious. My KitchenAid mixer makes dough easy!\n- Keep an eye on the heat; you don’t want the soup boiling too hard. A gentle simmer is what you’re aiming for.\n- Leftovers? They taste even better the next day! Just store them in an airtight container in the fridge.\n- And if you're looking for a kick, toss in some sliced chili or sriracha – spice it up how you like it!",
+    "generation_metadata": {
+        "voice": "Practical Expert",
+        "complexity": "simple",
+        "target_words": "400-600",
+        "temperature": 0.7,
+        "generated_at": "2026-01-04 16:23:03"
+    },
+    "author_id": "author_001",
+    "images": [
+        {
+            "fileName": "quick-thai-coconut-curry-soup-for-families_image_1.webp",
+            "filePath": "posts\/quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_1.webp",
+            "relativePath": "quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "quick-thai-coconut-curry-soup-for-families_image_2.webp",
+            "filePath": "posts\/quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_2.webp",
+            "relativePath": "quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "quick-thai-coconut-curry-soup-for-families_image_3.webp",
+            "filePath": "posts\/quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_3.webp",
+            "relativePath": "quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "quick-thai-coconut-curry-soup-for-families_Lummyrecipes_image_4.webp",
+            "filePath": "posts\/quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_Lummyrecipes_image_4.webp",
+            "relativePath": "quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_Lummyrecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes\/posts\/quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_Lummyrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "slug": "quick-thai-coconut-curry-soup-for-families",
+    "id": "recipe_1763314116_401",
+    "image": "quick-thai-coconut-curry-soup-for-families_image_1.webp",
+    "image_path": "posts\/quick-thai-coconut-curry-soup-for-families\/images\/quick-thai-coconut-curry-soup-for-families_image_1.webp",
+    "image_dir": "quick-thai-coconut-curry-soup-for-families\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-04T16:29:19+01:00",
+    "updatedAt": "2026-01-04T16:29:19+01:00"
+}

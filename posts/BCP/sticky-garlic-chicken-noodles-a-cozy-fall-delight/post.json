@@ -1,0 +1,100 @@
+{
+    "id": "recipe_1768147762_251",
+    "slug": "sticky-garlic-chicken-noodles-a-cozy-fall-delight",
+    "title": "Sticky Garlic Chicken Noodles: A Cozy Fall Delight",
+    "promptIMG": "Food photography: Sticky Garlic Chicken Noodles, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": true,
+    "description": "These sticky garlic chicken noodles are a comforting fall meal. Tossed in a sweet and savory sauce, they come together quickly for busy weeknights. You'll love how easy they are!",
+    "category_id": "cat_1761230636_499",
+    "author_id": "author_001",
+    "ingredients": [
+        "8 oz egg noodles, uncooked",
+        "1 lb chicken breast, sliced",
+        "3 tbsp soy sauce",
+        "2 tbsp honey",
+        "4 cloves garlic, minced",
+        "1 tbsp vegetable oil",
+        "1\/2 tsp black pepper",
+        "2 green onions, chopped"
+    ],
+    "instructions": [
+        "Cook the egg noodles according to package instructions. Drain and set aside.",
+        "In a large skillet, heat vegetable oil over medium-high heat. Add sliced chicken and season with black pepper.",
+        "Cook the chicken for about 5-7 minutes, or until browned and cooked through.",
+        "Add minced garlic, soy sauce, and honey to the skillet. Stir to coat the chicken and cook for another 2-3 minutes until the sauce thickens slightly.",
+        "Toss in the cooked noodles and mix until they are well coated in the sauce.",
+        "Serve hot, garnished with chopped green onions."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "Easy",
+    "tips": "For an extra kick, try adding some red pepper flakes to the sauce. A common mistake is overcooking the chicken, so keep an eye on it! Leftovers can be stored in the fridge for 2-3 days and reheated in a skillet for best results.",
+    "structured_content": [
+        {
+            "content": "<p>There's something about sticky garlic chicken noodles that just screams comfort food, especially as the weather cools down. I love making this dish on busy weeknights; it’s quick, satisfying, and always a hit with my family. The sweet and savory garlic sauce clings to the noodles, making each bite utterly delightful. Plus, it’s a great way to use up any leftover chicken!<\/p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>One thing I love - This recipe calls for simple ingredients that you probably already have in your pantry. The egg noodles are a perfect base, soaking up the delicious sauce. If you don’t have egg noodles, feel free to substitute with rice noodles or even spaghetti in a pinch. The key ingredient here is the garlic – it really brings the dish to life!<\/p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Honestly, Making these sticky garlic chicken noodles is as easy as it gets. You’ll start by cooking the noodles while you prepare the chicken. The combination of soy sauce and honey creates a beautifully sticky glaze that coats the chicken and noodles perfectly. Just be sure to keep an eye on the chicken so it doesn’t overcook.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Sticky Garlic Chicken Noodles served in a bowl",
+                "url": "sticky-garlic-chicken-noodles-a-cozy-fall-delight\/images\/sticky-garlic-chicken-noodles-a-cozy-fall-delight_image_1.webp",
+                "fileName": "sticky-garlic-chicken-noodles-a-cozy-fall-delight_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>These noodles are fantastic on their own, but if you're feeling adventurous, you can add some steamed broccoli or bell peppers for a pop of color and nutrition. They also work great as a meal prep option – just divide into containers for easy lunches throughout the week!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "sticky-garlic-chicken-noodles-a-cozy-fall-delight_image_1.webp",
+            "filePath": "posts\/sticky-garlic-chicken-noodles-a-cozy-fall-delight\/images\/sticky-garlic-chicken-noodles-a-cozy-fall-delight_image_1.webp",
+            "relativePath": "sticky-garlic-chicken-noodles-a-cozy-fall-delight\/images\/sticky-garlic-chicken-noodles-a-cozy-fall-delight_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "sticky-garlic-chicken-noodles-a-cozy-fall-delight_image_2.webp",
+            "filePath": "posts\/sticky-garlic-chicken-noodles-a-cozy-fall-delight\/images\/sticky-garlic-chicken-noodles-a-cozy-fall-delight_image_2.webp",
+            "relativePath": "sticky-garlic-chicken-noodles-a-cozy-fall-delight\/images\/sticky-garlic-chicken-noodles-a-cozy-fall-delight_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "sticky-garlic-chicken-noodles-a-cozy-fall-delight_image_3.webp",
+            "filePath": "posts\/sticky-garlic-chicken-noodles-a-cozy-fall-delight\/images\/sticky-garlic-chicken-noodles-a-cozy-fall-delight_image_3.webp",
+            "relativePath": "sticky-garlic-chicken-noodles-a-cozy-fall-delight\/images\/sticky-garlic-chicken-noodles-a-cozy-fall-delight_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "sticky-garlic-chicken-noodles-a-cozy-fall-delight_Lummyrecipes-main_image_4.webp",
+            "filePath": "posts\/sticky-garlic-chicken-noodles-a-cozy-fall-delight\/images\/sticky-garlic-chicken-noodles-a-cozy-fall-delight_Lummyrecipes-main_image_4.webp",
+            "relativePath": "sticky-garlic-chicken-noodles-a-cozy-fall-delight\/images\/sticky-garlic-chicken-noodles-a-cozy-fall-delight_Lummyrecipes-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/sticky-garlic-chicken-noodles-a-cozy-fall-delight\/images\/sticky-garlic-chicken-noodles-a-cozy-fall-delight_Lummyrecipes-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "sticky-garlic-chicken-noodles-a-cozy-fall-delight_image_1.webp",
+    "image_path": "posts\/sticky-garlic-chicken-noodles-a-cozy-fall-delight\/images\/sticky-garlic-chicken-noodles-a-cozy-fall-delight_image_1.webp",
+    "image_dir": "sticky-garlic-chicken-noodles-a-cozy-fall-delight\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-13T22:56:02+01:00",
+    "updatedAt": "2026-01-13T22:56:02+01:00"
+}

@@ -1,0 +1,156 @@
+{
+    "id": "text_recipe_1761329018_599",
+    "slug": "creamy-carrot-soup",
+    "title": "Creamy Carrot Soup",
+    "promptIMG": "Creamy carrot soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This creamy carrot soup is a delightful blend of flavors that will warm your soul. With its velvety texture and rich taste, it's perfect for any occasion.",
+    "category_id": "cat_1761230166_734",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 pounds carrots, peeled and chopped",
+        "1 onion, chopped",
+        "2 tablespoons olive oil",
+        "4 cups vegetable broth",
+        "1 cup heavy cream",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "In a large pot, heat olive oil over medium heat. Add onions and sauté until translucent.",
+        "Add the chopped carrots and vegetable broth. Bring to a boil, then reduce heat and simmer until carrots are tender, about 20 minutes.",
+        "Using an immersion blender, puree the soup until smooth. Stir in the heavy cream and season with salt and pepper."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 8,
+    "difficulty": "easy",
+    "tips": "For the best flavor, use fresh, high-quality carrots. Adjust the cream to your preference for richness.",
+    "structured_content": [
+        {
+            "content": "<p>This creamy carrot soup is not just a dish; it's a warm hug in a bowl. The natural sweetness of the carrots combined with the richness of the cream creates a comforting experience that is both satisfying and nourishing.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 45 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for cozy weeknight dinners or entertaining guests<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Gluten-free and can be made vegan by substituting cream with coconut milk<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this soup for my family. The aroma filled the kitchen, and as we gathered around the table, the smiles on their faces told me I had created something special.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Carrots are the star here; choose vibrant, fresh ones for the best flavor.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Salt and pepper enhance the natural sweetness of the carrots.<\/li><li><strong>Supporting ingredients:<\/strong> Onion adds depth, while heavy cream brings a luxurious texture.<\/li><li><strong>Equipment needed:<\/strong> A large pot and an immersion blender are essential for this recipe.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of fresh carrots and onions ready for soup preparation, highlighting their natural colors.",
+                "url": "creamy-carrot-soup\/images\/creamy-carrot-soup_image_1.webp",
+                "fileName": "creamy-carrot-soup_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Peel and chop the carrots and onion. Measure out the broth and cream.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Follow the steps to sauté, simmer, and blend the ingredients until smooth.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Adjust seasoning and serve hot, garnished with a swirl of cream or fresh herbs.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "The cooking process of carrot soup, showcasing the vibrant colors and creamy texture as it simmers.",
+                "url": "creamy-carrot-soup\/images\/creamy-carrot-soup_image_2.webp",
+                "fileName": "creamy-carrot-soup_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook the carrots until tender for a smoother blend.<\/li><li>Avoid overcooking the cream to prevent curdling.<\/li><li>The soup is ready when it reaches a velvety consistency.<\/li><li>Store leftovers in the fridge for up to 3 days; reheat gently.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This soup has become a family favorite, often requested during chilly evenings. Sharing it with loved ones makes every bowl taste even better.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Add a pinch of nutmeg or ginger for an extra layer of warmth. Fresh herbs like thyme or parsley can elevate the flavor profile beautifully.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve with crusty bread or a light salad for a complete meal. Pair with a crisp white wine for a delightful dining experience.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegan option, substitute heavy cream with coconut milk or cashew cream. You can also add roasted garlic for a deeper flavor.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated bowl of creamy carrot soup, garnished with herbs and a drizzle of cream, showcasing its rich color.",
+                "url": "creamy-carrot-soup\/images\/creamy-carrot-soup_image_3.webp",
+                "fileName": "creamy-carrot-soup_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Blend the soup in batches if necessary to avoid overflow.<\/li><li>Use a high-speed blender for an ultra-smooth texture.<\/li><li>Timing is key; don’t rush the sautéing process for maximum flavor.<\/li><li>Garnish with fresh herbs for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this creamy carrot soup; it's easier than you think and will surely impress your family and friends!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "creamy-carrot-soup_image_1.webp",
+            "filePath": "posts\/creamy-carrot-soup\/images\/creamy-carrot-soup_image_1.webp",
+            "relativePath": "creamy-carrot-soup\/images\/creamy-carrot-soup_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-carrot-soup_image_2.webp",
+            "filePath": "posts\/creamy-carrot-soup\/images\/creamy-carrot-soup_image_2.webp",
+            "relativePath": "creamy-carrot-soup\/images\/creamy-carrot-soup_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "creamy-carrot-soup_image_3.webp",
+            "filePath": "posts\/creamy-carrot-soup\/images\/creamy-carrot-soup_image_3.webp",
+            "relativePath": "creamy-carrot-soup\/images\/creamy-carrot-soup_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "creamy-carrot-soup_image_4.webp",
+            "filePath": "posts\/creamy-carrot-soup\/images\/creamy-carrot-soup_image_4.webp",
+            "relativePath": "creamy-carrot-soup\/images\/creamy-carrot-soup_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/creamy-carrot-soup\/images\/creamy-carrot-soup_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "creamy-carrot-soup_image_1.webp",
+    "image_path": "posts\/creamy-carrot-soup\/images\/creamy-carrot-soup_image_1.webp",
+    "image_dir": "creamy-carrot-soup\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-24T20:03:38+02:00",
+    "updatedAt": "2025-10-24T20:03:38+02:00"
+}

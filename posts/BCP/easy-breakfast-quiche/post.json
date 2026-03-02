@@ -1,0 +1,163 @@
+{
+    "id": "text_recipe_1761589639_487",
+    "slug": "easy-breakfast-quiche",
+    "title": "Easy Breakfast Quiche",
+    "promptIMG": "Easy Breakfast Quiche, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Start your day off right with this Easy Breakfast Quiche! This versatile dish is packed with delicious flavors and can be customized to fit whatever you have on hand, making it perfect for any meal.",
+    "category_id": "cat_1761230422_512",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pie crust",
+        "6 large eggs",
+        "1 cup milk",
+        "1 cup shredded cheese",
+        "1 cup chopped vegetables (like spinach, bell peppers, or onions)",
+        "1 cup cooked meat (like bacon, sausage, or ham)",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "Preheat your oven to 375°F (190°C).",
+        "In a large bowl, whisk together the eggs and milk until well combined.",
+        "Stir in the cheese, vegetables, meat, salt, and pepper.",
+        "Pour the egg mixture into the pie crust.",
+        "Bake in the preheated oven for 30-35 minutes, or until the quiche is set and lightly golden on top.",
+        "Allow to cool for a few minutes before slicing and serving."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For the best texture, let the quiche cool slightly before slicing. You can also experiment with different fillings to suit your taste.",
+    "structured_content": [
+        {
+            "content": "<p>This Easy Breakfast Quiche is a delightful way to start your day! With a creamy egg custard baked in a flaky crust, it's a dish that brings warmth and comfort to your breakfast table. Customize it with your favorite fillings for a personal touch!<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for brunch gatherings or leisurely breakfasts<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Can be made ahead for a convenient meal<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this quiche for a family brunch. Everyone loved it, and it quickly became a staple in our household. It's so versatile that we can change up the fillings based on what we have, making it a fun dish to prepare!<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> A pie crust is essential for that flaky texture; store-bought works great for convenience.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Salt and pepper enhance the flavors of the fillings.<\/li><li><strong>Supporting ingredients:<\/strong> Cheese adds creaminess, while vegetables and meats contribute flavor and texture.<\/li><li><strong>Equipment needed:<\/strong> A pie dish and mixing bowl are all you need for this recipe.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully arranged display of ingredients for the Easy Breakfast Quiche, showcasing fresh vegetables, cheese, and eggs.",
+                "url": "easy-breakfast-quiche\/images\/easy-breakfast-quiche_image_1.webp",
+                "fileName": "easy-breakfast-quiche_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Preheat your oven and prepare your pie crust. Whisk eggs and milk together in a bowl.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Pour the mixture into the crust and bake until set. Keep an eye on it to avoid over-baking.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Let it cool slightly before slicing for clean cuts and better presentation.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A step-by-step visual guide showing the cooking process of the Easy Breakfast Quiche, highlighting the baking stage.",
+                "url": "easy-breakfast-quiche\/images\/easy-breakfast-quiche_image_2.webp",
+                "fileName": "easy-breakfast-quiche_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Ensure your oven is fully preheated for even baking.<\/li><li>A common mistake is overfilling the crust, which can lead to spillage.<\/li><li>The quiche is ready when the center is set and doesn't jiggle.<\/li><li>Store leftovers in the fridge for up to 3 days; reheat in the oven for best results.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This quiche is a family favorite, and I love serving it during gatherings. It's always a hit, and I enjoy seeing everyone come together over a delicious meal!<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding fresh herbs like parsley or chives for an extra layer of flavor. You can also try different types of cheese or spices to customize the taste.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This quiche pairs wonderfully with a fresh salad or fruit for a balanced meal. Serve it alongside coffee or juice for a delightful brunch experience.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, use a crust made from almond flour or a vegetable base. You can also make it vegetarian by omitting the meat and adding more veggies.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A stunning final presentation of the Easy Breakfast Quiche, garnished and ready to serve, highlighting its deliciousness.",
+                "url": "easy-breakfast-quiche\/images\/easy-breakfast-quiche_image_3.webp",
+                "fileName": "easy-breakfast-quiche_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For a perfectly flaky crust, avoid overworking the dough.<\/li><li>Let your ingredients come to room temperature for better mixing.<\/li><li>Timing is key; check for doneness a few minutes before the suggested time.<\/li><li>Garnish with fresh herbs for an impressive look.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this Easy Breakfast Quiche! It's a simple dish that brings joy to any meal, and you'll feel proud to serve it to your loved ones.<\/p>"
+        },
+        {
+            "category_id": "cat_1761230422_512"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "easy-breakfast-quiche_image_1.webp",
+            "filePath": "posts\/easy-breakfast-quiche\/images\/easy-breakfast-quiche_image_1.webp",
+            "relativePath": "easy-breakfast-quiche\/images\/easy-breakfast-quiche_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-breakfast-quiche_image_2.webp",
+            "filePath": "posts\/easy-breakfast-quiche\/images\/easy-breakfast-quiche_image_2.webp",
+            "relativePath": "easy-breakfast-quiche\/images\/easy-breakfast-quiche_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "easy-breakfast-quiche_image_3.webp",
+            "filePath": "posts\/easy-breakfast-quiche\/images\/easy-breakfast-quiche_image_3.webp",
+            "relativePath": "easy-breakfast-quiche\/images\/easy-breakfast-quiche_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "easy-breakfast-quiche_image_4.webp",
+            "filePath": "posts\/easy-breakfast-quiche\/images\/easy-breakfast-quiche_image_4.webp",
+            "relativePath": "easy-breakfast-quiche\/images\/easy-breakfast-quiche_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/easy-breakfast-quiche\/images\/easy-breakfast-quiche_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "easy-breakfast-quiche_image_1.webp",
+    "image_path": "posts\/easy-breakfast-quiche\/images\/easy-breakfast-quiche_image_1.webp",
+    "image_dir": "easy-breakfast-quiche\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-27T19:27:19+01:00",
+    "updatedAt": "2025-10-27T19:27:19+01:00"
+}

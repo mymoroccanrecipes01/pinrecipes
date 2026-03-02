@@ -1,0 +1,159 @@
+{
+    "id": "text_recipe_1762477346_984",
+    "slug": "cheesy-pasta-bake",
+    "title": "Cheesy Pasta Bake",
+    "promptIMG": "Cheesy Pasta Bake, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in a comforting Cheesy Pasta Bake that brings warmth and joy to your dinner table. With layers of gooey cheese and perfectly cooked pasta, this dish is sure to become a family favorite.",
+    "category_id": "cat_1761230383_494",
+    "author_id": "author_001",
+    "ingredients": [
+        "8 ounces pasta of your choice",
+        "2 cups marinara sauce",
+        "1 cup ricotta cheese",
+        "2 cups shredded mozzarella cheese",
+        "1\/2 cup grated Parmesan cheese",
+        "1 teaspoon Italian seasoning",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "Preheat your oven to 375°F (190°C).",
+        "Cook the pasta according to package instructions until al dente, then drain.",
+        "In a large bowl, combine the cooked pasta, marinara sauce, ricotta cheese, Italian seasoning, salt, and pepper.",
+        "Transfer the mixture to a baking dish and top with mozzarella and Parmesan cheese.",
+        "Bake for 25-30 minutes until the cheese is bubbly and golden brown."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For a richer flavor, add sautéed vegetables or cooked ground meat to the pasta mixture before baking.",
+    "structured_content": [
+        {
+            "content": "<p>This Cheesy Pasta Bake is a delightful dish that combines the comforting flavors of pasta and cheese, making it perfect for family dinners or gatherings. The gooey melted cheese and savory marinara create a mouthwatering experience that will have everyone coming back for seconds.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 45 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customizable with your favorite add-ins<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Growing up, my family often gathered around the table for a comforting pasta bake, and this recipe brings back those cherished memories. It's a dish that not only fills the stomach but also warms the heart.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Pasta is the foundation of this dish; choose a shape that holds sauce well, like penne or rotini.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Italian seasoning adds a fragrant touch; look for a blend that includes oregano and basil.<\/li><li><strong>Supporting ingredients:<\/strong> Ricotta and mozzarella provide creaminess and stretch, while marinara sauce adds a rich tomato flavor.<\/li><li><strong>Equipment needed:<\/strong> A large pot for boiling pasta, a mixing bowl, and a baking dish for the oven.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of pasta, cheese, and marinara sauce ready for baking.",
+                "url": "cheesy-pasta-bake\/images\/cheesy-pasta-bake_image_1.webp",
+                "fileName": "cheesy-pasta-bake_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by preheating your oven and cooking the pasta until just al dente. Drain and set aside.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Mix the pasta with the other ingredients, transfer to a baking dish, and top with cheese. Bake until golden.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Let it cool slightly before serving to allow the cheese to set, then garnish with fresh herbs if desired.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "The pasta bake bubbling in the oven, showcasing its cheesy goodness.",
+                "url": "cheesy-pasta-bake\/images\/cheesy-pasta-bake_image_2.webp",
+                "fileName": "cheesy-pasta-bake_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Ensure the pasta is cooked al dente to prevent it from becoming mushy during baking.<\/li><li>Avoid overloading with too much sauce, as it can make the dish watery.<\/li><li>The cheese should be melted and slightly browned for the best texture.<\/li><li>Store leftovers in an airtight container in the fridge and reheat in the oven for best results.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This dish is not just food; it's a way to bring loved ones together. Sharing a warm, cheesy pasta bake with family creates lasting memories and smiles all around.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding sautéed spinach, mushrooms, or cooked sausage to enhance the flavor and nutrition of your pasta bake.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve with a fresh green salad and garlic bread for a complete meal. Pair with a light white wine for a delightful dining experience.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, use gluten-free pasta. You can also make it vegan by substituting dairy cheese with plant-based alternatives.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "The final plated Cheesy Pasta Bake, ready to be enjoyed.",
+                "url": "cheesy-pasta-bake\/images\/cheesy-pasta-bake_image_3.webp",
+                "fileName": "cheesy-pasta-bake_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use freshly grated cheese for the best melting quality.<\/li><li>Mix in a splash of cream for extra richness.<\/li><li>Keep an eye on the baking time to avoid overcooking.<\/li><li>Garnish with fresh basil or parsley for a pop of color.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this Cheesy Pasta Bake; it's a simple yet satisfying dish that will impress your family and friends. Enjoy the process and the delicious results!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "cheesy-pasta-bake_image_1.webp",
+            "filePath": "posts\/cheesy-pasta-bake\/images\/cheesy-pasta-bake_image_1.webp",
+            "relativePath": "cheesy-pasta-bake\/images\/cheesy-pasta-bake_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cheesy-pasta-bake_image_2.webp",
+            "filePath": "posts\/cheesy-pasta-bake\/images\/cheesy-pasta-bake_image_2.webp",
+            "relativePath": "cheesy-pasta-bake\/images\/cheesy-pasta-bake_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "cheesy-pasta-bake_image_3.webp",
+            "filePath": "posts\/cheesy-pasta-bake\/images\/cheesy-pasta-bake_image_3.webp",
+            "relativePath": "cheesy-pasta-bake\/images\/cheesy-pasta-bake_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "cheesy-pasta-bake_image_4.webp",
+            "filePath": "posts\/cheesy-pasta-bake\/images\/cheesy-pasta-bake_image_4.webp",
+            "relativePath": "cheesy-pasta-bake\/images\/cheesy-pasta-bake_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/cheesy-pasta-bake\/images\/cheesy-pasta-bake_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "cheesy-pasta-bake_image_1.webp",
+    "image_path": "posts\/cheesy-pasta-bake\/images\/cheesy-pasta-bake_image_1.webp",
+    "image_dir": "cheesy-pasta-bake\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-07T02:02:26+01:00",
+    "updatedAt": "2025-11-07T02:02:26+01:00"
+}

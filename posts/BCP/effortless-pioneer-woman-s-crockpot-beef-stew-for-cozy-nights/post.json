@@ -1,0 +1,101 @@
+{
+    "id": "recipe_1768146910_319",
+    "slug": "effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights",
+    "title": "Effortless Pioneer Woman's Crockpot Beef Stew for Cozy Nights",
+    "promptIMG": "Food photography: Crockpot Beef Stew, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": true,
+    "description": "This Easy Pioneer Woman's Crockpot Beef Stew is the ultimate comfort food. Packed with tender beef, hearty potatoes, and carrots, it’s perfect for chilly evenings or busy weeknights!",
+    "category_id": "cat_1761230383_494",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 pounds beef chuck, cut into 1-inch cubes",
+        "4 medium potatoes, peeled and chopped",
+        "3 large carrots, sliced",
+        "1 onion, diced",
+        "4 cloves garlic, minced",
+        "4 cups beef broth",
+        "2 tablespoons Worcestershire sauce",
+        "1 teaspoon dried thyme",
+        "Salt and pepper to taste",
+        "1 tablespoon olive oil"
+    ],
+    "instructions": [
+        "In a large skillet, heat olive oil over medium-high heat. Brown the beef cubes on all sides, about 5-7 minutes.",
+        "Transfer the browned beef to your slow cooker. Add the potatoes, carrots, onion, and garlic.",
+        "Pour in the beef broth and Worcestershire sauce. Sprinkle with thyme, salt, and pepper.",
+        "Cover and cook on low for 8 hours or on high for 4 hours, until the beef is tender and the flavors meld.",
+        "Taste and adjust seasoning before serving. Enjoy with crusty bread for a complete meal!"
+    ],
+    "prep_time": 15,
+    "cook_time": 480,
+    "total_time": 495,
+    "servings": 6,
+    "difficulty": "Easy",
+    "tips": "When browning the beef, make sure not to overcrowd the pan; it helps achieve a nice crust. If you want to thicken the stew, mix a tablespoon of cornstarch with cold water and stir it in during the last 30 minutes of cooking. Leftovers store well in the fridge for up to 3 days and can be frozen for up to 3 months!",
+    "structured_content": [
+        {
+            "content": "<p>There's something so comforting about a warm bowl of beef stew, especially when it’s made in a slow cooker. This Easy Pioneer Woman's Crockpot Beef Stew has become a staple in my house. It’s rich, hearty, and requires minimal effort, making it perfect for those busy weeknights or chilly Sundays when you just want something cozy.<\/p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>This stew features tender beef chuck, which breaks down beautifully during the slow cooking process, alongside classic vegetables like potatoes and carrots. If you're looking for a lighter option, you can substitute the beef with mushrooms for a vegetarian twist!<\/p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Making this stew is as simple as browning the beef and tossing everything into the slow cooker. You’ll want to let it cook low and slow, allowing the flavors to meld together beautifully. The aroma that fills your kitchen will be irresistible!<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Crockpot Beef Stew in a rustic bowl on a wooden table",
+                "url": "effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights\/images\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+                "fileName": "effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>This stew is perfect on its own, but if you want to elevate it, consider serving it with a side of crusty bread or a fresh salad. You could also add some fresh herbs like parsley for a pop of color and flavor!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+            "filePath": "posts\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights\/images\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+            "relativePath": "effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights\/images\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_image_2.webp",
+            "filePath": "posts\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights\/images\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_image_2.webp",
+            "relativePath": "effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights\/images\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_image_3.webp",
+            "filePath": "posts\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights\/images\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_image_3.webp",
+            "relativePath": "effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights\/images\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_Lummyrecipes-main_image_4.webp",
+            "filePath": "posts\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights\/images\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_Lummyrecipes-main_image_4.webp",
+            "relativePath": "effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights\/images\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_Lummyrecipes-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights\/images\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_Lummyrecipes-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+    "image_path": "posts\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights\/images\/effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights_image_1.webp",
+    "image_dir": "effortless-pioneer-woman-s-crockpot-beef-stew-for-cozy-nights\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-13T22:56:05+01:00",
+    "updatedAt": "2026-01-13T22:56:05+01:00"
+}

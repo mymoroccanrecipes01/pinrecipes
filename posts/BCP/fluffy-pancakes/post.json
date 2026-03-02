@@ -1,0 +1,151 @@
+{
+    "id": "text_recipe_1761233036_207",
+    "slug": "fluffy-pancakes",
+    "title": "Fluffy Pancakes",
+    "promptIMG": "Fluffy pancakes, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in these fluffy pancakes that are perfect for breakfast or brunch. With a golden exterior and soft, airy interior, they are sure to delight everyone at the table.",
+    "category_id": "cat_1761230422_512",
+    "author_id": "author_001",
+    "ingredients": [
+        "250 grams all-purpose flour",
+        "2 eggs",
+        "300 milliliters milk",
+        "50 grams melted butter",
+        "2 tablespoons sugar",
+        "1 packet baking powder"
+    ],
+    "instructions": [
+        "In a large bowl, mix the dry ingredients: flour, sugar, and baking powder.",
+        "In another bowl, whisk together the eggs, milk, and melted butter.",
+        "Pour the wet ingredients into the dry ingredients and mix until just combined.",
+        "Let the batter rest for 10 minutes.",
+        "Heat a skillet over medium heat and pour in a ladle of batter.",
+        "Cook for 2 minutes on each side until golden brown."
+    ],
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "servings": 8,
+    "difficulty": "easy",
+    "tips": "For the fluffiest pancakes, do not overmix the batter. Letting it rest allows the baking powder to activate, creating air bubbles.",
+    "structured_content": [
+        {
+            "content": "<p>These fluffy pancakes are a breakfast classic that everyone loves. They are light, airy, and perfect for drizzling with maple syrup or topping with fresh fruit. This recipe is simple enough for a weekday breakfast yet special enough for a weekend brunch.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weekend brunch or special occasions<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customizable with your favorite toppings<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Growing up, pancakes were a weekend tradition in my family. The smell of them cooking would fill the house, and we would gather around the table, excited to dig in. This recipe brings back those warm memories and is sure to create new ones.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> All-purpose flour works best for a light texture; sift it for extra fluffiness.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Baking powder is essential for the rise; ensure it's fresh for best results.<\/li><li><strong>Supporting ingredients:<\/strong> Eggs add richness, while milk provides moisture and a tender crumb.<\/li><li><strong>Equipment needed:<\/strong> A non-stick skillet or griddle is ideal for cooking pancakes evenly.<\/li><\/ul>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Mix dry ingredients in one bowl and wet in another. Combine gently and let rest.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Pour batter onto a heated skillet and cook until bubbles form, then flip.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Serve warm with butter and syrup or your favorite toppings.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Fluffy pancakes served on a plate, showcasing their golden color and soft texture, perfect for breakfast. Includes keywords like pancakes, breakfast, fluffy, and homemade.",
+                "url": "fluffy-pancakes\/images\/fluffy-pancakes_image_1.webp",
+                "fileName": "fluffy-pancakes_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>For perfect pancakes, ensure your skillet is hot before pouring the batter.<\/li><li>A common mistake is overmixing the batter, which can lead to dense pancakes.<\/li><li>Look for bubbles forming on the surface to know when to flip.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing these pancakes with family brings joy and laughter to the breakfast table. Whether it's a lazy Sunday or a special occasion, they always make the moment feel special.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Elevate your pancakes by adding vanilla extract to the batter or mixing in chocolate chips or blueberries for a fruity twist.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair these pancakes with crispy bacon, fresh fruit, or a dollop of yogurt for a balanced meal. A hot cup of coffee or tea complements them perfectly.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, substitute all-purpose flour with a gluten-free blend. You can also make them vegan by using flax eggs and plant-based milk.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Fluffy pancakes served on a plate, showcasing their golden color and soft texture, perfect for breakfast. Includes keywords like pancakes, breakfast, fluffy, and homemade.",
+                "url": "fluffy-pancakes\/images\/fluffy-pancakes_image_2.webp",
+                "fileName": "fluffy-pancakes_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a cookie scoop for perfectly sized pancakes.<\/li><li>Let the batter rest to enhance the fluffiness.<\/li><li>Keep pancakes warm in a low oven while cooking the rest.<\/li><li>Garnish with fresh fruit or whipped cream for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't be afraid to experiment with flavors and toppings. Making these pancakes is a joyful experience that will surely bring smiles to your loved ones!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "fluffy-pancakes_image_1.webp",
+            "filePath": "posts\/fluffy-pancakes\/images\/fluffy-pancakes_image_1.webp",
+            "relativePath": "fluffy-pancakes\/images\/fluffy-pancakes_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fluffy-pancakes_image_2.webp",
+            "filePath": "posts\/fluffy-pancakes\/images\/fluffy-pancakes_image_2.webp",
+            "relativePath": "fluffy-pancakes\/images\/fluffy-pancakes_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "fluffy-pancakes_image_3.webp",
+            "filePath": "posts\/fluffy-pancakes\/images\/fluffy-pancakes_image_3.webp",
+            "relativePath": "fluffy-pancakes\/images\/fluffy-pancakes_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "fluffy-pancakes_image_4.webp",
+            "filePath": "posts\/fluffy-pancakes\/images\/fluffy-pancakes_image_4.webp",
+            "relativePath": "fluffy-pancakes\/images\/fluffy-pancakes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/fluffy-pancakes\/images\/fluffy-pancakes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "fluffy-pancakes_image_1.webp",
+    "image_path": "posts\/fluffy-pancakes\/images\/fluffy-pancakes_image_1.webp",
+    "image_dir": "fluffy-pancakes\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-23T17:23:56+02:00",
+    "updatedAt": "2025-10-23T17:23:56+02:00"
+}

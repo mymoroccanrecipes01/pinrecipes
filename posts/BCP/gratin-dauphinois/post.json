@@ -1,0 +1,151 @@
+{
+    "id": "text_recipe_1761232849_887",
+    "slug": "gratin-dauphinois",
+    "title": "Gratin Dauphinois",
+    "promptIMG": "Gratin Dauphinois, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in the creamy, cheesy goodness of Gratin Dauphinois, a classic French dish that transforms simple potatoes into a luxurious side. With layers of tender potatoes enveloped in a rich cream sauce, this dish is perfect for any occasion.",
+    "category_id": "cat_1761230594_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 kg potatoes, finely sliced",
+        "500 ml heavy cream",
+        "200 ml milk",
+        "2 cloves garlic, minced",
+        "Nutmeg, to taste",
+        "Grated Gruyère cheese, for topping"
+    ],
+    "instructions": [
+        "Preheat your oven to 180°C (350°F).",
+        "Finely slice the potatoes and set aside.",
+        "Rub a baking dish with minced garlic to infuse flavor.",
+        "Layer the sliced potatoes in the dish, alternating with the cream and milk mixture.",
+        "Sprinkle nutmeg and top with grated Gruyère cheese.",
+        "Bake for 1 hour until golden and bubbly."
+    ],
+    "prep_time": 15,
+    "cook_time": 60,
+    "total_time": 75,
+    "servings": 4,
+    "difficulty": "medium",
+    "tips": "For the best results, use starchy potatoes like Yukon Gold for a creamy texture. Ensure even slicing for uniform cooking.",
+    "structured_content": [
+        {
+            "content": "<p>Gratin Dauphinois is a beloved French dish that elevates humble potatoes to a creamy, cheesy delight. The layers of tender potatoes meld beautifully with the rich cream, creating a comforting side that pairs perfectly with any main course.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 90 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or special occasions<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Can be prepared ahead of time and baked just before serving<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Growing up, my family would gather around the table for Sunday dinners, and Gratin Dauphinois was always a highlight. The aroma of baking potatoes and cheese filled the air, making it a dish that brings back warm memories of togetherness.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Potatoes are the star here; choose starchy varieties for the best texture.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Garlic adds depth, while nutmeg enhances the creaminess.<\/li><li><strong>Supporting ingredients:<\/strong> The combination of cream and milk creates a luxurious sauce.<\/li><li><strong>Equipment needed:<\/strong> A sharp knife for slicing, a baking dish, and an oven.<\/li><\/ul>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Preheat the oven and prepare your baking dish by rubbing it with garlic.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Layer the potatoes and cream mixture, ensuring even distribution, and bake until golden.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Let it rest for a few minutes before serving to allow the flavors to meld.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A delicious Gratin Dauphinois, showcasing layers of creamy potatoes and melted cheese, 'French potato gratin' and 'comfort food'.",
+                "url": "gratin-dauphinois\/images\/gratin-dauphinois_image_1.webp",
+                "fileName": "gratin-dauphinois_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Slice potatoes evenly for uniform cooking.<\/li><li>Avoid overcooking the gratin to prevent a watery texture.<\/li><li>Look for a golden crust as a cue that it's ready.<\/li><li>Store leftovers in the fridge and reheat gently in the oven.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this dish with friends and family is always a joy, as it brings everyone together around the table, creating a warm and inviting atmosphere.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding herbs like thyme or rosemary for an aromatic twist, or experiment with different cheeses like cheddar for a unique flavor profile.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair this gratin with roasted meats, a fresh salad, or a glass of white wine for a delightful meal.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free version, ensure all ingredients are certified gluten-free. You can also add vegetables like spinach or mushrooms for added nutrition.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A delicious Gratin Dauphinois, showcasing layers of creamy potatoes and melted cheese, 'French potato gratin' and 'comfort food'.",
+                "url": "gratin-dauphinois\/images\/gratin-dauphinois_image_2.webp",
+                "fileName": "gratin-dauphinois_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a mandoline for perfectly even potato slices.<\/li><li>Let the gratin sit before serving to enhance flavor.<\/li><li>Check for doneness by piercing with a fork; it should slide in easily.<\/li><li>Garnish with fresh herbs for a pop of color.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't be intimidated by this classic dish; with a little patience and love, you'll create a comforting Gratin Dauphinois that will impress everyone at your table.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "gratin-dauphinois_image_1.webp",
+            "filePath": "posts\/gratin-dauphinois\/images\/gratin-dauphinois_image_1.webp",
+            "relativePath": "gratin-dauphinois\/images\/gratin-dauphinois_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "gratin-dauphinois_image_2.webp",
+            "filePath": "posts\/gratin-dauphinois\/images\/gratin-dauphinois_image_2.webp",
+            "relativePath": "gratin-dauphinois\/images\/gratin-dauphinois_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "gratin-dauphinois_image_3.webp",
+            "filePath": "posts\/gratin-dauphinois\/images\/gratin-dauphinois_image_3.webp",
+            "relativePath": "gratin-dauphinois\/images\/gratin-dauphinois_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "gratin-dauphinois_image_4.webp",
+            "filePath": "posts\/gratin-dauphinois\/images\/gratin-dauphinois_image_4.webp",
+            "relativePath": "gratin-dauphinois\/images\/gratin-dauphinois_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/gratin-dauphinois\/images\/gratin-dauphinois_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "gratin-dauphinois_image_1.webp",
+    "image_path": "posts\/gratin-dauphinois\/images\/gratin-dauphinois_image_1.webp",
+    "image_dir": "gratin-dauphinois\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-23T17:20:49+02:00",
+    "updatedAt": "2025-10-23T17:20:49+02:00"
+}

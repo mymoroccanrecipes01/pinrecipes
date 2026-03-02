@@ -1,0 +1,161 @@
+{
+    "id": "text_recipe_1762204735_719",
+    "slug": "bang-bang-shrimp",
+    "title": "Bang Bang Shrimp",
+    "promptIMG": "Bang Bang Shrimp, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in the irresistible flavors of Bang Bang Shrimp, a delightful appetizer that combines crispy fried shrimp with a homemade sweet and spicy sauce. Perfect for impressing guests or enjoying a cozy night in, this dish is sure to become a favorite.",
+    "category_id": "cat_1761230072_178",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound shrimp peeled and deveined",
+        "2 tablespoons olive oil",
+        "1\/2 cup mayonnaise",
+        "1\/4 cup sweet chili sauce",
+        "1 tablespoon sriracha",
+        "1\/4 cup cornstarch",
+        "Salt and pepper to taste",
+        "Green onions for garnish"
+    ],
+    "instructions": [
+        "In a bowl, mix mayonnaise, sweet chili sauce, and sriracha to create the sauce.",
+        "Season shrimp with salt and pepper, then coat with cornstarch.",
+        "Heat olive oil in a large skillet over medium heat.",
+        "Add shrimp and cook for 2-3 minutes per side until golden and crispy.",
+        "Toss the cooked shrimp in the sauce until well coated.",
+        "Serve immediately, garnished with chopped green onions."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "medium",
+    "tips": "For extra crunch, double fry the shrimp for a few seconds after the initial cooking. Make sure the oil is hot enough before adding the shrimp to avoid sogginess.",
+    "structured_content": [
+        {
+            "content": "<p>This Bang Bang Shrimp recipe brings the flavors of a popular restaurant dish right into your kitchen. The crispy shrimp, combined with a sweet and spicy sauce, creates a delightful explosion of taste that will leave you craving more.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for entertaining or a fun weeknight dinner<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for customizing to your spice preference<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I tried Bang Bang Shrimp at a local restaurant; the flavors were so vibrant and unforgettable. Now, I can recreate that experience at home, and it always impresses my friends and family.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh shrimp work best for this recipe; ensure they are peeled and deveined for easy cooking.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> The combination of sweet chili sauce and sriracha gives the dish its signature kick.<\/li><li><strong>Supporting ingredients:<\/strong> Mayonnaise adds creaminess and balances the heat from the sriracha.<\/li><li><strong>Equipment needed:<\/strong> A large skillet or frying pan is essential for frying the shrimp evenly.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "Ingredients preparation for Bang Bang Shrimp, showcasing fresh shrimp and sauces.",
+                "url": "bang-bang-shrimp\/images\/bang-bang-shrimp_image_1.webp",
+                "fileName": "bang-bang-shrimp_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by mixing the sauce ingredients in a bowl. Season the shrimp with salt and pepper, then coat them in cornstarch for a crispy texture.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Heat the oil until shimmering, then fry the shrimp until golden brown, about 2-3 minutes per side. Toss them in the sauce right after cooking.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with chopped green onions for a pop of color and flavor before serving.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Cooking process of Bang Bang Shrimp, capturing the frying action and sauce mixing.",
+                "url": "bang-bang-shrimp\/images\/bang-bang-shrimp_image_2.webp",
+                "fileName": "bang-bang-shrimp_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Ensure the oil is hot enough before adding shrimp to achieve that perfect crisp.<\/li><li>Avoid overcrowding the pan, as this can lower the oil temperature and result in soggy shrimp.<\/li><li>Look for a golden brown color on the shrimp to know they are done.<\/li><li>Store leftovers in an airtight container in the fridge and reheat in the oven for best results.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this Bang Bang Shrimp with friends during game nights has become a cherished tradition. The laughter and enjoyment around the table make it even more special.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>For an extra kick, consider adding more sriracha to the sauce or incorporating fresh herbs like cilantro for a burst of freshness. You can also experiment with different dipping sauces.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair this dish with a refreshing salad or serve it alongside rice for a complete meal. A cold beverage like iced tea or a light beer complements the flavors beautifully.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free version, use gluten-free cornstarch and sauces. You can also try substituting shrimp with chicken or tofu for different dietary needs.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Final plated Bang Bang Shrimp dish, beautifully garnished and ready to serve.",
+                "url": "bang-bang-shrimp\/images\/bang-bang-shrimp_image_3.webp",
+                "fileName": "bang-bang-shrimp_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Double frying the shrimp gives them an extra crunch.<\/li><li>Marinate the shrimp in the sauce for a few minutes before frying for deeper flavor.<\/li><li>Timing is key; don’t overcook the shrimp to keep them tender.<\/li><li>Serve on a stylish platter for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>With this Bang Bang Shrimp recipe, you'll impress everyone at your next gathering. Enjoy the process and the joy of creating something delicious!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "bang-bang-shrimp_image_1.webp",
+            "filePath": "posts\/bang-bang-shrimp\/images\/bang-bang-shrimp_image_1.webp",
+            "relativePath": "bang-bang-shrimp\/images\/bang-bang-shrimp_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "bang-bang-shrimp_image_2.webp",
+            "filePath": "posts\/bang-bang-shrimp\/images\/bang-bang-shrimp_image_2.webp",
+            "relativePath": "bang-bang-shrimp\/images\/bang-bang-shrimp_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "bang-bang-shrimp_image_3.webp",
+            "filePath": "posts\/bang-bang-shrimp\/images\/bang-bang-shrimp_image_3.webp",
+            "relativePath": "bang-bang-shrimp\/images\/bang-bang-shrimp_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "bang-bang-shrimp_image_4.webp",
+            "filePath": "posts\/bang-bang-shrimp\/images\/bang-bang-shrimp_image_4.webp",
+            "relativePath": "bang-bang-shrimp\/images\/bang-bang-shrimp_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/bang-bang-shrimp\/images\/bang-bang-shrimp_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "bang-bang-shrimp_image_1.webp",
+    "image_path": "posts\/bang-bang-shrimp\/images\/bang-bang-shrimp_image_1.webp",
+    "image_dir": "bang-bang-shrimp\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-03T22:18:55+01:00",
+    "updatedAt": "2025-11-03T22:18:55+01:00"
+}

@@ -1,0 +1,161 @@
+{
+    "id": "text_recipe_1761265500_316",
+    "slug": "hamburger-stew",
+    "title": "Hamburger Stew",
+    "promptIMG": "Hamburger stew, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This Hamburger Stew is a comforting and hearty dish that combines the rich flavors of ground beef with vegetables in a savory broth. Perfect for a cozy dinner, it's both easy to make and satisfying to eat.",
+    "category_id": "cat_1761230383_494",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound ground beef",
+        "2 tablespoons olive oil",
+        "1 onion, chopped",
+        "2 carrots, diced",
+        "2 potatoes, cubed",
+        "4 cups beef broth",
+        "1 teaspoon garlic powder",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "Heat olive oil in a large pot over medium heat.",
+        "Add chopped onion and sauté until translucent.",
+        "Stir in ground beef and cook until browned.",
+        "Add carrots, potatoes, garlic powder, salt, and pepper.",
+        "Pour in beef broth and bring to a boil.",
+        "Reduce heat and let simmer for 20 minutes, or until vegetables are tender."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For a richer flavor, consider adding a splash of Worcestershire sauce or a bay leaf during cooking.",
+    "structured_content": [
+        {
+            "content": "<p>This Hamburger Stew is a delightful twist on traditional beef stew, offering a rich and savory flavor profile that warms the soul. It's an easy recipe that brings together simple ingredients for a comforting meal.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Rich, hearty flavors that satisfy<\/li><li>Perfect for weeknight dinners and family gatherings<\/li><li>Uses affordable ingredients you likely have on hand<\/li><li>Great for meal prep and leftovers<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this Hamburger Stew for my family; the aroma filled the kitchen and everyone gathered around the table, eager to dig in. It's become a staple in our home for its simplicity and deliciousness.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Ground beef works best for its flavor and texture; choose lean ground beef for a healthier option.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Garlic powder adds depth; feel free to use fresh garlic for a stronger flavor.<\/li><li><strong>Supporting ingredients:<\/strong> Carrots and potatoes add heartiness and nutrition, making the stew filling.<\/li><li><strong>Equipment needed:<\/strong> A large pot or Dutch oven is essential for even cooking.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of fresh ingredients for Hamburger Stew, showcasing ground beef, vegetables, and spices.",
+                "url": "hamburger-stew\/images\/hamburger-stew_image_1.webp",
+                "fileName": "hamburger-stew_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by chopping the vegetables and measuring out your ingredients for a smooth cooking process.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Follow the steps to sauté the onions, brown the beef, and simmer the stew until the vegetables are tender.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Adjust seasoning to taste, and serve hot with crusty bread or over rice for a complete meal.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Capturing the cooking process of Hamburger Stew, highlighting the browning beef and simmering vegetables.",
+                "url": "hamburger-stew\/images\/hamburger-stew_image_2.webp",
+                "fileName": "hamburger-stew_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook the beef until fully browned to enhance the flavor.<\/li><li>Avoid overcooking the vegetables to maintain their texture.<\/li><li>When the potatoes are fork-tender, the stew is ready.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This Hamburger Stew has become a family favorite, often shared during cozy nights in. It's a dish that brings everyone together, creating warm memories around the dinner table.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding herbs like thyme or rosemary for an aromatic twist. A dash of hot sauce can also elevate the flavor profile for those who enjoy a bit of heat.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve this stew with a side of crusty bread or a fresh garden salad for a balanced meal. Pair it with a glass of red wine for a comforting evening.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, ensure your broth is gluten-free. You can also substitute ground turkey or chicken for a lighter version.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated Hamburger Stew, showcasing its rich colors and hearty ingredients.",
+                "url": "hamburger-stew\/images\/hamburger-stew_image_3.webp",
+                "fileName": "hamburger-stew_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Brown the beef in batches to avoid steaming.<\/li><li>Let the stew sit for a few minutes before serving to allow flavors to meld.<\/li><li>Use a potato masher to slightly mash the potatoes for a thicker stew.<\/li><li>Garnish with fresh parsley for a pop of color.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this Hamburger Stew; it's a dish that promises satisfaction and joy in every bite. Enjoy the process of cooking and the warmth it brings to your home!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "hamburger-stew_image_1.webp",
+            "filePath": "posts\/hamburger-stew\/images\/hamburger-stew_image_1.webp",
+            "relativePath": "hamburger-stew\/images\/hamburger-stew_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "hamburger-stew_image_2.webp",
+            "filePath": "posts\/hamburger-stew\/images\/hamburger-stew_image_2.webp",
+            "relativePath": "hamburger-stew\/images\/hamburger-stew_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "hamburger-stew_image_3.webp",
+            "filePath": "posts\/hamburger-stew\/images\/hamburger-stew_image_3.webp",
+            "relativePath": "hamburger-stew\/images\/hamburger-stew_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "hamburger-stew_image_4.webp",
+            "filePath": "posts\/hamburger-stew\/images\/hamburger-stew_image_4.webp",
+            "relativePath": "hamburger-stew\/images\/hamburger-stew_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/hamburger-stew\/images\/hamburger-stew_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "hamburger-stew_image_1.webp",
+    "image_path": "posts\/hamburger-stew\/images\/hamburger-stew_image_1.webp",
+    "image_dir": "hamburger-stew\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-24T02:25:00+02:00",
+    "updatedAt": "2025-10-24T02:25:00+02:00"
+}

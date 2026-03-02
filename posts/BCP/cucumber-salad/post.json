@@ -1,0 +1,157 @@
+{
+    "id": "text_recipe_1762110341_370",
+    "slug": "cucumber-salad",
+    "title": "Cucumber Salad",
+    "promptIMG": "Cucumber salad, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This refreshing cucumber salad is the perfect side dish for any meal, bursting with flavor and crunch. It's quick to prepare, making it an ideal choice for busy weeknights or summer gatherings.",
+    "category_id": "cat_1761230749_334",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 large cucumbers, thinly sliced",
+        "1\/2 red onion, thinly sliced",
+        "1\/4 cup fresh dill, chopped",
+        "1\/4 cup white vinegar",
+        "2 tablespoons olive oil",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "In a large bowl, combine the sliced cucumbers, red onion, and dill.",
+        "In a separate small bowl, whisk together the white vinegar, olive oil, salt, and pepper.",
+        "Pour the dressing over the cucumber mixture and toss to coat evenly.",
+        "Let the salad sit for at least 10 minutes before serving to allow the flavors to meld."
+    ],
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For the best flavor, let the salad chill in the refrigerator for an hour before serving. This allows the cucumbers to absorb the dressing.",
+    "structured_content": [
+        {
+            "content": "<p>This cucumber salad is a delightful and refreshing dish that brings a burst of flavor to your table. With its crisp cucumbers and tangy dressing, it's a perfect accompaniment to any meal, especially during warm weather.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 15 minutes<\/li><li>Perfectly balanced flavors that are refreshing<\/li><li>Great for summer barbecues and picnics<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Can be made ahead of time for convenience<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this cucumber salad for a family gathering. Everyone loved it, and it quickly became a staple at our summer barbecues!<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Cucumbers are the star of this salad; choose firm, fresh cucumbers for the best crunch.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Fresh dill adds a fragrant note, while the vinegar provides a tangy kick.<\/li><li><strong>Supporting ingredients:<\/strong> Red onion adds a mild sweetness and color contrast.<\/li><li><strong>Equipment needed:<\/strong> A sharp knife for slicing and a large mixing bowl for tossing.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of fresh cucumbers and onions ready for salad preparation.",
+                "url": "cucumber-salad\/images\/cucumber-salad_image_1.webp",
+                "fileName": "cucumber-salad_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by washing the cucumbers and slicing them thinly. Thin slices allow the dressing to penetrate better.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>This salad is served cold, so there’s no cooking involved. Just mix the ingredients as directed.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with additional dill or a sprinkle of sesame seeds for added texture.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A step-by-step visual of mixing the salad ingredients together.",
+                "url": "cucumber-salad\/images\/cucumber-salad_image_2.webp",
+                "fileName": "cucumber-salad_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Use a mandoline slicer for perfectly even cucumber slices.<\/li><li>A common mistake is not letting the salad sit long enough for the flavors to develop.<\/li><li>Look for cucumbers that are firm and have a vibrant color.<\/li><li>This salad can be stored in the refrigerator for up to 2 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This salad is a family favorite, and I love serving it at gatherings. It always brings smiles and compliments!<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Add a pinch of red pepper flakes for a spicy kick or some feta cheese for a creamy contrast.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This cucumber salad pairs beautifully with grilled meats, sandwiches, or as part of a picnic spread.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegan twist, add avocado or substitute the vinegar with lemon juice for a different flavor profile.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated cucumber salad ready to be served.",
+                "url": "cucumber-salad\/images\/cucumber-salad_image_3.webp",
+                "fileName": "cucumber-salad_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Chill the salad before serving for a refreshing taste.<\/li><li>Use a variety of cucumbers for added color and flavor.<\/li><li>Mix the salad just before serving to keep the cucumbers crisp.<\/li><li>Serve in a clear bowl to showcase the vibrant colors.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Enjoy making this cucumber salad and share it with your loved ones. It's a simple dish that brings joy and freshness to any meal!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "cucumber-salad_image_1.webp",
+            "filePath": "posts\/cucumber-salad\/images\/cucumber-salad_image_1.webp",
+            "relativePath": "cucumber-salad\/images\/cucumber-salad_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cucumber-salad_image_2.webp",
+            "filePath": "posts\/cucumber-salad\/images\/cucumber-salad_image_2.webp",
+            "relativePath": "cucumber-salad\/images\/cucumber-salad_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "cucumber-salad_image_3.webp",
+            "filePath": "posts\/cucumber-salad\/images\/cucumber-salad_image_3.webp",
+            "relativePath": "cucumber-salad\/images\/cucumber-salad_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "cucumber-salad_image_4.webp",
+            "filePath": "posts\/cucumber-salad\/images\/cucumber-salad_image_4.webp",
+            "relativePath": "cucumber-salad\/images\/cucumber-salad_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/cucumber-salad\/images\/cucumber-salad_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "cucumber-salad_image_1.webp",
+    "image_path": "posts\/cucumber-salad\/images\/cucumber-salad_image_1.webp",
+    "image_dir": "cucumber-salad\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T20:05:41+01:00",
+    "updatedAt": "2025-11-02T20:05:41+01:00"
+}

@@ -1,0 +1,102 @@
+{
+    "id": "recipe_1768394095_499",
+    "slug": "the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays",
+    "title": "The Ultimate Homemade Chai Tea Latte to Cozy Up Your Holidays",
+    "promptIMG": "Food photography: chai tea latte, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": false,
+    "description": "Warm up with this creamy homemade chai tea latte! It's perfect for the holidays, featuring a blend of spices that brings comfort to every sip. Enjoy this delightful drink with friends or family!",
+    "category_id": "cat_1761230221_583",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 cups water",
+        "2 tablespoons loose black tea or 2 black tea bags",
+        "1 cinnamon stick",
+        "2-3 cardamom pods, crushed",
+        "1-2 cloves",
+        "1-2 slices of fresh ginger",
+        "2 tablespoons honey or maple syrup (adjust to taste)",
+        "1 cup milk (dairy or non-dairy)",
+        "1/2 teaspoon vanilla extract"
+    ],
+    "instructions": [
+        "In a small saucepan, bring 2 cups of water to a boil.",
+        "Add the black tea, cinnamon stick, cardamom pods, cloves, and ginger. Let it simmer for about 10 minutes.",
+        "Strain the mixture into a separate pot to remove the spices.",
+        "Stir in the honey or maple syrup and heat gently.",
+        "In another saucepan, heat the milk until steaming, then whisk until frothy.",
+        "Combine the spiced tea with the frothed milk, and add vanilla extract.",
+        "Serve hot, and enjoy your homemade chai tea latte!"
+    ],
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "servings": 2,
+    "difficulty": "Easy",
+    "tips": "For a creamier texture, use whole milk or oat milk. If you want to make it spicier, feel free to add more ginger or a dash of black pepper. This chai latte is best enjoyed fresh, but you can store leftovers in the fridge for up to two days. Just reheat gently before serving!",
+    "structured_content": [
+        {
+            "content": "<p>There's something about a warm chai tea latte that just wraps you in comfort, especially during the chilly months. This homemade version is not only rich and creamy but also allows you to customize the spice levels to your liking. I love making this drink for cozy gatherings or even just for a quiet evening at home with a good book.</p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>The beauty of this chai tea latte lies in its simplicity. You'll need some basic spices like cinnamon, cardamom, and ginger, which create that warm, inviting flavor. If you don't have loose black tea, regular tea bags work just fine! And for sweetness, honey or maple syrup are great options, depending on your preference.</p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Making this chai latte is straightforward and quick. You'll start by boiling water and infusing it with the spices and tea, letting those flavors meld together beautifully. After straining, you mix in your sweetener and heat up the milk until it's nice and frothy. It's a delightful process that fills your kitchen with amazing aromas!</p>"
+        },
+        {
+            "upload": {
+                "context": "Chai tea latte in a cozy kitchen setting",
+                "url": "the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays/images/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_image_1.webp",
+                "fileName": "the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>This chai tea latte is perfect for holiday gatherings or a relaxing evening in. You can also experiment with different milk options or even add a splash of pumpkin spice for a seasonal twist. Serve it with some cookies or a slice of cake for a delightful treat!</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_image_1.webp",
+            "filePath": "posts/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays/images/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_image_1.webp",
+            "relativePath": "the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays/images/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/Lummyrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_image_2.webp",
+            "filePath": "posts/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays/images/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_image_2.webp",
+            "relativePath": "the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays/images/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/Lummyrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_image_3.webp",
+            "filePath": "posts/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays/images/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_image_3.webp",
+            "relativePath": "the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays/images/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/Lummyrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_Lummyrecipes_image_4.webp",
+            "filePath": "posts/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays/images/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_Lummyrecipes_image_4.webp",
+            "relativePath": "the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays/images/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_Lummyrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Lummyrecipes/posts/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays/images/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_Lummyrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_image_1.webp",
+    "image_path": "posts/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays/images/the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays_image_1.webp",
+    "image_dir": "the-ultimate-homemade-chai-tea-latte-to-cozy-up-your-holidays/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-01-14T13:34:55+01:00",
+    "updatedAt": "2026-01-14T13:34:55+01:00"
+}

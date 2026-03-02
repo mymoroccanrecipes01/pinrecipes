@@ -1,0 +1,161 @@
+{
+    "id": "text_recipe_1761757936_127",
+    "slug": "easy-white-chicken-chili",
+    "title": "Easy White Chicken Chili",
+    "promptIMG": "A descriptive prompt for generating an appetizing image of the finished dish, base in the prompt : \"Easy White Chicken Chili, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300\"",
+    "isOnline": false,
+    "description": "This easy white chicken chili is a warm and comforting dish that comes together in just 40 minutes. Loaded with tender chicken and creamy white beans, it's perfect for cozy dinners and weeknight meals.",
+    "category_id": "cat_1761230594_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound chicken breast, cooked and shredded",
+        "2 cans white beans, drained and rinsed",
+        "1 cup corn, frozen or canned",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "2 cups chicken broth",
+        "1 teaspoon cumin",
+        "1 teaspoon chili powder",
+        "Salt and pepper to taste",
+        "1 cup heavy cream"
+    ],
+    "instructions": [
+        "In a large pot, sauté onion and garlic until translucent.",
+        "Add shredded chicken, white beans, corn, chicken broth, cumin, chili powder, salt, and pepper.",
+        "Bring to a simmer and cook for about 20 minutes.",
+        "Stir in heavy cream and heat through before serving."
+    ],
+    "prep_time": 15,
+    "cook_time": 25,
+    "total_time": 40,
+    "servings": 6,
+    "difficulty": "easy",
+    "tips": "For a spicier kick, add diced jalapeños or a dash of hot sauce to the chili.",
+    "structured_content": [
+        {
+            "content": "<p>This easy white chicken chili is the perfect dish for those chilly evenings when you want something warm and satisfying. With its creamy texture and a hint of spice, it’s a meal that will bring comfort to your table.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 40 minutes<\/li><li>Hearty and filling, perfect for weeknight dinners<\/li><li>Great for serving a crowd or meal prepping<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Gluten-free and customizable for dietary needs<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this chili for my family; it was a chilly night, and everyone gathered around the table, enjoying the warmth and flavors. It quickly became a family favorite!<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Chicken breast works best for its tenderness and flavor when shredded<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Cumin and chili powder add warmth and depth<\/li><li><strong>Supporting ingredients:<\/strong> White beans and corn contribute to the creamy texture and sweetness<\/li><li><strong>Equipment needed:<\/strong> A large pot for cooking and a wooden spoon for stirring<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation, including keywords for SEO 15 words.",
+                "url": "easy-white-chicken-chili\/images\/easy-white-chicken-chili_image_1.webp",
+                "fileName": "easy-white-chicken-chili_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by cooking and shredding the chicken, then dice the onion and mince the garlic.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>In a large pot, sauté onion and garlic until translucent, then add the remaining ingredients and simmer.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Stir in heavy cream just before serving for a rich finish.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the cooking process, including keywords for SEO 15 words.",
+                "url": "easy-white-chicken-chili\/images\/easy-white-chicken-chili_image_2.webp",
+                "fileName": "easy-white-chicken-chili_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook the chili on low heat to prevent the cream from curdling<\/li><li>Avoid overcooking the chicken to keep it tender<\/li><li>Look for a creamy consistency and a fragrant aroma to know it's ready<\/li><li>This chili stores well in the fridge and can be reheated easily<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This chili is perfect for sharing with friends and family, bringing everyone together for a cozy meal. It’s a dish that warms the heart as much as it warms the belly.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Add fresh cilantro or lime juice for a zesty twist, or top with avocado for creaminess.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve with tortilla chips, cornbread, or a fresh salad for a complete meal.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegetarian version, substitute chicken with mushrooms or tofu and use vegetable broth.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation, including keywords for SEO 15 words.",
+                "url": "easy-white-chicken-chili\/images\/easy-white-chicken-chili_image_3.webp",
+                "fileName": "easy-white-chicken-chili_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use rotisserie chicken for even quicker prep<\/li><li>Let the chili sit for a few minutes for flavors to meld<\/li><li>Serve with toppings for a fun, customizable meal<\/li><li>Garnish with sour cream and cheese for extra richness<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don’t hesitate to try this easy white chicken chili; it’s a dish that guarantees satisfaction and joy in every bite!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "easy-white-chicken-chili_image_1.webp",
+            "filePath": "posts\/easy-white-chicken-chili\/images\/easy-white-chicken-chili_image_1.webp",
+            "relativePath": "easy-white-chicken-chili\/images\/easy-white-chicken-chili_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-white-chicken-chili_image_2.webp",
+            "filePath": "posts\/easy-white-chicken-chili\/images\/easy-white-chicken-chili_image_2.webp",
+            "relativePath": "easy-white-chicken-chili\/images\/easy-white-chicken-chili_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "easy-white-chicken-chili_image_3.webp",
+            "filePath": "posts\/easy-white-chicken-chili\/images\/easy-white-chicken-chili_image_3.webp",
+            "relativePath": "easy-white-chicken-chili\/images\/easy-white-chicken-chili_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "easy-white-chicken-chili_image_4.webp",
+            "filePath": "posts\/easy-white-chicken-chili\/images\/easy-white-chicken-chili_image_4.webp",
+            "relativePath": "easy-white-chicken-chili\/images\/easy-white-chicken-chili_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/easy-white-chicken-chili\/images\/easy-white-chicken-chili_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "easy-white-chicken-chili_image_1.webp",
+    "image_path": "posts\/easy-white-chicken-chili\/images\/easy-white-chicken-chili_image_1.webp",
+    "image_dir": "easy-white-chicken-chili\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-29T18:12:16+01:00",
+    "updatedAt": "2025-10-29T18:12:16+01:00"
+}

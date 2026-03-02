@@ -1,0 +1,161 @@
+{
+    "id": "text_recipe_1761235247_186",
+    "slug": "classic-fried-chicken",
+    "title": "Classic Fried Chicken",
+    "promptIMG": "Classic Fried Chicken, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This Classic Fried Chicken is a crispy, golden delight that brings comfort and joy to any meal. Perfectly seasoned and fried to perfection, it's a dish that will have everyone coming back for seconds.",
+    "category_id": "cat_1761229889_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "8 chicken pieces (drumsticks, thighs, breasts)",
+        "2 cups buttermilk",
+        "2 cups all-purpose flour",
+        "2 tsp paprika",
+        "2 tsp garlic powder",
+        "2 tsp salt",
+        "2 tsp black pepper",
+        "Vegetable oil for frying"
+    ],
+    "instructions": [
+        "Marinate chicken in buttermilk for at least 2 hours.",
+        "In a bowl, mix flour with paprika, garlic powder, salt, and black pepper.",
+        "Remove chicken from buttermilk and dredge in the seasoned flour until well coated.",
+        "Heat vegetable oil in a deep fryer or large skillet to 350°F (175°C).",
+        "Deep fry chicken pieces for 12-15 minutes until golden brown and cooked through.",
+        "Drain on paper towels and serve hot."
+    ],
+    "prep_time": 120,
+    "cook_time": 15,
+    "total_time": 135,
+    "servings": 4,
+    "difficulty": "medium",
+    "tips": "For perfectly crispy chicken, ensure the oil is hot enough before frying and do not overcrowd the pan.",
+    "structured_content": [
+        {
+            "content": "<p>This Classic Fried Chicken recipe is a timeless favorite that evokes memories of family gatherings and Sunday dinners. The combination of juicy chicken and a crispy, flavorful coating makes it irresistible!<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 2 hours<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for feeding a crowd!<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this fried chicken for my family; the smiles on their faces as they took the first bite were priceless. It's a dish that brings everyone together.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Chicken pieces work best for frying due to their varying sizes and tenderness.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Paprika and garlic powder add depth and flavor.<\/li><li><strong>Supporting ingredients:<\/strong> Buttermilk tenderizes the chicken and adds moisture.<\/li><li><strong>Equipment needed:<\/strong> Deep fryer or heavy skillet, thermometer for oil temperature.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "Preparation of chicken pieces for frying, including marinating in buttermilk and coating with seasoned flour",
+                "url": "classic-fried-chicken\/images\/classic-fried-chicken_image_1.webp",
+                "fileName": "classic-fried-chicken_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by marinating the chicken in buttermilk for at least 2 hours to ensure tenderness.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Heat oil to the right temperature and fry the chicken in batches for even cooking.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Drain on paper towels and serve with your favorite sides.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Cooking process of frying chicken pieces until golden brown",
+                "url": "classic-fried-chicken\/images\/classic-fried-chicken_image_2.webp",
+                "fileName": "classic-fried-chicken_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Ensure the oil is at the correct temperature for crispy results.<\/li><li>Avoid overcrowding the pan to maintain oil temperature.<\/li><li>Chicken is ready when it reaches an internal temperature of 165°F (75°C).<\/li><li>Store leftovers in an airtight container in the fridge and reheat in the oven for best results.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This fried chicken is a staple at family gatherings, and sharing it with loved ones makes it even more special. It's a dish that creates lasting memories.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>For an extra kick, try adding cayenne pepper to the flour mixture or marinating the chicken with herbs like thyme or rosemary.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve with coleslaw, mashed potatoes, or cornbread for a complete meal. Pair with iced tea or lemonade for a refreshing touch.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, substitute all-purpose flour with a gluten-free flour blend. You can also try using different proteins like tofu for a vegetarian twist.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Final plated dish of classic fried chicken, showcasing its crispy texture",
+                "url": "classic-fried-chicken\/images\/classic-fried-chicken_image_3.webp",
+                "fileName": "classic-fried-chicken_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a thermometer to check oil temperature for perfect frying.<\/li><li>Let the chicken rest after frying for maximum juiciness.<\/li><li>Fry in small batches to ensure even cooking.<\/li><li>Garnish with fresh herbs for an appealing presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't be afraid to try making this classic dish! With a little practice, you'll be serving up fried chicken that rivals your favorite restaurant.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "classic-fried-chicken_image_1.webp",
+            "filePath": "posts\/classic-fried-chicken\/images\/classic-fried-chicken_image_1.webp",
+            "relativePath": "classic-fried-chicken\/images\/classic-fried-chicken_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-fried-chicken_image_2.webp",
+            "filePath": "posts\/classic-fried-chicken\/images\/classic-fried-chicken_image_2.webp",
+            "relativePath": "classic-fried-chicken\/images\/classic-fried-chicken_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "classic-fried-chicken_image_3.webp",
+            "filePath": "posts\/classic-fried-chicken\/images\/classic-fried-chicken_image_3.webp",
+            "relativePath": "classic-fried-chicken\/images\/classic-fried-chicken_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "classic-fried-chicken_image_4.webp",
+            "filePath": "posts\/classic-fried-chicken\/images\/classic-fried-chicken_image_4.webp",
+            "relativePath": "classic-fried-chicken\/images\/classic-fried-chicken_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/classic-fried-chicken\/images\/classic-fried-chicken_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "classic-fried-chicken_image_1.webp",
+    "image_path": "posts\/classic-fried-chicken\/images\/classic-fried-chicken_image_1.webp",
+    "image_dir": "classic-fried-chicken\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-23T18:00:47+02:00",
+    "updatedAt": "2025-10-23T18:00:47+02:00"
+}

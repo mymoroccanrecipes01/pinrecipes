@@ -1,0 +1,159 @@
+{
+    "id": "text_recipe_1761680498_831",
+    "slug": "tofu-stir-fry",
+    "title": "Tofu Stir-Fry",
+    "promptIMG": "Tofu Stir-Fry, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Experience the vibrant flavors of this Tofu Stir-Fry, packed with crunchy vegetables and a sweet and tangy sauce. It's a quick and healthy meal that brings excitement to your dinner table!",
+    "category_id": "cat_1761230636_499",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 block firm tofu, pressed and cubed",
+        "2 tablespoons vegetable oil",
+        "2 cups mixed vegetables (bell peppers, broccoli, carrots)",
+        "3 tablespoons soy sauce",
+        "1 tablespoon sweet chili sauce",
+        "1 teaspoon garlic, minced",
+        "1 teaspoon ginger, minced"
+    ],
+    "instructions": [
+        "Heat vegetable oil in a large skillet over medium-high heat.",
+        "Add cubed tofu and cook until golden brown, about 5-7 minutes.",
+        "Stir in mixed vegetables and cook for another 5 minutes until tender-crisp.",
+        "Add garlic and ginger, sauté for 1 minute until fragrant.",
+        "Pour in soy sauce and sweet chili sauce, stir well to combine and heat through."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For the best texture, ensure your tofu is well-pressed to remove excess moisture before cooking.",
+    "structured_content": [
+        {
+            "content": "<p>This Tofu Stir-Fry is a delightful medley of textures and flavors, featuring crispy tofu and vibrant vegetables. It's not just a meal; it's a celebration of healthy eating that will leave you feeling satisfied and energized!<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or meal prep<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customizable with your favorite vegetables<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this dish; it was a busy weeknight, and I needed something quick yet satisfying. The aroma filled my kitchen, and my family couldn't wait to dig in!<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Firm tofu works best for stir-frying as it holds its shape and absorbs flavors well.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Soy sauce adds umami, while sweet chili sauce brings a delightful sweetness.<\/li><li><strong>Supporting ingredients:<\/strong> Mixed vegetables add color and crunch, making the dish visually appealing and nutritious.<\/li><li><strong>Equipment needed:<\/strong> A large skillet or wok is essential for even cooking and stir-frying.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A colorful array of fresh vegetables and tofu prepared for stir-frying, showcasing vibrant colors and textures.",
+                "url": "tofu-stir-fry\/images\/tofu-stir-fry_image_1.webp",
+                "fileName": "tofu-stir-fry_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Press the tofu to remove excess moisture for better texture. Chop vegetables into bite-sized pieces.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Cook tofu until golden, then add vegetables and stir-fry until tender-crisp. Finish with sauce for flavor.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Serve hot, garnished with sesame seeds or green onions for added flavor and presentation.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "The cooking process of tofu and vegetables sizzling in a skillet, highlighting the vibrant colors and textures.",
+                "url": "tofu-stir-fry\/images\/tofu-stir-fry_image_2.webp",
+                "fileName": "tofu-stir-fry_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Ensure your skillet is hot before adding tofu for a perfect sear.<\/li><li>Avoid overcrowding the pan to ensure even cooking.<\/li><li>Look for a golden-brown color on the tofu as an indicator of readiness.<\/li><li>This dish can be stored in the fridge for up to 3 days and reheated easily.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This dish has become a family favorite, often requested during our busy weeks. It's a reminder that healthy meals can be both quick and delicious!<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Enhance your stir-fry with fresh herbs like cilantro or basil, or add a splash of lime juice for brightness. Experiment with different sauces for varied flavors!<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve this stir-fry over steamed rice or quinoa for a complete meal. Pair it with a light salad or spring rolls for a refreshing side.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, use tamari instead of soy sauce. You can also swap tofu for tempeh or seitan for a different protein source.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "The final plated Tofu Stir-Fry, vibrant and colorful, garnished with sesame seeds and served with rice.",
+                "url": "tofu-stir-fry\/images\/tofu-stir-fry_image_3.webp",
+                "fileName": "tofu-stir-fry_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For extra crispy tofu, try freezing and thawing it before cooking.<\/li><li>Marinate the tofu for 30 minutes for deeper flavor.<\/li><li>Stir-fry in batches if necessary to maintain high heat.<\/li><li>Use a colorful mix of vegetables for an appealing presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe! It's simple, rewarding, and a great way to enjoy healthy eating with your loved ones.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "tofu-stir-fry_image_1.webp",
+            "filePath": "posts\/tofu-stir-fry\/images\/tofu-stir-fry_image_1.webp",
+            "relativePath": "tofu-stir-fry\/images\/tofu-stir-fry_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "tofu-stir-fry_image_2.webp",
+            "filePath": "posts\/tofu-stir-fry\/images\/tofu-stir-fry_image_2.webp",
+            "relativePath": "tofu-stir-fry\/images\/tofu-stir-fry_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "tofu-stir-fry_image_3.webp",
+            "filePath": "posts\/tofu-stir-fry\/images\/tofu-stir-fry_image_3.webp",
+            "relativePath": "tofu-stir-fry\/images\/tofu-stir-fry_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "tofu-stir-fry_image_4.webp",
+            "filePath": "posts\/tofu-stir-fry\/images\/tofu-stir-fry_image_4.webp",
+            "relativePath": "tofu-stir-fry\/images\/tofu-stir-fry_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/Lummyrecipes-main\/posts\/tofu-stir-fry\/images\/tofu-stir-fry_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "tofu-stir-fry_image_1.webp",
+    "image_path": "posts\/tofu-stir-fry\/images\/tofu-stir-fry_image_1.webp",
+    "image_dir": "tofu-stir-fry\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-28T20:41:38+01:00",
+    "updatedAt": "2025-10-28T20:41:38+01:00"
+}
