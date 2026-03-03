@@ -41,10 +41,11 @@
             {
                 slot: '6877189795',
                 selector: '.story-section',
-                position: 'after',
+                position: 'before',
                 format: 'in-article',
                 pages: 'all',
-                everyNth: 1,
+                everyNth: 2,
+                maxAds: 4,
                 className: 'ad-in-article',
             },                                                                        
             {
@@ -245,10 +246,13 @@
             if (!elements.length) return;
 
             if (placement.everyNth !== undefined) {
-                // Inject after every Nth element (e.g., everyNth:2 = after section 2, 4, 6...)
+                // Inject after every Nth element, with optional maxAds cap
                 var n = placement.everyNth;
-                for (var i = n - 1; i < elements.length; i += n) {
+                var max = placement.maxAds || 4;
+                var count = 0;
+                for (var i = n - 1; i < elements.length && count < max; i += n) {
                     insertAd(placement, elements[i]);
+                    count++;
                 }
             } else if (placement.nthChild !== undefined) {
                 // Handle nthChild - pick specific element from the list
