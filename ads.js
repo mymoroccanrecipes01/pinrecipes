@@ -45,7 +45,7 @@
                 format: 'in-article',
                 pages: 'all',
                 everyNth: 2,
-                maxAds: 4,
+                maxAds: 7,
                 className: 'ad-in-article',
             },                                                                        
             {
