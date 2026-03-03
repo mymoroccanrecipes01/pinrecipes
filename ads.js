@@ -44,30 +44,39 @@
                 position: 'after',
                 format: 'in-article',
                 pages: 'all',
-                nthChild: '1/3',
+                everyNth: 1,
                 className: 'ad-in-article',
-            }, 
+            },
                         {
                 slot: '6877189795',
                 selector: '.story-section',
                 position: 'after',
                 format: 'in-article',
                 pages: 'all',
-                nthChild: '2/3',
+                everyNth: 2,
                 className: 'ad-in-article',
-            }, 
+            },
                         {
                 slot: '6877189795',
                 selector: '.story-section',
                 position: 'after',
                 format: 'in-article',
                 pages: 'all',
-                nthChild: '3/3',
+                everyNth: 3,
                 className: 'ad-in-article',
-            },  
+            },
+                        {
+                slot: '6877189795',
+                selector: '.story-section',
+                position: 'after',
+                format: 'in-article',
+                pages: 'all',
+                everyNth: 4,
+                className: 'ad-in-article',
+            },
             {
                 slot: '4055138220',
-                selector: '.recipe-boxs',
+                selector: '.recipe-boxes',
                 position: 'after',
                 format: 'auto',
                 pages: 'recipe',
@@ -262,7 +271,13 @@
             var elements = document.querySelectorAll(placement.selector);
             if (!elements.length) return;
 
-            if (placement.nthChild !== undefined) {
+            if (placement.everyNth !== undefined) {
+                // Inject after every Nth element (e.g., everyNth:2 = after section 2, 4, 6...)
+                var n = placement.everyNth;
+                for (var i = n - 1; i < elements.length; i += n) {
+                    insertAd(placement, elements[i]);
+                }
+            } else if (placement.nthChild !== undefined) {
                 // Handle nthChild - pick specific element from the list
                 var target = resolveNthChild(elements, placement.nthChild);
                 if (target) insertAd(placement, target);
