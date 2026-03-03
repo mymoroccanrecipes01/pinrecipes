@@ -47,7 +47,7 @@
                 everyNth: 1,
                 className: 'ad-in-article',
             },
-                        {
+            {
                 slot: '6877189795',
                 selector: '.story-section',
                 position: 'after',
@@ -56,7 +56,7 @@
                 everyNth: 2,
                 className: 'ad-in-article',
             },
-                        {
+            {
                 slot: '6877189795',
                 selector: '.story-section',
                 position: 'after',
@@ -65,7 +65,7 @@
                 everyNth: 3,
                 className: 'ad-in-article',
             },
-                        {
+            {
                 slot: '6877189795',
                 selector: '.story-section',
                 position: 'after',
@@ -74,6 +74,60 @@
                 everyNth: 4,
                 className: 'ad-in-article',
             },
+            {
+                slot: '6877189795',
+                selector: '.story-section',
+                position: 'after',
+                format: 'in-article',
+                pages: 'all',
+                everyNth: 5,
+                className: 'ad-in-article',
+            },
+            {
+                slot: '6877189795',
+                selector: '.story-section',
+                position: 'after',
+                format: 'in-article',
+                pages: 'all',
+                everyNth: 6,
+                className: 'ad-in-article',
+            },
+            {
+                slot: '6877189795',
+                selector: '.story-section',
+                position: 'after',
+                format: 'in-article',
+                pages: 'all',
+                everyNth: 7,
+                className: 'ad-in-article',
+            },
+            {
+                slot: '6877189795',
+                selector: '.story-section',
+                position: 'after',
+                format: 'in-article',
+                pages: 'all',
+                everyNth: 8,
+                className: 'ad-in-article',
+            },
+            {
+                slot: '6877189795',
+                selector: '.story-section',
+                position: 'after',
+                format: 'in-article',
+                pages: 'all',
+                everyNth: 9,
+                className: 'ad-in-article',
+            },
+            {
+                slot: '6877189795',
+                selector: '.story-section',
+                position: 'after',
+                format: 'in-article',
+                pages: 'all',
+                everyNth: 10,
+                className: 'ad-in-article',
+            },                                                                        
             {
                 slot: '4055138220',
                 selector: '.recipe-boxes',
