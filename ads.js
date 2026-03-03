@@ -44,7 +44,7 @@
                 position: 'after',
                 format: 'in-article',
                 pages: 'all',
-                nthChild: '1/3',
+                // nthChild: '1/3',
                 className: 'ad-in-article',
             },  
             {
@@ -130,7 +130,7 @@
         var label = document.createElement('span');
         label.className = 'ad-label';
         label.textContent = 'Advertisement';
-        label.style.display = 'none'; // Hidden until ad loads
+        // label.style.display = 'none'; // Hidden until ad loads
 
         var adIns = document.createElement('ins');
         adIns.className = 'adsbygoogle';
