@@ -39,8 +39,8 @@
                 className: 'ad-after-description',
             },
             {
-                slot: '4055138220',
-                selector: '.recipe-story .story-section',
+                slot: '6877189795',
+                selector: '.story-section',
                 position: 'after',
                 format: 'in-article',
                 pages: 'all',
@@ -88,35 +88,35 @@
             },
             
             // Example: Ad between ingredients and instructions
-            {
-                slot: '6877189795',
-                selector: '.ingredients-section',
-                position: 'after',
-                format: 'in-article',
-                pages: 'recipe',
-                className: 'ad-between-sections',
-            },
+            // {
+            //     slot: '6877189795',
+            //     selector: '.ingredients-section',
+            //     position: 'after',
+            //     format: 'in-article',
+            //     pages: 'recipe',
+            //     className: 'ad-between-sections',
+            // },
             
             // Example: Ad after the 5th story section
-            {
-                slot: '6877189795',
-                selector: '.recipe-story .story-section',
-                position: 'after',
-                format: 'in-article',
-                pages: 'recipe',
-                nthChild: 5,
-                className: 'ad-in-article',
-            },
+            // {
+            //     slot: '6877189795',
+            //     selector: '.story-section',
+            //     position: 'after',
+            //     format: 'in-article',
+            //     pages: 'recipe',
+            //     nthChild: 5,
+            //     className: 'ad-in-article',
+            // },
             
             // Example: Ad after recipe tips
-            {
-                slot: '6877189795',
-                selector: '.recipe-tips',
-                position: 'after',
-                format: 'auto',
-                pages: 'recipe',
-                className: 'ad-after-tips',
-            },
+            // {
+            //     slot: '6877189795',
+            //     selector: '.recipe-tips',
+            //     position: 'after',
+            //     format: 'auto',
+            //     pages: 'recipe',
+            //     className: 'ad-after-tips',
+            // },
         ],
     };
 
