@@ -78,45 +78,45 @@
             //  ZIDACH PLACEMENT JDID HENA - JUST COPY/PASTE & MODIFY!
             // ============================================================
             // Example: Ad after breadcrumb
-            // {
-            //     slot: '1234567896',
-            //     selector: '.breadcrumb',
-            //     position: 'after',
-            //     format: 'auto',
-            //     pages: 'recipe',
-            //     className: 'ad-after-breadcrumb',
-            // },
-            //
+            {
+                slot: '6877189795',
+                selector: '.breadcrumb',
+                position: 'after',
+                format: 'auto',
+                pages: 'recipe',
+                className: 'ad-after-breadcrumb',
+            },
+            
             // Example: Ad between ingredients and instructions
-            // {
-            //     slot: '1234567897',
-            //     selector: '.ingredients-section',
-            //     position: 'after',
-            //     format: 'in-article',
-            //     pages: 'recipe',
-            //     className: 'ad-between-sections',
-            // },
-            //
+            {
+                slot: '6877189795',
+                selector: '.ingredients-section',
+                position: 'after',
+                format: 'in-article',
+                pages: 'recipe',
+                className: 'ad-between-sections',
+            },
+            
             // Example: Ad after the 5th story section
-            // {
-            //     slot: '1234567898',
-            //     selector: '.recipe-story .story-section',
-            //     position: 'after',
-            //     format: 'in-article',
-            //     pages: 'recipe',
-            //     nthChild: 5,
-            //     className: 'ad-in-article',
-            // },
-            //
+            {
+                slot: '6877189795',
+                selector: '.recipe-story .story-section',
+                position: 'after',
+                format: 'in-article',
+                pages: 'recipe',
+                nthChild: 5,
+                className: 'ad-in-article',
+            },
+            
             // Example: Ad after recipe tips
-            // {
-            //     slot: '1234567899',
-            //     selector: '.recipe-tips',
-            //     position: 'after',
-            //     format: 'auto',
-            //     pages: 'recipe',
-            //     className: 'ad-after-tips',
-            // },
+            {
+                slot: '6877189795',
+                selector: '.recipe-tips',
+                position: 'after',
+                format: 'auto',
+                pages: 'recipe',
+                className: 'ad-after-tips',
+            },
         ],
     };
 
