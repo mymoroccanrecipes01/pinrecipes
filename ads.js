@@ -39,7 +39,13 @@
                 className: 'ad-after-description',
             },
             {
-                slot: '6877189795',
+                slots: [
+                    '8684648378',   // ← position 1 (before section 1)
+                    '6877189795',   // ← position 2 (before section 2)
+                    '4055138220',   // ← position 3 (before section 3)
+                    '8684648378',   // ← position 4 (before section 4)
+                    '6877189795',   // ← position 5 (before section 5)
+                ],
                 selector: '.story-section',
                 position: 'before',
                 format: 'in-article',
@@ -251,7 +257,12 @@
                 var max = placement.maxAds || 4;
                 var count = 0;
                 for (var i = n - 1; i < elements.length && count < max; i += n) {
-                    insertAd(placement, elements[i]);
+                    // Use slots array (per-position) or fallback to single slot
+                    var slotId = (placement.slots && placement.slots[count] !== undefined)
+                        ? placement.slots[count]
+                        : placement.slot;
+                    var p = Object.assign({}, placement, { slot: slotId });
+                    insertAd(p, elements[i]);
                     count++;
                 }
             } else if (placement.nthChild !== undefined) {
