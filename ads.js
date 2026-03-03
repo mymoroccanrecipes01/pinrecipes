@@ -50,7 +50,7 @@
                 position: 'before',
                 format: 'in-article',
                 pages: 'all',
-                everyNth: 1,
+                everyNth: 2,
                 maxAds: 5,
                 className: 'ad-in-article',
             },                                                                        
