@@ -44,8 +44,8 @@
                 position: 'before',
                 format: 'in-article',
                 pages: 'all',
-                everyNth: 2,
-                maxAds: 7,
+                everyNth: 1,
+                maxAds: 5,
                 className: 'ad-in-article',
             },                                                                        
             {
