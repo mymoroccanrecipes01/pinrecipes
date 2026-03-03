@@ -136,7 +136,7 @@
 
         var label = document.createElement('span');
         label.className = 'ad-label';
-        label.textContent = 'Advertisement';
+        // label.textContent = 'Advertisement';
         // label.style.display = 'none'; // Hidden until ad loads
 
         var adIns = document.createElement('ins');
