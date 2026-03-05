@@ -40,11 +40,11 @@
             },
             {
                 slots: [
-                    '8684648378',   // ← position 1 (before section 1)
-                    '6877189795',   // ← position 2 (before section 2)
+                    '4055138220',   // ← position 1 (before section 1)
+                    '4055138220',   // ← position 2 (before section 2)
                     '4055138220',   // ← position 3 (before section 3)
                     '8684648378',   // ← position 4 (before section 4)
-                    '6877189795',   // ← position 5 (before section 5)
+                    '4055138220',   // ← position 5 (before section 5)
                 ],
                 selector: '.story-section',
                 position: 'before',
@@ -73,7 +73,7 @@
 
             // -------- SPA PAGE ADS --------
             {
-                slot: '8684648378',
+                slot: '4055138220',
                 selector: '#main-content .container',
                 position: 'inside-top',
                 format: 'auto',
@@ -86,7 +86,7 @@
             // ============================================================
             // Example: Ad after breadcrumb
             {
-                slot: '6877189795',
+                slot: '8684648378',
                 selector: '.breadcrumb',
                 position: 'after',
                 format: 'auto',
