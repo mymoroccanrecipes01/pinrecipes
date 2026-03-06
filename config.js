@@ -1,9 +1,9 @@
 globalThis.facebookURL = "#";
-globalThis.PinterestURL = "https://www.pinterest.com/pinrecipes/";
+globalThis.PinterestURL = "https://www.pinterest.com/pinpecipess/";
 globalThis.twitterURL = "#";
 globalThis.redditURL = "#";
 globalThis.siteUrl = 'https://www.pinrecipes.org';
 globalThis.homepageTitle = 'Pin Recipes';
 globalThis.homepageTagline = 'Pin Recipes - Simple Recipes for Every day';
 globalThis.email = 'contact@pinrecipes.org';
-globalThis.copyright = '2023 - 2024 Pin Recipes. All rights reserved.';
+globalThis.copyright = '2025 - 2026 Pin Recipes. All rights reserved.';
