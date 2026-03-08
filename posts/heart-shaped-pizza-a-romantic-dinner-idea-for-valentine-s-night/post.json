@@ -3,23 +3,23 @@
     "slug": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night",
     "title": "Heart-Shaped Pizza: A Romantic Dinner Idea for Valentine's Night",
     "promptIMG": "Food photography: heart-shaped pizza, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
-    "isOnline": false,
+    "isOnline": true,
     "description": "This heart-shaped pizza is the perfect way to celebrate love. With fresh toppings and a crispy crust, it's a fun twist for a romantic dinner. Ideal for Valentine's Day or any date night!",
-    "category_id": "",
+    "category_id": "cat_1761230383_494",
     "author_id": "author_001",
     "ingredients": [
         "1 pre-made pizza dough",
-        "1/2 cup pizza sauce",
+        "1\/2 cup pizza sauce",
         "1 cup shredded mozzarella cheese",
-        "1/2 cup pepperoni slices",
-        "1/4 cup sliced bell peppers (optional)",
+        "1\/2 cup pepperoni slices",
+        "1\/4 cup sliced bell peppers (optional)",
         "1 tablespoon olive oil",
         "1 teaspoon Italian seasoning",
         "Fresh basil for garnish"
     ],
     "instructions": [
         "Preheat your oven to 475°F (245°C).",
-        "Roll out the pizza dough on a floured surface into a heart shape, about 1/4 inch thick.",
+        "Roll out the pizza dough on a floured surface into a heart shape, about 1\/4 inch thick.",
         "Transfer the dough to a baking sheet lined with parchment paper.",
         "Spread the pizza sauce evenly over the dough, leaving a small border around the edges.",
         "Sprinkle the mozzarella cheese generously on top, followed by the pepperoni and bell peppers if using.",
@@ -35,70 +35,70 @@
     "tips": "When rolling out the dough, make sure to keep it thick enough for a good crust. If you want to get creative, try using different toppings like olives or mushrooms. Leftover pizza can be stored in the fridge for up to 3 days, and reheats well in the oven for a crispy crust again!",
     "structured_content": [
         {
-            "content": "<p>There's something so special about sharing a heart-shaped pizza with someone you love. It's not just a meal; it's a fun experience! This heart-shaped pizza recipe is not only easy to make but also a delightful way to add a personal touch to your Valentine's dinner. Whether it's a cozy night in or a fun date night, this pizza will surely impress!</p>"
+            "content": "<p>There's something so special about sharing a heart-shaped pizza with someone you love. It's not just a meal; it's a fun experience! This heart-shaped pizza recipe is not only easy to make but also a delightful way to add a personal touch to your Valentine's dinner. Whether it's a cozy night in or a fun date night, this pizza will surely impress!<\/p>"
         },
         {
             "headline": "What You Need"
         },
         {
-            "content": "<p>For this recipe, a pre-made pizza dough is a time-saver, but feel free to make your own if you're up for it! The classic combination of mozzarella and pepperoni is always a hit, but you can switch things up with your favorite toppings. Think about adding veggies or even a white sauce for a twist!</p>"
+            "content": "<p>For this recipe, a pre-made pizza dough is a time-saver, but feel free to make your own if you're up for it! The classic combination of mozzarella and pepperoni is always a hit, but you can switch things up with your favorite toppings. Think about adding veggies or even a white sauce for a twist!<\/p>"
         },
         {
             "headline": "How to Make It"
         },
         {
-            "content": "<p>The process is simple and quick. You'll roll the dough into a heart shape, add your sauce and toppings, and bake it to perfection. The key is to keep an eye on it while it bakes to get that perfect golden crust!</p>"
+            "content": "<p>The process is simple and quick. You'll roll the dough into a heart shape, add your sauce and toppings, and bake it to perfection. The key is to keep an eye on it while it bakes to get that perfect golden crust!<\/p>"
         },
         {
             "upload": {
                 "context": "Heart-shaped pizza on a rustic wooden table",
-                "url": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night/images/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_1.webp",
+                "url": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night\/images\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_1.webp",
                 "fileName": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_1.webp",
                 "type": "main"
             }
         },
         {
-            "content": "<p>This pizza pairs wonderfully with a side salad or some garlic bread. If you're feeling adventurous, try adding a drizzle of balsamic glaze after baking for an extra flavor kick. Enjoy your romantic evening!</p>"
+            "content": "<p>This pizza pairs wonderfully with a side salad or some garlic bread. If you're feeling adventurous, try adding a drizzle of balsamic glaze after baking for an extra flavor kick. Enjoy your romantic evening!<\/p>"
         }
     ],
     "images": [
         {
             "fileName": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_1.webp",
-            "filePath": "posts/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night/images/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_1.webp",
-            "relativePath": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night/images/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "filePath": "posts\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night\/images\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_1.webp",
+            "relativePath": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night\/images\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_2.webp",
-            "filePath": "posts/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night/images/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_2.webp",
-            "relativePath": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night/images/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "filePath": "posts\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night\/images\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_2.webp",
+            "relativePath": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night\/images\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_3.webp",
-            "filePath": "posts/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night/images/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_3.webp",
-            "relativePath": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night/images/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "filePath": "posts\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night\/images\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_3.webp",
+            "relativePath": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night\/images\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_pinrecipes_image_4.webp",
-            "filePath": "posts/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night/images/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_pinrecipes_image_4.webp",
-            "relativePath": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night/images/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_pinrecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night/images/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_pinrecipes_image_4.webp",
+            "filePath": "posts\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night\/images\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_pinrecipes_image_4.webp",
+            "relativePath": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night\/images\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_pinrecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night\/images\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
     "image": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_1.webp",
-    "image_path": "posts/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night/images/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_1.webp",
-    "image_dir": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night/images",
+    "image_path": "posts\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night\/images\/heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night_image_1.webp",
+    "image_dir": "heart-shaped-pizza-a-romantic-dinner-idea-for-valentine-s-night\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-08T07:56:07+01:00",
-    "updatedAt": "2026-03-08T07:56:07+01:00",
+    "createdAt": "2026-03-08T19:31:45+01:00",
+    "updatedAt": "2026-03-08T19:31:45+01:00",
     "pin_variations": [
         {
             "title": "Create Romance with Heart-Shaped Pizza!",

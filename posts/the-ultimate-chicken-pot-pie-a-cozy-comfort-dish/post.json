@@ -3,21 +3,21 @@
     "slug": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish",
     "title": "The Ultimate Chicken Pot Pie: A Cozy Comfort Dish",
     "promptIMG": "Food photography: Chicken Pot Pie, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
-    "isOnline": false,
+    "isOnline": true,
     "description": "This homemade chicken pot pie is the ultimate comfort food, filled with tender chicken and veggies in a creamy sauce. Perfect for family dinners or chilly nights!",
-    "category_id": "",
+    "category_id": "cat_1761230383_494",
     "author_id": "author_001",
     "ingredients": [
         "2 cups cooked chicken, shredded",
         "1 cup carrots, diced",
         "1 cup peas, frozen or fresh",
-        "1/2 cup celery, diced",
-        "1/3 cup butter",
-        "1/3 cup all-purpose flour",
-        "1 3/4 cups chicken broth",
-        "2/3 cup milk",
+        "1\/2 cup celery, diced",
+        "1\/3 cup butter",
+        "1\/3 cup all-purpose flour",
+        "1 3\/4 cups chicken broth",
+        "2\/3 cup milk",
         "1 teaspoon salt",
-        "1/2 teaspoon black pepper",
+        "1\/2 teaspoon black pepper",
         "1 teaspoon garlic powder",
         "1 teaspoon onion powder",
         "2 pre-made pie crusts"
@@ -38,70 +38,70 @@
     "tips": "When making your pot pie, don't skip the step of letting it cool slightly after baking; this helps the filling set. If you're short on time, rotisserie chicken works great as a shortcut! Also, feel free to swap in your favorite veggies like corn or green beans for a twist.",
     "structured_content": [
         {
-            "content": "<p>Here's the thing - Ah, chicken pot pie! It’s one of those dishes that feels like a warm hug on a chilly day. I remember my mom making this classic comfort food, filling the house with such delicious aromas. It’s a family favorite, and I love how versatile it is—you can easily adjust the veggies or even the seasoning to fit your taste. Plus, it’s a fantastic way to use up leftover chicken!</p>"
+            "content": "<p>Here's the thing - Ah, chicken pot pie! It’s one of those dishes that feels like a warm hug on a chilly day. I remember my mom making this classic comfort food, filling the house with such delicious aromas. It’s a family favorite, and I love how versatile it is—you can easily adjust the veggies or even the seasoning to fit your taste. Plus, it’s a fantastic way to use up leftover chicken!<\/p>"
         },
         {
             "headline": "What You Need"
         },
         {
-            "content": "<p>For this pot pie, you'll want tender chicken, fresh or frozen veggies, and a creamy sauce that ties it all together. I usually go for carrots and peas, but feel free to throw in whatever you have on hand. Just remember, if you're using frozen veggies, there's no need to thaw them first!</p>"
+            "content": "<p>For this pot pie, you'll want tender chicken, fresh or frozen veggies, and a creamy sauce that ties it all together. I usually go for carrots and peas, but feel free to throw in whatever you have on hand. Just remember, if you're using frozen veggies, there's no need to thaw them first!<\/p>"
         },
         {
             "headline": "How to Make It"
         },
         {
-            "content": "<p>The process is pretty straightforward! You’ll start by sautéing your veggies in butter, then add flour and liquids to create that luscious sauce. It thickens beautifully, and when you mix in the chicken, it’s pure magic. Assemble everything in a pie crust, and you'll have a comforting meal ready in no time.</p>"
+            "content": "<p>The process is pretty straightforward! You’ll start by sautéing your veggies in butter, then add flour and liquids to create that luscious sauce. It thickens beautifully, and when you mix in the chicken, it’s pure magic. Assemble everything in a pie crust, and you'll have a comforting meal ready in no time.<\/p>"
         },
         {
             "upload": {
                 "context": "Chicken Pot Pie on a rustic wooden table",
-                "url": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish/images/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_1.webp",
+                "url": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish\/images\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_1.webp",
                 "fileName": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_1.webp",
                 "type": "main"
             }
         },
         {
-            "content": "<p>This chicken pot pie is perfect for a cozy family dinner or when you’re hosting friends. Serve it with a simple green salad, and you’ve got a complete meal. It also reheats beautifully, so don’t hesitate to make extra for lunch the next day!</p>"
+            "content": "<p>This chicken pot pie is perfect for a cozy family dinner or when you’re hosting friends. Serve it with a simple green salad, and you’ve got a complete meal. It also reheats beautifully, so don’t hesitate to make extra for lunch the next day!<\/p>"
         }
     ],
     "images": [
         {
             "fileName": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_1.webp",
-            "filePath": "posts/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish/images/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_1.webp",
-            "relativePath": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish/images/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "filePath": "posts\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish\/images\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_1.webp",
+            "relativePath": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish\/images\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_2.webp",
-            "filePath": "posts/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish/images/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_2.webp",
-            "relativePath": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish/images/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "filePath": "posts\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish\/images\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_2.webp",
+            "relativePath": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish\/images\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_3.webp",
-            "filePath": "posts/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish/images/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_3.webp",
-            "relativePath": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish/images/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "filePath": "posts\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish\/images\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_3.webp",
+            "relativePath": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish\/images\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_pinrecipes_image_4.webp",
-            "filePath": "posts/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish/images/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_pinrecipes_image_4.webp",
-            "relativePath": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish/images/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_pinrecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish/images/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_pinrecipes_image_4.webp",
+            "filePath": "posts\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish\/images\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_pinrecipes_image_4.webp",
+            "relativePath": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish\/images\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_pinrecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish\/images\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
     "image": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_1.webp",
-    "image_path": "posts/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish/images/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_1.webp",
-    "image_dir": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish/images",
+    "image_path": "posts\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish\/images\/the-ultimate-chicken-pot-pie-a-cozy-comfort-dish_image_1.webp",
+    "image_dir": "the-ultimate-chicken-pot-pie-a-cozy-comfort-dish\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-08T07:31:14+01:00",
-    "updatedAt": "2026-03-08T07:31:14+01:00",
+    "createdAt": "2026-03-08T19:32:07+01:00",
+    "updatedAt": "2026-03-08T19:32:07+01:00",
     "pin_variations": [
         {
             "title": "Cozy Up with This Ultimate Chicken Pot Pie",
