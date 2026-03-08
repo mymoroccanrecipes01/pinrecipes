@@ -1,0 +1,118 @@
+{
+    "id": "post_1772952079_613",
+    "slug": "red-wine-braised-short-ribs-a-romantic-dinner-delight",
+    "title": "Red Wine Braised Short Ribs: A Romantic Dinner Delight",
+    "promptIMG": "Food photography: Red Wine Braised Short Ribs, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": false,
+    "description": "These Red Wine Braised Short Ribs are a showstopper for any romantic dinner. Slow-cooked to perfection in a rich, velvety sauce, they’re sure to impress! Serve with mashed potatoes for a cozy night in.",
+    "category_id": "cat_1761229889_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "4 lbs bone-in beef short ribs",
+        "Salt and pepper, to taste",
+        "2 tablespoons olive oil",
+        "1 large onion, chopped",
+        "2 carrots, chopped",
+        "2 celery stalks, chopped",
+        "4 cloves garlic, minced",
+        "2 cups red wine (like Cabernet Sauvignon)",
+        "4 cups beef broth",
+        "2 sprigs fresh thyme",
+        "1 bay leaf"
+    ],
+    "instructions": [
+        "Preheat your oven to 325°F (160°C).",
+        "Season the short ribs generously with salt and pepper.",
+        "In a large Dutch oven, heat olive oil over medium-high heat. Sear the short ribs on all sides until browned, about 3-4 minutes per side. Remove and set aside.",
+        "In the same pot, add onion, carrots, and celery. Sauté until softened, about 5-7 minutes. Stir in garlic and cook for another minute.",
+        "Pour in the red wine, scraping up any brown bits from the bottom. Bring to a simmer and let reduce by half.",
+        "Return the short ribs to the pot, add beef broth, thyme, and bay leaf. Bring to a boil, then cover and transfer to the oven.",
+        "Braise for about 2.5 to 3 hours, until the meat is tender and falling off the bone. Remove from the oven and let rest for 10 minutes before serving."
+    ],
+    "prep_time": 15,
+    "cook_time": 180,
+    "total_time": 195,
+    "servings": 4,
+    "difficulty": "Medium",
+    "tips": "When searing the ribs, don't overcrowd the pan; this helps achieve that perfect crust. If you want to make it even richer, try adding a tablespoon of tomato paste when sautéing the vegetables. Leftovers can be stored in the fridge for up to 3 days and reheat beautifully on the stove or in the oven. Also, feel free to swap out the red wine for a robust beer if you prefer!",
+    "structured_content": [
+        {
+            "content": "<p>There's something undeniably romantic about a hearty meal simmering away in the oven, and these Red Wine Braised Short Ribs are just the ticket. I love making them for special occasions or when I want to impress someone with a cozy dinner. The long cooking time allows the flavors to meld beautifully, creating a dish that's both rich and comforting. Plus, the aroma that fills your kitchen is simply irresistible!</p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>These short ribs are the star of the show, and I recommend using bone-in for the best flavor. A good quality red wine is essential; don’t use anything you wouldn’t drink! If you're not a fan of red wine, you can try using a dark beer for a unique twist.</p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Quick note: The cooking process is straightforward but requires patience. Searing the ribs first locks in flavor, and the slow braising allows the meat to become incredibly tender. You'll want to keep an eye on the liquid level; it should always be just covering the meat.</p>"
+        },
+        {
+            "upload": {
+                "context": "Red Wine Braised Short Ribs on a rustic wooden table",
+                "url": "red-wine-braised-short-ribs-a-romantic-dinner-delight/images/red-wine-braised-short-ribs-a-romantic-dinner-delight_image_1.webp",
+                "fileName": "red-wine-braised-short-ribs-a-romantic-dinner-delight_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>These ribs are perfect served over creamy mashed potatoes or with a side of crusty bread to soak up that delicious sauce. You could also pair them with a fresh green salad for a balanced meal. Enjoy with a glass of the same red wine used in cooking for the full experience!</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "red-wine-braised-short-ribs-a-romantic-dinner-delight_image_1.webp",
+            "filePath": "posts/red-wine-braised-short-ribs-a-romantic-dinner-delight/images/red-wine-braised-short-ribs-a-romantic-dinner-delight_image_1.webp",
+            "relativePath": "red-wine-braised-short-ribs-a-romantic-dinner-delight/images/red-wine-braised-short-ribs-a-romantic-dinner-delight_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "red-wine-braised-short-ribs-a-romantic-dinner-delight_image_2.webp",
+            "filePath": "posts/red-wine-braised-short-ribs-a-romantic-dinner-delight/images/red-wine-braised-short-ribs-a-romantic-dinner-delight_image_2.webp",
+            "relativePath": "red-wine-braised-short-ribs-a-romantic-dinner-delight/images/red-wine-braised-short-ribs-a-romantic-dinner-delight_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "red-wine-braised-short-ribs-a-romantic-dinner-delight_image_3.webp",
+            "filePath": "posts/red-wine-braised-short-ribs-a-romantic-dinner-delight/images/red-wine-braised-short-ribs-a-romantic-dinner-delight_image_3.webp",
+            "relativePath": "red-wine-braised-short-ribs-a-romantic-dinner-delight/images/red-wine-braised-short-ribs-a-romantic-dinner-delight_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "red-wine-braised-short-ribs-a-romantic-dinner-delight_pinrecipes_image_4.webp",
+            "filePath": "posts/red-wine-braised-short-ribs-a-romantic-dinner-delight/images/red-wine-braised-short-ribs-a-romantic-dinner-delight_pinrecipes_image_4.webp",
+            "relativePath": "red-wine-braised-short-ribs-a-romantic-dinner-delight/images/red-wine-braised-short-ribs-a-romantic-dinner-delight_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/red-wine-braised-short-ribs-a-romantic-dinner-delight/images/red-wine-braised-short-ribs-a-romantic-dinner-delight_pinrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "red-wine-braised-short-ribs-a-romantic-dinner-delight_image_1.webp",
+    "image_path": "posts/red-wine-braised-short-ribs-a-romantic-dinner-delight/images/red-wine-braised-short-ribs-a-romantic-dinner-delight_image_1.webp",
+    "image_dir": "red-wine-braised-short-ribs-a-romantic-dinner-delight/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-08T07:41:19+01:00",
+    "updatedAt": "2026-03-08T07:41:19+01:00",
+    "pin_variations": [
+        {
+            "title": "Indulge in Red Wine Braised Short Ribs",
+            "description": "Elevate your dinner date with these mouthwatering Red Wine Braised Short Ribs! Slow-cooked in a rich sauce, they're the perfect centerpiece for a romantic evening. Pair with creamy mashed potatoes for an unforgettable meal. #RomanticDinner #ShortRibs #ComfortFood #RecipeOfTheDay"
+        },
+        {
+            "title": "Ultimate Cozy Night: Braised Short Ribs",
+            "description": "Create the perfect cozy dinner with our Red Wine Braised Short Ribs! This gourmet dish, simmered to perfection, is an ideal choice for impressing your loved one. Serve with buttery mashed potatoes for a satisfying experience. #CozyNights #DinnerIdeas #BraisedRibs #Foodie"
+        },
+        {
+            "title": "Romantic Red Wine Short Ribs Recipe",
+            "description": "Looking for a show-stopping dish for your next date night? Try our Red Wine Braised Short Ribs! Tender and flavorful, these ribs are slow-cooked in a luxurious sauce. Accompany with mashed potatoes for a dinner that will melt hearts. #DateNight #GourmetCooking #ShortRibs #Yummy"
+        }
+    ]
+}
