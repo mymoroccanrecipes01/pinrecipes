@@ -9,3 +9,7 @@ logs/
 *.log
 image1.png
 image2.png
+*.sql
+*.bak
+*.md
+*.log
