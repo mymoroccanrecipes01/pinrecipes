@@ -3,7 +3,7 @@
     "slug": "delightful-heart-shaped-chocolate-strawberry-treats",
     "title": "Delightful Heart-Shaped Chocolate Strawberry Treats",
     "promptIMG": "Food photography: heart-shaped chocolate strawberry desserts, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
-    "isOnline": false,
+    "isOnline": true,
     "description": "These heart-shaped chocolate strawberry desserts are a sweet treat for any occasion. With a rich chocolate coating and fresh strawberries, they’re perfect for impressing your loved ones on special days!",
     "category_id": "",
     "author_id": "author_001",
@@ -78,11 +78,35 @@
             "order": 3
         },
         {
-            "fileName": "delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_4.webp",
-            "filePath": "recipes/delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_4.webp",
-            "relativePath": "delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/recipes/delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_4.webp",
+            "fileName": "delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_1.webp",
+            "filePath": "posts/delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_1.webp",
+            "relativePath": "delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_1.webp",
             "order": 4,
+            "type": "template"
+        },
+        {
+            "fileName": "delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_2.webp",
+            "filePath": "posts/delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_2.webp",
+            "relativePath": "delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_2.webp",
+            "order": 5,
+            "type": "template"
+        },
+        {
+            "fileName": "delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_3.webp",
+            "filePath": "posts/delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_3.webp",
+            "relativePath": "delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_3.webp",
+            "order": 6,
+            "type": "template"
+        },
+        {
+            "fileName": "delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_4.webp",
+            "filePath": "posts/delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_4.webp",
+            "relativePath": "delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/delightful-heart-shaped-chocolate-strawberry-treats/images/delightful-heart-shaped-chocolate-strawberry-treats_pinrecipes_image_4.webp",
+            "order": 7,
             "type": "template"
         }
     ],
@@ -91,8 +115,8 @@
     "image_dir": "delightful-heart-shaped-chocolate-strawberry-treats/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-08T06:14:51+01:00",
-    "updatedAt": "2026-03-08T06:14:51+01:00",
+    "createdAt": "2026-03-09T02:05:58+01:00",
+    "updatedAt": "2026-03-09T02:05:58+01:00",
     "pin_variations": [
         {
             "title": "Sweetheart Chocolate-Dipped Strawberries",
