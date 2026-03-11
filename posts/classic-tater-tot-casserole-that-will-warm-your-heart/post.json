@@ -1,0 +1,124 @@
+{
+    "id": "post_1773203030_751",
+    "slug": "classic-tater-tot-casserole-that-will-warm-your-heart",
+    "title": "Classic Tater Tot Casserole That Will Warm Your Heart",
+    "promptIMG": "Food photography: Tater Tot Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": false,
+    "description": "This classic tater tot casserole is the ultimate comfort food. Loaded with savory ground beef, creamy soup, and topped with crispy tots. Perfect for family dinners or cozy nights in!",
+    "category_id": "",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 small onion, diced",
+        "2 cloves garlic, minced",
+        "1 can cream of mushroom soup (10.5 oz)",
+        "1 cup frozen mixed vegetables",
+        "1 cup shredded cheddar cheese",
+        "1 bag frozen tater tots (32 oz)",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 400°F (200°C). This step is crucial because it ensures that your casserole cooks evenly throughout. If your oven isn’t preheated, the tater tots might not crisp up properly, resulting in a soggy texture instead of that delightful crunch. While the oven heats up, you can start preparing the beef mixture, which will be the base of your casserole.",
+            "timing": "10 minutes",
+            "doneness_cue": "The oven should be hot enough to start cooking the tater tots immediately when added."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large skillet over medium heat, brown the ground beef with the diced onion and minced garlic. Cook until the beef is no longer pink and the onions are translucent, about 5-7 minutes. This step is important because it develops the flavor base for your casserole. Make sure to break the beef into small pieces to ensure even cooking. If you skip this step, you might end up with clumps of beef that don’t integrate well with the rest of the ingredients.",
+            "timing": "7 minutes",
+            "doneness_cue": "The beef should be browned and the onions soft and translucent."
+        },
+        {
+            "step": 3,
+            "instruction": "Once the beef is cooked, drain any excess fat from the skillet. Then, stir in the cream of mushroom soup and frozen mixed vegetables. This creates a creamy and flavorful filling for your casserole. Make sure everything is well combined, as this will ensure that every bite is packed with flavor. If you don’t drain the fat, your casserole may turn out greasy, which can overwhelm the other flavors.",
+            "timing": "3 minutes",
+            "doneness_cue": "The mixture should be creamy and well-combined, with no visible fat."
+        },
+        {
+            "step": 4,
+            "instruction": "Spread the beef and vegetable mixture evenly in the bottom of a greased 9x13 inch baking dish. This even layer is essential because it allows the tater tots to cook uniformly on top. If you just dump it in, you might end up with some parts overcooked and others undercooked. Plus, it looks nicer when served!",
+            "timing": "2 minutes",
+            "doneness_cue": "The mixture should cover the bottom of the dish evenly."
+        },
+        {
+            "step": 5,
+            "instruction": "Sprinkle the shredded cheddar cheese over the beef mixture. This adds a delicious cheesy layer that melts beautifully while baking. You can adjust the amount of cheese based on your preference. If you love cheese, feel free to add more! Just remember, too much can make the casserole greasy.",
+            "timing": "2 minutes",
+            "doneness_cue": "The cheese should be evenly distributed on top of the mixture."
+        },
+        {
+            "step": 6,
+            "instruction": "Arrange the frozen tater tots in a single layer on top of the cheese. This is where the magic happens! The tots will crisp up and create a golden-brown topping that contrasts beautifully with the creamy filling below. Make sure to cover the entire surface; any gaps might lead to uneven cooking. If you rush this step, you might not get the desired crispy texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "The tater tots should be arranged neatly without overlapping."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake in the preheated oven for 30-35 minutes, or until the tater tots are golden brown and crispy. This step is crucial for achieving that perfect texture. Keep an eye on it during the last few minutes to prevent burning. If you want extra crispiness, you can broil it for the last 2-3 minutes, but watch it closely to avoid burning. The aroma will fill your kitchen, making it hard to resist!",
+            "timing": "35 minutes",
+            "doneness_cue": "The tater tots should be golden brown and the filling bubbling."
+        }
+    ],
+    "prep_time": 15,
+    "cook_time": 45,
+    "total_time": 60,
+    "servings": 6,
+    "difficulty": "Easy",
+    "board_name": "Tater Tot Recipes",
+    "tips": "One key technique is to ensure you brown the ground beef properly to enhance the flavor. A common mistake is not letting the casserole rest before serving, which can lead to a messy presentation. If you're storing leftovers, make sure they're in an airtight container to maintain freshness.",
+    "structured_content": [],
+    "images": [
+        {
+            "fileName": "classic-tater-tot-casserole-that-will-warm-your-heart_image_1.webp",
+            "filePath": "posts/classic-tater-tot-casserole-that-will-warm-your-heart/images/classic-tater-tot-casserole-that-will-warm-your-heart_image_1.webp",
+            "relativePath": "classic-tater-tot-casserole-that-will-warm-your-heart/images/classic-tater-tot-casserole-that-will-warm-your-heart_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "classic-tater-tot-casserole-that-will-warm-your-heart_image_2.webp",
+            "filePath": "posts/classic-tater-tot-casserole-that-will-warm-your-heart/images/classic-tater-tot-casserole-that-will-warm-your-heart_image_2.webp",
+            "relativePath": "classic-tater-tot-casserole-that-will-warm-your-heart/images/classic-tater-tot-casserole-that-will-warm-your-heart_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "classic-tater-tot-casserole-that-will-warm-your-heart_image_3.webp",
+            "filePath": "posts/classic-tater-tot-casserole-that-will-warm-your-heart/images/classic-tater-tot-casserole-that-will-warm-your-heart_image_3.webp",
+            "relativePath": "classic-tater-tot-casserole-that-will-warm-your-heart/images/classic-tater-tot-casserole-that-will-warm-your-heart_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "classic-tater-tot-casserole-that-will-warm-your-heart_pinrecipes_image_4.webp",
+            "filePath": "posts/classic-tater-tot-casserole-that-will-warm-your-heart/images/classic-tater-tot-casserole-that-will-warm-your-heart_pinrecipes_image_4.webp",
+            "relativePath": "classic-tater-tot-casserole-that-will-warm-your-heart/images/classic-tater-tot-casserole-that-will-warm-your-heart_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-tater-tot-casserole-that-will-warm-your-heart/images/classic-tater-tot-casserole-that-will-warm-your-heart_pinrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "classic-tater-tot-casserole-that-will-warm-your-heart_image_1.webp",
+    "image_path": "posts/classic-tater-tot-casserole-that-will-warm-your-heart/images/classic-tater-tot-casserole-that-will-warm-your-heart_image_1.webp",
+    "image_dir": "classic-tater-tot-casserole-that-will-warm-your-heart/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-11T05:23:50+01:00",
+    "updatedAt": "2026-03-11T05:23:50+01:00",
+    "pin_variations": [
+        {
+            "title": "Hearty Tater Tot Casserole for Cozy Nights",
+            "description": "Indulge in this hearty tater tot casserole that's sure to satisfy your cravings! With a savory blend of ground beef, creamy soup, and a golden layer of crispy tater tots, this dish is ideal for family gatherings or a comforting dinner at home. Serve it hot and watch it disappear! #TaterTotCasserole #ComfortFood #FamilyDinner #EasyRecipes"
+        },
+        {
+            "title": "Ultimate Comfort: Tater Tot Casserole Recipe",
+            "description": "Experience the ultimate comfort with this tater tot casserole! Packed with flavorful ground beef, rich creamy soup, and topped with irresistible tater tots, it’s a dish that warms the soul. Perfect for chilly evenings or family feasts. Try it tonight! #ComfortFood #TaterTots #FamilyRecipes #DinnerIdeas"
+        },
+        {
+            "title": "Satisfy Your Cravings with Tater Tot Casserole",
+            "description": "Satisfy your cravings with a classic tater tot casserole! This delightful dish features layers of savory ground beef, creamy soup, and crispy tater tots that bake to perfection. It's a crowd-pleaser for family dinners or movie nights in. Don't miss out on this comfort food classic! #TaterTotCasserole #Yummy #ComfortFood #EasyMeals"
+        }
+    ]
+}

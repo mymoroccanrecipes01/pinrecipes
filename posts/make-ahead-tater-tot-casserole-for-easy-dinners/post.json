@@ -1,0 +1,126 @@
+{
+    "id": "post_1773203306_697",
+    "slug": "make-ahead-tater-tot-casserole-for-easy-dinners",
+    "title": "Make Ahead Tater Tot Casserole for Easy Dinners",
+    "promptIMG": "Food photography: Tater Tot Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": false,
+    "description": "This Tater Tot Casserole is a comforting, hearty dish that’s perfect for busy weeknights. With a creamy filling and crispy tots on top, it’s a family favorite that you can prep ahead of time!",
+    "category_id": "",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound ground beef",
+        "1 medium onion, chopped",
+        "2 cups frozen mixed vegetables",
+        "1 can (10.5 oz) cream of mushroom soup",
+        "1 cup milk",
+        "1 teaspoon garlic powder",
+        "1 teaspoon salt",
+        "1/2 teaspoon black pepper",
+        "1 bag (32 oz) frozen tater tots",
+        "1 cup shredded cheddar cheese"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preheating your oven to 350°F (175°C). This step is crucial because you want your casserole to cook evenly and thoroughly. While the oven heats, you can focus on browning the ground beef. Use a large skillet over medium heat, breaking the meat apart as it cooks. Look for it to turn a nice brown color, which will take about 5-7 minutes. This browning adds depth to the flavor, so don’t rush it!",
+            "timing": "7 minutes",
+            "doneness_cue": "The beef should be browned and no longer pink."
+        },
+        {
+            "step": 2,
+            "instruction": "Once the beef is cooked, add the chopped onion to the skillet. Sauté for about 3-4 minutes until the onion becomes translucent. This step enhances the dish's overall flavor profile, as the sweetness of the onions melds beautifully with the beef. Keep an eye on them to avoid burning; you want them soft, not crispy.",
+            "timing": "4 minutes",
+            "doneness_cue": "Onions should be soft and translucent."
+        },
+        {
+            "step": 3,
+            "instruction": "Next, stir in the frozen mixed vegetables. I love using a mix of peas, carrots, and corn for color and nutrition. Cook for another 3-4 minutes, just enough to thaw them. This step adds a nice texture contrast and makes the dish more wholesome. You can also use fresh veggies if you prefer; just chop them finely and add them in at the same time as the onions.",
+            "timing": "4 minutes",
+            "doneness_cue": "Vegetables should be heated through but still vibrant in color."
+        },
+        {
+            "step": 4,
+            "instruction": "Now, it’s time to add the cream of mushroom soup and milk to the skillet. Stir everything together until well combined. This mixture will be the creamy base of your casserole. You want it to be smooth, so make sure there are no lumps of soup left. The creaminess is what makes this casserole so comforting, so don’t skip this step!",
+            "timing": "3 minutes",
+            "doneness_cue": "The mixture should be smooth and well combined."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the garlic powder, salt, and pepper to the mixture, stirring to incorporate. Adjust the seasoning to your taste; you might want a bit more salt depending on the soup brand you use. This is your chance to customize the flavor, so trust your palate! Once seasoned, remove the skillet from the heat.",
+            "timing": "2 minutes",
+            "doneness_cue": "The mixture should be well-seasoned and flavorful."
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the beef and vegetable mixture into a greased 9x13 inch baking dish. Spread it out evenly with a spatula. This ensures that every bite has that delicious filling. Then, top it with the frozen tater tots, arranging them in a single layer. They’ll crisp up beautifully in the oven, providing that perfect crunch.",
+            "timing": "5 minutes",
+            "doneness_cue": "Filling should be evenly spread and topped with tater tots."
+        },
+        {
+            "step": 7,
+            "instruction": "Finally, sprinkle the shredded cheddar cheese over the tater tots. This adds a wonderful melty layer on top. Bake in the preheated oven for 30-35 minutes or until the tater tots are golden brown and crispy. Keep an eye on it toward the end; you want that cheese bubbly and the tots perfectly crisp. Let it cool for a few minutes before serving!",
+            "timing": "35 minutes",
+            "doneness_cue": "Tater tots should be golden brown and cheese bubbly."
+        }
+    ],
+    "prep_time": 15,
+    "cook_time": 45,
+    "total_time": 60,
+    "servings": 6,
+    "difficulty": "Easy",
+    "board_name": "Tater Tot Recipes",
+    "tips": "One key technique is to ensure your beef is browned well; this adds depth to your casserole. A common mistake is not allowing it to cool before serving, which can make it runny. If you want to make it ahead, it freezes beautifully, so consider prepping it on the weekend for a quick dinner during the week.",
+    "structured_content": [],
+    "images": [
+        {
+            "fileName": "make-ahead-tater-tot-casserole-for-easy-dinners_image_1.webp",
+            "filePath": "posts/make-ahead-tater-tot-casserole-for-easy-dinners/images/make-ahead-tater-tot-casserole-for-easy-dinners_image_1.webp",
+            "relativePath": "make-ahead-tater-tot-casserole-for-easy-dinners/images/make-ahead-tater-tot-casserole-for-easy-dinners_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "make-ahead-tater-tot-casserole-for-easy-dinners_image_2.webp",
+            "filePath": "posts/make-ahead-tater-tot-casserole-for-easy-dinners/images/make-ahead-tater-tot-casserole-for-easy-dinners_image_2.webp",
+            "relativePath": "make-ahead-tater-tot-casserole-for-easy-dinners/images/make-ahead-tater-tot-casserole-for-easy-dinners_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "make-ahead-tater-tot-casserole-for-easy-dinners_image_3.webp",
+            "filePath": "posts/make-ahead-tater-tot-casserole-for-easy-dinners/images/make-ahead-tater-tot-casserole-for-easy-dinners_image_3.webp",
+            "relativePath": "make-ahead-tater-tot-casserole-for-easy-dinners/images/make-ahead-tater-tot-casserole-for-easy-dinners_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "make-ahead-tater-tot-casserole-for-easy-dinners_pinrecipes_image_4.webp",
+            "filePath": "posts/make-ahead-tater-tot-casserole-for-easy-dinners/images/make-ahead-tater-tot-casserole-for-easy-dinners_pinrecipes_image_4.webp",
+            "relativePath": "make-ahead-tater-tot-casserole-for-easy-dinners/images/make-ahead-tater-tot-casserole-for-easy-dinners_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/make-ahead-tater-tot-casserole-for-easy-dinners/images/make-ahead-tater-tot-casserole-for-easy-dinners_pinrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "make-ahead-tater-tot-casserole-for-easy-dinners_image_1.webp",
+    "image_path": "posts/make-ahead-tater-tot-casserole-for-easy-dinners/images/make-ahead-tater-tot-casserole-for-easy-dinners_image_1.webp",
+    "image_dir": "make-ahead-tater-tot-casserole-for-easy-dinners/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-11T05:28:26+01:00",
+    "updatedAt": "2026-03-11T05:28:26+01:00",
+    "pin_variations": [
+        {
+            "title": "Easy Make Ahead Tater Tot Casserole Recipe",
+            "description": "Whip up this delicious Tater Tot Casserole in advance for stress-free weeknight dinners! Creamy, cheesy, and topped with perfectly crispy tater tots, this dish will be a hit with the whole family. Prep it ahead and enjoy a comforting meal anytime! #TaterTotCasserole #EasyDinner #MealPrep #ComfortFood"
+        },
+        {
+            "title": "Family Favorite: Tater Tot Casserole!",
+            "description": "Discover the ultimate comfort food with our Make Ahead Tater Tot Casserole! This hearty dish is loaded with flavor and can be prepared ahead of time, making dinner a breeze on busy nights. Your family will love diving into this creamy, crispy delight! #FamilyDinner #TaterTots #EasyMeals #Casserole"
+        },
+        {
+            "title": "Prep This Tasty Tater Tot Casserole Today!",
+            "description": "Looking for an easy dinner solution? Try our Make Ahead Tater Tot Casserole! With a rich and creamy filling topped with golden, crispy tots, this dish is perfect for those hectic weeknights. Prep it early, bake it fresh, and enjoy the smiles at the dinner table! #EasyRecipes #TaterTotCasserole #DinnerIdeas #MealPrep"
+        }
+    ]
+}

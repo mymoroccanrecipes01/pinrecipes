@@ -1,0 +1,124 @@
+{
+    "id": "post_1773202901_696",
+    "slug": "creamy-tater-tot-casserole-for-cozy-family-meals",
+    "title": "Creamy Tater Tot Casserole for Cozy Family Meals",
+    "promptIMG": "Food photography: Creamy Tater Tot Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": false,
+    "description": "This creamy tater tot casserole is the ultimate comfort food. With a rich, cheesy sauce and crispy tots, it’s perfect for family dinners or meal prep!",
+    "category_id": "",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 lb ground beef",
+        "1 medium onion, chopped",
+        "2 cups frozen mixed vegetables",
+        "1 can cream of mushroom soup",
+        "1 cup sour cream",
+        "1 cup shredded cheddar cheese",
+        "1 bag (32 oz) frozen tater tots",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preheating your oven to 350°F (175°C). This is crucial because you want the casserole to cook evenly and the tater tots to get that perfect crispy texture. If you skip this step, your casserole might end up unevenly cooked, with mushy tots instead of the golden crunch we all love. While the oven heats up, you can move on to the next step.",
+            "timing": "10 minutes",
+            "doneness_cue": "The oven should be hot and ready for the casserole."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large skillet over medium heat, brown the ground beef along with the chopped onion. This step is essential for developing flavor; the browning process caramelizes the meat and onions, adding depth to your dish. Stir occasionally and break up the beef until it’s fully cooked, which usually takes about 5-7 minutes. Make sure there are no pink bits left—this ensures food safety and a better taste.",
+            "timing": "7 minutes",
+            "doneness_cue": "The meat should be browned with no pink remaining."
+        },
+        {
+            "step": 3,
+            "instruction": "Once the beef is cooked, drain any excess grease and add in the frozen mixed vegetables, cream of mushroom soup, and sour cream. Stir everything together until well combined. The cream of mushroom soup acts as a base, providing creaminess, while the sour cream adds tanginess. If you want to make it even richer, feel free to add more cheese at this stage. Make sure there are no clumps of soup left, as this will lead to uneven texture in your casserole.",
+            "timing": "5 minutes",
+            "doneness_cue": "The mixture should be creamy and well blended."
+        },
+        {
+            "step": 4,
+            "instruction": "Next, season the mixture with salt and pepper to taste. Don’t be shy with the seasoning; it really brings out the flavors of the beef and vegetables. Taste a small spoonful and adjust accordingly. This is your chance to make it your own—consider adding garlic powder or paprika for an extra kick!",
+            "timing": "2 minutes",
+            "doneness_cue": "The mixture should taste well-seasoned and flavorful."
+        },
+        {
+            "step": 5,
+            "instruction": "Transfer the beef and vegetable mixture into a greased 9x13 inch baking dish. Spread it out evenly—this helps ensure that every bite has a good balance of meat and veggies. Once it’s spread out, sprinkle the shredded cheddar cheese on top. The cheese will melt and create a deliciously gooey layer that complements the crispy tater tots beautifully.",
+            "timing": "3 minutes",
+            "doneness_cue": "The mixture should be evenly distributed in the dish."
+        },
+        {
+            "step": 6,
+            "instruction": "Now it’s time to layer on the tater tots! Arrange them in a single layer over the cheese, making sure to cover the entire surface. This is where the magic happens; as they bake, they’ll become golden brown and crispy. If you want, you can sprinkle a little extra cheese on top of the tater tots for added cheesiness. Bake in the preheated oven for about 25-30 minutes until the tots are golden and crispy.",
+            "timing": "30 minutes",
+            "doneness_cue": "The tater tots should be golden brown and crispy on top."
+        },
+        {
+            "step": 7,
+            "instruction": "Once out of the oven, let the casserole cool for about 5 minutes before serving. This resting time allows the flavors to meld and makes serving easier. You’ll want to scoop it out gently to keep those crispy tots intact. Serve it warm and enjoy the creamy, cheesy goodness with your family. This dish pairs wonderfully with a simple side salad or some crusty bread.",
+            "timing": "5 minutes",
+            "doneness_cue": "The casserole should be slightly set but still warm."
+        }
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 6,
+    "difficulty": "Easy",
+    "board_name": "Tater Tot Recipes",
+    "tips": "One key technique is to ensure your beef is well-browned for maximum flavor. A common mistake is not draining excess grease, which can make the casserole oily. For storage, it keeps well in the fridge for a few days, but the tots lose their crispiness when reheated. You can also swap in different vegetables based on what’s in season or what you have on hand for a unique twist.",
+    "structured_content": [],
+    "images": [
+        {
+            "fileName": "creamy-tater-tot-casserole-for-cozy-family-meals_image_1.webp",
+            "filePath": "posts/creamy-tater-tot-casserole-for-cozy-family-meals/images/creamy-tater-tot-casserole-for-cozy-family-meals_image_1.webp",
+            "relativePath": "creamy-tater-tot-casserole-for-cozy-family-meals/images/creamy-tater-tot-casserole-for-cozy-family-meals_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "creamy-tater-tot-casserole-for-cozy-family-meals_image_2.webp",
+            "filePath": "posts/creamy-tater-tot-casserole-for-cozy-family-meals/images/creamy-tater-tot-casserole-for-cozy-family-meals_image_2.webp",
+            "relativePath": "creamy-tater-tot-casserole-for-cozy-family-meals/images/creamy-tater-tot-casserole-for-cozy-family-meals_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "creamy-tater-tot-casserole-for-cozy-family-meals_image_3.webp",
+            "filePath": "posts/creamy-tater-tot-casserole-for-cozy-family-meals/images/creamy-tater-tot-casserole-for-cozy-family-meals_image_3.webp",
+            "relativePath": "creamy-tater-tot-casserole-for-cozy-family-meals/images/creamy-tater-tot-casserole-for-cozy-family-meals_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "creamy-tater-tot-casserole-for-cozy-family-meals_pinrecipes_image_4.webp",
+            "filePath": "posts/creamy-tater-tot-casserole-for-cozy-family-meals/images/creamy-tater-tot-casserole-for-cozy-family-meals_pinrecipes_image_4.webp",
+            "relativePath": "creamy-tater-tot-casserole-for-cozy-family-meals/images/creamy-tater-tot-casserole-for-cozy-family-meals_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/creamy-tater-tot-casserole-for-cozy-family-meals/images/creamy-tater-tot-casserole-for-cozy-family-meals_pinrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "creamy-tater-tot-casserole-for-cozy-family-meals_image_1.webp",
+    "image_path": "posts/creamy-tater-tot-casserole-for-cozy-family-meals/images/creamy-tater-tot-casserole-for-cozy-family-meals_image_1.webp",
+    "image_dir": "creamy-tater-tot-casserole-for-cozy-family-meals/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-11T05:21:41+01:00",
+    "updatedAt": "2026-03-11T05:21:41+01:00",
+    "pin_variations": [
+        {
+            "title": "Ultimate Creamy Tater Tot Casserole Recipe",
+            "description": "Indulge in the rich flavors of this creamy tater tot casserole! Perfect for family dinners, this dish combines a velvety cheese sauce with crispy tater tots for a cozy meal everyone will love. Great for meal prep too! 🍽️ #TaterTotCasserole #ComfortFood #FamilyMeals #EasyRecipes"
+        },
+        {
+            "title": "Cozy Up with Tater Tot Casserole",
+            "description": "Warm your family’s hearts with this creamy tater tot casserole! With layers of cheesy goodness and crunchy tots, it brings comfort to the dinner table. Ideal for busy nights and make-ahead meals. Try it today! 🏠❤️ #ComfortCooking #MealPrep #CasseroleRecipes #TaterTots"
+        },
+        {
+            "title": "Cheesy Tater Tot Casserole for Family Fun",
+            "description": "Gather around this cheesy tater tot casserole that's perfect for family fun! With its creamy sauce and crispy topping, this dish transforms ordinary dinners into delightful feasts. A must-try for any comfort food lover! 🥘 #FamilyDinner #CheesyGoodness #TaterTotLove #RecipeOfTheDay"
+        }
+    ]
+}

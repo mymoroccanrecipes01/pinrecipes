@@ -1,0 +1,150 @@
+{
+    "id": "post_1773200294_127",
+    "slug": "delicious-protein-coffee-smoothie-for-a-healthy-boost",
+    "title": "Delicious Protein Coffee Smoothie for a Healthy Boost",
+    "promptIMG": "Food photography: Protein Coffee Smoothie, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": true,
+    "description": "This protein coffee smoothie is a game-changer for busy mornings. Packed with nutrients and flavor, it's perfect for a quick breakfast or post-workout boost!",
+    "category_id": "cat_1761230119_510",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 cup brewed coffee, cooled",
+        "1 banana, frozen",
+        "1\/2 cup Greek yogurt",
+        "1 scoop protein powder (vanilla or chocolate)",
+        "1 tablespoon almond butter",
+        "1 tablespoon honey or maple syrup (optional)",
+        "Ice cubes (optional, for thickness)"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by brewing a cup of your favorite coffee. Let it cool to room temperature to avoid melting the other ingredients too quickly. This step is crucial because if the coffee is too hot, it can affect the texture of the smoothie, making it more watery than creamy. I usually brew mine the night before and store it in the fridge, so it's ready to go in the morning.",
+            "timing": "5 minutes",
+            "doneness_cue": "Coffee should be cooled to room temperature before blending."
+        },
+        {
+            "step": 2,
+            "instruction": "In a blender, combine the cooled coffee, frozen banana, Greek yogurt, protein powder, and almond butter. Blend on high until smooth, which usually takes about 30-60 seconds. The frozen banana is key here; it not only adds natural sweetness but also gives the smoothie its thick, creamy texture. If you find it too thick, you can add a splash of milk or water to loosen it up.",
+            "timing": "1 minute",
+            "doneness_cue": "The mixture should be smooth and creamy with no lumps."
+        },
+        {
+            "step": 3,
+            "instruction": "Taste your smoothie and adjust sweetness if needed. If you prefer a sweeter smoothie, add honey or maple syrup, blending again to combine. This step is all about personal preference; some days I like it sweeter, while others I enjoy the natural flavors of the coffee and banana. Just remember, the sweetness will intensify as it chills, so don't overdo it!",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie should taste balanced and flavorful."
+        },
+        {
+            "step": 4,
+            "instruction": "If you want a thicker texture, add a handful of ice cubes and blend again until smooth. This is optional, but I find that a little ice gives it a refreshing chill, especially on hot days. Just be careful not to add too much ice, or it can dilute the coffee flavor. Blend until the ice is fully incorporated and the smoothie is frosty.",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie should be thick and frosty, with no ice chunks."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the smoothie into two glasses or a large travel cup if you're on the go. I love using mason jars because they keep everything fresh and are super cute! You can also top it with a sprinkle of cinnamon or a drizzle of almond butter for an extra touch. Presentation matters, and a little garnish can make your morning feel special.",
+            "timing": "2 minutes",
+            "doneness_cue": "Smoothie should be evenly distributed between glasses."
+        },
+        {
+            "step": 6,
+            "instruction": "Enjoy your smoothie immediately for the best flavor and texture. If you have leftovers, store them in the fridge, but keep in mind that the texture may change slightly. I recommend giving it a good shake or stir before drinking if it's been sitting for a while. This smoothie is best consumed fresh, but it can last for a day in the fridge if needed.",
+            "timing": "0 minutes",
+            "doneness_cue": "Smoothie should be consumed fresh for optimal taste."
+        },
+        {
+            "step": 7,
+            "instruction": "Feel free to experiment with variations! You can add spinach for an extra nutrient boost, or swap the almond butter for peanut butter if you prefer. The beauty of this smoothie is its versatility; you can adjust it based on what you have on hand or what flavors you love. Just remember to keep the coffee as the star!",
+            "timing": "0 minutes",
+            "doneness_cue": "Smoothie should be tailored to your taste preferences."
+        }
+    ],
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "servings": 2,
+    "difficulty": "Easy",
+    "board_name": "Coffee Recipes",
+    "tips": "When making this smoothie, remember to use chilled coffee for the best flavor. If you’re short on time, brew the coffee the night before and refrigerate it. Also, adding a pinch of cinnamon can enhance the flavor profile beautifully. Don't forget to blend long enough for a smooth texture!",
+    "structured_content": [
+        {
+            "content": "<p>This protein coffee smoothie is one of my go-to recipes for busy mornings. It’s quick, delicious, and gives me the energy I need to start my day right. The combination of coffee and protein makes it a perfect breakfast or post-workout snack!<\/p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>You'll need brewed coffee, a frozen banana, Greek yogurt, protein powder, and almond butter. These ingredients work together to create a creamy, satisfying smoothie. If you're out of almond butter, peanut butter is a great substitute!<\/p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Simply blend all the ingredients until smooth, and you’re good to go! The frozen banana is key to achieving that thick texture we all love in smoothies.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Protein coffee smoothie in a glass on a wooden table",
+                "url": "delicious-protein-coffee-smoothie-for-a-healthy-boost\/images\/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_1.webp",
+                "fileName": "delicious-protein-coffee-smoothie-for-a-healthy-boost_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>Serve this smoothie immediately for the best flavor. It’s also great for meal prep; just store it in the fridge for later!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "delicious-protein-coffee-smoothie-for-a-healthy-boost_image_1.webp",
+            "filePath": "posts\/delicious-protein-coffee-smoothie-for-a-healthy-boost\/images\/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_1.webp",
+            "relativePath": "delicious-protein-coffee-smoothie-for-a-healthy-boost\/images\/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "delicious-protein-coffee-smoothie-for-a-healthy-boost_image_2.webp",
+            "filePath": "posts\/delicious-protein-coffee-smoothie-for-a-healthy-boost\/images\/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_2.webp",
+            "relativePath": "delicious-protein-coffee-smoothie-for-a-healthy-boost\/images\/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "delicious-protein-coffee-smoothie-for-a-healthy-boost_image_3.webp",
+            "filePath": "posts\/delicious-protein-coffee-smoothie-for-a-healthy-boost\/images\/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_3.webp",
+            "relativePath": "delicious-protein-coffee-smoothie-for-a-healthy-boost\/images\/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "delicious-protein-coffee-smoothie-for-a-healthy-boost_pinrecipes_image_4.webp",
+            "filePath": "posts\/delicious-protein-coffee-smoothie-for-a-healthy-boost\/images\/delicious-protein-coffee-smoothie-for-a-healthy-boost_pinrecipes_image_4.webp",
+            "relativePath": "delicious-protein-coffee-smoothie-for-a-healthy-boost\/images\/delicious-protein-coffee-smoothie-for-a-healthy-boost_pinrecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/delicious-protein-coffee-smoothie-for-a-healthy-boost\/images\/delicious-protein-coffee-smoothie-for-a-healthy-boost_pinrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "delicious-protein-coffee-smoothie-for-a-healthy-boost_image_1.webp",
+    "image_path": "posts\/delicious-protein-coffee-smoothie-for-a-healthy-boost\/images\/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_1.webp",
+    "image_dir": "delicious-protein-coffee-smoothie-for-a-healthy-boost\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-11T16:58:05+01:00",
+    "updatedAt": "2026-03-11T16:58:05+01:00",
+    "pin_variations": [
+        {
+            "title": "Revitalize Your Mornings with Protein Coffee Smoothie",
+            "description": "Start your day right with this Protein Coffee Smoothie! This energizing blend is not only delicious but also packed with essential nutrients to fuel your busy mornings. Perfect for quick breakfasts or post-workout recovery. Grab your blender and whip up this tasty treat that combines the rich flavors of coffee with a protein punch! #ProteinSmoothie #HealthyBreakfast #CoffeeLovers #FitLifestyle"
+        },
+        {
+            "title": "Boost Your Day with a Coffee Protein Powerhouse",
+            "description": "Discover the ultimate morning boost! This Coffee Protein Smoothie is a fantastic way to energize your day while satisfying your taste buds. With its creamy texture and rich flavor, it’s a delicious treat that’s easy to make. Ideal for those rushed mornings or as a refreshing post-workout drink. Don't miss out on this healthy delight! #CoffeeSmoothie #ProteinPacked #HealthyEating #FitnessFuel"
+        },
+        {
+            "title": "Quick & Nutritious: Protein Coffee Smoothie Recipe",
+            "description": "Say goodbye to boring breakfasts with this Protein Coffee Smoothie! Packed with flavor and nutrients, it’s the perfect solution for busy days. Whether you're looking for a quick breakfast or a post-exercise refresher, this smoothie has you covered. Blend it up and enjoy the deliciousness that offers a great energy boost! #NutritiousSmoothie #HealthyLiving #CoffeeAddict #MorningRoutine"
+        }
+    ]
+}

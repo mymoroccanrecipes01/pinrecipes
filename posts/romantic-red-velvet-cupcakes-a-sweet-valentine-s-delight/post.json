@@ -39,7 +39,7 @@
             ]
         }
     ],
-    "why_this_recipe_works": "<p>Red velvet cupcakes sit at an interesting intersection of acidity, fat, and leavening chemistry. The pairing of buttermilk and vinegar isn't arbitrary — both are acidic, and that acidity does two important jobs. First, it reacts with the baking soda to produce carbon dioxide bubbles, which creates lift and a light, open crumb. Second, the acid in buttermilk partially denatures the gluten proteins in the flour, preventing the batter from developing a tough, dense structure. The result is a noticeably tender crumb that's softer than a standard vanilla cupcake.<\/p><p>The cocoa powder, though used in a small amount here, plays a structural and flavor role. Historically, natural cocoa powder reacted with acidic ingredients to produce a reddish pigment in the batter — that's the original source of the 'red' in red velvet. Modern cocoa is often Dutch-processed and won't produce that reaction, so food coloring fills the visual gap. Using just one tablespoon of cocoa keeps the chocolate flavor subtle and in the background, where it belongs. More than that, and the cupcake reads as chocolate rather than red velvet.<\/p><p>Oil rather than butter keeps these cupcakes moist for several days after baking. Butter contains water (roughly 16–18%), which evaporates during baking and contributes to staling. Oil is 100% fat and doesn't evaporate, so it stays in the crumb and keeps the texture soft over time. The trade-off is that butter adds more flavor than oil, which is why the vanilla and the small amount of cocoa carry more weight in this recipe — they compensate for oil's neutral taste.<\/p><p>For the frosting, full-fat cream cheese and room-temperature butter are non-negotiable. Cold cream cheese will leave lumps that never fully smooth out, no matter how long you beat the mixture. Softened cream cheese blends evenly with butter from the first few strokes, producing a frosting that's thick, stable, and spreadable without being greasy. Sifting the powdered sugar eliminates clumps and lets it incorporate without overworking the frosting.<\/p>",
+    "why_this_recipe_works": "<p>Red velvet cupcakes sit at an interesting intersection of acidity, fat, and leavening chemistry. The pairing of buttermilk and vinegar isn't arbitrary — both are acidic, and that acidity does two important jobs. First, it reacts with the baking soda to produce carbon dioxide bubbles, which creates lift and a light, open crumb. Second, the acid in buttermilk partially denatures the gluten proteins in the flour, preventing the batter from developing a tough, dense structure. The result is a noticeably tender crumb that's softer than a standard vanilla cupcake.</p><p>The cocoa powder, though used in a small amount here, plays a structural and flavor role. Historically, natural cocoa powder reacted with acidic ingredients to produce a reddish pigment in the batter — that's the original source of the 'red' in red velvet. Modern cocoa is often Dutch-processed and won't produce that reaction, so food coloring fills the visual gap. Using just one tablespoon of cocoa keeps the chocolate flavor subtle and in the background, where it belongs. More than that, and the cupcake reads as chocolate rather than red velvet.</p><p>Oil rather than butter keeps these cupcakes moist for several days after baking. Butter contains water (roughly 16–18%), which evaporates during baking and contributes to staling. Oil is 100% fat and doesn't evaporate, so it stays in the crumb and keeps the texture soft over time. The trade-off is that butter adds more flavor than oil, which is why the vanilla and the small amount of cocoa carry more weight in this recipe — they compensate for oil's neutral taste.</p><p>For the frosting, full-fat cream cheese and room-temperature butter are non-negotiable. Cold cream cheese will leave lumps that never fully smooth out, no matter how long you beat the mixture. Softened cream cheese blends evenly with butter from the first few strokes, producing a frosting that's thick, stable, and spreadable without being greasy. Sifting the powdered sugar eliminates clumps and lets it incorporate without overworking the frosting.</p>",
     "instructions": [
         {
             "step": 1,
@@ -164,7 +164,7 @@
         },
         {
             "name": "Mini Red Velvet Cupcakes",
-            "description": "Use a 24-cup mini muffin tin with mini liners and fill each cup halfway. Bake at the same temperature (350°F \/ 175°C) for 10–12 minutes. All other steps remain identical. Mini cupcakes work well for parties and bake sales since they're easier to handle and portion.",
+            "description": "Use a 24-cup mini muffin tin with mini liners and fill each cup halfway. Bake at the same temperature (350°F / 175°C) for 10–12 minutes. All other steps remain identical. Mini cupcakes work well for parties and bake sales since they're easier to handle and portion.",
             "technical_note": "Because mini cupcakes have a much higher surface-area-to-volume ratio, they dry out faster than standard cupcakes. If making these ahead, store them unfrosted and frost within a few hours of serving."
         },
         {
@@ -219,15 +219,15 @@
     "internal_links": [
         {
             "anchor": "how buttermilk affects baked goods texture",
-            "url": "\/posts\/buttermilk-baking-science"
+            "url": "/posts/buttermilk-baking-science"
         },
         {
             "anchor": "cream cheese frosting ratios and consistency guide",
-            "url": "\/posts\/cream-cheese-frosting-guide"
+            "url": "/posts/cream-cheese-frosting-guide"
         },
         {
             "anchor": "oil vs butter in cake recipes",
-            "url": "\/posts\/oil-vs-butter-baking"
+            "url": "/posts/oil-vs-butter-baking"
         }
     ],
     "category_id": "cat_1761230221_583",
@@ -242,39 +242,63 @@
     "images": [
         {
             "fileName": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_1.webp",
-            "filePath": "posts\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight\/images\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_1.webp",
-            "relativePath": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight\/images\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
+            "filePath": "posts/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_1.webp",
+            "relativePath": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
             "order": 1
         },
         {
             "fileName": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_2.webp",
-            "filePath": "posts\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight\/images\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_2.webp",
-            "relativePath": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight\/images\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
+            "filePath": "posts/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_2.webp",
+            "relativePath": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
             "order": 2
         },
         {
             "fileName": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_3.webp",
-            "filePath": "posts\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight\/images\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_3.webp",
-            "relativePath": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight\/images\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
+            "filePath": "posts/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_3.webp",
+            "relativePath": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
         },
         {
-            "fileName": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_4.webp",
-            "filePath": "posts\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight\/images\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_4.webp",
-            "relativePath": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight\/images\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight\/images\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_4.webp",
+            "fileName": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_1.webp",
+            "filePath": "posts/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_1.webp",
+            "relativePath": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_1.webp",
             "order": 4,
+            "type": "template"
+        },
+        {
+            "fileName": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_2.webp",
+            "filePath": "posts/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_2.webp",
+            "relativePath": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_2.webp",
+            "order": 5,
+            "type": "template"
+        },
+        {
+            "fileName": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_3.webp",
+            "filePath": "posts/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_3.webp",
+            "relativePath": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_3.webp",
+            "order": 6,
+            "type": "template"
+        },
+        {
+            "fileName": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_4.webp",
+            "filePath": "posts/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_4.webp",
+            "relativePath": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_pinrecipes_image_4.webp",
+            "order": 7,
             "type": "template"
         }
     ],
     "slug": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight",
     "id": "post_1772946685_287",
     "image": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_1.webp",
-    "image_path": "posts\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight\/images\/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_1.webp",
-    "image_dir": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight\/images",
+    "image_path": "posts/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images/romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight_image_1.webp",
+    "image_dir": "romantic-red-velvet-cupcakes-a-sweet-valentine-s-delight/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2026-03-10T01:31:16+01:00",
