@@ -1,0 +1,151 @@
+{
+    "id": "post_1773194354_649",
+    "slug": "quick-and-easy-banana-bread-recipe-in-just-60-minutes",
+    "title": "Quick and Easy Banana Bread Recipe in Just 60 Minutes",
+    "promptIMG": "Food photography: Banana bread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": false,
+    "description": "This quick banana bread is a delightful treat that comes together in just an hour. With ripe bananas and a hint of cinnamon, it's perfect for breakfast or a snack!",
+    "category_id": "cat_1761230294_638",
+    "author_id": "author_001",
+    "ingredients": [
+        "3 ripe bananas, mashed",
+        "1/3 cup melted butter",
+        "1 teaspoon baking soda",
+        "Pinch of salt",
+        "3/4 cup sugar",
+        "1 large egg, beaten",
+        "1 teaspoon vanilla extract",
+        "1 cup all-purpose flour"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). This is crucial because a properly preheated oven ensures that your banana bread bakes evenly. If you skip this step, your bread may not rise properly or could turn out dense. Make sure the oven is hot before you put the batter in!",
+            "timing": "10 minutes",
+            "doneness_cue": "The oven should be hot enough that you can feel the heat radiating when you open the door."
+        },
+        {
+            "step": 2,
+            "instruction": "In a mixing bowl, mash the ripe bananas with a fork until smooth. The riper the bananas, the sweeter and more flavorful your bread will be. This step is essential because it breaks down the bananas, allowing them to blend seamlessly into the batter. If you find any lumps, just keep mashing!",
+            "timing": "5 minutes",
+            "doneness_cue": "The bananas should be fully mashed with no large chunks remaining."
+        },
+        {
+            "step": 3,
+            "instruction": "Stir the melted butter into the mashed bananas. This adds richness and moisture to your bread. Make sure the butter is not too hot when you add it, or it could cook the egg in the next step. Just let it cool slightly if needed, and mix until well combined.",
+            "timing": "2 minutes",
+            "doneness_cue": "The mixture should be smooth and well incorporated."
+        },
+        {
+            "step": 4,
+            "instruction": "Mix in the baking soda and salt. This is where the leavening magic begins! The baking soda reacts with the acidity in the bananas, helping the bread rise. Be sure to mix thoroughly so the baking soda is evenly distributed; otherwise, you might end up with unevenly risen bread.",
+            "timing": "2 minutes",
+            "doneness_cue": "You should see no dry spots of baking soda or salt in the batter."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the sugar, beaten egg, and vanilla extract to the banana mixture, stirring until everything is well combined. The sugar not only sweetens the bread but also contributes to its texture. If you prefer a less sweet bread, you can reduce the sugar slightly, but keep in mind it may affect the moisture level.",
+            "timing": "2 minutes",
+            "doneness_cue": "The batter should be smooth and glossy."
+        },
+        {
+            "step": 6,
+            "instruction": "Gently fold in the all-purpose flour until just combined. Be careful not to overmix; this can lead to a tough loaf. You want to see some flour still visible when you pour it into the loaf pan. Overmixing activates the gluten in the flour, resulting in a denser texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "The batter should be thick but still pourable, with no dry flour visible."
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into a greased loaf pan and smooth the top. Bake in the preheated oven for about 45 minutes, or until a toothpick inserted into the center comes out clean. If the top is browning too quickly, you can cover it with aluminum foil. This step is important to ensure even baking and to prevent burning.",
+            "timing": "45 minutes",
+            "doneness_cue": "The bread should be golden brown on top and a toothpick should come out clean when inserted."
+        }
+    ],
+    "prep_time": 15,
+    "cook_time": 45,
+    "total_time": 60,
+    "servings": 8,
+    "difficulty": "Easy",
+    "board_name": "Easy Banana Bread",
+    "tips": "When making banana bread, the key is to use very ripe bananas for maximum sweetness and moisture. Also, be careful not to overmix your batter; this will keep your bread light and fluffy. If you want to add a twist, try incorporating nuts or chocolate chips for added flavor and texture!",
+    "structured_content": [
+        {
+            "content": "<p>Banana bread is one of those comforting recipes that brings back memories of home. I remember my mom making it on lazy Sunday mornings, filling the house with the sweet aroma of baking. This quick banana bread recipe is not only easy but also incredibly satisfying. It’s perfect for breakfast or as a snack, and you can whip it up in just an hour!</p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>Here's the thing - For this recipe, you'll need ripe bananas, melted butter, sugar, an egg, vanilla extract, baking soda, salt, and all-purpose flour. The bananas are the star of the show, so make sure they’re really ripe for the best flavor. You can also swap out the butter for coconut oil if you're looking for a dairy-free option.</p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Making this banana bread is a breeze! Start by preheating your oven and mashing the bananas in a bowl. Mix in the melted butter, then add the rest of the wet ingredients before folding in the flour. Bake until golden brown, and you’ll have a delicious loaf ready in no time!</p>"
+        },
+        {
+            "upload": {
+                "context": "Freshly baked banana bread on a wooden cutting board",
+                "url": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
+                "fileName": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>This banana bread is delightful on its own, but feel free to enjoy it with a spread of butter or cream cheese. You can also serve it with a side of fresh fruit for a complete breakfast. If you have leftovers, it makes for a great snack too!</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
+            "filePath": "posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
+            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_2.webp",
+            "filePath": "posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_2.webp",
+            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_3.webp",
+            "filePath": "posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_3.webp",
+            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_4.webp",
+            "filePath": "posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_4.webp",
+            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
+    "image_path": "posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
+    "image_dir": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-11T02:59:14+01:00",
+    "updatedAt": "2026-03-11T02:59:14+01:00",
+    "pin_variations": [
+        {
+            "title": "Delicious Banana Bread in 60 Minutes!",
+            "description": "Whip up this scrumptious banana bread in just an hour! Perfect for breakfast or a quick snack, this easy recipe combines ripe bananas and a dash of cinnamon for a delightful treat. Get ready to impress your family and friends with your baking skills! 🍌🍞 #BananaBread #QuickRecipes #BakingAtHome #EasyDesserts #Yummy"
+        },
+        {
+            "title": "60-Minute Banana Bread: Quick & Tasty!",
+            "description": "Make your mornings sweeter with this quick and easy banana bread recipe! In just 60 minutes, you’ll have a warm, fragrant loaf perfect for breakfast or an afternoon snack. With the sweetness of ripe bananas and a sprinkle of cinnamon, it's a bake that everyone will love! 🌟 #BananaBread #QuickAndEasy #SnackIdeas #BakingLove #ComfortFood"
+        },
+        {
+            "title": "One-Hour Banana Bread: Simple & Delicious!",
+            "description": "No more waiting for baked goodness! This one-hour banana bread recipe is as simple as it gets. Ripe bananas and a hint of cinnamon make every slice a delectable treat. Perfect for sharing or savoring solo with a cup of coffee! ☕🍌 #QuickBaking #BananaBreadRecipe #EasyBakes #HomemadeGoodness #DessertLovers"
+        }
+    ]
+}
