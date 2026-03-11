@@ -1,0 +1,124 @@
+{
+    "id": "post_1773193860_589",
+    "slug": "the-easiest-banana-bread-recipe-you-ll-ever-make",
+    "title": "The Easiest Banana Bread Recipe You’ll Ever Make",
+    "promptIMG": "Food photography: Banana bread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": false,
+    "description": "This banana bread is moist, flavorful, and easy to whip up. With just a few overripe bananas, you can create a delicious treat perfect for breakfast or a snack!",
+    "category_id": "",
+    "author_id": "author_001",
+    "ingredients": [
+        "3 overripe bananas, mashed",
+        "1/3 cup melted butter",
+        "1 teaspoon baking soda",
+        "Pinch of salt",
+        "3/4 cup sugar",
+        "1 large egg, beaten",
+        "1 teaspoon vanilla extract",
+        "1 cup all-purpose flour"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). This step is crucial because a properly preheated oven ensures even baking. If you skip this, your banana bread might bake unevenly, resulting in a soggy center or burnt edges. Make sure to give your oven at least 10-15 minutes to reach the right temperature before you put the loaf in.",
+            "timing": "10 minutes",
+            "doneness_cue": "The oven should be hot enough to sizzle a drop of water."
+        },
+        {
+            "step": 2,
+            "instruction": "In a mixing bowl, mash the overripe bananas with a fork until smooth. This is where all that delicious flavor comes from! The more ripe the bananas, the sweeter and more flavorful your bread will be. Avoid using bananas that are still firm as they won’t provide the same moisture. Aim for bananas that are heavily speckled or even blackened for the best results.",
+            "timing": "5 minutes",
+            "doneness_cue": "Bananas should be completely smooth with no chunks."
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the melted butter to the mashed bananas. This adds richness and moisture to the bread. It’s important that the butter is melted and not just softened; otherwise, it won’t incorporate properly. Mix until combined, but don’t worry about overmixing at this stage since you’ll have other ingredients to add soon.",
+            "timing": "2 minutes",
+            "doneness_cue": "The mixture should be well combined and glossy."
+        },
+        {
+            "step": 4,
+            "instruction": "Add in the baking soda and salt. This is where the leavening magic happens! The baking soda reacts with the acidity in the bananas, helping the bread rise. Make sure to mix it in thoroughly to avoid any bitter spots. A common mistake is to forget the salt, which can dull the flavors of your bread.",
+            "timing": "2 minutes",
+            "doneness_cue": "The mixture should have a uniform consistency."
+        },
+        {
+            "step": 5,
+            "instruction": "Mix in the sugar, beaten egg, and vanilla extract. The sugar adds sweetness, while the egg helps bind everything together. Make sure to combine these ingredients well; this is where the flavor truly starts to develop. You can use brown sugar for a richer flavor, but don’t skip the sugar altogether, as it’s essential for texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "The batter should be cohesive and slightly thick."
+        },
+        {
+            "step": 6,
+            "instruction": "Finally, fold in the flour gently. This is crucial because overmixing can lead to tough banana bread. Just mix until you see no more dry flour. If you want to add nuts or chocolate chips, this is the time to do it! Gently fold them in to keep the batter light and airy.",
+            "timing": "2 minutes",
+            "doneness_cue": "The batter should be just combined, with no dry flour visible."
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into a greased loaf pan and bake for 60 minutes. Check for doneness by inserting a toothpick into the center; it should come out clean or with a few crumbs attached. If it's still wet, give it another 5-10 minutes. Don’t open the oven door too early, as this can cause the bread to collapse.",
+            "timing": "60 minutes",
+            "doneness_cue": "A toothpick inserted in the center comes out clean."
+        }
+    ],
+    "prep_time": 10,
+    "cook_time": 60,
+    "total_time": 70,
+    "servings": 8,
+    "difficulty": "Easy",
+    "board_name": "Easy Banana Bread",
+    "tips": "When making banana bread, the ripeness of your bananas is key. The riper they are, the better the flavor and moisture. I've also found that adding a sprinkle of cinnamon can elevate the taste. If you have leftovers, try toasting slices for breakfast the next day—it’s a game changer!",
+    "structured_content": [],
+    "images": [
+        {
+            "fileName": "the-easiest-banana-bread-recipe-you-ll-ever-make_image_1.webp",
+            "filePath": "posts/the-easiest-banana-bread-recipe-you-ll-ever-make/images/the-easiest-banana-bread-recipe-you-ll-ever-make_image_1.webp",
+            "relativePath": "the-easiest-banana-bread-recipe-you-ll-ever-make/images/the-easiest-banana-bread-recipe-you-ll-ever-make_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "the-easiest-banana-bread-recipe-you-ll-ever-make_image_2.webp",
+            "filePath": "posts/the-easiest-banana-bread-recipe-you-ll-ever-make/images/the-easiest-banana-bread-recipe-you-ll-ever-make_image_2.webp",
+            "relativePath": "the-easiest-banana-bread-recipe-you-ll-ever-make/images/the-easiest-banana-bread-recipe-you-ll-ever-make_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "the-easiest-banana-bread-recipe-you-ll-ever-make_image_3.webp",
+            "filePath": "posts/the-easiest-banana-bread-recipe-you-ll-ever-make/images/the-easiest-banana-bread-recipe-you-ll-ever-make_image_3.webp",
+            "relativePath": "the-easiest-banana-bread-recipe-you-ll-ever-make/images/the-easiest-banana-bread-recipe-you-ll-ever-make_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "the-easiest-banana-bread-recipe-you-ll-ever-make_pinrecipes_image_4.webp",
+            "filePath": "posts/the-easiest-banana-bread-recipe-you-ll-ever-make/images/the-easiest-banana-bread-recipe-you-ll-ever-make_pinrecipes_image_4.webp",
+            "relativePath": "the-easiest-banana-bread-recipe-you-ll-ever-make/images/the-easiest-banana-bread-recipe-you-ll-ever-make_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/the-easiest-banana-bread-recipe-you-ll-ever-make/images/the-easiest-banana-bread-recipe-you-ll-ever-make_pinrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "the-easiest-banana-bread-recipe-you-ll-ever-make_image_1.webp",
+    "image_path": "posts/the-easiest-banana-bread-recipe-you-ll-ever-make/images/the-easiest-banana-bread-recipe-you-ll-ever-make_image_1.webp",
+    "image_dir": "the-easiest-banana-bread-recipe-you-ll-ever-make/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-11T02:51:00+01:00",
+    "updatedAt": "2026-03-11T02:51:00+01:00",
+    "pin_variations": [
+        {
+            "title": "Quick & Easy Moist Banana Bread Recipe",
+            "description": "Discover the secret to the perfect banana bread! This recipe uses just a few overripe bananas to create a moist and flavorful treat. Perfect for breakfast or a tasty snack. Try it now and impress your family! #BananaBread #EasyRecipes #Baking"
+        },
+        {
+            "title": "Irresistible Banana Bread in Just 1 Hour!",
+            "description": "Whip up a delicious banana bread in no time! This simple recipe requires minimal ingredients and is packed with flavor. Ideal for using up those overripe bananas and making a delightful snack or breakfast option. #QuickBaking #BananaBread #SnackIdeas"
+        },
+        {
+            "title": "Ultimate Banana Bread: Simple & Delicious!",
+            "description": "Bake the ultimate banana bread that is both simple and delicious! With only a few ingredients, you can transform overripe bananas into a moist and flavorful loaf. Perfect for any time of day! #BakingTime #BananaBread #HomemadeGoodness"
+        }
+    ]
+}

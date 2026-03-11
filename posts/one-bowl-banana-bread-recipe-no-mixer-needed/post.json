@@ -1,0 +1,151 @@
+{
+    "id": "post_1773194032_359",
+    "slug": "one-bowl-banana-bread-recipe-no-mixer-needed",
+    "title": "One Bowl Banana Bread Recipe No Mixer Needed",
+    "promptIMG": "Food photography: One Bowl Banana Bread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": false,
+    "description": "This one-bowl banana bread is a breeze to whip up and perfect for using overripe bananas. No mixer means less cleanup, and it bakes up moist and delicious. Great for breakfast or a snack!",
+    "category_id": "cat_1761230294_638",
+    "author_id": "author_001",
+    "ingredients": [
+        "3 ripe bananas, mashed",
+        "1/3 cup melted butter",
+        "1 teaspoon baking soda",
+        "Pinch of salt",
+        "3/4 cup sugar",
+        "1 large egg, beaten",
+        "1 teaspoon vanilla extract",
+        "1 cup all-purpose flour"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). This step is crucial because starting with a hot oven helps the bread rise properly. If you skip this, the bread may not rise as much and could end up dense. Make sure your oven is fully preheated before you put the loaf in!",
+            "timing": "10 minutes",
+            "doneness_cue": "The oven should be hot enough that you can feel the heat when you open the door."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, mash the ripe bananas with a fork until smooth. You want them to be well mashed to ensure even distribution in the batter. If there are small lumps, that’s okay, but avoid large chunks. This step is important for the flavor and texture of the bread.",
+            "timing": "2 minutes",
+            "doneness_cue": "The bananas should be mostly smooth with just a few small lumps."
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the melted butter. The warmth of the butter will help blend the ingredients together seamlessly. Make sure it’s not too hot, or it could cook the egg when you add it next. Combining these first ingredients creates a rich base for your bread.",
+            "timing": "1 minute",
+            "doneness_cue": "The mixture should look glossy and well combined."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the baking soda and salt to the mixture, stirring well to incorporate. This step is vital as the baking soda is what helps the bread rise. Make sure to mix thoroughly to avoid any pockets of baking soda, which can lead to a bitter taste.",
+            "timing": "1 minute",
+            "doneness_cue": "You should see no dry baking soda or salt remaining in the mixture."
+        },
+        {
+            "step": 5,
+            "instruction": "Mix in the sugar, beaten egg, and vanilla extract until fully combined. This is where the sweetness comes from, so make sure to mix well. The egg adds moisture and helps bind the ingredients together, while the vanilla enhances the flavor.",
+            "timing": "2 minutes",
+            "doneness_cue": "The batter should look smooth and slightly thickened."
+        },
+        {
+            "step": 6,
+            "instruction": "Finally, gently fold in the flour until just combined. Be careful not to overmix, as this can lead to a tough loaf. You want to see a few streaks of flour remaining; this ensures the bread stays tender. This step is crucial for achieving that perfect texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "The batter should be thick and slightly lumpy, with no dry flour visible."
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into a greased loaf pan and smooth the top. Bake for 50-60 minutes, or until a toothpick inserted comes out clean. If the top browns too quickly, you can cover it with foil. This final step is where the magic happens, as the bread rises and develops that delightful golden crust.",
+            "timing": "60 minutes",
+            "doneness_cue": "The top should be golden brown, and a toothpick should come out clean."
+        }
+    ],
+    "prep_time": 10,
+    "cook_time": 60,
+    "total_time": 70,
+    "servings": 8,
+    "difficulty": "Easy",
+    "board_name": "Easy Banana Bread",
+    "tips": "When making banana bread, it’s best to use very ripe bananas for maximum sweetness. Also, avoid overmixing the batter to keep it light and fluffy. If you're looking for a twist, try adding nuts or chocolate chips for extra flavor!",
+    "structured_content": [
+        {
+            "content": "<p>This one-bowl banana bread is the ultimate comfort food. It's simple to make and perfect for using up those overripe bananas that often sit in your fruit bowl. With just a few ingredients and no mixer required, you'll have a delicious loaf to enjoy in no time!</p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p>You'll need ripe bananas, melted butter, sugar, an egg, and flour. The key here is the bananas; the riper, the better! They provide natural sweetness and moisture, making the bread incredibly tender. If you're out of eggs, don't worry—there are great substitutes!</p>"
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p>Here's the thing - Start by preheating your oven and mashing the bananas in a bowl. Next, mix in the melted butter, sugar, and egg. Finally, fold in the flour until just combined. Pour it into a loaf pan and let the oven work its magic!</p>"
+        },
+        {
+            "upload": {
+                "context": "One Bowl Banana Bread on a wooden cutting board",
+                "url": "one-bowl-banana-bread-recipe-no-mixer-needed/images/one-bowl-banana-bread-recipe-no-mixer-needed_image_1.webp",
+                "fileName": "one-bowl-banana-bread-recipe-no-mixer-needed_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "content": "<p>Serve this banana bread warm with a smear of butter or enjoy it plain. It’s also delightful toasted! If you want to add a twist, consider a swirl of peanut butter or a sprinkle of cinnamon on top before baking.</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "one-bowl-banana-bread-recipe-no-mixer-needed_image_1.webp",
+            "filePath": "posts/one-bowl-banana-bread-recipe-no-mixer-needed/images/one-bowl-banana-bread-recipe-no-mixer-needed_image_1.webp",
+            "relativePath": "one-bowl-banana-bread-recipe-no-mixer-needed/images/one-bowl-banana-bread-recipe-no-mixer-needed_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "one-bowl-banana-bread-recipe-no-mixer-needed_image_2.webp",
+            "filePath": "posts/one-bowl-banana-bread-recipe-no-mixer-needed/images/one-bowl-banana-bread-recipe-no-mixer-needed_image_2.webp",
+            "relativePath": "one-bowl-banana-bread-recipe-no-mixer-needed/images/one-bowl-banana-bread-recipe-no-mixer-needed_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "one-bowl-banana-bread-recipe-no-mixer-needed_image_3.webp",
+            "filePath": "posts/one-bowl-banana-bread-recipe-no-mixer-needed/images/one-bowl-banana-bread-recipe-no-mixer-needed_image_3.webp",
+            "relativePath": "one-bowl-banana-bread-recipe-no-mixer-needed/images/one-bowl-banana-bread-recipe-no-mixer-needed_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "one-bowl-banana-bread-recipe-no-mixer-needed_pinrecipes_image_4.webp",
+            "filePath": "posts/one-bowl-banana-bread-recipe-no-mixer-needed/images/one-bowl-banana-bread-recipe-no-mixer-needed_pinrecipes_image_4.webp",
+            "relativePath": "one-bowl-banana-bread-recipe-no-mixer-needed/images/one-bowl-banana-bread-recipe-no-mixer-needed_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/one-bowl-banana-bread-recipe-no-mixer-needed/images/one-bowl-banana-bread-recipe-no-mixer-needed_pinrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "one-bowl-banana-bread-recipe-no-mixer-needed_image_1.webp",
+    "image_path": "posts/one-bowl-banana-bread-recipe-no-mixer-needed/images/one-bowl-banana-bread-recipe-no-mixer-needed_image_1.webp",
+    "image_dir": "one-bowl-banana-bread-recipe-no-mixer-needed/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-11T02:53:52+01:00",
+    "updatedAt": "2026-03-11T02:53:52+01:00",
+    "pin_variations": [
+        {
+            "title": "Easy One Bowl Banana Bread – No Mixer Needed!",
+            "description": "Whip up this scrumptious one-bowl banana bread in no time! Perfect for overripe bananas, this recipe requires no mixer, so cleanup is a breeze! Enjoy as a delightful breakfast or an anytime snack. Moist, flavorful, and oh-so-simple! 🍌🥯 #BananaBread #EasyRecipes #NoMixer #BakingFun"
+        },
+        {
+            "title": "Moist & Delicious Banana Bread in One Bowl",
+            "description": "Discover the magic of one-bowl baking with this no-mixer banana bread recipe! It's a quick solution for overripe bananas, yielding a moist and tasty loaf that’s perfect for breakfast or snacking. Easy cleanup means more time to enjoy! 🍌💖 #BananaBread #OneBowlRecipes #SnackTime #BakingLove"
+        },
+        {
+            "title": "Quick & Simple One Bowl Banana Bread Recipe",
+            "description": "Make breakfast a breeze with this quick one-bowl banana bread! No mixer required, just mix your ingredients and bake for a moist and delicious treat. Perfect for using up those overripe bananas and ideal for any time of day! 🍞✨ #HomemadeBread #BananaRecipes #EasyCooking #BakingJoy"
+        }
+    ]
+}

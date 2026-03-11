@@ -1,0 +1,119 @@
+{
+    "id": "post_1773193579_991",
+    "slug": "quick-and-easy-3-ingredient-banana-bread-recipe",
+    "title": "Quick and Easy 3-Ingredient Banana Bread Recipe",
+    "promptIMG": "Food photography: Banana bread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": false,
+    "description": "This 3-ingredient banana bread is the ultimate quick treat! Using ripe bananas, eggs, and flour, you can whip it up in no time. Perfect for brunch or a cozy afternoon snack!",
+    "category_id": "",
+    "author_id": "author_001",
+    "ingredients": [
+        "3 ripe bananas, mashed",
+        "2 large eggs",
+        "1 cup all-purpose flour"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). This step is crucial because starting with a hot oven helps the bread rise and bake evenly. A common mistake is not preheating, which can lead to dense bread. So, while the oven warms up, you can prepare your batter. You'll know it's ready when the oven is hot enough to bake the bread properly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven should be preheated and ready for the batter."
+        },
+        {
+            "step": 2,
+            "instruction": "In a mixing bowl, mash the ripe bananas until smooth. The riper the bananas, the sweeter and more flavorful your bread will be. This is a great way to utilize bananas that are too soft to eat fresh. Ensure there are no large chunks remaining, as this will affect the texture of your bread. You’re looking for a creamy consistency, almost like a thick puree.",
+            "timing": "5 minutes",
+            "doneness_cue": "Bananas should be fully mashed without lumps."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the eggs to the mashed bananas and mix well until fully incorporated. This is where the magic happens—eggs add moisture and help bind the ingredients together. Make sure not to rush this step; mix until you have a uniform batter. If you don’t mix enough, your bread may have an uneven texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "The mixture should be smooth and well-blended."
+        },
+        {
+            "step": 4,
+            "instruction": "Gradually fold in the flour until just combined. Be careful not to overmix, as this can lead to a tough loaf. You want to see a few streaks of flour remaining; this is key for a light and fluffy banana bread. If you want to add nuts or chocolate chips, now is the time to fold them in gently.",
+            "timing": "2 minutes",
+            "doneness_cue": "The batter should be slightly lumpy but without dry flour."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the batter into a greased loaf pan, smoothing the top with a spatula. This step helps ensure your banana bread bakes evenly and doesn’t stick. A common mistake is not greasing the pan well enough, which can make it difficult to remove the bread later. You can also line the pan with parchment paper for easy removal.",
+            "timing": "3 minutes",
+            "doneness_cue": "The batter should be evenly distributed in the pan."
+        },
+        {
+            "step": 6,
+            "instruction": "Bake in the preheated oven for 45-50 minutes, or until a toothpick inserted in the center comes out clean. The baking time can vary based on your oven, so keep an eye on it. If the top starts to brown too quickly, cover it loosely with foil. You'll know it's done when the edges pull away from the pan and the top is golden brown.",
+            "timing": "50 minutes",
+            "doneness_cue": "Toothpick should come out clean; top should be golden."
+        },
+        {
+            "step": 7,
+            "instruction": "Let the banana bread cool in the pan for about 10 minutes before transferring it to a wire rack. This cooling period allows the bread to set and makes it easier to slice. If you try to cut it too soon, it might fall apart. Once it’s cool enough to handle, slice it up and enjoy your delicious creation!",
+            "timing": "10 minutes",
+            "doneness_cue": "Bread should be cool enough to handle but still warm."
+        }
+    ],
+    "prep_time": 10,
+    "cook_time": 50,
+    "total_time": 60,
+    "servings": 8,
+    "difficulty": "Easy",
+    "board_name": "Easy Banana Bread",
+    "tips": "One key technique is to ensure your bananas are very ripe for maximum sweetness. A common mistake is using bananas that are still firm, which can lead to bland bread. Store any leftovers in an airtight container to keep them fresh, or freeze slices for later enjoyment!",
+    "structured_content": [],
+    "images": [
+        {
+            "fileName": "quick-and-easy-3-ingredient-banana-bread-recipe_image_1.webp",
+            "filePath": "posts/quick-and-easy-3-ingredient-banana-bread-recipe/images/quick-and-easy-3-ingredient-banana-bread-recipe_image_1.webp",
+            "relativePath": "quick-and-easy-3-ingredient-banana-bread-recipe/images/quick-and-easy-3-ingredient-banana-bread-recipe_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "quick-and-easy-3-ingredient-banana-bread-recipe_image_2.webp",
+            "filePath": "posts/quick-and-easy-3-ingredient-banana-bread-recipe/images/quick-and-easy-3-ingredient-banana-bread-recipe_image_2.webp",
+            "relativePath": "quick-and-easy-3-ingredient-banana-bread-recipe/images/quick-and-easy-3-ingredient-banana-bread-recipe_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "quick-and-easy-3-ingredient-banana-bread-recipe_image_3.webp",
+            "filePath": "posts/quick-and-easy-3-ingredient-banana-bread-recipe/images/quick-and-easy-3-ingredient-banana-bread-recipe_image_3.webp",
+            "relativePath": "quick-and-easy-3-ingredient-banana-bread-recipe/images/quick-and-easy-3-ingredient-banana-bread-recipe_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "quick-and-easy-3-ingredient-banana-bread-recipe_pinrecipes_image_4.webp",
+            "filePath": "posts/quick-and-easy-3-ingredient-banana-bread-recipe/images/quick-and-easy-3-ingredient-banana-bread-recipe_pinrecipes_image_4.webp",
+            "relativePath": "quick-and-easy-3-ingredient-banana-bread-recipe/images/quick-and-easy-3-ingredient-banana-bread-recipe_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-easy-3-ingredient-banana-bread-recipe/images/quick-and-easy-3-ingredient-banana-bread-recipe_pinrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "quick-and-easy-3-ingredient-banana-bread-recipe_image_1.webp",
+    "image_path": "posts/quick-and-easy-3-ingredient-banana-bread-recipe/images/quick-and-easy-3-ingredient-banana-bread-recipe_image_1.webp",
+    "image_dir": "quick-and-easy-3-ingredient-banana-bread-recipe/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-11T02:46:19+01:00",
+    "updatedAt": "2026-03-11T02:46:19+01:00",
+    "pin_variations": [
+        {
+            "title": "3-Ingredient Banana Bread: So Simple, So Delicious!",
+            "description": "Whip up this easy 3-ingredient banana bread in minutes! All you need is ripe bananas, eggs, and flour to create a moist, fluffy treat perfect for brunch or an afternoon snack. Don't miss out on this quick recipe that the whole family will love! 🍌🥚🍞 #BananaBread #QuickRecipes #Baking #EasyBaking #SnackIdeas"
+        },
+        {
+            "title": "Make Banana Bread in a Flash with Just 3 Ingredients!",
+            "description": "Discover the secret to the quickest banana bread ever! This easy recipe calls for only ripe bananas, eggs, and flour. Bake a delicious loaf perfect for breakfast or an afternoon pick-me-up. You won't believe how simple and tasty this is! 🍌✨ #3IngredientRecipe #BananaBread #QuickCooking #Yummy #BrunchIdeas"
+        },
+        {
+            "title": "Quick 3-Ingredient Banana Bread: No Fuss, All Flavor!",
+            "description": "Craving banana bread but short on time? This 3-ingredient recipe featuring bananas, eggs, and flour is your go-to solution! Enjoy baking a delightful loaf that’s perfect for brunch gatherings or as a cozy snack anytime. Bake it, love it! 🍌❤️ #EasyBaking #BananaBreadRecipe #QuickTreats #HomeBaking #DeliciousSnacks"
+        }
+    ]
+}
