@@ -9,11 +9,11 @@
     "cook_time": 25,
     "servings": 12,
     "ingredients": [
-        "1 1/2 cups all-purpose flour",
+        "1 1\/2 cups all-purpose flour",
         "1 cup granulated sugar",
-        "1/2 cup unsweetened cocoa powder",
+        "1\/2 cup unsweetened cocoa powder",
         "1 teaspoon baking soda",
-        "1/2 teaspoon salt",
+        "1\/2 teaspoon salt",
         "1 cup vegetable oil",
         "1 cup buttermilk, room temperature",
         "2 large eggs, room temperature",
@@ -21,7 +21,7 @@
         "1 teaspoon vanilla extract",
         "1 teaspoon white vinegar",
         "8 oz cream cheese, softened",
-        "1/2 cup unsalted butter, softened",
+        "1\/2 cup unsalted butter, softened",
         "4 cups powdered sugar",
         "1 teaspoon vanilla extract"
     ],
@@ -79,7 +79,7 @@
     ],
     "why_this_recipe_works": {
         "section": "The Science Behind Green Velvet Cupcakes",
-        "content": "<p>Green velvet cupcakes are a delightful twist on the classic red velvet, and the secret to their success lies in the balance of ingredients. The use of buttermilk not only adds moisture but also reacts with the baking soda to create a tender crumb. This reaction is crucial; without it, your cupcakes could turn out dry and dense. The cocoa powder adds a subtle depth of flavor without overpowering the green color.</p><p>Another key aspect is the combination of vegetable oil and eggs. Oil keeps the cupcakes moist, while eggs provide structure. This balance allows for a cupcake that’s both light and rich. Plus, the addition of vinegar enhances the cake’s texture by reacting with the baking soda, ensuring a good rise. The result is a cupcake that’s not only visually stunning but also incredibly delicious.</p>",
+        "content": "<p>Green velvet cupcakes are a delightful twist on the classic red velvet, and the secret to their success lies in the balance of ingredients. The use of buttermilk not only adds moisture but also reacts with the baking soda to create a tender crumb. This reaction is crucial; without it, your cupcakes could turn out dry and dense. The cocoa powder adds a subtle depth of flavor without overpowering the green color.<\/p><p>Another key aspect is the combination of vegetable oil and eggs. Oil keeps the cupcakes moist, while eggs provide structure. This balance allows for a cupcake that’s both light and rich. Plus, the addition of vinegar enhances the cake’s texture by reacting with the baking soda, ensuring a good rise. The result is a cupcake that’s not only visually stunning but also incredibly delicious.<\/p>",
         "ingredient_notes": {
             "all-purpose flour": "Use a good quality all-purpose flour for the best structure. Look for flour with a protein content of around 10-12%. This will help achieve the right texture in your cupcakes, ensuring they rise beautifully without being too dense.",
             "unsweetened cocoa powder": "Choose a high-quality unsweetened cocoa powder for the best flavor. Dutch-processed cocoa can give a richer taste, but regular cocoa works just fine too. This ingredient is essential for that chocolatey undertone that complements the sweetness.",
@@ -134,7 +134,7 @@
     "variations": [
         {
             "name": "Chocolate Chip Green Velvet Cupcakes",
-            "description": "Add 1/2 cup of mini chocolate chips to the batter for a delightful surprise in every bite. The chocolate pairs beautifully with the cocoa flavor and adds a fun texture.",
+            "description": "Add 1\/2 cup of mini chocolate chips to the batter for a delightful surprise in every bite. The chocolate pairs beautifully with the cocoa flavor and adds a fun texture.",
             "technical_note": "Fold the chocolate chips in gently to avoid breaking them up, and reduce the mixing time to keep the cupcakes light."
         },
         {
@@ -221,47 +221,47 @@
     "slug": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting",
     "uniqueSlug": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting",
     "id": "post_1773289043_974",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 45,
     "structured_content": [],
     "images": [
         {
             "fileName": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_1.webp",
-            "filePath": "posts/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting/images/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_1.webp",
-            "relativePath": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting/images/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "filePath": "posts\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting\/images\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_1.webp",
+            "relativePath": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting\/images\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_2.webp",
-            "filePath": "posts/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting/images/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_2.webp",
-            "relativePath": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting/images/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "filePath": "posts\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting\/images\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_2.webp",
+            "relativePath": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting\/images\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_3.webp",
-            "filePath": "posts/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting/images/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_3.webp",
-            "relativePath": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting/images/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "filePath": "posts\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting\/images\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_3.webp",
+            "relativePath": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting\/images\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_pinrecipes_image_4.webp",
-            "filePath": "posts/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting/images/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_pinrecipes_image_4.webp",
-            "relativePath": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting/images/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_pinrecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting/images/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_pinrecipes_image_4.webp",
+            "filePath": "posts\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting\/images\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_pinrecipes_image_4.webp",
+            "relativePath": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting\/images\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_pinrecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting\/images\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
     "image": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_1.webp",
-    "image_path": "posts/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting/images/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_1.webp",
-    "image_dir": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting/images",
+    "image_path": "posts\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting\/images\/st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting_image_1.webp",
+    "image_dir": "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-12T05:17:23+01:00",
-    "updatedAt": "2026-03-12T05:17:23+01:00",
+    "createdAt": "2026-03-13T01:25:55+01:00",
+    "updatedAt": "2026-03-13T01:25:55+01:00",
     "pin_variations": [
         {
             "title": "Festive Green Velvet Cupcakes for St. Patrick's Day!",
