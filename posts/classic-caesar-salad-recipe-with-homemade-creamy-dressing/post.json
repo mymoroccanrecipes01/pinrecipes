@@ -3,14 +3,14 @@
     "slug": "classic-caesar-salad-recipe-with-homemade-creamy-dressing",
     "title": "Classic Caesar Salad Recipe With Homemade Creamy Dressing",
     "promptIMG": "Food photography: Caesar salad with creamy dressing, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
-    "isOnline": false,
+    "isOnline": true,
     "description": "This classic Caesar salad is crisp, refreshing, and topped with a creamy homemade dressing. Perfect for a light lunch or as a side dish at dinner!",
     "category_id": "cat_1761230383_494",
     "author_id": "author_001",
     "ingredients": [
         "1 large head of romaine lettuce, washed and chopped",
-        "1/2 cup homemade Caesar dressing",
-        "1/2 cup grated Parmesan cheese",
+        "1\/2 cup homemade Caesar dressing",
+        "1\/2 cup grated Parmesan cheese",
         "1 cup croutons",
         "1 clove garlic, minced",
         "Juice of 1 lemon",
@@ -69,70 +69,70 @@
     "tips": "The key to a great Caesar salad is using fresh ingredients, especially the lettuce and cheese. Don't be afraid to customize it with your favorite proteins or toppings. And remember, the dressing should be the star, so make it flavorful and balanced!",
     "structured_content": [
         {
-            "content": "<p>Caesar salad has always been a classic in my house. It’s the perfect combination of crisp romaine, creamy dressing, and crunchy croutons. I remember my mom making it for family gatherings, and it always disappeared quickly. This recipe keeps that tradition alive, but I’ve added my personal touch with a homemade dressing that’s both easy and delicious.</p>"
+            "content": "<p>Caesar salad has always been a classic in my house. It’s the perfect combination of crisp romaine, creamy dressing, and crunchy croutons. I remember my mom making it for family gatherings, and it always disappeared quickly. This recipe keeps that tradition alive, but I’ve added my personal touch with a homemade dressing that’s both easy and delicious.<\/p>"
         },
         {
             "headline": "What You Need"
         },
         {
-            "content": "<p>Honestly, For the best Caesar salad, fresh romaine lettuce is a must. The crunchiness of the leaves adds a refreshing element. I recommend using homemade croutons for that perfect crunch; they’re easy to make and so much tastier than store-bought. And don’t forget the Parmesan cheese—freshly grated makes a world of difference!</p>"
+            "content": "<p>Honestly, For the best Caesar salad, fresh romaine lettuce is a must. The crunchiness of the leaves adds a refreshing element. I recommend using homemade croutons for that perfect crunch; they’re easy to make and so much tastier than store-bought. And don’t forget the Parmesan cheese—freshly grated makes a world of difference!<\/p>"
         },
         {
             "headline": "How to Make It"
         },
         {
-            "content": "<p>Making this salad is straightforward. You’ll start with the dressing, which is the heart of the dish. The key is to balance the flavors—garlic, lemon, and cheese all play a vital role. Once the dressing is ready, toss it with the lettuce, add the cheese and croutons, and you’re set!</p>"
+            "content": "<p>Making this salad is straightforward. You’ll start with the dressing, which is the heart of the dish. The key is to balance the flavors—garlic, lemon, and cheese all play a vital role. Once the dressing is ready, toss it with the lettuce, add the cheese and croutons, and you’re set!<\/p>"
         },
         {
             "upload": {
                 "context": "Caesar salad on a wooden table",
-                "url": "classic-caesar-salad-recipe-with-homemade-creamy-dressing/images/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_1.webp",
+                "url": "classic-caesar-salad-recipe-with-homemade-creamy-dressing\/images\/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_1.webp",
                 "fileName": "classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_1.webp",
                 "type": "main"
             }
         },
         {
-            "content": "<p>Honestly, For serving, I love to add a sprinkle of extra Parmesan on top. This salad pairs beautifully with grilled chicken or fish if you want to make it a full meal. And remember, the key is to serve it fresh to keep that crunch!</p>"
+            "content": "<p>Honestly, For serving, I love to add a sprinkle of extra Parmesan on top. This salad pairs beautifully with grilled chicken or fish if you want to make it a full meal. And remember, the key is to serve it fresh to keep that crunch!<\/p>"
         }
     ],
     "images": [
         {
             "fileName": "classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_1.webp",
-            "filePath": "posts/classic-caesar-salad-recipe-with-homemade-creamy-dressing/images/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_1.webp",
-            "relativePath": "classic-caesar-salad-recipe-with-homemade-creamy-dressing/images/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "filePath": "posts\/classic-caesar-salad-recipe-with-homemade-creamy-dressing\/images\/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_1.webp",
+            "relativePath": "classic-caesar-salad-recipe-with-homemade-creamy-dressing\/images\/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_2.webp",
-            "filePath": "posts/classic-caesar-salad-recipe-with-homemade-creamy-dressing/images/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_2.webp",
-            "relativePath": "classic-caesar-salad-recipe-with-homemade-creamy-dressing/images/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "filePath": "posts\/classic-caesar-salad-recipe-with-homemade-creamy-dressing\/images\/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_2.webp",
+            "relativePath": "classic-caesar-salad-recipe-with-homemade-creamy-dressing\/images\/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_3.webp",
-            "filePath": "posts/classic-caesar-salad-recipe-with-homemade-creamy-dressing/images/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_3.webp",
-            "relativePath": "classic-caesar-salad-recipe-with-homemade-creamy-dressing/images/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "filePath": "posts\/classic-caesar-salad-recipe-with-homemade-creamy-dressing\/images\/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_3.webp",
+            "relativePath": "classic-caesar-salad-recipe-with-homemade-creamy-dressing\/images\/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "classic-caesar-salad-recipe-with-homemade-creamy-dressing_pinrecipes_image_4.webp",
-            "filePath": "posts/classic-caesar-salad-recipe-with-homemade-creamy-dressing/images/classic-caesar-salad-recipe-with-homemade-creamy-dressing_pinrecipes_image_4.webp",
-            "relativePath": "classic-caesar-salad-recipe-with-homemade-creamy-dressing/images/classic-caesar-salad-recipe-with-homemade-creamy-dressing_pinrecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-caesar-salad-recipe-with-homemade-creamy-dressing/images/classic-caesar-salad-recipe-with-homemade-creamy-dressing_pinrecipes_image_4.webp",
+            "filePath": "posts\/classic-caesar-salad-recipe-with-homemade-creamy-dressing\/images\/classic-caesar-salad-recipe-with-homemade-creamy-dressing_pinrecipes_image_4.webp",
+            "relativePath": "classic-caesar-salad-recipe-with-homemade-creamy-dressing\/images\/classic-caesar-salad-recipe-with-homemade-creamy-dressing_pinrecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/classic-caesar-salad-recipe-with-homemade-creamy-dressing\/images\/classic-caesar-salad-recipe-with-homemade-creamy-dressing_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
     "image": "classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_1.webp",
-    "image_path": "posts/classic-caesar-salad-recipe-with-homemade-creamy-dressing/images/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_1.webp",
-    "image_dir": "classic-caesar-salad-recipe-with-homemade-creamy-dressing/images",
+    "image_path": "posts\/classic-caesar-salad-recipe-with-homemade-creamy-dressing\/images\/classic-caesar-salad-recipe-with-homemade-creamy-dressing_image_1.webp",
+    "image_dir": "classic-caesar-salad-recipe-with-homemade-creamy-dressing\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-11T05:30:53+01:00",
-    "updatedAt": "2026-03-11T05:30:53+01:00",
+    "createdAt": "2026-03-14T16:23:12+01:00",
+    "updatedAt": "2026-03-14T16:23:12+01:00",
     "pin_variations": [
         {
             "title": "Delicious Homemade Caesar Salad with Creamy Dressing",
