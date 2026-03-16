@@ -1,7 +1,7 @@
 {
     "title": "Classic Caesar Salad with Homemade Croutons and Parmesan",
     "promptIMG": "Professional food photography prompt: \"Classic Caesar salad with crisp romaine lettuce, homemade croutons, and grated parmesan on top, vibrant colors, natural food photography, balanced sharp focus, no blur, modern kitchen background in soft focus, natural lighting, appealing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "This Caesar salad recipe brings together fresh romaine, crunchy homemade croutons, and a creamy dressing that captures the essence of the classic dish. Learn how to combine textures and flavors for a satisfying salad that stands out at every meal.",
     "hashtags": "#CaesarSalad #HomemadeCroutons #SaladRecipes #HealthyEating #ClassicRecipes",
     "board_name": "Caesar Salad Recipes",
@@ -14,8 +14,8 @@
     "ingredients": [
         "1 large head of romaine lettuce, washed and chopped",
         "1 cup (100g) homemade croutons (see instructions for preparation)",
-        "1\/2 cup (50g) freshly grated parmesan cheese",
-        "1\/4 cup (60ml) extra virgin olive oil",
+        "1/2 cup (50g) freshly grated parmesan cheese",
+        "1/4 cup (60ml) extra virgin olive oil",
         "2 tablespoons (30ml) fresh lemon juice",
         "1 teaspoon (5g) Dijon mustard",
         "2 cloves (10g) garlic, minced",
@@ -25,7 +25,7 @@
     "introduction": "I often think back to summer dinners at my grandmother's house when I make this Caesar salad. The combination of crunchy romaine, creamy dressing, and crispy croutons brings a sense of nostalgia, and I can almost hear the laughter of family gathered around the table. What makes my version special is the homemade croutons, which add a delightful crunch and flavor that store-bought ones just can't match. This salad is perfect for a light lunch or as a side for grilled chicken on a warm evening, making it versatile for any occasion.",
     "why_this_recipe_works": {
         "section": "Why This Caesar Salad Recipe Works",
-        "content": "<p>This Caesar salad is a balanced combination of textures and flavors. The crispness of fresh romaine lettuce contrasts beautifully with the crunchy homemade croutons, while the creamy dressing ties everything together. The extra virgin olive oil adds richness, while the acidity from lemon juice brightens the dish.<\/p><p>Using freshly grated parmesan creates a more intense flavor compared to pre-grated cheese, which often has anti-caking agents that can dull its taste. Incorporating garlic into the dressing infuses it with a fragrant warmth, making each bite truly satisfying. This recipe emphasizes freshness and quality, which are key to elevating a simple salad into something remarkable.<\/p>",
+        "content": "<p>This Caesar salad is a balanced combination of textures and flavors. The crispness of fresh romaine lettuce contrasts beautifully with the crunchy homemade croutons, while the creamy dressing ties everything together. The extra virgin olive oil adds richness, while the acidity from lemon juice brightens the dish.</p><p>Using freshly grated parmesan creates a more intense flavor compared to pre-grated cheese, which often has anti-caking agents that can dull its taste. Incorporating garlic into the dressing infuses it with a fragrant warmth, making each bite truly satisfying. This recipe emphasizes freshness and quality, which are key to elevating a simple salad into something remarkable.</p>",
         "ingredient_notes": {
             "romaine lettuce": "Choose crisp, fresh romaine for the best texture. The leaves should be vibrant green, indicating freshness. Avoid limp or brown edges, as they can detract from the salad's appeal.",
             "homemade croutons": "Making croutons at home is simple and allows you to customize flavors. Use stale bread for the best texture, and toss it in olive oil, garlic powder, and a pinch of salt before baking until golden. This ensures they’re crispy and flavorful.",
@@ -146,7 +146,7 @@
         "room_temperature": "Do not leave salad at room temperature for more than 2 hours.",
         "refrigerator": "Store leftover salad in an airtight container for up to 24 hours. Keep the croutons separate to maintain their crunch.",
         "freezer": "Not recommended for freezing due to the lettuce's texture.",
-        "reheating": "N\/A; salad is best served cold.",
+        "reheating": "N/A; salad is best served cold.",
         "make_ahead_strategy": "You can prepare the dressing and croutons a day ahead. Store them separately until ready to serve."
     },
     "faq": [
@@ -175,11 +175,11 @@
     "internal_links": [
         {
             "anchor": "tips for making homemade croutons",
-            "url": "\/posts\/homemade-croutons-tips"
+            "url": "/posts/homemade-croutons-tips"
         },
         {
             "anchor": "how to make the perfect salad dressing",
-            "url": "\/posts\/perfect-salad-dressing-guide"
+            "url": "/posts/perfect-salad-dressing-guide"
         }
     ],
     "category_id": "cat_1761229889_885",
@@ -194,43 +194,63 @@
     "images": [
         {
             "fileName": "easy-caesar-salad-with-crispy-parmesan-and-croutons_image_1.webp",
-            "filePath": "posts\/easy-caesar-salad-with-crispy-parmesan-and-croutons\/images\/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_1.webp",
-            "relativePath": "easy-caesar-salad-with-crispy-parmesan-and-croutons\/images\/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
+            "filePath": "posts/easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_1.webp",
+            "relativePath": "easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
             "order": 1
         },
         {
             "fileName": "easy-caesar-salad-with-crispy-parmesan-and-croutons_image_2.webp",
-            "filePath": "posts\/easy-caesar-salad-with-crispy-parmesan-and-croutons\/images\/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_2.webp",
-            "relativePath": "easy-caesar-salad-with-crispy-parmesan-and-croutons\/images\/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
+            "filePath": "posts/easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_2.webp",
+            "relativePath": "easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
             "order": 2
         },
         {
             "fileName": "easy-caesar-salad-with-crispy-parmesan-and-croutons_image_3.webp",
-            "filePath": "posts\/easy-caesar-salad-with-crispy-parmesan-and-croutons\/images\/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_3.webp",
-            "relativePath": "easy-caesar-salad-with-crispy-parmesan-and-croutons\/images\/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
+            "filePath": "posts/easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_3.webp",
+            "relativePath": "easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
         },
         {
+            "fileName": "easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_1.webp",
+            "relativePath": "easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_2.webp",
+            "relativePath": "easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_3.webp",
+            "relativePath": "easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
             "fileName": "easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_4.webp",
-            "filePath": "posts\/easy-caesar-salad-with-crispy-parmesan-and-croutons\/images\/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_4.webp",
-            "relativePath": "easy-caesar-salad-with-crispy-parmesan-and-croutons\/images\/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/easy-caesar-salad-with-crispy-parmesan-and-croutons\/images\/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_4.webp",
-            "order": 4,
+            "filePath": "posts/easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_4.webp",
+            "relativePath": "easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_pinrecipes_image_4.webp",
             "type": "template"
         }
     ],
     "slug": "easy-caesar-salad-with-crispy-parmesan-and-croutons",
     "id": "post_1773203783_932",
     "image": "easy-caesar-salad-with-crispy-parmesan-and-croutons_image_1.webp",
-    "image_path": "posts\/easy-caesar-salad-with-crispy-parmesan-and-croutons\/images\/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_1.webp",
-    "image_dir": "easy-caesar-salad-with-crispy-parmesan-and-croutons\/images",
+    "image_path": "posts/easy-caesar-salad-with-crispy-parmesan-and-croutons/images/easy-caesar-salad-with-crispy-parmesan-and-croutons_image_1.webp",
+    "image_dir": "easy-caesar-salad-with-crispy-parmesan-and-croutons/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-11T16:53:50+01:00",
-    "updatedAt": "2026-03-11T16:53:50+01:00",
+    "createdAt": "2026-03-16T17:01:09+01:00",
+    "updatedAt": "2026-03-16T17:01:09+01:00",
     "pin_variations": [
         {
             "title": "Ultimate Classic Caesar Salad with Crunchy Croutons!",
