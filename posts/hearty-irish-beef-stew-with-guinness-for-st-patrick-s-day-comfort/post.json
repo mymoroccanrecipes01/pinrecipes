@@ -258,7 +258,7 @@
     "slug": "hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort",
     "uniqueSlug": "hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort",
     "id": "post_1773536782_268",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 170,
     "structured_content": [],
     "images": [
@@ -284,11 +284,31 @@
             "order": 3
         },
         {
+            "fileName": "hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_1.webp",
+            "filePath": "posts/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort/images/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_1.webp",
+            "relativePath": "hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort/images/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort/images/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_2.webp",
+            "filePath": "posts/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort/images/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_2.webp",
+            "relativePath": "hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort/images/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort/images/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_3.webp",
+            "filePath": "posts/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort/images/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_3.webp",
+            "relativePath": "hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort/images/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort/images/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
             "fileName": "hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_4.webp",
             "filePath": "posts/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort/images/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_4.webp",
             "relativePath": "hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort/images/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_4.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort/images/hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort_pinrecipes_image_4.webp",
-            "order": 4,
             "type": "template"
         }
     ],
@@ -297,8 +317,8 @@
     "image_dir": "hearty-irish-beef-stew-with-guinness-for-st-patrick-s-day-comfort/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-15T02:06:22+01:00",
-    "updatedAt": "2026-03-15T02:06:22+01:00",
+    "createdAt": "2026-03-16T18:43:22+01:00",
+    "updatedAt": "2026-03-16T18:43:22+01:00",
     "pin_variations": [
         {
             "title": "Ultimate Irish Beef Stew with Guinness for Cozy Nights",
