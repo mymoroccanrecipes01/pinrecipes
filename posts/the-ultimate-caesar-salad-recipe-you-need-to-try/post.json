@@ -1,7 +1,7 @@
 {
     "title": "Classic Caesar Salad: A Fresh Take on a Timeless Favorite",
     "promptIMG": "Professional food photography prompt: \"fresh Caesar salad, featuring crisp romaine lettuce, homemade dressing, croutons, and parmesan cheese, served in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, vibrant colors, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "This Caesar salad combines crisp romaine lettuce with a homemade dressing that balances tangy, creamy, and savory elements. The addition of fresh croutons and shaved parmesan elevates this classic dish to a new level, perfect for any gathering or weeknight dinner.",
     "hashtags": "#CaesarSalad #FreshSalad #HomemadeDressing #HealthyEating #SimpleRecipes",
     "board_name": "Caesar Salad Recipes",
@@ -14,8 +14,8 @@
     "ingredients": [
         "1 large head of romaine lettuce, washed and chopped",
         "1 cup (100g) homemade croutons",
-        "1\/2 cup (50g) grated parmesan cheese",
-        "1\/4 cup (60ml) mayonnaise",
+        "1/2 cup (50g) grated parmesan cheese",
+        "1/4 cup (60ml) mayonnaise",
         "2 tablespoons (30ml) lemon juice (freshly squeezed)",
         "1 teaspoon (5g) Dijon mustard",
         "1 clove garlic, minced",
@@ -25,7 +25,7 @@
     "introduction": "Growing up, Caesar salad was a staple at family gatherings. I remember the aroma of garlic and lemon wafting through the kitchen as my mom prepared the dressing. This version is special because it uses homemade croutons and a creamy dressing that truly makes the flavors pop. Whether it's for a casual dinner or a festive occasion, this salad never fails to impress. Let's dive into how to make a classic Caesar that feels fresh and vibrant every time you serve it.",
     "why_this_recipe_works": {
         "section": "Why This Caesar Salad Works",
-        "content": "<p>This Caesar salad recipe balances freshness and richness beautifully. The romaine lettuce provides a satisfying crunch, while the homemade dressing combines creaminess from the mayonnaise with the acidity of lemon juice. This contrast keeps the salad from feeling heavy, making each bite refreshing. The addition of garlic enhances the overall flavor, and using freshly grated parmesan ensures that it melds perfectly with the other ingredients.<\/p><p>Making croutons from scratch not only adds texture but also allows you to control the seasonings, ensuring they complement the salad rather than overpower it. This personal touch is what takes a traditional salad to a new level of enjoyment.<\/p>",
+        "content": "<p>This Caesar salad recipe balances freshness and richness beautifully. The romaine lettuce provides a satisfying crunch, while the homemade dressing combines creaminess from the mayonnaise with the acidity of lemon juice. This contrast keeps the salad from feeling heavy, making each bite refreshing. The addition of garlic enhances the overall flavor, and using freshly grated parmesan ensures that it melds perfectly with the other ingredients.</p><p>Making croutons from scratch not only adds texture but also allows you to control the seasonings, ensuring they complement the salad rather than overpower it. This personal touch is what takes a traditional salad to a new level of enjoyment.</p>",
         "ingredient_notes": {
             "romaine lettuce": "Choosing fresh, crisp romaine is key for the right texture. Look for deep green leaves without any wilting, as they offer the best crunch and flavor. The lettuce is the star, so it's worth investing in quality.",
             "mayonnaise": "For the dressing, good quality mayonnaise makes a difference. It adds creaminess without overwhelming the salad. If you prefer a lighter version, you can substitute Greek yogurt, which adds tanginess.",
@@ -169,15 +169,15 @@
     "internal_links": [
         {
             "anchor": "exploring homemade salad dressings",
-            "url": "\/posts\/homemade-salad-dressings"
+            "url": "/posts/homemade-salad-dressings"
         },
         {
             "anchor": "best crouton recipes",
-            "url": "\/posts\/best-crouton-recipes"
+            "url": "/posts/best-crouton-recipes"
         },
         {
             "anchor": "tips for perfect salads",
-            "url": "\/posts\/tips-for-perfect-salads"
+            "url": "/posts/tips-for-perfect-salads"
         }
     ],
     "category_id": "cat_1761230383_494",
@@ -192,43 +192,63 @@
     "images": [
         {
             "fileName": "the-ultimate-caesar-salad-recipe-you-need-to-try_image_1.webp",
-            "filePath": "posts\/the-ultimate-caesar-salad-recipe-you-need-to-try\/images\/the-ultimate-caesar-salad-recipe-you-need-to-try_image_1.webp",
-            "relativePath": "the-ultimate-caesar-salad-recipe-you-need-to-try\/images\/the-ultimate-caesar-salad-recipe-you-need-to-try_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
+            "filePath": "posts/the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_image_1.webp",
+            "relativePath": "the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
             "order": 1
         },
         {
             "fileName": "the-ultimate-caesar-salad-recipe-you-need-to-try_image_2.webp",
-            "filePath": "posts\/the-ultimate-caesar-salad-recipe-you-need-to-try\/images\/the-ultimate-caesar-salad-recipe-you-need-to-try_image_2.webp",
-            "relativePath": "the-ultimate-caesar-salad-recipe-you-need-to-try\/images\/the-ultimate-caesar-salad-recipe-you-need-to-try_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
+            "filePath": "posts/the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_image_2.webp",
+            "relativePath": "the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
             "order": 2
         },
         {
             "fileName": "the-ultimate-caesar-salad-recipe-you-need-to-try_image_3.webp",
-            "filePath": "posts\/the-ultimate-caesar-salad-recipe-you-need-to-try\/images\/the-ultimate-caesar-salad-recipe-you-need-to-try_image_3.webp",
-            "relativePath": "the-ultimate-caesar-salad-recipe-you-need-to-try\/images\/the-ultimate-caesar-salad-recipe-you-need-to-try_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
+            "filePath": "posts/the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_image_3.webp",
+            "relativePath": "the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
         },
         {
+            "fileName": "the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_1.webp",
+            "filePath": "posts/the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_1.webp",
+            "relativePath": "the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_2.webp",
+            "filePath": "posts/the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_2.webp",
+            "relativePath": "the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_3.webp",
+            "filePath": "posts/the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_3.webp",
+            "relativePath": "the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
             "fileName": "the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_4.webp",
-            "filePath": "posts\/the-ultimate-caesar-salad-recipe-you-need-to-try\/images\/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_4.webp",
-            "relativePath": "the-ultimate-caesar-salad-recipe-you-need-to-try\/images\/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/the-ultimate-caesar-salad-recipe-you-need-to-try\/images\/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_4.webp",
-            "order": 4,
+            "filePath": "posts/the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_4.webp",
+            "relativePath": "the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_pinrecipes_image_4.webp",
             "type": "template"
         }
     ],
     "slug": "the-ultimate-caesar-salad-recipe-you-need-to-try",
     "id": "post_1773204119_221",
     "image": "the-ultimate-caesar-salad-recipe-you-need-to-try_image_1.webp",
-    "image_path": "posts\/the-ultimate-caesar-salad-recipe-you-need-to-try\/images\/the-ultimate-caesar-salad-recipe-you-need-to-try_image_1.webp",
-    "image_dir": "the-ultimate-caesar-salad-recipe-you-need-to-try\/images",
+    "image_path": "posts/the-ultimate-caesar-salad-recipe-you-need-to-try/images/the-ultimate-caesar-salad-recipe-you-need-to-try_image_1.webp",
+    "image_dir": "the-ultimate-caesar-salad-recipe-you-need-to-try/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2026-03-11T16:54:10+01:00",
-    "updatedAt": "2026-03-11T16:54:10+01:00",
+    "updatedAt": "2026-03-16T16:15:16+01:00",
     "pin_variations": [
         {
             "title": "Reinvent Your Caesar Salad With Homemade Dressing!",

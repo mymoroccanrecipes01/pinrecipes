@@ -1,7 +1,7 @@
 {
     "title": "Quick Sourdough Focaccia: A Simple Recipe for Bread Lovers",
     "promptIMG": "Professional food photography prompt: \"crispy sourdough focaccia, showing golden-brown crust and airy interior, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, rustic kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "This quick sourdough focaccia combines ease and flavor for a delightful bread experience. With a crispy crust and soft, airy interior, it's an excellent choice for sandwiches or as a side dish. Learn how to make this versatile bread using your sourdough starter.",
     "hashtags": "#sourdoughfocaccia #homemadebread #easyrecipes #breadmaking #sourdough",
     "board_name": "Sourdough Focaccia Recipes",
@@ -14,7 +14,7 @@
     "ingredients": [
         "500g (4 cups) all-purpose flour",
         "350ml (1.5 cups) warm water",
-        "100g (1\/2 cup) active sourdough starter",
+        "100g (1/2 cup) active sourdough starter",
         "10g (2 tsp) fine sea salt",
         "40ml (3 tbsp) olive oil, plus more for drizzling",
         "Coarse sea salt for topping",
@@ -23,7 +23,7 @@
     "introduction": "I love making this quick sourdough focaccia when I want a homemade bread that doesn't require hours of my time. There's something incredibly satisfying about stretching the dough and watching it puff up in the oven. This version is special because it uses my active sourdough starter, giving the focaccia a wonderful depth of flavor. It's perfect for family gatherings or cozy dinners, served alongside a warm bowl of soup or as a base for sandwiches. Let me guide you through how to make this delicious bread effortlessly.",
     "why_this_recipe_works": {
         "section": "Why This Quick Sourdough Focaccia Works",
-        "content": "<p>This focaccia recipe showcases the benefits of using sourdough starter, which not only adds flavor but also enhances the bread's texture. The autolyse process—mixing flour and water and letting it rest—allows the flour to hydrate fully, developing gluten for a better structure. The fermentation from the sourdough starter contributes to a light and airy crumb, while the olive oil creates a crispy crust. Additionally, the high hydration dough ensures a moist interior, making each bite enjoyable.<\/p><p>When baked, the focaccia puffs up beautifully, thanks to the gases released by the yeast in the starter. The oil on top promotes browning and adds flavor, while the coarse sea salt provides a delightful crunch. This method is straightforward and perfect for home bakers looking to make delicious bread without the hassle of traditional techniques.<\/p>",
+        "content": "<p>This focaccia recipe showcases the benefits of using sourdough starter, which not only adds flavor but also enhances the bread's texture. The autolyse process—mixing flour and water and letting it rest—allows the flour to hydrate fully, developing gluten for a better structure. The fermentation from the sourdough starter contributes to a light and airy crumb, while the olive oil creates a crispy crust. Additionally, the high hydration dough ensures a moist interior, making each bite enjoyable.</p><p>When baked, the focaccia puffs up beautifully, thanks to the gases released by the yeast in the starter. The oil on top promotes browning and adds flavor, while the coarse sea salt provides a delightful crunch. This method is straightforward and perfect for home bakers looking to make delicious bread without the hassle of traditional techniques.</p>",
         "ingredient_notes": {
             "all-purpose flour": "Using all-purpose flour gives this focaccia a balanced structure and texture. For a more robust flavor, you can substitute half with whole wheat flour, but keep in mind it may alter the crumb slightly.",
             "sourdough starter": "Ensure your sourdough starter is active and bubbly for the best results. If your starter has been in the fridge, feed it 4-6 hours before using it in this recipe to wake it up.",
@@ -178,43 +178,63 @@
     "images": [
         {
             "fileName": "quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_1.webp",
-            "filePath": "posts\/quick-and-easy-sourdough-focaccia-recipe-for-beginners\/images\/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_1.webp",
-            "relativePath": "quick-and-easy-sourdough-focaccia-recipe-for-beginners\/images\/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
+            "filePath": "posts/quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_1.webp",
+            "relativePath": "quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
             "order": 1
         },
         {
             "fileName": "quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_2.webp",
-            "filePath": "posts\/quick-and-easy-sourdough-focaccia-recipe-for-beginners\/images\/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_2.webp",
-            "relativePath": "quick-and-easy-sourdough-focaccia-recipe-for-beginners\/images\/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
+            "filePath": "posts/quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_2.webp",
+            "relativePath": "quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
             "order": 2
         },
         {
             "fileName": "quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_3.webp",
-            "filePath": "posts\/quick-and-easy-sourdough-focaccia-recipe-for-beginners\/images\/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_3.webp",
-            "relativePath": "quick-and-easy-sourdough-focaccia-recipe-for-beginners\/images\/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
+            "filePath": "posts/quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_3.webp",
+            "relativePath": "quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
         },
         {
+            "fileName": "quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_1.webp",
+            "relativePath": "quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_2.webp",
+            "relativePath": "quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_3.webp",
+            "relativePath": "quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
             "fileName": "quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_4.webp",
-            "filePath": "posts\/quick-and-easy-sourdough-focaccia-recipe-for-beginners\/images\/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_4.webp",
-            "relativePath": "quick-and-easy-sourdough-focaccia-recipe-for-beginners\/images\/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/quick-and-easy-sourdough-focaccia-recipe-for-beginners\/images\/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_4.webp",
-            "order": 4,
+            "filePath": "posts/quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_4.webp",
+            "relativePath": "quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_pinrecipes_image_4.webp",
             "type": "template"
         }
     ],
     "slug": "quick-and-easy-sourdough-focaccia-recipe-for-beginners",
     "id": "post_1773201720_874",
     "image": "quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_1.webp",
-    "image_path": "posts\/quick-and-easy-sourdough-focaccia-recipe-for-beginners\/images\/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_1.webp",
-    "image_dir": "quick-and-easy-sourdough-focaccia-recipe-for-beginners\/images",
+    "image_path": "posts/quick-and-easy-sourdough-focaccia-recipe-for-beginners/images/quick-and-easy-sourdough-focaccia-recipe-for-beginners_image_1.webp",
+    "image_dir": "quick-and-easy-sourdough-focaccia-recipe-for-beginners/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2026-03-11T16:53:45+01:00",
-    "updatedAt": "2026-03-11T16:53:45+01:00",
+    "updatedAt": "2026-03-16T16:15:16+01:00",
     "pin_variations": [
         {
             "title": "Easy Sourdough Focaccia: Your New Favorite Bread",
