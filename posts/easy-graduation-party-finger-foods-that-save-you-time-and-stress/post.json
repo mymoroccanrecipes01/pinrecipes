@@ -13,8 +13,8 @@
         "1 pound cooked shredded rotisserie chicken",
         "1 cup BBQ sauce, divided",
         "1 cup shredded sharp cheddar cheese",
-        "1\/2 cup coleslaw mix",
-        "1\/4 cup mayonnaise",
+        "1/2 cup coleslaw mix",
+        "1/4 cup mayonnaise",
         "1 tablespoon apple cider vinegar",
         "Salt and pepper to taste",
         "12 dill pickle slices"
@@ -30,7 +30,7 @@
         },
         {
             "step": 2,
-            "instruction": "Next, toss the shredded rotisserie chicken with 3\/4 cup of BBQ sauce in a separate bowl. Make sure every shred is coated but not swimming in sauce. This helps the chicken stay moist and flavorful without becoming soggy. Using pre-cooked chicken saves tons of time and ensures tenderness.",
+            "instruction": "Next, toss the shredded rotisserie chicken with 3/4 cup of BBQ sauce in a separate bowl. Make sure every shred is coated but not swimming in sauce. This helps the chicken stay moist and flavorful without becoming soggy. Using pre-cooked chicken saves tons of time and ensures tenderness.",
             "timing": "5 minutes",
             "doneness_cue": "Chicken is evenly coated and sticky but not dripping"
         },
@@ -79,7 +79,7 @@
     ],
     "why_this_recipe_works": {
         "section": "Understanding Why This Recipe Is a Crowd-Pleaser",
-        "content": "<p>This recipe succeeds because it balances flavor, texture, and convenience perfectly. Using rotisserie chicken cuts down cooking time dramatically while providing tender, juicy meat that soaks up the BBQ sauce beautifully. The sauce itself is thick enough to cling to the chicken without making the sliders soggy, which is a common pitfall in finger foods.<\/p><p>The homemade coleslaw is another key element. Its acidity from the apple cider vinegar contrasts the richness of the cheese and BBQ sauce, creating a more complex flavor profile. The mayo binds the slaw but in a light way that retains crunch, essential for texture contrast. Overmixing here would cause sogginess, so gentle folding is critical.<\/p><p>Warming the buns just before assembly softens them to the perfect pillowy texture but avoids drying them out. This step ensures the sliders hold together well and feel fresh. The dill pickle slice on top is a small but powerful addition — its bright acidity cuts through the richness, awakening the palate and making each bite exciting.<\/p><p>Altogether, these techniques and ingredient choices create a finger food that’s easy to eat, flavorful, and satisfying without requiring hours in the kitchen. It’s a perfect recipe for busy hosts who want to impress without stress.<\/p>",
+        "content": "<p>This recipe succeeds because it balances flavor, texture, and convenience perfectly. Using rotisserie chicken cuts down cooking time dramatically while providing tender, juicy meat that soaks up the BBQ sauce beautifully. The sauce itself is thick enough to cling to the chicken without making the sliders soggy, which is a common pitfall in finger foods.</p><p>The homemade coleslaw is another key element. Its acidity from the apple cider vinegar contrasts the richness of the cheese and BBQ sauce, creating a more complex flavor profile. The mayo binds the slaw but in a light way that retains crunch, essential for texture contrast. Overmixing here would cause sogginess, so gentle folding is critical.</p><p>Warming the buns just before assembly softens them to the perfect pillowy texture but avoids drying them out. This step ensures the sliders hold together well and feel fresh. The dill pickle slice on top is a small but powerful addition — its bright acidity cuts through the richness, awakening the palate and making each bite exciting.</p><p>Altogether, these techniques and ingredient choices create a finger food that’s easy to eat, flavorful, and satisfying without requiring hours in the kitchen. It’s a perfect recipe for busy hosts who want to impress without stress.</p>",
         "ingredient_notes": {
             "rotisserie chicken": "When buying rotisserie chicken, look for one that’s freshly cooked with a golden skin and no artificial additives. It’s a time-saver because it’s fully cooked and tender, making it ideal for shredding and mixing with sauces. Avoid pre-packaged shredded chicken that can be dry or flavorless.",
             "BBQ sauce": "Choose a thick, flavorful BBQ sauce that isn’t too watery. A smoky or slightly sweet sauce works best to complement the chicken and cheese. Thin sauces can make the sliders soggy quickly, so thicker is better for coating.",
@@ -253,47 +253,67 @@
     "slug": "easy-graduation-party-finger-foods-that-save-you-time-and-stress",
     "uniqueSlug": "easy-graduation-party-finger-foods-that-save-you-time-and-stress",
     "id": "post_1773554649_900",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 35,
     "structured_content": [],
     "images": [
         {
             "fileName": "easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_1.webp",
-            "filePath": "posts\/easy-graduation-party-finger-foods-that-save-you-time-and-stress\/images\/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_1.webp",
-            "relativePath": "easy-graduation-party-finger-foods-that-save-you-time-and-stress\/images\/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
+            "filePath": "posts/easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_1.webp",
+            "relativePath": "easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
             "order": 1
         },
         {
             "fileName": "easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_2.webp",
-            "filePath": "posts\/easy-graduation-party-finger-foods-that-save-you-time-and-stress\/images\/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_2.webp",
-            "relativePath": "easy-graduation-party-finger-foods-that-save-you-time-and-stress\/images\/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
+            "filePath": "posts/easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_2.webp",
+            "relativePath": "easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
             "order": 2
         },
         {
             "fileName": "easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_3.webp",
-            "filePath": "posts\/easy-graduation-party-finger-foods-that-save-you-time-and-stress\/images\/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_3.webp",
-            "relativePath": "easy-graduation-party-finger-foods-that-save-you-time-and-stress\/images\/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
+            "filePath": "posts/easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_3.webp",
+            "relativePath": "easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
         },
         {
+            "fileName": "easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_1.webp",
+            "relativePath": "easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_2.webp",
+            "relativePath": "easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_3.webp",
+            "relativePath": "easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
             "fileName": "easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_4.webp",
-            "filePath": "posts\/easy-graduation-party-finger-foods-that-save-you-time-and-stress\/images\/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_4.webp",
-            "relativePath": "easy-graduation-party-finger-foods-that-save-you-time-and-stress\/images\/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/easy-graduation-party-finger-foods-that-save-you-time-and-stress\/images\/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_4.webp",
-            "order": 4,
+            "filePath": "posts/easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_4.webp",
+            "relativePath": "easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_pinrecipes_image_4.webp",
             "type": "template"
         }
     ],
     "image": "easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_1.webp",
-    "image_path": "posts\/easy-graduation-party-finger-foods-that-save-you-time-and-stress\/images\/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_1.webp",
-    "image_dir": "easy-graduation-party-finger-foods-that-save-you-time-and-stress\/images",
+    "image_path": "posts/easy-graduation-party-finger-foods-that-save-you-time-and-stress/images/easy-graduation-party-finger-foods-that-save-you-time-and-stress_image_1.webp",
+    "image_dir": "easy-graduation-party-finger-foods-that-save-you-time-and-stress/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-15T17:12:11+01:00",
-    "updatedAt": "2026-03-15T17:12:11+01:00",
+    "createdAt": "2026-03-16T18:59:52+01:00",
+    "updatedAt": "2026-03-16T18:59:52+01:00",
     "pin_variations": [
         {
             "title": "Quick & Easy Graduation Party Finger Foods",
