@@ -66,7 +66,7 @@
         {
             "step": 7,
             "instruction": "If making ahead, cool the soup completely before storing in airtight containers. This prevents condensation and sogginess. When reheating, warm gently on the stovetop with a splash of broth to restore texture and flavor. Avoid boiling again to preserve the delicate spices and chicken tenderness.",
-            "timing": "N/A",
+            "timing": "N\/A",
             "doneness_cue": "Soup reheated through without breaking or becoming cloudy"
         },
         {
@@ -78,13 +78,13 @@
         {
             "step": 9,
             "instruction": "To make the soup vegan, substitute the chicken broth with vegetable broth and omit the chicken or use firm tofu cubes. The turmeric and ginger still shine through, and the veggies make it hearty. Adjust seasoning to taste since vegetable broth can be milder. This keeps it nourishing and anti-inflammatory without animal products.",
-            "timing": "N/A",
+            "timing": "N\/A",
             "doneness_cue": "Soup maintains bright color and balanced flavor without chicken"
         }
     ],
     "why_this_recipe_works": {
         "section": "Understanding Why This Turmeric Ginger Chicken Soup Soothes and Satisfies",
-        "content": "<p>The success of this soup hinges on the synergy between its anti-inflammatory ingredients and the delicate cooking techniques used to preserve their beneficial compounds. Turmeric contains curcumin, a powerful antioxidant and anti-inflammatory agent, but it’s fat-soluble and best absorbed when cooked gently with a bit of oil, which is why starting with olive oil is essential. The gentle sweating of onions and slow toasting of spices release their flavor without degrading sensitive compounds.</p><p>Fresh ginger adds zing and contains gingerol, which also fights inflammation and aids digestion. Adding it fresh rather than powdered preserves its bright, sharp notes. Simmering the broth at a low temperature prevents the breakdown of these delicate flavors and nutrients while allowing the vegetables to soften and infuse the soup with subtle sweetness.</p><p>Using shredded cooked chicken breast adds lean protein and texture without overpowering the broth. Adding it late ensures the meat stays tender and moist. Kale brings fiber and vitamins, balancing the earthiness with a mild bitterness and vibrant color. The final splash of lemon juice brightens the soup, enhancing the turmeric’s flavor and making the overall bowl more refreshing.</p><p>Each step is designed to maximize flavor and health benefits, resulting in a soup that’s both comforting and functional. The combination of spices, fresh ingredients, and careful cooking creates a nourishing meal that supports natural inflammation relief while satisfying your taste buds.</p>",
+        "content": "<p>The success of this soup hinges on the synergy between its anti-inflammatory ingredients and the delicate cooking techniques used to preserve their beneficial compounds. Turmeric contains curcumin, a powerful antioxidant and anti-inflammatory agent, but it’s fat-soluble and best absorbed when cooked gently with a bit of oil, which is why starting with olive oil is essential. The gentle sweating of onions and slow toasting of spices release their flavor without degrading sensitive compounds.<\/p><p>Fresh ginger adds zing and contains gingerol, which also fights inflammation and aids digestion. Adding it fresh rather than powdered preserves its bright, sharp notes. Simmering the broth at a low temperature prevents the breakdown of these delicate flavors and nutrients while allowing the vegetables to soften and infuse the soup with subtle sweetness.<\/p><p>Using shredded cooked chicken breast adds lean protein and texture without overpowering the broth. Adding it late ensures the meat stays tender and moist. Kale brings fiber and vitamins, balancing the earthiness with a mild bitterness and vibrant color. The final splash of lemon juice brightens the soup, enhancing the turmeric’s flavor and making the overall bowl more refreshing.<\/p><p>Each step is designed to maximize flavor and health benefits, resulting in a soup that’s both comforting and functional. The combination of spices, fresh ingredients, and careful cooking creates a nourishing meal that supports natural inflammation relief while satisfying your taste buds.<\/p>",
         "ingredient_notes": {
             "turmeric": "Look for bright orange-yellow turmeric powder with a fresh, earthy aroma. Fresh turmeric root can be used but is harder to find and stains easily. Powdered turmeric is more convenient and still effective when cooked with oil, as in this recipe. Avoid old or dull turmeric, which loses potency and flavor. Turmeric’s active compound curcumin is fat-soluble, so pairing it with olive oil enhances absorption and health benefits.",
             "fresh ginger": "Fresh ginger root should be firm, smooth, and slightly shiny with no wrinkles or mold. It provides a sharp, zesty flavor and contains gingerol, which has anti-inflammatory properties. Avoid pre-minced or powdered ginger for this recipe as they lack brightness. Peel and grate fresh ginger just before use to preserve its essential oils and vibrant flavor, which adds a lively kick to the soup.",
@@ -257,67 +257,47 @@
     "slug": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul",
     "uniqueSlug": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul",
     "id": "post_1773591022_691",
-    "isOnline": true,
+    "isOnline": false,
     "total_time": 55,
     "structured_content": [],
     "images": [
         {
             "fileName": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_1.webp",
-            "filePath": "posts/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_1.webp",
-            "relativePath": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "filePath": "posts\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul\/images\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_1.webp",
+            "relativePath": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul\/images\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_2.webp",
-            "filePath": "posts/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_2.webp",
-            "relativePath": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "filePath": "posts\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul\/images\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_2.webp",
+            "relativePath": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul\/images\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_3.webp",
-            "filePath": "posts/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_3.webp",
-            "relativePath": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "filePath": "posts\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul\/images\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_3.webp",
+            "relativePath": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul\/images\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
-            "fileName": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_1.webp",
-            "filePath": "posts/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_1.webp",
-            "relativePath": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_1.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_2.webp",
-            "filePath": "posts/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_2.webp",
-            "relativePath": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_2.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_3.webp",
-            "filePath": "posts/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_3.webp",
-            "relativePath": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_3.webp",
-            "type": "template"
-        },
-        {
             "fileName": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_4.webp",
-            "filePath": "posts/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_4.webp",
-            "relativePath": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_4.webp",
+            "filePath": "posts\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul\/images\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_4.webp",
+            "relativePath": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul\/images\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul\/images\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_pinrecipes_image_4.webp",
+            "order": 4,
             "type": "template"
         }
     ],
     "image": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_1.webp",
-    "image_path": "posts/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_1.webp",
-    "image_dir": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul/images",
+    "image_path": "posts\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul\/images\/warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul_image_1.webp",
+    "image_dir": "warm-and-cozy-turmeric-ginger-chicken-soup-to-soothe-inflammation-and-comfort-your-soul\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-16T18:59:52+01:00",
-    "updatedAt": "2026-03-16T18:59:52+01:00",
+    "createdAt": "2026-03-15T17:11:59+01:00",
+    "updatedAt": "2026-03-15T17:11:59+01:00",
     "pin_variations": [
         {
             "title": "Golden Turmeric Ginger Chicken Soup for Ultimate Comfort",

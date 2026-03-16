@@ -257,7 +257,7 @@
     "slug": "hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic",
     "uniqueSlug": "hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic",
     "id": "post_1773554253_123",
-    "isOnline": true,
+    "isOnline": false,
     "total_time": 170,
     "structured_content": [],
     "images": [
@@ -283,31 +283,11 @@
             "order": 3
         },
         {
-            "fileName": "hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_1.webp",
-            "filePath": "posts/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic/images/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_1.webp",
-            "relativePath": "hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic/images/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic/images/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_1.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_2.webp",
-            "filePath": "posts/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic/images/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_2.webp",
-            "relativePath": "hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic/images/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic/images/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_2.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_3.webp",
-            "filePath": "posts/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic/images/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_3.webp",
-            "relativePath": "hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic/images/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic/images/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_3.webp",
-            "type": "template"
-        },
-        {
             "fileName": "hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_4.webp",
             "filePath": "posts/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic/images/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_4.webp",
             "relativePath": "hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic/images/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_4.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic/images/hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic_pinrecipes_image_4.webp",
+            "order": 4,
             "type": "template"
         }
     ],
@@ -316,8 +296,8 @@
     "image_dir": "hearty-irish-beef-and-guinness-stew-a-cozy-st-patrick-s-day-classic/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-16T18:59:52+01:00",
-    "updatedAt": "2026-03-16T18:59:52+01:00",
+    "createdAt": "2026-03-15T06:57:33+01:00",
+    "updatedAt": "2026-03-15T06:57:33+01:00",
     "pin_variations": [
         {
             "title": "Classic Irish Beef and Guinness Stew for Cozy Nights",

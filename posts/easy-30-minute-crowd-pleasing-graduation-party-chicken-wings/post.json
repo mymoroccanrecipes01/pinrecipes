@@ -253,7 +253,7 @@
     "slug": "easy-30-minute-crowd-pleasing-graduation-party-chicken-wings",
     "uniqueSlug": "easy-30-minute-crowd-pleasing-graduation-party-chicken-wings",
     "id": "post_1773552526_508",
-    "isOnline": true,
+    "isOnline": false,
     "total_time": 30,
     "structured_content": [],
     "images": [
@@ -279,31 +279,11 @@
             "order": 3
         },
         {
-            "fileName": "easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_1.webp",
-            "filePath": "posts/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings/images/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_1.webp",
-            "relativePath": "easy-30-minute-crowd-pleasing-graduation-party-chicken-wings/images/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings/images/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_1.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_2.webp",
-            "filePath": "posts/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings/images/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_2.webp",
-            "relativePath": "easy-30-minute-crowd-pleasing-graduation-party-chicken-wings/images/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings/images/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_2.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_3.webp",
-            "filePath": "posts/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings/images/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_3.webp",
-            "relativePath": "easy-30-minute-crowd-pleasing-graduation-party-chicken-wings/images/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings/images/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_3.webp",
-            "type": "template"
-        },
-        {
             "fileName": "easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_4.webp",
             "filePath": "posts/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings/images/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_4.webp",
             "relativePath": "easy-30-minute-crowd-pleasing-graduation-party-chicken-wings/images/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_4.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings/images/easy-30-minute-crowd-pleasing-graduation-party-chicken-wings_pinrecipes_image_4.webp",
+            "order": 4,
             "type": "template"
         }
     ],
@@ -312,8 +292,8 @@
     "image_dir": "easy-30-minute-crowd-pleasing-graduation-party-chicken-wings/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-16T18:50:07+01:00",
-    "updatedAt": "2026-03-16T18:50:07+01:00",
+    "createdAt": "2026-03-15T06:28:46+01:00",
+    "updatedAt": "2026-03-15T06:28:46+01:00",
     "pin_variations": [
         {
             "title": "30-Minute Crispy Chicken Wings | Perfect Graduation Party Snack",

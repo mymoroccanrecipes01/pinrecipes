@@ -1,7 +1,7 @@
 {
     "title": "Classic Caesar Salad: A Timeless Favorite",
     "promptIMG": "Professional food photography prompt: \"classic caesar salad in a rustic bowl, vibrant green romaine lettuce, creamy dressing drizzled, homemade croutons scattered, garnished with grated parmesan and fresh black pepper, natural light highlighting fresh ingredients, inviting presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": true,
+    "isOnline": false,
     "description": "Discover how to make a classic Caesar salad from scratch, featuring crisp romaine lettuce, homemade croutons, and a creamy dressing that will impress your guests. This recipe combines fresh ingredients with simple techniques, ensuring a delicious result every time.",
     "hashtags": "#CaesarSalad #SaladRecipes #HomemadeDressing #HealthyEating #FreshIngredients",
     "board_name": "Caesar Salad Recipes",
@@ -14,15 +14,15 @@
     "ingredients": [
         "1 large head of romaine lettuce, washed and torn into bite-sized pieces",
         "1 cup (90g) homemade croutons (see instructions for preparation)",
-        "1/2 cup (120ml) Caesar dressing (see instructions for preparation)",
-        "1/4 cup (25g) grated Parmesan cheese, plus extra for serving",
+        "1\/2 cup (120ml) Caesar dressing (see instructions for preparation)",
+        "1\/4 cup (25g) grated Parmesan cheese, plus extra for serving",
         "Freshly cracked black pepper, to taste",
         "Optional: anchovy fillets for additional flavor"
     ],
     "introduction": "I have fond memories of making Caesar salad with my family during summer barbecues. The combination of crisp romaine, creamy dressing, and crunchy homemade croutons is simply irresistible. What makes this version special is that I prepare everything from scratch, allowing the flavors to shine through. It’s a versatile dish that fits any occasion, whether it's a casual dinner or a fancy gathering. Let’s bring the classic Caesar salad to your table with fresh ingredients and simple techniques that will ensure a crowd-pleaser every time.",
     "why_this_recipe_works": {
         "section": "Why This Caesar Salad Recipe Works",
-        "content": "<p>The classic Caesar salad is all about balance and freshness. Using fresh romaine lettuce ensures a crisp texture, which contrasts beautifully with the creamy dressing. Homemade croutons, made from day-old bread, add that necessary crunch and flavor. The dressing, made with ingredients like garlic, lemon juice, and anchovies, creates a rich, umami flavor that ties everything together. Each component is essential, and together they create a salad that feels substantial yet refreshing.</p><p>By making the dressing from scratch, you can control the flavor and adjust it to your preference. The homemade croutons can be customized with different herbs or spices, adding a personal touch. This recipe highlights how simple ingredients, when combined thoughtfully, can produce something truly delicious.</p>",
+        "content": "<p>The classic Caesar salad is all about balance and freshness. Using fresh romaine lettuce ensures a crisp texture, which contrasts beautifully with the creamy dressing. Homemade croutons, made from day-old bread, add that necessary crunch and flavor. The dressing, made with ingredients like garlic, lemon juice, and anchovies, creates a rich, umami flavor that ties everything together. Each component is essential, and together they create a salad that feels substantial yet refreshing.<\/p><p>By making the dressing from scratch, you can control the flavor and adjust it to your preference. The homemade croutons can be customized with different herbs or spices, adding a personal touch. This recipe highlights how simple ingredients, when combined thoughtfully, can produce something truly delicious.<\/p>",
         "ingredient_notes": {
             "romaine lettuce": "Romaine is the classic choice for Caesar salads due to its sturdy leaves that hold up well against the dressing. Look for heads that are crisp and vibrant green. Avoid wilted or discolored leaves, as they can detract from the salad's overall freshness.",
             "croutons": "Homemade croutons are easy to make and provide a crunch that store-bought versions often lack. Use stale bread for the best texture, and season them with herbs like oregano or thyme for added flavor. Bake until golden brown, about 10-15 minutes at 375°F (190°C).",
@@ -172,11 +172,11 @@
     "internal_links": [
         {
             "anchor": "homemade crouton recipe",
-            "url": "/posts/homemade-croutons"
+            "url": "\/posts\/homemade-croutons"
         },
         {
             "anchor": "easy homemade salad dressings",
-            "url": "/posts/easy-homemade-salad-dressings"
+            "url": "\/posts\/easy-homemade-salad-dressings"
         }
     ],
     "category_id": "cat_1761229889_885",
@@ -191,63 +191,43 @@
     "images": [
         {
             "fileName": "classic-caesar-salad-recipe-from-scratch-every-time_image_1.webp",
-            "filePath": "posts/classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_image_1.webp",
-            "relativePath": "classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "filePath": "posts\/classic-caesar-salad-recipe-from-scratch-every-time\/images\/classic-caesar-salad-recipe-from-scratch-every-time_image_1.webp",
+            "relativePath": "classic-caesar-salad-recipe-from-scratch-every-time\/images\/classic-caesar-salad-recipe-from-scratch-every-time_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "classic-caesar-salad-recipe-from-scratch-every-time_image_2.webp",
-            "filePath": "posts/classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_image_2.webp",
-            "relativePath": "classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "filePath": "posts\/classic-caesar-salad-recipe-from-scratch-every-time\/images\/classic-caesar-salad-recipe-from-scratch-every-time_image_2.webp",
+            "relativePath": "classic-caesar-salad-recipe-from-scratch-every-time\/images\/classic-caesar-salad-recipe-from-scratch-every-time_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "classic-caesar-salad-recipe-from-scratch-every-time_image_3.webp",
-            "filePath": "posts/classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_image_3.webp",
-            "relativePath": "classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "filePath": "posts\/classic-caesar-salad-recipe-from-scratch-every-time\/images\/classic-caesar-salad-recipe-from-scratch-every-time_image_3.webp",
+            "relativePath": "classic-caesar-salad-recipe-from-scratch-every-time\/images\/classic-caesar-salad-recipe-from-scratch-every-time_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
-            "fileName": "classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_1.webp",
-            "filePath": "posts/classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_1.webp",
-            "relativePath": "classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_1.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_2.webp",
-            "filePath": "posts/classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_2.webp",
-            "relativePath": "classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_2.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_3.webp",
-            "filePath": "posts/classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_3.webp",
-            "relativePath": "classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_3.webp",
-            "type": "template"
-        },
-        {
             "fileName": "classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_4.webp",
-            "filePath": "posts/classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_4.webp",
-            "relativePath": "classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_4.webp",
+            "filePath": "posts\/classic-caesar-salad-recipe-from-scratch-every-time\/images\/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_4.webp",
+            "relativePath": "classic-caesar-salad-recipe-from-scratch-every-time\/images\/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/classic-caesar-salad-recipe-from-scratch-every-time\/images\/classic-caesar-salad-recipe-from-scratch-every-time_pinrecipes_image_4.webp",
+            "order": 4,
             "type": "template"
         }
     ],
     "slug": "classic-caesar-salad-recipe-from-scratch-every-time",
     "id": "post_1773204631_658",
     "image": "classic-caesar-salad-recipe-from-scratch-every-time_image_1.webp",
-    "image_path": "posts/classic-caesar-salad-recipe-from-scratch-every-time/images/classic-caesar-salad-recipe-from-scratch-every-time_image_1.webp",
-    "image_dir": "classic-caesar-salad-recipe-from-scratch-every-time/images",
+    "image_path": "posts\/classic-caesar-salad-recipe-from-scratch-every-time\/images\/classic-caesar-salad-recipe-from-scratch-every-time_image_1.webp",
+    "image_dir": "classic-caesar-salad-recipe-from-scratch-every-time\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-16T17:16:44+01:00",
-    "updatedAt": "2026-03-16T17:16:44+01:00",
+    "createdAt": "2026-03-11T16:54:17+01:00",
+    "updatedAt": "2026-03-11T16:54:17+01:00",
     "pin_variations": [
         {
             "title": "Elevate Your Salad Game with Classic Caesar",
