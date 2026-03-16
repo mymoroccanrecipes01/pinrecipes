@@ -1,7 +1,7 @@
 {
     "title": "Quick Banana Bread: A Simple Recipe for Ripe Bananas",
     "promptIMG": "Professional food photography prompt: \"freshly baked banana bread on a wooden cutting board, slices arranged neatly, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, warm golden brown crust, vibrant banana slices visible, cozy kitchen background in soft focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": false,
+    "isOnline": true,
     "description": "This banana bread recipe is a straightforward way to use up ripe bananas. It features a tender crumb and a subtle cinnamon flavor, making it a perfect snack or breakfast option. The simplicity of the method ensures that even novice bakers can achieve great results.",
     "hashtags": "#bananabread #easybaking #homemade #snackideas #breakfast",
     "board_name": "Easy Banana Bread",
@@ -13,20 +13,20 @@
     "yield": "One loaf, approximately 8 slices",
     "ingredients": [
         "3 ripe bananas, mashed",
-        "1\/3 cup (80ml) melted butter",
+        "1/3 cup (80ml) melted butter",
         "1 teaspoon (5ml) vanilla extract",
         "1 egg, beaten",
         "1 teaspoon (5g) baking soda",
         "Pinch of salt",
-        "3\/4 cup (150g) sugar",
+        "3/4 cup (150g) sugar",
         "1 cup (125g) all-purpose flour",
         "1 teaspoon (2g) ground cinnamon (optional)",
-        "1\/2 cup (80g) chopped walnuts or chocolate chips (optional)"
+        "1/2 cup (80g) chopped walnuts or chocolate chips (optional)"
     ],
     "introduction": "Banana bread holds a special place in my heart. I remember the first time I made it in college, trying to impress my roommates with a simple yet delicious treat. This version is particularly special because it embraces the natural sweetness of overripe bananas, turning what might otherwise go to waste into a warm, comforting loaf. It’s an easy recipe that doesn’t require any fancy equipment, just a bowl and a fork. Perfect for breakfast, a snack, or even dessert on a cozy evening, this banana bread is sure to become a staple in your kitchen.",
     "why_this_recipe_works": {
         "section": "Why This Banana Bread Recipe Works",
-        "content": "<p>The key to excellent banana bread lies in the ripeness of the bananas. The more ripe they are, the sweeter and more flavorful your bread will be. This is due to the starches in the banana breaking down into sugars as they ripen. Additionally, using melted butter creates a moist texture and enhances the flavor profile compared to oil. Also, incorporating baking soda as a leavening agent allows the bread to rise nicely, giving it that perfect crumb.<\/p><p>Mixing the ingredients gently is crucial. Overmixing can lead to a dense loaf due to the gluten in the flour developing too much. This recipe balances moisture and structure, ensuring a tender and fluffy bread that is easy to slice and enjoy.<\/p>",
+        "content": "<p>The key to excellent banana bread lies in the ripeness of the bananas. The more ripe they are, the sweeter and more flavorful your bread will be. This is due to the starches in the banana breaking down into sugars as they ripen. Additionally, using melted butter creates a moist texture and enhances the flavor profile compared to oil. Also, incorporating baking soda as a leavening agent allows the bread to rise nicely, giving it that perfect crumb.</p><p>Mixing the ingredients gently is crucial. Overmixing can lead to a dense loaf due to the gluten in the flour developing too much. This recipe balances moisture and structure, ensuring a tender and fluffy bread that is easy to slice and enjoy.</p>",
         "ingredient_notes": {
             "ripe bananas": "Choose bananas that are heavily speckled or even blackened. Their natural sweetness will enhance the flavor of the bread significantly. If you have frozen bananas, just thaw them and mash — they work perfectly in this recipe.",
             "butter": "Using melted butter instead of oil adds richness and flavor to the bread. It helps create a tender crumb while also enhancing the overall taste. Avoid using margarine, as it can alter the flavor.",
@@ -125,12 +125,12 @@
     "variations": [
         {
             "name": "Chocolate Chip Banana Bread",
-            "description": "Add 1\/2 cup (90g) of chocolate chips to the batter for a sweeter twist.",
+            "description": "Add 1/2 cup (90g) of chocolate chips to the batter for a sweeter twist.",
             "technical_note": "Chocolate chips melt slightly during baking, adding a rich texture and flavor."
         },
         {
             "name": "Nutty Banana Bread",
-            "description": "Incorporate 1\/2 cup (70g) of chopped walnuts or pecans for a crunchy texture.",
+            "description": "Incorporate 1/2 cup (70g) of chopped walnuts or pecans for a crunchy texture.",
             "technical_note": "Nuts add a nice contrast to the soft texture of the banana bread."
         },
         {
@@ -140,7 +140,7 @@
         },
         {
             "name": "Vegan Banana Bread",
-            "description": "Substitute the egg with 1\/4 cup (60ml) of applesauce or a flax egg.",
+            "description": "Substitute the egg with 1/4 cup (60ml) of applesauce or a flax egg.",
             "technical_note": "This allows the recipe to be plant-based without sacrificing texture."
         }
     ],
@@ -180,22 +180,22 @@
         },
         {
             "question": "Can I add nuts or chocolate chips?",
-            "answer": "Yes! Feel free to add 1\/2 cup of your choice of nuts or chocolate chips for extra flavor and texture."
+            "answer": "Yes! Feel free to add 1/2 cup of your choice of nuts or chocolate chips for extra flavor and texture."
         }
     ],
     "conclusion": "This quick banana bread recipe is a simple way to turn ripe bananas into a delicious treat that everyone will love. I hope you give it a try and enjoy the warm, comforting flavors it brings. Please share your thoughts or any variations you try — I’d love to hear how it turns out for you!",
     "internal_links": [
         {
             "anchor": "baking tips for beginners",
-            "url": "\/posts\/baking-tips-beginners"
+            "url": "/posts/baking-tips-beginners"
         },
         {
             "anchor": "how to ripen bananas quickly",
-            "url": "\/posts\/ripen-bananas-quickly"
+            "url": "/posts/ripen-bananas-quickly"
         },
         {
             "anchor": "more easy baking recipes",
-            "url": "\/posts\/easy-baking-recipes"
+            "url": "/posts/easy-baking-recipes"
         }
     ],
     "category_id": "cat_1761230294_638",
@@ -210,43 +210,63 @@
     "images": [
         {
             "fileName": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
-            "filePath": "posts\/quick-and-easy-banana-bread-recipe-in-just-60-minutes\/images\/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
-            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes\/images\/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
+            "filePath": "posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
+            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
             "order": 1
         },
         {
             "fileName": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_2.webp",
-            "filePath": "posts\/quick-and-easy-banana-bread-recipe-in-just-60-minutes\/images\/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_2.webp",
-            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes\/images\/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
+            "filePath": "posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_2.webp",
+            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
             "order": 2
         },
         {
             "fileName": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_3.webp",
-            "filePath": "posts\/quick-and-easy-banana-bread-recipe-in-just-60-minutes\/images\/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_3.webp",
-            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes\/images\/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
+            "filePath": "posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_3.webp",
+            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
         },
         {
+            "fileName": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_1.webp",
+            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_2.webp",
+            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_3.webp",
+            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
             "fileName": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_4.webp",
-            "filePath": "posts\/quick-and-easy-banana-bread-recipe-in-just-60-minutes\/images\/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_4.webp",
-            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes\/images\/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/quick-and-easy-banana-bread-recipe-in-just-60-minutes\/images\/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_4.webp",
-            "order": 4,
+            "filePath": "posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_4.webp",
+            "relativePath": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_pinrecipes_image_4.webp",
             "type": "template"
         }
     ],
     "slug": "quick-and-easy-banana-bread-recipe-in-just-60-minutes",
     "id": "post_1773194354_649",
     "image": "quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
-    "image_path": "posts\/quick-and-easy-banana-bread-recipe-in-just-60-minutes\/images\/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
-    "image_dir": "quick-and-easy-banana-bread-recipe-in-just-60-minutes\/images",
+    "image_path": "posts/quick-and-easy-banana-bread-recipe-in-just-60-minutes/images/quick-and-easy-banana-bread-recipe-in-just-60-minutes_image_1.webp",
+    "image_dir": "quick-and-easy-banana-bread-recipe-in-just-60-minutes/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2026-03-11T16:52:55+01:00",
-    "updatedAt": "2026-03-11T16:52:55+01:00",
+    "updatedAt": "2026-03-16T16:07:33+01:00",
     "pin_variations": [
         {
             "title": "Easy Banana Bread Recipe: Perfect for Ripe Bananas!",

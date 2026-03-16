@@ -1,0 +1,107 @@
+{
+    "id": "post_1773200439_137",
+    "slug": "ultimate-coffee-ice-cream-recipe-no-machine-needed",
+    "title": "Ultimate Coffee Ice Cream Recipe: No Machine Needed!",
+    "promptIMG": "Food photography: Coffee ice cream, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": true,
+    "description": "This coffee ice cream is a creamy, indulgent treat that's super easy to make at home without any fancy machines. Just a few simple ingredients and you'll have a delightful dessert ready for warm evenings!",
+    "category_id": "cat_1761230221_583",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 cups heavy cream",
+        "1 cup sweetened condensed milk",
+        "1/2 cup brewed coffee, cooled",
+        "1 teaspoon vanilla extract",
+        "1/4 teaspoon salt"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "In a large mixing bowl, combine the heavy cream and sweetened condensed milk. Using a hand mixer or a whisk, whip the cream until soft peaks form. This step is crucial because it incorporates air into the mixture, giving your ice cream that light, airy texture. Be careful not to over-whip; you want it fluffy, not stiff. If you start to see grainy bits, you've gone too far!",
+            "timing": "5 minutes",
+            "doneness_cue": "The mixture should be light and fluffy, holding soft peaks."
+        },
+        {
+            "step": 2,
+            "instruction": "Next, gently fold in the cooled brewed coffee, vanilla extract, and salt. Use a spatula to carefully combine these ingredients without deflating the whipped cream. The salt enhances the flavors, while the coffee gives it that rich, bold taste. Make sure everything is well incorporated, but still light and airy. If you see streaks of coffee, that’s okay; it adds to the visual appeal!",
+            "timing": "3 minutes",
+            "doneness_cue": "The mixture should be uniform in color with small flecks of coffee."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the mixture into a freezer-safe container. I like to use a loaf pan because it’s easy to scoop from later. Smooth the top with a spatula, and cover it tightly with plastic wrap or a lid. This helps prevent ice crystals from forming, which can ruin that creamy texture. If you want, you can sprinkle some chocolate chips or crushed coffee beans on top for added texture and flavor!",
+            "timing": "2 minutes",
+            "doneness_cue": "The mixture should be evenly spread in the container."
+        },
+        {
+            "step": 4,
+            "instruction": "Place the container in the freezer and let it chill for at least 6 hours, or overnight if you can wait! This waiting time is essential for the flavors to meld and for the ice cream to set properly. If you try to scoop it too early, it might be too soft and hard to serve. Patience is key here, my friend!",
+            "timing": "6 hours",
+            "doneness_cue": "The ice cream should be firm but scoopable."
+        },
+        {
+            "step": 5,
+            "instruction": "When you’re ready to serve, take the ice cream out of the freezer and let it sit for about 5-10 minutes to soften slightly. This makes scooping much easier and helps it reach that perfect creamy consistency. Use an ice cream scoop or a spoon to serve it into bowls or cones. If you want to get fancy, drizzle some chocolate sauce or top with whipped cream!",
+            "timing": "10 minutes",
+            "doneness_cue": "The ice cream should be slightly softened but still hold its shape."
+        },
+        {
+            "step": 6,
+            "instruction": "Enjoy your homemade coffee ice cream! The combination of the rich coffee flavor and the creamy texture is simply divine. This is the kind of dessert that brings smiles and warm memories. You can also store any leftovers in the freezer, but I doubt there will be much left after you serve it to friends and family!",
+            "timing": "0 minutes",
+            "doneness_cue": "Everyone should be enjoying their bowls of ice cream!"
+        }
+    ],
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "servings": 6,
+    "difficulty": "Easy",
+    "board_name": "Coffee Recipes",
+    "tips": "One of the best tips I can share is to make sure your cream is very cold before you start whipping it. This helps it whip up faster and hold its shape better. Also, if you want to get creative, try adding a splash of coffee liqueur for an adult twist! Just remember to adjust the sugar accordingly since liqueurs can be sweet.",
+    "structured_content": [],
+    "images": [
+        {
+            "fileName": "ultimate-coffee-ice-cream-recipe-no-machine-needed_image_1.webp",
+            "filePath": "posts/ultimate-coffee-ice-cream-recipe-no-machine-needed/images/ultimate-coffee-ice-cream-recipe-no-machine-needed_image_1.webp",
+            "relativePath": "ultimate-coffee-ice-cream-recipe-no-machine-needed/images/ultimate-coffee-ice-cream-recipe-no-machine-needed_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "ultimate-coffee-ice-cream-recipe-no-machine-needed_image_2.webp",
+            "filePath": "posts/ultimate-coffee-ice-cream-recipe-no-machine-needed/images/ultimate-coffee-ice-cream-recipe-no-machine-needed_image_2.webp",
+            "relativePath": "ultimate-coffee-ice-cream-recipe-no-machine-needed/images/ultimate-coffee-ice-cream-recipe-no-machine-needed_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "ultimate-coffee-ice-cream-recipe-no-machine-needed_image_3.webp",
+            "filePath": "posts/ultimate-coffee-ice-cream-recipe-no-machine-needed/images/ultimate-coffee-ice-cream-recipe-no-machine-needed_image_3.webp",
+            "relativePath": "ultimate-coffee-ice-cream-recipe-no-machine-needed/images/ultimate-coffee-ice-cream-recipe-no-machine-needed_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        }
+    ],
+    "image": "ultimate-coffee-ice-cream-recipe-no-machine-needed_image_1.webp",
+    "image_path": "posts/ultimate-coffee-ice-cream-recipe-no-machine-needed/images/ultimate-coffee-ice-cream-recipe-no-machine-needed_image_1.webp",
+    "image_dir": "ultimate-coffee-ice-cream-recipe-no-machine-needed/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-11T16:59:01+01:00",
+    "updatedAt": "2026-03-11T16:59:01+01:00",
+    "pin_variations": [
+        {
+            "title": "Easy No-Machine Coffee Ice Cream You’ll Love!",
+            "description": "Satisfy your sweet cravings with this easy, no-machine coffee ice cream recipe! Perfect for warm evenings, it combines rich coffee flavor with creamy goodness for an indulgent dessert. Just a few ingredients and you’re set! 🍦☕ #CoffeeIceCream #NoMachine #DessertRecipe #HomemadeIceCream #SummerTreats"
+        },
+        {
+            "title": "Make Delicious Coffee Ice Cream Without a Machine!",
+            "description": "Discover the ultimate treat for coffee lovers! This no-machine coffee ice cream is rich, creamy, and super simple to whip up at home. Perfect for hot summer nights or a sweet pick-me-up. Enjoy the decadence of homemade ice cream in minutes! 🍨☕ #IceCreamRecipe #CoffeeLovers #NoMachineIceCream #DessertIdeas #DIY"
+        },
+        {
+            "title": "Delightful No-Machine Coffee Ice Cream Recipe!",
+            "description": "Treat yourself to a creamy, dreamy coffee ice cream that requires no fancy equipment! This easy recipe is perfect for any coffee enthusiast looking to enjoy a homemade dessert. Just a few ingredients and you’ll be enjoying a scoop in no time! ☕🍦 #CoffeeIceCream #EasyDesserts #NoMachine #SummerSweets #Yummy"
+        }
+    ]
+}

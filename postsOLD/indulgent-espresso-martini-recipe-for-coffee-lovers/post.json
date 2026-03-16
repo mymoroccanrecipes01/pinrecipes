@@ -1,0 +1,114 @@
+{
+    "id": "post_1773200142_530",
+    "slug": "indulgent-espresso-martini-recipe-for-coffee-lovers",
+    "title": "Indulgent Espresso Martini Recipe for Coffee Lovers",
+    "promptIMG": "Food photography: Espresso Martini, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "isOnline": true,
+    "description": "This Espresso Martini is a rich, caffeinated delight that's perfect for cocktail hour. With a hint of coffee liqueur, it’s a must-try for coffee enthusiasts!",
+    "category_id": "cat_1761230422_512",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 oz freshly brewed espresso, cooled",
+        "1 oz vodka",
+        "1 oz coffee liqueur (like Kahlúa)",
+        "1/2 oz simple syrup (adjust to taste)",
+        "Ice cubes",
+        "Coffee beans for garnish"
+    ],
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by brewing a shot of espresso. The key here is to use freshly brewed coffee; it brings out the rich flavors and aromas that make this cocktail special. Allow it to cool slightly before using it in your drink. If you skip this step or use instant coffee, you won't get the same depth of flavor, and the drink may taste flat.",
+            "timing": "5 minutes",
+            "doneness_cue": "The espresso should be rich and aromatic, with a nice crema on top."
+        },
+        {
+            "step": 2,
+            "instruction": "In a cocktail shaker, combine the cooled espresso, vodka, coffee liqueur, and simple syrup. Fill the shaker with ice cubes to chill the mixture effectively. This step is crucial because it not only cools the drink but also dilutes it slightly, balancing the flavors. Make sure to shake vigorously for about 15 seconds; this aerates the mixture and creates a lovely froth when served.",
+            "timing": "2 minutes",
+            "doneness_cue": "You should feel the shaker getting cold, and the mixture should be well combined and frothy."
+        },
+        {
+            "step": 3,
+            "instruction": "Strain the mixture into chilled martini glasses. Using a fine mesh strainer can help catch any coffee grounds, ensuring a smooth finish. This technique is important because it enhances the drink's texture, making each sip velvety and enjoyable. If you pour too quickly or skip this step, you might end up with gritty bits in your cocktail.",
+            "timing": "2 minutes",
+            "doneness_cue": "The drink should pour smoothly and look glossy in the glass."
+        },
+        {
+            "step": 4,
+            "instruction": "Garnish each martini with a few coffee beans. This not only adds a touch of elegance but also hints at the coffee flavor within. It’s a small detail, but it elevates the drink visually and aromatically. Be careful not to overdo it; just a few beans will do the trick.",
+            "timing": "1 minute",
+            "doneness_cue": "The garnish should sit prettily on top of the frothy surface."
+        },
+        {
+            "step": 5,
+            "instruction": "Serve immediately and enjoy! The combination of coffee and alcohol creates a delightful pick-me-up that’s perfect for evening gatherings. It’s important to serve it fresh because the froth will dissipate over time, and you want that beautiful presentation when serving to guests.",
+            "timing": "1 minute",
+            "doneness_cue": "The drink should have a nice frothy top and look inviting."
+        },
+        {
+            "step": 6,
+            "instruction": "If you're making a larger batch, just multiply the ingredients accordingly and mix in a larger shaker. Just remember to shake in batches to avoid over-diluting the cocktail. This is a great way to serve a crowd without losing the quality of each drink. If you try to shake too much at once, the ice can melt too quickly, resulting in a watery cocktail.",
+            "timing": "3 minutes",
+            "doneness_cue": "The cocktail should still maintain its rich color and frothy top."
+        },
+        {
+            "step": 7,
+            "instruction": "For a twist, consider adding a splash of flavored syrup, like vanilla or hazelnut, to customize your Espresso Martini. This can enhance the flavor profile and make it uniquely yours. Just be cautious with the amount; too much can overpower the coffee flavor, which is the star of the show.",
+            "timing": "2 minutes",
+            "doneness_cue": "The drink should still taste predominantly of coffee with a hint of sweetness."
+        }
+    ],
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "servings": 2,
+    "difficulty": "Medium",
+    "board_name": "Coffee Recipes",
+    "tips": "One key technique to keep in mind is to shake your cocktail vigorously. This not only chills the drink but also creates that beautiful froth on top. If you skip this step, your cocktail might lack the signature texture that makes it so enjoyable. Also, remember to use freshly brewed espresso; it makes all the difference in flavor. Lastly, chill your glasses beforehand to ensure your cocktail stays cold while you enjoy it!",
+    "structured_content": [],
+    "images": [
+        {
+            "fileName": "indulgent-espresso-martini-recipe-for-coffee-lovers_image_1.webp",
+            "filePath": "posts/indulgent-espresso-martini-recipe-for-coffee-lovers/images/indulgent-espresso-martini-recipe-for-coffee-lovers_image_1.webp",
+            "relativePath": "indulgent-espresso-martini-recipe-for-coffee-lovers/images/indulgent-espresso-martini-recipe-for-coffee-lovers_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "indulgent-espresso-martini-recipe-for-coffee-lovers_image_2.webp",
+            "filePath": "posts/indulgent-espresso-martini-recipe-for-coffee-lovers/images/indulgent-espresso-martini-recipe-for-coffee-lovers_image_2.webp",
+            "relativePath": "indulgent-espresso-martini-recipe-for-coffee-lovers/images/indulgent-espresso-martini-recipe-for-coffee-lovers_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "indulgent-espresso-martini-recipe-for-coffee-lovers_image_3.webp",
+            "filePath": "posts/indulgent-espresso-martini-recipe-for-coffee-lovers/images/indulgent-espresso-martini-recipe-for-coffee-lovers_image_3.webp",
+            "relativePath": "indulgent-espresso-martini-recipe-for-coffee-lovers/images/indulgent-espresso-martini-recipe-for-coffee-lovers_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        }
+    ],
+    "image": "indulgent-espresso-martini-recipe-for-coffee-lovers_image_1.webp",
+    "image_path": "posts/indulgent-espresso-martini-recipe-for-coffee-lovers/images/indulgent-espresso-martini-recipe-for-coffee-lovers_image_1.webp",
+    "image_dir": "indulgent-espresso-martini-recipe-for-coffee-lovers/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-11T16:57:45+01:00",
+    "updatedAt": "2026-03-11T16:57:45+01:00",
+    "pin_variations": [
+        {
+            "title": "Delicious Espresso Martini: A Coffee Lover's Dream!",
+            "description": "Savor the moment with this silky Espresso Martini! Combining rich coffee flavors with a touch of liqueur, this cocktail is the perfect pick-me-up for any occasion. Treat yourself or impress your guests with this indulgent drink. ☕️✨ #EspressoMartini #CocktailRecipes #CoffeeLovers #Mixology"
+        },
+        {
+            "title": "Elevate Your Cocktail Game with an Espresso Martini",
+            "description": "Dive into the world of cocktails with our indulgent Espresso Martini recipe! This luxurious drink is a delightful blend of espresso and coffee liqueur, crafted for the ultimate coffee enthusiast. Perfect for gatherings or a cozy night in! 🍸❤️ #Espresso #CocktailHour #Coffee #DrinkRecipes"
+        },
+        {
+            "title": "Espresso Martini: The Perfect Blend of Coffee & Cocktails",
+            "description": "Discover the irresistible flavors of our Espresso Martini, a rich and caffeinated cocktail that’s sure to please! Ideal for happy hour, this drink combines the boldness of espresso with the sweetness of coffee liqueur for a truly indulgent experience. Cheers to coffee lovers! ☕️🥂 #EspressoMartini #CocktailLovers #CoffeeAddict #Cheers"
+        }
+    ]
+}
