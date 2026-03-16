@@ -1,7 +1,7 @@
 {
     "title": "Classic Caesar Salad: Homemade Dressing and Crispy Croutons",
     "promptIMG": "Professional food photography prompt: \"delicious Caesar salad, featuring vibrant romaine lettuce, homemade croutons, and creamy dressing, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": true,
+    "isOnline": false,
     "description": "This Caesar salad elevates your dining experience with a zesty, homemade dressing and perfectly crispy croutons. It's a timeless recipe that balances freshness with rich flavors, perfect for any meal.",
     "hashtags": "#CaesarSalad #HomemadeDressing #CrispyCroutons #HealthyEating #SaladRecipes",
     "board_name": "Caesar Salad Recipes",
@@ -14,15 +14,15 @@
     "ingredients": [
         "1 large head of romaine lettuce, washed and chopped",
         "2 cups (50g) homemade croutons",
-        "1/2 cup (120ml) Caesar dressing (homemade or store-bought)",
-        "1/4 cup (30g) grated Parmesan cheese",
+        "1\/2 cup (120ml) Caesar dressing (homemade or store-bought)",
+        "1\/4 cup (30g) grated Parmesan cheese",
         "1 tsp (5g) fresh lemon juice",
         "Salt and pepper to taste"
     ],
     "introduction": "Caesar salad holds a special place in my heart. My first taste of it was at a family gathering, where my aunt made her own dressing from scratch. The tang of the lemon and the creaminess of the dressing paired with crunchy romaine instantly became a favorite. This version is true to that original experience, with fresh ingredients and homemade croutons that add a satisfying crunch. It’s versatile enough to pair with grilled chicken for a heartier meal or serve as a refreshing side dish with any dinner.",
     "why_this_recipe_works": {
         "section": "Why This Caesar Salad Works",
-        "content": "<p>The success of Caesar salad hinges on the harmony of flavors and textures. The crispness of the romaine lettuce provides a refreshing base, while the homemade croutons contribute a delightful crunch that contrasts beautifully with the creamy dressing. The dressing itself is crucial; a balance of acidity from the lemon juice and richness from the Parmesan cheese creates that signature Caesar flavor.</p><p>Moreover, making croutons at home allows you to control their texture and seasoning. Drying out the bread in the oven enhances their crunch, making them the perfect complement to the salad. Each bite should provide a mix of creamy, crunchy, and fresh notes, making every mouthful a satisfying experience.</p>",
+        "content": "<p>The success of Caesar salad hinges on the harmony of flavors and textures. The crispness of the romaine lettuce provides a refreshing base, while the homemade croutons contribute a delightful crunch that contrasts beautifully with the creamy dressing. The dressing itself is crucial; a balance of acidity from the lemon juice and richness from the Parmesan cheese creates that signature Caesar flavor.<\/p><p>Moreover, making croutons at home allows you to control their texture and seasoning. Drying out the bread in the oven enhances their crunch, making them the perfect complement to the salad. Each bite should provide a mix of creamy, crunchy, and fresh notes, making every mouthful a satisfying experience.<\/p>",
         "ingredient_notes": {
             "romaine lettuce": "Using fresh romaine is vital for a Caesar salad. It has a sturdy texture, making it ideal for holding up against the dressing without wilting too quickly. Look for bright green, crisp leaves when selecting your lettuce.",
             "croutons": "Homemade croutons are easy to make. Stale bread works best as it crisps up nicely in the oven. Toss the bread cubes with olive oil, garlic powder, and a pinch of salt for added flavor, then bake until golden.",
@@ -160,15 +160,15 @@
     "internal_links": [
         {
             "anchor": "how to make homemade croutons",
-            "url": "/posts/homemade-croutons"
+            "url": "\/posts\/homemade-croutons"
         },
         {
             "anchor": "the best Caesar dressing recipes",
-            "url": "/posts/caesar-dressing-recipes"
+            "url": "\/posts\/caesar-dressing-recipes"
         },
         {
             "anchor": "different salad variations",
-            "url": "/posts/salad-variations"
+            "url": "\/posts\/salad-variations"
         }
     ],
     "category_id": "cat_1761230383_494",
@@ -183,63 +183,43 @@
     "images": [
         {
             "fileName": "perfect-caesar-salad-restaurant-quality-at-home_image_1.webp",
-            "filePath": "posts/perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_image_1.webp",
-            "relativePath": "perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "filePath": "posts\/perfect-caesar-salad-restaurant-quality-at-home\/images\/perfect-caesar-salad-restaurant-quality-at-home_image_1.webp",
+            "relativePath": "perfect-caesar-salad-restaurant-quality-at-home\/images\/perfect-caesar-salad-restaurant-quality-at-home_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "perfect-caesar-salad-restaurant-quality-at-home_image_2.webp",
-            "filePath": "posts/perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_image_2.webp",
-            "relativePath": "perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "filePath": "posts\/perfect-caesar-salad-restaurant-quality-at-home\/images\/perfect-caesar-salad-restaurant-quality-at-home_image_2.webp",
+            "relativePath": "perfect-caesar-salad-restaurant-quality-at-home\/images\/perfect-caesar-salad-restaurant-quality-at-home_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "perfect-caesar-salad-restaurant-quality-at-home_image_3.webp",
-            "filePath": "posts/perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_image_3.webp",
-            "relativePath": "perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "filePath": "posts\/perfect-caesar-salad-restaurant-quality-at-home\/images\/perfect-caesar-salad-restaurant-quality-at-home_image_3.webp",
+            "relativePath": "perfect-caesar-salad-restaurant-quality-at-home\/images\/perfect-caesar-salad-restaurant-quality-at-home_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
-            "fileName": "perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_1.webp",
-            "filePath": "posts/perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_1.webp",
-            "relativePath": "perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_1.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_2.webp",
-            "filePath": "posts/perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_2.webp",
-            "relativePath": "perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_2.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_3.webp",
-            "filePath": "posts/perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_3.webp",
-            "relativePath": "perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_3.webp",
-            "type": "template"
-        },
-        {
             "fileName": "perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_4.webp",
-            "filePath": "posts/perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_4.webp",
-            "relativePath": "perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_4.webp",
+            "filePath": "posts\/perfect-caesar-salad-restaurant-quality-at-home\/images\/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_4.webp",
+            "relativePath": "perfect-caesar-salad-restaurant-quality-at-home\/images\/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/perfect-caesar-salad-restaurant-quality-at-home\/images\/perfect-caesar-salad-restaurant-quality-at-home_pinrecipes_image_4.webp",
+            "order": 4,
             "type": "template"
         }
     ],
     "slug": "perfect-caesar-salad-restaurant-quality-at-home",
     "id": "post_1773203612_389",
     "image": "perfect-caesar-salad-restaurant-quality-at-home_image_1.webp",
-    "image_path": "posts/perfect-caesar-salad-restaurant-quality-at-home/images/perfect-caesar-salad-restaurant-quality-at-home_image_1.webp",
-    "image_dir": "perfect-caesar-salad-restaurant-quality-at-home/images",
+    "image_path": "posts\/perfect-caesar-salad-restaurant-quality-at-home\/images\/perfect-caesar-salad-restaurant-quality-at-home_image_1.webp",
+    "image_dir": "perfect-caesar-salad-restaurant-quality-at-home\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2026-03-11T16:53:48+01:00",
-    "updatedAt": "2026-03-16T16:15:16+01:00",
+    "updatedAt": "2026-03-11T16:53:48+01:00",
     "pin_variations": [
         {
             "title": "Elevate Your Salad Game: Classic Caesar Delight",

@@ -1,7 +1,7 @@
 {
     "title": "Crispy Bacon Caesar Salad: A Fresh Take on a Classic",
     "promptIMG": "Professional food photography prompt: \"Crispy bacon Caesar salad served in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": true,
+    "isOnline": false,
     "description": "This Caesar salad elevates the classic with crispy bacon and fresh parmesan, creating a delicious balance of flavors and textures. It's a fantastic option for a light lunch or a side at dinner. Discover how this twist on a timeless recipe will impress your family and friends.",
     "hashtags": "#CaesarSalad #FreshSalads #HealthyEating #BaconLovers #SaladRecipes",
     "board_name": "Caesar Salad Recipes",
@@ -14,16 +14,16 @@
     "ingredients": [
         "1 head of romaine lettuce, chopped (about 300g)",
         "4 slices of bacon (about 120g), cooked until crispy and crumbled",
-        "1/2 cup (50g) grated parmesan cheese, plus extra for serving",
+        "1\/2 cup (50g) grated parmesan cheese, plus extra for serving",
         "1 cup (100g) croutons (store-bought or homemade)",
-        "1/4 cup (60ml) Caesar salad dressing (store-bought or homemade)",
+        "1\/4 cup (60ml) Caesar salad dressing (store-bought or homemade)",
         "Salt and pepper to taste",
         "Optional: lemon wedges for serving"
     ],
     "introduction": "Caesar salad has always been a go-to in my household, especially during warmer months. I remember my first time making it with my grandmother, who insisted on using fresh ingredients for the best flavor. This version, with crispy bacon and a generous sprinkle of parmesan, adds a satisfying crunch and a savory depth that makes it stand out. Whether you're enjoying it as a light lunch or serving it alongside dinner, this salad is sure to impress your guests without much fuss.",
     "why_this_recipe_works": {
         "section": "Why This Caesar Salad Recipe Works",
-        "content": "<p>The key to a great Caesar salad lies in the balance of flavors and textures. The crispness of the romaine lettuce provides a refreshing base, while the crispy bacon adds a savory crunch that enhances the salad's overall appeal. Parmesan cheese not only contributes a rich, salty flavor but also complements the creamy texture of Caesar dressing.</p><p>Using quality ingredients—like fresh romaine and homemade or high-quality dressing—ensures that each bite is satisfying. The addition of croutons brings an extra crunch, which contrasts wonderfully with the creamy dressing. This salad is not just a side; it can hold its own as a light meal.</p>",
+        "content": "<p>The key to a great Caesar salad lies in the balance of flavors and textures. The crispness of the romaine lettuce provides a refreshing base, while the crispy bacon adds a savory crunch that enhances the salad's overall appeal. Parmesan cheese not only contributes a rich, salty flavor but also complements the creamy texture of Caesar dressing.<\/p><p>Using quality ingredients—like fresh romaine and homemade or high-quality dressing—ensures that each bite is satisfying. The addition of croutons brings an extra crunch, which contrasts wonderfully with the creamy dressing. This salad is not just a side; it can hold its own as a light meal.<\/p>",
         "ingredient_notes": {
             "romaine lettuce": "Opt for fresh, crisp romaine lettuce for the best texture. The leaves should be bright green and crunchy, as wilted or brown edges can detract from the salad's freshness.",
             "bacon": "Use thick-cut bacon for extra crunch and flavor. Cooking it until crispy ensures that it retains its texture when mixed with the dressing, adding a delicious smoky flavor to the salad.",
@@ -172,15 +172,15 @@
     "internal_links": [
         {
             "anchor": "tips for making homemade Caesar dressing",
-            "url": "/posts/homemade-caesar-dressing-tips"
+            "url": "\/posts\/homemade-caesar-dressing-tips"
         },
         {
             "anchor": "how to cook crispy bacon perfectly",
-            "url": "/posts/cooking-crispy-bacon"
+            "url": "\/posts\/cooking-crispy-bacon"
         },
         {
             "anchor": "homemade croutons recipe",
-            "url": "/posts/homemade-croutons-recipe"
+            "url": "\/posts\/homemade-croutons-recipe"
         }
     ],
     "category_id": "cat_1761229889_885",
@@ -195,63 +195,43 @@
     "images": [
         {
             "fileName": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_1.webp",
-            "filePath": "posts/ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_1.webp",
-            "relativePath": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "filePath": "posts\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan\/images\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_1.webp",
+            "relativePath": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan\/images\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_2.webp",
-            "filePath": "posts/ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_2.webp",
-            "relativePath": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "filePath": "posts\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan\/images\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_2.webp",
+            "relativePath": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan\/images\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_3.webp",
-            "filePath": "posts/ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_3.webp",
-            "relativePath": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "filePath": "posts\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan\/images\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_3.webp",
+            "relativePath": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan\/images\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
-            "fileName": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_1.webp",
-            "filePath": "posts/ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_1.webp",
-            "relativePath": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_1.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_2.webp",
-            "filePath": "posts/ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_2.webp",
-            "relativePath": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_2.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_3.webp",
-            "filePath": "posts/ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_3.webp",
-            "relativePath": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_3.webp",
-            "type": "template"
-        },
-        {
             "fileName": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_4.webp",
-            "filePath": "posts/ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_4.webp",
-            "relativePath": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_4.webp",
+            "filePath": "posts\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan\/images\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_4.webp",
+            "relativePath": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan\/images\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/pinrecipes\/posts\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan\/images\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_pinrecipes_image_4.webp",
+            "order": 4,
             "type": "template"
         }
     ],
     "slug": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan",
     "id": "post_1773204786_843",
     "image": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_1.webp",
-    "image_path": "posts/ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_1.webp",
-    "image_dir": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan/images",
+    "image_path": "posts\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan\/images\/ultimate-caesar-salad-with-crispy-bacon-and-parmesan_image_1.webp",
+    "image_dir": "ultimate-caesar-salad-with-crispy-bacon-and-parmesan\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2026-03-11T16:54:15+01:00",
-    "updatedAt": "2026-03-16T16:25:47+01:00",
+    "updatedAt": "2026-03-11T16:54:15+01:00",
     "pin_variations": [
         {
             "title": "Bacon-Wrapped Caesar Salad: A Delicious Upgrade",
