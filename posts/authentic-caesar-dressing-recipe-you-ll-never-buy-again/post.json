@@ -209,7 +209,7 @@
     "slug": "authentic-caesar-dressing-recipe-you-ll-never-buy-again",
     "uniqueSlug": "authentic-caesar-dressing-recipe-you-ll-never-buy-again",
     "id": "post_1773270260_660",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 10,
     "structured_content": [],
     "images": [
@@ -233,6 +233,34 @@
             "relativePath": "authentic-caesar-dressing-recipe-you-ll-never-buy-again/images/authentic-caesar-dressing-recipe-you-ll-never-buy-again_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
+        },
+        {
+            "fileName": "authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_1.webp",
+            "filePath": "posts/authentic-caesar-dressing-recipe-you-ll-never-buy-again/images/authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_1.webp",
+            "relativePath": "authentic-caesar-dressing-recipe-you-ll-never-buy-again/images/authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/authentic-caesar-dressing-recipe-you-ll-never-buy-again/images/authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_2.webp",
+            "filePath": "posts/authentic-caesar-dressing-recipe-you-ll-never-buy-again/images/authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_2.webp",
+            "relativePath": "authentic-caesar-dressing-recipe-you-ll-never-buy-again/images/authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/authentic-caesar-dressing-recipe-you-ll-never-buy-again/images/authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_3.webp",
+            "filePath": "posts/authentic-caesar-dressing-recipe-you-ll-never-buy-again/images/authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_3.webp",
+            "relativePath": "authentic-caesar-dressing-recipe-you-ll-never-buy-again/images/authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/authentic-caesar-dressing-recipe-you-ll-never-buy-again/images/authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_4.webp",
+            "filePath": "posts/authentic-caesar-dressing-recipe-you-ll-never-buy-again/images/authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_4.webp",
+            "relativePath": "authentic-caesar-dressing-recipe-you-ll-never-buy-again/images/authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/authentic-caesar-dressing-recipe-you-ll-never-buy-again/images/authentic-caesar-dressing-recipe-you-ll-never-buy-again_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "authentic-caesar-dressing-recipe-you-ll-never-buy-again_image_1.webp",
@@ -240,8 +268,8 @@
     "image_dir": "authentic-caesar-dressing-recipe-you-ll-never-buy-again/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-12T00:04:20+01:00",
-    "updatedAt": "2026-03-12T00:04:20+01:00",
+    "createdAt": "2026-03-18T00:51:39+01:00",
+    "updatedAt": "2026-03-18T00:51:39+01:00",
     "pin_variations": [
         {
             "title": "Elevate Your Salads with Homemade Caesar Dressing!",
