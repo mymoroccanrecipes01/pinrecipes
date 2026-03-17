@@ -1,7 +1,7 @@
 {
     "title": "Cheesy Tater Tot Casserole: Comfort Food at Its Best",
     "promptIMG": "Professional food photography prompt: \"cheesy tater tot casserole, golden brown crispy tots on top, creamy filling bubbling, served in a rustic dish, modern kitchen background in soft focus, natural lighting highlighting textures, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": true,
+    "isOnline": false,
     "description": "This cheesy tater tot casserole combines creamy goodness with crispy tots, making it a comforting dish perfect for family dinners or potlucks. Discover how to achieve the perfect texture and flavors in every bite.",
     "hashtags": "#taterTotCasserole #comfortFood #easyDinner #familyMeals",
     "board_name": "Tater Tot Recipes",
@@ -209,34 +209,6 @@
             "relativePath": "cheesy-tater-tot-casserole-that-kids-actually-love/images/cheesy-tater-tot-casserole-that-kids-actually-love_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
-        },
-        {
-            "fileName": "cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_1.webp",
-            "filePath": "posts/cheesy-tater-tot-casserole-that-kids-actually-love/images/cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_1.webp",
-            "relativePath": "cheesy-tater-tot-casserole-that-kids-actually-love/images/cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/cheesy-tater-tot-casserole-that-kids-actually-love/images/cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_1.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_2.webp",
-            "filePath": "posts/cheesy-tater-tot-casserole-that-kids-actually-love/images/cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_2.webp",
-            "relativePath": "cheesy-tater-tot-casserole-that-kids-actually-love/images/cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/cheesy-tater-tot-casserole-that-kids-actually-love/images/cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_2.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_3.webp",
-            "filePath": "posts/cheesy-tater-tot-casserole-that-kids-actually-love/images/cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_3.webp",
-            "relativePath": "cheesy-tater-tot-casserole-that-kids-actually-love/images/cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/cheesy-tater-tot-casserole-that-kids-actually-love/images/cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_3.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_4.webp",
-            "filePath": "posts/cheesy-tater-tot-casserole-that-kids-actually-love/images/cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_4.webp",
-            "relativePath": "cheesy-tater-tot-casserole-that-kids-actually-love/images/cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/cheesy-tater-tot-casserole-that-kids-actually-love/images/cheesy-tater-tot-casserole-that-kids-actually-love_pinrecipes_image_4.webp",
-            "type": "template"
         }
     ],
     "slug": "cheesy-tater-tot-casserole-that-kids-actually-love",
@@ -246,8 +218,8 @@
     "image_dir": "cheesy-tater-tot-casserole-that-kids-actually-love/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-17T16:26:07+01:00",
-    "updatedAt": "2026-03-17T16:26:07+01:00",
+    "createdAt": "2026-03-11T16:53:46+01:00",
+    "updatedAt": "2026-03-11T16:53:46+01:00",
     "pin_variations": [
         {
             "title": "Ultimate Cheesy Tater Tot Casserole Recipe",
