@@ -266,7 +266,7 @@
     "slug": "hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day",
     "uniqueSlug": "hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day",
     "id": "post_1773533004_467",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 200,
     "structured_content": [],
     "images": [
@@ -290,6 +290,34 @@
             "relativePath": "hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
+        },
+        {
+            "fileName": "hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_1.webp",
+            "filePath": "posts/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_1.webp",
+            "relativePath": "hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_2.webp",
+            "filePath": "posts/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_2.webp",
+            "relativePath": "hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_3.webp",
+            "filePath": "posts/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_3.webp",
+            "relativePath": "hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_4.webp",
+            "filePath": "posts/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_4.webp",
+            "relativePath": "hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images/hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day_image_1.webp",
@@ -297,8 +325,8 @@
     "image_dir": "hearty-irish-beef-and-guinness-stew-to-warm-your-st-patrick-s-day/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-15T01:03:24+01:00",
-    "updatedAt": "2026-03-15T01:03:24+01:00",
+    "createdAt": "2026-03-18T01:14:13+01:00",
+    "updatedAt": "2026-03-18T01:14:13+01:00",
     "pin_variations": [
         {
             "title": "Irresistible Irish Beef & Guinness Stew for St. Patrick’s Day",
