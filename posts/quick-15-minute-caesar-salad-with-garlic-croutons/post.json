@@ -1,7 +1,7 @@
 {
     "title": "Caesar Salad: A Fresh Take on a Classic",
     "promptIMG": "Professional food photography prompt: \"Caesar salad with homemade garlic croutons, served in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, vibrant greens, creamy dressing, fresh parmesan shavings, natural window lighting, kitchen countertop visible, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": true,
+    "isOnline": false,
     "description": "This Caesar salad combines the freshness of crisp romaine with homemade garlic croutons and a creamy dressing, bringing a modern twist to a beloved classic. Perfect for a light lunch or dinner, this recipe is quick, easy, and satisfying.",
     "hashtags": "#CaesarSalad #SaladRecipes #HealthyEating #QuickLunch #HomemadeCroutons",
     "board_name": "Caesar Salad Recipes",
@@ -209,34 +209,6 @@
             "relativePath": "quick-15-minute-caesar-salad-with-garlic-croutons/images/quick-15-minute-caesar-salad-with-garlic-croutons_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
             "order": 3
-        },
-        {
-            "fileName": "quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_1.webp",
-            "filePath": "posts/quick-15-minute-caesar-salad-with-garlic-croutons/images/quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_1.webp",
-            "relativePath": "quick-15-minute-caesar-salad-with-garlic-croutons/images/quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-15-minute-caesar-salad-with-garlic-croutons/images/quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_1.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_2.webp",
-            "filePath": "posts/quick-15-minute-caesar-salad-with-garlic-croutons/images/quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_2.webp",
-            "relativePath": "quick-15-minute-caesar-salad-with-garlic-croutons/images/quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-15-minute-caesar-salad-with-garlic-croutons/images/quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_2.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_3.webp",
-            "filePath": "posts/quick-15-minute-caesar-salad-with-garlic-croutons/images/quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_3.webp",
-            "relativePath": "quick-15-minute-caesar-salad-with-garlic-croutons/images/quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-15-minute-caesar-salad-with-garlic-croutons/images/quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_3.webp",
-            "type": "template"
-        },
-        {
-            "fileName": "quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_4.webp",
-            "filePath": "posts/quick-15-minute-caesar-salad-with-garlic-croutons/images/quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_4.webp",
-            "relativePath": "quick-15-minute-caesar-salad-with-garlic-croutons/images/quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-15-minute-caesar-salad-with-garlic-croutons/images/quick-15-minute-caesar-salad-with-garlic-croutons_pinrecipes_image_4.webp",
-            "type": "template"
         }
     ],
     "slug": "quick-15-minute-caesar-salad-with-garlic-croutons",
@@ -246,8 +218,8 @@
     "image_dir": "quick-15-minute-caesar-salad-with-garlic-croutons/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-18T01:06:22+01:00",
-    "updatedAt": "2026-03-18T01:06:22+01:00",
+    "createdAt": "2026-03-11T16:54:13+01:00",
+    "updatedAt": "2026-03-11T16:54:13+01:00",
     "pin_variations": [
         {
             "title": "Revamped Caesar Salad: Your New Favorite Recipe!",
