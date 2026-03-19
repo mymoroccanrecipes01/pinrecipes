@@ -254,7 +254,7 @@
     "slug": "classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug",
     "uniqueSlug": "classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug",
     "id": "post_1773536501_356",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 45,
     "structured_content": [],
     "images": [
@@ -280,11 +280,31 @@
             "order": 3
         },
         {
+            "fileName": "classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug/images/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_1.webp",
+            "relativePath": "classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug/images/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug/images/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug/images/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_2.webp",
+            "relativePath": "classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug/images/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug/images/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug/images/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_3.webp",
+            "relativePath": "classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug/images/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug/images/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
             "fileName": "classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_4.webp",
             "filePath": "posts/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug/images/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_4.webp",
             "relativePath": "classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug/images/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_4.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug/images/classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug_pinrecipes_image_4.webp",
-            "order": 4,
             "type": "template"
         }
     ],
@@ -293,8 +313,8 @@
     "image_dir": "classic-homemade-mac-and-cheese-that-feels-like-a-warm-hug/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-15T02:01:41+01:00",
-    "updatedAt": "2026-03-15T02:01:41+01:00",
+    "createdAt": "2026-03-19T01:02:05+01:00",
+    "updatedAt": "2026-03-19T01:02:05+01:00",
     "pin_variations": [
         {
             "title": "Creamy Homemade Mac and Cheese Recipe You’ll Love",
