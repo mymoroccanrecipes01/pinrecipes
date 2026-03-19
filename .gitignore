@@ -15,8 +15,8 @@ image2.png
 *.log
 
 # Runtime file — contains push error messages that trigger GitHub Push Protection
-downloads/progress.json
-
+downloads/
+pinterest-extension/
 # Config files containing API keys — MUST NOT be committed
 site-config.json
 ads-config.json

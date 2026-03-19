@@ -73,14 +73,10 @@ function addUI() {
     const btn = document.getElementById('pint-auto-btn');
     btn.addEventListener('click', e => injectCsv(e.currentTarget));
 
-    // Auto-inject if today's CSV exists on localhost
-    chrome.storage.sync.get(['localUrl'], ({ localUrl = 'http://localhost/SitePinterset/pinrecipes' }) => {
-        if (injected) return;
-        const url = getCsvUrl(localUrl);
-        chrome.runtime.sendMessage({ type: 'checkCsv', url }, ({ exists }) => {
-            if (exists) setTimeout(() => injectCsv(btn), 1800);
-        });
-    });
+    // Auto-inject seulement si lancé via le .bat (?auto=1)
+    if (new URLSearchParams(window.location.search).get('auto') === '1' && !injected) {
+        setTimeout(() => injectCsv(btn), 1800);
+    }
 }
 
 // Pinterest SPA — observe DOM for the input

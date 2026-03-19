@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); keys=[k for k in d.keys\\(\\)]; print\\(''''\\\\n''''.join\\(keys\\)\\)\")",
+      "Bash(php -r \":*)"
+    ]
+  }
+}

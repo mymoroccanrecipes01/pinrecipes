@@ -7,14 +7,12 @@
 body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; width: 280px; padding: 16px; background: #fff; color: #333; }
 h2 { font-size: 15px; font-weight: 700; margin-bottom: 14px; display: flex; align-items: center; gap: 8px; }
 label { display: block; font-size: 11px; color: #888; margin-bottom: 4px; font-weight: 600; text-transform: uppercase; letter-spacing: .4px; }
-input[type="text"], input[type="number"] {
+input[type="text"] {
     width: 100%; padding: 8px 10px; border: 1.5px solid #e0e0e0; border-radius: 8px;
-    font-size: 13px; margin-bottom: 12px; outline: none;
+    font-size: 13px; margin-bottom: 4px; outline: none;
 }
 input:focus { border-color: #e60023; }
-.toggle { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; cursor: pointer; }
-.toggle input[type="checkbox"] { width: 16px; height: 16px; cursor: pointer; accent-color: #e60023; }
-.toggle span { font-size: 13px; color: #555; }
+.hint { font-size: 11px; color: #aaa; margin-bottom: 12px; }
 .sep { height: 1px; background: #f0f0f0; margin: 12px 0; }
 button {
     width: 100%; padding: 10px; border: none; border-radius: 9px;
@@ -22,10 +20,10 @@ button {
     transition: opacity .2s;
 }
 button:hover { opacity: .88; }
+.btn-auto  { background: #e60023; color: #fff; }
 .btn-open  { background: #1e293b; color: #fff; }
-.btn-save  { background: #e60023; color: #fff; }
+.btn-save  { background: #f0f0f0; color: #555; font-size: 13px; }
 .saved { text-align: center; color: #16a34a; font-size: 12px; margin-top: 4px; display: none; }
-.hint { font-size: 11px; color: #aaa; margin-top: -8px; margin-bottom: 12px; }
 </style>
 </head>
 <body>
@@ -33,30 +31,14 @@ button:hover { opacity: .88; }
 
 <label>URL locale XAMPP</label>
 <input type="text" id="localUrl" placeholder="http://localhost/SitePinterset/pinrecipes">
-<div class="hint">Le CSV sera lu depuis /downloads/pinterest_daily_YYYY-MM-DD.csv</div>
-
-<label>Heure d'ouverture automatique</label>
-<input type="number" id="importHour" min="0" max="23" placeholder="9" style="width:80px;display:inline-block">
-<span style="font-size:13px;color:#888;margin-left:6px">h (format 24h)</span>
-<div style="margin-bottom:12px"></div>
+<div class="hint">CSV lu depuis /downloads/pinterest_daily_YYYY-MM-DD.csv</div>
 
 <div class="sep"></div>
 
-<label style="margin-bottom:8px">Options</label>
-<label class="toggle">
-    <input type="checkbox" id="autoOpen">
-    <span>Ouvrir Pinterest automatiquement chaque jour</span>
-</label>
-<label class="toggle">
-    <input type="checkbox" id="autoInject">
-    <span>Injecter le CSV automatiquement à l'ouverture</span>
-</label>
-
-<div class="sep"></div>
-
-<button class="btn-open" id="openBtn">🌐 Ouvrir Pinterest Upload</button>
-<button class="btn-save" id="saveBtn">💾 Sauvegarder</button>
-<div class="saved" id="saved">✅ Paramètres sauvegardés</div>
+<button class="btn-auto" id="autoBtn">⚡ Lancer l'import auto du jour</button>
+<button class="btn-open" id="openBtn">🌐 Ouvrir Pinterest (sans auto)</button>
+<button class="btn-save" id="saveBtn">💾 Sauvegarder l'URL</button>
+<div class="saved" id="saved">✅ Sauvegardé</div>
 
 <script src="popup.js"></script>
 </body>

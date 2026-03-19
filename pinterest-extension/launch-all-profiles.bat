@@ -1,21 +1,32 @@
 @echo off
 :: ============================================================
-:: Pinterest Auto CSV Import — Lance tous les profils Chrome
+:: Auto CSV + Pinterest Import — Lance tous les profils Chrome
 :: Planifier avec Windows Task Scheduler a l'heure souhaitee
 :: ============================================================
 
 set CHROME="C:\Program Files\Google\Chrome\Application\chrome.exe"
-set URL="https://www.pinterest.com/settings/bulk-create-pins/"
 
-:: ── Profil 1 : pinrecipes ────────────────────────────────────
-%CHROME% --profile-directory="Profile 1" %URL%
+:: ── Etape 1 : Auto CSV (genere le CSV du jour) ───────────────
+:: Ouvre posts-liste.php avec ?auto_csv=1 → auto-clique le bouton
+%CHROME% --profile-directory="Profile 1" "http://localhost/SitePinterset/pinrecipes/posts-liste.php?auto_csv=1"
 
-:: Attendre 30s entre chaque profil (evite que Pinterest detecte ouvertures simultanees)
-timeout /t 30 /nobreak >nul
+:: Attendre que l'auto CSV soit termine (ajuster selon la duree)
+timeout /t 120 /nobreak >nul
 
-:: ── Profil 2 : LummyRecipes ──────────────────────────────────
-%CHROME% --profile-directory="Profile 2" %URL%
+:: ── Etape 2 : Import Pinterest (injecte le CSV) ───────────────
+:: Ouvre Pinterest avec ?auto=1 → l'extension auto-injecte le CSV
+%CHROME% --profile-directory="Profile 1" "https://www.pinterest.com/settings/bulk-create-pins/?auto=1"
 
-:: Ajouter d'autres profils ici si besoin :
-:: timeout /t 30 /nobreak >nul
-:: %CHROME% --profile-directory="Profile 3" %URL%
+:: Attendre 60s puis lancer le 2eme satellite
+timeout /t 60 /nobreak >nul
+
+:: ── Satellite 2 : LummyRecipes ───────────────────────────────
+%CHROME% --profile-directory="Profile 2" "http://localhost/SitePinterset/LummyRecipes/posts-liste.php?auto_csv=1"
+timeout /t 120 /nobreak >nul
+%CHROME% --profile-directory="Profile 2" "https://www.pinterest.com/settings/bulk-create-pins/?auto=1"
+
+:: Ajouter d'autres satellites ici :
+:: timeout /t 60 /nobreak >nul
+:: %CHROME% --profile-directory="Profile 3" "http://localhost/SitePinterset/Site3/posts-liste.php?auto_csv=1"
+:: timeout /t 120 /nobreak >nul
+:: %CHROME% --profile-directory="Profile 3" "https://www.pinterest.com/settings/bulk-create-pins/?auto=1"
