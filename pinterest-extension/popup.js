@@ -23,7 +23,13 @@ $('saveBtn').addEventListener('click', () => {
     });
 });
 
-// Open Pinterest bulk upload page
+// Auto import — opens Pinterest with ?auto=1 to trigger sequential upload
+$('autoBtn').addEventListener('click', () => {
+    chrome.tabs.create({ url: 'https://www.pinterest.com/settings/bulk-create-pins/?auto=1' });
+    window.close();
+});
+
+// Open Pinterest bulk upload page (manual)
 $('openBtn').addEventListener('click', () => {
     chrome.tabs.create({ url: 'https://www.pinterest.com/settings/bulk-create-pins/' });
     window.close();
