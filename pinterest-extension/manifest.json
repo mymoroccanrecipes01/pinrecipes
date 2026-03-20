@@ -3,7 +3,7 @@
   "name": "Pinterest Daily Auto-Import",
   "version": "1.0",
   "description": "Import automatique du CSV quotidien vers Pinterest Bulk Upload",
-  "permissions": ["storage", "tabs"],
+  "permissions": ["alarms", "storage", "tabs"],
   "host_permissions": [
     "https://www.pinterest.com/*",
     "http://localhost/*",

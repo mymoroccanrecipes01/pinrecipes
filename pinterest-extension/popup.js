@@ -1,29 +1,30 @@
 const $ = id => document.getElementById(id);
 
-const AUTO_URL = 'https://www.pinterest.com/settings/bulk-create-pins/?auto=1';
-const MANUAL_URL = 'https://www.pinterest.com/settings/bulk-create-pins/';
-
 // Load saved settings
-chrome.storage.sync.get(['localUrl'], data => {
-    $('localUrl').value = data.localUrl || 'http://localhost/SitePinterset/pinrecipes';
+chrome.storage.sync.get(['localUrl', 'importHour', 'autoOpen', 'autoInject'], data => {
+    $('localUrl').value      = data.localUrl    || 'http://localhost/SitePinterset/pinrecipes';
+    $('importHour').value    = data.importHour  ?? 9;
+    $('autoOpen').checked    = !!data.autoOpen;
+    $('autoInject').checked  = !!data.autoInject;
 });
 
-// Launch auto import (with ?auto=1)
-$('autoBtn').addEventListener('click', () => {
-    chrome.tabs.create({ url: AUTO_URL });
-    window.close();
-});
-
-// Open manually (no auto-inject)
-$('openBtn').addEventListener('click', () => {
-    chrome.tabs.create({ url: MANUAL_URL });
-    window.close();
-});
-
-// Save URL
+// Save
 $('saveBtn').addEventListener('click', () => {
-    chrome.storage.sync.set({ localUrl: $('localUrl').value.trim() }, () => {
+    const settings = {
+        localUrl:    $('localUrl').value.trim(),
+        importHour:  parseInt($('importHour').value) || 9,
+        autoOpen:    $('autoOpen').checked,
+        autoInject:  $('autoInject').checked,
+    };
+    chrome.storage.sync.set(settings, () => {
+        chrome.runtime.sendMessage({ type: 'setupAlarm', ...settings });
         $('saved').style.display = 'block';
-        setTimeout(() => $('saved').style.display = 'none', 2000);
+        setTimeout(() => $('saved').style.display = 'none', 2500);
     });
+});
+
+// Open Pinterest bulk upload page
+$('openBtn').addEventListener('click', () => {
+    chrome.tabs.create({ url: 'https://www.pinterest.com/settings/bulk-create-pins/' });
+    window.close();
 });
