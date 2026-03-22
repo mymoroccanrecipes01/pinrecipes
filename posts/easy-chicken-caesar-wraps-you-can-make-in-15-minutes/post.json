@@ -250,7 +250,7 @@
     "slug": "easy-chicken-caesar-wraps-you-can-make-in-15-minutes",
     "uniqueSlug": "easy-chicken-caesar-wraps-you-can-make-in-15-minutes",
     "id": "post_1774053053_994",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 15,
     "structured_content": [],
     "images": [
@@ -282,6 +282,34 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images/easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images/easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_1.webp",
+            "relativePath": "easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images/easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images/easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images/easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_2.webp",
+            "relativePath": "easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images/easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images/easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images/easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_3.webp",
+            "relativePath": "easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images/easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images/easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images/easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_4.webp",
+            "relativePath": "easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images/easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images/easy-chicken-caesar-wraps-you-can-make-in-15-minutes_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "easy-chicken-caesar-wraps-you-can-make-in-15-minutes_image_1.webp",
@@ -289,8 +317,8 @@
     "image_dir": "easy-chicken-caesar-wraps-you-can-make-in-15-minutes/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-21T01:30:53+01:00",
-    "updatedAt": "2026-03-21T01:30:53+01:00",
+    "createdAt": "2026-03-22T15:58:36+01:00",
+    "updatedAt": "2026-03-22T15:58:36+01:00",
     "pin_variations": [
         {
             "title": "15-Minute Chicken Caesar Wraps for a Quick Delicious Meal",
