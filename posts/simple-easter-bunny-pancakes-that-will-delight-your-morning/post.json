@@ -254,7 +254,7 @@
     "slug": "simple-easter-bunny-pancakes-that-will-delight-your-morning",
     "uniqueSlug": "simple-easter-bunny-pancakes-that-will-delight-your-morning",
     "id": "post_1774116511_495",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 25,
     "structured_content": [],
     "images": [
@@ -286,6 +286,34 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_1.webp",
+            "filePath": "posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_1.webp",
+            "relativePath": "simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_2.webp",
+            "filePath": "posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_2.webp",
+            "relativePath": "simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_3.webp",
+            "filePath": "posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_3.webp",
+            "relativePath": "simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_4.webp",
+            "filePath": "posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_4.webp",
+            "relativePath": "simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-easter-bunny-pancakes-that-will-delight-your-morning/images/simple-easter-bunny-pancakes-that-will-delight-your-morning_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "simple-easter-bunny-pancakes-that-will-delight-your-morning_image_1.webp",
@@ -293,8 +321,8 @@
     "image_dir": "simple-easter-bunny-pancakes-that-will-delight-your-morning/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-21T19:08:31+01:00",
-    "updatedAt": "2026-03-21T19:08:31+01:00",
+    "createdAt": "2026-03-23T17:51:47+01:00",
+    "updatedAt": "2026-03-23T17:51:47+01:00",
     "pin_variations": [
         {
             "title": "Fluffy Easter Bunny Pancakes for a Festive Morning",

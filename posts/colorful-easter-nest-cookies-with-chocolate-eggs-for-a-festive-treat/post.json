@@ -251,7 +251,7 @@
     "slug": "colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat",
     "uniqueSlug": "colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat",
     "id": "post_1774115970_892",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 35,
     "structured_content": [],
     "images": [
@@ -283,6 +283,34 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_1.webp",
+            "filePath": "posts/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_1.webp",
+            "relativePath": "colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_2.webp",
+            "filePath": "posts/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_2.webp",
+            "relativePath": "colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_3.webp",
+            "filePath": "posts/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_3.webp",
+            "relativePath": "colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_4.webp",
+            "filePath": "posts/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_4.webp",
+            "relativePath": "colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images/colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat_image_1.webp",
@@ -290,8 +318,8 @@
     "image_dir": "colorful-easter-nest-cookies-with-chocolate-eggs-for-a-festive-treat/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-21T18:59:30+01:00",
-    "updatedAt": "2026-03-21T18:59:30+01:00",
+    "createdAt": "2026-03-23T17:51:47+01:00",
+    "updatedAt": "2026-03-23T17:51:47+01:00",
     "pin_variations": [
         {
             "title": "Festive Easter Nest Cookies with Chocolate Egg Surprise",

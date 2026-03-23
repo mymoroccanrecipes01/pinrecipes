@@ -254,7 +254,7 @@
     "slug": "herb-crusted-salmon-that-steals-the-show-at-easter-dinner",
     "uniqueSlug": "herb-crusted-salmon-that-steals-the-show-at-easter-dinner",
     "id": "post_1774117122_811",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 35,
     "structured_content": [],
     "images": [
@@ -286,6 +286,34 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images/herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_1.webp",
+            "filePath": "posts/herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images/herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_1.webp",
+            "relativePath": "herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images/herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images/herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_2.webp",
+            "filePath": "posts/herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images/herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_2.webp",
+            "relativePath": "herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images/herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images/herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_3.webp",
+            "filePath": "posts/herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images/herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_3.webp",
+            "relativePath": "herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images/herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images/herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_4.webp",
+            "filePath": "posts/herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images/herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_4.webp",
+            "relativePath": "herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images/herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images/herb-crusted-salmon-that-steals-the-show-at-easter-dinner_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "herb-crusted-salmon-that-steals-the-show-at-easter-dinner_image_1.webp",
@@ -293,8 +321,8 @@
     "image_dir": "herb-crusted-salmon-that-steals-the-show-at-easter-dinner/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-21T19:18:42+01:00",
-    "updatedAt": "2026-03-21T19:18:42+01:00",
+    "createdAt": "2026-03-23T17:51:47+01:00",
+    "updatedAt": "2026-03-23T17:51:47+01:00",
     "pin_variations": [
         {
             "title": "Elegant Herb-Crusted Salmon Recipe for Easter Dinner",

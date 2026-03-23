@@ -255,7 +255,7 @@
     "slug": "classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner",
     "uniqueSlug": "classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner",
     "id": "post_1774116122_236",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 80,
     "structured_content": [],
     "images": [
@@ -287,6 +287,34 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_1.webp",
+            "relativePath": "classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_2.webp",
+            "relativePath": "classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_3.webp",
+            "relativePath": "classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_4.webp",
+            "filePath": "posts/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_4.webp",
+            "relativePath": "classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images/classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner_image_1.webp",
@@ -294,8 +322,8 @@
     "image_dir": "classic-creamy-scalloped-potatoes-that-elevate-any-easter-dinner/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-21T19:02:02+01:00",
-    "updatedAt": "2026-03-21T19:02:02+01:00",
+    "createdAt": "2026-03-23T17:51:47+01:00",
+    "updatedAt": "2026-03-23T17:51:47+01:00",
     "pin_variations": [
         {
             "title": "Irresistible Creamy Scalloped Potatoes for Your Easter Table",
