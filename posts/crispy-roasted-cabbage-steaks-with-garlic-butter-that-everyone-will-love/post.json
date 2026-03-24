@@ -251,7 +251,7 @@
     "slug": "crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love",
     "uniqueSlug": "crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love",
     "id": "post_1774285840_496",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 45,
     "structured_content": [],
     "images": [
@@ -311,6 +311,34 @@
             "order": 7,
             "type": "template",
             "template": "classic"
+        },
+        {
+            "fileName": "crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/images/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/images/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/images/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/images/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/images/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/images/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/images/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/images/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/images/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_4.webp",
+            "filePath": "posts/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/images/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_4.webp",
+            "relativePath": "crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/images/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/images/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love_image_1.webp",
@@ -318,8 +346,8 @@
     "image_dir": "crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-23T18:10:40+01:00",
-    "updatedAt": "2026-03-23T18:10:40+01:00",
+    "createdAt": "2026-03-24T11:27:23+01:00",
+    "updatedAt": "2026-03-24T11:27:23+01:00",
     "pin_variations": [
         {
             "title": "Perfectly Crispy Garlic Butter Cabbage Steaks",
