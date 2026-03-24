@@ -246,7 +246,7 @@
     "slug": "creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings",
     "uniqueSlug": "creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings",
     "id": "post_1774118390_256",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 45,
     "structured_content": [],
     "images": [
@@ -278,6 +278,34 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_1.webp",
+            "relativePath": "creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_2.webp",
+            "relativePath": "creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_3.webp",
+            "relativePath": "creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_4.webp",
+            "filePath": "posts/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_4.webp",
+            "relativePath": "creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images/creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings_image_1.webp",
@@ -285,8 +313,8 @@
     "image_dir": "creamy-garlic-mashed-potatoes-perfect-for-easter-sunday-gatherings/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-21T19:39:50+01:00",
-    "updatedAt": "2026-03-21T19:39:50+01:00",
+    "createdAt": "2026-03-24T11:10:32+01:00",
+    "updatedAt": "2026-03-24T11:10:32+01:00",
     "pin_variations": [
         {
             "title": "Velvety Garlic Mashed Potatoes for Holiday Feasts",

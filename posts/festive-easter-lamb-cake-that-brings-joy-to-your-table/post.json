@@ -257,7 +257,7 @@
     "slug": "festive-easter-lamb-cake-that-brings-joy-to-your-table",
     "uniqueSlug": "festive-easter-lamb-cake-that-brings-joy-to-your-table",
     "id": "post_1774117814_219",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 90,
     "structured_content": [],
     "images": [
@@ -289,6 +289,34 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_1.webp",
+            "filePath": "posts/festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_1.webp",
+            "relativePath": "festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_2.webp",
+            "filePath": "posts/festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_2.webp",
+            "relativePath": "festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_3.webp",
+            "filePath": "posts/festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_3.webp",
+            "relativePath": "festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_4.webp",
+            "filePath": "posts/festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_4.webp",
+            "relativePath": "festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "festive-easter-lamb-cake-that-brings-joy-to-your-table_image_1.webp",
@@ -296,8 +324,8 @@
     "image_dir": "festive-easter-lamb-cake-that-brings-joy-to-your-table/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-21T19:30:14+01:00",
-    "updatedAt": "2026-03-21T19:30:14+01:00",
+    "createdAt": "2026-03-24T11:10:32+01:00",
+    "updatedAt": "2026-03-24T11:10:32+01:00",
     "pin_variations": [
         {
             "title": "Delicious Easter Lamb Cake Recipe for Spring Celebrations",

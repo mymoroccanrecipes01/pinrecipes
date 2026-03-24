@@ -254,7 +254,7 @@
     "slug": "sweet-easter-basket-brownies-kids-can-make-and-love",
     "uniqueSlug": "sweet-easter-basket-brownies-kids-can-make-and-love",
     "id": "post_1774117388_302",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 45,
     "structured_content": [],
     "images": [
@@ -286,6 +286,34 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/sweet-easter-basket-brownies-kids-can-make-and-love/images/sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_1.webp",
+            "filePath": "posts/sweet-easter-basket-brownies-kids-can-make-and-love/images/sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_1.webp",
+            "relativePath": "sweet-easter-basket-brownies-kids-can-make-and-love/images/sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/sweet-easter-basket-brownies-kids-can-make-and-love/images/sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_2.webp",
+            "filePath": "posts/sweet-easter-basket-brownies-kids-can-make-and-love/images/sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_2.webp",
+            "relativePath": "sweet-easter-basket-brownies-kids-can-make-and-love/images/sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/sweet-easter-basket-brownies-kids-can-make-and-love/images/sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_3.webp",
+            "filePath": "posts/sweet-easter-basket-brownies-kids-can-make-and-love/images/sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_3.webp",
+            "relativePath": "sweet-easter-basket-brownies-kids-can-make-and-love/images/sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/sweet-easter-basket-brownies-kids-can-make-and-love/images/sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_4.webp",
+            "filePath": "posts/sweet-easter-basket-brownies-kids-can-make-and-love/images/sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_4.webp",
+            "relativePath": "sweet-easter-basket-brownies-kids-can-make-and-love/images/sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/sweet-easter-basket-brownies-kids-can-make-and-love/images/sweet-easter-basket-brownies-kids-can-make-and-love_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "sweet-easter-basket-brownies-kids-can-make-and-love_image_1.webp",
@@ -293,8 +321,8 @@
     "image_dir": "sweet-easter-basket-brownies-kids-can-make-and-love/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-21T19:23:08+01:00",
-    "updatedAt": "2026-03-21T19:23:08+01:00",
+    "createdAt": "2026-03-24T11:10:32+01:00",
+    "updatedAt": "2026-03-24T11:10:32+01:00",
     "pin_variations": [
         {
             "title": "Easy Easter Basket Brownies Kids Will Adore",

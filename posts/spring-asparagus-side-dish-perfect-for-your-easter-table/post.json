@@ -226,7 +226,7 @@
     "slug": "spring-asparagus-side-dish-perfect-for-your-easter-table",
     "uniqueSlug": "spring-asparagus-side-dish-perfect-for-your-easter-table",
     "id": "post_1774117524_751",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 35,
     "structured_content": [],
     "images": [
@@ -258,6 +258,34 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/spring-asparagus-side-dish-perfect-for-your-easter-table/images/spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_1.webp",
+            "filePath": "posts/spring-asparagus-side-dish-perfect-for-your-easter-table/images/spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_1.webp",
+            "relativePath": "spring-asparagus-side-dish-perfect-for-your-easter-table/images/spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/spring-asparagus-side-dish-perfect-for-your-easter-table/images/spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_2.webp",
+            "filePath": "posts/spring-asparagus-side-dish-perfect-for-your-easter-table/images/spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_2.webp",
+            "relativePath": "spring-asparagus-side-dish-perfect-for-your-easter-table/images/spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/spring-asparagus-side-dish-perfect-for-your-easter-table/images/spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_3.webp",
+            "filePath": "posts/spring-asparagus-side-dish-perfect-for-your-easter-table/images/spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_3.webp",
+            "relativePath": "spring-asparagus-side-dish-perfect-for-your-easter-table/images/spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/spring-asparagus-side-dish-perfect-for-your-easter-table/images/spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_4.webp",
+            "filePath": "posts/spring-asparagus-side-dish-perfect-for-your-easter-table/images/spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_4.webp",
+            "relativePath": "spring-asparagus-side-dish-perfect-for-your-easter-table/images/spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/spring-asparagus-side-dish-perfect-for-your-easter-table/images/spring-asparagus-side-dish-perfect-for-your-easter-table_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "spring-asparagus-side-dish-perfect-for-your-easter-table_image_1.webp",
@@ -265,8 +293,8 @@
     "image_dir": "spring-asparagus-side-dish-perfect-for-your-easter-table/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-21T19:25:24+01:00",
-    "updatedAt": "2026-03-21T19:25:24+01:00",
+    "createdAt": "2026-03-24T11:10:32+01:00",
+    "updatedAt": "2026-03-24T11:10:32+01:00",
     "pin_variations": [
         {
             "title": "Delicious Roasted Asparagus Side for Easter Dinner",

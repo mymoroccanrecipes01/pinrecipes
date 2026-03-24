@@ -250,7 +250,7 @@
     "slug": "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast",
     "uniqueSlug": "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast",
     "id": "post_1774117667_713",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 15,
     "structured_content": [],
     "images": [
@@ -282,6 +282,34 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_1.webp",
+            "filePath": "posts/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_1.webp",
+            "relativePath": "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_2.webp",
+            "filePath": "posts/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_2.webp",
+            "relativePath": "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_3.webp",
+            "filePath": "posts/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_3.webp",
+            "relativePath": "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_4.webp",
+            "filePath": "posts/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_4.webp",
+            "relativePath": "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images/whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast_image_1.webp",
@@ -289,8 +317,8 @@
     "image_dir": "whimsical-butterfly-peanut-butter-toast-art-for-a-playful-breakfast/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-21T19:27:47+01:00",
-    "updatedAt": "2026-03-21T19:27:47+01:00",
+    "createdAt": "2026-03-24T11:10:32+01:00",
+    "updatedAt": "2026-03-24T11:10:32+01:00",
     "pin_variations": [
         {
             "title": "Creative Butterfly Peanut Butter Toast for Kids’ Breakfast",
