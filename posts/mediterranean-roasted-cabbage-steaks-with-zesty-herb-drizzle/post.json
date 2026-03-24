@@ -253,7 +253,7 @@
     "slug": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle",
     "uniqueSlug": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle",
     "id": "post_1774346857_793",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 35,
     "structured_content": [],
     "images": [
@@ -270,6 +270,77 @@
             "relativePath": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_image_2.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
             "order": 2
+        },
+        {
+            "fileName": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_image_3.webp",
+            "filePath": "posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_image_3.webp",
+            "relativePath": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_1.webp",
+            "filePath": "posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_1.webp",
+            "relativePath": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_1.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_2.webp",
+            "filePath": "posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_2.webp",
+            "relativePath": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_2.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_3.webp",
+            "filePath": "posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_3.webp",
+            "relativePath": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_3.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_4.webp",
+            "filePath": "posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_4.webp",
+            "relativePath": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_4.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_1.webp",
+            "filePath": "posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_1.webp",
+            "relativePath": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_2.webp",
+            "filePath": "posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_2.webp",
+            "relativePath": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_3.webp",
+            "filePath": "posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_3.webp",
+            "relativePath": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_4.webp",
+            "filePath": "posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_4.webp",
+            "relativePath": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle_image_1.webp",
@@ -277,8 +348,8 @@
     "image_dir": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-24T11:07:37+01:00",
-    "updatedAt": "2026-03-24T11:07:37+01:00",
+    "createdAt": "2026-03-24T11:59:18+01:00",
+    "updatedAt": "2026-03-24T11:59:18+01:00",
     "pin_variations": [
         {
             "title": "Zesty Mediterranean Roasted Cabbage Steaks Recipe",

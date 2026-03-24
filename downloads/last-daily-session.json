@@ -1,23 +1,14 @@
 {
-    "date": "2026-03-24T11:45:49+01:00",
+    "date": "2026-03-24T11:59:18+01:00",
     "filename": "pinterest_daily_2026-03-24.csv",
     "articles": [
         {
-            "slug": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/post.json",
+            "slug": "mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle/post.json",
             "original": {
-                "createdAt": "2026-03-23T18:34:14+01:00",
+                "createdAt": "2026-03-24T11:07:37+01:00",
                 "CreateAt": null,
-                "updatedAt": "2026-03-23T18:34:14+01:00"
-            }
-        },
-        {
-            "slug": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/post.json",
-            "original": {
-                "createdAt": "2026-03-23T18:37:45+01:00",
-                "CreateAt": null,
-                "updatedAt": "2026-03-23T18:37:45+01:00"
+                "updatedAt": "2026-03-24T11:07:37+01:00"
             }
         }
     ]
