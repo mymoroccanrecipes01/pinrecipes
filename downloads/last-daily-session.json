@@ -1,95 +1,23 @@
 {
-    "date": "2026-03-24T11:27:23+01:00",
+    "date": "2026-03-24T11:45:49+01:00",
     "filename": "pinterest_daily_2026-03-24.csv",
     "articles": [
         {
-            "slug": "adorable-easter-bunny-cupcakes-kids-will-love-making-and-eating",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/adorable-easter-bunny-cupcakes-kids-will-love-making-and-eating/post.json",
+            "slug": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/post.json",
             "original": {
-                "createdAt": "2026-03-21T20:14:26+01:00",
+                "createdAt": "2026-03-23T18:34:14+01:00",
                 "CreateAt": null,
-                "updatedAt": "2026-03-21T20:14:26+01:00"
+                "updatedAt": "2026-03-23T18:34:14+01:00"
             }
         },
         {
-            "slug": "diy-taco-bar-kids-can-build-fun-easy-and-delicious-family-meal",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/diy-taco-bar-kids-can-build-fun-easy-and-delicious-family-meal/post.json",
+            "slug": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/post.json",
             "original": {
-                "createdAt": "2026-03-23T13:28:00+01:00",
+                "createdAt": "2026-03-23T18:37:45+01:00",
                 "CreateAt": null,
-                "updatedAt": "2026-03-23T13:28:00+01:00"
-            }
-        },
-        {
-            "slug": "whimsical-butterfly-peanut-butter-toast-art-for-a-fun-breakfast",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/whimsical-butterfly-peanut-butter-toast-art-for-a-fun-breakfast/post.json",
-            "original": {
-                "createdAt": "2026-03-23T15:58:15+01:00",
-                "CreateAt": null,
-                "updatedAt": "2026-03-23T15:58:15+01:00"
-            }
-        },
-        {
-            "slug": "easy-no-cook-beach-day-sandwiches-that-stay-fresh-and-delicious",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-no-cook-beach-day-sandwiches-that-stay-fresh-and-delicious/post.json",
-            "original": {
-                "createdAt": "2026-03-23T16:02:51+01:00",
-                "CreateAt": null,
-                "updatedAt": "2026-03-23T16:02:51+01:00"
-            }
-        },
-        {
-            "slug": "crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crispy-roasted-cabbage-steaks-with-garlic-butter-that-everyone-will-love/post.json",
-            "original": {
-                "createdAt": "2026-03-23T18:10:40+01:00",
-                "CreateAt": null,
-                "updatedAt": "2026-03-23T18:10:40+01:00"
-            }
-        },
-        {
-            "slug": "easy-roasted-cabbage-wedges-that-are-ready-in-just-30-minutes",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-roasted-cabbage-wedges-that-are-ready-in-just-30-minutes/post.json",
-            "original": {
-                "createdAt": "2026-03-23T18:13:47+01:00",
-                "CreateAt": null,
-                "updatedAt": "2026-03-23T18:13:47+01:00"
-            }
-        },
-        {
-            "slug": "honey-balsamic-roasted-cabbage-that-melts-perfectly-in-your-mouth",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/honey-balsamic-roasted-cabbage-that-melts-perfectly-in-your-mouth/post.json",
-            "original": {
-                "createdAt": "2026-03-23T18:17:35+01:00",
-                "CreateAt": null,
-                "updatedAt": "2026-03-23T18:17:35+01:00"
-            }
-        },
-        {
-            "slug": "parmesan-roasted-cabbage-steaks-everyone-will-love",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/parmesan-roasted-cabbage-steaks-everyone-will-love/post.json",
-            "original": {
-                "createdAt": "2026-03-23T18:20:22+01:00",
-                "CreateAt": null,
-                "updatedAt": "2026-03-23T18:20:22+01:00"
-            }
-        },
-        {
-            "slug": "simple-roasted-cabbage-recipe-that-changes-everything",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/simple-roasted-cabbage-recipe-that-changes-everything/post.json",
-            "original": {
-                "createdAt": "2026-03-23T18:23:35+01:00",
-                "CreateAt": null,
-                "updatedAt": "2026-03-23T18:23:35+01:00"
-            }
-        },
-        {
-            "slug": "bacon-roasted-cabbage-wedges-for-ultimate-comfort-food",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/bacon-roasted-cabbage-wedges-for-ultimate-comfort-food/post.json",
-            "original": {
-                "createdAt": "2026-03-23T18:26:44+01:00",
-                "CreateAt": null,
-                "updatedAt": "2026-03-23T18:26:44+01:00"
+                "updatedAt": "2026-03-23T18:37:45+01:00"
             }
         }
     ]

@@ -252,7 +252,7 @@
     "slug": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges",
     "uniqueSlug": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges",
     "id": "post_1774287465_498",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 45,
     "structured_content": [],
     "images": [
@@ -278,11 +278,67 @@
             "order": 3
         },
         {
+            "fileName": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_1.webp",
+            "filePath": "posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_1.webp",
+            "relativePath": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_1.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_2.webp",
+            "filePath": "posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_2.webp",
+            "relativePath": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_2.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_3.webp",
+            "filePath": "posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_3.webp",
+            "relativePath": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_3.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
+        },
+        {
             "fileName": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_4.webp",
             "filePath": "posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_4.webp",
             "relativePath": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_4.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_4.webp",
-            "order": 4,
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_1.webp",
+            "filePath": "posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_1.webp",
+            "relativePath": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_2.webp",
+            "filePath": "posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_2.webp",
+            "relativePath": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_3.webp",
+            "filePath": "posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_3.webp",
+            "relativePath": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_4.webp",
+            "filePath": "posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_4.webp",
+            "relativePath": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_4.webp",
             "type": "template"
         }
     ],
@@ -291,8 +347,8 @@
     "image_dir": "spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-23T18:37:45+01:00",
-    "updatedAt": "2026-03-23T18:37:45+01:00",
+    "createdAt": "2026-03-24T11:45:49+01:00",
+    "updatedAt": "2026-03-24T11:45:49+01:00",
     "pin_variations": [
         {
             "title": "Crispy Spicy Roasted Cabbage Wedges You’ll Love",

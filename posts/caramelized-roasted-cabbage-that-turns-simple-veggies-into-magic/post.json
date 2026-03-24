@@ -250,7 +250,7 @@
     "slug": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic",
     "uniqueSlug": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic",
     "id": "post_1774287254_172",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 45,
     "structured_content": [],
     "images": [
@@ -282,6 +282,34 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_1.webp",
+            "filePath": "posts/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_1.webp",
+            "relativePath": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_2.webp",
+            "filePath": "posts/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_2.webp",
+            "relativePath": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_3.webp",
+            "filePath": "posts/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_3.webp",
+            "relativePath": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_4.webp",
+            "filePath": "posts/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_4.webp",
+            "relativePath": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images/caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic_image_1.webp",
@@ -289,8 +317,8 @@
     "image_dir": "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-23T18:34:14+01:00",
-    "updatedAt": "2026-03-23T18:34:14+01:00",
+    "createdAt": "2026-03-24T11:45:49+01:00",
+    "updatedAt": "2026-03-24T11:45:49+01:00",
     "pin_variations": [
         {
             "title": "Crispy Caramelized Roasted Cabbage Recipe",
