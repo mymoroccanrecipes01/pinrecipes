@@ -593,13 +593,7 @@ img { display: block; max-width: 100%; }
     gap: 20px;
 }
 
-.faq-item {
-    background: var(--card-bg);
-    padding: 24px;
-    border-radius: var(--radius);
-    border: 1px solid var(--border);
-    border-left: 4px solid var(--primary);
-}
+/* .faq-item legacy styles removed — see post-detail section below */
 
 .faq-item h3 { font-size: 17px; color: var(--bark); margin-bottom: 12px; }
 .faq-item p { color: var(--muted); line-height: 1.65; font-size: 14px; }

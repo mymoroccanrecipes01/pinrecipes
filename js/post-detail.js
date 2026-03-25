@@ -2125,16 +2125,28 @@ addBreadcrumbSchema(recipe) {
 
     // New method to add event listeners
     addCardEventListeners(recipe) {
-        // Ajouter des event listeners pour empêcher la propagation du clic sur les boutons Pinterest
+        // Pinterest buttons
         const pinterestButtons = this.contentContainer.querySelectorAll('.pinterest-pin-btn');
         pinterestButtons.forEach(button => {
             button.addEventListener('click', (e) => {
                 e.stopPropagation();
-                // Le onclick dans le HTML s'occupera d'ouvrir Pinterest
             });
         });
 
-       // // console.log('Recipe card displayed for:', recipe.title);
+        // FAQ accordion
+        this.contentContainer.querySelectorAll('.faq-question').forEach(q => {
+            q.addEventListener('click', () => {
+                const item = q.closest('.faq-item');
+                const wasOpen = item.classList.contains('open');
+                this.contentContainer.querySelectorAll('.faq-item.open').forEach(i => i.classList.remove('open'));
+                if (!wasOpen) item.classList.add('open');
+            });
+        });
+
+        // Ingredient checkboxes
+        this.contentContainer.querySelectorAll('.ingredients-list li').forEach(li => {
+            li.addEventListener('click', () => li.classList.toggle('checked'));
+        });
     }
 
 }

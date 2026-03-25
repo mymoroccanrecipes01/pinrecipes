@@ -461,20 +461,7 @@
             });
         });
 
-        // FAQ accordion
-        document.querySelectorAll('.faq-question').forEach(q => {
-            q.addEventListener('click', () => {
-                const item = q.closest('.faq-item');
-                const wasOpen = item.classList.contains('open');
-                document.querySelectorAll('.faq-item.open').forEach(i => i.classList.remove('open'));
-                if (!wasOpen) item.classList.add('open');
-            });
-        });
-
-        // Ingredient checkboxes
-        document.querySelectorAll('.ingredients-list li').forEach(li => {
-            li.addEventListener('click', () => li.classList.toggle('checked'));
-        });
     </script>
+<script src="../../post-interactive.js" defer></script>
 </body>
 </html>
