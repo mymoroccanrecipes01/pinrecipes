@@ -1,0 +1,338 @@
+{
+    "title": "Easy Homemade Birthday Cake Recipe From Scratch That Everyone Will Love",
+    "promptIMG": "Food photography: homemade birthday cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This birthday cake is simple, moist, and made from scratch with love. The secret? Buttermilk and a touch of vanilla that make it super tender. Perfect for celebrating any special day with family and friends!",
+    "hashtags": "#birthdaycake #homemadebaking #easycake",
+    "board_name": "Birthday Cake Recipes",
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "2 1/2 cups all-purpose flour, sifted",
+        "2 1/2 teaspoons baking powder",
+        "1/2 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 cup unsalted butter, softened",
+        "1 3/4 cups granulated sugar",
+        "3 large eggs, room temperature",
+        "1 tablespoon pure vanilla extract",
+        "1 cup buttermilk, room temperature"
+    ],
+    "yield": "One 9-inch two-layer cake, serves 8",
+    "introduction": "I remember the first time I tried making a birthday cake from scratch—it was a bit intimidating! But once I nailed this recipe, it became my go-to for every celebration. What I love about this cake is how moist and tender it turns out without being too dense. The buttermilk adds a subtle tang that balances the sweetness, and the vanilla gives it that comforting aroma that fills the house. I've tweaked this recipe over time, especially the mixing method, to make sure the crumb is just right—light but sturdy enough to hold frosting without crumbling. One trick I learned is to cream the butter and sugar really well until fluffy; it makes a big difference in texture. The finished cake layers come out golden and soft, with a delicate crumb that melts in your mouth. Whether you're frosting it with buttercream or just dusting with powdered sugar, this cake always feels special. Plus, it’s surprisingly easy once you get the hang of it, so don’t be scared to try it yourself!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preheating your oven to 350°F (175°C) and greasing two 9-inch round cake pans. This ensures the cake layers come out cleanly without sticking. Then, sift together the flour, baking powder, baking soda, and salt in a medium bowl. Sifting helps aerate the flour, which contributes to a lighter texture and removes any lumps. Mixing the leavening agents evenly throughout the flour is crucial for even rising. Avoid skipping this step because clumps of baking powder can cause uneven spots or a bitter taste.",
+            "timing": "10 minutes",
+            "doneness_cue": "Dry, lump-free, and airy flour mixture"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, beat the softened butter and sugar together using a hand mixer or stand mixer on medium speed. Cream them until the mixture is pale, fluffy, and noticeably increased in volume—this usually takes about 4-5 minutes. Proper creaming incorporates air, which helps the cake rise and gives it a tender crumb. If you rush or under-cream, the cake can turn out dense or heavy. Scrape down the sides occasionally to ensure even mixing.",
+            "timing": "5 minutes",
+            "doneness_cue": "Light, fluffy, and pale yellow butter-sugar mixture"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the eggs one at a time, beating well after each addition to fully incorporate. This gradual addition prevents the batter from curdling and helps maintain a smooth texture. Then mix in the vanilla extract. If the eggs are too cold, the batter may seize up, so make sure they’re room temperature for the best results.",
+            "timing": "3 minutes",
+            "doneness_cue": "Smooth, glossy batter without streaks or lumps"
+        },
+        {
+            "step": 4,
+            "instruction": "With the mixer on low speed, alternately add the sifted dry ingredients and the buttermilk to the butter mixture, starting and ending with the dry ingredients. Mix just until combined after each addition. Overmixing can develop gluten in the flour, making the cake tough. The buttermilk adds moisture and a slight tang that enhances flavor and tenderness. Stop mixing as soon as you see no flour streaks.",
+            "timing": "5 minutes",
+            "doneness_cue": "Smooth, homogenous batter with no dry spots"
+        },
+        {
+            "step": 5,
+            "instruction": "Divide the batter evenly between the prepared pans, smoothing the tops with a spatula. Even layers bake uniformly, which helps avoid one side rising more than the other. Tap the pans gently on the counter to release any trapped air bubbles that could cause holes or tunnels in the cake.",
+            "timing": "5 minutes",
+            "doneness_cue": "Evenly spread batter with smooth surface"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake the cakes in the preheated oven for about 28-32 minutes. Start checking around 28 minutes by inserting a toothpick into the center. It should come out clean or with a few moist crumbs but no wet batter. Baking too long dries the cake; too short and the center remains undercooked. Oven temperatures vary, so keep an eye on it.",
+            "timing": "28-32 minutes",
+            "doneness_cue": "Golden brown edges and toothpick comes out clean"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the cakes from the oven and let them cool in the pans for 10 minutes. This resting period allows the cake to firm up slightly, making it easier to remove from the pans without breaking. Then, run a knife around the edges and invert the cakes onto wire racks to cool completely. Cooling completely is key before frosting to prevent melting or sliding.",
+            "timing": "20-30 minutes",
+            "doneness_cue": "Cakes are cool to the touch and firm"
+        },
+        {
+            "step": 8,
+            "instruction": "Once cool, level the top of each cake layer with a serrated knife if needed to create a flat surface. This helps the layers stack evenly and prevents the cake from leaning. It’s a small step that makes a big difference in presentation.",
+            "timing": "10 minutes",
+            "doneness_cue": "Flat, even cake layers ready for frosting"
+        },
+        {
+            "step": 9,
+            "instruction": "Frost the cake as desired—classic buttercream, cream cheese frosting, or even a simple dusting of powdered sugar works beautifully. Spread an even layer between the two cakes, then cover the top and sides. Take your time smoothing the frosting for a polished look. Chill briefly if the frosting is soft to set it before serving.",
+            "timing": "15 minutes",
+            "doneness_cue": "Smooth, evenly coated cake with no crumbs in the frosting"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Birthday Cake’s Tender Texture and Flavor",
+        "content": "<p>One of the key reasons this birthday cake turns out so tender and moist is the use of buttermilk. The acidity in buttermilk reacts with the baking soda, creating carbon dioxide bubbles that help the cake rise and develop a delicate crumb. This acid-base reaction also breaks down gluten strands in the flour, preventing toughness and resulting in a softer texture.</p><p>Creaming the butter and sugar is another critical step. This process incorporates tiny air pockets into the fat, which expand during baking and give the cake lift. Proper creaming also helps dissolve sugar crystals, contributing to a fine crumb and smooth texture. Skipping or rushing this step often leads to dense cakes.</p><p>The alternating addition of dry ingredients and buttermilk ensures the batter stays well emulsified and prevents overmixing. Overworking the batter develops gluten, making the cake chewy rather than tender. Using room temperature ingredients helps everything blend smoothly, which also affects the final texture and rise.</p><p>Finally, baking at the right temperature and for the correct time ensures the Maillard reaction occurs, giving the cake its golden color and rich flavor without drying it out. Cooling the cake completely before frosting prevents the buttercream from melting and sliding off, preserving the cake’s beautiful appearance.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good-quality all-purpose flour with moderate protein content (around 10-12%). This provides enough gluten to give structure without making the cake tough. Avoid bread flour, which is too strong, or cake flour unless you want an even lighter crumb. Sifting the flour before use aerates it and removes lumps, which helps achieve a tender texture.",
+            "buttermilk": "Buttermilk adds acidity and moisture, essential for tenderizing gluten and activating baking soda. Use fresh buttermilk at room temperature for best results. If you don’t have buttermilk, you can make a substitute by adding 1 tablespoon of lemon juice or white vinegar to 1 cup of milk and letting it sit for 5 minutes. This acidity is key to the cake’s moist crumb and slight tang.",
+            "unsalted butter": "Using unsalted butter gives you control over the salt content and ensures freshness. Butter should be softened to room temperature but not melted to allow proper creaming with sugar. High-fat butter contributes to flavor and richness, while the creaming process traps air that helps the cake rise. Avoid margarine or spreads as they contain water and emulsifiers that change texture.",
+            "baking powder and baking soda": "Baking powder and baking soda work together to leaven the cake. Baking powder releases gas slowly during baking, while baking soda reacts immediately with the buttermilk’s acid. Using both ensures a balanced rise and texture. Too much or too little can cause the cake to collapse or taste bitter, so precise measurement is important.",
+            "eggs": "Eggs provide structure, moisture, and richness. Using room temperature eggs helps them incorporate fully into the batter, creating a smooth mix. They also act as emulsifiers, stabilizing the batter’s fat and liquid components. Cold eggs can cause the batter to curdle or separate, leading to uneven texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always use room temperature ingredients for best mixing and texture.",
+            "reason": "Room temperature butter, eggs, and buttermilk blend more evenly, creating a smooth batter. Cold ingredients can cause the batter to curdle or mix unevenly, resulting in a dense or uneven crumb."
+        },
+        {
+            "tip": "Don’t skip sifting your dry ingredients.",
+            "reason": "Sifting aerates the flour and evenly distributes leavening agents, which helps the cake rise evenly and have a light texture. Skipping sifting can cause lumps or uneven rising."
+        },
+        {
+            "tip": "Cream butter and sugar until very light and fluffy.",
+            "reason": "This step incorporates air that expands during baking, giving the cake volume and tenderness. Under-creaming leads to a denser cake."
+        },
+        {
+            "tip": "Alternate adding dry ingredients and buttermilk to avoid overmixing.",
+            "reason": "This prevents overdeveloping gluten, which makes the cake tough. Mixing just until combined keeps the crumb tender."
+        },
+        {
+            "tip": "Use an oven thermometer to ensure accurate baking temperature.",
+            "reason": "Oven temps can vary, and baking at the wrong temperature affects rise and moisture. A thermometer helps prevent under or overbaking."
+        },
+        {
+            "tip": "Let cakes cool completely before frosting.",
+            "reason": "Frosting warm cake causes it to melt and slide off, ruining the appearance and texture."
+        },
+        {
+            "tip": "Tap the cake pans on the counter before baking to release air bubbles.",
+            "reason": "This avoids large holes or tunnels in the cake, resulting in a uniform crumb."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter after adding flour",
+            "why_it_happens": "Many cooks think mixing longer ensures everything is combined, but it actually develops gluten, making the cake tough.",
+            "fix": "Mix the flour in gently and only until you see no dry streaks. Use a spatula to fold in if needed and avoid vigorous beating."
+        },
+        {
+            "mistake": "Using cold ingredients straight from the fridge",
+            "why_it_happens": "Some people rush and don’t plan ahead, leading to uneven mixing and curdled batter.",
+            "fix": "Take eggs, butter, and buttermilk out 30-60 minutes before starting to reach room temperature for smooth blending."
+        },
+        {
+            "mistake": "Not greasing pans properly",
+            "why_it_happens": "Skipping or skimping on greasing causes the cake to stick and break when removed.",
+            "fix": "Grease pans thoroughly with butter or baking spray and lightly flour them to ensure easy release."
+        },
+        {
+            "mistake": "Baking at too high a temperature",
+            "why_it_happens": "Some ovens run hot or cooks increase temp to speed baking, causing dry or burnt edges.",
+            "fix": "Use a reliable oven thermometer and bake at 350°F (175°C) for even cooking."
+        },
+        {
+            "mistake": "Frosting the cake while still warm",
+            "why_it_happens": "Impatience leads to melting frosting and messy layers.",
+            "fix": "Allow cake layers to cool completely on wire racks before frosting to keep the finish neat."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Birthday Cake",
+            "description": "Swap 1/2 cup of the flour for unsweetened cocoa powder and add an extra tablespoon of sugar to balance the bitterness. This creates a rich, chocolatey version that’s just as moist and tender.",
+            "technical_note": "Cocoa powder absorbs moisture differently, so check batter consistency—it may need a slight splash more buttermilk."
+        },
+        {
+            "name": "Lemon Vanilla Cake",
+            "description": "Add zest of one lemon and replace half the vanilla extract with lemon extract for a bright, citrus twist. This is refreshing and pairs well with cream cheese frosting.",
+            "technical_note": "Zest should be finely grated to avoid bitter pith; folding gently preserves batter airiness."
+        },
+        {
+            "name": "Gluten-Free Birthday Cake",
+            "description": "Use a 1-to-1 gluten-free baking flour blend instead of all-purpose flour. This makes the cake accessible for gluten-sensitive guests while keeping the texture soft.",
+            "technical_note": "Gluten-free flours often need a bit more moisture; you might add an extra tablespoon of buttermilk."
+        },
+        {
+            "name": "Vegan Birthday Cake",
+            "description": "Replace butter with vegan margarine, eggs with flax eggs (1 tbsp flaxseed meal + 3 tbsp water per egg), and use plant-based milk with vinegar for buttermilk. The cake will be slightly denser but still delicious.",
+            "technical_note": "Flax eggs don’t trap as much air, so cream margarine and sugar longer to compensate."
+        },
+        {
+            "name": "Spiced Birthday Cake",
+            "description": "Add 1 teaspoon cinnamon, 1/2 teaspoon nutmeg, and a pinch of cloves to the dry ingredients for a warm, cozy flavor perfect for fall birthdays.",
+            "technical_note": "Spices can intensify during baking; start with small amounts and adjust to taste."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "18g",
+        "fiber_grams": "1g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and frosting used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The cake will keep safely at room temperature for up to 2 days if covered tightly with plastic wrap or stored in a cake dome to prevent drying out.",
+        "refrigerator": "Store the frosted cake in an airtight container or cake keeper for up to 5 days. The cake may firm up and the frosting can become slightly denser when chilled; let it sit at room temperature for 30 minutes before serving for best texture.",
+        "freezer": "Wrap the cake layers tightly in plastic wrap and then foil to freeze for up to 3 months. Thaw overnight in the refrigerator wrapped, then bring to room temperature before frosting or serving to restore moisture.",
+        "reheating": "If you want to warm individual slices, microwave for 10-15 seconds on medium power. Avoid overheating as it can dry out the cake. Adding a small dab of butter or frosting can help keep it moist.",
+        "make_ahead_strategy": "You can bake the cake layers 1-2 days ahead and store them wrapped at room temperature or refrigerated. Frost on the day of serving for the freshest look and taste."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular milk instead of buttermilk?",
+            "answer": "Yes, but to mimic buttermilk’s acidity, add 1 tablespoon of lemon juice or white vinegar to 1 cup of milk and let it sit for 5 minutes before using. This helps activate the baking soda and tenderizes the cake."
+        },
+        {
+            "question": "What if I don’t have a mixer?",
+            "answer": "You can cream butter and sugar by hand with a wooden spoon, though it takes longer and requires more elbow grease. Make sure the butter is very soft to make this easier."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Absolutely! Substitute the flour with a 1-to-1 gluten-free baking flour blend. You might need to adjust moisture slightly by adding a tablespoon more buttermilk."
+        },
+        {
+            "question": "How do I store leftover cake?",
+            "answer": "Keep leftovers in an airtight container at room temperature for up to 2 days or refrigerated for up to 5 days. Bring chilled cake to room temperature before serving for best flavor and texture."
+        },
+        {
+            "question": "Can I freeze the frosted cake?",
+            "answer": "It’s best to freeze unfrosted layers wrapped tightly. Frost after thawing to avoid texture changes in the frosting. If freezing a frosted cake, wrap well and thaw slowly in the fridge."
+        },
+        {
+            "question": "Why does my cake sometimes sink in the middle?",
+            "answer": "Common reasons include underbaking, opening the oven door too early, or too much leavening agent. Make sure to bake fully and avoid opening the oven until near the end of baking."
+        },
+        {
+            "question": "Can I add fillings between the layers?",
+            "answer": "Yes, jams, curds, or fresh fruit work beautifully. Just make sure the layers are completely cool before spreading fillings to prevent sliding or melting."
+        },
+        {
+            "question": "What frosting pairs best with this cake?",
+            "answer": "Classic buttercream or cream cheese frosting complements the cake’s mild sweetness perfectly. You can also try whipped cream or chocolate ganache for variety."
+        }
+    ],
+    "conclusion": "Give this birthday cake a try—it's a real crowd-pleaser! I’d love to hear how your cake turns out, so don’t forget to share your photos and thoughts.",
+    "seo": {
+        "primary_keyword": "homemade birthday cake recipe",
+        "secondary_keywords": [
+            "easy birthday cake from scratch",
+            "best birthday cake recipe",
+            "how to make birthday cake",
+            "simple birthday cake recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "classic buttercream frosting recipe",
+                "anchor": "classic-buttercream-frosting"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "complexity": "simple",
+        "structure_pattern": "detailed",
+        "temperature": 0.5,
+        "generated_at": "2026-03-24 12:58:40"
+    },
+    "author_id": "author_001",
+    "slug": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love",
+    "uniqueSlug": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love",
+    "id": "post_1774353612_612",
+    "isOnline": true,
+    "total_time": 50,
+    "structured_content": [],
+    "images": [
+        {
+            "fileName": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_image_1.webp",
+            "filePath": "posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_image_1.webp",
+            "relativePath": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_image_2.webp",
+            "filePath": "posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_image_2.webp",
+            "relativePath": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_image_3.webp",
+            "filePath": "posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_image_3.webp",
+            "relativePath": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_4.webp",
+            "relativePath": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        },
+        {
+            "fileName": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_4.webp",
+            "relativePath": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_pinrecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "image": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_image_1.webp",
+    "image_path": "posts/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images/easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love_image_1.webp",
+    "image_dir": "easy-homemade-birthday-cake-recipe-from-scratch-that-everyone-will-love/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-25T13:05:39+01:00",
+    "updatedAt": "2026-03-25T13:05:39+01:00",
+    "pin_variations": [
+        {
+            "title": "Moist & Easy Homemade Birthday Cake Recipe",
+            "description": "Discover the secret to a moist, fluffy birthday cake made from scratch! This easy recipe features buttermilk and vanilla for a tender, delicious treat perfect for any celebration. Bake a cake that everyone will love! #BirthdayCake #HomemadeCake #BakingFromScratch #EasyRecipes #CakeLovers"
+        },
+        {
+            "title": "Delicious Scratch-Made Birthday Cake Everyone Will Love",
+            "description": "Celebrate your special day with this simple, flavorful birthday cake recipe. Made with buttermilk and real vanilla, it's moist, tender, and sure to impress your family and friends. Perfect for birthdays and any joyful occasion! #BirthdayBaking #ScratchCake #ButtermilkCake #FamilyFavorites #HomemadeDesserts"
+        },
+        {
+            "title": "Super Tender Birthday Cake Recipe With Buttermilk & Vanilla",
+            "description": "Make birthdays extra special with this easy, from-scratch birthday cake recipe. The combination of buttermilk and vanilla ensures a moist, melt-in-your-mouth texture everyone will enjoy. Perfect for sharing with loved ones! #BirthdayCakeRecipe #MoistCake #BakeFromScratch #VanillaCake #CelebrationDesserts"
+        }
+    ]
+}

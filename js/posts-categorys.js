@@ -13,7 +13,8 @@ class PostLoader {
         this.hasMorePosts = true;
         this.initialized = false;
         this.currentCategorySlug = null;
-        this.categoryMapping = {}; // NOUVEAU: Stockage du mapping des catégories
+        this.categoryMapping = {};    // slug → id
+        this.categoryIdToName = {};   // id → name (chargé depuis category.json)
     }
 
     async init() {
@@ -59,28 +60,40 @@ class PostLoader {
 
     async loadCategoryMapping() {
         try {
-            // console.log('Chargement du mapping des catégories...');
             const response = await fetch(`${this.categoriesPath}index.json`);
-            
+
             if (!response.ok) {
-                // console.warn('Fichier categories/index.json non trouvé, utilisation du mapping par défaut');
                 this.categoryMapping = {};
+                this.categoryIdToName = {};
                 return;
             }
-            
+
             const data = await response.json();
-            
+
             if (data.folders && typeof data.folders === 'object') {
-                this.categoryMapping = data.folders;
-                // console.log('Mapping des catégories chargé:', this.categoryMapping);
+                this.categoryMapping = data.folders; // slug → id
+                // Build id → name map from individual category.json files
+                this.categoryIdToName = {};
+                await Promise.all(
+                    Object.keys(data.folders).map(async (slug) => {
+                        const id = data.folders[slug];
+                        try {
+                            const r = await fetch(`${this.categoriesPath}${slug}/category.json`);
+                            if (r.ok) {
+                                const cat = await r.json();
+                                if (cat.name) this.categoryIdToName[id] = cat.name;
+                            }
+                        } catch (_) {}
+                    })
+                );
             } else {
-                // console.warn('Format invalide dans categories/index.json');
                 this.categoryMapping = {};
+                this.categoryIdToName = {};
             }
-            
+
         } catch (error) {
-            // console.error('Erreur lors du chargement du mapping des catégories:', error);
             this.categoryMapping = {};
+            this.categoryIdToName = {};
         }
     }
 
@@ -836,11 +849,8 @@ class PostLoader {
     }
 
     getCategoryName(categoryId) {
-        const categoryMap = {
-            // Ajouter votre mapping de catégories ici si nécessaire
-        };
-        
-        return categoryMap[categoryId] || categoryId;
+        if (!categoryId) return null;
+        return (this.categoryIdToName && this.categoryIdToName[categoryId]) || null;
     }
 
     async findMainImage(folderName) {
@@ -870,39 +880,60 @@ class PostLoader {
     }
 
 createpostHTML(post) {
-    // Utiliser des valeurs par défaut pour éviter les erreurs de déstructuration
     const slug = post.slug || post.folderName || post.id || 'post';
-    const folderName = post.folderName || post.slug || post.id || 'post';
     const title = post.title || 'Titre non disponible';
-    const description = post.description || 'Description non disponible';
-    const category = post.category || 'Général';
-    const difficulty = post.difficulty || 'Non spécifié';
+    const description = post.description || '';
+    const category = post.category || 'General';
+    const difficulty = post.difficulty || '';
     const mainImage = post.mainImage || 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300"><rect width="400" height="300" fill="%23f8f9fa"/><text x="200" y="150" font-family="Arial" font-size="18" fill="%236c757d" text-anchor="middle">Image non disponible</text></svg>';
 
     const postUrl = `posts/${slug}`;
-    
+
+    // Difficulty icon + color
+    const diffMap = {
+        easy:   { color: '#27ae60', bars: 1 },
+        medium: { color: '#f39c12', bars: 2 },
+        hard:   { color: '#e74c3c', bars: 3 },
+    };
+    const diffKey = difficulty.toLowerCase();
+    const diffCfg = diffMap[diffKey] || { color: '#95a5a6', bars: 1 };
+
+    const barIcon = (n) => [1,2,3].map(i =>
+        `<span style="width:3px;height:${4+i*3}px;border-radius:2px;background:${i<=n ? diffCfg.color : '#dde1e7'};display:inline-block;"></span>`
+    ).join('');
+
+    const diffHtml = difficulty ? `
+        <span class="entry__meta-diff" style="--dc:${diffCfg.color}">
+            <span class="entry__diff-bars">${barIcon(diffCfg.bars)}</span>
+            ${difficulty}
+        </span>` : '';
+
+    // Chef hat SVG icon (category)
+    const chefSvg = `<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 13.87A4 4 0 0 1 7.41 6a5.11 5.11 0 0 1 1.05-1.54 5 5 0 0 1 7.08 0A5.11 5.11 0 0 1 16.59 6 4 4 0 0 1 18 13.87V21H6Z"/><line x1="6" y1="17" x2="18" y2="17"/></svg>`;
+
+    // Arrow icon
+    const arrowSvg = `<svg class="entry__arrow" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M3 8h10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+
     return `
-        <div class="entry" data-category="${this.slugify(category)}" data-difficulty="${difficulty.toLowerCase()}">
+        <div class="entry" data-category="${this.slugify(category)}" data-difficulty="${diffKey}">
             <a class="entry__img" href="${postUrl}" title="${title}">
-                <img alt="${title}" 
-                     loading="lazy" 
-                     decoding="async" 
-                     width="400" 
-                     height="300" 
+                <img alt="${title}"
+                     loading="lazy"
+                     decoding="async"
+                     width="400"
+                     height="300"
                      src="${mainImage}"
                      onerror="this.src='data:image/svg+xml,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;400&quot; height=&quot;300&quot; viewBox=&quot;0 0 400 300&quot;><rect width=&quot;400&quot; height=&quot;300&quot; fill=&quot;%23f8f9fa&quot;/><text x=&quot;200&quot; y=&quot;150&quot; font-family=&quot;Arial&quot; font-size=&quot;18&quot; fill=&quot;%236c757d&quot; text-anchor=&quot;middle&quot;>Image non disponible</text></svg>'">
+                <span class="entry__category">${chefSvg} ${category}</span>
             </a>
-            
             <div class="entry__body">
-                <a href="${postUrl}" title="${title}" class="entry__title">
-                    ${title}
-                </a>
+                <a href="${postUrl}" title="${title}" class="entry__title">${title}</a>
                 <p class="entry__description">${description}</p>
+                ${diffHtml ? `<div class="entry__meta">${diffHtml}</div>` : ''}
             </div>
-            
             <div class="entry__footer">
                 <a class="entry__footer-link" href="${postUrl}" title="${title}">
-                    View the post
+                    View Recipe ${arrowSvg}
                 </a>
             </div>
         </div>
