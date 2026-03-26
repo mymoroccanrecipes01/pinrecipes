@@ -254,7 +254,7 @@
     "slug": "fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite",
     "uniqueSlug": "fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite",
     "id": "post_1774356640_927",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 55,
     "structured_content": [],
     "images": [
@@ -286,6 +286,34 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_1.webp",
+            "filePath": "posts/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_1.webp",
+            "relativePath": "fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_2.webp",
+            "filePath": "posts/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_2.webp",
+            "relativePath": "fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_3.webp",
+            "filePath": "posts/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_3.webp",
+            "relativePath": "fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_4.webp",
+            "filePath": "posts/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_4.webp",
+            "relativePath": "fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images/fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite_image_1.webp",
@@ -293,8 +321,8 @@
     "image_dir": "fluffy-birthday-cake-with-rainbow-sprinkles-that-feels-like-a-celebration-in-every-bite/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-24T13:50:40+01:00",
-    "updatedAt": "2026-03-24T13:50:40+01:00",
+    "createdAt": "2026-03-27T00:04:55+01:00",
+    "updatedAt": "2026-03-27T00:04:55+01:00",
     "pin_variations": [
         {
             "title": "Light & Airy Birthday Cake with Rainbow Sprinkles",

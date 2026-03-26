@@ -254,7 +254,7 @@
     "slug": "classic-birthday-cake-recipe-your-kids-will-adore-every-time",
     "uniqueSlug": "classic-birthday-cake-recipe-your-kids-will-adore-every-time",
     "id": "post_1774357270_911",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 60,
     "structured_content": [],
     "images": [
@@ -286,6 +286,34 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-birthday-cake-recipe-your-kids-will-adore-every-time/images/classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-birthday-cake-recipe-your-kids-will-adore-every-time/images/classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_1.webp",
+            "relativePath": "classic-birthday-cake-recipe-your-kids-will-adore-every-time/images/classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-birthday-cake-recipe-your-kids-will-adore-every-time/images/classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-birthday-cake-recipe-your-kids-will-adore-every-time/images/classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_2.webp",
+            "relativePath": "classic-birthday-cake-recipe-your-kids-will-adore-every-time/images/classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-birthday-cake-recipe-your-kids-will-adore-every-time/images/classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-birthday-cake-recipe-your-kids-will-adore-every-time/images/classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_3.webp",
+            "relativePath": "classic-birthday-cake-recipe-your-kids-will-adore-every-time/images/classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-birthday-cake-recipe-your-kids-will-adore-every-time/images/classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_4.webp",
+            "filePath": "posts/classic-birthday-cake-recipe-your-kids-will-adore-every-time/images/classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_4.webp",
+            "relativePath": "classic-birthday-cake-recipe-your-kids-will-adore-every-time/images/classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-birthday-cake-recipe-your-kids-will-adore-every-time/images/classic-birthday-cake-recipe-your-kids-will-adore-every-time_pinrecipes_image_4.webp",
+            "type": "template"
         }
     ],
     "image": "classic-birthday-cake-recipe-your-kids-will-adore-every-time_image_1.webp",
@@ -293,8 +321,8 @@
     "image_dir": "classic-birthday-cake-recipe-your-kids-will-adore-every-time/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-24T14:01:10+01:00",
-    "updatedAt": "2026-03-24T14:01:10+01:00",
+    "createdAt": "2026-03-27T00:04:55+01:00",
+    "updatedAt": "2026-03-27T00:04:55+01:00",
     "pin_variations": [
         {
             "title": "Soft & Fluffy Classic Birthday Cake Recipe Kids Love",

@@ -1,7 +1,7 @@
 /**
  * AdSense Auto-Injection System
  * 100% Config-driven - just add placements to the array, no code changes needed!
- * Works with both standalone recipe pages and SPA (base.html) pages
+ * Works with both standalone post pages and SPA (base.html) pages
  */
 
 (function() {
@@ -21,7 +21,7 @@
          *   - selector:  CSS selector to find the target element
          *   - position:  'after' | 'before' | 'inside-top' | 'inside-bottom'
          *   - format:    'auto' | 'in-article' | 'horizontal'
-         *   - pages:     'recipe' | 'spa' | 'all'  (where this ad appears)
+         *   - pages:     'post' | 'spa' | 'all'  (where this ad appears)
          *
          * Optional:
          *   - nthChild:  For repeated elements (e.g., story-section), pick which one (1-based)
@@ -29,10 +29,10 @@
          *   - className: Extra CSS class for styling
          */
         placements: [
-            // -------- RECIPE PAGE ADS --------
+            // -------- POST PAGE ADS --------
             {
                 slot: '8684648378',
-                selector: '.recipe-description',
+                selector: '.post-description',
                 position: 'after',
                 format: 'auto',
                 pages: 'all',
@@ -56,11 +56,11 @@
             },                                                                        
             {
                 slot: '4055138220',
-                selector: '.recipe-boxes',
+                selector: '.post-boxes',
                 position: 'after',
                 format: 'auto',
-                pages: 'recipe',
-                className: 'ad-after-recipe-box',
+                pages: 'post',
+                className: 'ad-after-post-box',
             },
             {
                 slot: '4055138220',
@@ -90,7 +90,7 @@
                 selector: '.breadcrumb',
                 position: 'after',
                 format: 'auto',
-                pages: 'recipe',
+                pages: 'post',
                 className: 'ad-after-breadcrumb',
             },
             
@@ -100,7 +100,7 @@
             //     selector: '.ingredients-section',
             //     position: 'after',
             //     format: 'in-article',
-            //     pages: 'recipe',
+            //     pages: 'post',
             //     className: 'ad-between-sections',
             // },
             
@@ -110,18 +110,18 @@
             //     selector: '.story-section',
             //     position: 'after',
             //     format: 'in-article',
-            //     pages: 'recipe',
+            //     pages: 'post',
             //     nthChild: 5,
             //     className: 'ad-in-article',
             // },
             
-            // Example: Ad after recipe tips
+            // Example: Ad after post tips
             // {
             //     slot: '6877189795',
-            //     selector: '.recipe-tips',
+            //     selector: '.post-tips',
             //     position: 'after',
             //     format: 'auto',
-            //     pages: 'recipe',
+            //     pages: 'post',
             //     className: 'ad-after-tips',
             // },
         ],
@@ -222,11 +222,11 @@
     }
 
     function getPageType() {
-        var isRecipe = window.location.pathname.includes('/recipes/') &&
-                       document.querySelector('.recipe-detail') !== null;
+        var isPost = window.location.pathname.includes('/posts/') &&
+                       document.querySelector('.post-detail') !== null;
         var isSPA = document.getElementById('main-content') !== null &&
-                    !isRecipe;
-        return isRecipe ? 'recipe' : (isSPA ? 'spa' : 'generic');
+                    !isPost;
+        return isPost ? 'post' : (isSPA ? 'spa' : 'generic');
     }
 
     function removeExistingAds() {
@@ -245,8 +245,8 @@
         ADS_CONFIG.placements.forEach(function(placement) {
             // Check if this placement applies to current page
             if (placement.pages !== 'all' && placement.pages !== pageType) return;
-            // For SPA showing a recipe detail, skip 'spa'-only placements
-            if (placement.pages === 'spa' && document.querySelector('.recipe-detail')) return;
+            // For SPA showing a post detail, skip 'spa'-only placements
+            if (placement.pages === 'spa' && document.querySelector('.post-detail')) return;
 
             var elements = document.querySelectorAll(placement.selector);
             if (!elements.length) return;

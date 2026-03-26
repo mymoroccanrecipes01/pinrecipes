@@ -1,16 +1,16 @@
-// Recipe Website JavaScript - Compatible avec le système de routage
+// Post Website JavaScript - Compatible avec le système de routage
 
 document.addEventListener('DOMContentLoaded', function() {
    // // console.log('Main.js chargé - Le routeur gère l\'initialisation des pages');
 });
 
-// Fonctionnalités spécifiques à la page des recettes
+// Fonctionnalités spécifiques à la page des posts
 window.initpostsPageFeatures = function() {
    // // console.log('Initialisation des fonctionnalités de la page posts');
     
-    // Filtres de recettes
+    // Filtres de posts
     const filterBtns = document.querySelectorAll('.filter-btn');
-    const recipeCards = document.querySelectorAll('.recipe-card[data-category]');
+    const postCards = document.querySelectorAll('.post-card[data-category]');
     
     if (filterBtns.length > 0) {
         filterBtns.forEach(btn => {
@@ -21,7 +21,7 @@ window.initpostsPageFeatures = function() {
                 this.classList.add('active');
                 
                 const filter = this.getAttribute('data-filter');
-                filterposts(filter, recipeCards);
+                filterposts(filter, postCards);
             });
         });
     }
@@ -38,7 +38,7 @@ window.initpostsPageFeatures = function() {
     });
 };
 
-// Filtrer les recettes par catégorie
+// Filtrer les posts par catégorie
 function filterposts(category, cards) {
     let visibleCount = 0;
     
@@ -55,7 +55,7 @@ function filterposts(category, cards) {
     });
     
     // Mettre à jour le compteur
-    const countElement = document.getElementById('recipe-count');
+    const countElement = document.getElementById('post-count');
     if (countElement) {
         countElement.textContent = visibleCount;
     }
@@ -243,7 +243,7 @@ window.initHomePageFeatures = function() {
 
 // Animer les cartes au scroll
 function animateCardsOnScroll() {
-    const cards = document.querySelectorAll('.recipe-card, .category-card, .pick-card');
+    const cards = document.querySelectorAll('.post-card, .category-card, .pick-card');
     
     // Créer l'observateur d'intersection
     const cardObserver = new IntersectionObserver((entries) => {

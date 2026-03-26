@@ -5,14 +5,14 @@ class PostDetailLoader {
         this.authorsPath = './authors/authors.json';
         this.initialized = false;
         this.activeAuthor = null;
-        this.recentPosts = []; // Nouvelle propriété pour stocker les recettes récentes
+        this.recentPosts = []; // Nouvelle propriété pour stocker les posts récentes
         this.rssConfig = {
             title: 'Delicious posts Feed',
             description: 'Fresh posts and cooking inspiration for Pinterest',
             link: window.location.origin,
             language: 'en-US',
-            copyright: `© ${new Date().getFullYear()} Recipe Collection`,
-            managingEditor: 'posts@example.com (Recipe Team)',
+            copyright: `© ${new Date().getFullYear()} Post Collection`,
+            managingEditor: 'posts@example.com (Post Team)',
             webMaster: 'webmaster@example.com (Web Master)',
             category: 'Food & Cooking',
             generator: 'PostDetailLoader RSS Generator',
@@ -39,29 +39,58 @@ class PostDetailLoader {
             const postslug = this.getPostSlugFromUrl();
             
             if (!postslug) {
-                this.showError('Recipe name missing from URL');
+                this.showError('Post name missing from URL');
                 return;
             }
 
-           // // console.log('Loading recipe:', postslug);
+           // // console.log('Loading post:', postslug);
             
-            const recipe = await this.loadPostData(postslug);
+            const post = await this.loadPostData(postslug);
             
-            if (!recipe) {
-                this.showError(`Recipe "${postslug}" not found`);
+            if (!post) {
+                this.showError(`Post "${postslug}" not found`);
                 return;
             }
 
-            // Load recent posts, optionally filtered by current recipe's category
-            await this.loadRecentPosts(recipe.category_id);
+            // Load recent posts, optionally filtered by current post's category
+            await this.loadRecentPosts(post.category_id);
 
-            this.displayPost(recipe);
+            this.displayPost(post);
             this.initialized = true;
 
         } catch (error) {
-           // console.error('Error loading recipe:', error);
-            this.showError('Error loading recipe');
+           // console.error('Error loading post:', error);
+            this.showError('Error loading post');
         }
+    }
+
+    getLabels() {
+        return Object.assign({
+            why_this_works:  'Why This Works',
+            ingredients:     "What You'll Need",
+            instructions:    'How To Do It',
+            pro_tips:        'Pro Tips',
+            common_mistakes: 'Common Mistakes to Avoid',
+            variations:      'Variations',
+            nutrition:       'Nutrition',
+            storage:         'Storage & Tips',
+            faq:             'FAQ',
+            conclusion:      'Final Thoughts',
+            introduction:    'Introduction',
+        }, globalThis.postSectionLabels || {});
+    }
+
+    getMetaStats() {
+        return globalThis.postMetaStats || [
+            { field: 'prep_time',  label: 'Prep Time',  suffix: 'min' },
+            { field: 'cook_time',  label: 'Time',       suffix: 'min' },
+            { field: 'total_time', label: 'Total Time', suffix: 'min' },
+            { field: 'servings',   label: 'Servings',   suffix: '' },
+            { field: 'duration',   label: 'Duration',   suffix: '' },
+            { field: 'difficulty', label: 'Difficulty', suffix: '' },
+            { field: 'budget',     label: 'Budget',     suffix: '' },
+            { field: 'level',      label: 'Level',      suffix: '' },
+        ];
     }
 
     // Nouvelle méthode pour créer le bouton Pinterest PIN
@@ -72,7 +101,7 @@ class PostDetailLoader {
             <button class="pinterest-pin-btn" 
                     onclick="window.open('${pinterestUrl}', '_blank', 'width=750,height=320')"
                     title="Pin on Pinterest"
-                    aria-label="Pin this recipe image on Pinterest">
+                    aria-label="Pin this post image on Pinterest">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
                     <path d="M12 0C5.373 0 0 5.372 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.219-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738.098.119.112.224.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.888-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.357-.631-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12.001 24c6.624 0 11.999-5.373 11.999-12C24 5.372 18.626.001 12.001.001z"/>
                 </svg>
@@ -89,7 +118,7 @@ class PostDetailLoader {
         const params = new URLSearchParams({
             url: currentUrl,
             media: fullImageUrl,
-            description: `${title} - ${description || 'Delicious recipe to try!'}`
+            description: `${title} - ${description || 'Delicious post to try!'}`
         });
 
         return `https://pinterest.com/pin/create/button/?${params.toString()}`;
@@ -159,7 +188,7 @@ class PostDetailLoader {
                 transform: scale(1.02);
             }
 
-            /* Styles pour les images dans les mini-recettes */
+            /* Styles pour les images dans les mini-posts */
             .mini-post {
                 position: relative;
             }
@@ -230,14 +259,14 @@ class PostDetailLoader {
         try {
            // // console.log('Integrating RSS feed for Pinterest auto-discovery...');
 
-            // Charger toutes les recettes disponibles
-            const recipeFolders = await this.getRecipeFolders();
-            const recipePromises = recipeFolders.slice(0, this.rssConfig.maxItems).map(folder => 
+            // Charger toutes les posts disponibles
+            const postFolders = await this.getPostFolders();
+            const postPromises = postFolders.slice(0, this.rssConfig.maxItems).map(folder => 
                 this.loadPostDataForRSS(folder)
             );
             
-            const posts = await Promise.all(recipePromises);
-            const validposts = posts.filter(recipe => recipe !== null);
+            const posts = await Promise.all(postPromises);
+            const validposts = posts.filter(post => post !== null);
 
             // Trier par date (plus récentes d'abord)
             validposts.sort((a, b) => {
@@ -311,7 +340,7 @@ class PostDetailLoader {
         const rssCanonical = document.createElement('link');
         rssCanonical.rel = 'alternate';
         rssCanonical.type = 'application/rss+xml';
-        rssCanonical.title = 'Pinterest Recipe Feed';
+        rssCanonical.title = 'Pinterest Post Feed';
         rssCanonical.href = `${window.location.origin}/pinterest-rss.xml`;
         
         document.head.appendChild(rssCanonical);
@@ -391,7 +420,7 @@ class PostDetailLoader {
 
     // Ajouter les données structurées JSON-LD pour Pinterest et Google
     addStructuredData(posts) {
-        const existingScript = document.getElementById('recipe-structured-data');
+        const existingScript = document.getElementById('post-structured-data');
         if (existingScript) {
             existingScript.remove();
         }
@@ -410,29 +439,29 @@ class PostDetailLoader {
             "mainEntity": {
                 "@type": "ItemList",
                 "numberOfItems": posts.length,
-                "itemListElement": posts.slice(0, 10).map((recipe, index) => ({
-                    "@type": "Recipe",
+                "itemListElement": posts.slice(0, 10).map((post, index) => ({
+                    "@type": "Post",
                     "position": index + 1,
-                    "name": recipe.title,
-                    "image": recipe.mainImage,
-                    "description": recipe.description,
-                    "url": recipe.link,
-                    "prepTime": `PT${recipe.prepTime}M`,
-                    "cookTime": `PT${recipe.cookTime}M`,
-                    "totalTime": `PT${recipe.totalTime}M`,
-                    "recipeYield": recipe.servings,
-                    "recipeIngredient": recipe.ingredients,
-                    "recipeInstructions": recipe.instructions.map(instruction => ({
+                    "name": post.title,
+                    "image": post.mainImage,
+                    "description": post.description,
+                    "url": post.link,
+                    "prepTime": `PT${post.prepTime}M`,
+                    "cookTime": `PT${post.cookTime}M`,
+                    "totalTime": `PT${post.totalTime}M`,
+                    "postYield": post.servings,
+                    "postIngredient": post.ingredients,
+                    "postInstructions": post.instructions.map(instruction => ({
                         "@type": "HowToStep",
                         "text": instruction
                     })),
                     "nutrition": {
                         "@type": "NutritionInformation",
-                        "servingSize": recipe.servings
+                        "servingSize": post.servings
                     },
                     "author": {
                         "@type": "Person",
-                        "name": recipe.author
+                        "name": post.author
                     },
                     "publisher": {
                         "@type": "Organization",
@@ -443,7 +472,7 @@ class PostDetailLoader {
         };
 
         const script = document.createElement('script');
-        script.id = 'recipe-structured-data';
+        script.id = 'post-structured-data';
         script.type = 'application/ld+json';
         script.textContent = JSON.stringify(structuredData, null, 2);
         document.head.appendChild(script);
@@ -527,7 +556,7 @@ class PostDetailLoader {
         return results;
     }
 
-    // Charger les données d'une recette optimisées pour RSS
+    // Charger les données d'une post optimisées pour RSS
     async loadPostDataForRSS(folderName) {
         try {
             const jsonUrl = `${this.postsPath}${folderName}/post.json`;
@@ -537,77 +566,77 @@ class PostDetailLoader {
                 return null;
             }
             
-            const recipeData = await jsonResponse.json();
+            const postData = await jsonResponse.json();
             
-            if (!recipeData.title) {
+            if (!postData.title) {
                 return null;
             }
 
-            // Construire l'URL complète de la recette
-            const recipeUrl = `${window.location.origin}${window.location.pathname}?page=recipe-detail&recipe=${folderName}`;
+            // Construire l'URL complète de la post
+            const postUrl = `${window.location.origin}${window.location.pathname}?page=post-detail&post=${folderName}`;
             
             // Obtenir l'image principale
-            const mainImage = this.getMainImage(recipeData, folderName);
+            const mainImage = this.getMainImage(postData, folderName);
             const fullImageUrl = mainImage.startsWith('http') ? mainImage : `${window.location.origin}/${mainImage.replace('./', '')}`;
             
             // Calculer le temps total si nécessaire
-            const totalTime = recipeData.total_time || 
-                             ((recipeData.prep_time || 0) + (recipeData.cook_time || 0)) || 
+            const totalTime = postData.total_time || 
+                             ((postData.prep_time || 0) + (postData.cook_time || 0)) || 
                              30; // défaut 30 minutes
 
             return {
-                title: recipeData.title,
-                description: this.createRSSDescription(recipeData),
-                link: recipeUrl,
-                guid: recipeUrl,
-                publishDate: recipeData.createdAt || recipeData.updatedAt || new Date().toISOString(),
-                category: recipeData.category || 'posts',
+                title: postData.title,
+                description: this.createRSSDescription(postData),
+                link: postUrl,
+                guid: postUrl,
+                publishDate: postData.createdAt || postData.updatedAt || new Date().toISOString(),
+                category: postData.category || 'posts',
                 author: this.activeAuthor?.name || 'House Chef',
                 mainImage: fullImageUrl,
-                prepTime: recipeData.prep_time || 15,
-                cookTime: recipeData.cook_time || 30,
+                prepTime: postData.prep_time || 15,
+                cookTime: postData.cook_time || 30,
                 totalTime: totalTime,
-                servings: recipeData.servings || '4-6',
-                difficulty: recipeData.difficulty || 'intermediate',
-                ingredients: recipeData.ingredients || [],
-                instructions: recipeData.instructions || [],
-                tags: this.extractTags(recipeData),
-                nutrition: recipeData.nutrition || {},
-                ...recipeData
+                servings: postData.servings || '4-6',
+                difficulty: postData.difficulty || 'intermediate',
+                ingredients: postData.ingredients || [],
+                instructions: postData.instructions || [],
+                tags: this.extractTags(postData),
+                nutrition: postData.nutrition || {},
+                ...postData
             };
             
         } catch (error) {
-           // console.error(`Erreur lors du chargement RSS de la recette ${folderName}:`, error);
+           // console.error(`Erreur lors du chargement RSS de la post ${folderName}:`, error);
             return null;
         }
     }
 
     // Créer une description optimisée pour Pinterest
-    createRSSDescription(recipeData) {
+    createRSSDescription(postData) {
         const parts = [];
         
-        if (recipeData.description) {
-            parts.push(recipeData.description);
+        if (postData.description) {
+            parts.push(postData.description);
         }
         
         // Ajouter les informations de temps
         const timeInfo = [];
-        if (recipeData.prep_time) timeInfo.push(`Prep: ${recipeData.prep_time}min`);
-        if (recipeData.cook_time) timeInfo.push(`Cook: ${recipeData.cook_time}min`);
-        if (recipeData.servings) timeInfo.push(`Serves: ${recipeData.servings}`);
+        if (postData.prep_time) timeInfo.push(`Prep: ${postData.prep_time}min`);
+        if (postData.cook_time) timeInfo.push(`Cook: ${postData.cook_time}min`);
+        if (postData.servings) timeInfo.push(`Serves: ${postData.servings}`);
         
         if (timeInfo.length > 0) {
             parts.push(`⏱️ ${timeInfo.join(' | ')}`);
         }
         
         // Ajouter quelques ingrédients clés
-        if (recipeData.ingredients && recipeData.ingredients.length > 0) {
-            const keyIngredients = recipeData.ingredients.slice(0, 3).join(', ');
+        if (postData.ingredients && postData.ingredients.length > 0) {
+            const keyIngredients = postData.ingredients.slice(0, 3).join(', ');
             parts.push(`🥘 Key ingredients: ${keyIngredients}`);
         }
         
         // Ajouter des hashtags Pinterest-friendly
-        const tags = this.extractTags(recipeData);
+        const tags = this.extractTags(postData);
         if (tags.length > 0) {
             parts.push(`#${tags.slice(0, 5).join(' #')}`);
         }
@@ -616,35 +645,35 @@ class PostDetailLoader {
     }
 
     // Extraire des tags pour Pinterest
-    extractTags(recipeData) {
+    extractTags(postData) {
         const tags = new Set();
         
         // Tags basés sur la catégorie
-        if (recipeData.category) {
-            tags.add(recipeData.category.replace(/\s+/g, ''));
+        if (postData.category) {
+            tags.add(postData.category.replace(/\s+/g, ''));
         }
         
-        if (recipeData.category_id) {
-            tags.add(recipeData.category_id.replace(/-/g, ''));
+        if (postData.category_id) {
+            tags.add(postData.category_id.replace(/-/g, ''));
         }
         
         // Tags basés sur la difficulté
-        if (recipeData.difficulty) {
-            tags.add(`${recipeData.difficulty}recipe`);
+        if (postData.difficulty) {
+            tags.add(`${postData.difficulty}post`);
         }
         
         // Tags basés sur le temps
-        const totalTime = recipeData.total_time || ((recipeData.prep_time || 0) + (recipeData.cook_time || 0));
+        const totalTime = postData.total_time || ((postData.prep_time || 0) + (postData.cook_time || 0));
         if (totalTime <= 30) {
-            tags.add('quickrecipe');
+            tags.add('quickpost');
             tags.add('30minutemeals');
         } else if (totalTime <= 60) {
             tags.add('1hourmeals');
         }
         
         // Tags basés sur les ingrédients principaux
-        if (recipeData.ingredients) {
-            recipeData.ingredients.slice(0, 3).forEach(ingredient => {
+        if (postData.ingredients) {
+            postData.ingredients.slice(0, 3).forEach(ingredient => {
                 const words = ingredient.toLowerCase().split(' ');
                 words.forEach(word => {
                     if (word.length > 4 && !['cups', 'tablespoons', 'teaspoons', 'ounces', 'pounds'].includes(word)) {
@@ -655,7 +684,7 @@ class PostDetailLoader {
         }
         
         // Tags génériques populaires
-        tags.add('recipe');
+        tags.add('post');
         tags.add('cooking');
         tags.add('foodie');
         tags.add('homemade');
@@ -703,7 +732,7 @@ class PostDetailLoader {
             <height>144</height>
         </image>`;
 
-        const items = posts.map(recipe => this.buildRSSItem(recipe)).join('\n');
+        const items = posts.map(post => this.buildRSSItem(post)).join('\n');
         
         const xmlFooter = `
     </channel>
@@ -712,80 +741,80 @@ class PostDetailLoader {
         return xmlHeader + channelHeader + items + xmlFooter;
     }
 
-    // Construire un item RSS pour une recette
-    buildRSSItem(recipe) {
-        const pubDate = new Date(recipe.publishDate).toUTCString();
+    // Construire un item RSS pour une post
+    buildRSSItem(post) {
+        const pubDate = new Date(post.publishDate).toUTCString();
         
         // Construire le contenu HTML enrichi pour Pinterest
-        const contentHtml = this.buildRecipeContentHTML(recipe);
+        const contentHtml = this.buildPostContentHTML(post);
         
         return `
         <item>
-            <title>${this.escapeXML(recipe.title)}</title>
-            <link>${this.escapeXML(recipe.link)}</link>
-            <description>${this.escapeXML(recipe.description)}</description>
+            <title>${this.escapeXML(post.title)}</title>
+            <link>${this.escapeXML(post.link)}</link>
+            <description>${this.escapeXML(post.description)}</description>
             <pubDate>${pubDate}</pubDate>
-            <guid isPermaLink="true">${this.escapeXML(recipe.guid)}</guid>
-            <category>${this.escapeXML(recipe.category)}</category>
-            <dc:creator>${this.escapeXML(recipe.author)}</dc:creator>
+            <guid isPermaLink="true">${this.escapeXML(post.guid)}</guid>
+            <category>${this.escapeXML(post.category)}</category>
+            <dc:creator>${this.escapeXML(post.author)}</dc:creator>
             
             <!-- Contenu HTML enrichi -->
             <content:encoded><![CDATA[${contentHtml}]]></content:encoded>
             
             <!-- Image principale -->
-            <media:content url="${this.escapeXML(recipe.mainImage)}" medium="image" type="image/jpeg">
-                <media:title>${this.escapeXML(recipe.title)}</media:title>
-                <media:description>${this.escapeXML(recipe.description)}</media:description>
+            <media:content url="${this.escapeXML(post.mainImage)}" medium="image" type="image/jpeg">
+                <media:title>${this.escapeXML(post.title)}</media:title>
+                <media:description>${this.escapeXML(post.description)}</media:description>
             </media:content>
             
-            <!-- Métadonnées de recette -->
+            <!-- Métadonnées de post -->
             <media:group>
-                <media:category>recipe</media:category>
-                <media:keywords>${recipe.tags.join(', ')}</media:keywords>
+                <media:category>post</media:category>
+                <media:keywords>${post.tags.join(', ')}</media:keywords>
             </media:group>
             
             <!-- Informations structurées pour Pinterest -->
             <media:community>
                 <media:statistics views="0" favorites="0"/>
-                <media:tags>${recipe.tags.join(' ')}</media:tags>
+                <media:tags>${post.tags.join(' ')}</media:tags>
             </media:community>
         </item>`;
     }
 
     // Construire le contenu HTML enrichi pour Pinterest
-    buildRecipeContentHTML(recipe) {
+    buildPostContentHTML(post) {
         const html = `
         <div class="post-content">
-            <img src="${recipe.mainImage}" alt="${recipe.title}" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;">
+            <img src="${post.mainImage}" alt="${post.title}" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;">
             
-            <div class="recipe-meta" style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;">
-                <p><strong>⏱️ Prep Time:</strong> ${recipe.prepTime} minutes</p>
-                <p><strong>🍳 Cook Time:</strong> ${recipe.cookTime} minutes</p>
-                <p><strong>⏰ Total Time:</strong> ${recipe.totalTime} minutes</p>
-                <p><strong>🍽️ Servings:</strong> ${recipe.servings}</p>
-                <p><strong>📊 Difficulty:</strong> ${recipe.difficulty}</p>
+            <div class="post-meta" style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;">
+                <p><strong>⏱️ Prep Time:</strong> ${post.prepTime} minutes</p>
+                <p><strong>🍳 Cook Time:</strong> ${post.cookTime} minutes</p>
+                <p><strong>⏰ Total Time:</strong> ${post.totalTime} minutes</p>
+                <p><strong>🍽️ Servings:</strong> ${post.servings}</p>
+                <p><strong>📊 Difficulty:</strong> ${post.difficulty}</p>
             </div>
             
             <div class="ingredients" style="margin-bottom:30px;">
                 <h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3>
                 <ul style="line-height:1.6;">
-                    ${recipe.ingredients.map(ingredient => `<li>${ingredient}</li>`).join('')}
+                    ${post.ingredients.map(ingredient => `<li>${ingredient}</li>`).join('')}
                 </ul>
             </div>
             
             <div class="instructions" style="margin-bottom:30px;">
                 <h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3>
                 <ol style="line-height:1.8;">
-                    ${recipe.instructions.map(instruction => `<li>${instruction}</li>`).join('')}
+                    ${post.instructions.map(instruction => `<li>${instruction}</li>`).join('')}
                 </ol>
             </div>
             
             <div class="pinterest-tags" style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;">
-                <p><strong>📌 Pinterest Tags:</strong> #${recipe.tags.join(' #')}</p>
+                <p><strong>📌 Pinterest Tags:</strong> #${post.tags.join(' #')}</p>
             </div>
             
             <div class="cta" style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;">
-                <p><strong>📌 Save this recipe to Pinterest!</strong></p>
+                <p><strong>📌 Save this post to Pinterest!</strong></p>
                 <p>Perfect for meal planning and sharing with friends</p>
             </div>
         </div>`;
@@ -1039,21 +1068,21 @@ class PostDetailLoader {
         try {
            // // console.log('Loading recent posts...', categoryId ? `filtered by category: ${categoryId}` : '');
             
-            // Utiliser la même logique que RecipeLoader pour scanner les dossiers
-            const recipeFolders = await this.getRecipeFolders();
+            // Utiliser la même logique que PostLoader pour scanner les dossiers
+            const postFolders = await this.getPostFolders();
             
-            if (recipeFolders.length === 0) {
+            if (postFolders.length === 0) {
                 this.setDefaultRecentposts();
                 return;
             }
 
-            // Charger les données complètes des recettes
-            const recipePromises = recipeFolders.slice(0, 15).map(folder => 
+            // Charger les données complètes des posts
+            const postPromises = postFolders.slice(0, 15).map(folder => 
                 this.loadPostDataForSidebar(folder)
             );
             
-            const posts = await Promise.all(recipePromises);
-            let validposts = posts.filter(recipe => recipe !== null);
+            const posts = await Promise.all(postPromises);
+            let validposts = posts.filter(post => post !== null);
             
             // Filtrer par catégorie si spécifié
             if (categoryId) {
@@ -1073,15 +1102,15 @@ class PostDetailLoader {
                 return dateB - dateA; // Plus récent en premier
             });
 
-            this.recentPosts = validposts.slice(0, 5).map(recipe => ({
-                slug: recipe.slug || recipe.folderName,
-                title: recipe.title,
-                image: recipe.mainImage,
-                description: recipe.description || 'Délicieuse recette à découvrir',
-                created_date: recipe.createdAt || recipe.updatedAt,
-                category_id: recipe.category_id,
-                category: recipe.category,
-                isOnline: recipe.isOnline
+            this.recentPosts = validposts.slice(0, 5).map(post => ({
+                slug: post.slug || post.folderName,
+                title: post.title,
+                image: post.mainImage,
+                description: post.description || 'Délicieuse post à découvrir',
+                created_date: post.createdAt || post.updatedAt,
+                category_id: post.category_id,
+                category: post.category,
+                isOnline: post.isOnline
             }));
 
            // // console.log('Recent posts loaded:', this.recentPosts.length);
@@ -1092,18 +1121,18 @@ class PostDetailLoader {
         }
     }
 
-    // Filtrer les recettes par catégorie ID
+    // Filtrer les posts par catégorie ID
     filterpostsByCategory(posts, categoryId) {
-        return posts.filter(recipe => {
-            if (!recipe.category_id) return false;
+        return posts.filter(post => {
+            if (!post.category_id) return false;
             
             // Correspondance exacte de l'ID de catégorie
-            if (recipe.category_id === categoryId) {
+            if (post.category_id === categoryId) {
                 return true;
             }
             
             // Correspondance partielle si l'ID contient le terme recherché
-            if (recipe.category_id.includes(categoryId)) {
+            if (post.category_id.includes(categoryId)) {
                 return true;
             }
             
@@ -1111,7 +1140,7 @@ class PostDetailLoader {
         });
     }
 
-    // Charger les recettes récentes d'une catégorie spécifique
+    // Charger les posts récentes d'une catégorie spécifique
     async loadRecentPostsByCategory(categoryId) {
         await this.loadRecentPosts(categoryId);
         return this.recentPosts;
@@ -1120,23 +1149,23 @@ class PostDetailLoader {
     // Obtenir les catégories disponibles
     async getAvailableCategories() {
         try {
-            const recipeFolders = await this.getRecipeFolders();
-            const recipePromises = recipeFolders.slice(0, 20).map(folder => 
+            const postFolders = await this.getPostFolders();
+            const postPromises = postFolders.slice(0, 20).map(folder => 
                 this.loadPostDataForSidebar(folder)
             );
             
-            const posts = await Promise.all(recipePromises);
-            const validposts = posts.filter(recipe => recipe !== null);
+            const posts = await Promise.all(postPromises);
+            const validposts = posts.filter(post => post !== null);
             
             // Extraire toutes les catégories uniques
             const categories = new Map();
             
-            validposts.forEach(recipe => {
-                if (recipe.category_id) {
-                    categories.set(recipe.category_id, {
-                        id: recipe.category_id,
-                        name: recipe.category || this.getCategoryName(recipe.category_id),
-                        count: (categories.get(recipe.category_id)?.count || 0) + 1
+            validposts.forEach(post => {
+                if (post.category_id) {
+                    categories.set(post.category_id, {
+                        id: post.category_id,
+                        name: post.category || this.getCategoryName(post.category_id),
+                        count: (categories.get(post.category_id)?.count || 0) + 1
                     });
                 }
             });
@@ -1149,8 +1178,8 @@ class PostDetailLoader {
         }
     }
 
-    // Reprendre la logique de getRecipeFolders du RecipeLoader
-    async getRecipeFolders() {
+    // Reprendre la logique de getPostFolders du PostLoader
+    async getPostFolders() {
         try {
             const indexResponse = await fetch(`${this.postsPath}index.json`);
             if (indexResponse.ok) {
@@ -1161,14 +1190,14 @@ class PostDetailLoader {
            // // console.log('Fichier index.json non trouvé, scan automatique...');
         }
 
-        return await this.scanRecipeFolders();
+        return await this.scanPostFolders();
     }
 
-    // Reprendre la logique de scanRecipeFolders du RecipeLoader
-    async scanRecipeFolders() {
+    // Reprendre la logique de scanPostFolders du PostLoader
+    async scanPostFolders() {
         const folders = [];
         
-        const commonRecipeNames = [
+        const commonPostNames = [
             'cattle-ranch-casserole', 'cattle-ranch-casserole-2',
             'slow-cooker-cowboy-casserole', 'slow-cooker-cowboy-casserole-1',
             'red-lobster-shrimp-scampi', 'red-lobster-shrimp-scampi-1',
@@ -1181,7 +1210,7 @@ class PostDetailLoader {
             'beef-bourguignon', 'chicken-soup', 'vegetable-soup'
         ];
 
-        for (const folderName of commonRecipeNames) {
+        for (const folderName of commonPostNames) {
             try {
                 const response = await fetch(`${this.postsPath}${folderName}/post.json`, {
                     method: 'HEAD'
@@ -1197,7 +1226,7 @@ class PostDetailLoader {
         return folders;
     }
 
-    // Charger les données d'une recette pour la sidebar
+    // Charger les données d'une post pour la sidebar
     async loadPostDataForSidebar(folderName) {
         try {
             const jsonUrl = `${this.postsPath}${folderName}/post.json`;
@@ -1207,34 +1236,34 @@ class PostDetailLoader {
                 return null;
             }
             
-            const recipeData = await jsonResponse.json();
+            const postData = await jsonResponse.json();
             
-            if (!recipeData.title) {
+            if (!postData.title) {
                 return null;
             }
             
             return {
-                slug: recipeData.slug || folderName,
+                slug: postData.slug || folderName,
                 folderName,
-                title: recipeData.title,
-                description: recipeData.description || 'Description non disponible',
-                mainImage: this.getMainImage(recipeData, folderName),
-                createdAt: recipeData.createdAt,
-                updatedAt: recipeData.updatedAt,
-                isOnline: recipeData.isOnline,
-                ...recipeData
+                title: postData.title,
+                description: postData.description || 'Description non disponible',
+                mainImage: this.getMainImage(postData, folderName),
+                createdAt: postData.createdAt,
+                updatedAt: postData.updatedAt,
+                isOnline: postData.isOnline,
+                ...postData
             };
             
         } catch (error) {
-           // console.error(`Erreur lors du chargement de la recette ${folderName}:`, error);
+           // console.error(`Erreur lors du chargement de la post ${folderName}:`, error);
             return null;
         }
     }
 
-    // Méthode pour définir des recettes par défaut basées sur les dossiers existants
+    // Méthode pour définir des posts par défaut basées sur les dossiers existants
     async setDefaultRecentposts() {
         try {
-            // Essayer de charger quelques recettes réelles du dossier
+            // Essayer de charger quelques posts réelles du dossier
             const availableFolders = [
                 'cattle-ranch-casserole',
                 'slow-cooker-cowboy-casserole', 
@@ -1247,34 +1276,34 @@ class PostDetailLoader {
 
             for (const folder of availableFolders) {
                 try {
-                    const recipeData = await this.loadPostDataForSidebar(folder);
-                    if (recipeData) {
+                    const postData = await this.loadPostDataForSidebar(folder);
+                    if (postData) {
                         defaultposts.push({
-                            slug: recipeData.slug || folder,
-                            title: recipeData.title,
-                            image: recipeData.mainImage,
-                            description: recipeData.description || 'Délicieuse recette à découvrir',
-                            category: recipeData.category,
-                            category_id: recipeData.category_id,
-                            isOnline: recipeData.isOnline
+                            slug: postData.slug || folder,
+                            title: postData.title,
+                            image: postData.mainImage,
+                            description: postData.description || 'Délicieuse post à découvrir',
+                            category: postData.category,
+                            category_id: postData.category_id,
+                            isOnline: postData.isOnline
                         });
 
                         if (defaultposts.length >= 5) break;
                     }
                 } catch (error) {
-                   // // console.log(`Recette ${folder} non trouvée, passage à la suivante...`);
+                   // // console.log(`Post ${folder} non trouvée, passage à la suivante...`);
                     continue;
                 }
             }
 
-            // Si on a trouvé des recettes réelles, les utiliser
+            // Si on a trouvé des posts réelles, les utiliser
             if (defaultposts.length > 0) {
                 this.recentPosts = defaultposts;
-               // // console.log(`Utilisation de ${defaultposts.length} recettes réelles comme fallback`);
+               // // console.log(`Utilisation de ${defaultposts.length} posts réelles comme fallback`);
                 return;
             }
 
-            // Sinon, utiliser des recettes par défaut basées sur les noms de dossiers existants
+            // Sinon, utiliser des posts par défaut basées sur les noms de dossiers existants
             this.recentPosts = [
                 {
                     slug: 'cattle-ranch-casserole',
@@ -1308,24 +1337,24 @@ class PostDetailLoader {
                 }
             ];
 
-           // // console.log('Utilisation des recettes par défaut basées sur les dossiers existants');
+           // // console.log('Utilisation des posts par défaut basées sur les dossiers existants');
 
         } catch (error) {
-           // console.error('Erreur lors du chargement des recettes par défaut:', error);
+           // console.error('Erreur lors du chargement des posts par défaut:', error);
             
-            // Dernier recours : recettes génériques
+            // Dernier recours : posts génériques
             this.recentPosts = [
                 {
-                    slug: 'recipe-unavailable-1',
-                    title: 'Recette Non Disponible',
-                    image: 'https://via.placeholder.com/80x60?text=Recipe',
-                    description: 'Recette temporairement indisponible'
+                    slug: 'post-unavailable-1',
+                    title: 'Post Non Disponible',
+                    image: 'https://via.placeholder.com/80x60?text=Post',
+                    description: 'Post temporairement indisponible'
                 }
             ];
         }
     }
 
-    // Nouvelle méthode pour générer le HTML des recettes récentes avec boutons Pinterest
+    // Nouvelle méthode pour générer le HTML des posts récentes avec boutons Pinterest
     generateRecentpostsHTML() {
         if (!this.recentPosts || this.recentPosts.length === 0) {
             return `
@@ -1338,17 +1367,17 @@ class PostDetailLoader {
             `;
         }
 console.log(this.recentPosts);
-        const postsHTML = this.recentPosts.map(recipe => `
-            <div class="mini-post" onclick="loadRecipe('${recipe.slug}')" style="cursor: pointer; ${!recipe.isOnline ? ' display:none;' : ''}">
+        const postsHTML = this.recentPosts.map(post => `
+            <div class="mini-post" onclick="loadPost('${post.slug}')" style="cursor: pointer; ${!post.isOnline ? ' display:none;' : ''}">
                 ${this.wrapImageWithPinterestButton(
-                    `<img class="" src="${recipe.image}" alt="${recipe.title}">`,
-                    recipe.title,
-                    recipe.description,
-                    recipe.image
+                    `<img class="" src="${post.image}" alt="${post.title}">`,
+                    post.title,
+                    post.description,
+                    post.image
                 )}            
                 <div class="recent-post-info">
-                    <div class="recipe-title">${recipe.title}</div>
-                    <div class="recipe-title">${recipe.description || 'Delicious recipe'}</div>
+                    <div class="post-title">${post.title}</div>
+                    <div class="post-title">${post.description || 'Delicious post'}</div>
                 </div>
             </div>
         `).join('');
@@ -1413,16 +1442,16 @@ console.log(this.recentPosts);
     getPostSlugFromUrl() {
         const urlParams = new URLSearchParams(window.location.search);
         
-        const recipeParam = urlParams.get('recipe') || urlParams.get('slug');
-        if (recipeParam) return recipeParam;
+        const postParam = urlParams.get('post') || urlParams.get('slug');
+        if (postParam) return postParam;
         
         const url = window.location.href;
-        const match = url.match(/[?&]page=recipe-detail[&?]?([^&]*)/);
+        const match = url.match(/[?&]page=post-detail[&?]?([^&]*)/);
         if (match && match[1] && !match[1].includes('=')) {
             return match[1];
         }
         
-        const pathMatch = url.match(/recipe-detail&([^&?]*)/);
+        const pathMatch = url.match(/post-detail&([^&?]*)/);
         if (pathMatch && pathMatch[1]) {
             return pathMatch[1];
         }
@@ -1433,7 +1462,7 @@ console.log(this.recentPosts);
     async loadPostData(postslug) {
         try {
             const jsonUrl = `${this.postsPath}${postslug}/post.json`;
-           // // console.log('📡 Fetching recipe from:', jsonUrl);
+           // // console.log('📡 Fetching post from:', jsonUrl);
             
             const response = await fetch(jsonUrl);
            // // console.log('📡 Response status:', response.status, response.statusText);
@@ -1445,7 +1474,7 @@ console.log(this.recentPosts);
                 const alternatives = [
                     `${this.postsPath}${postslug}.json`,
                     `${this.postsPath}${postslug}/data.json`,
-                    `${this.postsPath}${postslug}/recipe-data.json`
+                    `${this.postsPath}${postslug}/post-data.json`
                 ];
                 
                 for (const altUrl of alternatives) {
@@ -1453,7 +1482,7 @@ console.log(this.recentPosts);
                     try {
                         const altResponse = await fetch(altUrl);
                         if (altResponse.ok) {
-                           // // console.log('✅ Found alternative recipe file:', altUrl);
+                           // // console.log('✅ Found alternative post file:', altUrl);
                             const altData = await altResponse.json();
                             altData.folderName = postslug;
                             altData.mainImage = this.getMainImage(altData, postslug);
@@ -1467,88 +1496,88 @@ console.log(this.recentPosts);
                 return null;
             }
             
-            const recipeData = await response.json();
-           // // console.log('✅ Recipe data parsed successfully:', recipeData.title || 'Untitled');
+            const postData = await response.json();
+           // // console.log('✅ Post data parsed successfully:', postData.title || 'Untitled');
             
             // Validation des données essentielles
-            if (!recipeData.title) {
-                console.warn('⚠️ Recipe missing title, adding default');
-                recipeData.title = postslug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+            if (!postData.title) {
+                console.warn('⚠️ Post missing title, adding default');
+                postData.title = postslug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
             }
             
-            if (!recipeData.description) {
-                console.warn('⚠️ Recipe missing description, adding default');
-                recipeData.description = `Delicious ${recipeData.title} recipe`;
+            if (!postData.description) {
+                console.warn('⚠️ Post missing description, adding default');
+                postData.description = `Delicious ${postData.title} post`;
             }
             
-            if (!recipeData.ingredients || !Array.isArray(recipeData.ingredients)) {
-                console.warn('⚠️ Recipe missing ingredients, adding defaults');
-                recipeData.ingredients = ['Ingredients list not available'];
+            if (!postData.ingredients || !Array.isArray(postData.ingredients)) {
+                console.warn('⚠️ Post missing ingredients, adding defaults');
+                postData.ingredients = ['Ingredients list not available'];
             }
             
-            if (!recipeData.instructions || !Array.isArray(recipeData.instructions)) {
-                console.warn('⚠️ Recipe missing instructions, adding defaults');
-                recipeData.instructions = ['Instructions not available'];
+            if (!postData.instructions || !Array.isArray(postData.instructions)) {
+                console.warn('⚠️ Post missing instructions, adding defaults');
+                postData.instructions = ['Instructions not available'];
             }
             
-            recipeData.folderName = postslug;
-            recipeData.mainImage = this.getMainImage(recipeData, postslug);
+            postData.folderName = postslug;
+            postData.mainImage = this.getMainImage(postData, postslug);
             
-        //    // // console.log('🎯 Recipe processed:', {
-        //         title: recipeData.title,
-        //         ingredients: recipeData.ingredients?.length || 0,
-        //         instructions: recipeData.instructions?.length || 0,
-        //         mainImage: recipeData.mainImage
+        //    // // console.log('🎯 Post processed:', {
+        //         title: postData.title,
+        //         ingredients: postData.ingredients?.length || 0,
+        //         instructions: postData.instructions?.length || 0,
+        //         mainImage: postData.mainImage
         //     });
             
-            return recipeData;
+            return postData;
             
         } catch (error) {
-           // console.error(`💥 Error loading recipe ${postslug}:`, error);
+           // console.error(`💥 Error loading post ${postslug}:`, error);
             
-            // Retourner une recette de fallback si possible
+            // Retourner une post de fallback si possible
             if (error.name === 'SyntaxError') {
                // console.error('❌ JSON parsing failed - invalid JSON format');
             } else if (error.name === 'TypeError') {
                // console.error('❌ Network error - check file paths and server');
             }
             
-            return this.createFallbackRecipe(postslug);
+            return this.createFallbackPost(postslug);
         }
     }
 
 
-    // Méthode pour ajouter les meta tags dynamiques pour chaque recette
-addRecipeMetaTags(recipe) {
+    // Méthode pour ajouter les meta tags dynamiques pour chaque post
+addPostMetaTags(post) {
     // Supprimer les anciens meta tags dynamiques
     document.querySelectorAll('meta[data-dynamic="true"]').forEach(meta => meta.remove());
     document.querySelectorAll('script[data-dynamic="true"]').forEach(script => script.remove());
 
     const currentUrl = window.location.href;
-    const fullImageUrl = recipe.mainImage.startsWith('http') ? 
-        recipe.mainImage : 
-        `${window.location.origin}/${recipe.mainImage.replace('./', '')}`;
+    const fullImageUrl = post.mainImage.startsWith('http') ? 
+        post.mainImage : 
+        `${window.location.origin}/${post.mainImage.replace('./', '')}`;
 
     // Meta Tags de base
     const metaTags = [
         // Description
-        { name: 'description', content: recipe.description || `Delicious ${recipe.title} recipe` },
+        { name: 'description', content: post.description || `Delicious ${post.title} post` },
         
         // Open Graph
-        { property: 'og:title', content: recipe.title },
-        { property: 'og:description', content: recipe.description || `Delicious ${recipe.title} recipe` },
+        { property: 'og:title', content: post.title },
+        { property: 'og:description', content: post.description || `Delicious ${post.title} post` },
         { property: 'og:image', content: fullImageUrl },
         { property: 'og:url', content: currentUrl },
         { property: 'og:type', content: 'article' },
         
         // Twitter Card
-        { name: 'twitter:title', content: recipe.title },
-        { name: 'twitter:description', content: recipe.description || `Delicious ${recipe.title} recipe` },
+        { name: 'twitter:title', content: post.title },
+        { name: 'twitter:description', content: post.description || `Delicious ${post.title} post` },
         { name: 'twitter:image', content: fullImageUrl },
         
         // Pinterest
-        { property: 'pinterest:description', content: recipe.description || `Delicious ${recipe.title} recipe` },
-        { name: 'pinterest', content: 'nopin', attr: recipe.mainImage ? null : 'nopin' }
+        { property: 'pinterest:description', content: post.description || `Delicious ${post.title} post` },
+        { name: 'pinterest', content: 'nopin', attr: post.mainImage ? null : 'nopin' }
     ];
 
     // Ajouter les meta tags
@@ -1578,39 +1607,39 @@ addRecipeMetaTags(recipe) {
     }
     canonical.href = currentUrl;
 
-    // Ajouter Schema.org JSON-LD pour Recipe
-    this.addpostschemaLD(recipe, fullImageUrl, currentUrl);
-    this.addBreadcrumbSchema(recipe); 
+    // Ajouter Schema.org JSON-LD pour Post
+    this.addpostschemaLD(post, fullImageUrl, currentUrl);
+    this.addBreadcrumbSchema(post); 
 }
 
-// Méthode pour ajouter Schema.org Recipe
-addpostschemaLD(recipe, fullImageUrl, currentUrl) {
+// Méthode pour ajouter Schema.org Post
+addpostschemaLD(post, fullImageUrl, currentUrl) {
     // Supprimer l'ancien script s'il existe
-    const existingScript = document.querySelector('script[type="application/ld+json"][data-recipe="true"]');
+    const existingScript = document.querySelector('script[type="application/ld+json"][data-post="true"]');
     if (existingScript) {
         existingScript.remove();
     }
 
     const schemaData = {
         "@context": "https://schema.org",
-        "@type": "Recipe",
-        "name": recipe.title,
+        "@type": "Post",
+        "name": post.title,
         "image": [fullImageUrl],
         "author": {
             "@type": "Person",
             "name": this.activeAuthor?.name || "House Chef"
         },
-        "datePublished": recipe.createdAt || new Date().toISOString(),
-        "description": recipe.description || `Delicious ${recipe.title} recipe`,
-        "prepTime": recipe.prep_time ? `PT${recipe.prep_time}M` : "PT15M",
-        "cookTime": recipe.cook_time ? `PT${recipe.cook_time}M` : "PT30M",
-        "totalTime": recipe.total_time ? `PT${recipe.total_time}M` : `PT${(recipe.prep_time || 15) + (recipe.cook_time || 30)}M`,
-        "recipeYield": recipe.servings || "4 servings",
-        "recipeCategory": recipe.category || "Main Dish",
-        "recipeCuisine": recipe.cuisine || "American",
-        "keywords": this.generateKeywords(recipe),
-        "recipeIngredient": recipe.ingredients || [],
-        "recipeInstructions": (recipe.instructions || []).map((instruction, index) => ({
+        "datePublished": post.createdAt || new Date().toISOString(),
+        "description": post.description || `Delicious ${post.title} post`,
+        "prepTime": post.prep_time ? `PT${post.prep_time}M` : "PT15M",
+        "cookTime": post.cook_time ? `PT${post.cook_time}M` : "PT30M",
+        "totalTime": post.total_time ? `PT${post.total_time}M` : `PT${(post.prep_time || 15) + (post.cook_time || 30)}M`,
+        "postYield": post.servings || "4 servings",
+        "postCategory": post.category || "Main Dish",
+        "postCuisine": post.cuisine || "American",
+        "keywords": this.generateKeywords(post),
+        "postIngredient": post.ingredients || [],
+        "postInstructions": (post.instructions || []).map((instruction, index) => ({
             "@type": "HowToStep",
             "name": `Step ${index + 1}`,
             "text": instruction,
@@ -1618,58 +1647,58 @@ addpostschemaLD(recipe, fullImageUrl, currentUrl) {
         })),
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": recipe.rating || "4.5",
-            "ratingCount": recipe.ratingCount || "10"
+            "ratingValue": post.rating || "4.5",
+            "ratingCount": post.ratingCount || "10"
         },
         "nutrition": {
             "@type": "NutritionInformation",
-            "servingSize": recipe.servings || "1 serving"
+            "servingSize": post.servings || "1 serving"
         },
         "url": currentUrl
     };
 
     // Ajouter video si disponible
-    if (recipe.video) {
+    if (post.video) {
         schemaData.video = {
             "@type": "VideoObject",
-            "name": recipe.title,
-            "description": recipe.description,
+            "name": post.title,
+            "description": post.description,
             "thumbnailUrl": fullImageUrl,
-            "contentUrl": recipe.video
+            "contentUrl": post.video
         };
     }
 
     const script = document.createElement('script');
     script.type = 'application/ld+json';
-    script.setAttribute('data-recipe', 'true');
+    script.setAttribute('data-post', 'true');
     script.setAttribute('data-dynamic', 'true');
     script.textContent = JSON.stringify(schemaData, null, 2);
     document.head.appendChild(script);
 }
 
 // Méthode pour générer keywords
-generateKeywords(recipe) {
+generateKeywords(post) {
     const keywords = [];
     
-    if (recipe.category) keywords.push(recipe.category);
-    if (recipe.difficulty) keywords.push(recipe.difficulty);
-    if (recipe.type) keywords.push(recipe.type);
+    if (post.category) keywords.push(post.category);
+    if (post.difficulty) keywords.push(post.difficulty);
+    if (post.type) keywords.push(post.type);
     
     // Ajouter ingredients principaux
-    if (recipe.ingredients && recipe.ingredients.length > 0) {
-        recipe.ingredients.slice(0, 3).forEach(ingredient => {
+    if (post.ingredients && post.ingredients.length > 0) {
+        post.ingredients.slice(0, 3).forEach(ingredient => {
             const mainIngredient = ingredient.split(' ').find(word => word.length > 4);
             if (mainIngredient) keywords.push(mainIngredient.toLowerCase());
         });
     }
     
-    keywords.push('recipe', 'cooking', 'food');
+    keywords.push('post', 'cooking', 'food');
     
     return keywords.join(', ');
 }
 
 
-addBreadcrumbSchema(recipe) {
+addBreadcrumbSchema(post) {
     const breadcrumbSchema = {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
@@ -1689,13 +1718,13 @@ addBreadcrumbSchema(recipe) {
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": recipe.category || "Category",
-                "item": `${window.location.origin}?page=posts-category&category=${recipe.category_id || ''}`
+                "name": post.category || "Category",
+                "item": `${window.location.origin}?page=posts-category&category=${post.category_id || ''}`
             },
             {
                 "@type": "ListItem",
                 "position": 4,
-                "name": recipe.title
+                "name": post.title
             }
         ]
     };
@@ -1708,21 +1737,21 @@ addBreadcrumbSchema(recipe) {
     document.head.appendChild(script);
 }
 
-    // Créer une recette de fallback en cas d'erreur
-    createFallbackRecipe(postslug) {
-       // // console.log('🆘 Creating fallback recipe for:', postslug);
+    // Créer une post de fallback en cas d'erreur
+    createFallbackPost(postslug) {
+       // // console.log('🆘 Creating fallback post for:', postslug);
         
         return {
             title: postslug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
-            description: 'This recipe is temporarily unavailable. Please try again later.',
+            description: 'This post is temporarily unavailable. Please try again later.',
             folderName: postslug,
-            mainImage: 'https://via.placeholder.com/400x300?text=Recipe+Unavailable',
+            mainImage: 'https://via.placeholder.com/400x300?text=Post+Unavailable',
             ingredients: [
-                'Recipe ingredients are currently unavailable',
-                'Please check back later for the complete recipe'
+                'Post ingredients are currently unavailable',
+                'Please check back later for the complete post'
             ],
             instructions: [
-                'Recipe instructions are currently unavailable',
+                'Post instructions are currently unavailable',
                 'Please check back later for detailed cooking steps'
             ],
             prep_time: 0,
@@ -1734,14 +1763,14 @@ addBreadcrumbSchema(recipe) {
             structured_content: [{
                 content: `
                     <div style="padding: 20px; background: #fff3cd; border: 1px solid #ffeaa7; border-radius: 8px; margin: 20px 0;">
-                        <h3 style="color: #856404; margin-top: 0;">⚠️ Recipe Temporarily Unavailable</h3>
+                        <h3 style="color: #856404; margin-top: 0;">⚠️ Post Temporarily Unavailable</h3>
                         <p style="color: #856404; margin-bottom: 0;">
-                            We're having trouble loading this recipe. This might be due to:
+                            We're having trouble loading this post. This might be due to:
                         </p>
                         <ul style="color: #856404;">
-                            <li>The recipe file is missing or moved</li>
+                            <li>The post file is missing or moved</li>
                             <li>There's a temporary server issue</li>
-                            <li>The recipe is being updated</li>
+                            <li>The post is being updated</li>
                         </ul>
                         <p style="color: #856404; font-weight: bold;">
                             Please try refreshing the page or contact support if the problem persists.
@@ -1752,24 +1781,24 @@ addBreadcrumbSchema(recipe) {
         };
     }
 
-    getMainImage(recipeData, folderName) {
-        if (recipeData.image_path) {
-            return `./${recipeData.image_path}`;
+    getMainImage(postData, folderName) {
+        if (postData.image_path) {
+            return `./${postData.image_path}`;
         }
         
-        if (recipeData.images && recipeData.images.length > 0) {
-            const mainImg = recipeData.images.find(img => img.type === 'main');
+        if (postData.images && postData.images.length > 0) {
+            const mainImg = postData.images.find(img => img.type === 'main');
             if (mainImg && mainImg.filePath) {
                 return `./${mainImg.filePath}`;
             }
             
-            if (recipeData.images[0].filePath) {
-                return `./${recipeData.images[0].filePath}`;
+            if (postData.images[0].filePath) {
+                return `./${postData.images[0].filePath}`;
             }
         }
         
-        if (recipeData.image) {
-            return `./post/${folderName}/images/${recipeData.image}`;
+        if (postData.image) {
+            return `./post/${folderName}/images/${postData.image}`;
         }
         
         return 'https://via.placeholder.com/400x300?text=Image+not+available';
@@ -1814,11 +1843,11 @@ addBreadcrumbSchema(recipe) {
                     `./post/${section.upload.url}`;
                 index += 1;
                 html += `
-                    <div class="content-image recipe-position-image-${index}">
+                    <div class="content-image post-position-image-${index}">
                         ${this.wrapImageWithPinterestButton(
-                            `<img class="" src="${imageUrl}" alt="${section.upload.context || 'Recipe image'}" 
+                            `<img class="" src="${imageUrl}" alt="${section.upload.context || 'Post image'}" 
                                  onerror="this.style.display='none'">`,
-                            section.upload.context || 'Recipe Step',
+                            section.upload.context || 'Post Step',
                             'Step by step cooking guide',
                             imageUrl
                         )}
@@ -1831,151 +1860,102 @@ addBreadcrumbSchema(recipe) {
         }).join('');
     }
 
-    // New method to create recipe summary card
-    createpostsummaryCard(recipe) {
-        const {
-            title,
-            description,
-            prep_time,
-            cook_time,
-            total_time,
-            servings,
-            difficulty,
-            type,
-            ingredients = [],
-            instructions = [],
-            mainImage,
-            tips
-        } = recipe;
+    // New method to create post summary card
+    createpostsummaryCard(post) {
+        const { title, description, ingredients = [], instructions = [], mainImage, tips } = post;
+        const labels = this.getLabels();
+        const metaStats = this.getMetaStats();
 
-        const prepTime = prep_time ? `${prep_time} minutes` : 'Not specified';
-        const cookTime = cook_time ? `${cook_time} minutes` : 'Not specified';
-        const totalTimeDisplay = total_time ? `${total_time} minutes` : 'Not specified';
-        const difficultyDisplay = difficulty ? difficulty.charAt(0).toUpperCase() + difficulty.slice(1) : 'Intermediate';
-        const servingsDisplay = servings || '12 Servings';
+        // Dynamic stats — only show fields that exist in post
+        const statsHTML = metaStats
+            .filter(stat => post[stat.field])
+            .map(stat => `
+                <div class="timing-item">
+                    <div class="timing-icon"></div>
+                    <div class="timing-label">${stat.label}</div>
+                    <div class="timing-value">${post[stat.field]}${stat.suffix ? ' ' + stat.suffix : ''}</div>
+                </div>
+            `).join('');
+
+        // Dynamic metadata items
+        const metaItems = metaStats
+            .filter(stat => post[stat.field])
+            .map(stat => `
+                <div class="metadata-item">
+                    <span class="metadata-icon">♨</span>
+                    <span class="metadata-label">${stat.label}:</span>
+                    <span class="metadata-value">${post[stat.field]}${stat.suffix ? ' ' + stat.suffix : ''}</span>
+                </div>
+            `).join('');
 
         return `
             <div class="post-summary-card">
-                <div class="metadata-item-img-card">                                                
+                <div class="metadata-item-img-card">
                     <img class="metadata-value" src="${mainImage}" alt="${title} Image" style="max-width: 145px; max-height: 145px; object-fit: cover; border-radius: 100%;">
                 </div>
-                <!-- Header with title and description -->
 
                 <div class="post-header">
                     <h1 class="post-main-title">${title}</h1>
-                    <p class="post-description">${description || 'Delicious recipe perfect for all occasions.'}</p>
+                    <p class="post-description">${description || ''}</p>
                 </div>
-                <!-- Timing information -->
-                <div class="timing-info">
-                    <div class="timing-item">
-                        <div class="timing-icon"></div>
-                        <div class="timing-label">Preparation Time</div>
-                        <div class="timing-value">${prepTime}</div>
-                    </div>
-                    <div class="timing-item">
-                        <div class="timing-icon"></div>
-                        <div class="timing-label">Cooking Duration</div>
-                        <div class="timing-value">${cookTime}</div>
-                    </div>
-                    <div class="timing-item">
-                        <div class="timing-icon"></div>
-                        <div class="timing-label">Overall Time</div>
-                        <div class="timing-value">${totalTimeDisplay}</div>
-                    </div>
-                </div>
-                
 
-                <!-- Recipe metadata -->
+                ${statsHTML ? `<div class="timing-info">${statsHTML}</div>` : ''}
+
                 <div class="post-metadata">
                     <div class="metadata-item">
                         <span class="metadata-icon">♨</span>
                         <span class="metadata-label">Created By:</span>
                         <span class="metadata-value">${this.activeAuthor ? this.activeAuthor.name : 'House Chef'}</span>
                     </div>
-
-                    <div class="metadata-item">
-                        <span class="metadata-icon">♨</span>
-                        <span class="metadata-label">Difficulty Level:</span>
-                        <span class="metadata-value">${difficultyDisplay}</span>
-                    </div>   
-                    <div class="metadata-item">
-                        <span class="metadata-icon">♨</span>
-                        <span class="metadata-label">Serves:</span>
-                        <span class="metadata-value">${servingsDisplay}</span>
-                    </div>
-                    <div class="metadata-item">                        
-                        <span class="metadata-label"></span>
-                        <span class="metadata-value">${recipe.description || '-'}</span>
-                    </div>
+                    ${metaItems}
                 </div>
 
-                <!-- Ingredients section -->
-                <div class="ingredients-section">
-                    <h2 class="section-title">Ingredients You'll Need</h2>
-                    <div class="ingredients-list">
-                        ${ingredients.map((ingredient, index) => `
-                            <div class="ingredient-item">
-                                <div class="ingredient-number">${String(index + 1).padStart(2, '0')}</div>
-                                <div class="ingredient-text">${ingredient}</div>
-                            </div>
-                        `).join('')}
-                    </div>
-                </div>
-
-                <!-- Instructions section -->
-                <div class="instructions-section">
-                    <h2 class="section-title">Directions to Prepare</h2>
-                    <div class="instructions-list">
-                        ${instructions.map((instruction, index) => `
-                            <div class="instruction-item">
-                                <div class="step-badge">${String(index + 1).padStart(2, '0')}</div>
-                                <div class="instruction-text">${instruction}</div>
-                            </div>
-                        `).join('')}
-                    </div>
-                </div>
-
-                ${tips ? `
-                    <!-- Additional information section -->
-                    <div class="additional-info-section">
-                        <h2 class="section-title">Additional Information</h2>
-                        <div class="info-content">
-                            <div class="info-point">
-                                <span class="bullet">•</span>
-                                <span>${tips}</span>
-                            </div>
+                ${ingredients.length && labels.ingredients ? `
+                    <div class="ingredients-section">
+                        <h2 class="section-title">${labels.ingredients}</h2>
+                        <div class="ingredients-list">
+                            ${ingredients.map((ingredient, index) => `
+                                <div class="ingredient-item">
+                                    <div class="ingredient-number">${String(index + 1).padStart(2, '0')}</div>
+                                    <div class="ingredient-text">${ingredient}</div>
+                                </div>
+                            `).join('')}
                         </div>
                     </div>
                 ` : ''}
 
-                <!-- Allergen information section -->
-                <div class="allergen-section">
-                    <h2 class="section-title">Allergen Information</h2>
-                    <div class="allergen-content">
-                        <div class="allergen-item">
-                            <span class="bullet">•</span>
-                            <span>Double-check every ingredient for allergens. Speak with a healthcare provider if unsure.</span>
+                ${instructions.length && labels.instructions ? `
+                    <div class="instructions-section">
+                        <h2 class="section-title">${labels.instructions}</h2>
+                        <div class="instructions-list">
+                            ${instructions.map((instruction, index) => `
+                                <div class="instruction-item">
+                                    <div class="step-badge">${String(index + 1).padStart(2, '0')}</div>
+                                    <div class="instruction-text">${typeof instruction === 'object' ? instruction.instruction || '' : instruction}</div>
+                                </div>
+                            `).join('')}
                         </div>
                     </div>
-                </div>
+                ` : ''}
 
-                <!-- Nutritional information section -->
-                <div class="nutrition-section">
-                    <h2 class="section-title">Nutritional Information (Per Serving)</h2>
-                    <div class="nutrition-note">
-                        <em>Please note that nutritional numbers are for general reference and shouldn't replace personalized dietary advice.</em>
+                ${tips ? `
+                    <div class="additional-info-section">
+                        <h2 class="section-title">Additional Information</h2>
+                        <div class="info-content">
+                            <div class="info-point"><span class="bullet">•</span><span>${tips}</span></div>
+                        </div>
                     </div>
-                </div>
+                ` : ''}
             </div>
         `;
     }
 
-    displayPost(recipe) {
+    displayPost(post) {
         if (!this.contentContainer) {
-           // console.error('Container not available to display recipe');
+           // console.error('Container not available to display post');
             return;
         }
-        this.addRecipeMetaTags(recipe);
+        this.addPostMetaTags(post);
         // Ajouter les styles Pinterest et RSS
         this.addPinterestStyles();
         this.addRSSStyles();
@@ -1995,17 +1975,17 @@ addBreadcrumbSchema(recipe) {
             mainImage,
             images = [],
             structured_content = []
-        } = recipe;
+        } = post;
 
-        const prepTime = prep_time ? `⏱ ${prep_time} min` : '';
-        const totalTimeDisplay = total_time ? `${total_time} min total` : '';
+        const labels = this.getLabels();
+        const metaStats = this.getMetaStats();
         const difficultyDisplay = difficulty ? difficulty.charAt(0).toUpperCase() + difficulty.slice(1) : 'Not specified';
 
         // Render structured content
         const structuredContentHTML = this.renderStructuredContent(structured_content);
         
         // Create summary card
-        const summaryCardHTML = this.createpostsummaryCard(recipe);
+        const summaryCardHTML = this.createpostsummaryCard(post);
 
         // Generate recent posts HTML
         const recentPostsHTML = this.generateRecentpostsHTML();
@@ -2013,15 +1993,15 @@ addBreadcrumbSchema(recipe) {
         const createdAtFormatted = new Date(createdAt).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
    
 
-        const recipeHTML = `
-            <div class="social-links social-links-recipe" bis_skin_checked="1">
-                <a href="https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(globalThis.siteUrl + window.location.pathname)}&media=${encodeURIComponent(recipe.mainImage)}&description=${encodeURIComponent(recipe.title)}" target="_blank" id="pinterest-config" class="social-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M480 96L160 96C124.7 96 96 124.7 96 160L96 480C96 515.3 124.7 544 160 544L232.6 544L230.4 543.2C225 495.1 227.3 485.7 246.1 408.5C250 392.5 254.6 373.5 260 350.6C260 350.6 252.7 335.8 252.7 314.1C252.7 243.4 328.2 236.1 328.2 289.1C328.2 302.6 322.8 320.2 317 338.9C313.7 349.5 310.4 360.4 307.9 370.9C302.2 395.4 320.2 415.3 344.3 415.3C388 415.3 421.5 369.3 421.5 302.9C421.5 244.1 379.2 203 318.9 203C249 203 208 255.4 208 309.6C208 330.7 216.2 353.3 226.3 365.6C228.3 368 228.6 370.1 228 372.6C226.9 377.3 224.9 385.5 223.3 391.8C222.3 395.8 221.5 399.1 221.2 400.4C220.1 404.9 217.7 405.9 213 403.7C182.4 389.4 163.2 344.6 163.2 308.6C163.2 231.1 219.4 160 325.4 160C410.6 160 476.8 220.7 476.8 301.8C476.8 386.4 423.5 454.5 349.4 454.5C324.5 454.5 301.1 441.6 293.1 426.3C293.1 426.3 280.8 473.2 277.8 484.7C272.8 504 260.2 527.6 250.4 544L480 544C515.3 544 544 515.3 544 480L544 160C544 124.7 515.3 96 480 96z"></path></svg></a>
-                <button id="print-recipe" class="social-icon">
+        const postHTML = `
+            <div class="social-links social-links-post" bis_skin_checked="1">
+                <a href="https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(globalThis.siteUrl + window.location.pathname)}&media=${encodeURIComponent(post.mainImage)}&description=${encodeURIComponent(post.title)}" target="_blank" id="pinterest-config" class="social-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M480 96L160 96C124.7 96 96 124.7 96 160L96 480C96 515.3 124.7 544 160 544L232.6 544L230.4 543.2C225 495.1 227.3 485.7 246.1 408.5C250 392.5 254.6 373.5 260 350.6C260 350.6 252.7 335.8 252.7 314.1C252.7 243.4 328.2 236.1 328.2 289.1C328.2 302.6 322.8 320.2 317 338.9C313.7 349.5 310.4 360.4 307.9 370.9C302.2 395.4 320.2 415.3 344.3 415.3C388 415.3 421.5 369.3 421.5 302.9C421.5 244.1 379.2 203 318.9 203C249 203 208 255.4 208 309.6C208 330.7 216.2 353.3 226.3 365.6C228.3 368 228.6 370.1 228 372.6C226.9 377.3 224.9 385.5 223.3 391.8C222.3 395.8 221.5 399.1 221.2 400.4C220.1 404.9 217.7 405.9 213 403.7C182.4 389.4 163.2 344.6 163.2 308.6C163.2 231.1 219.4 160 325.4 160C410.6 160 476.8 220.7 476.8 301.8C476.8 386.4 423.5 454.5 349.4 454.5C324.5 454.5 301.1 441.6 293.1 426.3C293.1 426.3 280.8 473.2 277.8 484.7C272.8 504 260.2 527.6 250.4 544L480 544C515.3 544 544 515.3 544 480L544 160C544 124.7 515.3 96 480 96z"></path></svg></a>
+                <button id="print-post" class="social-icon">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M128 128C128 92.7 156.7 64 192 64L405.5 64C422.5 64 438.8 70.7 450.8 82.7L493.3 125.2C505.3 137.2 512 153.5 512 170.5L512 208L128 208L128 128zM64 320C64 284.7 92.7 256 128 256L512 256C547.3 256 576 284.7 576 320L576 416C576 433.7 561.7 448 544 448L512 448L512 512C512 547.3 483.3 576 448 576L192 576C156.7 576 128 547.3 128 512L128 448L96 448C78.3 448 64 433.7 64 416L64 320zM192 480L192 512L448 512L448 416L192 416L192 480zM520 336C520 322.7 509.3 312 496 312C482.7 312 472 322.7 472 336C472 349.3 482.7 360 496 360C509.3 360 520 349.3 520 336z"/></svg>
-                Print the Recipe</button>
-                <button id="jump-to-recipe" class="social-icon">
+                Print the Post</button>
+                <button id="jump-to-post" class="social-icon">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M192 512L192 334.4C197.2 335.4 202.5 336 208 336L224 336L224 512C224 520.8 216.8 528 208 528C199.2 528 192 520.8 192 512zM208 288C190.3 288 176 273.7 176 256L176 232C176 165.7 229.7 112 296 112L344 112C396.5 112 441.1 145.7 457.4 192.7C454.3 192.2 451.2 192 448 192C428 192 410.1 201.2 398.3 215.6C389.3 210.7 378.9 208 368 208C352.9 208 339 213.3 328 222C317 213.2 303.1 208 288 208L248 208C234.7 208 224 218.7 224 232C224 245.3 234.7 256 248 256L288 256C296.8 256 304 263.2 304 272C304 280.8 296.8 288 288 288L208 288zM128 256L128 256C128 274 134 290.6 144 304L144 512C144 547.3 172.7 576 208 576C243.3 576 272 547.3 272 512L272 430C277.1 431.3 282.5 432 288 432C313.3 432 335.2 417.3 345.6 396C352.6 398.6 360.1 400 368 400C388 400 405.9 390.8 417.7 376.4C426.7 381.3 437.1 384 448 384C483.3 384 512 355.3 512 320L512 232C512 139.2 436.8 64 344 64L296 64C203.2 64 128 139.2 128 232L128 256zM464 320C464 328.8 456.8 336 448 336C439.2 336 432 328.8 432 320L432 256C432 247.2 439.2 240 448 240C456.8 240 464 247.2 464 256L464 320zM288 336C293.5 336 298.9 335.3 304 334L304 368C304 376.8 296.8 384 288 384C279.2 384 272 376.8 272 368L272 336L288 336zM352 312L352 272C352 263.2 359.2 256 368 256C376.8 256 384 263.2 384 272L384 336C384 344.8 376.8 352 368 352C359.2 352 352 344.8 352 336L352 312z"/></svg>
-                Jump to Recipe</button>
+                Jump to Post</button>
             
             </div>
             <div class="wrap">        
@@ -2029,7 +2009,7 @@ addBreadcrumbSchema(recipe) {
                 <main class="main">
 
                     <div class="post-card">
-                        <div class="recipe-author">           
+                        <div class="post-author">           
                             <div>
                                 <h5>By ${this.activeAuthor ? this.activeAuthor.name : 'House Chef'}</a>, ${createdAtFormatted}</h5>                        
                             </div>
@@ -2046,15 +2026,16 @@ addBreadcrumbSchema(recipe) {
                             ${this.wrapImageWithPinterestButton(
                                 `<img src="${mainImage}" alt="${title}"">`,
                                 title,
-                                description || 'Delicious recipe perfect for all occasions',
+                                description || 'Delicious post perfect for all occasions',
                                 mainImage
                             )}
                         </div>
 
                         <div class="badge-row">
-                            <div class="badge">Recipe</div>
-                            <div class="badge">${difficultyDisplay}</div>
-                            ${servings ? `<div class="badge">${servings} servings</div>` : ''}
+                            <div class="badge">Post</div>
+                            ${metaStats.filter(s => post[s.field]).map(s =>
+                                `<div class="badge">${post[s.field]}${s.suffix ? ' ' + s.suffix : ''} ${s.label}</div>`
+                            ).join('')}
                         </div>
 
                         <!-- Complete structured content -->
@@ -2064,19 +2045,19 @@ addBreadcrumbSchema(recipe) {
 
                         <!-- Fallback if no structured content -->
                         ${!structured_content.length ? `
-                            <section class="post-section">
-                                <h4>Ingredients</h4>
-                                <ul>
-                                    ${ingredients.map(ingredient => `<li>${ingredient}</li>`).join('')}
-                                </ul>
-                            </section>
+                            ${ingredients.length && labels.ingredients ? `
+                                <section class="post-section">
+                                    <h4>${labels.ingredients}</h4>
+                                    <ul>${ingredients.map(i => `<li>${i}</li>`).join('')}</ul>
+                                </section>
+                            ` : ''}
 
-                            <section class="post-section">
-                                <h4>Instructions</h4>
-                                <ol>
-                                    ${instructions.map((step, index) => `<li><strong>Step ${index + 1}:</strong> ${step}</li>`).join('')}
-                                </ol>
-                            </section>
+                            ${instructions.length && labels.instructions ? `
+                                <section class="post-section">
+                                    <h4>${labels.instructions}</h4>
+                                    <ol>${instructions.map((step, index) => `<li><strong>Step ${index + 1}:</strong> ${typeof step === 'object' ? step.instruction || '' : step}</li>`).join('')}</ol>
+                                </section>
+                            ` : ''}
 
                             ${tips ? `
                                 <section class="post-section">
@@ -2101,12 +2082,14 @@ addBreadcrumbSchema(recipe) {
                         </div>
                     </div>
 
+                    ${labels.nutrition && post.nutrition ? `
                     <div class="side-widget">
-                        <h5>Nutritional Information</h5>
+                        <h5>${labels.nutrition}</h5>
                         <div style="color:var(--muted);font-size:14px">
                             Estimates based on standard ingredients
                         </div>
                     </div>
+                    ` : ''}
 
                     ${recentPostsHTML}
                 </aside>
@@ -2115,16 +2098,16 @@ addBreadcrumbSchema(recipe) {
          
         `;
 
-        this.contentContainer.innerHTML = recipeHTML;
+        this.contentContainer.innerHTML = postHTML;
         
         // Add event listeners for buttons
-        this.addCardEventListeners(recipe);
+        this.addCardEventListeners(post);
         
-        document.title = `${title} - Detailed Recipe`;
+        document.title = `${title} - Detailed Post`;
     }
 
     // New method to add event listeners
-    addCardEventListeners(recipe) {
+    addCardEventListeners(post) {
         // Pinterest buttons
         const pinterestButtons = this.contentContainer.querySelectorAll('.pinterest-pin-btn');
         pinterestButtons.forEach(button => {
@@ -2151,17 +2134,17 @@ addBreadcrumbSchema(recipe) {
 
 }
 
-// Fonction globale pour charger une recette
-function loadRecipe(postslug) {
-    console.log('📖 Loading new recipe:', postslug);
+// Fonction globale pour charger une post
+function loadPost(postslug) {
+    console.log('📖 Loading new post:', postslug);
     
     // Build URL
-    const newUrl = `${window.location.origin}${window.location.pathname}?page=recipe-detail&recipe=${postslug}`;
+    const newUrl = `${window.location.origin}${window.location.pathname}?page=post-detail&post=${postslug}`;
     
     // Push state
     window.history.pushState({
-        page: 'recipe-detail',
-        recipe: postslug,
+        page: 'post-detail',
+        post: postslug,
         timestamp: Date.now()
     }, '', newUrl);
     
@@ -2176,7 +2159,7 @@ function loadRecipe(postslug) {
         // Show loading immediately
         const container = document.getElementById('post-content');
         if (container) {
-            container.innerHTML = '<div style="padding:60px;text-align:center;">Loading recipe...</div>';
+            container.innerHTML = '<div style="padding:60px;text-align:center;">Loading post...</div>';
         }
         
         // Reload with longer delay for mobile
@@ -2184,7 +2167,7 @@ function loadRecipe(postslug) {
             window.postDetailLoader.init();
         }, 200);
     } else {
-        setTimeout(initRecipeDetail, 200);
+        setTimeout(initPostDetail, 200);
     }
     
     window.scrollTo(0, 0);
@@ -2203,17 +2186,17 @@ window.addEventListener('popstate', function(event) {
     
     const urlParams = new URLSearchParams(window.location.search);
     const page = urlParams.get('page');
-    const recipe = urlParams.get('recipe');
+    const post = urlParams.get('post');
     
-    console.log('Extracted - Page:', page, 'Recipe:', recipe);
+    console.log('Extracted - Page:', page, 'Post:', post);
     
-    if (page === 'recipe-detail' && recipe) {
-        console.log('✅ Recipe page - triggering reload');
+    if (page === 'post-detail' && post) {
+        console.log('✅ Post page - triggering reload');
         
         // Show loading IMMEDIATELY
         const container = document.getElementById('post-content');
         if (container) {
-            container.innerHTML = '<div style="padding:60px;text-align:center;font-size:18px;">⏳ Loading recipe...</div>';
+            container.innerHTML = '<div style="padding:60px;text-align:center;font-size:18px;">⏳ Loading post...</div>';
         }
         
         // CRITICAL: Total reset
@@ -2233,22 +2216,22 @@ window.addEventListener('popstate', function(event) {
             }, 250);
         } else {
             console.log('No loader found, creating new...');
-            setTimeout(initRecipeDetail, 250);
+            setTimeout(initPostDetail, 250);
         }
         
         window.scrollTo(0, 0);
     } else {
-        console.log('ℹ️ Not a recipe page or missing recipe slug');
+        console.log('ℹ️ Not a post page or missing post slug');
     }
 });
 let postDetailLoader;
 let initAttempts = 0;
 const maxInitAttempts = 20;
 
-function initRecipeDetail() {
+function initPostDetail() {
     initAttempts++;
     
-   // // console.log(`🔄 InitRecipeDetail attempt ${initAttempts}/${maxInitAttempts}`);
+   // // console.log(`🔄 InitPostDetail attempt ${initAttempts}/${maxInitAttempts}`);
     
     if (postDetailLoader && postDetailLoader.initialized) {
        // // console.log('✅ PostDetailLoader already initialized');
@@ -2266,7 +2249,7 @@ function initRecipeDetail() {
     //    // // console.log('🔧 Debug info:', {
     //         containerFound: !!container,
     //         currentURL: window.location.href,
-    //         recipePath: postDetailLoader.postsPath,
+    //         postPath: postDetailLoader.postsPath,
     //         attempt: initAttempts
     //     });
         
@@ -2276,7 +2259,7 @@ function initRecipeDetail() {
         
     } else if (initAttempts < maxInitAttempts) {
        // // console.log(`⏳ Container not found, retrying... (${initAttempts}/${maxInitAttempts})`);
-        setTimeout(initRecipeDetail, 200);
+        setTimeout(initPostDetail, 200);
     } else {
        // console.error('❌ Container not found after', maxInitAttempts, 'attempts');
        // console.error('🔍 Available containers:', Array.from(document.querySelectorAll('[id]')).map(el => el.id));
@@ -2291,7 +2274,7 @@ function initRecipeDetail() {
             // Retry with the new container
             setTimeout(() => {
                 initAttempts = 0;
-                initRecipeDetail();
+                initPostDetail();
             }, 500);
         }
     }
@@ -2299,14 +2282,14 @@ function initRecipeDetail() {
 
 // Initialization points
 if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initRecipeDetail);
+    document.addEventListener('DOMContentLoaded', initPostDetail);
 } else {
-    setTimeout(initRecipeDetail, 100);
+    setTimeout(initPostDetail, 100);
 }
 
 window.addEventListener('load', () => {
     if (!postDetailLoader) {
-        setTimeout(initRecipeDetail, 200);
+        setTimeout(initPostDetail, 200);
     }
 });
 
@@ -2317,7 +2300,7 @@ if (typeof MutationObserver !== 'undefined') {
             if (mutation.type === 'childList') {
                 const container = document.getElementById('post-content');
                 if (container && !postDetailLoader) {
-                    initRecipeDetail();
+                    initPostDetail();
                 }
             }
         });
@@ -2331,22 +2314,22 @@ if (typeof MutationObserver !== 'undefined') {
     }
 }
 
-window.forceInitRecipeDetail = function() {
+window.forceInitPostDetail = function() {
    // // console.log('Force initialization...');
     postDetailLoader = null;
     initAttempts = 0;
-    initRecipeDetail();
+    initPostDetail();
 };
 
 
-// Fonction pour imprimer la recette
-function printRecipe() {
+// Fonction pour imprimer la post
+function printPost() {
     
-    const recipeCard = document.querySelector('.post-summary-card');
+    const postCard = document.querySelector('.post-summary-card');
     
-    if (!recipeCard) {
-        console.error('Recipe card not found');
-        alert('Recipe card not found');
+    if (!postCard) {
+        console.error('Post card not found');
+        alert('Post card not found');
         return;
     }
     
@@ -2355,7 +2338,7 @@ function printRecipe() {
         <!DOCTYPE html>
         <html>
         <head>
-            <title>Print Recipe</title>
+            <title>Print Post</title>
             <style>
                 body {
                     font-family: Arial, sans-serif;
@@ -2400,7 +2383,7 @@ function printRecipe() {
             </style>
         </head>
         <body>
-            ${recipeCard.innerHTML}
+            ${postCard.innerHTML}
         </body>
         </html>
     `;
@@ -2424,63 +2407,63 @@ function printRecipe() {
     }, 1000);
 }
 
-// Fonction pour scroller vers la recette
-function jumpToRecipe() {
+// Fonction pour scroller vers la post
+function jumpToPost() {
     
-    const recipeCard = document.querySelector('.post-summary-card');
+    const postCard = document.querySelector('.post-summary-card');
     
-    if (!recipeCard) {
-        console.error('Recipe card not found');
-        alert('Recipe card not found');
+    if (!postCard) {
+        console.error('Post card not found');
+        alert('Post card not found');
         return;
     }
     
-    // Scroll vers la carte recette
-    recipeCard.scrollIntoView({ 
+    // Scroll vers la carte post
+    postCard.scrollIntoView({ 
         behavior: 'smooth', 
         block: 'start',
         inline: 'nearest'
     });
     
     // Effet visuel
-    recipeCard.style.transition = 'box-shadow 0.3s, transform 0.3s';
-    recipeCard.style.boxShadow = '0 0 20px rgba(255, 193, 7, 0.5)';
-    recipeCard.style.transform = 'scale(1.01)';
+    postCard.style.transition = 'box-shadow 0.3s, transform 0.3s';
+    postCard.style.boxShadow = '0 0 20px rgba(255, 193, 7, 0.5)';
+    postCard.style.transform = 'scale(1.01)';
     
     setTimeout(() => {
-        recipeCard.style.boxShadow = '';
-        recipeCard.style.transform = '';
+        postCard.style.boxShadow = '';
+        postCard.style.transform = '';
     }, 1000);
 }
 
 // Méthode 1: Attacher immédiatement si les boutons existent déjà
 const attachEventListeners = () => {
-    const printButton = document.getElementById('print-recipe');
-    const jumpButton = document.getElementById('jump-to-recipe');
+    const printButton = document.getElementById('print-post');
+    const jumpButton = document.getElementById('jump-to-post');
     
     if (printButton) {
         // Supprimer les anciens listeners pour éviter les doublons
-        printButton.removeEventListener('click', printRecipe);
-        printButton.addEventListener('click', printRecipe);
+        printButton.removeEventListener('click', printPost);
+        printButton.addEventListener('click', printPost);
     
     }
     
     if (jumpButton) {
-        jumpButton.removeEventListener('click', jumpToRecipe);
-        jumpButton.addEventListener('click', jumpToRecipe);
+        jumpButton.removeEventListener('click', jumpToPost);
+        jumpButton.addEventListener('click', jumpToPost);
     }
 };
 
 // Méthode 2: Utiliser la délégation d'événements sur le document
 document.addEventListener('click', function(e) {
-    if (e.target.id === 'print-recipe' || e.target.closest('#print-recipe')) {
+    if (e.target.id === 'print-post' || e.target.closest('#print-post')) {
         e.preventDefault();
-        printRecipe();
+        printPost();
     }
     
-    if (e.target.id === 'jump-to-recipe' || e.target.closest('#jump-to-recipe')) {
+    if (e.target.id === 'jump-to-post' || e.target.closest('#jump-to-post')) {
         e.preventDefault();
-        jumpToRecipe();
+        jumpToPost();
     }
 });
 

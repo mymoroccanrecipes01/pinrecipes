@@ -30,7 +30,7 @@ class PostLoader {
         // NOUVEAU: Charger le mapping des catégories en premier
         await this.loadCategoryMapping();
         
-        // Charger toutes les recettes
+        // Charger toutes les posts
         await this.loadAllPosts();
         
         // Appliquer les filtres initiaux (y compris catégorie depuis l'URL)
@@ -145,11 +145,11 @@ class PostLoader {
         
         this.filteredPosts = this.allPosts.filter(post => {
             if (!post.category_id && !post.category) {
-                // console.log(`✗ Recette "${post.title}" - pas de catégorie définie`);
+                // console.log(`✗ Post "${post.title}" - pas de catégorie définie`);
                 return false;
             }
             
-            // console.log(`Vérification recette "${post.title}":`, {
+            // console.log(`Vérification post "${post.title}":`, {
             //     category_id: post.category_id,
             //     category: post.category,
             //     targetSlug: categorySlug,
@@ -189,7 +189,7 @@ class PostLoader {
             return false;
         });
         
-        // console.log(`Filtrage terminé: ${this.filteredPosts.length} recettes trouvées pour "${categorySlug}"`);
+        // console.log(`Filtrage terminé: ${this.filteredPosts.length} posts trouvées pour "${categorySlug}"`);
         // console.log('==============================');
         
         this.hasMorePosts = this.filteredPosts.length > 0;
@@ -200,7 +200,7 @@ class PostLoader {
     debugCategories() {
         // console.log('=== DEBUG CATEGORIES & MAPPING ===');
         // console.log('Mapping chargé:', this.categoryMapping);
-        // console.log('Nombre total de recettes:', this.allPosts.length);
+        // console.log('Nombre total de posts:', this.allPosts.length);
         
         const categories = new Set();
         const categoryDetails = [];
@@ -217,17 +217,17 @@ class PostLoader {
             });
         });
         
-        // console.log('Catégories uniques dans les recettes:', [...categories]);
+        // console.log('Catégories uniques dans les posts:', [...categories]);
         // console.log('Slugs disponibles dans le mapping:', Object.keys(this.categoryMapping));
         // console.log('IDs dans le mapping:', Object.values(this.categoryMapping));
-        // console.log('Détails par recette:', categoryDetails);
+        // console.log('Détails par post:', categoryDetails);
         
         // Vérifier les correspondances
         // console.log('=== VÉRIFICATION CORRESPONDANCES ===');
         Object.keys(this.categoryMapping).forEach(slug => {
             const id = this.categoryMapping[slug];
             const matchingposts = this.allPosts.filter(r => r.category_id === id);
-            // console.log(`Slug "${slug}" (ID: ${id}) -> ${matchingposts.length} recettes`);
+            // console.log(`Slug "${slug}" (ID: ${id}) -> ${matchingposts.length} posts`);
         });
         
         // console.log('==================================');
@@ -259,7 +259,7 @@ class PostLoader {
                 const scrollPosition = window.scrollY + window.innerHeight;
                 const documentHeight = document.documentElement.scrollHeight;
                 
-                // Charger plus de recettes quand on est à 200px du bas
+                // Charger plus de posts quand on est à 200px du bas
                 if (page !== "home" && scrollPosition >= documentHeight - 200) {
                     this.loadMoreposts();
                 }
@@ -335,7 +335,7 @@ class PostLoader {
         // Object.keys(this.categoryMapping).forEach(slug => {
         //     const id = this.categoryMapping[slug];
         //     const matchingposts = this.allPosts.filter(r => r.category_id === id);
-        //     // console.log(`Slug "${slug}" (ID: ${id}) -> ${matchingposts.length} recettes`);
+        //     // console.log(`Slug "${slug}" (ID: ${id}) -> ${matchingposts.length} posts`);
         // });
 
 
@@ -372,7 +372,7 @@ class PostLoader {
                 return false;
             });
             
-            // console.log(`Filtrage par catégorie "${categoryToFilter}": ${filteredPosts.length} recettes trouvées`);
+            // console.log(`Filtrage par catégorie "${categoryToFilter}": ${filteredPosts.length} posts trouvées`);
         }
 
         // Filtrer par recherche
@@ -397,22 +397,22 @@ class PostLoader {
             );
         }
 
-        // Mettre à jour les recettes filtrées
+        // Mettre à jour les posts filtrées
         this.filteredPosts = filteredPosts;
         this.hasMorePosts = this.filteredPosts.length > 0;
         
-        // Afficher les premières recettes
+        // Afficher les premières posts
         this.displayInitialposts();
         this.updateFilterInfo(params, this.filteredPosts.length);
     }
 
-    // Afficher les premières recettes selon la page
+    // Afficher les premières posts selon la page
     displayInitialposts() {     
         this.resetPagination();
         this.loadMoreposts();        
     }
 
-    // Charger plus de recettes (6 par 6)
+    // Charger plus de posts (6 par 6)
     async loadMoreposts() {
         const params = new URLSearchParams(window.location.search);
         const pageParam = params.get("page") || "home";
@@ -448,28 +448,28 @@ class PostLoader {
             // Simuler un petit délai pour le loading
             await new Promise(resolve => setTimeout(resolve, 300));     
             
-            // Ajouter les nouvelles recettes
+            // Ajouter les nouvelles posts
             this.displayedPosts.push(...newposts);
             this.appendpostsToDOM(newposts);
             
             this.currentPage++;
             this.hasMorePosts = endIndex < this.filteredPosts.length;
 
-            // console.log(`Page ${this.currentPage} chargée: ${newposts.length} recettes (${this.displayedPosts.length}/${this.filteredPosts.length} total)`);
+            // console.log(`Page ${this.currentPage} chargée: ${newposts.length} posts (${this.displayedPosts.length}/${this.filteredPosts.length} total)`);
             
         } catch (error) {
-            // console.error('Erreur lors du chargement de plus de recettes:', error);
-            this.showError('Erreur lors du chargement des recettes supplémentaires');
+            // console.error('Erreur lors du chargement de plus de posts:', error);
+            this.showError('Erreur lors du chargement des posts supplémentaires');
         } finally {
             this.hideLoadingIndicator();
             this.isLoading = false;
         }
     }
 
-    // Ajouter les recettes au DOM
+    // Ajouter les posts au DOM
     appendpostsToDOM(posts) {
         if (!this.postsContainer) {
-            // console.error('Container des recettes non disponible');
+            // console.error('Container des posts non disponible');
             return;
         }
 
@@ -480,14 +480,14 @@ class PostLoader {
                 
                 this.postsContainer.innerHTML = `
                     <div class="no-posts">
-                        <h3>Aucune recette trouvée</h3>
-                        <p>Aucune recette ne correspond aux filtres sélectionnés${categoryInfo}</p>
+                        <h3>Aucune post trouvée</h3>
+                        <p>Aucune post ne correspond aux filtres sélectionnés${categoryInfo}</p>
                         ${this.currentCategorySlug ? `
                             <button onclick="window.router.loadPage('posts')" class="btn-secondary" style="
                                 background: #007bff; color: white; border: none; padding: 10px 20px; 
                                 border-radius: 5px; cursor: pointer; margin-top: 15px;
                             ">
-                                Voir toutes les recettes
+                                Voir toutes les posts
                             </button>
                         ` : ''}
                     </div>
@@ -582,7 +582,7 @@ class PostLoader {
             //         border-left: 4px solid #007bff;
             //     ">
             //         <span class="filter-count" style="font-weight: 600; margin-right: 15px;">
-            //             ${resultCount} recette(s) trouvée(s) 
+            //             ${resultCount} post(s) trouvée(s) 
             //         </span>
             //         ${activeFilters.map(filter => `
             //             <span class="filter-tag" style="
@@ -608,7 +608,7 @@ class PostLoader {
             //     </div>
             // `;
             
-            // Insérer avant le container de recettes
+            // Insérer avant le container de posts
             if (this.postsContainer && this.postsContainer.parentNode) {
                 this.postsContainer.parentNode.insertBefore(filterInfo, this.postsContainer);
             }
@@ -708,7 +708,7 @@ class PostLoader {
                 return;
             }
 
-            // console.log(`${postFolders.length} dossiers de recettes trouvés pour la page "${currentPage}":`, postFolders);
+            // console.log(`${postFolders.length} dossiers de posts trouvés pour la page "${currentPage}":`, postFolders);
 
             const postPromises = postFolders.map(folder => 
                 this.loadPostData(folder)
@@ -719,7 +719,7 @@ class PostLoader {
             
             
             if (validposts.length === 0) {
-                this.showError('Aucune recette valide trouvée dans les dossiers spécifiés');
+                this.showError('Aucune post valide trouvée dans les dossiers spécifiés');
                 return;
             }
 
@@ -733,16 +733,16 @@ class PostLoader {
             // Sur la page home, prendre seulement les 6 premières après tri par date
             if (currentPage === "home") {
                 this.allPosts = validposts.slice(0, 6);
-                // console.log(`Page home: ${this.allPosts.length} recettes les plus récentes affichées`);
+                // console.log(`Page home: ${this.allPosts.length} posts les plus récentes affichées`);
             } else {
                 this.allPosts = validposts;
             }
             
-            // console.log(`Recettes triées par date de création (${this.allPosts.length} recettes)`);
+            // console.log(`Posts triées par date de création (${this.allPosts.length} posts)`);
 
         } catch (error) {
-            // console.error('Erreur lors du chargement des recettes:', error);
-            this.showError('Erreur lors du chargement des recettes');
+            // console.error('Erreur lors du chargement des posts:', error);
+            this.showError('Erreur lors du chargement des posts');
         }
     }
 
@@ -760,12 +760,12 @@ class PostLoader {
         this.resetPagination();
         
         if (currentPage === "home") {
-            // Sur la page home, afficher directement toutes les recettes filtrées
+            // Sur la page home, afficher directement toutes les posts filtrées
             // (qui sont déjà limitées à 6 dans loadAllPosts)
             this.displayedPosts = [...this.filteredPosts];
             this.appendpostsToDOM(this.displayedPosts);
             this.hasMorePosts = false; // Pas de load more sur home
-            // console.log(`Page home: ${this.displayedPosts.length} recettes affichées (pas de pagination)`);
+            // console.log(`Page home: ${this.displayedPosts.length} posts affichées (pas de pagination)`);
         } else {
             // Sur les autres pages, utiliser la pagination normale
             this.loadMoreposts();
@@ -785,7 +785,7 @@ class PostLoader {
             const postData = await jsonResponse.json();
             
             if (!postData.title) {
-                // console.warn(`Recette ${folderName}: titre manquant`);
+                // console.warn(`Post ${folderName}: titre manquant`);
                 return null;
             }
             
@@ -819,7 +819,7 @@ class PostLoader {
             };
             
         } catch (error) {
-            // console.error(`Erreur lors du chargement de la recette ${folderName}:`, error);
+            // console.error(`Erreur lors du chargement de la post ${folderName}:`, error);
             return null;
         }
     }
@@ -933,7 +933,7 @@ createpostHTML(post) {
             </div>
             <div class="entry__footer">
                 <a class="entry__footer-link" href="${postUrl}" title="${title}">
-                    View Recipe ${arrowSvg}
+                    View Post ${arrowSvg}
                 </a>
             </div>
         </div>
@@ -967,7 +967,7 @@ createpostHTML(post) {
         return this.currentCategorySlug;
     }
 
-    // NOUVEAU: Méthode publique pour obtenir les recettes filtrées
+    // NOUVEAU: Méthode publique pour obtenir les posts filtrées
     getFilteredposts() {
         return this.filteredPosts;
     }
@@ -1003,7 +1003,7 @@ class PageLoadWatcher {
             this.attempts++;
             
             const container = document.getElementById('items');
-            const hasContent = container && container.innerHTML && !container.innerHTML.includes('Chargement des recettes');
+            const hasContent = container && container.innerHTML && !container.innerHTML.includes('Chargement des posts');
             
             if (container) {
                 this.initializePostLoader();
@@ -1059,7 +1059,7 @@ function initPostsCategoryPageFeatures(categorySlug) {
     // console.log('Category slug reçu:', categorySlug);
     // console.log('PostLoader exists:', !!postLoader);
     // console.log('PostLoader initialized:', postLoader?.initialized);
-    // console.log('Nombre de recettes totales:', postLoader?.allPosts?.length);
+    // console.log('Nombre de posts totales:', postLoader?.allPosts?.length);
     
     if (postLoader && postLoader.initialized) {
         setTimeout(() => {
@@ -1212,7 +1212,7 @@ function navigateToCategory(categorySlug) {
     }
 }
 
-// NOUVEAU: Fonction pour obtenir les statistiques de recettes
+// NOUVEAU: Fonction pour obtenir les statistiques de posts
 function getpoststats() {
     if (!postLoader) return null;
     
