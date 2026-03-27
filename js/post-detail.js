@@ -94,31 +94,54 @@ class PostDetailLoader {
     }
 
     // Nouvelle méthode pour créer le bouton Pinterest PIN
-    createPinterestButton(imageUrl, title, description = '') {
-        const pinterestUrl = this.generatePinterestUrl(imageUrl, title, description);
+    createPinterestButton(imageUrl, title, description = '', post = null) {
+        const pinterestUrl = this.generatePinterestUrl(imageUrl, title, description, post);
         
         return `
-            <button class="pinterest-pin-btn" 
-                    onclick="window.open('${pinterestUrl}', '_blank', 'width=750,height=320')"
-                    title="Pin on Pinterest"
-                    aria-label="Pin this post image on Pinterest">
+            <button class="pinterest-pin-btn"
+                    onclick="window.open('${pinterestUrl}', '_blank', 'width=750,height=550')"
+                    title="Save this recipe on Pinterest"
+                    aria-label="Save this recipe on Pinterest">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
                     <path d="M12 0C5.373 0 0 5.372 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.219-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738.098.119.112.224.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.888-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.357-.631-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12.001 24c6.624 0 11.999-5.373 11.999-12C24 5.372 18.626.001 12.001.001z"/>
                 </svg>
-                PIN
+                Save
             </button>
         `;
     }
 
     // Méthode pour générer l'URL Pinterest
-    generatePinterestUrl(imageUrl, title, description = '') {
+    generatePinterestUrl(imageUrl, title, description = '', post = null) {
         const currentUrl = window.location.href;
         const fullImageUrl = imageUrl.startsWith('http') ? imageUrl : `${window.location.origin}/${imageUrl.replace('./', '')}`;
-        
+
+        // Utiliser un hook aléatoire si disponible (curiosity/value hooks générés par GPT)
+        let pinTitle = title;
+        if (post?.pin_hooks?.length > 1) {
+            // Alterner entre les hooks à chaque clic (random parmi les variations)
+            const hooks = post.pin_hooks.filter(h => h && h.trim());
+            pinTitle = hooks[Math.floor(Math.random() * hooks.length)];
+        }
+
+        // Construire la description enrichie avec keywords SEO
+        let pinDescription = pinTitle;
+        if (post) {
+            const seoKeywords = post.seo?.secondary_keywords?.slice(0, 3).join(', ') || '';
+            const hashtags = post.hashtags || '';
+            const timeInfo = post.total_time ? `⏱️ ${post.total_time} min` : '';
+            const parts = [pinTitle];
+            if (seoKeywords) parts.push(seoKeywords);
+            if (timeInfo) parts.push(timeInfo);
+            if (hashtags) parts.push(hashtags);
+            pinDescription = parts.join(' | ');
+        } else if (description) {
+            pinDescription = `${pinTitle} | ${description}`;
+        }
+
         const params = new URLSearchParams({
             url: currentUrl,
             media: fullImageUrl,
-            description: `${title} - ${description || 'Delicious post to try!'}`
+            description: pinDescription
         });
 
         return `https://pinterest.com/pin/create/button/?${params.toString()}`;
@@ -154,17 +177,25 @@ class PostDetailLoader {
                 color: white;
                 border: none;
                 border-radius: 50px;
-                padding: 8px 12px;
-                font-size: 12px;
-                font-weight: 600;
+                padding: 10px 16px;
+                font-size: 13px;
+                font-weight: 700;
                 cursor: pointer;
                 display: flex;
                 align-items: center;
-                gap: 4px;
-                box-shadow: 0 2px 8px rgba(230, 0, 35, 0.3);
-                transition: all 0.2s ease;                
+                gap: 6px;
+                box-shadow: 0 2px 8px rgba(230, 0, 35, 0.4);
+                transition: all 0.2s ease;
                 transform: translateY(-5px);
+                opacity: 0;
                 z-index: 10;
+            }
+
+            @media (hover: none) {
+                .pinterest-pin-btn {
+                    opacity: 1;
+                    transform: translateY(0);
+                }
             }
 
             .pinterest-pin-btn:hover {
@@ -236,7 +267,7 @@ class PostDetailLoader {
     }
 
     // Nouvelle méthode pour encapsuler les images avec le conteneur Pinterest
-    wrapImageWithPinterestButton(imageHtml, title, description = '', imageUrl = '') {
+    wrapImageWithPinterestButton(imageHtml, title, description = '', imageUrl = '', post = null) {
         // Extraire l'URL de l'image du HTML si elle n'est pas fournie
         if (!imageUrl) {
             const imgMatch = imageHtml.match(/src=["']([^"']+)["']/);
@@ -245,11 +276,11 @@ class PostDetailLoader {
 
         // Extraire le contenu de la balise img
         const imgContent = imageHtml.match(/<img[^>]*>/i)?.[0] || imageHtml;
-        
+
         return `
             <div class="image-container">
                 ${imgContent}
-                ${this.createPinterestButton(imageUrl, title, description)}
+                ${this.createPinterestButton(imageUrl, title, description, post)}
             </div>
         `;
     }
@@ -1567,10 +1598,14 @@ addPostMetaTags(post) {
         { property: 'og:title', content: post.title },
         { property: 'og:description', content: post.description || `Delicious ${post.title} post` },
         { property: 'og:image', content: fullImageUrl },
+        { property: 'og:image:width', content: '1000' },
+        { property: 'og:image:height', content: '1500' },
+        { property: 'og:image:type', content: 'image/webp' },
         { property: 'og:url', content: currentUrl },
         { property: 'og:type', content: 'article' },
-        
+
         // Twitter Card
+        { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:title', content: post.title },
         { name: 'twitter:description', content: post.description || `Delicious ${post.title} post` },
         { name: 'twitter:image', content: fullImageUrl },
@@ -1620,29 +1655,61 @@ addpostschemaLD(post, fullImageUrl, currentUrl) {
         existingScript.remove();
     }
 
+    // Construire l'array de toutes les images du post
+    const allImages = [fullImageUrl];
+    if (post.images && Array.isArray(post.images)) {
+        post.images.forEach(img => {
+            const imgUrl = img.filePath || img.relativePath || '';
+            if (imgUrl) {
+                const absUrl = imgUrl.startsWith('http') ? imgUrl : `${window.location.origin}/${imgUrl.replace('./', '')}`;
+                if (!allImages.includes(absUrl)) allImages.push(absUrl);
+            }
+        });
+    }
+
+    // Construire les keywords depuis les données SEO
+    const seoKeywords = this.generateKeywords(post);
+
+    // Construire la nutrition depuis post.nutrition
+    const nutritionInfo = { "@type": "NutritionInformation" };
+    if (post.nutrition) {
+        const n = post.nutrition;
+        if (n.calories)           nutritionInfo.calories       = String(n.calories).includes('cal') ? n.calories : `${n.calories} calories`;
+        if (n.total_fat)          nutritionInfo.fatContent      = n.total_fat;
+        if (n.saturated_fat)      nutritionInfo.saturatedFatContent = n.saturated_fat;
+        if (n.sodium)             nutritionInfo.sodiumContent   = n.sodium;
+        if (n.total_carbohydrates || n.carbohydrates) nutritionInfo.carbohydrateContent = n.total_carbohydrates || n.carbohydrates;
+        if (n.dietary_fiber || n.fiber) nutritionInfo.fiberContent = n.dietary_fiber || n.fiber;
+        if (n.sugars || n.total_sugars) nutritionInfo.sugarContent = n.sugars || n.total_sugars;
+        if (n.protein)            nutritionInfo.proteinContent  = n.protein;
+        nutritionInfo.servingSize = post.yield || `${post.servings || 1} serving`;
+    } else {
+        nutritionInfo.servingSize = post.yield || `${post.servings || 1} serving`;
+    }
+
     const schemaData = {
         "@context": "https://schema.org",
-        "@type": "Post",
+        "@type": "Recipe",
         "name": post.title,
-        "image": [fullImageUrl],
+        "image": allImages,
         "author": {
             "@type": "Person",
             "name": this.activeAuthor?.name || "House Chef"
         },
         "datePublished": post.createdAt || new Date().toISOString(),
-        "description": post.description || `Delicious ${post.title} post`,
+        "description": post.description || `Delicious ${post.title} recipe`,
         "prepTime": post.prep_time ? `PT${post.prep_time}M` : "PT15M",
         "cookTime": post.cook_time ? `PT${post.cook_time}M` : "PT30M",
         "totalTime": post.total_time ? `PT${post.total_time}M` : `PT${(post.prep_time || 15) + (post.cook_time || 30)}M`,
-        "postYield": post.servings || "4 servings",
-        "postCategory": post.category || "Main Dish",
-        "postCuisine": post.cuisine || "American",
-        "keywords": this.generateKeywords(post),
-        "postIngredient": post.ingredients || [],
-        "postInstructions": (post.instructions || []).map((instruction, index) => ({
+        "recipeYield": post.yield || `${post.servings || 4} servings`,
+        "recipeCategory": post.category || "Main Dish",
+        "recipeCuisine": post.cuisine || "American",
+        "keywords": seoKeywords,
+        "recipeIngredient": post.ingredients || [],
+        "recipeInstructions": (post.instructions || []).map((instruction, index) => ({
             "@type": "HowToStep",
             "name": `Step ${index + 1}`,
-            "text": instruction,
+            "text": typeof instruction === 'object' ? (instruction.instruction || instruction.text || '') : instruction,
             "position": index + 1
         })),
         "aggregateRating": {
@@ -1650,10 +1717,7 @@ addpostschemaLD(post, fullImageUrl, currentUrl) {
             "ratingValue": post.rating || "4.5",
             "ratingCount": post.ratingCount || "10"
         },
-        "nutrition": {
-            "@type": "NutritionInformation",
-            "servingSize": post.servings || "1 serving"
-        },
+        "nutrition": nutritionInfo,
         "url": currentUrl
     };
 
@@ -1679,22 +1743,27 @@ addpostschemaLD(post, fullImageUrl, currentUrl) {
 // Méthode pour générer keywords
 generateKeywords(post) {
     const keywords = [];
-    
+
+    // SEO primary & secondary keywords (highest priority)
+    if (post.seo?.primary_keyword) keywords.push(post.seo.primary_keyword);
+    if (post.seo?.secondary_keywords && Array.isArray(post.seo.secondary_keywords)) {
+        post.seo.secondary_keywords.slice(0, 5).forEach(kw => keywords.push(kw));
+    }
+
     if (post.category) keywords.push(post.category);
     if (post.difficulty) keywords.push(post.difficulty);
-    if (post.type) keywords.push(post.type);
-    
-    // Ajouter ingredients principaux
+
+    // Ingredients principaux
     if (post.ingredients && post.ingredients.length > 0) {
         post.ingredients.slice(0, 3).forEach(ingredient => {
             const mainIngredient = ingredient.split(' ').find(word => word.length > 4);
             if (mainIngredient) keywords.push(mainIngredient.toLowerCase());
         });
     }
-    
-    keywords.push('post', 'cooking', 'food');
-    
-    return keywords.join(', ');
+
+    keywords.push('recipe', 'cooking', 'food');
+
+    return [...new Set(keywords)].join(', ');
 }
 
 
@@ -1805,7 +1874,7 @@ addBreadcrumbSchema(post) {
     }
 
     // New method to render structured content with Pinterest buttons
-    renderStructuredContent(structuredContent) {
+    renderStructuredContent(structuredContent, postTitle = '') {
         if (!structuredContent || !Array.isArray(structuredContent)) {
             return '';
         }
@@ -1845,9 +1914,9 @@ addBreadcrumbSchema(post) {
                 html += `
                     <div class="content-image post-position-image-${index}">
                         ${this.wrapImageWithPinterestButton(
-                            `<img class="" src="${imageUrl}" alt="${section.upload.context || 'Post image'}" 
+                            `<img class="" src="${imageUrl}" alt="${postTitle ? `${postTitle} - ${section.upload.context || 'step'}` : section.upload.context || 'Recipe image'} | pinrecipes.org"
                                  onerror="this.style.display='none'">`,
-                            section.upload.context || 'Post Step',
+                            section.upload.context || 'Recipe Step',
                             'Step by step cooking guide',
                             imageUrl
                         )}
@@ -1982,7 +2051,7 @@ addBreadcrumbSchema(post) {
         const difficultyDisplay = difficulty ? difficulty.charAt(0).toUpperCase() + difficulty.slice(1) : 'Not specified';
 
         // Render structured content
-        const structuredContentHTML = this.renderStructuredContent(structured_content);
+        const structuredContentHTML = this.renderStructuredContent(structured_content, title);
         
         // Create summary card
         const summaryCardHTML = this.createpostsummaryCard(post);
@@ -2024,10 +2093,11 @@ addBreadcrumbSchema(post) {
 
                         <div class="hero">
                             ${this.wrapImageWithPinterestButton(
-                                `<img src="${mainImage}" alt="${title}"">`,
+                                `<img src="${mainImage}" alt="${title}">`,
                                 title,
                                 description || 'Delicious post perfect for all occasions',
-                                mainImage
+                                mainImage,
+                                post
                             )}
                         </div>
 

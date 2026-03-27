@@ -285,40 +285,58 @@
             "order": 3
         },
         {
-            "fileName": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_4.webp",
-            "filePath": "posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_4.webp",
-            "relativePath": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_4.webp",
-            "order": 4,
-            "type": "template"
-        },
-        {
             "fileName": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_1.webp",
             "filePath": "posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_1.webp",
             "relativePath": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_1.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_1.webp",
-            "type": "template"
+            "order": 4,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_2.webp",
             "filePath": "posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_2.webp",
             "relativePath": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_2.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_2.webp",
-            "type": "template"
+            "order": 5,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_3.webp",
             "filePath": "posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_3.webp",
             "relativePath": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_3.webp",
-            "type": "template"
+            "order": 6,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_4.webp",
             "filePath": "posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_4.webp",
             "relativePath": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_4.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_4.webp",
-            "type": "template"
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_5.webp",
+            "filePath": "posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_5.webp",
+            "relativePath": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_5.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
+        },
+        {
+            "fileName": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_6.webp",
+            "filePath": "posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_6.webp",
+            "relativePath": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money/images/simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_pinrecipes_image_6.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         }
     ],
     "image": "simple-and-flavorful-meal-prep-chicken-bowls-that-save-time-and-money_image_1.webp",
