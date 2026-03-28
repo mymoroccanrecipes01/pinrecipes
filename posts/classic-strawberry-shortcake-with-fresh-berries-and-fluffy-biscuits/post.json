@@ -255,7 +255,7 @@
     "slug": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits",
     "uniqueSlug": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits",
     "id": "post_1774359809_505",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 50,
     "structured_content": [],
     "images": [
@@ -315,6 +315,41 @@
             "order": 7,
             "type": "template",
             "template": "classic"
+        },
+        {
+            "fileName": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_1.webp",
+            "relativePath": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_2.webp",
+            "relativePath": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_3.webp",
+            "relativePath": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_4.webp",
+            "filePath": "posts/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_4.webp",
+            "relativePath": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_5.webp",
+            "filePath": "posts/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_5.webp",
+            "relativePath": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images/classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_pinrecipes_image_5.webp",
+            "type": "template"
         }
     ],
     "image": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits_image_1.webp",
@@ -322,8 +357,8 @@
     "image_dir": "classic-strawberry-shortcake-with-fresh-berries-and-fluffy-biscuits/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-24T14:43:29+01:00",
-    "updatedAt": "2026-03-24T14:43:29+01:00",
+    "createdAt": "2026-03-28T06:17:54+01:00",
+    "updatedAt": "2026-03-28T06:17:54+01:00",
     "pin_variations": [
         {
             "title": "Irresistible Classic Strawberry Shortcake Recipe",

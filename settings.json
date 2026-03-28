@@ -1,4 +1,6 @@
 {
-    "linkPinActive": true,
-    "lastDailyRun": "2026-03-27"
+    "linkPinActive": false,
+    "lastDailyRun": "2026-03-27",
+    "pipelineIntervalDays": 1,
+    "lastPipelineRun": null
 }

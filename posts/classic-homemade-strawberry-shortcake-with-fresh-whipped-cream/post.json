@@ -255,7 +255,7 @@
     "slug": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream",
     "uniqueSlug": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream",
     "id": "post_1774358122_226",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 45,
     "structured_content": [],
     "images": [
@@ -287,6 +287,41 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_1.webp",
+            "relativePath": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_2.webp",
+            "relativePath": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_3.webp",
+            "relativePath": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_4.webp",
+            "filePath": "posts/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_4.webp",
+            "relativePath": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_5.webp",
+            "filePath": "posts/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_5.webp",
+            "relativePath": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images/classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_pinrecipes_image_5.webp",
+            "type": "template"
         }
     ],
     "image": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream_image_1.webp",
@@ -294,8 +329,8 @@
     "image_dir": "classic-homemade-strawberry-shortcake-with-fresh-whipped-cream/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-24T14:15:22+01:00",
-    "updatedAt": "2026-03-24T14:15:22+01:00",
+    "createdAt": "2026-03-28T06:17:54+01:00",
+    "updatedAt": "2026-03-28T06:17:54+01:00",
     "pin_variations": [
         {
             "title": "Irresistible Homemade Strawberry Shortcake Recipe",

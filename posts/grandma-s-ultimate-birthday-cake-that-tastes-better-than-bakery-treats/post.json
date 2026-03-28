@@ -253,7 +253,7 @@
     "slug": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats",
     "uniqueSlug": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats",
     "id": "post_1774357946_206",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 65,
     "structured_content": [],
     "images": [
@@ -313,6 +313,41 @@
             "order": 7,
             "type": "template",
             "template": "classic"
+        },
+        {
+            "fileName": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_1.webp",
+            "filePath": "posts/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_1.webp",
+            "relativePath": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_2.webp",
+            "filePath": "posts/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_2.webp",
+            "relativePath": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_3.webp",
+            "filePath": "posts/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_3.webp",
+            "relativePath": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_4.webp",
+            "filePath": "posts/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_4.webp",
+            "relativePath": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_5.webp",
+            "filePath": "posts/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_5.webp",
+            "relativePath": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images/grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_pinrecipes_image_5.webp",
+            "type": "template"
         }
     ],
     "image": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats_image_1.webp",
@@ -320,8 +355,8 @@
     "image_dir": "grandma-s-ultimate-birthday-cake-that-tastes-better-than-bakery-treats/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-24T14:12:26+01:00",
-    "updatedAt": "2026-03-24T14:12:26+01:00",
+    "createdAt": "2026-03-28T06:17:54+01:00",
+    "updatedAt": "2026-03-28T06:17:54+01:00",
     "pin_variations": [
         {
             "title": "Grandma’s Moist & Fluffy Birthday Cake Recipe",

@@ -289,40 +289,58 @@
             "order": 3
         },
         {
-            "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_4.webp",
-            "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_4.webp",
-            "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_4.webp",
-            "order": 4,
-            "type": "template"
-        },
-        {
             "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_1.webp",
             "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_1.webp",
             "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_1.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_1.webp",
-            "type": "template"
+            "order": 4,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_2.webp",
             "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_2.webp",
             "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_2.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_2.webp",
-            "type": "template"
+            "order": 5,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_3.webp",
             "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_3.webp",
             "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_3.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_3.webp",
-            "type": "template"
+            "order": 6,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_4.webp",
             "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_4.webp",
             "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_4.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_4.webp",
-            "type": "template"
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_5.webp",
+            "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_5.webp",
+            "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_5.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
+        },
+        {
+            "fileName": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_6.webp",
+            "filePath": "posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_6.webp",
+            "relativePath": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing/images/budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_pinrecipes_image_6.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         }
     ],
     "image": "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing_image_1.webp",
