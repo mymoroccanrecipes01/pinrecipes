@@ -283,35 +283,54 @@
             "filePath": "posts/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_4.webp",
             "relativePath": "quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_4.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_4.webp",
-            "type": "template"
+            "order": 4,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_5.webp",
             "filePath": "posts/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_5.webp",
             "relativePath": "quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_5.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_5.webp",
-            "type": "template"
+            "order": 5,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_6.webp",
             "filePath": "posts/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_6.webp",
             "relativePath": "quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_6.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_6.webp",
-            "type": "template"
+            "order": 6,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_7.webp",
             "filePath": "posts/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_7.webp",
             "relativePath": "quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_7.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_7.webp",
-            "type": "template"
+            "order": 7,
+            "type": "template",
+            "template": "classic"
         },
         {
             "fileName": "quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_8.webp",
             "filePath": "posts/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_8.webp",
             "relativePath": "quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_8.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_8.webp",
-            "type": "template"
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
+        },
+        {
+            "fileName": "quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_9.webp",
+            "filePath": "posts/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_9.webp",
+            "relativePath": "quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree/images/quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         }
     ],
     "image": "quick-25-minute-baked-salmon-with-fresh-spring-pea-puree_pinrecipes_image_1.webp",
