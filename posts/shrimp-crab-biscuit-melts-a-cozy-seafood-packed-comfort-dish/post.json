@@ -259,7 +259,7 @@
     "slug": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish",
     "uniqueSlug": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish",
     "id": "post_1774532581_236",
-    "isOnline": false,
+    "isOnline": true,
     "total_time": 45,
     "structured_content": [],
     "images": [
@@ -291,6 +291,41 @@
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_4.webp",
             "order": 4,
             "type": "template"
+        },
+        {
+            "fileName": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_1.webp",
+            "filePath": "posts/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_1.webp",
+            "relativePath": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_2.webp",
+            "filePath": "posts/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_2.webp",
+            "relativePath": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_3.webp",
+            "filePath": "posts/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_3.webp",
+            "relativePath": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_4.webp",
+            "filePath": "posts/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_4.webp",
+            "relativePath": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_5.webp",
+            "filePath": "posts/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_5.webp",
+            "relativePath": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images/shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_pinrecipes_image_5.webp",
+            "type": "template"
         }
     ],
     "image": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish_image_1.webp",
@@ -298,8 +333,8 @@
     "image_dir": "shrimp-crab-biscuit-melts-a-cozy-seafood-packed-comfort-dish/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-26T14:43:01+01:00",
-    "updatedAt": "2026-03-26T14:43:01+01:00",
+    "createdAt": "2026-03-29T01:15:12+01:00",
+    "updatedAt": "2026-03-29T01:15:12+01:00",
     "pin_variations": [
         {
             "title": "Delicious Shrimp & Crab Biscuit Melts for Ultimate Comfort",
