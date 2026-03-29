@@ -260,7 +260,7 @@
     "id": "post_1774788586_622",
     "slug": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights",
     "uniqueSlug": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights",
-    "isOnline": false,
+    "isOnline": true,
     "images": [
         {
             "fileName": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_1.webp",
@@ -285,6 +285,41 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_4.webp",
+            "filePath": "posts/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_4.webp",
+            "relativePath": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_5.webp",
+            "filePath": "posts/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_5.webp",
+            "relativePath": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_6.webp",
+            "filePath": "posts/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_6.webp",
+            "relativePath": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_7.webp",
+            "filePath": "posts/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_7.webp",
+            "relativePath": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_8.webp",
+            "filePath": "posts/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_8.webp",
+            "relativePath": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images/cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_8.webp",
+            "type": "template"
         }
     ],
     "image": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights_pinrecipes_image_1.webp",
@@ -292,6 +327,6 @@
     "image_dir": "cozy-creamy-asparagus-soup-with-garlic-and-parmesan-for-chilly-nights/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-29T14:49:46+02:00",
-    "updatedAt": "2026-03-29T14:49:46+02:00"
+    "createdAt": "2026-03-29T17:10:42+02:00",
+    "updatedAt": "2026-03-29T17:10:42+02:00"
 }
