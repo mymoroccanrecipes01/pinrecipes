@@ -1,23 +1,14 @@
 {
-    "date": "2026-03-29T15:26:58+02:00",
+    "date": "2026-03-29T15:42:34+02:00",
     "filename": "pinterest_daily_2026-03-29.csv",
     "articles": [
         {
-            "slug": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/post.json",
+            "slug": "easy-30-minute-spring-vegetable-stir-fry-for-dinner",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-30-minute-spring-vegetable-stir-fry-for-dinner/post.json",
             "original": {
-                "createdAt": "2026-03-28T05:55:00+01:00",
+                "createdAt": "2026-03-28T05:57:57+01:00",
                 "CreateAt": null,
-                "updatedAt": "2026-03-28T05:55:00+01:00"
-            }
-        },
-        {
-            "slug": "fresh-spring-pea-and-mint-soup-thats-ready-in-30-minutes",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/fresh-spring-pea-and-mint-soup-thats-ready-in-30-minutes/post.json",
-            "original": {
-                "createdAt": "2026-03-28T05:56:27+01:00",
-                "CreateAt": null,
-                "updatedAt": "2026-03-28T05:56:27+01:00"
+                "updatedAt": "2026-03-28T05:57:57+01:00"
             }
         }
     ]
