@@ -252,7 +252,7 @@
     "id": "post_1774673317_826",
     "slug": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries",
     "uniqueSlug": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries",
-    "isOnline": false,
+    "isOnline": true,
     "images": [
         {
             "fileName": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_1.webp",
@@ -277,6 +277,41 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_1.webp",
+            "filePath": "posts/fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_1.webp",
+            "relativePath": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_2.webp",
+            "filePath": "posts/fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_2.webp",
+            "relativePath": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_3.webp",
+            "filePath": "posts/fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_3.webp",
+            "relativePath": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_4.webp",
+            "filePath": "posts/fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_4.webp",
+            "relativePath": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_5.webp",
+            "filePath": "posts/fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_5.webp",
+            "relativePath": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images/fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_5.webp",
+            "type": "template"
         }
     ],
     "image": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries_pinrecipes_image_1.webp",
@@ -284,6 +319,6 @@
     "image_dir": "fresh-and-healthy-spring-green-smoothie-bowl-with-berries/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-28T05:48:37+01:00",
-    "updatedAt": "2026-03-28T05:48:37+01:00"
+    "createdAt": "2026-03-29T14:56:25+02:00",
+    "updatedAt": "2026-03-29T14:56:25+02:00"
 }

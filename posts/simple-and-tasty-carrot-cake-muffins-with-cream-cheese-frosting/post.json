@@ -265,7 +265,7 @@
     "id": "post_1774673416_718",
     "slug": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting",
     "uniqueSlug": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting",
-    "isOnline": false,
+    "isOnline": true,
     "images": [
         {
             "fileName": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_1.webp",
@@ -290,6 +290,41 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_1.webp",
+            "filePath": "posts/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_1.webp",
+            "relativePath": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_2.webp",
+            "filePath": "posts/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_2.webp",
+            "relativePath": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_3.webp",
+            "filePath": "posts/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_3.webp",
+            "relativePath": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_4.webp",
+            "filePath": "posts/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_4.webp",
+            "relativePath": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_5.webp",
+            "filePath": "posts/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_5.webp",
+            "relativePath": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images/simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_5.webp",
+            "type": "template"
         }
     ],
     "image": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting_pinrecipes_image_1.webp",
@@ -297,6 +332,6 @@
     "image_dir": "simple-and-tasty-carrot-cake-muffins-with-cream-cheese-frosting/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-28T05:50:16+01:00",
-    "updatedAt": "2026-03-28T05:50:16+01:00"
+    "createdAt": "2026-03-29T14:56:25+02:00",
+    "updatedAt": "2026-03-29T14:56:25+02:00"
 }
