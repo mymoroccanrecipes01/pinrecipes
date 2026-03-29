@@ -260,7 +260,7 @@
     "id": "post_1774788677_265",
     "slug": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies",
     "uniqueSlug": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies",
-    "isOnline": false,
+    "isOnline": true,
     "images": [
         {
             "fileName": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_1.webp",
@@ -285,6 +285,41 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_4.webp",
+            "filePath": "posts/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_4.webp",
+            "relativePath": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_5.webp",
+            "filePath": "posts/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_5.webp",
+            "relativePath": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_6.webp",
+            "filePath": "posts/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_6.webp",
+            "relativePath": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_7.webp",
+            "filePath": "posts/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_7.webp",
+            "relativePath": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_8.webp",
+            "filePath": "posts/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_8.webp",
+            "relativePath": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images/fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_8.webp",
+            "type": "template"
         }
     ],
     "image": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies_pinrecipes_image_1.webp",
@@ -292,6 +327,6 @@
     "image_dir": "fast-and-flavorful-vegan-chickpea-curry-with-spring-veggies/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-29T14:51:17+02:00",
-    "updatedAt": "2026-03-29T14:51:17+02:00"
+    "createdAt": "2026-03-29T17:28:14+02:00",
+    "updatedAt": "2026-03-29T17:28:14+02:00"
 }
