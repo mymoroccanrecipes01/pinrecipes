@@ -254,7 +254,7 @@
     "id": "post_1774673700_863",
     "slug": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese",
     "uniqueSlug": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese",
-    "isOnline": false,
+    "isOnline": true,
     "images": [
         {
             "fileName": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_1.webp",
@@ -279,6 +279,41 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_1.webp",
+            "filePath": "posts/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_1.webp",
+            "relativePath": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_1.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_2.webp",
+            "filePath": "posts/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_2.webp",
+            "relativePath": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_2.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_3.webp",
+            "filePath": "posts/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_3.webp",
+            "relativePath": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_3.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_4.webp",
+            "filePath": "posts/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_4.webp",
+            "relativePath": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_5.webp",
+            "filePath": "posts/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_5.webp",
+            "relativePath": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images/warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_5.webp",
+            "type": "template"
         }
     ],
     "image": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese_pinrecipes_image_1.webp",
@@ -286,6 +321,6 @@
     "image_dir": "warm-and-cozy-creamy-mushroom-risotto-with-parmesan-cheese/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-28T05:55:00+01:00",
-    "updatedAt": "2026-03-28T05:55:00+01:00"
+    "createdAt": "2026-03-29T15:26:58+02:00",
+    "updatedAt": "2026-03-29T15:26:58+02:00"
 }
