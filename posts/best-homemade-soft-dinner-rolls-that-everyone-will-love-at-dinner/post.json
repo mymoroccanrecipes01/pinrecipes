@@ -269,7 +269,7 @@
     "id": "post_1774885955_177",
     "slug": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner",
     "uniqueSlug": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner",
-    "isOnline": false,
+    "isOnline": true,
     "images": [
         {
             "fileName": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_1.webp",
@@ -294,6 +294,50 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_4.webp",
+            "filePath": "posts/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_4.webp",
+            "relativePath": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_5.webp",
+            "filePath": "posts/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_5.webp",
+            "relativePath": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_6.webp",
+            "filePath": "posts/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_6.webp",
+            "relativePath": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_7.webp",
+            "filePath": "posts/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_7.webp",
+            "relativePath": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_8.webp",
+            "filePath": "posts/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_8.webp",
+            "relativePath": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_9.webp",
+            "filePath": "posts/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_9.webp",
+            "relativePath": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images/best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
         }
     ],
     "image": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner_pinrecipes_image_1.webp",
@@ -301,6 +345,6 @@
     "image_dir": "best-homemade-soft-dinner-rolls-that-everyone-will-love-at-dinner/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-03-30T17:52:35+02:00",
-    "updatedAt": "2026-03-30T17:52:35+02:00"
+    "createdAt": "2026-03-30T17:58:16+02:00",
+    "updatedAt": "2026-03-30T17:58:16+02:00"
 }
