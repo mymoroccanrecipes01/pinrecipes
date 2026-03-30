@@ -1,32 +1,14 @@
 {
-    "date": "2026-03-30T18:33:43+02:00",
+    "date": "2026-03-30T18:56:08+02:00",
     "filename": "pinterest_daily_2026-03-30.csv",
     "articles": [
         {
-            "slug": "fast-and-creamy-mushroom-and-spinach-pasta-for-a-cozy-dinner",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/fast-and-creamy-mushroom-and-spinach-pasta-for-a-cozy-dinner/post.json",
+            "slug": "simple-homemade-strawberry-rhubarb-jam-that-tastes-like-spring-in-a-jar",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/simple-homemade-strawberry-rhubarb-jam-that-tastes-like-spring-in-a-jar/post.json",
             "original": {
-                "createdAt": "2026-03-30T17:56:32+02:00",
+                "createdAt": "2026-03-30T18:54:51+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-03-30T17:56:32+02:00"
-            }
-        },
-        {
-            "slug": "creamy-avocado-and-spinach-pasta-with-fresh-spring-peas-that-youll-love",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/creamy-avocado-and-spinach-pasta-with-fresh-spring-peas-that-youll-love/post.json",
-            "original": {
-                "createdAt": "2026-03-30T18:31:15+02:00",
-                "CreateAt": null,
-                "updatedAt": "2026-03-30T18:31:15+02:00"
-            }
-        },
-        {
-            "slug": "cozy-one-pot-chicken-and-spring-vegetable-stew-that-warms-you-up-fast",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/cozy-one-pot-chicken-and-spring-vegetable-stew-that-warms-you-up-fast/post.json",
-            "original": {
-                "createdAt": "2026-03-30T18:33:24+02:00",
-                "CreateAt": null,
-                "updatedAt": "2026-03-30T18:33:24+02:00"
+                "updatedAt": "2026-03-30T18:54:51+02:00"
             }
         }
     ]
