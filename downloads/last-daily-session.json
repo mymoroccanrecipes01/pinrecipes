@@ -1,14 +1,32 @@
 {
-    "date": "2026-03-30T20:03:00+02:00",
-    "filename": "pinterest_daily_2026-03-30.csv",
+    "date": "2026-03-31T02:27:47+02:00",
+    "filename": "pinterest_daily_2026-03-31.csv",
     "articles": [
         {
-            "slug": "easy-vegan-spring-vegetable-buddha-bowl-with-fresh-herbs-and-tahini-dressing",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-vegan-spring-vegetable-buddha-bowl-with-fresh-herbs-and-tahini-dressing/post.json",
+            "slug": "cozy-creamy-tomato-basil-soup-with-fresh-herbs-for-chilly-days",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/cozy-creamy-tomato-basil-soup-with-fresh-herbs-for-chilly-days/post.json",
             "original": {
-                "createdAt": "2026-03-30T20:02:00+02:00",
+                "createdAt": "2026-03-31T02:22:41+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-03-30T20:02:00+02:00"
+                "updatedAt": "2026-03-31T02:22:41+02:00"
+            }
+        },
+        {
+            "slug": "easy-lemon-herb-chicken-with-roasted-asparagus-for-quick-dinners",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-lemon-herb-chicken-with-roasted-asparagus-for-quick-dinners/post.json",
+            "original": {
+                "createdAt": "2026-03-31T02:24:52+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-03-31T02:24:52+02:00"
+            }
+        },
+        {
+            "slug": "easy-one-pan-baked-salmon-with-fresh-spring-pea-puree",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-one-pan-baked-salmon-with-fresh-spring-pea-puree/post.json",
+            "original": {
+                "createdAt": "2026-03-31T02:26:59+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-03-31T02:26:59+02:00"
             }
         }
     ]
