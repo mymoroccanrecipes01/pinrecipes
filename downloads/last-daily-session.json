@@ -1,23 +1,50 @@
 {
-    "date": "2026-03-31T02:46:13+02:00",
+    "date": "2026-03-31T12:40:43+02:00",
     "filename": "pinterest_daily_2026-03-31.csv",
     "articles": [
         {
-            "slug": "creamy-lemon-asparagus-risotto-that-feels-like-spring-in-a-bowl",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/creamy-lemon-asparagus-risotto-that-feels-like-spring-in-a-bowl/post.json",
+            "slug": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/post.json",
             "original": {
-                "createdAt": "2026-03-31T02:42:08+02:00",
+                "createdAt": "2026-03-31T12:19:09+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-03-31T02:42:08+02:00"
+                "updatedAt": "2026-03-31T12:19:09+02:00"
             }
         },
         {
-            "slug": "easy-creamy-garlic-butter-shrimp-with-spring-veggies-that-everyone-will-love",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-creamy-garlic-butter-shrimp-with-spring-veggies-that-everyone-will-love/post.json",
+            "slug": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/post.json",
             "original": {
-                "createdAt": "2026-03-31T02:43:53+02:00",
+                "createdAt": "2026-03-31T12:21:18+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-03-31T02:43:53+02:00"
+                "updatedAt": "2026-03-31T12:21:18+02:00"
+            }
+        },
+        {
+            "slug": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/post.json",
+            "original": {
+                "createdAt": "2026-03-31T12:23:08+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-03-31T12:23:08+02:00"
+            }
+        },
+        {
+            "slug": "bright-and-fresh-spring-detox-green-smoothie-for-a-healthy-boost",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/bright-and-fresh-spring-detox-green-smoothie-for-a-healthy-boost/post.json",
+            "original": {
+                "createdAt": "2026-03-31T12:25:14+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-03-31T12:25:14+02:00"
+            }
+        },
+        {
+            "slug": "easy-lemon-herb-roasted-chicken-thats-juicy-and-flavorful-every-time",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-lemon-herb-roasted-chicken-thats-juicy-and-flavorful-every-time/post.json",
+            "original": {
+                "createdAt": "2026-03-31T12:27:19+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-03-31T12:27:19+02:00"
             }
         }
     ]

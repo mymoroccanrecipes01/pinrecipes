@@ -1,0 +1,307 @@
+{
+    "title": "Fresh Spring Asparagus and Pea Salad with Lemon Vinaigrette",
+    "promptIMG": "Food photography: Spring Asparagus and Pea Salad, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "Bright and crisp, this asparagus and pea salad is a springtime delight. The lemon vinaigrette adds a fresh zing, making it perfect for light lunches or as a side on warm days.",
+    "hashtags": "#springrecipes #vegetablesalad #healthymeals",
+    "board_name": "Healthy Light Meals",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Lunch with This Spring Asparagus and Pea Salad",
+            "description": "Looking for a fresh, healthy salad? This asparagus and pea combo tossed in lemon vinaigrette is quick and delicious. Save this recipe and enjoy a burst of spring flavors today! 🥗🍋 #springrecipes #healthyeating #saladideas"
+        },
+        {
+            "title": "Easy Spring Salad with Asparagus and Peas You’ll Love",
+            "description": "Try this simple asparagus and pea salad for a refreshing and nutritious meal. Perfect for busy days when you want something light but satisfying. Discover the recipe now! 🌿💚 #quickrecipes #vegetarian #freshsalad"
+        },
+        {
+            "title": "Fresh and Zesty Asparagus and Pea Salad for Warm Days",
+            "description": "This salad is packed with fresh veggies and a lemony kick that’s just right for spring. It’s easy to make and perfect as a side or light lunch. Try it today and feel refreshed! 🍋🥒 #springfood #healthyrecipes #veggies"
+        },
+        {
+            "title": "Springtime Favorite: Asparagus and Pea Salad with Lemon Dressing",
+            "description": "Bring spring to your plate with this vibrant asparagus and pea salad. The tangy lemon dressing makes it irresistible. Save this recipe for your next meal and enjoy! 🌱🍽️ #saladrecipe #lightmeals #freshfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 10,
+    "servings": 4,
+    "ingredients": [
+        "1 bunch fresh asparagus, trimmed and cut into 2-inch pieces",
+        "1 cup fresh or frozen peas, thawed",
+        "1/4 cup red onion, thinly sliced",
+        "2 tablespoons fresh lemon juice",
+        "3 tablespoons extra virgin olive oil",
+        "1 teaspoon honey or maple syrup",
+        "Salt and freshly ground black pepper, to taste",
+        "1/4 cup fresh mint leaves, chopped (optional)",
+        "1/4 cup toasted almonds or pine nuts (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this asparagus and pea salad during an early spring farmers market visit when the veggies were just starting to pop up. I wanted something light but satisfying that really showcased those fresh, green flavors. This version is my go-to because it’s quick, vibrant, and uses a simple lemon vinaigrette that really brightens everything up. What sets this salad apart is the way I lightly blanch the asparagus — just enough to keep a little crunch but soften the edges, which makes the texture perfect. Plus, the peas add a sweet pop that balances the tangy dressing. I love serving this as a fresh side for weekend lunches or even as a light dinner on warmer days. It’s one of those recipes that feels fancy but is so easy to pull together, and my family always asks for seconds. If you’re looking for a spring salad that’s fresh, healthy, and full of bright flavors, this one’s definitely worth trying.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Bring a large pot of salted water to a boil. Add the asparagus pieces and blanch them for about 2-3 minutes until they turn bright green but still have a slight crunch. Blanching softens the asparagus just enough to be tender but keeps its vibrant color and texture. Be careful not to overcook, or they’ll become mushy and lose that fresh snap. Once blanched, immediately transfer the asparagus to an ice water bath to stop the cooking process and keep that crispness intact.",
+            "timing": 10,
+            "doneness_cue": "Asparagus is bright green and tender-crisp, not limp or dull in color."
+        },
+        {
+            "step": 2,
+            "instruction": "While the asparagus cools, prepare the lemon vinaigrette. In a small bowl, whisk together the fresh lemon juice, olive oil, honey (or maple syrup), and a pinch of salt and pepper. The honey balances the acidity of the lemon, creating a smooth, tangy dressing that ties the salad together. Whisking thoroughly emulsifies the dressing, ensuring it coats the veggies evenly. If you skip the honey, the dressing might be too sharp, so it’s a nice touch to round out the flavors.",
+            "timing": 5,
+            "doneness_cue": "Dressing is smooth, slightly thickened, and well combined with no separation."
+        },
+        {
+            "step": 3,
+            "instruction": "Drain the peas if using frozen and rinse under cold water to thaw quickly. This helps keep them bright and fresh without cooking them further. Using fresh peas is great too, just shell them beforehand. The peas add natural sweetness and a pop of color that complements the asparagus perfectly.",
+            "timing": 5,
+            "doneness_cue": "Peas are bright green and tender but not mushy."
+        },
+        {
+            "step": 4,
+            "instruction": "In a large mixing bowl, combine the blanched asparagus, peas, and thinly sliced red onion. Toss gently to mix the ingredients without bruising the delicate veggies. The onion adds a mild sharpness and crunch that balances the salad’s sweetness and acidity.",
+            "timing": 3,
+            "doneness_cue": "Ingredients are evenly mixed and vibrant in color."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the lemon vinaigrette over the salad and toss everything together until the veggies are evenly coated. The dressing should lightly cling to each piece, enhancing the natural flavors without overwhelming them. Tossing gently ensures the salad stays fresh and crisp.",
+            "timing": 2,
+            "doneness_cue": "Salad glistens with dressing but isn’t soggy or wet."
+        },
+        {
+            "step": 6,
+            "instruction": "Chop the fresh mint leaves and sprinkle them over the salad if using. Mint adds a refreshing herbal note that brightens the dish further. If you don’t have mint, fresh basil or parsley could work as a substitute, but mint is my favorite for this salad.",
+            "timing": 2,
+            "doneness_cue": "Herbs look fresh and add a pop of green without wilting."
+        },
+        {
+            "step": 7,
+            "instruction": "Toast the almonds or pine nuts in a dry skillet over medium heat until golden and fragrant, about 3-5 minutes. Stir frequently to prevent burning. Nuts add a lovely crunch and nutty flavor that contrasts with the tender veggies. Let them cool before sprinkling on the salad.",
+            "timing": 7,
+            "doneness_cue": "Nuts are golden brown with a fragrant aroma."
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle the toasted nuts over the salad just before serving. This final touch adds texture and a subtle richness that elevates the salad from simple to special. Serve immediately for the best crunch and freshness.",
+            "timing": 1,
+            "doneness_cue": "Nuts are evenly distributed and salad looks vibrant."
+        },
+        {
+            "step": 9,
+            "instruction": "Taste the salad and adjust seasoning if needed with extra salt, pepper, or lemon juice. This final tweak ensures every bite is perfectly balanced. Remember, fresh salads can always benefit from a little extra acidity or seasoning right before serving.",
+            "timing": 2,
+            "doneness_cue": "Salad tastes bright, balanced, and flavorful."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Spring Salad Comes Together So Well",
+        "content": "<p>This asparagus and pea salad works beautifully because it balances freshness, texture, and flavor in a way that feels light but satisfying. The blanching step is key—it softens the asparagus just enough to remove any raw bitterness while maintaining a pleasant snap. This technique also locks in the bright green color, which is very inviting visually. The quick ice bath after blanching halts cooking immediately, preventing sogginess and preserving crispness.</p><p>The lemon vinaigrette is another star here. Lemon juice provides acidity that brightens the dish and cuts through the natural sweetness of the peas and the slight earthiness of asparagus. Adding a touch of honey smooths out the acidity, creating a more balanced dressing that clings well to the veggies thanks to the emulsification when whisked properly. This ensures every bite has a bit of zing without being overpowering.</p><p>Fresh peas contribute a natural sweetness and tender pop that contrasts nicely with the asparagus. Using fresh or properly thawed frozen peas is important to keep that texture intact. The red onion adds a mild sharpness and crunch, which complements the other textures. Toasted nuts bring a crunchy, nutty element that rounds out the salad, making it more complex and satisfying. Finally, fresh herbs like mint add a refreshing aromatic note that lifts the entire dish.</p><p>Altogether, these elements create a salad that’s visually appealing, texturally interesting, and bursting with bright, fresh flavors — perfect for spring or any time you want a light, healthy meal.</p>",
+        "ingredient_notes": {
+            "asparagus": "Look for firm, bright green asparagus stalks with tightly closed tips. Thinner stalks are more tender and cook faster, making them ideal for blanching. Avoid woody or limp stalks as they can be tough and fibrous, affecting the salad's texture. Fresh asparagus should snap easily when bent. When prepping, trim the woody ends to ensure tenderness throughout.",
+            "peas": "Fresh peas offer a sweet, crisp bite that frozen peas can sometimes lack if overcooked. If using frozen, thaw them gently by rinsing under cold water to maintain their texture and color. Avoid cooking them further to prevent mushiness. Peas add natural sweetness and a bright green pop that complements the asparagus perfectly in this salad.",
+            "lemon juice": "Freshly squeezed lemon juice provides bright acidity essential for the vinaigrette. Bottled lemon juice lacks the fresh, vibrant flavor and can taste dull or bitter. The acidity balances the sweetness of the peas and honey, while also helping to preserve the color and freshness of the veggies. Use just enough to brighten without overpowering.",
+            "olive oil": "Extra virgin olive oil is preferred for its fruity, grassy flavor that complements the lemon juice and vegetables. Using a good quality oil ensures the dressing is smooth and flavorful. Avoid overly strong or rancid oils, as they can ruin the delicate balance. Olive oil also helps emulsify the dressing, coating the salad ingredients evenly.",
+            "nuts": "Toasted almonds or pine nuts add crunch and a toasty, nutty flavor that contrasts with the tender veggies. Toasting them in a dry pan releases their natural oils and aroma, enhancing the salad’s complexity. Use fresh nuts and toast them just until golden to avoid bitterness. Nuts also add a satisfying texture that makes the salad feel more substantial."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t skip the ice bath after blanching asparagus.",
+            "reason": "The ice bath immediately stops the cooking process, preserving the bright green color and crisp texture. Without it, asparagus continues cooking in residual heat and becomes mushy and dull, which diminishes the fresh appeal of the salad."
+        },
+        {
+            "tip": "Whisk the vinaigrette vigorously to emulsify.",
+            "reason": "Proper emulsification blends the lemon juice and olive oil into a smooth, cohesive dressing that clings to the vegetables evenly. If you don’t whisk enough, the dressing separates and won’t coat the salad properly, leading to uneven flavor."
+        },
+        {
+            "tip": "Use fresh lemon juice, not bottled.",
+            "reason": "Fresh lemon juice has a bright, vibrant acidity that bottled juice often lacks due to preservatives and processing. This freshness is key to balancing the flavors and keeping the salad tasting lively and natural."
+        },
+        {
+            "tip": "Toast nuts right before serving.",
+            "reason": "Toasting nuts releases their natural oils and enhances flavor and crunch. Doing it right before serving ensures they stay crisp and aromatic. Pre-toasted nuts can lose their crunch and become stale, which affects texture."
+        },
+        {
+            "tip": "Slice the onion very thinly.",
+            "reason": "Thin slices of onion provide a mild crunch and just a hint of sharpness without overpowering the salad. Thick slices can be too pungent and tough, throwing off the balance of flavors and textures."
+        },
+        {
+            "tip": "Add herbs like mint for freshness.",
+            "reason": "Fresh herbs add an aromatic layer that brightens the salad and complements the lemon vinaigrette. Mint is especially refreshing in spring salads, but basil or parsley can work too, adding complexity without heaviness."
+        },
+        {
+            "tip": "Taste and adjust seasoning last.",
+            "reason": "Salads often need a final seasoning tweak after dressing. The acid and oil can mellow flavors, so a little extra salt, pepper, or lemon juice at the end ensures the salad is perfectly balanced and flavorful."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the asparagus during blanching",
+            "why_it_happens": "Many cooks leave asparagus in boiling water too long, thinking it needs to be very soft. This results in mushy, dull-colored asparagus that ruins the salad’s texture.",
+            "fix": "Blanch asparagus for just 2-3 minutes until bright green and tender-crisp, then immediately transfer to an ice bath. This stops cooking and preserves texture and color."
+        },
+        {
+            "mistake": "Using bottled lemon juice instead of fresh",
+            "why_it_happens": "Bottled lemon juice is convenient and often used by default, but it lacks fresh acidity and brightness.",
+            "fix": "Always use freshly squeezed lemon juice for the vinaigrette to get the bright, natural flavor that balances the salad perfectly."
+        },
+        {
+            "mistake": "Skipping the ice bath after blanching",
+            "why_it_happens": "Some skip the ice bath to save time, not realizing the asparagus keeps cooking in hot water, leading to sogginess.",
+            "fix": "Prepare an ice bath ahead and plunge asparagus in right after blanching to halt cooking immediately."
+        },
+        {
+            "mistake": "Not toasting nuts or using stale nuts",
+            "why_it_happens": "People sometimes add raw nuts or use nuts stored too long, missing out on flavor and crunch.",
+            "fix": "Toast nuts in a dry skillet until golden just before serving to maximize aroma and texture."
+        },
+        {
+            "mistake": "Overdressing the salad",
+            "why_it_happens": "Pouring too much vinaigrette can make the salad soggy and overpower the fresh flavors.",
+            "fix": "Add dressing gradually, tossing gently, until veggies are lightly coated but not drenched."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Feta Cheese for Creaminess",
+            "description": "Crumbled feta adds a salty, creamy contrast to the crisp veggies and bright lemon dressing. It turns the salad into a more filling side or light meal with a Mediterranean twist.",
+            "technical_note": "Add feta right before serving to avoid sogginess and gently fold it in to keep texture intact."
+        },
+        {
+            "name": "Swap Peas for Edamame",
+            "description": "Using shelled edamame instead of peas gives a nuttier flavor and extra protein, making the salad heartier while keeping it fresh and green.",
+            "technical_note": "Boil or steam edamame until tender, then cool before adding to salad to maintain texture."
+        },
+        {
+            "name": "Include Roasted Cherry Tomatoes",
+            "description": "Roasting cherry tomatoes brings out sweetness and adds a juicy burst that contrasts nicely with the crunchy asparagus and peas.",
+            "technical_note": "Roast tomatoes at 400°F for 15 minutes until slightly caramelized, then cool before mixing."
+        },
+        {
+            "name": "Make it Vegan with Maple Syrup",
+            "description": "Replace honey with maple syrup in the dressing for a vegan-friendly version that still has a touch of sweetness balancing the lemon juice.",
+            "technical_note": "Maple syrup works similarly to honey in emulsification and flavor balance."
+        },
+        {
+            "name": "Add Quinoa for a Protein Boost",
+            "description": "Mix in cooked quinoa to turn this salad into a complete meal with added texture and protein. It’s great for meal prep or a filling lunch.",
+            "technical_note": "Cool quinoa completely before mixing to keep salad fresh and avoid clumping."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "15g",
+        "fat_grams": "14g",
+        "fiber_grams": "5g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This salad can be kept at room temperature for up to 2 hours if covered well. Beyond that, freshness and safety decline, especially with the fresh herbs and dressing.",
+        "refrigerator": "Store in an airtight container for up to 2 days. The salad may lose some crispness when chilled but can be refreshed by letting it sit at room temperature for 15 minutes before serving.",
+        "freezer": "Not recommended to freeze this salad as the vegetables and dressing will lose texture and freshness upon thawing.",
+        "reheating": "This salad is best served cold or at room temperature. Reheating is not advised as it will wilt the vegetables and alter the fresh flavors.",
+        "make_ahead_strategy": "You can prep the asparagus and peas a day ahead and store them separately. Make the dressing fresh and toss everything together just before serving to maintain the best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen asparagus instead of fresh?",
+            "answer": "Frozen asparagus is usually softer and can be mushy after cooking, which changes the salad’s texture. If you use frozen, thaw it gently and pat dry, then add without blanching to avoid overcooking. Fresh asparagus is recommended for the best crispness."
+        },
+        {
+            "question": "How long can I store this salad in the fridge?",
+            "answer": "Stored in an airtight container, this salad keeps well for up to 2 days. After that, the vegetables may become limp and the dressing can separate. For best texture, toss the salad fresh before serving if possible."
+        },
+        {
+            "question": "Can I make the dressing ahead of time?",
+            "answer": "Yes, you can prepare the lemon vinaigrette up to 3 days in advance and store it in the fridge. Whisk it again before using as it may separate. Freshly made dressing tastes best, but advance prep saves time."
+        },
+        {
+            "question": "What can I substitute for mint if I don’t have any?",
+            "answer": "Fresh basil or parsley are good substitutes that add a fresh herbal note. They won’t have the same cooling effect as mint but will still brighten the salad nicely."
+        },
+        {
+            "question": "Is this salad suitable for meal prep?",
+            "answer": "Yes, if you keep the dressing separate and add it just before serving, the vegetables will stay fresher longer. Prepare the asparagus and peas in advance and store them in airtight containers."
+        },
+        {
+            "question": "Can I add protein to make this a full meal?",
+            "answer": "Absolutely! Adding cooked quinoa, grilled chicken, or chickpeas turns this salad into a satisfying main dish. Just toss with the dressing and enjoy."
+        },
+        {
+            "question": "Why does the salad sometimes taste bitter?",
+            "answer": "Overcooked asparagus or too much lemon juice can cause bitterness. Blanch asparagus briefly and balance lemon juice with a bit of honey or maple syrup to avoid sharpness."
+        },
+        {
+            "question": "Can I use other nuts besides almonds or pine nuts?",
+            "answer": "Yes, walnuts or pecans work well toasted and add a different flavor and crunch. Just toast them lightly to bring out their oils and avoid bitterness."
+        }
+    ],
+    "conclusion": "I hope you give this fresh asparagus and pea salad a try soon—it’s such a bright, easy way to celebrate spring veggies. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "spring asparagus pea salad",
+        "secondary_keywords": [
+            "fresh spring salad",
+            "healthy vegetable salad",
+            "how to make asparagus salad",
+            "best pea salad recipe",
+            "easy spring salad"
+        ],
+        "internal_links": [
+            {
+                "text": "simple lemon vinaigrette recipe",
+                "anchor": "lemon-vinaigrette"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "category_id": "cat_1761230636_499",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-03-31 12:32:46",
+        "title_seed": "Quick and Healthy Spring Asparagus and Pea Salad"
+    },
+    "author_id": "author_001",
+    "id": "post_1774953166_132",
+    "slug": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette",
+    "uniqueSlug": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette",
+    "isOnline": false,
+    "images": [
+        {
+            "fileName": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_1.webp",
+            "filePath": "posts/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_1.webp",
+            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_2.webp",
+            "filePath": "posts/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_2.webp",
+            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_3.webp",
+            "filePath": "posts/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_3.webp",
+            "relativePath": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_1.webp",
+    "image_path": "posts/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette_pinrecipes_image_1.webp",
+    "image_dir": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-31T12:32:46+02:00",
+    "updatedAt": "2026-03-31T12:32:46+02:00"
+}

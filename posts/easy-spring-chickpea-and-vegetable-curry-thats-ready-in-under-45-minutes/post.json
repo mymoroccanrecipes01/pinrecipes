@@ -1,0 +1,357 @@
+{
+    "title": "Easy Spring Chickpea and Vegetable Curry That’s Ready in Under 45 Minutes",
+    "promptIMG": "Food photography: Spring Chickpea and Vegetable Curry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vibrant chickpea and vegetable curry is a quick, wholesome meal bursting with fresh spring veggies and warming spices. The secret? Toasting the spices first for extra depth. Great for a cozy weeknight dinner!",
+    "hashtags": "#chickpeacurry #springrecipes #quickdinner",
+    "board_name": "Quick Weeknight Meals",
+    "pin_variations": [
+        {
+            "title": "Wholesome Chickpea Curry with Fresh Spring Veggies You’ll Love",
+            "description": "Looking for a quick, healthy dinner? This spring chickpea curry is packed with flavor and veggies 🌱🍅. Ready in under 45 minutes, it’s perfect for busy nights. Save this recipe and try it today! #vegetarian #easymeals #weeknightdinner"
+        },
+        {
+            "title": "How to Make a Flavorful Chickpea and Vegetable Curry Fast",
+            "description": "This curry is a game-changer for quick dinners. Toasted spices and fresh spring vegetables make it so delicious and comforting 🍛✨. Don’t miss out—discover this recipe now! #curryrecipe #plantbased #fastdinner"
+        },
+        {
+            "title": "Simple, Cozy Chickpea Curry with Spring Veggies in 45 Minutes",
+            "description": "Cozy up with this easy chickpea and vegetable curry that’s full of fresh flavors and spices 🌿🔥. It’s a perfect weeknight meal that’s both healthy and satisfying. Try it tonight! #easyrecipes #vegetariancurry #comfortfood"
+        },
+        {
+            "title": "Quick Spring Vegetable and Chickpea Curry for Busy Weeknights",
+            "description": "Need a fast, flavorful meal? This chickpea curry loaded with spring veggies is your answer 🌸🍽️. It’s simple, nutritious, and ready in no time. Save and make it soon! #quickmeals #healthyrecipes #veggiecurry"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, room temperature",
+        "1 medium onion, finely chopped",
+        "3 garlic cloves, minced",
+        "1 tablespoon fresh ginger, grated",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon chili powder",
+        "1 can (14 oz) diced tomatoes",
+        "1 can (15 oz) chickpeas, drained and rinsed",
+        "2 cups mixed spring vegetables (e.g., asparagus tips, peas, baby carrots), chopped",
+        "1/2 cup coconut milk",
+        "Salt to taste",
+        "Fresh cilantro leaves, chopped, for garnish",
+        "Juice of half a lemon"
+    ],
+    "yield": "Approximately 4 generous servings",
+    "introduction": "I stumbled upon this chickpea and vegetable curry on a hectic weeknight when I wanted something quick but still nourishing. What I love about this version is how the toasted spices really wake up the dish, giving it a depth that’s often missing in quick curries. Plus, using fresh spring vegetables like asparagus and peas adds a lovely brightness and crunch that feels so seasonal and fresh. I’ve made curries before that end up watery or bland, but toasting the cumin seeds and spices in olive oil first really makes all the difference—it releases their oils and flavors beautifully. Another trick I use is adding coconut milk at the end to balance the spices with a creamy touch without overpowering the veggies. The result is a cozy, vibrant curry that’s perfect for any night you want comfort but don’t want to spend hours cooking. It’s got just the right amount of heat, richness, and freshness, and my family always asks for seconds. Plus, it’s vegetarian and easy to customize with whatever veggies you have on hand. I usually serve it with warm naan or fluffy basmati rice, and it’s a total crowd-pleaser. If you’re new to curries or just want a reliable recipe that won’t let you down, give this one a try—you’ll love how simple yet satisfying it is!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large skillet or saucepan over medium heat. Once hot, add the cumin seeds and let them toast for about 1-2 minutes until fragrant and slightly popping. This step is crucial because it releases the essential oils in the seeds, deepening the curry’s flavor. Be careful not to burn them, as burnt spices can taste bitter. Toasting whole spices first is a traditional technique that adds complexity and warmth to the dish.",
+            "timing": "3 minutes",
+            "doneness_cue": "Cumin seeds will darken slightly and emit a nutty, aromatic scent"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the chopped onion to the skillet and sauté for 5-7 minutes until soft and translucent. Stir occasionally to prevent sticking or burning. The onions provide a sweet base that balances the spices, and cooking them until soft ensures they blend smoothly into the sauce. Rushing this step or cooking on too high heat can leave the onions raw or burnt, which affects the final flavor.",
+            "timing": "7 minutes",
+            "doneness_cue": "Onions are soft, pale golden, and fragrant"
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the minced garlic and grated ginger, cooking for another 1-2 minutes until fragrant. These aromatics add a fresh zing that complements the earthiness of the spices. Keep the heat moderate to avoid burning the garlic, which would impart bitterness.",
+            "timing": "2 minutes",
+            "doneness_cue": "Aromatic smell with no browning or burning of garlic"
+        },
+        {
+            "step": 4,
+            "instruction": "Sprinkle in the coriander powder, turmeric, and chili powder. Stir well to coat the onion mixture evenly. Cooking the ground spices briefly helps release their flavors and prevents a raw powdery taste. Stir constantly to avoid clumping or burning.",
+            "timing": "2 minutes",
+            "doneness_cue": "Spices blend into the onion mixture, and you’ll smell a warm, spicy aroma"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the diced tomatoes with their juices and stir. Let the mixture simmer gently for about 8-10 minutes, stirring occasionally. This allows the tomatoes to break down and thicken the sauce, intensifying the flavor and melding the spices. Avoid rushing this step, as undercooked tomato base can taste sharp and watery.",
+            "timing": "10 minutes",
+            "doneness_cue": "Sauce thickens and deepens in color, with reduced acidity"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the drained chickpeas and chopped spring vegetables to the sauce. Stir to combine and let cook for 8-10 minutes until the vegetables are tender but still have a bit of bite. This timing keeps the veggies vibrant and prevents them from becoming mushy, preserving texture and freshness.",
+            "timing": "10 minutes",
+            "doneness_cue": "Vegetables are tender but not falling apart; chickpeas are heated through"
+        },
+        {
+            "step": 7,
+            "instruction": "Pour in the coconut milk and stir gently to combine. Simmer for another 3-5 minutes to warm through and let the flavors meld. Coconut milk adds creaminess and softens the spices without overpowering the fresh vegetable flavors. Don’t boil vigorously here to avoid curdling the coconut milk.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce is creamy and slightly thickened, with a rich aroma"
+        },
+        {
+            "step": 8,
+            "instruction": "Season with salt to taste and squeeze in the lemon juice. The salt enhances all the flavors, while the lemon juice adds a fresh brightness that balances the richness. Taste as you go to get the seasoning just right. Adding lemon at the end preserves its fresh acidity.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced flavor with a hint of brightness from the lemon"
+        },
+        {
+            "step": 9,
+            "instruction": "Remove from heat and garnish with chopped fresh cilantro. Serve immediately with warm naan or steamed rice. The fresh cilantro adds a final herbal note and a pop of color, making the dish inviting and fresh. Enjoy your vibrant, comforting spring chickpea curry!",
+            "timing": "1 minute",
+            "doneness_cue": "Bright green cilantro on top and steaming, ready to serve"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Curry Is So Flavorful and Balanced",
+        "content": "<p>The key to this chickpea and vegetable curry’s success lies in layering flavors through proper spice toasting and careful cooking times. Toasting whole cumin seeds in hot oil releases their essential oils, which infuses the entire dish with a warm, nutty aroma that ground spices alone can’t replicate. This foundational step builds complexity right from the start.</p><p>Next, slowly cooking the onions until soft and translucent develops natural sweetness that balances the acidity of the tomatoes and the heat of the spices. Rushing this step often results in sharp, raw onion flavors that overpower the dish. The use of fresh garlic and ginger adds bright, zesty notes that complement the earthiness of the chickpeas and vegetables.</p><p>Simmering the tomatoes with spices allows the sauce to thicken and the flavors to meld, creating a rich base that carries the dish. Adding the chickpeas and spring vegetables later in the cooking process ensures the veggies remain tender yet crisp, preserving their fresh texture and nutritional value. The coconut milk added at the end creates a luscious, creamy sauce that softens the spices without masking the vibrant vegetable flavors.</p><p>Finally, finishing with lemon juice and fresh cilantro adds brightness and freshness, giving the curry a well-rounded flavor profile. Each step is designed to build layers of flavor and texture, resulting in a dish that’s comforting, vibrant, and deeply satisfying.</p>",
+        "ingredient_notes": {
+            "olive oil": "Choose a good quality extra virgin olive oil with a mild flavor to avoid overpowering the spices. Olive oil serves as the cooking fat that extracts and carries the flavors of the toasted spices and aromatics, so its quality influences the depth of the curry’s base. Avoid using oils with strong flavors like sesame or coconut oil here, as they can clash with the curry’s profile.",
+            "cumin seeds": "Whole cumin seeds are essential for toasting because they release aromatic oils that ground cumin can’t replicate. Look for fresh seeds that smell warm and earthy. Toasting them in hot oil intensifies their flavor and adds a subtle crunch, which provides a nice texture contrast in the curry. Using pre-ground cumin only is fine but won’t have the same depth.",
+            "coconut milk": "Use full-fat coconut milk from a can for the creamiest texture and richest flavor. It balances the spices with natural sweetness and creaminess, creating a smooth sauce that coats the chickpeas and vegetables. Light coconut milk or coconut milk beverages tend to be watery and won’t provide the same luscious mouthfeel or flavor depth.",
+            "spring vegetables": "Fresh, tender spring vegetables like asparagus tips, peas, and baby carrots add texture and bright flavors that make this curry feel seasonal and fresh. Choose vegetables that cook quickly to keep their snap and color. Avoid overcooking to prevent mushiness and loss of nutrients. Frozen vegetables can be used but adjust cooking times accordingly.",
+            "lemon juice": "Fresh lemon juice at the end brightens the entire dish, balancing the richness of the coconut milk and the earthiness of the chickpeas. Bottled lemon juice lacks the fresh acidity and brightness, so always opt for fresh lemons. Adding lemon juice too early can cause bitterness or curdling in the coconut milk, so it’s best added just before serving."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always toast your whole spices in oil before adding other ingredients.",
+            "reason": "Toasting spices in hot oil releases their essential oils, which dramatically enhances their flavor and aroma. Skipping this step results in a flatter, less vibrant curry. It also helps prevent the spices from tasting raw or powdery."
+        },
+        {
+            "tip": "Cook onions slowly until soft and translucent for a naturally sweet base.",
+            "reason": "Slowly cooking onions breaks down their sugars and mellows their sharpness, which balances the acidity of tomatoes and the heat of spices. Rushing this step leaves raw onion flavors that can be harsh and unpleasant."
+        },
+        {
+            "tip": "Add vegetables later in the cooking process to keep them crisp and fresh.",
+            "reason": "Spring vegetables are delicate and cook quickly. Adding them too early results in mushy, lifeless veggies that lose their vibrant color and nutritional value. Adding them later preserves texture and freshness."
+        },
+        {
+            "tip": "Use full-fat coconut milk for a creamy, rich sauce.",
+            "reason": "Full-fat coconut milk provides the right balance of creaminess and sweetness that softens spices and enriches the curry. Using light or diluted coconut milk will make the sauce thin and less flavorful."
+        },
+        {
+            "tip": "Finish with fresh lemon juice to brighten the flavors.",
+            "reason": "Lemon juice adds acidity that balances richness and rounds out the flavor profile. Adding it at the end preserves its fresh brightness without curdling the coconut milk or muting the spices."
+        },
+        {
+            "tip": "Serve immediately with warm naan or basmati rice for the best experience.",
+            "reason": "Freshly served curry has the best texture and flavor. Naan or rice helps soak up the sauce, making each bite satisfying. Leftovers can be delicious but may thicken and require reheating with a splash of water."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when cooking onions and spices.",
+            "reason": "Overcrowding traps moisture and prevents proper browning and toasting, which dulls flavor development. Cook ingredients in a wide pan or in batches for even heat distribution."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the spice toasting step",
+            "why_it_happens": "Many cooks assume adding ground spices directly is faster and just as good, but this misses the flavor boost from toasting whole spices.",
+            "fix": "Always heat whole spices in oil first until fragrant before adding other ingredients. This releases oils that deepen flavor and aroma."
+        },
+        {
+            "mistake": "Cooking onions too quickly or at too high heat",
+            "why_it_happens": "Impatience or high heat can cause onions to burn or remain raw-tasting.",
+            "fix": "Cook onions on medium or medium-low heat, stirring often until soft and translucent to develop natural sweetness."
+        },
+        {
+            "mistake": "Overcooking spring vegetables",
+            "why_it_happens": "Adding delicate veggies too early or cooking too long makes them mushy and dull in color.",
+            "fix": "Add vegetables near the end and cook just until tender but still slightly crisp."
+        },
+        {
+            "mistake": "Using light coconut milk or coconut milk beverage",
+            "why_it_happens": "Some think any coconut milk is the same, but lighter versions lack richness.",
+            "fix": "Use canned full-fat coconut milk for creamy texture and balanced flavor."
+        },
+        {
+            "mistake": "Adding lemon juice too early",
+            "why_it_happens": "Adding lemon juice during cooking can cause coconut milk to curdle and flavors to dull.",
+            "fix": "Add lemon juice at the very end, off the heat, to preserve brightness and prevent curdling."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Chickpea Curry",
+            "description": "Add extra chili powder or fresh chopped chili peppers to increase heat. You can also finish with a dash of cayenne pepper for a spicy kick. This variation is perfect if you love bold, fiery flavors.",
+            "technical_note": "Adjust cooking times for spices carefully to avoid burning when increasing chili levels."
+        },
+        {
+            "name": "Creamy Tomato Chickpea Curry",
+            "description": "Add a dollop of Greek yogurt or cream at the end for a tangy, creamy twist. This adds richness and a slight tang that balances the spices beautifully.",
+            "technical_note": "Temper the yogurt by mixing with a bit of hot sauce before adding to prevent curdling."
+        },
+        {
+            "name": "Hearty Chickpea and Potato Curry",
+            "description": "Include diced potatoes for a heartier version. Potatoes add comforting texture and soak up the curry flavors well, making the dish more filling.",
+            "technical_note": "Add potatoes earlier in the cooking process to ensure they become tender."
+        },
+        {
+            "name": "Green Veggie Chickpea Curry",
+            "description": "Use only green vegetables like spinach, peas, and green beans for a fresh, vibrant curry. This variation is lighter and packed with antioxidants.",
+            "technical_note": "Add leafy greens last to avoid overcooking and preserve color."
+        },
+        {
+            "name": "Chickpea Curry with Coconut Rice",
+            "description": "Serve the curry with coconut-infused rice for a complementary flavor pairing. The coconut rice enhances the creamy notes of the curry and makes for a tropical twist.",
+            "technical_note": "Cook rice with coconut milk instead of water for best results."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "15g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "14g",
+        "fiber_grams": "10g",
+        "sodium_mg": "520mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This curry can be safely kept at room temperature for up to 2 hours if covered. Beyond that, it’s best to refrigerate to prevent bacterial growth.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 4 days. Flavors may deepen overnight, but vegetables might soften further. Reheat gently to preserve texture.",
+        "freezer": "Freeze the curry in a sealed container for up to 3 months. To prevent freezer burn, leave some headspace and wrap the container in foil or a freezer bag. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over medium-low heat, stirring occasionally. Add a splash of water or coconut milk if it’s too thick. Avoid boiling vigorously to keep coconut milk from separating.",
+        "make_ahead_strategy": "Prepare the curry base (onions, spices, tomato sauce) a day ahead and refrigerate. Add chickpeas, vegetables, and coconut milk when ready to serve for freshest texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use dried chickpeas instead of canned?",
+            "answer": "Absolutely! If using dried chickpeas, soak them overnight and cook until tender before adding to the curry. This increases cooking time but results in a great texture. Be sure to adjust cooking steps accordingly."
+        },
+        {
+            "question": "What can I substitute for coconut milk if allergic?",
+            "answer": "You can use cashew cream or a blend of silken tofu and plant milk as a substitute. These provide creaminess without coconut flavor but may slightly alter the taste and texture."
+        },
+        {
+            "question": "How spicy is this curry? Can I make it milder?",
+            "answer": "This recipe has a mild to medium heat level. To make it milder, reduce or omit chili powder and fresh chilies. You can always add spice later with hot sauce or chili flakes."
+        },
+        {
+            "question": "Can I make this curry vegan?",
+            "answer": "Yes, this recipe is naturally vegan as it uses plant-based ingredients only. Just ensure your accompaniments like naan are vegan or serve with rice."
+        },
+        {
+            "question": "Is it okay to prepare this curry in advance?",
+            "answer": "Yes, the flavors actually develop more after resting overnight. Just keep vegetables fresh by adding the tender ones like peas and asparagus closer to serving if possible."
+        },
+        {
+            "question": "What’s the best way to store leftovers?",
+            "answer": "Store leftovers in an airtight container in the fridge for up to 4 days. Reheat gently and stir occasionally to keep the sauce smooth."
+        },
+        {
+            "question": "Can I freeze this curry?",
+            "answer": "Yes, freezing works well. Use a freezer-safe container and thaw overnight in the fridge before reheating gently on the stove."
+        },
+        {
+            "question": "What should I serve with this curry?",
+            "answer": "It pairs wonderfully with basmati rice, naan bread, or even quinoa. The starch helps soak up the delicious sauce and balances the spices."
+        }
+    ],
+    "conclusion": "Give this spring chickpea and vegetable curry a try—you’ll love how easy and flavorful it is! Don’t forget to share your results and tweaks with me.",
+    "seo": {
+        "primary_keyword": "spring chickpea vegetable curry",
+        "secondary_keywords": [
+            "easy chickpea curry",
+            "vegetable curry recipe",
+            "how to make chickpea curry",
+            "best chickpea curry recipe",
+            "quick vegetable curry"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade naan bread recipe",
+                "anchor": "homemade-naan-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230749_334",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-03-31 12:23:08",
+        "title_seed": "Fast Simple Meals: Spring Chickpea and Vegetable Curry"
+    },
+    "author_id": "author_001",
+    "id": "post_1774952588_732",
+    "slug": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes",
+    "uniqueSlug": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_1.webp",
+            "relativePath": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_2.webp",
+            "relativePath": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_3.webp",
+            "relativePath": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_4.webp",
+            "relativePath": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_5.webp",
+            "relativePath": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_6.webp",
+            "relativePath": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_7.webp",
+            "relativePath": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_8.webp",
+            "relativePath": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_9.webp",
+            "relativePath": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "image": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes_pinrecipes_image_1.webp",
+    "image_dir": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-03-31T12:40:43+02:00",
+    "updatedAt": "2026-03-31T12:40:43+02:00"
+}
