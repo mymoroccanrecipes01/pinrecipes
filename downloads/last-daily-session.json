@@ -1,50 +1,77 @@
 {
-    "date": "2026-03-31T12:40:43+02:00",
-    "filename": "pinterest_daily_2026-03-31.csv",
+    "date": "2026-04-01T14:00:00+02:00",
+    "filename": "pinterest_daily_2026-04-01.csv",
     "articles": [
         {
-            "slug": "quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light/post.json",
+            "slug": "creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time/post.json",
             "original": {
-                "createdAt": "2026-03-31T12:19:09+02:00",
+                "createdAt": "2026-03-31T12:30:41+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-03-31T12:19:09+02:00"
+                "updatedAt": "2026-03-31T12:30:41+02:00"
             }
         },
         {
-            "slug": "cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner/post.json",
+            "slug": "fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette/post.json",
             "original": {
-                "createdAt": "2026-03-31T12:21:18+02:00",
+                "createdAt": "2026-03-31T12:32:46+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-03-31T12:21:18+02:00"
+                "updatedAt": "2026-03-31T12:32:46+02:00"
             }
         },
         {
-            "slug": "easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes/post.json",
+            "slug": "cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul/post.json",
             "original": {
-                "createdAt": "2026-03-31T12:23:08+02:00",
+                "createdAt": "2026-04-01T13:37:49+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-03-31T12:23:08+02:00"
+                "updatedAt": "2026-04-01T13:37:49+02:00"
             }
         },
         {
-            "slug": "bright-and-fresh-spring-detox-green-smoothie-for-a-healthy-boost",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/bright-and-fresh-spring-detox-green-smoothie-for-a-healthy-boost/post.json",
+            "slug": "simple-homemade-rhubarb-and-strawberry-jam-for-breakfast-bliss",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/simple-homemade-rhubarb-and-strawberry-jam-for-breakfast-bliss/post.json",
             "original": {
-                "createdAt": "2026-03-31T12:25:14+02:00",
+                "createdAt": "2026-04-01T13:39:49+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-03-31T12:25:14+02:00"
+                "updatedAt": "2026-04-01T13:39:49+02:00"
             }
         },
         {
-            "slug": "easy-lemon-herb-roasted-chicken-thats-juicy-and-flavorful-every-time",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-lemon-herb-roasted-chicken-thats-juicy-and-flavorful-every-time/post.json",
+            "slug": "easy-vegan-spring-roll-bowls-with-creamy-peanut-dipping-sauce",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-vegan-spring-roll-bowls-with-creamy-peanut-dipping-sauce/post.json",
             "original": {
-                "createdAt": "2026-03-31T12:27:19+02:00",
+                "createdAt": "2026-04-01T13:41:55+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-03-31T12:27:19+02:00"
+                "updatedAt": "2026-04-01T13:41:55+02:00"
+            }
+        },
+        {
+            "slug": "easy-30-minute-creamy-lemon-herb-pasta-with-fresh-asparagus",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-30-minute-creamy-lemon-herb-pasta-with-fresh-asparagus/post.json",
+            "original": {
+                "createdAt": "2026-04-01T13:43:43+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-01T13:43:43+02:00"
+            }
+        },
+        {
+            "slug": "quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul/post.json",
+            "original": {
+                "createdAt": "2026-04-01T13:45:30+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-01T13:45:30+02:00"
+            }
+        },
+        {
+            "slug": "fresh-and-healthy-spring-detox-salad-with-creamy-avocado-citrus-dressing",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/fresh-and-healthy-spring-detox-salad-with-creamy-avocado-citrus-dressing/post.json",
+            "original": {
+                "createdAt": "2026-04-01T13:47:15+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-01T13:47:15+02:00"
             }
         }
     ]

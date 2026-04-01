@@ -913,7 +913,7 @@ createpostHTML(post) {
 
     // Arrow icon
     const arrowSvg = `<svg class="entry__arrow" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M3 8h10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
-
+    
     return `
         <div class="entry" data-category="${this.slugify(category)}" data-difficulty="${diffKey}">
             <a class="entry__img" href="${postUrl}" title="${title}">
