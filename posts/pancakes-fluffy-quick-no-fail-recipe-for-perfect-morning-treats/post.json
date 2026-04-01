@@ -1,0 +1,354 @@
+{
+    "title": "Pancakes – Fluffy, Quick, No-Fail Recipe for Perfect Morning Treats",
+    "promptIMG": "Food photography: Pancakes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These fluffy pancakes come together in no time and never fail to impress. The secret? A simple trick with buttermilk that keeps them light and tender. Great for weekend breakfasts or anytime you want a cozy treat!",
+    "hashtags": "#pancakes #breakfast #easyrecipe #fluffy",
+    "board_name": "Morning Meals",
+    "pin_variations": [
+        {
+            "title": "Fluffy Buttermilk Pancakes for a Cozy Morning",
+            "description": "Discover the secret to irresistibly fluffy pancakes with this quick, no-fail buttermilk recipe! Perfect for weekend breakfasts or anytime you crave a warm, comforting treat. #Pancakes #BreakfastRecipe #ButtermilkPancakes #EasyRecipes #FluffyPancakes"
+        },
+        {
+            "title": "Quick & Easy Pancakes: Light, Fluffy, Perfect Every Time",
+            "description": "Whip up these light and tender pancakes in minutes with a simple buttermilk trick! Ideal for lazy mornings or family brunches that impress. Say goodbye to flat pancakes forever! #BreakfastIdeas #PancakeRecipe #FluffyPancakes #Buttermilk #WeekendBrunch"
+        },
+        {
+            "title": "Perfect Fluffy Pancakes: Your New Go-To Breakfast Treat",
+            "description": "Make every morning special with these fluffy, tender pancakes that come together fast. The buttermilk secret ensures they stay light and delicious every time. Great for cozy breakfasts and weekend fun! #PancakeLove #EasyBreakfast #ButtermilkRecipe #FluffyPancakes #MorningTreats"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "1 1/2 cups all-purpose flour, sifted",
+        "3 1/2 teaspoons baking powder",
+        "1 teaspoon salt",
+        "1 tablespoon white sugar",
+        "1 1/4 cups milk, room temperature",
+        "1 egg, lightly beaten",
+        "3 tablespoons unsalted butter, melted",
+        "1 teaspoon vanilla extract (optional)"
+    ],
+    "yield": "Approximately 8 pancakes, 4 servings",
+    "introduction": "I’ve been making these pancakes for years, and honestly, they’re my go-to when I want something quick and comforting. The first time I tried a fluffy pancake recipe, I was frustrated because mine always came out flat and dense. But then I discovered the trick of using baking powder correctly and not overmixing the batter. This recipe is simple but delivers every time—light, airy, and tender pancakes with just the right golden crust. I like to melt the butter and add a touch of vanilla for a subtle richness that sets these apart. Whether it’s a rushed weekday morning or a relaxed weekend brunch, these pancakes always hit the spot. The batter comes together quickly, and cooking them is straightforward, but the real magic is in the texture—you’ll notice how soft they stay even after cooling a bit. I think you’ll love how forgiving this recipe is, perfect for both beginners and seasoned cooks. Plus, it’s easy to customize with berries or chocolate chips if you want to mix things up. These pancakes feel like a warm hug on a plate, and I’m excited for you to try them!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "In a large bowl, sift together the flour, baking powder, salt, and sugar. Sifting helps to aerate the flour and ensures the baking powder is evenly distributed, which is key for fluffy pancakes. If you skip sifting, you might end up with uneven rising and clumps in the batter. Use a whisk to combine the dry ingredients well, breaking up any lumps.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are evenly mixed with no lumps or clumps"
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, whisk together the milk, egg, melted butter, and vanilla extract until combined. The milk should be at room temperature to help the baking powder activate properly. If the milk is too cold, it can slow the rising process. The melted butter adds richness and moisture, while the egg helps bind everything together.",
+            "timing": "3 minutes",
+            "doneness_cue": "Wet ingredients are smooth and well combined without separation"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the wet ingredients into the dry ingredients and gently fold together using a spatula. Be careful not to overmix; a few lumps are okay. Overmixing develops gluten, which makes the pancakes tough instead of tender and fluffy. The batter should be thick but pourable.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter is mostly smooth with some small lumps, thick but easy to pour"
+        },
+        {
+            "step": 4,
+            "instruction": "Heat a non-stick skillet or griddle over medium heat. To test if it’s ready, sprinkle a few drops of water on the surface; if they dance and evaporate quickly, it’s hot enough. Proper heat is crucial—too hot and the pancakes burn outside while staying raw inside, too low and they won’t brown properly.",
+            "timing": "3 minutes",
+            "doneness_cue": "Skillet surface is hot but not smoking, water droplets sizzle immediately"
+        },
+        {
+            "step": 5,
+            "instruction": "Lightly grease the skillet with butter or oil using a paper towel to avoid excess. Pour about 1/4 cup of batter per pancake onto the skillet. This amount makes a good size for flipping and even cooking. Avoid crowding the pan so each pancake has space to puff up.",
+            "timing": "2 minutes",
+            "doneness_cue": "Pancakes hold shape and start to bubble on the surface"
+        },
+        {
+            "step": 6,
+            "instruction": "Cook the pancakes until bubbles form on the surface and the edges look set, about 2-3 minutes. This indicates the bottom is golden and the inside is cooking through. Don’t rush flipping too early or the pancake will tear and be undercooked inside.",
+            "timing": "3 minutes",
+            "doneness_cue": "Bubbles pop leaving holes, edges appear dry and slightly firm"
+        },
+        {
+            "step": 7,
+            "instruction": "Flip the pancakes gently using a spatula and cook the other side for another 1-2 minutes until golden brown. The second side cooks faster, so watch closely to avoid burning. The pancake should spring back slightly when pressed lightly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Second side is golden brown and pancake is springy to the touch"
+        },
+        {
+            "step": 8,
+            "instruction": "Transfer cooked pancakes to a warm plate and cover loosely with foil to keep warm. This helps retain moisture without steaming them soggy. If making multiple batches, keep the skillet at medium heat and adjust as needed to prevent burning.",
+            "timing": "1 minute",
+            "doneness_cue": "Pancakes remain fluffy and warm without becoming soggy"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve pancakes immediately with your favorite toppings like maple syrup, fresh fruit, or a dusting of powdered sugar. Fresh toppings add brightness and texture that complement the soft pancakes perfectly. Enjoy while warm for the best experience!",
+            "timing": "Immediate",
+            "doneness_cue": "Pancakes are warm, fluffy, and topped as desired"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Pancake Recipe Always Turns Out Fluffy and Tender",
+        "content": "<p>This pancake recipe succeeds because of the balance and interaction of its ingredients and techniques. The key to fluffiness lies in the baking powder, which acts as a leavening agent releasing carbon dioxide when it reacts with moisture and heat. This creates air pockets in the batter, making the pancakes rise and become light. Using the right amount is crucial; too little and the pancakes are dense, too much and they can taste bitter.</p><p>Sifting the flour and baking powder together incorporates air and ensures an even distribution, preventing uneven rising or clumps. The gentle folding of wet and dry ingredients keeps the gluten development minimal, which is why the pancakes remain tender rather than chewy. Overmixing develops gluten strands that make pancakes tough.</p><p>The temperature of the milk and the pan also plays a vital role. Room temperature milk helps activate the baking powder efficiently, while a properly heated skillet ensures the pancakes cook evenly with a golden crust. The butter adds richness and moisture, creating a tender crumb, while the egg binds the batter and adds structure. Vanilla extract, though optional, enhances flavor complexity.</p><p>Overall, this recipe balances chemical leavening, ingredient temperature, mixing technique, and cooking heat to produce pancakes that are fluffy yet tender, with a beautiful golden exterior and soft inside. These principles make it reliable and forgiving for cooks of all levels.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good-quality all-purpose flour with moderate protein content (around 10-12%). This balances structure and tenderness in pancakes. Avoid bread flour as it has too much protein, leading to tougher pancakes. Sifting flour aerates it and removes lumps, which helps the batter mix evenly and rise better.",
+            "baking powder": "Use fresh, double-acting baking powder to ensure reliable leavening. Double-acting means it reacts once when wet and again when heated, giving pancakes a good rise. Old or expired baking powder will result in flat, dense pancakes. Measure carefully—too much causes bitterness, too little means no fluff.",
+            "milk": "Room temperature milk is best because cold milk can slow the chemical reactions needed for rising. Whole milk adds richness and moisture, but you can substitute with 2% or plant-based milk if desired. Milk hydrates the dry ingredients and activates the leavening agents.",
+            "egg": "The egg provides structure and moisture, helping pancakes hold together while remaining tender. Use a fresh egg at room temperature for best mixing and fluffiness. Eggs also add flavor and richness, balancing the batter’s texture.",
+            "unsalted butter": "Melted butter adds fat that tenderizes the pancakes and enriches flavor. Use unsalted butter so you can control the salt level precisely. Adding it melted ensures even distribution throughout the batter, preventing greasy spots and helping with browning."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overmix the batter; fold ingredients gently until just combined.",
+            "reason": "Overmixing develops gluten strands in the flour, which toughens the pancakes and makes them dense rather than fluffy. A few lumps in the batter are fine and will disappear during cooking, preserving a tender texture."
+        },
+        {
+            "tip": "Let the batter rest for 5 minutes before cooking.",
+            "reason": "Resting allows the baking powder to start reacting and the gluten to relax, which helps the pancakes rise better and become more tender. Skipping this step can result in flatter pancakes."
+        },
+        {
+            "tip": "Use a non-stick skillet or well-seasoned griddle heated to medium.",
+            "reason": "Proper heat ensures pancakes cook evenly with a golden crust without burning. Too hot and the outside burns before the inside cooks; too low and pancakes won’t brown properly or rise well."
+        },
+        {
+            "tip": "Measure flour by spooning it into the cup and leveling off.",
+            "reason": "Scooping flour directly with a cup packs it down, leading to too much flour and dense pancakes. Lightly spooning and leveling ensures the right amount for tender results."
+        },
+        {
+            "tip": "Use fresh baking powder for best rise.",
+            "reason": "Baking powder loses potency over time. Old baking powder means pancakes won’t rise properly and turn out flat and dense."
+        },
+        {
+            "tip": "Add a splash of vanilla extract for extra flavor.",
+            "reason": "Vanilla enhances the natural sweetness and adds depth, making pancakes taste richer and more complex without overpowering."
+        },
+        {
+            "tip": "Grease the pan lightly with butter or oil between batches.",
+            "reason": "A light coating prevents sticking and helps pancakes brown evenly. Too much fat causes greasy pancakes; too little causes sticking and tearing."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many cooks assume the batter should be perfectly smooth and keep stirring, but this develops gluten and toughens pancakes.",
+            "fix": "Mix gently and stop as soon as the dry ingredients are moistened. A few lumps are fine. Use a spatula to fold rather than whisk."
+        },
+        {
+            "mistake": "Using cold milk straight from the fridge",
+            "why_it_happens": "It’s easy to forget to take milk out early, but cold liquids slow chemical reactions.",
+            "fix": "Bring milk to room temperature before mixing to help the baking powder activate properly and produce fluffier pancakes."
+        },
+        {
+            "mistake": "Cooking on too high heat",
+            "why_it_happens": "Eager cooks crank the heat to speed things up, but pancakes burn outside and stay raw inside.",
+            "fix": "Heat the pan to medium and adjust as needed. Test with water droplets before cooking."
+        },
+        {
+            "mistake": "Not greasing the pan properly",
+            "why_it_happens": "Skipping greasing or using too much oil can cause sticking or greasy pancakes.",
+            "fix": "Use a paper towel to spread a thin, even layer of butter or oil before each batch."
+        },
+        {
+            "mistake": "Using expired baking powder",
+            "why_it_happens": "Baking powder loses potency over time, but it’s easy to forget to check the date.",
+            "fix": "Test baking powder by adding a teaspoon to hot water; it should fizz vigorously. Replace if not."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Blueberry Pancakes",
+            "description": "Fold fresh or frozen blueberries into the batter before cooking for a fruity twist. The berries add bursts of sweetness and moisture, making the pancakes even more delightful for brunch or a special breakfast.",
+            "technical_note": "Add berries gently and avoid overmixing to prevent color bleeding and batter thinning."
+        },
+        {
+            "name": "Chocolate Chip Pancakes",
+            "description": "Sprinkle mini chocolate chips onto the batter once poured on the griddle for melty chocolate pockets. This variation is a kid favorite and perfect for a weekend treat or dessert-style breakfast.",
+            "technical_note": "Use mini chips to ensure even melting and avoid heavy batter."
+        },
+        {
+            "name": "Banana Walnut Pancakes",
+            "description": "Mash ripe bananas into the wet ingredients and fold in chopped walnuts for a hearty, nutty flavor. The bananas add natural sweetness and moisture, while walnuts provide crunch.",
+            "technical_note": "Reduce sugar slightly to balance banana sweetness; batter will be thicker."
+        },
+        {
+            "name": "Whole Wheat Pancakes",
+            "description": "Swap half or all of the all-purpose flour with whole wheat flour for a nuttier flavor and more fiber. These pancakes are heartier and more filling, great for a wholesome breakfast.",
+            "technical_note": "Whole wheat batter may need a bit more milk to reach the right consistency."
+        },
+        {
+            "name": "Vegan Pancakes",
+            "description": "Replace the egg with a flax egg (1 tbsp ground flaxseed + 3 tbsp water) and use plant-based milk and vegan butter. These pancakes stay fluffy and delicious without any animal products.",
+            "technical_note": "Let the flax egg mixture sit until gelled before mixing for best binding."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "8g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "12g",
+        "fiber_grams": "2g",
+        "sodium_mg": "540mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pancakes can be kept at room temperature for up to 2 hours covered loosely with foil or a clean towel to prevent drying out. Beyond that, they may become stale or soggy.",
+        "refrigerator": "Store pancakes in an airtight container or wrapped tightly in plastic wrap for up to 3 days. They may firm up in the fridge but reheat well in the microwave or toaster, restoring softness.",
+        "freezer": "Freeze pancakes in a single layer on a baking sheet, then transfer to a freezer bag for up to 2 months. Wrap well to prevent freezer burn. Thaw at room temperature or reheat directly from frozen.",
+        "reheating": "Reheat pancakes on a warm skillet over low heat for 1-2 minutes per side or microwave with a damp paper towel for 20-30 seconds. Adding a small pat of butter or syrup helps restore moisture and flavor.",
+        "make_ahead_strategy": "You can mix the dry ingredients and store separately for a day or two. Combine wet ingredients fresh before cooking. Alternatively, make pancakes ahead, freeze, and reheat for quick breakfasts."
+    },
+    "faq": [
+        {
+            "question": "Can I use baking soda instead of baking powder?",
+            "answer": "Baking soda requires an acid to activate, like buttermilk or yogurt. Since this recipe uses plain milk, baking powder is preferred for reliable rise. Using baking soda alone will result in flat pancakes unless you add an acid."
+        },
+        {
+            "question": "How do I make pancakes fluffier?",
+            "answer": "Make sure to use fresh baking powder, sift dry ingredients, and avoid overmixing the batter. Also, let the batter rest for a few minutes before cooking to allow leavening to start working."
+        },
+        {
+            "question": "Can I substitute milk with a non-dairy alternative?",
+            "answer": "Yes, plant-based milks like almond, soy, or oat milk work well. Just use unsweetened varieties to avoid altering the flavor too much."
+        },
+        {
+            "question": "How do I prevent pancakes from sticking to the pan?",
+            "answer": "Use a non-stick skillet or well-seasoned griddle and lightly grease it with butter or oil before cooking each batch. Avoid excess grease to prevent greasy pancakes."
+        },
+        {
+            "question": "Can I make the batter ahead and refrigerate it?",
+            "answer": "You can prepare the batter and refrigerate for up to 24 hours. The baking powder may lose some potency, so expect slightly less rise. Stir gently before cooking."
+        },
+        {
+            "question": "Why do my pancakes burn on the outside but stay raw inside?",
+            "answer": "This usually means the pan is too hot. Lower the heat to medium or medium-low so pancakes cook evenly without burning."
+        },
+        {
+            "question": "Is it okay if the batter has lumps?",
+            "answer": "Yes! Small lumps are normal and help keep the pancakes tender. Overmixing to remove lumps can develop gluten and make pancakes tough."
+        },
+        {
+            "question": "How do I keep pancakes warm if making a big batch?",
+            "answer": "Place cooked pancakes in a single layer on a baking sheet in a low oven (around 200°F) covered loosely with foil. This keeps them warm without drying or steaming."
+        }
+    ],
+    "conclusion": "I hope you enjoy making these fluffy pancakes as much as I do! Don’t forget to share your stacks and favorite toppings—I’d love to hear how they turn out.",
+    "seo": {
+        "primary_keyword": "fluffy no-fail pancakes",
+        "secondary_keywords": [
+            "easy pancake recipe",
+            "quick fluffy pancakes",
+            "how to make pancakes",
+            "best pancake recipe",
+            "no-fail breakfast pancakes"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade maple syrup recipe",
+                "anchor": "homemade-maple-syrup"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "complexity": "simple",
+        "structure_pattern": "detailed",
+        "temperature": 0.5,
+        "generated_at": "2026-04-02 01:28:39"
+    },
+    "author_id": "author_001",
+    "slug": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats",
+    "uniqueSlug": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats",
+    "id": "post_1775086172_841",
+    "isOnline": true,
+    "total_time": 25,
+    "structured_content": [],
+    "images": [
+        {
+            "fileName": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_image_1.webp",
+            "filePath": "posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_image_1.webp",
+            "relativePath": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_image_2.webp",
+            "filePath": "posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_image_2.webp",
+            "relativePath": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_image_3.webp",
+            "filePath": "posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_image_3.webp",
+            "relativePath": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_4.webp",
+            "filePath": "posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_4.webp",
+            "relativePath": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_4.webp",
+            "order": 4,
+            "type": "template"
+        },
+        {
+            "fileName": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_4.webp",
+            "filePath": "posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_4.webp",
+            "relativePath": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_5.webp",
+            "filePath": "posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_5.webp",
+            "relativePath": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_6.webp",
+            "filePath": "posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_6.webp",
+            "relativePath": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_7.webp",
+            "filePath": "posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_7.webp",
+            "relativePath": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_8.webp",
+            "filePath": "posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_8.webp",
+            "relativePath": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_9.webp",
+            "filePath": "posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_9.webp",
+            "relativePath": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "image": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_image_1.webp",
+    "image_path": "posts/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images/pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats_image_1.webp",
+    "image_dir": "pancakes-fluffy-quick-no-fail-recipe-for-perfect-morning-treats/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-04-02T01:30:02+02:00",
+    "updatedAt": "2026-04-02T01:30:02+02:00"
+}
