@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.pinrecipes.org/base.html?page=home</loc>
-    <lastmod>2026-03-30</lastmod>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://www.pinrecipes.org/base.html?page=posts</loc>
-    <lastmod>2026-03-30</lastmod>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -159,6 +159,12 @@
   <url>
     <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;bright-and-fresh-shamrock-spinach-salad-with-tangy-lemon-dressing</loc>
     <lastmod>2026-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;bright-and-fresh-spring-detox-green-smoothie-for-a-healthy-boost</loc>
+    <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,8 +403,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;cozy-creamy-mushroom-and-asparagus-soup-perfect-for-dinner</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;cozy-creamy-tomato-basil-soup-with-fresh-herbs-for-chilly-days</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;cozy-one-pot-chicken-and-spring-vegetable-stew-that-warms-you-up-fast</loc>
     <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;cozy-one-pot-creamy-chicken-and-mushroom-spring-stew-to-warm-your-soul</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -463,6 +487,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;creamy-lemon-asparagus-risotto-that-feels-like-spring-in-a-bowl</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;creamy-marry-me-chicken-for-family</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -471,6 +501,12 @@
   <url>
     <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;creamy-ranch-chicken-crockpot-easy-family-dinner</loc>
     <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;creamy-spinach-and-artichoke-dip-thats-perfect-for-any-snack-time</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -691,6 +727,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;easy-30-minute-creamy-lemon-herb-pasta-with-fresh-asparagus</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;easy-30-minute-crowd-pleasing-graduation-party-chicken-wings</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -747,6 +789,12 @@
   <url>
     <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;easy-chicken-caesar-wraps-you-can-make-in-15-minutes</loc>
     <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;easy-creamy-garlic-butter-shrimp-with-spring-veggies-that-everyone-will-love</loc>
+    <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -835,6 +883,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;easy-lemon-herb-chicken-with-roasted-asparagus-for-quick-dinners</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;easy-lemon-herb-roasted-chicken-thats-juicy-and-flavorful-every-time</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;easy-make-ahead-breakfast-ideas-for-crazy-busy-mornings-that-actually-taste-great</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -855,6 +915,12 @@
   <url>
     <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;easy-no-cook-beach-day-sandwiches-that-stay-fresh-and-delicious</loc>
     <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;easy-one-pan-baked-salmon-with-fresh-spring-pea-puree</loc>
+    <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -891,6 +957,18 @@
   <url>
     <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;easy-spring-berry-parfait-with-creamy-greek-yogurt-and-honey-drizzle</loc>
     <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;easy-spring-chickpea-and-vegetable-curry-thats-ready-in-under-45-minutes</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;easy-vegan-spring-roll-bowls-with-creamy-peanut-dipping-sauce</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1015,8 +1093,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;fresh-and-healthy-spring-detox-salad-with-creamy-avocado-citrus-dressing</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;fresh-and-light-spring-strawberry-spinach-salad-with-balsamic-glaze</loc>
     <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;fresh-spring-asparagus-and-pea-salad-with-lemon-vinaigrette</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1273,6 +1363,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;mango-flan-cake-a-tropical-twist-on-classic-custard-dessert</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;mediterranean-roasted-cabbage-steaks-with-zesty-herb-drizzle</loc>
     <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -1393,8 +1489,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;quick-25-minute-baked-cod-with-spring-vegetable-medley-thats-fresh-and-light</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;quick-25-minute-baked-salmon-with-fresh-spring-pea-puree</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;quick-and-cozy-spring-vegetable-minestrone-soup-that-warms-the-soul</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1563,6 +1671,12 @@
   <url>
     <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;simple-homemade-carrot-ginger-soup-for-cozy-evenings</loc>
     <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.pinrecipes.org/base.html?page=post-detail&amp;simple-homemade-rhubarb-and-strawberry-jam-for-breakfast-bliss</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
