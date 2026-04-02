@@ -1,42 +1,6 @@
 {
     "pending": [
         {
-            "title": "Best Creamy Vegan Coconut Curry with Spring Vegetables",
-            "added_at": "2026-03-30 18:27:07"
-        },
-        {
-            "title": "Cozy Classic Chicken and Wild Rice Soup for Spring",
-            "added_at": "2026-03-30 18:27:07"
-        },
-        {
-            "title": "Easy Spring Berry Crisp with Oat Topping and Honey",
-            "added_at": "2026-03-30 18:27:07"
-        },
-        {
-            "title": "Fast and Healthy Zucchini Noodle Salad with Lemon Dressing",
-            "added_at": "2026-03-30 18:27:07"
-        },
-        {
-            "title": "Best Simple Spring Pea and Mint Risotto in 30 Minutes",
-            "added_at": "2026-03-30 18:27:07"
-        },
-        {
-            "title": "Fast and Flavorful Spring Herb Grilled Salmon",
-            "added_at": "2026-03-29 15:39:09",
-            "retry_count": 1,
-            "last_error": "Invalid JSON: Syntax error"
-        },
-        {
-            "title": "Easy 30-Minute Vegan Stir-Fry with Tofu and Greens",
-            "added_at": "2026-03-30 17:24:06",
-            "retry_count": 1,
-            "last_error": "Invalid JSON: Syntax error"
-        },
-        {
-            "title": "Best Homemade Lemon Poppy Seed Cake for Spring",
-            "added_at": "2026-04-01 13:35:53"
-        },
-        {
             "title": "Quick and Creamy Asparagus Risotto With Parmesan",
             "added_at": "2026-04-01 13:35:53"
         },
@@ -99,6 +63,24 @@
         {
             "title": "Creamy Garlic Parmesan Chicken with Roasted Spring Vegetables",
             "added_at": "2026-04-01 15:27:43"
+        },
+        {
+            "title": "Best Creamy Vegan Coconut Curry with Spring Vegetables",
+            "added_at": "2026-03-30 18:27:07",
+            "retry_count": 1,
+            "last_error": "OpenAI API Error: HTTP 0"
+        },
+        {
+            "title": "Cozy Classic Chicken and Wild Rice Soup for Spring",
+            "added_at": "2026-03-30 18:27:07",
+            "retry_count": 1,
+            "last_error": "Invalid JSON: Syntax error"
+        },
+        {
+            "title": "Easy Spring Berry Crisp with Oat Topping and Honey",
+            "added_at": "2026-03-30 18:27:07",
+            "retry_count": 1,
+            "last_error": "Invalid JSON: Syntax error"
         }
     ],
     "processed": [
@@ -180,7 +162,12 @@
         "quick-and-cozy-spring-vegetable-minestrone-soup",
         "healthy-spring-detox-salad-with-avocado-and-citrus-dressing",
         "fast-family-friendly-honey-garlic-meatballs-with-veggies",
-        "easy-baked-lemon-dill-salmon-with-spring-vegetable-medley"
+        "easy-baked-lemon-dill-salmon-with-spring-vegetable-medley",
+        "fast-and-healthy-zucchini-noodle-salad-with-lemon-dressing",
+        "best-simple-spring-pea-and-mint-risotto-in-30-minutes",
+        "fast-and-flavorful-spring-herb-grilled-salmon",
+        "easy-30-minute-vegan-stir-fry-with-tofu-and-greens",
+        "best-homemade-lemon-poppy-seed-cake-for-spring"
     ],
     "last_generated": "2026-04-01 15:27:43"
 }
