@@ -2,7 +2,12 @@
   "permissions": {
     "allow": [
       "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); keys=[k for k in d.keys\\(\\)]; print\\(''''\\\\n''''.join\\(keys\\)\\)\")",
-      "Bash(php -r \":*)"
+      "Bash(php -r \":*)",
+      "Bash(for f:*)",
+      "Bash(do)",
+      "Bash(cp \"c:/xampp/htdocs/SitePinterset/pinrecipes/$f\" \"c:/xampp/htdocs/SitePinterset/LummyRecipes/$f\")",
+      "Bash(cp \"c:/xampp/htdocs/SitePinterset/pinrecipes/$f\" \"c:/xampp/htdocs/SitePinterset/Mollykitchendaily/$f\")",
+      "Bash(echo \"copied: $f\")"
     ]
   }
 }

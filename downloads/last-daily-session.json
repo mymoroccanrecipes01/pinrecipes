@@ -1,14 +1,59 @@
 {
-    "date": "2026-04-02T20:16:52+02:00",
-    "filename": "pinterest_daily_2026-04-02.csv",
+    "date": "2026-04-03T11:52:27+02:00",
+    "filename": "pinterest_daily_2026-04-03.csv",
     "articles": [
         {
-            "slug": "quick-and-creamy-asparagus-risotto-with-parmesan-that-feels-like-home",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/quick-and-creamy-asparagus-risotto-with-parmesan-that-feels-like-home/post.json",
+            "slug": "best-creamy-vegan-coconut-curry-with-spring-vegetables-that-wows-every-time",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/best-creamy-vegan-coconut-curry-with-spring-vegetables-that-wows-every-time/post.json",
             "original": {
-                "createdAt": "2026-04-02T20:13:48+02:00",
+                "createdAt": "2026-04-03T11:41:28+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-04-02T20:13:48+02:00"
+                "updatedAt": "2026-04-03T11:41:28+02:00"
+            }
+        },
+        {
+            "slug": "healthy-light-spring-detox-salad-with-citrus-vinaigrette-for-fresh-energy",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/healthy-light-spring-detox-salad-with-citrus-vinaigrette-for-fresh-energy/post.json",
+            "original": {
+                "createdAt": "2026-04-03T11:43:16+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-03T11:43:16+02:00"
+            }
+        },
+        {
+            "slug": "easy-vegan-spring-rolls-with-fresh-herbs-and-veggies-that-refresh-and-delight",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-vegan-spring-rolls-with-fresh-herbs-and-veggies-that-refresh-and-delight/post.json",
+            "original": {
+                "createdAt": "2026-04-03T11:44:57+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-03T11:44:57+02:00"
+            }
+        },
+        {
+            "slug": "fast-and-flavorful-baked-cod-with-spring-vegetable-medley-for-a-light-dinner",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/fast-and-flavorful-baked-cod-with-spring-vegetable-medley-for-a-light-dinner/post.json",
+            "original": {
+                "createdAt": "2026-04-03T11:46:51+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-03T11:46:51+02:00"
+            }
+        },
+        {
+            "slug": "easy-spring-berry-crisp-with-oat-topping-and-honey-a-fresh-take-on-classic-dessert",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-spring-berry-crisp-with-oat-topping-and-honey-a-fresh-take-on-classic-dessert/post.json",
+            "original": {
+                "createdAt": "2026-04-03T11:48:50+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-03T11:48:50+02:00"
+            }
+        },
+        {
+            "slug": "healthy-light-spring-pea-and-mint-soup-that-feels-like-a-breath-of-fresh-air",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/healthy-light-spring-pea-and-mint-soup-that-feels-like-a-breath-of-fresh-air/post.json",
+            "original": {
+                "createdAt": "2026-04-03T11:50:29+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-03T11:50:29+02:00"
             }
         }
     ]

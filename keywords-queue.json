@@ -1,19 +1,11 @@
 {
     "pending": [
         {
-            "title": "Healthy Light Spring Pea and Mint Soup",
-            "added_at": "2026-04-01 13:35:53"
-        },
-        {
             "title": "Cozy Creamy Cauliflower Soup for Chilly Spring Nights",
             "added_at": "2026-04-01 13:35:53"
         },
         {
             "title": "Fast Simple Meals: Lemon Herb Tilapia in 25 Minutes",
-            "added_at": "2026-04-01 13:35:53"
-        },
-        {
-            "title": "Easy Vegan Spring Rolls With Fresh Herbs and Veggies",
             "added_at": "2026-04-01 13:35:53"
         },
         {
@@ -37,10 +29,6 @@
             "added_at": "2026-04-01 13:35:53"
         },
         {
-            "title": "Healthy Light Spring Detox Salad with Citrus Vinaigrette",
-            "added_at": "2026-04-01 15:27:43"
-        },
-        {
             "title": "Fast and Easy Vegan Spring Pea and Mint Soup",
             "added_at": "2026-04-01 15:27:43"
         },
@@ -61,26 +49,10 @@
             "added_at": "2026-04-01 15:27:43"
         },
         {
-            "title": "Best Creamy Vegan Coconut Curry with Spring Vegetables",
-            "added_at": "2026-03-30 18:27:07",
-            "retry_count": 1,
-            "last_error": "OpenAI API Error: HTTP 0"
-        },
-        {
             "title": "Cozy Classic Chicken and Wild Rice Soup for Spring",
             "added_at": "2026-03-30 18:27:07",
             "retry_count": 1,
             "last_error": "Invalid JSON: Syntax error"
-        },
-        {
-            "title": "Easy Spring Berry Crisp with Oat Topping and Honey",
-            "added_at": "2026-03-30 18:27:07",
-            "retry_count": 1,
-            "last_error": "Invalid JSON: Syntax error"
-        },
-        {
-            "title": "Fast And Flavorful Baked Cod With Spring Vegetable Medley",
-            "added_at": "2026-04-02 20:11:33"
         },
         {
             "title": "Easy Vegan Spring Vegetable Soup With Fresh Herbs",
@@ -184,7 +156,13 @@
         "fast-and-flavorful-spring-herb-grilled-salmon",
         "easy-30-minute-vegan-stir-fry-with-tofu-and-greens",
         "best-homemade-lemon-poppy-seed-cake-for-spring",
-        "quick-and-creamy-asparagus-risotto-with-parmesan"
+        "quick-and-creamy-asparagus-risotto-with-parmesan",
+        "best-creamy-vegan-coconut-curry-with-spring-vegetables",
+        "healthy-light-spring-detox-salad-with-citrus-vinaigrette",
+        "easy-vegan-spring-rolls-with-fresh-herbs-and-veggies",
+        "fast-and-flavorful-baked-cod-with-spring-vegetable-medley",
+        "easy-spring-berry-crisp-with-oat-topping-and-honey",
+        "healthy-light-spring-pea-and-mint-soup"
     ],
     "last_generated": "2026-04-02 20:11:33"
 }
