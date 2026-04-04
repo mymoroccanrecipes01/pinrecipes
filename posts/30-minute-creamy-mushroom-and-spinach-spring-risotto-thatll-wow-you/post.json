@@ -1,0 +1,354 @@
+{
+    "title": "30-Minute Creamy Mushroom and Spinach Spring Risotto That'll Wow You",
+    "promptIMG": "Food photography: 30-Minute Creamy Mushroom and Spinach Spring Risotto, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This risotto is a quick, creamy delight packed with earthy mushrooms and fresh spinach. The secret? Toasting the rice first for that perfect bite. Ideal for a cozy weeknight dinner or a simple spring lunch.",
+    "hashtags": "#risotto #mushroomrecipe #spinachdish #quickdinner",
+    "board_name": "Quick Vegetarian Dinners",
+    "pin_variations": [
+        {
+            "title": "Creamy Mushroom Spinach Risotto in Just 30 Minutes!",
+            "description": "Looking for a quick, comforting meal? This creamy mushroom and spinach risotto comes together in 30 minutes and tastes like you spent hours cooking. Save this recipe and try it tonight! 🍄🥄 #risottolove #quickmeals #vegetarianrecipes"
+        },
+        {
+            "title": "Easy Spring Risotto with Mushrooms and Spinach to Try Now",
+            "description": "Brighten your dinner table with this easy spring risotto loaded with fresh spinach and mushrooms. It’s creamy, flavorful, and ready fast. Discover how simple risotto can be! 🌿🍽️ #springrecipes #easyvegetarian #mushroomrecipes"
+        },
+        {
+            "title": "How to Make Creamy Mushroom and Spinach Risotto Fast",
+            "description": "Want creamy risotto without the wait? This 30-minute mushroom and spinach risotto is your new go-to. Perfect for busy nights when you crave something cozy. Try it today and taste the magic! 🍄✨ #quickdinnerideas #comfortfood #vegetarianmeals"
+        },
+        {
+            "title": "Weeknight Winner: 30-Minute Mushroom Spinach Risotto",
+            "description": "This creamy mushroom and spinach risotto is a total weeknight winner—rich, comforting, and done in half an hour. Save this recipe and impress your family tonight! 🥄💚 #easyrecipes #vegetariancomfort #risottorecipe"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 1/2 cups Arborio rice, uncooked",
+        "4 cups vegetable broth, warm",
+        "2 tablespoons olive oil",
+        "1 small onion, finely chopped",
+        "3 cloves garlic, minced",
+        "8 ounces cremini mushrooms, sliced",
+        "4 cups fresh spinach, roughly chopped",
+        "1/2 cup dry white wine",
+        "1/2 cup grated Parmesan cheese",
+        "2 tablespoons unsalted butter",
+        "Salt and freshly ground black pepper, to taste",
+        "1 tablespoon fresh lemon juice"
+    ],
+    "yield": "Approximately 4 hearty servings",
+    "introduction": "I first made this creamy mushroom and spinach risotto on a busy weeknight when I wanted something comforting but didn’t have hours to cook. The trick I learned is to toast the Arborio rice in olive oil before slowly adding warm broth, which gives the risotto a lovely nutty depth and perfect texture. Adding fresh spinach at the end keeps the dish bright and fresh, balancing the earthiness of the mushrooms. I like to finish it with a splash of lemon juice and a generous handful of Parmesan for that creamy, tangy punch. It’s become one of my go-to spring dishes because it feels special but comes together quickly. Honestly, the first time I tried risotto, it was a disaster—too mushy and bland—but this method nails the texture every time. The finished dish is creamy and rich but not heavy, with tender mushrooms and vibrant spinach that make it feel like spring on a plate. I think you’ll love how easy it is to whip up a meal that tastes like you spent all afternoon in the kitchen.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large, heavy-bottomed skillet or saucepan over medium heat. Add the finely chopped onion and cook gently for about 5 minutes until translucent and soft but not browned. This step is crucial because sweating the onion slowly builds a sweet, aromatic base that enhances the risotto’s flavor without bitterness. Stir occasionally to prevent sticking and keep the heat moderate to avoid caramelizing the onions too quickly, which would alter the delicate flavor profile.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions should be soft, translucent, and fragrant without any browning"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic and sliced mushrooms to the pan and cook for about 7 minutes, stirring often. The mushrooms release moisture and begin to brown slightly, which adds a deep umami flavor to the dish. Cooking the mushrooms thoroughly before adding rice ensures they develop a rich taste and prevent excess water from making the risotto watery later. Watch for the mushrooms to shrink and turn golden, but avoid burning the garlic, which can become bitter.",
+            "timing": "7 minutes",
+            "doneness_cue": "Mushrooms should be browned and tender; garlic fragrant but not darkened"
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the Arborio rice, coating each grain with the oil and mushroom mixture. Toast the rice for about 2 minutes, stirring constantly. This step is key because it slightly toasts the starch on the rice, which helps the grains hold their shape and develop a nutty flavor. If you skip this, your risotto may end up mushy or bland. Keep stirring to prevent the rice from sticking or burning on the bottom.",
+            "timing": "2 minutes",
+            "doneness_cue": "Rice grains appear glossy and slightly translucent around edges"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the white wine and stir continuously until it’s mostly absorbed. The acidity in the wine balances the creaminess of the risotto and adds a subtle complexity. If you rush this step, the alcohol won’t cook off properly, leaving a harsh taste. Let the wine reduce gently, stirring to help the rice absorb the liquid evenly.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Wine is mostly absorbed; mixture looks creamy but not soupy"
+        },
+        {
+            "step": 5,
+            "instruction": "Begin adding warm vegetable broth one ladle at a time, stirring frequently. Wait until most of the liquid is absorbed before adding the next ladle. This gradual absorption is what creates the creamy texture without adding cream. Stirring releases starch from the rice, which thickens the dish naturally. Avoid adding all broth at once or skipping stirring, as this can lead to uneven cooking or a gluey texture.",
+            "timing": "20 minutes",
+            "doneness_cue": "Rice is tender but still slightly firm to the bite; texture creamy and smooth"
+        },
+        {
+            "step": 6,
+            "instruction": "When the rice is almost done, stir in the chopped fresh spinach. The residual heat will gently wilt the spinach without overcooking it, preserving its bright color and fresh flavor. Adding spinach too early can result in a dull color and mushy texture, so timing is important here.",
+            "timing": "2 minutes",
+            "doneness_cue": "Spinach is wilted but still vibrant green and tender"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the pan from heat and stir in the butter and grated Parmesan cheese until melted and fully combined. This finishing step enriches the risotto, giving it a luscious, velvety texture and a savory depth. The butter helps bind everything together, while the cheese adds saltiness and umami. Don’t skip this — it’s what makes risotto truly creamy and indulgent.",
+            "timing": "2 minutes",
+            "doneness_cue": "Risotto is glossy, creamy, and evenly coated with cheese and butter"
+        },
+        {
+            "step": 8,
+            "instruction": "Season the risotto with salt, freshly ground black pepper, and a splash of fresh lemon juice. The lemon brightens the dish and balances the richness. Taste as you go to get the seasoning just right. Remember, Parmesan is salty, so add salt gradually to avoid over-seasoning.",
+            "timing": "1 minute",
+            "doneness_cue": "Flavors are balanced with a pleasant tang and seasoning"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the risotto rest for a minute or two before serving. This short rest allows the flavors to meld and the texture to settle, making it easier to plate and enjoy. Serve immediately for the best creamy consistency, garnished with extra Parmesan or fresh herbs if desired.",
+            "timing": "2 minutes",
+            "doneness_cue": "Risotto holds shape slightly but remains creamy and smooth"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Risotto Formula Succeeds",
+        "content": "<p>Risotto’s signature creaminess comes from the gradual release of starches from the Arborio rice. Toasting the rice in oil before adding liquid coats each grain, helping it retain a firm texture while allowing the surface starch to gelatinize and create that luscious mouthfeel. This toasting step also adds a subtle nutty flavor that deepens the dish.</p><p>The slow addition of warm broth is essential. Adding liquid gradually and stirring constantly encourages the rice to absorb the broth evenly and release starch steadily, which thickens the dish naturally without needing cream. Using warm broth maintains a consistent cooking temperature, preventing the rice from cooling down and ensuring even texture.</p><p>Mushrooms add an earthy umami depth that complements the creamy risotto base, while fresh spinach contributes bright color and a fresh vegetal note that balances richness. Adding spinach late preserves its vibrant green and tender bite. Finishing with butter and Parmesan enriches the texture and adds savory complexity, while a touch of lemon juice cuts through the richness, brightening the overall flavor.</p><p>Each step is designed to build layers of flavor and texture, from the aromatic onion base to the perfectly cooked rice and fresh greens. The technique focuses on patience and gradual development, which transforms simple ingredients into a comforting, elegant meal.</p>",
+        "ingredient_notes": {
+            "Arborio rice": "Arborio rice is key for risotto because of its high starch content and short, plump grains. When cooked slowly with liquid, it releases starch that creates the creamy texture risotto is known for. Avoid using regular long-grain rice, as it won’t absorb liquid the same way and will produce a dry or mushy dish. Look for fresh rice with no clumps to ensure even cooking.",
+            "cremini mushrooms": "Cremini mushrooms add a deep, earthy flavor and meaty texture that complements the creamy risotto. They hold up well during cooking and release flavorful juices that enrich the dish. When buying, choose firm mushrooms without dark spots or wrinkles. You can substitute with button mushrooms or shiitake, but the flavor profile will differ slightly.",
+            "fresh spinach": "Fresh spinach provides a bright, fresh contrast to the rich risotto. Adding it at the end preserves its vibrant color and tender texture. Baby spinach works well too, but mature spinach may require slightly longer wilting. Avoid frozen spinach here, as it releases too much water and can dilute the risotto’s flavor and texture.",
+            "Parmesan cheese": "Parmesan is essential for adding savory umami and creamy richness. Use freshly grated Parmigiano-Reggiano for best flavor and melting quality. Pre-grated cheese often contains anti-caking agents that can affect texture. Parmesan also helps bind the risotto and enhances the final mouthfeel.",
+            "vegetable broth": "Using warm vegetable broth ensures even cooking and helps the rice absorb liquid gradually without temperature shocks. Homemade broth adds more depth, but good-quality store-bought works fine. Avoid cold broth, as it slows cooking and can result in uneven texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always use warm broth when adding to the rice.",
+            "reason": "Cold broth can shock the rice, slowing down the cooking process and causing uneven texture. Warm broth keeps the temperature steady, allowing the rice to cook evenly and release starch gradually for that creamy consistency."
+        },
+        {
+            "tip": "Toast the rice before adding any liquid.",
+            "reason": "Toasting coats the grains in oil and starts the cooking process, which enhances flavor and helps the rice hold its shape. Skipping this step can result in mushy risotto without the characteristic bite."
+        },
+        {
+            "tip": "Stir frequently but gently.",
+            "reason": "Stirring encourages starch release, creating creaminess, but vigorous stirring can break grains and cause a gluey texture. Gentle, frequent stirring strikes the right balance."
+        },
+        {
+            "tip": "Add the spinach at the very end.",
+            "reason": "Adding spinach too early causes it to overcook and lose its vibrant color and fresh flavor. Adding it last ensures it stays bright and tender."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese.",
+            "reason": "Freshly grated cheese melts better and has a richer flavor. Pre-grated cheese often contains additives that can affect texture and flavor."
+        },
+        {
+            "tip": "Don’t rush the broth additions.",
+            "reason": "Adding broth too quickly prevents the rice from absorbing liquid properly, leading to uneven cooking and a less creamy texture."
+        },
+        {
+            "tip": "Finish with a splash of lemon juice.",
+            "reason": "The acidity brightens the dish and balances the richness, making the flavors more vibrant and less heavy."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold broth instead of warm broth",
+            "why_it_happens": "Many cooks overlook warming broth to save time, not realizing it affects cooking consistency.",
+            "fix": "Always heat your broth to a gentle simmer before adding it to the rice. This keeps the cooking temperature steady and ensures even absorption and creamy texture."
+        },
+        {
+            "mistake": "Skipping the toasting of rice",
+            "why_it_happens": "It’s tempting to add liquid immediately for speed, but this misses key flavor development.",
+            "fix": "Take 2-3 minutes to toast the rice in oil or butter first. This adds nuttiness and helps the rice maintain a firm texture through cooking."
+        },
+        {
+            "mistake": "Adding all broth at once",
+            "why_it_happens": "Impatience or misunderstanding of risotto technique leads to dumping in all liquid.",
+            "fix": "Add broth gradually, one ladle at a time, stirring often. This allows the rice to slowly absorb liquid and release starch, creating creaminess."
+        },
+        {
+            "mistake": "Overcooking spinach",
+            "why_it_happens": "Adding spinach too early or cooking too long causes it to lose color and texture.",
+            "fix": "Add spinach at the very end, just before finishing the dish, and stir until wilted but still bright green."
+        },
+        {
+            "mistake": "Not seasoning properly",
+            "why_it_happens": "Relying only on cheese for salt can result in bland risotto.",
+            "fix": "Season gradually with salt and pepper throughout cooking, tasting frequently to balance flavors without over-salting."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Crispy Pancetta",
+            "description": "For a smoky, savory twist, add crispy pancetta or bacon bits at the end. Cook diced pancetta until crisp, then fold into the risotto just before serving. This adds a salty crunch and depth of flavor.",
+            "technical_note": "Make sure to drain excess fat from pancetta to avoid greasiness and add it off heat to keep texture."
+        },
+        {
+            "name": "Use Asparagus Instead of Spinach",
+            "description": "Swap out spinach for tender asparagus tips for a slightly firmer texture and fresh spring flavor. Blanch asparagus briefly before stirring into the risotto near the end of cooking.",
+            "technical_note": "Adjust timing to avoid overcooking asparagus; add it in the last 3 minutes of cooking."
+        },
+        {
+            "name": "Make it Vegan",
+            "description": "Replace butter with olive oil and use a vegan Parmesan alternative or nutritional yeast for cheesy flavor. Use vegetable broth to keep it fully plant-based.",
+            "technical_note": "Nutritional yeast adds nuttiness but won’t melt like cheese, so stir in at the end off heat."
+        },
+        {
+            "name": "Add Fresh Herbs",
+            "description": "Stir in chopped fresh herbs like thyme, parsley, or basil at the end to brighten the dish. Herbs add a fresh aroma and complexity that complements mushrooms and spinach beautifully.",
+            "technical_note": "Add herbs off heat or just before serving to preserve flavor and color."
+        },
+        {
+            "name": "Swap Mushrooms for Wild Mushrooms",
+            "description": "Use wild mushrooms like chanterelles or porcini for a more intense, earthy flavor. Sauté them carefully to avoid excess moisture diluting the risotto.",
+            "technical_note": "Wild mushrooms require gentle cooking and should be dried slightly before adding to prevent sogginess."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "15g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "12g",
+        "fiber_grams": "5g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Risotto can be safely kept at room temperature for up to 2 hours. Cover it loosely with foil or a clean towel to prevent drying out but avoid leaving it out longer to reduce food safety risks.",
+        "refrigerator": "Store leftover risotto in an airtight container in the fridge for up to 3 days. The texture will thicken and firm up when cold. Reheat gently with a splash of broth or water to loosen it before serving.",
+        "freezer": "Freeze risotto in a freezer-safe container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge and reheat slowly with added liquid to restore creaminess.",
+        "reheating": "Reheat risotto on the stovetop over low heat, stirring frequently and adding a splash of broth or water to loosen it. Avoid microwaving without liquid, as it can dry out or unevenly heat the dish.",
+        "make_ahead_strategy": "You can prepare the risotto base (onions, mushrooms, toasted rice) up to 1 day ahead and refrigerate. Finish cooking by adding broth and spinach the day of serving for freshest results."
+    },
+    "faq": [
+        {
+            "question": "Can I make this risotto without white wine?",
+            "answer": "Yes! You can skip the wine and simply add extra broth instead. The wine adds acidity and depth, but the risotto will still be delicious without it. Just make sure to maintain the gradual broth addition technique for creaminess."
+        },
+        {
+            "question": "What if I don’t have Arborio rice?",
+            "answer": "Arborio is best for risotto due to its starch content. If you can’t find it, Carnaroli or Vialone Nano rice are good substitutes. Avoid long-grain rice, which won’t give the creamy texture risotto needs."
+        },
+        {
+            "question": "How do I know when the risotto is done?",
+            "answer": "The rice should be tender with a slight bite (al dente) and the overall texture creamy but not soupy. Taste frequently near the end and look for a rich, glossy consistency that coats the spoon."
+        },
+        {
+            "question": "Can I use frozen spinach?",
+            "answer": "Frozen spinach releases a lot of water and can make the risotto watery. It’s best to use fresh spinach for texture and color. If you must use frozen, thaw and squeeze out excess moisture before adding."
+        },
+        {
+            "question": "How do I avoid mushy risotto?",
+            "answer": "Avoid adding all the broth at once and don’t overcook the rice. Stir gently and add broth gradually to allow the rice to absorb liquid properly. Toasting the rice first also helps maintain texture."
+        },
+        {
+            "question": "Can I prepare risotto ahead of time?",
+            "answer": "You can prep some ingredients ahead, but risotto is best served fresh. If you must store leftovers, cool quickly and refrigerate. Reheat gently with added broth to restore creaminess."
+        },
+        {
+            "question": "Why do I have lumps or clumps in my risotto?",
+            "answer": "Lumps usually form if you don’t stir enough or add broth too fast. Stirring releases starch evenly, preventing clumping. Also, ensure rice is evenly coated and liquid is added gradually."
+        },
+        {
+            "question": "What’s the best way to store leftover risotto?",
+            "answer": "Store in an airtight container in the fridge for up to 3 days. Reheat on the stove with a splash of broth to loosen it. Avoid leaving risotto at room temperature for long periods to prevent spoilage."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and eating this creamy mushroom and spinach risotto as much as I do. Don’t forget to share your results—I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "creamy mushroom spinach risotto",
+        "secondary_keywords": [
+            "easy mushroom risotto",
+            "spinach risotto recipe",
+            "how to make risotto",
+            "best mushroom risotto recipe",
+            "easy creamy risotto"
+        ],
+        "internal_links": [
+            {
+                "text": "how to make perfect risotto",
+                "anchor": "perfect-risotto-technique"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230749_334",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-04-04 12:46:43",
+        "title_seed": "30-Minute Creamy Mushroom and Spinach Spring Risotto"
+    },
+    "author_id": "author_001",
+    "id": "post_1775299603_301",
+    "slug": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you",
+    "uniqueSlug": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_1.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_1.webp",
+            "relativePath": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_2.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_2.webp",
+            "relativePath": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_3.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_3.webp",
+            "relativePath": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_4.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_4.webp",
+            "relativePath": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_8.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_8.webp",
+            "relativePath": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_5.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_5.webp",
+            "relativePath": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_9.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_9.webp",
+            "relativePath": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_6.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_6.webp",
+            "relativePath": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_7.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_7.webp",
+            "relativePath": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "image": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_1.webp",
+    "image_path": "posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you_pinrecipes_image_1.webp",
+    "image_dir": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-04-04T12:58:34+02:00",
+    "updatedAt": "2026-04-04T12:58:34+02:00"
+}

@@ -1,14 +1,68 @@
 {
-    "date": "2026-04-03T18:32:52+02:00",
-    "filename": "pinterest_daily_2026-04-03.csv",
+    "date": "2026-04-04T12:58:34+02:00",
+    "filename": "pinterest_daily_2026-04-04.csv",
     "articles": [
         {
-            "slug": "easy-vegan-spring-chickpea-salad-with-creamy-avocado-dressing",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-vegan-spring-chickpea-salad-with-creamy-avocado-dressing/post.json",
+            "slug": "best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/best-fast-and-simple-spring-chickpea-curry-dinner-that-tastes-like-home/post.json",
             "original": {
-                "createdAt": "2026-04-03T18:30:45+02:00",
+                "createdAt": "2026-04-04T12:44:01+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-04-03T18:30:45+02:00"
+                "updatedAt": "2026-04-04T12:44:01+02:00"
+            }
+        },
+        {
+            "slug": "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you/post.json",
+            "original": {
+                "createdAt": "2026-04-04T12:46:43+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-04T12:46:43+02:00"
+            }
+        },
+        {
+            "slug": "best-quick-lemon-herb-roasted-chicken-with-spring-veggies-for-busy-weeknights",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/best-quick-lemon-herb-roasted-chicken-with-spring-veggies-for-busy-weeknights/post.json",
+            "original": {
+                "createdAt": "2026-04-04T12:39:13+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-04T12:39:13+02:00"
+            }
+        },
+        {
+            "slug": "easy-baked-lemon-dill-salmon-with-asparagus-and-peas-thats-ready-in-30-minutes",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-baked-lemon-dill-salmon-with-asparagus-and-peas-thats-ready-in-30-minutes/post.json",
+            "original": {
+                "createdAt": "2026-04-04T12:42:25+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-04T12:42:25+02:00"
+            }
+        },
+        {
+            "slug": "fast-and-flavorful-garlic-butter-shrimp-with-spring-peas-that-youll-love",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/fast-and-flavorful-garlic-butter-shrimp-with-spring-peas-that-youll-love/post.json",
+            "original": {
+                "createdAt": "2026-04-04T12:40:48+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-04T12:40:48+02:00"
+            }
+        },
+        {
+            "slug": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/post.json",
+            "original": {
+                "createdAt": "2026-04-04T12:35:26+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-04T12:35:26+02:00"
+            }
+        },
+        {
+            "slug": "fast-simple-meals-lemon-herb-tilapia-in-25-minutes",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/fast-simple-meals-lemon-herb-tilapia-in-25-minutes/post.json",
+            "original": {
+                "createdAt": "2026-04-04T12:37:04+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-04T12:37:04+02:00"
             }
         }
     ]
