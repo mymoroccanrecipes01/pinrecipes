@@ -1,14 +1,6 @@
 {
     "pending": [
         {
-            "title": "Cozy Creamy Cauliflower Soup for Chilly Spring Nights",
-            "added_at": "2026-04-01 13:35:53"
-        },
-        {
-            "title": "Healthy Light Quinoa Salad With Spring Vegetables",
-            "added_at": "2026-04-01 13:35:53"
-        },
-        {
             "title": "30-Minute Creamy Spinach and Artichoke Pasta",
             "added_at": "2026-04-01 13:35:53"
         },
@@ -17,37 +9,11 @@
             "added_at": "2026-04-01 15:27:43"
         },
         {
-            "title": "30-Minute Easy Vegan Chickpea Curry with Fresh Spring Veggies",
-            "added_at": "2026-04-01 15:27:43"
-        },
-        {
-            "title": "Healthy Spring Detox Green Smoothie with Avocado and Kale",
-            "added_at": "2026-04-01 15:27:43"
-        },
-        {
-            "title": "Cozy Classic Chicken and Wild Rice Soup for Spring",
-            "added_at": "2026-03-30 18:27:07",
-            "retry_count": 1,
-            "last_error": "Invalid JSON: Syntax error"
-        },
-        {
             "title": "Fast and Healthy Lemon Herb Grilled Salmon Dinner",
             "added_at": "2026-04-03 11:57:49"
         },
         {
-            "title": "Best Easy Spring Vegetable Stir-Fry in 30 Minutes",
-            "added_at": "2026-04-03 13:53:19"
-        },
-        {
             "title": "Creamy Lemon Garlic Chicken with Spring Asparagus",
-            "added_at": "2026-04-03 13:53:19"
-        },
-        {
-            "title": "Quick and Cozy Spring Pea and Mint Soup Recipe",
-            "added_at": "2026-04-03 13:53:19"
-        },
-        {
-            "title": "30-Minute Creamy Mushroom Risotto with Fresh Spring Herbs",
             "added_at": "2026-04-03 13:53:19"
         },
         {
@@ -55,12 +21,12 @@
             "added_at": "2026-04-03 13:53:19"
         },
         {
-            "title": "Fast and Healthy Vegan Tofu Stir-Fry with Spring Greens",
-            "added_at": "2026-04-03 13:53:19"
-        },
-        {
             "title": "Best One-Pan Spring Chicken Dinner with Roasted Vegetables",
             "added_at": "2026-04-04 12:33:44"
+        },
+        {
+            "title": "Quick 30-Minute Lemon Herb Roasted Chicken Thighs",
+            "added_at": "2026-04-05 15:36:34"
         }
     ],
     "processed": [
@@ -171,7 +137,16 @@
         "fast-and-flavorful-garlic-butter-shrimp-with-spring-peas",
         "easy-baked-lemon-dill-salmon-with-asparagus-and-peas",
         "best-fast-and-simple-spring-chickpea-curry-dinner",
-        "30-minute-creamy-mushroom-and-spinach-spring-risotto"
+        "30-minute-creamy-mushroom-and-spinach-spring-risotto",
+        "healthy-light-quinoa-salad-with-spring-vegetables",
+        "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens",
+        "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies",
+        "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs",
+        "best-easy-spring-vegetable-stir-fry-in-30-minutes",
+        "healthy-spring-detox-green-smoothie-with-avocado-and-kale",
+        "cozy-creamy-cauliflower-soup-for-chilly-spring-nights",
+        "quick-and-cozy-spring-pea-and-mint-soup-recipe",
+        "cozy-classic-chicken-and-wild-rice-soup-for-spring"
     ],
-    "last_generated": "2026-04-04 12:33:44"
+    "last_generated": "2026-04-05 15:36:34"
 }

@@ -1,0 +1,351 @@
+{
+    "title": "Quick and Cozy Spring Pea and Mint Soup Recipe That Warms You Up Fast",
+    "promptIMG": "Food photography: Spring Pea and Mint Soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This fresh pea and mint soup is a breeze to whip up and perfect for chilly spring evenings. The mint adds a bright twist that keeps it lively and comforting. Great when you want something light but satisfying!",
+    "hashtags": "#peaandsouprecipe #springrecipes #comfortfood",
+    "board_name": "Cozy Soup Recipes",
+    "pin_variations": [
+        {
+            "title": "Fresh Spring Pea and Mint Soup to Cozy Up Your Day",
+            "description": "Looking for a light yet comforting soup? This pea and mint combo is fresh, quick, and perfect for spring. Save this easy recipe and try it today! 🥄🌿 #springrecipes #comfortfood #quickmeals"
+        },
+        {
+            "title": "Brighten Your Dinner with This Quick Pea and Mint Soup!",
+            "description": "This soup is super fast to make and packed with fresh flavors. Mint gives it a unique zing that’s just irresistible. Discover now and enjoy a cozy meal in minutes! 🍲✨ #easyrecipes #souprecipe #mint"
+        },
+        {
+            "title": "Cozy Up Fast with This Easy Spring Pea and Mint Soup",
+            "description": "Perfect for busy nights, this soup blends sweet peas with fresh mint for a cozy, comforting bowl. Try it today and taste the freshness! 🌱🍵 #quickdinner #peaandsoup #comfortfood"
+        },
+        {
+            "title": "Simple and Refreshing: Spring Pea and Mint Soup Recipe",
+            "description": "This quick soup is both refreshing and cozy—a perfect balance. Mint lifts the flavor and peas add sweetness. Save this recipe and enjoy a fresh bowl anytime! 🌿🥣 #easymeals #springfood #souprecipe"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, extra virgin",
+        "1 medium onion, finely chopped",
+        "2 cloves garlic, minced",
+        "4 cups fresh or frozen green peas",
+        "4 cups vegetable broth, low sodium",
+        "1/4 cup fresh mint leaves, chopped",
+        "Salt, to taste",
+        "Freshly ground black pepper, to taste",
+        "1/2 cup plain Greek yogurt or crème fraîche (optional for serving)"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first stumbled upon this pea and mint soup recipe during a particularly chilly spring. I was craving something light but comforting, and this soup hit the spot perfectly. What I love about this version is how quickly it comes together—no long simmering, just fresh ingredients that shine through. The secret I discovered was adding fresh mint at the very end; it keeps that bright, herbal note intact instead of turning dull. Also, I like to finish it with a dollop of Greek yogurt for a creamy touch without heaviness. This soup is smooth, sweet from the peas, and has that refreshing minty lift that makes it feel like spring in a bowl. It’s become my go-to when I want something cozy but not too heavy, especially on those evenings when you want dinner fast but satisfying. Plus, it’s super forgiving if you’re new to soups or just want a no-fuss meal. I hope you enjoy making it as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large pot over medium heat. Add the finely chopped onion and cook gently until soft and translucent, about 5-7 minutes. This slow cooking draws out the onion’s sweetness without browning it, which keeps the soup’s flavor bright and delicate. Stir occasionally to prevent any sticking or burning, which would add unwanted bitterness. Avoid rushing this step because properly softened onions are the flavor base that makes the soup taste rich and well-rounded.",
+            "timing": "7 minutes",
+            "doneness_cue": "Onions are soft, translucent, and sweet-smelling without any caramelized edges"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic to the pot and sauté for about 1 minute until fragrant. Garlic cooks quickly and can burn easily, so keep the heat moderate and stir constantly. This step is crucial because it releases the garlic’s aromatic oils that infuse the soup with depth. If you skip or rush this, the garlic flavor will be raw or bitter, overpowering the delicate peas.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic is fragrant but not browned or burnt"
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the fresh or frozen peas and pour in the vegetable broth. Bring the mixture to a gentle boil, then reduce heat and simmer for 10-12 minutes. This allows the peas to cook through and become tender, releasing their natural sweetness into the broth. Be careful not to overcook or let it boil too hard, as peas can lose their bright color and fresh flavor if overdone.",
+            "timing": "12 minutes",
+            "doneness_cue": "Peas are tender and vibrant green"
+        },
+        {
+            "step": 4,
+            "instruction": "Remove the pot from heat and add the fresh mint leaves. Using an immersion blender, puree the soup until smooth and creamy. If you don’t have an immersion blender, carefully transfer the soup in batches to a blender. Adding mint just before blending preserves its fresh, bright flavor and prevents it from turning bitter or dull. The pureeing step is key to the soup’s silky texture and harmonious flavor blend.",
+            "timing": "5 minutes",
+            "doneness_cue": "Soup is smooth, creamy, and bright green"
+        },
+        {
+            "step": 5,
+            "instruction": "Season the soup with salt and freshly ground black pepper to taste. Taste as you go because vegetable broth can vary in saltiness. Adjust seasoning gradually to avoid over-salting. Proper seasoning enhances the natural flavors without overpowering the delicate peas and mint.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced savory flavor with a fresh, bright finish"
+        },
+        {
+            "step": 6,
+            "instruction": "If desired, stir in a splash of Greek yogurt or crème fraîche to add creaminess and a slight tang. This step is optional but adds richness without heaviness. It also gives the soup a lovely smooth mouthfeel and a bit of cooling contrast to the mint.",
+            "timing": "2 minutes",
+            "doneness_cue": "Soup is creamy and slightly tangy without being thick or heavy"
+        },
+        {
+            "step": 7,
+            "instruction": "Ladle the soup into bowls and garnish with a few fresh mint leaves or a drizzle of olive oil if you like. This final touch adds visual appeal and a burst of fresh aroma right before serving. It’s a simple way to elevate the presentation and flavor.",
+            "timing": "1 minute",
+            "doneness_cue": "Soup looks vibrant and inviting with fresh green garnish"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve immediately while warm, ideally with crusty bread or a light salad. The soup is best fresh to enjoy the bright flavors and creamy texture at their peak. If reheating, do so gently to preserve the fresh mint notes.",
+            "timing": "Serve immediately",
+            "doneness_cue": "Soup is warm, fresh-tasting, and comforting"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up any leftover soup by storing it in an airtight container in the fridge. When reheating, add a splash of broth or water to loosen the texture, stirring gently to avoid breaking the smooth consistency.",
+            "timing": "N/A",
+            "doneness_cue": "Soup reheats evenly without separation or dulling of flavor"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Pea and Mint Soup Works So Well",
+        "content": "<p>This soup's success lies in balancing fresh, sweet peas with the bright, herbal punch of mint, creating a flavor profile that feels both comforting and lively. The gentle cooking of onions and garlic at the start builds a subtle savory base without overpowering the delicate pea flavor. Slow sweating the onions releases their natural sugars, which adds depth and sweetness, complementing the peas perfectly.</p><p>The choice of fresh or frozen peas is important too. Frozen peas are picked and flash-frozen at peak ripeness, preserving their sweetness and vibrant color, which is essential for the soup’s fresh taste and appealing appearance. Cooking them just until tender prevents the loss of their natural brightness and avoids a mushy texture.</p><p>Adding the mint at the end preserves its fresh aroma and prevents bitterness. Mint contains volatile oils that dissipate quickly with heat, so blending it in last keeps the soup tasting bright and fresh. The pureeing process emulsifies the ingredients into a smooth, creamy texture that feels indulgent without heavy cream. This technique also helps the flavors meld seamlessly, making every spoonful balanced and satisfying.</p><p>Finally, seasoning carefully with salt and pepper enhances the natural flavors without masking them. The optional addition of Greek yogurt adds a subtle tang and richness that rounds out the soup’s mouthfeel, making it comforting while still light. Altogether, these steps and ingredient choices create a soup that’s quick, cozy, and perfect for spring.</p>",
+        "ingredient_notes": {
+            "olive oil": "Choose a good quality extra virgin olive oil with a fruity, slightly peppery flavor. It acts as the flavor carrier for the soup’s base, gently cooking the onions and garlic without overpowering them. Avoid using oils with strong or neutral flavors that won’t add depth. Olive oil also contributes healthy fats that help extract fat-soluble flavor compounds from the aromatics.",
+            "fresh or frozen peas": "Frozen peas are often better than fresh out of season because they’re picked and frozen at peak ripeness, locking in sweetness and color. Fresh peas should be young and tender, with a vibrant green color. Peas provide natural sweetness and body to the soup. Overcooking peas can dull their flavor and turn the soup dull in color, so timing is key.",
+            "fresh mint leaves": "Fresh mint is essential for that bright, herbal note. Look for vibrant green leaves without browning or wilting. Mint oils are volatile and can turn bitter if cooked too long, so add mint at the end of cooking or just before blending. Avoid dried mint here as it lacks the fresh aroma and can taste dusty.",
+            "vegetable broth": "A low sodium vegetable broth lets you control the salt level precisely. It adds savory depth and liquid volume without overpowering the pea and mint flavors. Homemade broth is ideal, but good quality store-bought broth works well. Avoid broths with strong or artificial flavors that compete with the fresh ingredients.",
+            "Greek yogurt or crème fraîche": "These add creaminess and a subtle tang without heaviness. Greek yogurt is thick and creamy, providing a nice texture and cooling effect against the mint. Crème fraîche is richer and slightly less tangy. Both should be added off heat to prevent curdling. They elevate the soup’s mouthfeel and balance the herbal brightness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use frozen peas if fresh aren’t in season for consistent sweetness and color.",
+            "reason": "Frozen peas are flash-frozen immediately after harvesting, locking in their peak sweetness and vibrant green color. Fresh peas out of season can be starchy and dull. Using frozen ensures your soup tastes bright and fresh every time."
+        },
+        {
+            "tip": "Add mint after cooking to preserve its fresh flavor and prevent bitterness.",
+            "reason": "Mint’s essential oils are delicate and evaporate or turn bitter with prolonged heat. Adding mint just before blending or at the end keeps its bright, fresh aroma intact, giving the soup its signature lively flavor."
+        },
+        {
+            "tip": "Sweat onions gently over medium heat to develop sweetness without browning.",
+            "reason": "Slow cooking onions releases their natural sugars, creating a sweet, mellow base. Browning them too quickly or at high heat risks bitterness and overpowering the delicate pea flavor."
+        },
+        {
+            "tip": "Use an immersion blender for easy pureeing directly in the pot.",
+            "reason": "An immersion blender lets you puree the soup smoothly without transferring hot liquid, reducing mess and preserving the soup’s temperature and texture."
+        },
+        {
+            "tip": "Season gradually and taste frequently to avoid over-salting.",
+            "reason": "Broth saltiness can vary widely. Adding salt in small increments and tasting ensures the soup is perfectly seasoned without becoming overly salty, which would mask the fresh pea and mint flavors."
+        },
+        {
+            "tip": "Stir in Greek yogurt off heat to prevent curdling.",
+            "reason": "Adding dairy over high heat can cause it to separate and curdle. Stirring yogurt in after removing the soup from heat keeps it smooth and creamy."
+        },
+        {
+            "tip": "Serve with crusty bread to add texture contrast and soak up the soup.",
+            "reason": "The creamy soup pairs beautifully with crunchy bread, creating a satisfying meal that balances smoothness with a pleasant chew."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking peas until mushy and dull in color",
+            "why_it_happens": "It’s easy to leave peas simmering too long, thinking it will enhance flavor, but this breaks down their structure and dulls their bright green hue.",
+            "fix": "Simmer peas just until tender, about 10-12 minutes, then puree immediately. This preserves their sweetness, color, and fresh flavor."
+        },
+        {
+            "mistake": "Adding mint too early and losing its fresh aroma",
+            "why_it_happens": "Many add herbs at the start to infuse flavor, but mint’s delicate oils evaporate or turn bitter with heat.",
+            "fix": "Add mint at the end of cooking or just before blending to keep its bright, fresh flavor."
+        },
+        {
+            "mistake": "Using high heat to cook onions quickly, causing bitterness",
+            "why_it_happens": "Rushing the onion cooking over high heat can cause browning and bitter flavors that overpower the soup.",
+            "fix": "Sweat onions gently over medium heat until soft and translucent for a sweet, mellow base."
+        },
+        {
+            "mistake": "Over-salting the soup due to salty broth",
+            "why_it_happens": "Not tasting as you season or using salty broth can lead to an overly salty soup.",
+            "fix": "Use low sodium broth and add salt gradually, tasting frequently."
+        },
+        {
+            "mistake": "Adding yogurt while soup is still hot, causing curdling",
+            "why_it_happens": "High heat causes dairy proteins to separate and curdle.",
+            "fix": "Remove soup from heat before stirring in yogurt or crème fraîche."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add a hint of lemon zest",
+            "description": "Stir in a teaspoon of fresh lemon zest just before serving to add a citrusy brightness that complements the mint and peas beautifully, making the soup even more refreshing.",
+            "technical_note": "Add zest off heat to avoid bitterness and preserve the fresh citrus aroma."
+        },
+        {
+            "name": "Make it vegan with coconut cream",
+            "description": "Replace the Greek yogurt with a splash of coconut cream for a dairy-free version that adds a subtle tropical richness without overpowering the pea and mint flavors.",
+            "technical_note": "Add coconut cream off heat to maintain smooth texture and avoid separation."
+        },
+        {
+            "name": "Add fresh spinach for extra greens",
+            "description": "Toss a handful of fresh spinach into the soup during the last 2 minutes of simmering for added nutrients and a deeper green color without changing the flavor much.",
+            "technical_note": "Do not overcook spinach to preserve its bright color and fresh taste."
+        },
+        {
+            "name": "Serve chilled for a refreshing summer soup",
+            "description": "Let the soup cool completely and refrigerate for a few hours. Serve cold as a refreshing starter or light lunch on warm days, with mint flavor shining through beautifully.",
+            "technical_note": "Chilled soup may thicken; thin with a little broth or water before serving."
+        },
+        {
+            "name": "Add a touch of spice with crushed red pepper flakes",
+            "description": "Sprinkle in some red pepper flakes while cooking the onions for a subtle kick that contrasts nicely with the sweet peas and fresh mint, giving the soup a warming depth.",
+            "technical_note": "Adjust amount carefully to keep balance; too much can overpower delicate flavors."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "8g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "6g",
+        "fiber_grams": "5g",
+        "sodium_mg": "350mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep the soup covered at room temperature for up to 2 hours safely. Beyond that, it’s best to refrigerate to prevent bacterial growth. Cover it tightly to avoid contamination and drying out.",
+        "refrigerator": "Store the soup in an airtight container in the fridge for up to 3 days. The flavor remains fresh, but the soup may thicken; simply reheat gently and add a splash of broth or water to loosen it.",
+        "freezer": "Freeze the soup for up to 2 months in a freezer-safe container, leaving some space for expansion. Thaw overnight in the fridge and reheat gently to restore texture and flavor.",
+        "reheating": "Reheat the soup on the stovetop over low heat, stirring occasionally. Add a splash of vegetable broth or water to loosen it if needed. Avoid boiling as it can dull the fresh flavors and change the texture.",
+        "make_ahead_strategy": "You can prepare the soup base (onions, garlic, peas, broth) a day ahead and refrigerate. Add fresh mint and blend just before serving to keep the mint flavor bright and fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I use dried mint instead of fresh?",
+            "answer": "Dried mint lacks the vibrant aroma and fresh flavor of fresh mint, which is key to this soup’s bright taste. If you must use dried, add it sparingly during cooking, but know the flavor will be less lively and more muted."
+        },
+        {
+            "question": "What if I don’t have an immersion blender?",
+            "answer": "No worries! You can carefully transfer the soup in batches to a regular blender. Just be cautious with hot liquids to avoid splatters—blend in small amounts and vent the lid slightly. Alternatively, use a food processor for a chunkier texture."
+        },
+        {
+            "question": "Can I make this soup ahead of time?",
+            "answer": "Absolutely! Prepare the soup base and refrigerate it, then add fresh mint and blend just before serving to keep the mint flavor fresh. This way, you save time without compromising taste."
+        },
+        {
+            "question": "Is this soup suitable for vegans?",
+            "answer": "Yes, just omit the Greek yogurt or replace it with coconut cream or a plant-based yogurt to keep it creamy and vegan-friendly without losing richness."
+        },
+        {
+            "question": "How can I make the soup spicier?",
+            "answer": "Try adding a pinch of crushed red pepper flakes when cooking the onions or a dash of cayenne pepper. Start small and adjust to your heat preference to avoid overpowering the delicate pea and mint flavors."
+        },
+        {
+            "question": "Can I substitute vegetable broth with water?",
+            "answer": "You can, but broth adds savory depth that water lacks. If using water, consider adding a pinch of salt and some herbs to boost flavor, or use a vegetable bouillon cube for convenience."
+        },
+        {
+            "question": "Why does the soup sometimes turn dull green?",
+            "answer": "Overcooking peas or prolonged boiling causes chlorophyll to degrade, turning the soup a dull olive color. To keep it vibrant, cook peas just until tender and blend promptly."
+        },
+        {
+            "question": "Can I freeze the soup after adding yogurt?",
+            "answer": "It’s best to freeze the soup before adding yogurt, as dairy can separate during freezing and thawing. Add yogurt fresh when reheating for the best texture and flavor."
+        }
+    ],
+    "conclusion": "I hope this quick and cozy pea and mint soup brightens your spring meals! Give it a try and let me know how it turns out—sharing your kitchen wins always makes my day.",
+    "seo": {
+        "primary_keyword": "spring pea and mint soup recipe",
+        "secondary_keywords": [
+            "easy pea soup",
+            "mint pea soup recipe",
+            "how to make pea and mint soup",
+            "best spring pea soup recipe",
+            "quick pea soup recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "simple vegetable soup techniques",
+                "anchor": "simple-vegetable-soup-techniques"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230166_734",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-04-05 15:50:06",
+        "title_seed": "Quick and Cozy Spring Pea and Mint Soup Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1775397006_280",
+    "slug": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast",
+    "uniqueSlug": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_1.webp",
+            "relativePath": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_2.webp",
+            "relativePath": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_3.webp",
+            "relativePath": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_6.webp",
+            "filePath": "posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_6.webp",
+            "relativePath": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_4.webp",
+            "filePath": "posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_4.webp",
+            "relativePath": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_5.webp",
+            "filePath": "posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_5.webp",
+            "relativePath": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_8.webp",
+            "filePath": "posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_8.webp",
+            "relativePath": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_7.webp",
+            "filePath": "posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_7.webp",
+            "relativePath": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_9.webp",
+            "filePath": "posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_9.webp",
+            "relativePath": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "image": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_1.webp",
+    "image_path": "posts/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images/quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast_pinrecipes_image_1.webp",
+    "image_dir": "quick-and-cozy-spring-pea-and-mint-soup-recipe-that-warms-you-up-fast/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-04-05T16:05:09+02:00",
+    "updatedAt": "2026-04-05T16:05:09+02:00"
+}
