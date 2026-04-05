@@ -1,7 +1,6 @@
 /**
  * AdSense Auto-Injection System
- * 100% Config-driven - just add placements to the array, no code changes needed!
- * Works with both standalone post pages and SPA (base.html) pages
+ * 100% Config-driven — edit via config-ui.php
  */
 
 (function() {
@@ -9,125 +8,81 @@
 
     // ==================== CONFIGURATION ====================
     const ADS_CONFIG = {
-        publisherId: 'ca-pub-3666818985097490',
-        enabled: true,
-        injectionDelay: 300,
+            "publisherId": "ca-pub-3666818985097490",
+            "enabled": true,
+            "injectionDelay": 300,
+            "placements": [
+                {
+                    "selector": ".recipe-description",
+                    "position": "after",
+                    "format": "auto",
+                    "pages": "all",
+                    "slot": "8684648378",
+                    "className": "ad-after-description"
+                },
+                {
+                    "selector": ".story-section",
+                    "position": "before",
+                    "format": "in-article",
+                    "pages": "all",
+                    "slots": [
+                        "4055138220",
+                        "4055138220",
+                        "4055138220",
+                        "8684648378",
+                        "4055138220"
+                    ],
+                    "everyNth": 2,
+                    "maxAds": 5,
+                    "className": "ad-in-article"
+                },
+                {
+                    "selector": ".recipe-boxes",
+                    "position": "after",
+                    "format": "auto",
+                    "pages": "all",
+                    "slot": "4055138220",
+                    "className": "ad-after-recipe-box"
+                },
+                {
+                    "selector": "footer.footer",
+                    "position": "before",
+                    "format": "horizontal",
+                    "pages": "all",
+                    "slot": "4055138220",
+                    "className": "ad-before-footer"
+                },
+                {
+                    "selector": "#main-content .container",
+                    "position": "inside-top",
+                    "format": "auto",
+                    "pages": "spa",
+                    "slot": "4055138220",
+                    "className": "ad-top-content"
+                },
+                {
+                    "selector": ".breadcrumb",
+                    "position": "after",
+                    "format": "auto",
+                    "pages": "all",
+                    "slot": "8684648378",
+                    "className": "ad-after-breadcrumb"
+                },
+                {
+                    "selector": ".header",
+                    "position": "after",
+                    "format": "auto",
+                    "pages": "all",
+                    "slots": [
+                        "4055138220",
+                        "8684648378"
+                    ],
+                    "className": "Ad-header"
+                }
+            ]
+        };
 
-        /**
-         * AD PLACEMENTS - Just add/remove entries here!
-         *
-         * Each placement needs:
-         *   - slot:      Your AdSense slot ID
-         *   - selector:  CSS selector to find the target element
-         *   - position:  'after' | 'before' | 'inside-top' | 'inside-bottom'
-         *   - format:    'auto' | 'in-article' | 'horizontal'
-         *   - pages:     'post' | 'spa' | 'all'  (where this ad appears)
-         *
-         * Optional:
-         *   - nthChild:  For repeated elements (e.g., story-section), pick which one (1-based)
-         *                 Use fractions: '1/3' = at 1/3 of total, '2/3' = at 2/3, 'last' = last one
-         *   - className: Extra CSS class for styling
-         */
-        placements: [
-            // -------- POST PAGE ADS --------
-            {
-                slot: '8684648378',
-                selector: '.post-description',
-                position: 'after',
-                format: 'auto',
-                pages: 'all',
-                className: 'ad-after-description',
-            },
-            {
-                slots: [
-                    '4055138220',   // ← position 1 (before section 1)
-                    '4055138220',   // ← position 2 (before section 2)
-                    '4055138220',   // ← position 3 (before section 3)
-                    '8684648378',   // ← position 4 (before section 4)
-                    '4055138220',   // ← position 5 (before section 5)
-                ],
-                selector: '.story-section',
-                position: 'before',
-                format: 'in-article',
-                pages: 'all',
-                everyNth: 2,
-                maxAds: 5,
-                className: 'ad-in-article',
-            },                                                                        
-            {
-                slot: '4055138220',
-                selector: '.post-boxes',
-                position: 'after',
-                format: 'auto',
-                pages: 'post',
-                className: 'ad-after-post-box',
-            },
-            {
-                slot: '4055138220',
-                selector: 'footer.footer',
-                position: 'before',
-                format: 'horizontal',
-                pages: 'all',
-                className: 'ad-before-footer',
-            },
-
-            // -------- SPA PAGE ADS --------
-            {
-                slot: '4055138220',
-                selector: '#main-content .container',
-                position: 'inside-top',
-                format: 'auto',
-                pages: 'spa',
-                className: 'ad-top-content',
-            },
-
-            // ============================================================
-            //  ZIDACH PLACEMENT JDID HENA - JUST COPY/PASTE & MODIFY!
-            // ============================================================
-            // Example: Ad after breadcrumb
-            {
-                slot: '8684648378',
-                selector: '.breadcrumb',
-                position: 'after',
-                format: 'auto',
-                pages: 'post',
-                className: 'ad-after-breadcrumb',
-            },
-            
-            // Example: Ad between ingredients and instructions
-            // {
-            //     slot: '6877189795',
-            //     selector: '.ingredients-section',
-            //     position: 'after',
-            //     format: 'in-article',
-            //     pages: 'post',
-            //     className: 'ad-between-sections',
-            // },
-            
-            // Example: Ad after the 5th story section
-            // {
-            //     slot: '6877189795',
-            //     selector: '.story-section',
-            //     position: 'after',
-            //     format: 'in-article',
-            //     pages: 'post',
-            //     nthChild: 5,
-            //     className: 'ad-in-article',
-            // },
-            
-            // Example: Ad after post tips
-            // {
-            //     slot: '6877189795',
-            //     selector: '.post-tips',
-            //     position: 'after',
-            //     format: 'auto',
-            //     pages: 'post',
-            //     className: 'ad-after-tips',
-            // },
-        ],
-    };
-
-    // ==================== ENGINE (no need to touch below) ====================
+        // ==================== ENGINE (no need to touch below) ====================
 
     function createAdUnit(slotId, format, className) {
         var container = document.createElement('div');
