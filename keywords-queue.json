@@ -1,5 +1,53 @@
 {
-    "pending": [],
+    "pending": [
+        {
+            "title": "10 Easy Easter Desserts Anyone Can Make",
+            "keyword": "",
+            "source": "google-trends-csv",
+            "added_at": "2026-04-06 17:37:17",
+            "retry_count": 0
+        },
+        {
+            "title": "30 Simple High Protein Dinners Ready in Minutes",
+            "keyword": "",
+            "source": "google-trends-csv",
+            "added_at": "2026-04-06 17:37:17",
+            "retry_count": 0
+        },
+        {
+            "title": "Easy High Protein Dinner Ideas for Busy Weeknights",
+            "keyword": "",
+            "source": "google-trends-csv",
+            "added_at": "2026-04-06 17:37:17",
+            "retry_count": 0
+        },
+        {
+            "title": "Quick High Protein Meals That Actually Taste Amazing",
+            "keyword": "",
+            "source": "google-trends-csv",
+            "added_at": "2026-04-06 17:37:17",
+            "retry_count": 0
+        },
+        {
+            "title": "High Protein Dinners Even Picky Eaters Will Love",
+            "keyword": "",
+            "source": "google-trends-csv",
+            "added_at": "2026-04-06 17:37:17",
+            "retry_count": 0
+        },
+        {
+            "title": "Easy Lemon Poppy Seed Muffins for Spring Breakfast",
+            "added_at": "2026-04-06 17:37:23"
+        },
+        {
+            "title": "Easy Vegan Chickpea and Avocado Spring Salad",
+            "added_at": "2026-04-06 17:37:23"
+        },
+        {
+            "title": "Quick and Cozy Creamy Spinach and Artichoke Bake",
+            "added_at": "2026-04-06 17:37:23"
+        }
+    ],
     "processed": [
         "delicious-no-bake-lemon-cheesecake-cups-for-spring",
         "best-homemade-soft-pretzels-with-creamy-mustard-dip",
@@ -125,7 +173,16 @@
         "fast-and-healthy-lemon-herb-grilled-salmon-dinner",
         "quick-30-minute-lemon-herb-roasted-chicken-thighs",
         "creamy-lemon-garlic-chicken-with-spring-asparagus",
-        "30-minute-creamy-spinach-and-artichoke-pasta"
+        "30-minute-creamy-spinach-and-artichoke-pasta",
+        "simple-protein-packed-dinners-under-30-minutes",
+        "best-homemade-creamy-carrot-soup-with-fresh-herbs",
+        "best-creamy-mushroom-and-thyme-risotto-in-30-minutes",
+        "no-fuss-easter-desserts-kids-will-love",
+        "quick-easter-desserts-ready-in-30-minutes",
+        "simple-easter-treats-that-wow-every-time",
+        "quick-homemade-rhubarb-and-strawberry-crisp-dessert",
+        "quick-creamy-asparagus-and-pea-pasta-for-dinner",
+        "effortless-easter-sweets-for-busy-parents"
     ],
-    "last_generated": "2026-04-06 11:27:57"
+    "last_generated": "2026-04-06 17:37:23"
 }
