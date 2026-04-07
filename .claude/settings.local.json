@@ -7,7 +7,8 @@
       "Bash(do)",
       "Bash(cp \"c:/xampp/htdocs/SitePinterset/pinrecipes/$f\" \"c:/xampp/htdocs/SitePinterset/LummyRecipes/$f\")",
       "Bash(cp \"c:/xampp/htdocs/SitePinterset/pinrecipes/$f\" \"c:/xampp/htdocs/SitePinterset/Mollykitchendaily/$f\")",
-      "Bash(echo \"copied: $f\")"
+      "Bash(echo \"copied: $f\")",
+      "Bash(ls /c/xampp/htdocs/SitePinterset/pinrecipes/settings* /c/xampp/htdocs/SitePinterset/pinrecipes/admin*)"
     ]
   }
 }
