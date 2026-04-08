@@ -274,7 +274,7 @@
     "id": "post_1775614001_437",
     "slug": "effortless-easter-menu-ideas-ready-in-30-minutes",
     "uniqueSlug": "effortless-easter-menu-ideas-ready-in-30-minutes",
-    "isOnline": false,
+    "isOnline": true,
     "images": [
         {
             "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_1.webp",
@@ -299,6 +299,50 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_4.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_4.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_7.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_7.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_8.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_8.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_6.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_6.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_9.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_9.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_5.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_5.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_5.webp",
+            "type": "template"
         }
     ],
     "image": "effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_1.webp",
@@ -306,6 +350,6 @@
     "image_dir": "effortless-easter-menu-ideas-ready-in-30-minutes/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-04-08T04:06:41+02:00",
-    "updatedAt": "2026-04-08T04:06:41+02:00"
+    "createdAt": "2026-04-08T12:39:29+02:00",
+    "updatedAt": "2026-04-08T12:39:29+02:00"
 }
