@@ -8,7 +8,13 @@
       "Bash(cp \"c:/xampp/htdocs/SitePinterset/pinrecipes/$f\" \"c:/xampp/htdocs/SitePinterset/LummyRecipes/$f\")",
       "Bash(cp \"c:/xampp/htdocs/SitePinterset/pinrecipes/$f\" \"c:/xampp/htdocs/SitePinterset/Mollykitchendaily/$f\")",
       "Bash(echo \"copied: $f\")",
-      "Bash(ls /c/xampp/htdocs/SitePinterset/pinrecipes/settings* /c/xampp/htdocs/SitePinterset/pinrecipes/admin*)"
+      "Bash(ls /c/xampp/htdocs/SitePinterset/pinrecipes/settings* /c/xampp/htdocs/SitePinterset/pinrecipes/admin*)",
+      "Bash(\"C:/xampp/php/php.exe\" pinterest-keyword-researcher.php --count=15)",
+      "Bash(\"C:/xampp/php/php.exe\" -r \"require_once 'config.php'; echo defined\\('OPENAI_API_KEY'\\) ? 'KEY: '.substr\\(OPENAI_API_KEY,0,8\\).'...' : 'KEY NOT DEFINED';\")",
+      "Bash(C:/xampp/php/php.exe -r ':*)",
+      "Bash(del \"C:/xampp/htdocs/SitePinterset/keywordsPIN/pinterest_2026-04-08.csv\")",
+      "Bash(\"C:/xampp/php/php.exe\" pinterest-keyword-researcher.php)",
+      "Bash(\"C:/xampp/php/php.exe\" -r \"unlink\\('C:/xampp/htdocs/SitePinterset/keywordsPIN/pinterest_2026-04-08.csv'\\);\")"
     ]
   }
 }
