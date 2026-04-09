@@ -1,23 +1,59 @@
 {
-    "date": "2026-04-08T20:58:27+02:00",
-    "filename": "pinterest_daily_2026-04-08.csv",
+    "date": "2026-04-09T12:46:07+02:00",
+    "filename": "pinterest_daily_2026-04-09.csv",
     "articles": [
         {
-            "slug": "15-minute-garlic-lemon-asparagus-stir-fry-for-busy-spring-nights",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/15-minute-garlic-lemon-asparagus-stir-fry-for-busy-spring-nights/post.json",
+            "slug": "refreshing-strawberry-and-spinach-smoothie-bowl-to-start-your-day-right",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/refreshing-strawberry-and-spinach-smoothie-bowl-to-start-your-day-right/post.json",
             "original": {
-                "createdAt": "2026-04-08T20:51:41+02:00",
+                "createdAt": "2026-04-09T12:41:07+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-04-08T20:51:41+02:00"
+                "updatedAt": "2026-04-09T12:41:07+02:00"
             }
         },
         {
-            "slug": "easy-roasted-asparagus-with-parmesan-and-lemon-zest-that-brightens-any-meal",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-roasted-asparagus-with-parmesan-and-lemon-zest-that-brightens-any-meal/post.json",
+            "slug": "healthy-pea-and-radish-spring-soup-in-20-minutes",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/healthy-pea-and-radish-spring-soup-in-20-minutes/post.json",
             "original": {
-                "createdAt": "2026-04-08T20:53:25+02:00",
+                "createdAt": "2026-04-09T12:35:26+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-04-08T20:53:25+02:00"
+                "updatedAt": "2026-04-09T12:35:26+02:00"
+            }
+        },
+        {
+            "slug": "quick-lemon-asparagus-and-spinach-salad-with-feta-that-brightens-any-meal",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/quick-lemon-asparagus-and-spinach-salad-with-feta-that-brightens-any-meal/post.json",
+            "original": {
+                "createdAt": "2026-04-09T12:31:34+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-09T12:31:34+02:00"
+            }
+        },
+        {
+            "slug": "light-artichoke-and-lemon-quinoa-bowl-for-spring-fresh-and-bright-flavors",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/light-artichoke-and-lemon-quinoa-bowl-for-spring-fresh-and-bright-flavors/post.json",
+            "original": {
+                "createdAt": "2026-04-09T12:37:15+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-09T12:37:15+02:00"
+            }
+        },
+        {
+            "slug": "spring-lamb-and-roasted-asparagus-sheet-pan-dinner-thats-perfect-for-easy-weeknight-meals",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/spring-lamb-and-roasted-asparagus-sheet-pan-dinner-thats-perfect-for-easy-weeknight-meals/post.json",
+            "original": {
+                "createdAt": "2026-04-09T12:39:17+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-09T12:39:17+02:00"
+            }
+        },
+        {
+            "slug": "easy-strawberry-spinach-salad-with-balsamic-glaze-for-fresh-summer-days",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-strawberry-spinach-salad-with-balsamic-glaze-for-fresh-summer-days/post.json",
+            "original": {
+                "createdAt": "2026-04-09T12:33:37+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-09T12:33:37+02:00"
             }
         }
     ]
