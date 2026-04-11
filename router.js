@@ -48,8 +48,22 @@ let currentPage = 'home';
 let currentPostId = null;
 let currentCategory = null;
 
+// Contenu des pages statiques (chargé depuis page-content.json)
+window.pageContent = null;
+
+// Charge page-content.json une fois au démarrage
+async function loadPageContent() {
+    try {
+        const res = await fetch('pages/page-content.json?v=' + Date.now());
+        if (res.ok) window.pageContent = await res.json();
+    } catch (e) {
+        console.warn('page-content.json non disponible:', e);
+    }
+}
+
 // Initialisation au chargement de la page
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', async function() {
+    await loadPageContent();
     initializeRouter();
 });
 
@@ -233,6 +247,64 @@ async function loadPage(pageName, addToHistory = true) {
             .replace(/\{\{SITE_NAME\}\}/g, _siteName)
             .replace(/\{\{SITE_URL\}\}/g, _siteUrl)
             .replace(/\{\{SITE_HOST\}\}/g, _siteHost);
+
+        // Remplacer les variables de contenu depuis page-content.json
+        const pc = window.pageContent;
+        if (pc) {
+            // Helper: résoudre {{SITE_NAME}} et {{SITE_HOST}} dans les valeurs JSON
+            const _r = (s) => (s||'').replace(/\{\{SITE_NAME\}\}/g, _siteName).replace(/\{\{SITE_HOST\}\}/g, _siteHost).replace(/\{\{SITE_URL\}\}/g, _siteUrl);
+
+            // Helper: générer une liste <ul><li> depuis un tableau d'objets {bold, text}
+            const _ul = (arr) => arr ? '<ul>' + arr.map(i => `<li><strong>${_r(i.bold)}</strong> ${_r(i.text)}</li>`).join('') + '</ul>' : '';
+
+            // Helper: générer les FAQ en HTML
+            const _faq = (arr) => arr ? arr.map(i => `<div class="faq-item"><h3>${_r(i.q)}</h3><p>${_r(i.a)}</p></div>`).join('') : '';
+
+            // HOME
+            if (pc.home) {
+                content = content
+                    .replace(/\{\{HOME_HERO_TAGLINE\}\}/g, _r(pc.home.hero_tagline))
+                    .replace(/\{\{HOME_WELCOME\}\}/g, _r(pc.home.welcome_text));
+            }
+            // ABOUT
+            if (pc.about) {
+                const a = pc.about;
+                content = content
+                    .replace(/\{\{ABOUT_HERO_SUBTITLE\}\}/g, _r(a.hero_subtitle))
+                    .replace(/\{\{ABOUT_EXPLORE_TITLE\}\}/g, _r(a.explore_title))
+                    .replace(/\{\{ABOUT_EXPLORE_INTRO\}\}/g, _r(a.explore_intro))
+                    .replace(/\{\{ABOUT_EXPLORE_ITEMS\}\}/g, _ul(a.explore_items))
+                    .replace(/\{\{ABOUT_FOUNDER_SECTION_TITLE\}\}/g, _r(a.founder_section_title))
+                    .replace(/\{\{ABOUT_FOUNDER_INTRO\}\}/g, _r(a.founder_intro))
+                    .replace(/\{\{ABOUT_FOUNDER_ITEMS\}\}/g, _ul(a.founder_items))
+                    .replace(/\{\{ABOUT_GOALS_TITLE\}\}/g, _r(a.goals_title))
+                    .replace(/\{\{ABOUT_GOALS_INTRO\}\}/g, _r(a.goals_intro))
+                    .replace(/\{\{ABOUT_GOALS_ITEMS\}\}/g, _ul(a.goals_items))
+                    .replace(/\{\{ABOUT_SELECTION_TITLE\}\}/g, _r(a.selection_title))
+                    .replace(/\{\{ABOUT_SELECTION_INTRO\}\}/g, _r(a.selection_intro))
+                    .replace(/\{\{ABOUT_SELECTION_ITEMS\}\}/g, _ul(a.selection_items))
+                    .replace(/\{\{ABOUT_FOUNDER_NAME\}\}/g, _r(a.founder_name))
+                    .replace(/\{\{ABOUT_FOUNDER_ROLE\}\}/g, _r(a.founder_role))
+                    .replace(/\{\{ABOUT_CONNECT_TITLE\}\}/g, _r(a.connect_title))
+                    .replace(/\{\{ABOUT_CONNECT_TEXT\}\}/g, _r(a.connect_text));
+            }
+            // CONTACT
+            if (pc.contact) {
+                content = content
+                    .replace(/\{\{CONTACT_HERO_SUBTITLE\}\}/g, _r(pc.contact.hero_subtitle))
+                    .replace(/\{\{CONTACT_INTRO\}\}/g, _r(pc.contact.intro))
+                    .replace(/\{\{CONTACT_FAQ_HTML\}\}/g, _faq(pc.contact.faq));
+            }
+            // PRIVACY
+            if (pc.privacy) {
+                content = content
+                    .replace(/\{\{PRIVACY_DATE\}\}/g, _r(pc.privacy.last_updated))
+                    .replace(/\{\{PRIVACY_HERO_SUBTITLE\}\}/g, _r(pc.privacy.hero_subtitle))
+                    .replace(/\{\{PRIVACY_WELCOME\}\}/g, _r(pc.privacy.welcome_text))
+                    .replace(/\{\{PRIVACY_WELCOME2\}\}/g, _r(pc.privacy.welcome_text2))
+                    .replace(/\{\{PRIVACY_CONCLUSION\}\}/g, _r(pc.privacy.conclusion_text));
+            }
+        }
 
         // Mettre à jour le contenu
         const mainContent = document.getElementById('main-content');

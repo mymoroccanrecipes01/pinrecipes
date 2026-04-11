@@ -2,30 +2,25 @@
 <section class="contact-hero">
     <div class="container">
         <h1>Contact Us</h1>
-        <p>We’re here to answer all your cooking questions</p>
+        <p>{{CONTACT_HERO_SUBTITLE}}</p>
     </div>
 </section>
 
 <!-- Contact Content -->
 <section class="contact-content">
     <div class="container">
-    
+
         <!-- Contact Form Section -->
         <div class="contact-form-section">
-            <h2>We’d love to hear from you!</h2>               
-            <p>
-                Whether you have a question about one of our posts, want to share your cooking experience, 
-                or simply say hello, feel free to reach out to us. You can contact us by email at 
-                <strong>contact@{{SITE_HOST}}</strong>, and we’ll do our best to get back to you 
-                as quickly as possible.
-            </p>
+            <h2>We'd love to hear from you!</h2>
+            <p>{{CONTACT_INTRO}}</p>
             <br>
         </div>
 
         <!-- Contact Information  -->
         <div class="contact-info">
             <h2>Contact Information</h2>
-            
+
             <div class="contact-item">
                 <div class="contact-icon">📧</div>
                 <div class="contact-details">
@@ -38,7 +33,7 @@
                 <div class="contact-details">
                     <h3>Website</h3>
                     <p><a href="{{SITE_URL}}">www.{{SITE_HOST}}</a></p>
-                </div>                  
+                </div>
             </div>
         </div>
     </div>
@@ -49,25 +44,7 @@
     <div class="container">
         <h2>Frequently Asked Questions</h2>
         <div class="faq-grid">
-            <div class="faq-item">
-                <h3>How can I submit my own post?</h3>
-                <p>You can send us your posts using the form above by selecting "Post Suggestion" as the subject.</p>
-            </div>
-            
-            <div class="faq-item">
-                <h3>Are the posts tested?</h3>
-                <p>Yes, all our posts are tested by our team before publication to ensure their quality.</p>
-            </div>
-            
-            <div class="faq-item">
-                <h3>Can I modify the ingredients?</h3>
-                <p>Absolutely! Our posts are designed to be adaptable to your tastes and dietary preferences.</p>
-            </div>
-            
-            <div class="faq-item">
-                <h3>Do you offer vegetarian posts?</h3>
-                <p>Yes, we have a wide selection of vegetarian and vegan posts in our collection.</p>
-            </div>
+            {{CONTACT_FAQ_HTML}}
         </div>
     </div>
 </section>

@@ -1,0 +1,67 @@
+{
+  "niche": "recipes",
+  "generated_at": "2026-04-10",
+  "home": {
+    "hero_tagline": "YOUR LOVED ONES WILL ADORE",
+    "welcome_text": "Welcome to {{SITE_NAME}}! Quick and easy cooking for your family. No-fuss, uncomplicated recipes, everyday ingredients, and the happiness of sharing homemade meals without spending too much. Milkshakes, omelets, cookies, fries, conscious tagines... Whether you're using a Thermomix or cooking manually, {{SITE_NAME}} keeps your time in the kitchen stress-free!"
+  },
+  "about": {
+    "hero_subtitle": "{{SITE_NAME}} is all about sharing simple, family-friendly recipes made with everyday ingredients, inspiring flavorful and hassle-free home cooking.",
+    "explore_title": "What Can You Explore Here?",
+    "explore_intro": "{{SITE_NAME}} offers a curated collection of simple, family-friendly recipes made with everyday ingredients. Discover delicious and hassle-free home cooking resources designed to make your time in the kitchen more enjoyable and efficient.",
+    "explore_items": [
+      {"bold": "Simple Recipes:", "text": "Easy-to-follow recipes using ingredients you already have at home."},
+      {"bold": "Family-Friendly Dishes:", "text": "Meals that everyone will love, from kids to adults."},
+      {"bold": "Time-Saving Tips:", "text": "Learn helpful tricks to streamline your cooking process."},
+      {"bold": "Diverse Cuisines:", "text": "Explore flavors from around the world, simplified for quick preparation."},
+      {"bold": "Intuitive Navigation:", "text": "Find your favorite dishes quickly with our user-friendly platform."}
+    ],
+    "founder_section_title": "Who Am I?",
+    "founder_intro": "{{SITE_NAME}} was born from a genuine passion for homemade cooking. I'm Lummy Hayes, and I've dedicated myself to sharing simple, flavorful recipes that anyone can prepare successfully. My culinary journey began in my mother's kitchen, where I learned that the best meals are made with heart, quality ingredients, and a touch of creativity.",
+    "founder_items": [
+      {"bold": "Authentic Passion:", "text": "Growing up in a multicultural household exposed me to diverse flavors and cooking traditions."},
+      {"bold": "Practical Approach:", "text": "I believe cooking should be accessible, not complicated or time-consuming."},
+      {"bold": "Community-Focused:", "text": "{{SITE_NAME}} is a welcoming space for food lovers of all experience levels."},
+      {"bold": "Homemade Focus:", "text": "I celebrate the joy and satisfaction of cooking from scratch."}
+    ],
+    "goals_title": "What Are My Goals?",
+    "goals_intro": "At {{SITE_NAME}}, I'm driven by core values that guide everything I create and share with you.",
+    "goals_items": [
+      {"bold": "Inspire Home Cooking:", "text": "Help you create wholesome, delicious meals that are simple to prepare."},
+      {"bold": "Save You Time:", "text": "Develop recipes that are quick, easy, and achievable with basic pantry staples."},
+      {"bold": "Build Community:", "text": "Create a welcoming space where food lovers can share recipes and cooking experiences."},
+      {"bold": "Balance Flavor & Practicality:", "text": "Craft dishes that deliver amazing flavor without unnecessary complexity."},
+      {"bold": "Provide Clear Instructions:", "text": "Ensure every recipe is easy to follow and consistently successful."}
+    ],
+    "selection_title": "How Do I Choose Content?",
+    "selection_intro": "Quality and reliability are at the heart of my content selection process. Every recipe on {{SITE_NAME}} meets strict standards before it's shared with you.",
+    "selection_items": [
+      {"bold": "Thorough Testing:", "text": "Every recipe is tested multiple times to ensure it works perfectly for you."},
+      {"bold": "Clear Instructions:", "text": "I prioritize straightforward, easy-to-follow steps that anyone can succeed with."},
+      {"bold": "Authentic Flavors:", "text": "Recipes showcase genuine cooking techniques and real ingredients."},
+      {"bold": "Attention to Detail:", "text": "Images, timing, and preparation steps are carefully verified for accuracy."},
+      {"bold": "Reader Feedback:", "text": "Your input helps me continuously improve and refine what I share."}
+    ],
+    "founder_name": "Lummy Hayes",
+    "founder_role": "Founder & Recipe Creator",
+    "connect_title": "Let's Connect!",
+    "connect_text": "I'd love to hear from you! Share your cooking experiences, ask questions, or suggest recipes you'd like me to create."
+  },
+  "contact": {
+    "hero_subtitle": "We're here to answer all your cooking questions",
+    "intro": "Whether you have a question about one of our recipes, want to share your cooking experience, or simply say hello, feel free to reach out to us. You can contact us by email at <strong>contact@{{SITE_HOST}}</strong>, and we'll do our best to get back to you as quickly as possible.",
+    "faq": [
+      {"q": "How can I submit my own recipe?", "a": "You can send us your recipes using the form above by selecting \"Recipe Suggestion\" as the subject."},
+      {"q": "Are the recipes tested?", "a": "Yes, all our recipes are tested by our team before publication to ensure their quality."},
+      {"q": "Can I modify the ingredients?", "a": "Absolutely! Our recipes are designed to be adaptable to your tastes and dietary preferences."},
+      {"q": "Do you offer vegetarian recipes?", "a": "Yes, we have a wide selection of vegetarian and vegan recipes in our collection."}
+    ]
+  },
+  "privacy": {
+    "last_updated": "March 29, 2025",
+    "hero_subtitle": "{{SITE_NAME}} refrains from collecting personal data directly. We also don't require user accounts. Instead, cookies and third-party services enhance how you interact with us.",
+    "welcome_text": "At {{SITE_NAME}}, we're committed to providing simple and practical recipe ideas while respecting your privacy. Since we don't require user accounts, we avoid collecting or handling your personal information directly. Your data is never sold or shared with third parties.",
+    "welcome_text2": "However, certain information may be collected automatically through external services that help us deliver a better experience—from improved site performance to personalized advertisements and engaging video content. This notice explains how these practices work and the steps we take to protect your privacy while you enjoy {{SITE_HOST}}.",
+    "conclusion_text": "Thank you for taking the time to read our privacy notice. By using {{SITE_NAME}}, you agree to the privacy practices outlined here. We appreciate your trust and hope you enjoy discovering delicious new recipes. Happy cooking!"
+  }
+}

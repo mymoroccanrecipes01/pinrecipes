@@ -2,7 +2,7 @@
     <section class="about-hero">
         <div class="container">
             <h1>About {{SITE_NAME}}</h1>
-            <p>{{SITE_NAME}} is all about sharing simple, family-friendly posts made with everyday ingredients, inspiring flavorful and hassle-free home cooking.</p>
+            <p>{{ABOUT_HERO_SUBTITLE}}</p>
         </div>
     </section>
 
@@ -11,48 +11,25 @@
         <div class="container">
             <div class="about-grid">
                 <div class="about-text">
-                    <h2>What Can You Explore Here?</h2>
-                    <p>{{SITE_NAME}} offers a curated collection of simple, family-friendly posts made with everyday ingredients. Discover delicious and hassle-free home cooking resources designed to make your time in the kitchen more enjoyable and efficient.</p>
-                    <ul>
-                        <li><strong>Simple posts:</strong> Easy-to-follow posts using ingredients you already have at home.</li>
-                        <li><strong>Family-Friendly Dishes:</strong> Meals that everyone will love, from kids to adults.</li>
-                        <li><strong>Time-Saving Tips:</strong> Learn helpful tricks to streamline your cooking process.</li>
-                        <li><strong>Diverse Cuisines:</strong> Explore flavors from around the world, simplified for quick preparation.</li>
-                        <li><strong>Intuitive Navigation:</strong> Find your favorite dishes quickly with our user-friendly platform.</li>
-                    </ul>
+                    <h2>{{ABOUT_EXPLORE_TITLE}}</h2>
+                    <p>{{ABOUT_EXPLORE_INTRO}}</p>
+                    {{ABOUT_EXPLORE_ITEMS}}
 
-                    <h2>Who Am I?</h2>
-                    <p>{{SITE_NAME}} was born from a genuine passion for homemade cooking. I'm Lummy Hayes, and I've dedicated myself to sharing simple, flavorful posts that anyone can prepare successfully. My culinary journey began in my mother's kitchen, where I learned that the best meals are made with heart, quality ingredients, and a touch of creativity.</p>
-                    <ul>
-                        <li><strong>Authentic Passion:</strong> Growing up in a multicultural household exposed me to diverse flavors and cooking traditions.</li>
-                        <li><strong>Practical Approach:</strong> I believe cooking should be accessible, not complicated or time-consuming.</li>
-                        <li><strong>Community-Focused:</strong> {{SITE_NAME}} is a welcoming space for food lovers of all experience levels.</li>
-                        <li><strong>Homemade Focus:</strong> I celebrate the joy and satisfaction of cooking from scratch.</li>
-                    </ul>
+                    <h2>{{ABOUT_FOUNDER_SECTION_TITLE}}</h2>
+                    <p>{{ABOUT_FOUNDER_INTRO}}</p>
+                    {{ABOUT_FOUNDER_ITEMS}}
 
-                    <h2>What Are My Goals?</h2>
-                    <p>At {{SITE_NAME}}, I'm driven by core values that guide everything I create and share with you.</p>
-                    <ul>
-                        <li><strong>Inspire Home Cooking:</strong> Help you create wholesome, delicious meals that are simple to prepare.</li>
-                        <li><strong>Save You Time:</strong> Develop posts that are quick, easy, and achievable with basic pantry staples.</li>
-                        <li><strong>Build Community:</strong> Create a welcoming space where food lovers can share posts and cooking experiences.</li>
-                        <li><strong>Balance Flavor & Practicality:</strong> Craft dishes that deliver amazing flavor without unnecessary complexity.</li>
-                        <li><strong>Provide Clear Instructions:</strong> Ensure every post is easy to follow and consistently successful.</li>
-                    </ul>
+                    <h2>{{ABOUT_GOALS_TITLE}}</h2>
+                    <p>{{ABOUT_GOALS_INTRO}}</p>
+                    {{ABOUT_GOALS_ITEMS}}
 
-                    <h2>How Do I Choose posts?</h2>
-                    <p>Quality and reliability are at the heart of my post selection process. Every post on {{SITE_NAME}} meets strict standards before it's shared with you.</p>
-                    <ul>
-                        <li><strong>Thorough Testing:</strong> Every post is tested multiple times to ensure it works perfectly for you.</li>
-                        <li><strong>Clear Instructions:</strong> I prioritize straightforward, easy-to-follow steps that anyone can succeed with.</li>
-                        <li><strong>Authentic Flavors:</strong> posts showcase genuine cooking techniques and real ingredients.</li>
-                        <li><strong>Attention to Detail:</strong> Images, timing, and preparation steps are carefully verified for accuracy.</li>
-                        <li><strong>Reader Feedback:</strong> Your input helps me continuously improve and refine what I share.</li>
-                    </ul>
+                    <h2>{{ABOUT_SELECTION_TITLE}}</h2>
+                    <p>{{ABOUT_SELECTION_INTRO}}</p>
+                    {{ABOUT_SELECTION_ITEMS}}
                 </div>
-                
+
                 <div class="about-image">
-                    <img src="/assets/chefs.jpg" alt="Lummy Hayes - Post Creator">
+                    <img src="/assets/chefs.jpg" alt="{{ABOUT_FOUNDER_NAME}} - Content Creator">
                 </div>
             </div>
         </div>
@@ -61,13 +38,13 @@
     <!-- Team Section -->
     <section class="team-section">
         <div class="container">
-            <h2>Meet Lummy Hayes</h2>
+            <h2>Meet {{ABOUT_FOUNDER_NAME}}</h2>
             <div class="team-grid">
                 <div class="team-member">
-                    <img src="/authors/chef.webp" alt="Lummy Hayes">
-                    <h3>Lummy Hayes</h3>
-                    <p>Founder & Post Creator</p>
-                </div>                
+                    <img src="/authors/chef.webp" alt="{{ABOUT_FOUNDER_NAME}}">
+                    <h3>{{ABOUT_FOUNDER_NAME}}</h3>
+                    <p>{{ABOUT_FOUNDER_ROLE}}</p>
+                </div>
             </div>
         </div>
     </section>
@@ -75,13 +52,12 @@
     <!-- Contact Section -->
     <div class="container">
         <div class="contact-section">
-            <h3>Let's Connect!</h3>
-            <p>I'd love to hear from you! Share your cooking experiences, ask questions, or suggest posts you'd like me to create.</p>
+            <h3>{{ABOUT_CONNECT_TITLE}}</h3>
+            <p>{{ABOUT_CONNECT_TEXT}}</p>
             <div class="social-links">
                 <a href="mailto:contact@{{SITE_HOST}}">Email</a>
                 <a href="https://www.pinterest.com/pinrecipesblog/" target="_blank">Pinterest</a>
             </div>
         </div>
     </div>
-    
-  
+

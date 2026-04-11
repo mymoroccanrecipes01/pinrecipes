@@ -14,7 +14,18 @@
       "Bash(C:/xampp/php/php.exe -r ':*)",
       "Bash(del \"C:/xampp/htdocs/SitePinterset/keywordsPIN/pinterest_2026-04-08.csv\")",
       "Bash(\"C:/xampp/php/php.exe\" pinterest-keyword-researcher.php)",
-      "Bash(\"C:/xampp/php/php.exe\" -r \"unlink\\('C:/xampp/htdocs/SitePinterset/keywordsPIN/pinterest_2026-04-08.csv'\\);\")"
+      "Bash(\"C:/xampp/php/php.exe\" -r \"unlink\\('C:/xampp/htdocs/SitePinterset/keywordsPIN/pinterest_2026-04-08.csv'\\);\")",
+      "Bash(xargs grep:*)",
+      "Bash(ls -la *.php)",
+      "Bash(cp c:/xampp/htdocs/SitePinterset/pinrecipes/page-content-api.php c:/xampp/htdocs/SitePinterset/SmartBudgetStart/page-content-api.php)",
+      "Bash(cp c:/xampp/htdocs/SitePinterset/pinrecipes/router.js c:/xampp/htdocs/SitePinterset/SmartBudgetStart/router.js)",
+      "Bash(cp c:/xampp/htdocs/SitePinterset/pinrecipes/pages/home-content.html c:/xampp/htdocs/SitePinterset/SmartBudgetStart/pages/home-content.html)",
+      "Bash(cp c:/xampp/htdocs/SitePinterset/pinrecipes/pages/about-content.html c:/xampp/htdocs/SitePinterset/SmartBudgetStart/pages/about-content.html)",
+      "Bash(cp c:/xampp/htdocs/SitePinterset/pinrecipes/pages/contact-content.html c:/xampp/htdocs/SitePinterset/SmartBudgetStart/pages/contact-content.html)",
+      "Bash(php -l \"c:/xampp/htdocs/SitePinterset/pinrecipes/page-content-api.php\")",
+      "Bash(php -r ':*)",
+      "Bash(cp \"c:/xampp/htdocs/SitePinterset/pinrecipes/page-content-api.php\" \"c:/xampp/htdocs/SitePinterset/SmartBudgetStart/page-content-api.php\")",
+      "Bash(php -l \"c:/xampp/htdocs/SitePinterset/SmartBudgetStart/page-content-api.php\")"
     ]
   }
 }
