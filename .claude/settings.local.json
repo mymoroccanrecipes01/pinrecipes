@@ -27,7 +27,8 @@
       "Bash(cp \"c:/xampp/htdocs/SitePinterset/pinrecipes/page-content-api.php\" \"c:/xampp/htdocs/SitePinterset/SmartBudgetStart/page-content-api.php\")",
       "Bash(php -l \"c:/xampp/htdocs/SitePinterset/SmartBudgetStart/page-content-api.php\")",
       "Bash(php -l c:/xampp/htdocs/SitePinterset/create-main.php)",
-      "Bash(php -l c:/xampp/htdocs/SitePinterset/create-satellite.php)"
+      "Bash(php -l c:/xampp/htdocs/SitePinterset/create-satellite.php)",
+      "Bash(grep -E \"\\\\.\\(php|py|js|json|sh\\)$\")"
     ]
   }
 }
