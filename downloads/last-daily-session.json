@@ -1,14 +1,95 @@
 {
-    "date": "2026-04-11T22:04:47+02:00",
-    "filename": "pinterest_daily_2026-04-11.csv",
+    "date": "2026-04-12T15:28:09+02:00",
+    "filename": "pinterest_daily_2026-04-12.csv",
     "articles": [
         {
-            "slug": "5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/5-ingredient-chocolate-cake-ready-in-30-minutes-that-tastes-like-a-dream/post.json",
+            "slug": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/post.json",
             "original": {
-                "createdAt": "2026-04-11T22:03:06+02:00",
+                "createdAt": "2026-04-12T15:12:02+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-04-11T22:03:06+02:00"
+                "updatedAt": "2026-04-12T15:12:02+02:00"
+            }
+        },
+        {
+            "slug": "5-ingredient-chocolate-cake-ready-in-30-minutes-simple-and-delicious",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/5-ingredient-chocolate-cake-ready-in-30-minutes-simple-and-delicious/post.json",
+            "original": {
+                "createdAt": "2026-04-12T14:58:40+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-12T14:58:40+02:00"
+            }
+        },
+        {
+            "slug": "crispy-airfryer-chicken-thighs-with-garlic-herb-butter-that-melt-in-your-mouth",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crispy-airfryer-chicken-thighs-with-garlic-herb-butter-that-melt-in-your-mouth/post.json",
+            "original": {
+                "createdAt": "2026-04-12T15:09:13+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-12T15:09:13+02:00"
+            }
+        },
+        {
+            "slug": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/post.json",
+            "original": {
+                "createdAt": "2026-04-12T15:10:40+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-12T15:10:40+02:00"
+            }
+        },
+        {
+            "slug": "no-bake-lemon-cheesecake-with-summer-berry-topping-light-refreshing-easy",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/no-bake-lemon-cheesecake-with-summer-berry-topping-light-refreshing-easy/post.json",
+            "original": {
+                "createdAt": "2026-04-12T15:03:20+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-12T15:03:20+02:00"
+            }
+        },
+        {
+            "slug": "berry-protein-smoothie-bowl-with-chia-seeds-and-granola-a-fresh-energizing-breakfast",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/berry-protein-smoothie-bowl-with-chia-seeds-and-granola-a-fresh-energizing-breakfast/post.json",
+            "original": {
+                "createdAt": "2026-04-12T15:14:14+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-12T15:14:14+02:00"
+            }
+        },
+        {
+            "slug": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/post.json",
+            "original": {
+                "createdAt": "2026-04-12T15:00:02+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-12T15:00:02+02:00"
+            }
+        },
+        {
+            "slug": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/post.json",
+            "original": {
+                "createdAt": "2026-04-12T15:07:47+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-12T15:07:47+02:00"
+            }
+        },
+        {
+            "slug": "creamy-no-bake-cheesecake-with-mixed-berry-sauce-that-melts-in-your-mouth",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/creamy-no-bake-cheesecake-with-mixed-berry-sauce-that-melts-in-your-mouth/post.json",
+            "original": {
+                "createdAt": "2026-04-12T15:04:54+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-12T15:04:54+02:00"
+            }
+        },
+        {
+            "slug": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/post.json",
+            "original": {
+                "createdAt": "2026-04-12T15:06:22+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-12T15:06:22+02:00"
             }
         }
     ]
