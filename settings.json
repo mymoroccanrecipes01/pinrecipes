@@ -1,8 +1,8 @@
 {
     "linkPinActive": true,
-    "lastDailyRun": "2026-04-14",
+    "lastDailyRun": "2026-04-15",
     "pipelineIntervalDays": 1,
     "lastPipelineRun": null,
-    "pipelineLimitMin": 8,
-    "pipelineLimitMax": 10
+    "pipelineLimitMin": 5,
+    "pipelineLimitMax": 5
 }
