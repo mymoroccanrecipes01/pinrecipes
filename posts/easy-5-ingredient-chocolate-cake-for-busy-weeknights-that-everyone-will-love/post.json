@@ -1,0 +1,351 @@
+{
+    "title": "Easy 5 Ingredient Chocolate Cake for Busy Weeknights That Everyone Will Love",
+    "promptIMG": "Food photography: Easy 5 Ingredient Chocolate Cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chocolate cake is my go-to when time is tight but I still want something homemade and delicious. Just five simple ingredients, no fancy tools needed, and it’s ready in under an hour. Perfect for a cozy weeknight treat!",
+    "hashtags": "#chocolatecake #easybaking #weeknightdessert",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Whip Up This 5 Ingredient Chocolate Cake in Under an Hour!",
+            "description": "Craving chocolate but short on time? This simple 5 ingredient cake is your answer! Moist, chocolatey, and foolproof. Save this recipe for your next busy night 🍫✨ #chocolatecake #easybaking #dessertlover",
+            "hashtags": "#chocolatecake #easybaking #dessertlover #quickdessert #weeknightbaking"
+        },
+        {
+            "title": "No Fuss Chocolate Cake Recipe with Just 5 Ingredients!",
+            "description": "You don’t need a pantry full of fancy stuff to make a delicious chocolate cake. This recipe uses just 5 ingredients and comes together super fast. Try it today and enjoy a sweet win! 🎂👌 #simplecake #chocolatelover #bakingmadeeasy",
+            "hashtags": "#simplecake #chocolatelover #bakingmadeeasy #quickrecipe #homemade"
+        },
+        {
+            "title": "Busy Weeknight? Make This Easy 5 Ingredient Chocolate Cake Now!",
+            "description": "When the day’s been long, this chocolate cake is a lifesaver. Five ingredients, minimal effort, and maximum chocolate goodness. Discover your new favorite quick dessert 🍰❤️ #chocolatecake #weeknightdessert #easyrecipes",
+            "hashtags": "#chocolatecake #weeknightdessert #easyrecipes #fastdessert #familyfavorite"
+        },
+        {
+            "title": "Simple, Moist Chocolate Cake with Only 5 Ingredients - Try It!",
+            "description": "This cake is so moist and chocolaty, you’d never guess it’s made with just five ingredients. Perfect for beginners or anyone craving a quick homemade dessert. Save this recipe and bake tonight! 🍫🎉 #easybaking #chocolatecake #desserttime",
+            "hashtags": "#easybaking #chocolatecake #desserttime #quickbake #bakingfun"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 and 1/2 cups all-purpose flour, sifted",
+        "1 cup granulated sugar",
+        "1/4 cup unsweetened cocoa powder, sifted",
+        "1 teaspoon baking soda",
+        "1 cup water, room temperature"
+    ],
+    "yield": "One 8-inch round cake, 8 servings",
+    "introduction": "I first made this 5 ingredient chocolate cake on a hectic weeknight when I had zero time but desperately wanted something chocolatey and homemade. I was amazed by how simple it was—no eggs, no butter, just pantry staples. What makes this version stand out is the use of just a handful of ingredients and the magic of baking soda reacting with the cocoa and water to create a moist, tender crumb. I love that it’s naturally dairy-free and comes together in about 45 minutes total. The trick I learned was to sift the dry ingredients well to avoid lumps and to mix just until combined to keep the texture light. The finished cake is rich, fudgy, and perfectly balanced—not too sweet but deeply chocolatey. It’s my go-to when I want a quick dessert that feels homemade without the fuss. I think you’ll love how easy it is to whip up after a busy day, and it’s great for sharing with family or friends. Plus, it pairs beautifully with a scoop of ice cream or a dusting of powdered sugar. This cake really proves that less can be more in baking!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease an 8-inch round cake pan with a little oil or non-stick spray. This step ensures your cake won’t stick and will come out cleanly after baking. Using a round pan helps the cake bake evenly. If you skip greasing, you risk tearing the cake when removing it, so don’t skip this! Also, line the bottom with parchment paper for extra insurance against sticking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan is evenly greased with no dry spots; parchment fits snugly"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, sift together the flour, sugar, cocoa powder, and baking soda. Sifting helps break up any lumps and aerates the mixture, which leads to a lighter cake texture. If you skip sifting, you might get uneven pockets of cocoa or baking soda, which can cause bitter spots or uneven rising. Take your time here, and mix the dry ingredients well to ensure they’re fully combined.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are smooth, uniform in color, and lump-free"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the water to the dry ingredients and gently stir with a wooden spoon or spatula until just combined. Avoid overmixing here because it can develop gluten, making the cake dense and tough. The batter will be somewhat thin and smooth. If you see dry patches, keep folding gently until everything is incorporated. Overmixing is a common mistake that ruins the cake’s delicate crumb.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth, slightly runny, and no flour streaks remain"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the batter into the prepared cake pan, smoothing the top with a spatula so it’s even. This helps the cake bake uniformly. Tap the pan gently on the counter to release any air bubbles trapped inside, which can cause holes or cracks in the cake surface.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter surface is smooth and even with no large bubbles"
+        },
+        {
+            "step": 5,
+            "instruction": "Bake the cake in the preheated oven for 25-30 minutes. Start checking at 25 minutes by inserting a toothpick into the center; it should come out with just a few moist crumbs but no wet batter. Baking too long will dry out the cake, while underbaking leaves it gooey and unstable. The edges will start pulling away slightly from the pan when it’s done.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Toothpick inserted in center comes out mostly clean with moist crumbs"
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the cake from the oven and let it cool in the pan on a wire rack for about 10 minutes. This resting time lets the cake set and makes it easier to remove from the pan without breaking. If you try to unmold it while hot, it’s fragile and likely to crumble.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cake feels firm to the touch and pulls slightly away from pan edges"
+        },
+        {
+            "step": 7,
+            "instruction": "Run a knife or thin spatula around the edges of the cake to loosen it from the pan. Then invert onto a wire rack to cool completely. Cooling fully prevents the cake from becoming soggy from trapped steam and helps it slice cleanly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cake releases easily from pan and is fully cooled to room temperature"
+        },
+        {
+            "step": 8,
+            "instruction": "Once cooled, dust the cake with powdered sugar or cocoa powder if desired, or serve as is with whipped cream or ice cream. This adds a nice visual touch and enhances flavor without extra fuss. You can also drizzle with melted chocolate for a decadent finish.",
+            "timing": "5 minutes",
+            "doneness_cue": "Even dusting or drizzle covers the cake attractively"
+        },
+        {
+            "step": 9,
+            "instruction": "Slice with a sharp knife dipped in hot water and dried between cuts for clean slices. This prevents the cake from crumbling or sticking to the knife. Serve immediately or store leftovers properly. Enjoy your simple homemade chocolate cake!",
+            "timing": "5 minutes",
+            "doneness_cue": "Slices are neat, with clean edges and no crumbling"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Simple Chocolate Cake Works So Well",
+        "content": "<p>This chocolate cake recipe succeeds because it leverages the natural chemistry of a few basic ingredients to create a moist, tender crumb without any eggs or butter. The baking soda reacts with the acidic cocoa powder and the water to produce carbon dioxide bubbles, which help the cake rise and stay light. Using room temperature water allows the baking soda to activate evenly during baking, ensuring consistent texture.</p><p>The choice of cocoa powder is crucial; unsweetened natural cocoa powder offers both acidity for leavening and a deep chocolate flavor. Sifting the dry ingredients aerates the mixture, which contributes to the cake’s lightness, and prevents clumps that might cause uneven texture or bitterness. Overmixing is avoided to prevent gluten development, which would toughen the crumb.</p><p>By skipping eggs and fats, the recipe is naturally dairy-free and streamlined, but the balance of sugar and cocoa powder ensures it remains rich and satisfying. The relatively thin batter spreads evenly in the pan, baking into a tender, moist cake with a subtle crust on top. Cooling the cake in the pan before unmolding helps it set, preventing breakage.</p><p>Overall, the simplicity of ingredients combined with attention to technique creates a reliable, quick chocolate cake that feels indulgent despite its humble origins.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good quality all-purpose flour with moderate protein content (around 10-11%). This ensures the right balance of structure and tenderness in the cake. Avoid bread flour which is higher in protein and can make cakes tough. Sifting the flour before mixing helps aerate it and removes lumps, contributing to a lighter crumb.",
+            "granulated sugar": "Regular granulated sugar not only sweetens but also helps tenderize the cake by interfering with gluten formation. Using the right amount ensures the cake isn’t overly sweet but still balances the bitterness of cocoa. Avoid coarse sugars here as they won’t dissolve well and can affect texture.",
+            "unsweetened cocoa powder": "Natural unsweetened cocoa powder is acidic, which reacts with baking soda to leaven the cake. Dutch-processed cocoa is neutral and won’t react the same way, so it’s best avoided in this recipe. Sift cocoa powder with the flour to break up clumps and ensure even distribution.",
+            "baking soda": "Baking soda is a base that reacts with the acidic cocoa powder and liquid to produce carbon dioxide gas, which helps the cake rise. Use fresh baking soda for best results; old or expired soda will reduce rise and cause dense cake. Measure carefully to avoid off flavors or excessive rise.",
+            "water": "Room temperature water hydrates the dry ingredients and activates the baking soda. Cold water slows the reaction, while hot water might cause premature leavening. Water also helps dissolve sugar and cocoa evenly, resulting in a smooth batter and moist crumb."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always sift your dry ingredients before mixing.",
+            "reason": "Sifting breaks up clumps, aerates the flour and cocoa, and ensures even mixing. This leads to a lighter, more uniform crumb and prevents bitter pockets of baking soda or cocoa."
+        },
+        {
+            "tip": "Don’t overmix the batter once you add water.",
+            "reason": "Overmixing develops gluten in the flour, which toughens the cake and ruins its tender texture. Stir just until combined for a soft, moist crumb."
+        },
+        {
+            "tip": "Use room temperature water for mixing.",
+            "reason": "Room temp water activates the baking soda evenly without slowing or speeding up the chemical reaction, ensuring consistent rise and texture."
+        },
+        {
+            "tip": "Grease and line your pan with parchment paper.",
+            "reason": "This prevents sticking and helps the cake release easily without breaking, giving you a perfect shape and smooth edges."
+        },
+        {
+            "tip": "Check the cake starting at 25 minutes to avoid overbaking.",
+            "reason": "Ovens vary, and overbaking dries out the cake. A toothpick with moist crumbs means it’s perfectly done and still tender."
+        },
+        {
+            "tip": "Cool the cake in the pan before removing.",
+            "reason": "This resting time lets the cake set and reduces the risk of it crumbling or breaking when unmolding."
+        },
+        {
+            "tip": "Use a hot, clean knife for slicing.",
+            "reason": "Dipping your knife in hot water and wiping it between cuts makes slicing cleaner and prevents the cake from sticking or tearing."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping sifting of dry ingredients",
+            "why_it_happens": "Many skip sifting to save time or because they think it’s unnecessary, not realizing it impacts texture.",
+            "fix": "Always sift flour, cocoa, and baking soda together to ensure even mixing and avoid lumps that cause uneven texture or bitter spots."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "It’s tempting to mix thoroughly to get rid of lumps, but this develops gluten.",
+            "fix": "Mix just until the dry ingredients are moistened. A few small lumps are okay; they’ll bake out."
+        },
+        {
+            "mistake": "Using expired baking soda",
+            "why_it_happens": "People often store baking soda for long periods without checking freshness.",
+            "fix": "Test baking soda by adding a little vinegar; it should fizz vigorously. If not, replace it for proper rise."
+        },
+        {
+            "mistake": "Not greasing the pan properly",
+            "why_it_happens": "Rushing or forgetting this step leads to sticking.",
+            "fix": "Grease all sides of the pan and line the bottom with parchment for easy release."
+        },
+        {
+            "mistake": "Baking at incorrect temperature",
+            "why_it_happens": "Oven temperatures vary and some don’t preheat fully.",
+            "fix": "Use an oven thermometer to ensure 350°F and preheat fully before baking for even cooking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Espresso Powder for Deeper Chocolate Flavor",
+            "description": "Stir in 1 teaspoon of instant espresso powder with the dry ingredients to intensify the chocolate notes without adding coffee flavor. This boosts richness and complexity, making the cake taste more gourmet.",
+            "technical_note": "Espresso powder dissolves quickly and doesn’t affect batter texture; no baking time adjustment needed."
+        },
+        {
+            "name": "Swap Water for Almond Milk for a Creamier Cake",
+            "description": "Replace water with unsweetened almond milk to add subtle nuttiness and a creamier crumb. This variation works great for those wanting a dairy-free but richer texture.",
+            "technical_note": "Use room temperature almond milk; baking time remains the same."
+        },
+        {
+            "name": "Top with Fresh Berries and Whipped Cream",
+            "description": "After cooling, serve the cake with fresh raspberries or strawberries and a dollop of whipped cream for a bright, fresh contrast to the rich chocolate.",
+            "technical_note": "No changes to cake prep; add toppings just before serving."
+        },
+        {
+            "name": "Make It a Layer Cake with Simple Chocolate Frosting",
+            "description": "Double the recipe and bake in two pans to create layers. Frost with a quick chocolate glaze made from cocoa, powdered sugar, and milk for an impressive yet easy dessert.",
+            "technical_note": "Bake layers for slightly less time (20-25 minutes); cool completely before frosting."
+        },
+        {
+            "name": "Add a Pinch of Cinnamon for Warmth",
+            "description": "Mix 1/2 teaspoon ground cinnamon into the dry ingredients to add subtle warmth and spice that pairs beautifully with chocolate.",
+            "technical_note": "No baking time change; cinnamon blends seamlessly."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "1g",
+        "fiber_grams": "3g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the cake covered loosely with foil or a cake dome at room temperature for up to 2 days. Avoid airtight containers at room temp to prevent sogginess. The cake stays moist but fresh for quick enjoyment.",
+        "refrigerator": "Keep in an airtight container in the fridge for up to 5 days. The cake may firm up and dry slightly when chilled, so bring to room temperature before serving or warm gently in the microwave for 10-15 seconds.",
+        "freezer": "Wrap tightly in plastic wrap and then foil before freezing. Freeze for up to 2 months. Thaw overnight in the fridge or for a few hours at room temp. Reheat gently to restore softness.",
+        "reheating": "Warm slices in the microwave for 15-20 seconds or in a 300°F oven for 5-7 minutes wrapped in foil. Add a splash of water or cover with foil to retain moisture and avoid drying out.",
+        "make_ahead_strategy": "Mix the dry ingredients a day ahead and store in an airtight container. Add water and bake fresh when ready. Alternatively, bake the cake and freeze; thaw and reheat before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute oil or butter for the water in this recipe?",
+            "answer": "This recipe is designed to be simple and dairy-free, relying on water and baking soda’s reaction for moisture and rise. Adding oil or butter changes the texture and may require adjusting other ingredients. For a richer cake, you could try adding a few tablespoons of oil, but it won’t be the same easy five-ingredient version."
+        },
+        {
+            "question": "What if I don’t have baking soda? Can I use baking powder?",
+            "answer": "Baking soda is key here because it reacts with the acidic cocoa powder to leaven the cake. Baking powder contains baking soda but also an acid, so substituting it will change the chemistry and may result in a less tender cake. If you must use baking powder, use about three times the amount, but expect a different texture."
+        },
+        {
+            "question": "Why is my cake dense or flat?",
+            "answer": "Common reasons include expired baking soda, overmixing the batter, or incorrect oven temperature. Make sure your baking soda is fresh, mix gently, and bake at 350°F. Also, don’t open the oven door early, which can cause the cake to collapse."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Yes! Substitute the all-purpose flour with a gluten-free flour blend designed for baking. Make sure it contains xanthan gum or add a teaspoon separately to help with structure. The texture may be slightly different but still delicious."
+        },
+        {
+            "question": "How do I store leftover cake?",
+            "answer": "Store leftovers in an airtight container at room temperature for up to 2 days or in the fridge for up to 5 days. For longer storage, freeze wrapped tightly for up to 2 months."
+        },
+        {
+            "question": "Can I add eggs to this recipe?",
+            "answer": "You can, but it changes the simplicity and texture. Adding one egg will make the cake richer and more traditional but requires adjusting the liquid. This recipe is designed to be egg-free for ease and speed."
+        },
+        {
+            "question": "Why does the cake sometimes crack on top?",
+            "answer": "Cracks can happen if the oven is too hot or the batter is overmixed. Make sure your oven temperature is accurate and mix just until combined to prevent a tough crust that cracks."
+        },
+        {
+            "question": "Can I make cupcakes with this batter?",
+            "answer": "Absolutely! Fill cupcake liners about two-thirds full and bake for 18-22 minutes. Keep an eye on them as cupcakes bake faster than cakes."
+        }
+    ],
+    "conclusion": "I hope you give this easy 5 ingredient chocolate cake a try—it’s a quick, comforting treat that fits perfectly into busy weeknights. Let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "easy 5 ingredient chocolate cake",
+        "secondary_keywords": [
+            "simple chocolate cake recipe",
+            "quick chocolate cake",
+            "how to make chocolate cake",
+            "best easy chocolate cake recipe",
+            "easy chocolate cake"
+        ],
+        "internal_links": [
+            {
+                "text": "easy chocolate frosting recipe",
+                "anchor": "easy-chocolate-frosting"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-04-19 01:16:29",
+        "title_seed": "Easy 5 Ingredient Chocolate Cake for Busy Weeknights"
+    },
+    "author_id": "author_001",
+    "id": "post_1776554189_232",
+    "slug": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love",
+    "uniqueSlug": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_9.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_4.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_6.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_8.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_7.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_5.webp",
+            "relativePath": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "image": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_1.webp",
+    "image_dir": "easy-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-04-19T01:45:05+02:00",
+    "updatedAt": "2026-04-19T01:45:05+02:00"
+}
