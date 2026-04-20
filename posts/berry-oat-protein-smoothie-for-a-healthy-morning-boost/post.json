@@ -1,0 +1,350 @@
+{
+    "title": "Berry Oat Protein Smoothie for a Healthy Morning Boost",
+    "promptIMG": "Food photography: Berry Oat Protein Smoothie, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This smoothie blends berries, oats, and protein powder for a filling, nutritious start to your day. The oats add a nice texture and keep you full longer. Great for busy mornings or post-workout fuel!",
+    "hashtags": "#berrysmoothie #healthybreakfast #proteinboost",
+    "board_name": "Healthy Breakfast Ideas",
+    "pin_variations": [
+        {
+            "title": "Start Your Day Right with This Berry Oat Protein Smoothie!",
+            "description": "Looking for a quick and tasty breakfast? This berry oat protein smoothie is packed with nutrients and ready in minutes. Save this recipe for your next busy morning! 🍓🥣 #healthybreakfast #smoothierecipe #morningboost"
+        },
+        {
+            "title": "The Perfect Berry Oat Smoothie to Fuel Your Morning",
+            "description": "Fuel your mornings with this creamy berry oat protein smoothie. It’s easy to make, delicious, and keeps you energized all day. Try it today and feel the difference! 💪🍓 #proteinshake #healthyrecipes #breakfastideas"
+        },
+        {
+            "title": "Berry Oat Protein Smoothie: Your New Morning Favorite",
+            "description": "Say goodbye to boring breakfasts! This smoothie combines berries, oats, and protein for a tasty, nourishing treat. Discover now and enjoy a healthy boost every day! 🍓✨ #smoothiebowl #healthyhabits #morningfuel"
+        },
+        {
+            "title": "Quick & Nutritious Berry Oat Protein Smoothie Recipe",
+            "description": "Need a fast and wholesome breakfast? This berry oat protein smoothie is just what you need. Packed with fiber and protein, it’s perfect for busy mornings. Save it and try it soon! 🥄🍓 #easybreakfast #proteinpacked #smoothielove"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "1 cup mixed frozen berries",
+        "1/2 cup rolled oats",
+        "1 scoop vanilla protein powder",
+        "1 cup unsweetened almond milk",
+        "1/2 cup plain Greek yogurt",
+        "1 tablespoon honey or maple syrup",
+        "1/2 teaspoon ground cinnamon",
+        "Optional: 1 tablespoon chia seeds"
+    ],
+    "yield": "Approximately 2 servings",
+    "introduction": "I first stumbled upon this berry oat protein smoothie on a hectic morning when I needed something fast but nourishing. I’d tried plain fruit smoothies before, but they never kept me full for long. Adding oats was a game-changer—they give the smoothie a lovely texture and slow down digestion, so you stay satisfied. Plus, the protein powder and Greek yogurt add that extra boost I need to power through my mornings. What makes this version different is the subtle cinnamon and the natural sweetness from honey, which balance the tart berries perfectly. It’s creamy, slightly sweet, and packed with fiber and protein. I love whipping this up when I’m rushing out the door or after a workout. It’s a refreshing yet comforting way to start the day, and honestly, it’s become a staple in my routine. If you want a breakfast that’s easy, quick, and genuinely tasty, give this a try—you might just love it as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by adding the rolled oats to your blender. Using rolled oats instead of instant or quick oats gives the smoothie a better texture and helps it thicken naturally. Make sure to pulse the oats a few times before adding other ingredients; this helps break them down slightly for a smoother blend. Avoid skipping this step or your smoothie might end up gritty or too thick to drink easily.",
+            "timing": "2 minutes",
+            "doneness_cue": "Oats should be slightly broken down but not completely powdered."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the frozen mixed berries next. Using frozen berries chills the smoothie perfectly without needing ice, which can dilute flavors. The mix of berries—like strawberries, blueberries, and raspberries—adds a nice balance of sweetness and tartness. If you rush this step or use fresh berries without ice, your smoothie may be less refreshing.",
+            "timing": "1 minute",
+            "doneness_cue": "Berries should be visibly solid and frozen, no thawed mush."
+        },
+        {
+            "step": 3,
+            "instruction": "Scoop in one serving of vanilla protein powder. I like vanilla because it complements the berries without overpowering them. Protein powder not only boosts nutrition but also makes the smoothie more filling. If you skip this, the smoothie will be less sustaining and more like a juice.",
+            "timing": "1 minute",
+            "doneness_cue": "Protein powder should be fully added and ready to blend."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in one cup of unsweetened almond milk. Almond milk keeps the smoothie light and dairy-free, but you can substitute with regular milk or oat milk if you prefer. The amount controls the thickness, so add gradually if you want a thicker smoothie. Rushing this step by adding too much liquid can make the smoothie runny and less satisfying.",
+            "timing": "1 minute",
+            "doneness_cue": "Milk fully poured and level with other ingredients."
+        },
+        {
+            "step": 5,
+            "instruction": "Add half a cup of plain Greek yogurt. This adds creaminess and a slight tang that balances the sweet berries. Greek yogurt also ups the protein and probiotics. Using flavored yogurt might add unwanted sugars or flavors that clash with the cinnamon and honey.",
+            "timing": "1 minute",
+            "doneness_cue": "Yogurt fully incorporated with other ingredients before blending."
+        },
+        {
+            "step": 6,
+            "instruction": "Drizzle in one tablespoon of honey or maple syrup for natural sweetness. This step is optional depending on your berry sweetness and personal taste. If you skip it, the smoothie may be tarter but still delicious. Adding too much sweetener can overwhelm the fresh berry flavor, so start with less and adjust after blending.",
+            "timing": "30 seconds",
+            "doneness_cue": "Sweetener evenly poured over other ingredients."
+        },
+        {
+            "step": 7,
+            "instruction": "Sprinkle in half a teaspoon of ground cinnamon. Cinnamon adds warmth and depth, enhancing the overall flavor without overpowering the berries. It also has health benefits like blood sugar regulation. Don’t skip this if you want that cozy, balanced taste.",
+            "timing": "30 seconds",
+            "doneness_cue": "Cinnamon visible as a light dusting on top of ingredients."
+        },
+        {
+            "step": 8,
+            "instruction": "Optional: toss in one tablespoon of chia seeds for extra fiber and omega-3s. Chia seeds also thicken the smoothie slightly and add a nice texture contrast. If you don’t like the texture, feel free to leave them out.",
+            "timing": "30 seconds",
+            "doneness_cue": "Chia seeds evenly distributed among the ingredients."
+        },
+        {
+            "step": 9,
+            "instruction": "Blend everything on high for 45-60 seconds until smooth and creamy. Stop and scrape down the sides halfway through to ensure even blending. The oats and seeds should be fully incorporated without chunks. If you blend too briefly, the oats might remain grainy, but over-blending can heat up the smoothie and reduce freshness.",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie looks creamy and uniform in color with no visible chunks."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Smoothie Delivers the Perfect Morning Boost",
+        "content": "<p>This berry oat protein smoothie works because it balances macronutrients and textures to keep you full and energized. The rolled oats slowly release carbohydrates, providing sustained energy without sharp blood sugar spikes. Their soluble fiber thickens the smoothie, making it more satisfying and creamy without needing extra fats.</p><p>The protein powder and Greek yogurt add essential amino acids that support muscle repair and satiety. Protein slows digestion and keeps hunger at bay longer than carbs alone. Using vanilla-flavored protein powder complements the berries’ tartness without clashing, creating a harmonious flavor profile.</p><p>Frozen berries act as natural chillers that eliminate the need for ice, which can water down the drink. Their antioxidants and vitamins boost immunity and add vibrant color. Cinnamon adds warmth and subtle sweetness, enhancing the overall flavor while offering blood sugar regulation benefits. The optional chia seeds contribute omega-3 fatty acids and fiber, improving texture and nutrition.</p><p>Altogether, these ingredients create a smoothie that’s not just tasty but thoughtfully designed to fuel your morning effectively. The texture is creamy yet light, the flavor is balanced between sweet and tangy, and the nutrition supports energy and fullness for hours.</p>",
+        "ingredient_notes": {
+            "Rolled Oats": "Look for old-fashioned rolled oats rather than instant or quick-cooking varieties. Rolled oats maintain texture and provide the right amount of soluble fiber to thicken the smoothie naturally. They also have a mild flavor that blends well. Avoid steel-cut oats as they won’t blend smoothly and can be gritty. Store oats in a cool, dry place for freshness.",
+            "Mixed Frozen Berries": "Choose a blend of berries like strawberries, blueberries, and raspberries for a complex flavor profile. Frozen berries are preferable because they chill the smoothie and retain nutrients. Avoid fresh berries unless you add ice, as the smoothie won’t be as cold or refreshing. Check for no added sugar or preservatives in frozen packs.",
+            "Vanilla Protein Powder": "Select a high-quality vanilla protein powder with minimal additives and sugars. Whey or plant-based options both work well. The vanilla flavor enhances the berry sweetness and adds creaminess. Avoid flavored powders with strong artificial tastes or fillers that can overpower the smoothie.",
+            "Unsweetened Almond Milk": "Unsweetened almond milk keeps the smoothie light and dairy-free. It adds a subtle nutty flavor without extra sugar or calories. You can substitute with oat or regular milk, but that will affect the texture and flavor slightly. Always choose unsweetened versions to control sweetness.",
+            "Plain Greek Yogurt": "Greek yogurt adds creaminess, protein, and a slight tang that balances the sweet berries. Use plain, full-fat or low-fat depending on your preference. Flavored yogurts often contain added sugars that can disrupt the flavor balance. Also, Greek yogurt’s thickness helps create a smooth, rich texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pulse the oats before blending fully.",
+            "reason": "Breaking down the oats a bit before adding liquids helps avoid grainy bits in the smoothie. It ensures a creamier texture and better mouthfeel, which is key for a satisfying smoothie experience."
+        },
+        {
+            "tip": "Use frozen berries instead of fresh for chilling.",
+            "reason": "Frozen berries cool the smoothie naturally without watering it down like ice cubes would. This keeps flavors bold and the texture thick and creamy."
+        },
+        {
+            "tip": "Add protein powder last and blend thoroughly.",
+            "reason": "Adding protein powder last allows it to mix evenly without clumping. Proper blending ensures smooth texture and consistent flavor throughout the smoothie."
+        },
+        {
+            "tip": "Adjust liquid quantity based on desired thickness.",
+            "reason": "Adding liquid gradually helps control smoothie consistency. Too much liquid makes it thin and less filling, while too little can make blending difficult or result in a chalky texture."
+        },
+        {
+            "tip": "Include a pinch of cinnamon for warmth.",
+            "reason": "Cinnamon enhances sweetness naturally and adds depth to the flavor profile. It also has health benefits like blood sugar regulation, making your smoothie both tasty and functional."
+        },
+        {
+            "tip": "Use plain Greek yogurt to avoid extra sugars.",
+            "reason": "Flavored yogurts often contain added sugars that can overpower the natural berry flavor and increase calories unnecessarily. Plain yogurt keeps the smoothie balanced and healthy."
+        },
+        {
+            "tip": "Add chia seeds for extra fiber and texture.",
+            "reason": "Chia seeds absorb liquid and create a gel-like texture that thickens the smoothie and adds omega-3 fatty acids. They boost nutrition without affecting flavor much."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using instant oats instead of rolled oats",
+            "why_it_happens": "People often grab whatever oats they have, assuming instant oats will blend fine. Instant oats break down too much and can make the smoothie gummy or overly thick.",
+            "fix": "Use old-fashioned rolled oats for the right texture. If you only have instant oats, reduce the amount by half and add more liquid to avoid a paste-like smoothie."
+        },
+        {
+            "mistake": "Adding too much liquid at once",
+            "why_it_happens": "Rushing to add all the almond milk can make the smoothie too runny and thin, losing that creamy, satisfying texture.",
+            "fix": "Start with less liquid and add more gradually while blending until you reach your preferred thickness."
+        },
+        {
+            "mistake": "Skipping the protein powder",
+            "why_it_happens": "Some skip protein powder thinking the smoothie is healthy enough, but this reduces the filling power and nutritional balance.",
+            "fix": "Include a scoop of protein powder to boost satiety and muscle-repair benefits, especially if you drink it as a meal replacement or post-workout."
+        },
+        {
+            "mistake": "Using sweetened almond milk",
+            "why_it_happens": "Sweetened almond milk adds extra sugars that can overpower the natural berry flavor and add unnecessary calories.",
+            "fix": "Choose unsweetened almond milk to control sweetness and keep the smoothie balanced."
+        },
+        {
+            "mistake": "Not blending long enough",
+            "why_it_happens": "A quick blend can leave oats and seeds chunky, resulting in an unpleasant texture.",
+            "fix": "Blend for at least 45 seconds, scraping down the sides midway, to ensure a smooth, creamy consistency."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tropical Berry Oat Smoothie",
+            "description": "Swap mixed berries for frozen mango and pineapple chunks for a tropical twist. Add a splash of coconut milk to enhance the flavor. This version is bright, refreshing, and just as nourishing.",
+            "technical_note": "Coconut milk is richer, so reduce almond milk slightly to maintain desired thickness."
+        },
+        {
+            "name": "Green Berry Oat Smoothie",
+            "description": "Add a handful of fresh spinach or kale to the original recipe for a green boost. The berries mask the greens’ bitterness, making it a tasty way to sneak in extra veggies.",
+            "technical_note": "Blend greens first with milk to avoid leafy chunks before adding other ingredients."
+        },
+        {
+            "name": "Peanut Butter Berry Oat Smoothie",
+            "description": "Stir in one tablespoon of natural peanut butter for added creaminess and protein. This variation is richer and has a satisfying nutty flavor that pairs beautifully with berries.",
+            "technical_note": "Peanut butter thickens the smoothie, so add more liquid if needed."
+        },
+        {
+            "name": "Vegan Berry Oat Smoothie",
+            "description": "Use a plant-based protein powder and replace Greek yogurt with coconut yogurt to make this smoothie fully vegan. It stays creamy and delicious without dairy.",
+            "technical_note": "Coconut yogurt is less tangy, so consider adding a squeeze of lemon juice for brightness."
+        },
+        {
+            "name": "Spiced Berry Oat Smoothie",
+            "description": "Add a pinch of nutmeg and ground ginger along with cinnamon for a warm, spiced flavor profile. This variation is cozy and perfect for chilly mornings.",
+            "technical_note": "Use spices sparingly to avoid overpowering the berries."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "25g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "6g",
+        "fiber_grams": "7g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This smoothie is best enjoyed immediately but can be left at room temperature for up to 1 hour if covered. Beyond that, freshness and texture start to degrade.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 24 hours. The smoothie may thicken as oats absorb liquid; stir well before drinking. It’s best served cold or at room temperature.",
+        "freezer": "You can freeze the smoothie in ice cube trays for up to 2 months. Thaw in the fridge overnight and blend again with a splash of almond milk to restore creaminess before serving.",
+        "reheating": "Avoid reheating this smoothie as it’s best served cold or at room temperature. If preferred warm, gently heat in a saucepan on low and stir continuously, but note the texture and flavor will change.",
+        "make_ahead_strategy": "Prepare all ingredients except liquid and protein powder the night before in a sealed container. In the morning, add milk and protein powder and blend fresh for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh berries instead of frozen?",
+            "answer": "Yes, but your smoothie won’t be as cold or thick without frozen berries or ice. If using fresh, add a handful of ice cubes to chill it. Keep in mind the texture may be thinner and the flavor less intense."
+        },
+        {
+            "question": "What if I don’t have protein powder?",
+            "answer": "You can skip the protein powder, but the smoothie will be less filling and have less protein. To compensate, add extra Greek yogurt or a tablespoon of nut butter for more protein and creaminess."
+        },
+        {
+            "question": "Can I make this smoothie vegan?",
+            "answer": "Absolutely! Use a plant-based protein powder and substitute Greek yogurt with coconut or almond yogurt. This keeps it creamy and delicious without dairy."
+        },
+        {
+            "question": "How thick should the smoothie be?",
+            "answer": "This smoothie should be thick but drinkable through a straw or spoon. If it’s too thick, add more almond milk a little at a time. If too thin, add more oats or frozen berries."
+        },
+        {
+            "question": "Can I prepare this smoothie in advance?",
+            "answer": "You can prep ingredients ahead of time but blend fresh for best texture and flavor. Pre-blended smoothies stored overnight may separate or thicken due to oats absorbing liquid."
+        },
+        {
+            "question": "What’s the best protein powder to use?",
+            "answer": "Choose a vanilla-flavored whey or plant-based protein powder with minimal additives and sugar. This complements the berry flavor without overpowering it."
+        },
+        {
+            "question": "Can I add other seeds or nuts?",
+            "answer": "Yes! Flaxseeds, hemp seeds, or a tablespoon of nut butter all work well. They add nutrition and texture but may change the flavor slightly."
+        },
+        {
+            "question": "Why do you recommend rolled oats?",
+            "answer": "Rolled oats provide the best texture and creaminess without becoming gummy. Instant oats break down too much and can make the smoothie gluey."
+        }
+    ],
+    "conclusion": "I hope you enjoy this berry oat protein smoothie as much as I do! It’s a simple, delicious way to fuel your mornings—give it a try and let me know how it goes.",
+    "seo": {
+        "primary_keyword": "berry oat protein smoothie",
+        "secondary_keywords": [
+            "healthy berry smoothie",
+            "protein smoothie recipe",
+            "how to make berry oat smoothie",
+            "best protein smoothie recipe",
+            "easy berry smoothie"
+        ],
+        "internal_links": [
+            {
+                "text": "smoothie bowl recipes",
+                "anchor": "smoothie-bowl-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4700 words"
+    },
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-04-21 01:01:46",
+        "title_seed": "Berry Oat Protein Smoothie for a Healthy Morning Boost"
+    },
+    "author_id": "author_001",
+    "id": "post_1776726106_869",
+    "slug": "berry-oat-protein-smoothie-for-a-healthy-morning-boost",
+    "uniqueSlug": "berry-oat-protein-smoothie-for-a-healthy-morning-boost",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_1.webp",
+            "filePath": "posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_1.webp",
+            "relativePath": "berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_2.webp",
+            "filePath": "posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_2.webp",
+            "relativePath": "berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_3.webp",
+            "filePath": "posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_3.webp",
+            "relativePath": "berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_7.webp",
+            "filePath": "posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_7.webp",
+            "relativePath": "berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_9.webp",
+            "filePath": "posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_9.webp",
+            "relativePath": "berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_4.webp",
+            "filePath": "posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_4.webp",
+            "relativePath": "berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_8.webp",
+            "filePath": "posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_8.webp",
+            "relativePath": "berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_6.webp",
+            "filePath": "posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_6.webp",
+            "relativePath": "berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_5.webp",
+            "filePath": "posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_5.webp",
+            "relativePath": "berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "image": "berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_1.webp",
+    "image_path": "posts/berry-oat-protein-smoothie-for-a-healthy-morning-boost/images/berry-oat-protein-smoothie-for-a-healthy-morning-boost_pinrecipes_image_1.webp",
+    "image_dir": "berry-oat-protein-smoothie-for-a-healthy-morning-boost/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-04-21T01:12:40+02:00",
+    "updatedAt": "2026-04-21T01:12:40+02:00"
+}

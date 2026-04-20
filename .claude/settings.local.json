@@ -28,7 +28,9 @@
       "Bash(php -l \"c:/xampp/htdocs/SitePinterset/SmartBudgetStart/page-content-api.php\")",
       "Bash(php -l c:/xampp/htdocs/SitePinterset/create-main.php)",
       "Bash(php -l c:/xampp/htdocs/SitePinterset/create-satellite.php)",
-      "Bash(grep -E \"\\\\.\\(php|py|js|json|sh\\)$\")"
+      "Bash(grep -E \"\\\\.\\(php|py|js|json|sh\\)$\")",
+      "Bash(xargs -I{} python -c \"import json,sys; d=json.load\\(open\\('{}'\\)\\);print\\('---'\\); print\\('board_name:', d.get\\('board_name',''\\)\\); print\\('pinterest_boards:', d.get\\('pinterest_boards',{}\\)\\)\")",
+      "Bash(grep -l \"pinterest_boards\" c:/xampp/htdocs/SitePinterset/pinrecipes/posts/*/post.json)"
     ]
   }
 }
