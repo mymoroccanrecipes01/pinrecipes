@@ -38,7 +38,8 @@
       "Bash(php -c c:/xampp/php/php.ini -r ' *)",
       "Bash(ls c:/xampp/htdocs/SitePinterset/pinrecipes/downloads/*.log)",
       "Bash(python3 -c ' *)",
-      "Bash(curl -s --max-time 5 -o /dev/null -w \"%{http_code}\" https://api.openai.com)"
+      "Bash(curl -s --max-time 5 -o /dev/null -w \"%{http_code}\" https://api.openai.com)",
+      "Bash(xxd \"c:/xampp/htdocs/SitePinterset/pinrecipes/downloads/pinterest_2026-04-21.csv\")"
     ]
   }
 }

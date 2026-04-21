@@ -100,7 +100,7 @@
     ],
     "why_this_recipe_works": {
         "section": "Understanding Why This One Pot Bolognese Works So Well",
-        "content": "<p>This recipe succeeds because it combines efficient cooking techniques with smart ingredient choices to deliver maximum flavor in minimal time. Using one pot means you’re layering flavors directly in the pan, which helps the spaghetti absorb the rich beef and tomato sauce as it cooks. This integration of pasta and sauce is key to achieving a cohesive dish rather than just mixing cooked pasta with sauce afterward.</p><p>The use of beef broth instead of plain water is a subtle but impactful choice. Broth adds umami and depth, enriching the sauce and enhancing the meatiness without extra effort. It also helps the pasta cook evenly while infusing it with flavor, so every bite tastes balanced.</p><p>Breaking the spaghetti in half is a simple trick that allows the noodles to fit comfortably in the pot and cook uniformly. This prevents clumping and ensures the pasta softens properly in the sauce. Covering the pot during simmering traps steam and heat, speeding up cooking while keeping moisture locked in, which is especially important for quick recipes.</p><p>Finally, letting the dish rest off the heat for a couple of minutes at the end thickens the sauce naturally and lets flavors meld. This step elevates the texture and taste, making it feel like a slow-cooked meal despite the speedy process.</p>",
+        "content": "<p>This recipe succeeds because it combines efficient cooking techniques with smart ingredient choices to deliver maximum flavor in minimal time. Using one pot means you’re layering flavors directly in the pan, which helps the spaghetti absorb the rich beef and tomato sauce as it cooks. This integration of pasta and sauce is key to achieving a cohesive dish rather than just mixing cooked pasta with sauce afterward.<\/p><p>The use of beef broth instead of plain water is a subtle but impactful choice. Broth adds umami and depth, enriching the sauce and enhancing the meatiness without extra effort. It also helps the pasta cook evenly while infusing it with flavor, so every bite tastes balanced.<\/p><p>Breaking the spaghetti in half is a simple trick that allows the noodles to fit comfortably in the pot and cook uniformly. This prevents clumping and ensures the pasta softens properly in the sauce. Covering the pot during simmering traps steam and heat, speeding up cooking while keeping moisture locked in, which is especially important for quick recipes.<\/p><p>Finally, letting the dish rest off the heat for a couple of minutes at the end thickens the sauce naturally and lets flavors meld. This step elevates the texture and taste, making it feel like a slow-cooked meal despite the speedy process.<\/p>",
         "ingredient_notes": {
             "ground beef": "Choose 80% lean ground beef for this recipe to get a good balance of flavor and fat. The fat helps create a rich, juicy sauce without being greasy. Avoid extra-lean varieties as they can dry out and lack depth. If you prefer, ground turkey or plant-based crumbles can be substituted but expect a different texture and flavor.",
             "crushed tomatoes": "Canned crushed tomatoes are ideal here because they provide a smooth, saucy texture that coats the pasta well. Look for no-salt-added or low-sodium versions if you want more control over seasoning. Avoid whole tomatoes unless you crush them yourself; they can create uneven sauce consistency.",
@@ -169,7 +169,7 @@
     "variations": [
         {
             "name": "Spicy One Pot Bolognese",
-            "description": "Add 1/2 teaspoon red chili flakes or a diced fresh chili when sautéing the onions for a spicy kick. This variation adds warmth and depth without overpowering the classic flavors. It’s great for those who like a bit of heat in their pasta dishes.",
+            "description": "Add 1\/2 teaspoon red chili flakes or a diced fresh chili when sautéing the onions for a spicy kick. This variation adds warmth and depth without overpowering the classic flavors. It’s great for those who like a bit of heat in their pasta dishes.",
             "technical_note": "Be careful not to burn the chili flakes; add them with the garlic to release flavor gently."
         },
         {
@@ -273,30 +273,30 @@
     "id": "post_1776725724_232",
     "slug": "15-minute-budget-friendly-one-pot-spaghetti-bolognese",
     "uniqueSlug": "15-minute-budget-friendly-one-pot-spaghetti-bolognese",
-    "isOnline": false,
+    "isOnline": true,
     "images": [
         {
             "fileName": "15-minute-budget-friendly-one-pot-spaghetti-bolognese_pinrecipes_image_1.webp",
-            "filePath": "posts/15-minute-budget-friendly-one-pot-spaghetti-bolognese/images/15-minute-budget-friendly-one-pot-spaghetti-bolognese_pinrecipes_image_1.webp",
-            "relativePath": "15-minute-budget-friendly-one-pot-spaghetti-bolognese/images/15-minute-budget-friendly-one-pot-spaghetti-bolognese_pinrecipes_image_1.webp",
+            "filePath": "posts\/15-minute-budget-friendly-one-pot-spaghetti-bolognese\/images\/15-minute-budget-friendly-one-pot-spaghetti-bolognese_pinrecipes_image_1.webp",
+            "relativePath": "15-minute-budget-friendly-one-pot-spaghetti-bolognese\/images\/15-minute-budget-friendly-one-pot-spaghetti-bolognese_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "15-minute-budget-friendly-one-pot-spaghetti-bolognese_pinrecipes_image_3.webp",
-            "filePath": "posts/15-minute-budget-friendly-one-pot-spaghetti-bolognese/images/15-minute-budget-friendly-one-pot-spaghetti-bolognese_pinrecipes_image_3.webp",
-            "relativePath": "15-minute-budget-friendly-one-pot-spaghetti-bolognese/images/15-minute-budget-friendly-one-pot-spaghetti-bolognese_pinrecipes_image_3.webp",
+            "filePath": "posts\/15-minute-budget-friendly-one-pot-spaghetti-bolognese\/images\/15-minute-budget-friendly-one-pot-spaghetti-bolognese_pinrecipes_image_3.webp",
+            "relativePath": "15-minute-budget-friendly-one-pot-spaghetti-bolognese\/images\/15-minute-budget-friendly-one-pot-spaghetti-bolognese_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
         }
     ],
     "image": "15-minute-budget-friendly-one-pot-spaghetti-bolognese_pinrecipes_image_1.webp",
-    "image_path": "posts/15-minute-budget-friendly-one-pot-spaghetti-bolognese/images/15-minute-budget-friendly-one-pot-spaghetti-bolognese_pinrecipes_image_1.webp",
-    "image_dir": "15-minute-budget-friendly-one-pot-spaghetti-bolognese/images",
+    "image_path": "posts\/15-minute-budget-friendly-one-pot-spaghetti-bolognese\/images\/15-minute-budget-friendly-one-pot-spaghetti-bolognese_pinrecipes_image_1.webp",
+    "image_dir": "15-minute-budget-friendly-one-pot-spaghetti-bolognese\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-04-21T00:55:24+02:00",
-    "updatedAt": "2026-04-21T00:55:24+02:00"
+    "createdAt": "2026-04-21T12:40:02+02:00",
+    "updatedAt": "2026-04-21T12:40:02+02:00"
 }
