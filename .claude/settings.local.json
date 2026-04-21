@@ -30,7 +30,15 @@
       "Bash(php -l c:/xampp/htdocs/SitePinterset/create-satellite.php)",
       "Bash(grep -E \"\\\\.\\(php|py|js|json|sh\\)$\")",
       "Bash(xargs -I{} python -c \"import json,sys; d=json.load\\(open\\('{}'\\)\\);print\\('---'\\); print\\('board_name:', d.get\\('board_name',''\\)\\); print\\('pinterest_boards:', d.get\\('pinterest_boards',{}\\)\\)\")",
-      "Bash(grep -l \"pinterest_boards\" c:/xampp/htdocs/SitePinterset/pinrecipes/posts/*/post.json)"
+      "Bash(grep -l \"pinterest_boards\" c:/xampp/htdocs/SitePinterset/pinrecipes/posts/*/post.json)",
+      "Bash(cp c:/xampp/htdocs/SitePinterset/pinrecipes/generate-csv.php c:/xampp/htdocs/SitePinterset/Mollykitchendaily/generate-csv.php)",
+      "Bash(cp c:/xampp/htdocs/SitePinterset/pinrecipes/generate-csv.php c:/xampp/htdocs/SitePinterset/LummyRecipes/generate-csv.php)",
+      "Bash(grep -n 'foreach.*postsOnPage.*index.*post\\\\|foreach \\($postsOnPage' c:/xampp/htdocs/SitePinterset/Mollykitchendaily/posts-liste.php)",
+      "Bash(php -r ' *)",
+      "Bash(php -c c:/xampp/php/php.ini -r ' *)",
+      "Bash(ls c:/xampp/htdocs/SitePinterset/pinrecipes/downloads/*.log)",
+      "Bash(python3 -c ' *)",
+      "Bash(curl -s --max-time 5 -o /dev/null -w \"%{http_code}\" https://api.openai.com)"
     ]
   }
 }
