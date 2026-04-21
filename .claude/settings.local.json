@@ -39,7 +39,8 @@
       "Bash(ls c:/xampp/htdocs/SitePinterset/pinrecipes/downloads/*.log)",
       "Bash(python3 -c ' *)",
       "Bash(curl -s --max-time 5 -o /dev/null -w \"%{http_code}\" https://api.openai.com)",
-      "Bash(xxd \"c:/xampp/htdocs/SitePinterset/pinrecipes/downloads/pinterest_2026-04-21.csv\")"
+      "Bash(xxd \"c:/xampp/htdocs/SitePinterset/pinrecipes/downloads/pinterest_2026-04-21.csv\")",
+      "Bash(grep -v \"^\\\\s*//\")"
     ]
   }
 }
