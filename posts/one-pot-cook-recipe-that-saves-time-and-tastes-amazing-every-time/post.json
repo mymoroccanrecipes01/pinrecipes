@@ -1,0 +1,354 @@
+{
+    "title": "One Pot Cook Recipe That Saves Time and Tastes Amazing Every Time",
+    "promptIMG": "Food photography: One Pot Cook Recipe, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one pot cook recipe is a lifesaver when you want a hearty, flavorful meal without the mess. Using a secret blend of spices and layering ingredients carefully makes it rich and satisfying. Great for busy weeknights or cozy dinners!",
+    "hashtags": "#onepotmeal #easyrecipes #weeknightdinner",
+    "board_name": "Quick Weeknight Meals",
+    "pin_variations": [
+        {
+            "title": "How To Make a Delicious One Pot Meal in Under 45 Minutes",
+            "description": "Looking for a simple, comforting dinner? This one pot cook recipe is packed with flavor and super easy to whip up. Save this recipe and try it tonight! 🍲👌 #onepotmeal #easycooking #dinnerideas"
+        },
+        {
+            "title": "One Pot Wonder: Minimal Cleanup, Maximum Flavor!",
+            "description": "Say goodbye to piles of dishes! This one pot recipe delivers big on taste with minimal effort. Perfect for busy nights when you want something homemade. Try it today and enjoy! 🍽️✨ #easymeals #onepotrecipe #comfortfood"
+        },
+        {
+            "title": "Simple One Pot Recipe That Your Family Will Love",
+            "description": "This recipe is a total crowd-pleaser and super straightforward to make. One pot, loads of flavor, and ready fast. Save it now for your next dinner win! 🍛❤️ #familydinner #easyrecipes #onepotmeal"
+        },
+        {
+            "title": "Busy Night? Try This Flavorful One Pot Cook Recipe Now",
+            "description": "When time is tight but you want a wholesome meal, this one pot recipe has you covered. It’s quick, tasty, and cleanup is a breeze. Discover how easy dinner can be! 🍴🔥 #quickmeals #onepotdinner #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, room temperature",
+        "1 medium onion, finely chopped",
+        "3 cloves garlic, minced",
+        "1 pound boneless chicken thighs, cut into bite-sized pieces",
+        "1 red bell pepper, diced",
+        "1 cup long-grain rice, rinsed",
+        "2 1/2 cups chicken broth, warm",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon dried oregano",
+        "Salt and freshly ground black pepper, to taste",
+        "1 cup frozen peas",
+        "Fresh parsley, chopped, for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this one pot cook recipe during a hectic week when I wanted something comforting but quick. What I love most about it is how everything cooks together in one pan, so the flavors really meld and deepen. Plus, the cleanup is a breeze, which is a huge win in my book. Over time, I tweaked the seasoning a bit, adding smoked paprika and oregano to give it a subtle smoky warmth that makes it feel special without complicating things. The trick I learned early on is to sauté the onions and garlic just right before adding the chicken and rice; this step builds the base flavor and prevents the rice from sticking. The final dish is tender, with the chicken juicy and the rice perfectly cooked, absorbing all those lovely spices and broth. It’s honestly become a go-to for busy weeknights or when I want a cozy dinner without fuss. I think you’ll find it just as satisfying and easy as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large, heavy-bottomed pot over medium heat. Once shimmering, add the finely chopped onion and sauté for about 5 minutes until soft and translucent. This step is crucial because it creates a flavorful base for the dish. Avoid rushing or browning the onions too much, as you want a gentle sweetness that will infuse the whole meal.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions are soft, translucent, and slightly fragrant without any browning"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic to the pot and cook for another 1-2 minutes, stirring frequently. Garlic cooks quickly, so watch carefully to prevent burning, which would add bitterness. The aroma should become fragrant and inviting, signaling that the flavors are building nicely.",
+            "timing": "2 minutes",
+            "doneness_cue": "Garlic is golden and fragrant but not browned"
+        },
+        {
+            "step": 3,
+            "instruction": "Increase the heat to medium-high and add the chicken pieces to the pot. Season with salt, pepper, smoked paprika, and oregano. Sear the chicken until it’s lightly browned on all sides, about 5-7 minutes. This step locks in juices and adds depth to the dish through the Maillard reaction, which develops rich flavors and appealing color.",
+            "timing": "7 minutes",
+            "doneness_cue": "Chicken pieces are golden brown on the outside but not fully cooked through"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the diced red bell pepper to the pot and stir to combine. Cooking the pepper with the chicken adds a subtle sweetness and texture contrast. Let it cook for about 2 minutes to soften slightly, which helps it blend into the dish without losing its vibrant color.",
+            "timing": "2 minutes",
+            "doneness_cue": "Bell pepper is slightly softened but still bright in color"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the rinsed rice and stir well, coating each grain with the oil and spices. This helps prevent the rice from clumping and encourages even cooking. Toasting the rice briefly also brings out a nutty flavor that enhances the overall taste.",
+            "timing": "2 minutes",
+            "doneness_cue": "Rice grains look glossy and evenly coated with oil and spices"
+        },
+        {
+            "step": 6,
+            "instruction": "Slowly add the warm chicken broth to the pot, stirring gently to combine all ingredients. Using warm broth prevents the cooking process from slowing down and helps the rice cook evenly. Bring the mixture to a gentle boil, then reduce the heat to low to simmer.",
+            "timing": "2 minutes",
+            "doneness_cue": "Broth is simmering gently with small bubbles around the edges"
+        },
+        {
+            "step": 7,
+            "instruction": "Cover the pot with a tight-fitting lid and let everything simmer for 18-20 minutes without lifting the lid. This undisturbed cooking allows the rice to absorb the liquid fully and the chicken to finish cooking tenderly. Avoid peeking too often, as it releases steam and affects texture.",
+            "timing": "20 minutes",
+            "doneness_cue": "Rice is tender and liquid fully absorbed; chicken is cooked through"
+        },
+        {
+            "step": 8,
+            "instruction": "Turn off the heat and gently fold in the frozen peas. Cover again and let sit for 5 minutes. The residual heat will warm the peas without overcooking them, keeping their bright color and slight snap, which adds freshness to the dish.",
+            "timing": "5 minutes",
+            "doneness_cue": "Peas are heated through but still vibrant green and slightly firm"
+        },
+        {
+            "step": 9,
+            "instruction": "Fluff the rice gently with a fork, taste and adjust seasoning if needed. Sprinkle chopped fresh parsley on top before serving for a pop of color and fresh flavor. This final touch brightens the dish and makes it look inviting on the plate.",
+            "timing": "2 minutes",
+            "doneness_cue": "Rice is fluffy and separated, dish looks colorful and fresh"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One Pot Recipe Delivers Flavor and Ease",
+        "content": "<p>This recipe shines because it leverages the power of layering flavors and the Maillard reaction, which is the browning that happens when chicken and onions hit hot oil. That initial sauté of onions and garlic creates a sweet and aromatic foundation. Adding spices like smoked paprika and oregano early allows their flavors to bloom and infuse the entire dish.</p><p>The choice of rice and how it’s handled is another key factor. Rinsing the rice removes excess starch, preventing it from becoming gummy. Toasting it briefly in the pot helps develop a subtle nuttiness and ensures each grain is coated, which aids even cooking and texture.</p><p>Simmering with warm broth and keeping the lid on during cooking traps steam and heat, allowing the rice to absorb the liquid perfectly while the chicken cooks tenderly. Avoiding stirring during this phase prevents the rice from breaking down and turning mushy. Finally, folding in frozen peas at the end preserves their color and texture, adding a fresh contrast to the rich, savory base.</p><p>Altogether, these techniques balance flavor development, texture, and convenience, making this one pot cook recipe a reliable, delicious meal any night of the week.</p>",
+        "ingredient_notes": {
+            "olive oil": "Look for a good quality extra virgin olive oil with a fresh, fruity aroma. It’s important because olive oil acts as the flavor carrier here, helping to sauté the aromatics and brown the chicken. Using a lower quality oil can impart a dull or greasy flavor, so choose one you enjoy on its own.",
+            "chicken thighs": "Boneless, skinless thighs work best for their tender texture and rich flavor. They stay juicy during cooking compared to breasts, which can dry out. If using breasts, be careful not to overcook. Thighs also brown nicely, adding depth to the dish.",
+            "long-grain rice": "Choose a long-grain variety like jasmine or basmati for fluffy, separate grains. These types absorb liquid well without getting sticky. Avoid short-grain rice, which tends to be stickier and could make the dish clumpy.",
+            "smoked paprika": "This spice adds a subtle smoky warmth that elevates the dish beyond basic seasoning. It pairs beautifully with the chicken and peppers, giving a cozy, slightly smoky depth. Using sweet or hot paprika changes the flavor profile, so stick to smoked for this recipe.",
+            "chicken broth": "Using a good quality homemade or low-sodium broth ensures a rich, savory base without overpowering saltiness. Warm broth helps maintain an even cooking temperature, which is key for perfectly cooked rice and tender chicken."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always warm your broth before adding it to the pot.",
+            "reason": "Adding cold broth cools down the cooking temperature, which can cause uneven cooking and longer cook times. Warm broth keeps the heat steady, allowing the rice to absorb liquid evenly and cook perfectly without becoming mushy."
+        },
+        {
+            "tip": "Don’t lift the lid while the rice is cooking.",
+            "reason": "Lifting the lid releases steam and heat, which disrupts the cooking process. Rice needs consistent steam to cook through and absorb all the flavors. Peeking too often can lead to undercooked or unevenly cooked rice."
+        },
+        {
+            "tip": "Use boneless chicken thighs instead of breasts.",
+            "reason": "Thighs stay moist and tender during the simmering process, while breasts can dry out quickly. The extra fat in thighs also adds flavor and richness, making the dish more satisfying and juicy."
+        },
+        {
+            "tip": "Toast the rice in the pot before adding broth.",
+            "reason": "Toasting rice briefly in oil enhances its flavor with a subtle nuttiness and helps keep grains separate. This step also improves texture by coating grains with fat, preventing clumping during cooking."
+        },
+        {
+            "tip": "Add frozen peas at the end, not the beginning.",
+            "reason": "Adding peas too early causes them to overcook and lose their bright color and texture. Adding them last allows residual heat to warm them gently, keeping them fresh and vibrant."
+        },
+        {
+            "tip": "Use a heavy-bottomed pot with a tight-fitting lid.",
+            "reason": "A heavy pot distributes heat evenly, preventing hot spots that can burn the rice or chicken. A tight lid traps steam effectively, ensuring the rice cooks properly and the dish stays moist."
+        },
+        {
+            "tip": "Season in layers throughout cooking.",
+            "reason": "Adding salt and spices at different stages builds complexity and depth. Seasoning only at the end can result in flat flavors, while layering ensures every bite is flavorful."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not rinsing the rice before cooking",
+            "why_it_happens": "Many people skip rinsing to save time or because they don’t realize it affects texture.",
+            "fix": "Rinse the rice under cold water until the water runs clear to remove excess starch. This prevents the rice from becoming gummy and helps it cook up fluffy and separate."
+        },
+        {
+            "mistake": "Cooking over too high heat",
+            "why_it_happens": "In a rush, cooks often crank the heat to speed things up, not realizing it can burn ingredients or dry out the chicken.",
+            "fix": "Maintain medium to medium-high heat for sautéing, then reduce to low for simmering. This ensures even cooking and prevents burning or drying out."
+        },
+        {
+            "mistake": "Stirring the rice while it cooks",
+            "why_it_happens": "Some think stirring helps prevent sticking but it actually breaks rice grains and releases starch.",
+            "fix": "Once the broth is added and the pot is covered, leave it undisturbed. This allows the rice to steam properly and develop the right texture."
+        },
+        {
+            "mistake": "Using cold broth",
+            "why_it_happens": "Not warming broth is often overlooked but it affects cooking temperature.",
+            "fix": "Warm the broth before adding to keep the cooking temperature steady and ensure even rice cooking."
+        },
+        {
+            "mistake": "Overcooking the peas",
+            "why_it_happens": "Adding peas too early leads to mushy, dull-colored veggies.",
+            "fix": "Add frozen peas at the very end, letting residual heat warm them just enough to keep their bright color and texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy One Pot Chicken and Rice",
+            "description": "Add a diced jalapeño and a pinch of cayenne pepper with the onions to give this recipe a spicy kick. You can also swap smoked paprika for chipotle powder for a smoky heat. Expect a bolder flavor and a little extra warmth that’s perfect for spice lovers.",
+            "technical_note": "Adjust the amount of spice carefully to avoid overpowering the dish; the cooking time remains the same."
+        },
+        {
+            "name": "Vegetarian One Pot Rice with Chickpeas",
+            "description": "Skip the chicken and add a can of drained chickpeas along with extra vegetables like zucchini and carrots. Use vegetable broth instead of chicken broth. This version is hearty and satisfying with a lovely mix of textures and plant-based protein.",
+            "technical_note": "Cook the veggies slightly longer before adding rice to ensure they soften properly."
+        },
+        {
+            "name": "Creamy One Pot Mushroom and Herb Rice",
+            "description": "Add sliced mushrooms with the onions and finish the dish with a splash of cream or coconut milk for richness. Fresh thyme or rosemary works beautifully here. This creates a comforting, earthy flavor profile and a creamy texture.",
+            "technical_note": "Sauté mushrooms until golden to deepen flavor before adding other ingredients."
+        },
+        {
+            "name": "Mediterranean One Pot with Olives and Feta",
+            "description": "Stir in chopped kalamata olives and sun-dried tomatoes after cooking, then top with crumbled feta cheese and fresh basil. This variation adds a salty, tangy punch and freshness that brightens the dish.",
+            "technical_note": "Add olives and tomatoes at the end to preserve their texture and flavor."
+        },
+        {
+            "name": "One Pot Curry Chicken and Rice",
+            "description": "Add curry powder or paste with the spices and swap chicken broth for coconut milk for a creamy curry twist. This version is fragrant and warming with a rich, silky sauce coating the rice and chicken.",
+            "technical_note": "Reduce broth slightly to account for the added liquid from coconut milk."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "480 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "620mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit out for up to 2 hours covered to avoid contamination. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The flavors meld nicely after resting, though rice may firm up. Reheat gently to avoid drying out, adding a splash of broth or water as needed.",
+        "freezer": "Freeze portions in airtight containers or heavy-duty freezer bags for up to 3 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over low heat with a splash of broth or water to loosen the rice. Alternatively, microwave covered in short bursts, stirring occasionally. Avoid overheating to keep chicken tender and rice fluffy.",
+        "make_ahead_strategy": "You can prepare the sautéed onions, garlic, and chicken a day ahead and store in the fridge. Assemble and cook the rice and broth mixture fresh to ensure perfect texture, then combine with pre-cooked ingredients."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, but chicken breasts cook faster and can dry out if overcooked. To prevent this, cut them into larger pieces and reduce simmering time slightly. Keep an eye on the chicken and remove the pot from heat as soon as it's cooked through."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Absolutely! Substitute chicken with chickpeas or tofu and use vegetable broth instead of chicken broth. Adjust seasoning to taste and add extra veggies for more flavor and texture."
+        },
+        {
+            "question": "Why do I need to rinse the rice before cooking?",
+            "answer": "Rinsing removes excess surface starch, which can make rice gummy or sticky. Washing until the water runs clear ensures the rice cooks up light and fluffy, perfect for this one pot dish."
+        },
+        {
+            "question": "How do I prevent the rice from sticking to the pot?",
+            "answer": "Make sure to toast the rice briefly in oil before adding broth, and use a heavy-bottomed pot with a tight lid. Also, avoid stirring once the liquid is added and keep the heat low during simmering."
+        },
+        {
+            "question": "Can I add other vegetables to this recipe?",
+            "answer": "Yes! Feel free to add diced carrots, zucchini, or mushrooms. Add harder vegetables earlier to ensure they cook through, and softer ones like peas towards the end to keep their texture."
+        },
+        {
+            "question": "How can I make this recipe spicier?",
+            "answer": "Add diced jalapeños or a pinch of cayenne pepper with the onions, or swap smoked paprika for chipotle powder. Adjust spice levels gradually to suit your taste."
+        },
+        {
+            "question": "Is it okay to use chicken broth from a carton?",
+            "answer": "Yes, just opt for low-sodium broth so you can control the saltiness. Homemade broth is best for depth of flavor, but good quality store-bought broth works well too."
+        },
+        {
+            "question": "How do I reheat leftovers without drying them out?",
+            "answer": "Reheat gently on the stovetop with a splash of broth or water to keep moisture. Microwave in short bursts, stirring in between, to avoid overcooking the chicken or drying the rice."
+        }
+    ],
+    "conclusion": "Give this one pot cook recipe a try—you'll love how easy and delicious it is. Don’t forget to share your results; I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "one pot cook recipe",
+        "secondary_keywords": [
+            "easy one pot meals",
+            "quick chicken and rice",
+            "how to make one pot cook recipe",
+            "best one pot dinner",
+            "easy one pot chicken recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight dinners",
+                "anchor": "easy-weeknight-dinners"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230749_334",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-04-24 13:08:24",
+        "title_seed": "One Pot Cook Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1777028904_212",
+    "slug": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time",
+    "uniqueSlug": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_8.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_8.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_5.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_5.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_9.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_9.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_7.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_7.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_6.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_6.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_4.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_4.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "image": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_1.webp",
+    "image_path": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_1.webp",
+    "image_dir": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-04-24T13:10:28+02:00",
+    "updatedAt": "2026-04-24T13:10:28+02:00"
+}
