@@ -1,23 +1,95 @@
 {
-    "date": "2026-04-25T01:03:57+02:00",
+    "date": "2026-04-25T19:06:23+02:00",
     "filename": "pinterest_daily_2026-04-25.csv",
     "articles": [
         {
-            "slug": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/post.json",
+            "slug": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/post.json",
             "original": {
-                "createdAt": "2026-04-25T00:56:50+02:00",
+                "createdAt": "2026-04-25T18:51:42+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-04-25T00:56:50+02:00"
+                "updatedAt": "2026-04-25T18:51:42+02:00"
             }
         },
         {
-            "slug": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/post.json",
+            "slug": "cozy-baked-corn-casserole-recipe-that-feels-like-home",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/post.json",
             "original": {
-                "createdAt": "2026-04-25T01:02:45+02:00",
+                "createdAt": "2026-04-25T18:53:55+02:00",
                 "CreateAt": null,
-                "updatedAt": "2026-04-25T01:02:45+02:00"
+                "updatedAt": "2026-04-25T18:53:55+02:00"
+            }
+        },
+        {
+            "slug": "baked-potato-casserole-recipe-thats-comfort-food-perfection",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/baked-potato-casserole-recipe-thats-comfort-food-perfection/post.json",
+            "original": {
+                "createdAt": "2026-04-25T18:50:29+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-25T18:50:29+02:00"
+            }
+        },
+        {
+            "slug": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/post.json",
+            "original": {
+                "createdAt": "2026-04-25T18:56:21+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-25T18:56:21+02:00"
+            }
+        },
+        {
+            "slug": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/post.json",
+            "original": {
+                "createdAt": "2026-04-25T18:52:50+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-25T18:52:50+02:00"
+            }
+        },
+        {
+            "slug": "simple-and-delicious-baked-artichokes-recipe-for-a-cozy-snack",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/simple-and-delicious-baked-artichokes-recipe-for-a-cozy-snack/post.json",
+            "original": {
+                "createdAt": "2026-04-25T18:59:41+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-25T18:59:41+02:00"
+            }
+        },
+        {
+            "slug": "baked-artichoke-recipes-parmesan-recipe-a-crispy-cheesy-delight",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/baked-artichoke-recipes-parmesan-recipe-a-crispy-cheesy-delight/post.json",
+            "original": {
+                "createdAt": "2026-04-25T19:03:08+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-25T19:03:08+02:00"
+            }
+        },
+        {
+            "slug": "baked-artichoke-recipes-with-bread-crumbs-recipe-crispy-tender-and-so-flavorful",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/baked-artichoke-recipes-with-bread-crumbs-recipe-crispy-tender-and-so-flavorful/post.json",
+            "original": {
+                "createdAt": "2026-04-25T19:00:53+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-25T19:00:53+02:00"
+            }
+        },
+        {
+            "slug": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/post.json",
+            "original": {
+                "createdAt": "2026-04-25T18:55:11+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-25T18:55:11+02:00"
+            }
+        },
+        {
+            "slug": "baked-artichoke-recipes-italian-recipe-that-brings-rustic-flavor-to-your-table",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/baked-artichoke-recipes-italian-recipe-that-brings-rustic-flavor-to-your-table/post.json",
+            "original": {
+                "createdAt": "2026-04-25T19:04:24+02:00",
+                "CreateAt": null,
+                "updatedAt": "2026-04-25T19:04:24+02:00"
             }
         }
     ]

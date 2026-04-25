@@ -1,0 +1,362 @@
+{
+    "title": "Baked Spaghetti Casserole Recipe That Feels Like Home in Every Bite",
+    "promptIMG": "Food photography: Baked Spaghetti Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This baked spaghetti casserole is the ultimate comfort food—cheesy, saucy, and baked to bubbly perfection. I love how the layers meld together with a crispy top crust. Great for family dinners or cozy weekends!",
+    "hashtags": "#bakedspaghetti #comfortfood #familydinner",
+    "board_name": "Comfort Food Dinners",
+    "pin_variations": [
+        {
+            "title": "Cheesy Baked Spaghetti Casserole Your Family Will Beg For",
+            "description": "Looking for a hearty dinner that’s easy to make? This baked spaghetti casserole is loaded with cheese and sauce, perfect for busy weeknights. Save this recipe and try it today! 🧀🍝 #easymeals #cheesyrecipes #familyfavorites"
+        },
+        {
+            "title": "How To Make The Best Baked Spaghetti Casserole Ever",
+            "description": "Discover the secret to a golden crust and gooey center in this baked spaghetti casserole. It’s simple, satisfying, and great for feeding a crowd. Don’t miss out—give it a go tonight! 🍽️✨ #comfortfoodrecipes #weeknightdinner #pastalover"
+        },
+        {
+            "title": "Quick & Cozy Baked Spaghetti Casserole For Busy Nights",
+            "description": "This baked spaghetti casserole comes together fast and tastes like you spent hours on it. Perfect for chilly evenings or anytime you want a warm hug on a plate. Try it now and enjoy! 🍲❤️ #easyrecipes #familymeals #pastadinner"
+        },
+        {
+            "title": "Family-Friendly Baked Spaghetti Casserole That’s Pure Comfort",
+            "description": "Everyone loves this baked spaghetti casserole—rich, cheesy, and baked just right. It’s a crowd-pleaser that’s simple to prepare. Save this recipe and make it your go-to comfort meal! 🧡🍝 #comfortdinner #cheesypasta #familyfriendly"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "12 ounces spaghetti, cooked al dente",
+        "1 tablespoon olive oil",
+        "1 pound ground beef or Italian sausage",
+        "1 small onion, finely chopped",
+        "3 cloves garlic, minced",
+        "24 ounces marinara sauce",
+        "1 cup ricotta cheese",
+        "2 cups shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "1 teaspoon dried Italian seasoning",
+        "Salt and black pepper, to taste",
+        "Fresh basil or parsley for garnish (optional)"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I first made this baked spaghetti casserole years ago when I wanted a cozy, hands-off dinner that my whole family would love. It’s like lasagna’s laid-back cousin — all the flavors but much easier to throw together. What makes this recipe stand out is the layering technique: the ricotta mixed with a bit of seasoning adds a creamy texture that balances the tangy marinara and melty mozzarella perfectly. I also brown the meat with garlic and onion for a richer base. Over the years, I’ve found that baking it just right—until the top is golden and bubbly—gives it that irresistible crust that everyone fights over. It’s a dish that feels like a warm hug on a plate, perfect for weeknights or casual gatherings. Plus, leftovers taste even better the next day. I love how forgiving this recipe is; even if you don’t have all the cheese types, it still comes out delicious. Honestly, sometimes I add a pinch of red pepper flakes for a little kick, but it’s just as good mild. This casserole is one of those meals that makes me feel like I’m giving my family a little extra love with every bite.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by cooking the spaghetti according to package instructions until al dente. This is important because the pasta will continue cooking in the oven, so you want it firm enough to avoid turning mushy. Drain the pasta well and toss it with a tablespoon of olive oil to keep it from sticking. Setting it aside while you prepare the sauce helps the flavors come together without overcooking the noodles.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pasta is tender but still firm to the bite, not mushy"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat a large skillet over medium heat and add the ground beef or Italian sausage. Break it up with a spoon and cook until browned, about 5-7 minutes. Add the chopped onion and minced garlic halfway through cooking to soften and release their aroma. Browning the meat properly builds deep flavor, so avoid rushing this step. Drain excess fat if needed to keep the casserole from becoming greasy.",
+            "timing": "8 minutes",
+            "doneness_cue": "Meat is browned and onions are translucent, garlic fragrant"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the marinara sauce into the skillet with the meat mixture. Stir in dried Italian seasoning, salt, and pepper. Let the sauce simmer gently for about 5 minutes to marry the flavors. Simmering helps thicken the sauce slightly and intensifies the tomato’s sweetness, which makes the casserole taste richer.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce thickens slightly and smells fragrant"
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, combine the ricotta cheese with a pinch of salt and pepper. You can also add a tablespoon of chopped fresh basil or parsley if you like. This creamy layer adds moisture and a mild tang that balances the robust tomato sauce. Mixing herbs in here gives the casserole a fresh, bright note.",
+            "timing": "3 minutes",
+            "doneness_cue": "Ricotta mixture is smooth and lightly seasoned"
+        },
+        {
+            "step": 5,
+            "instruction": "Preheat your oven to 375°F (190°C). Lightly grease a 9x13 inch baking dish to prevent sticking. This ensures the casserole bakes evenly and makes clean-up easier. Using a glass or ceramic dish helps the heat distribute well, giving a nice crust on top.",
+            "timing": "5 minutes",
+            "doneness_cue": "Oven preheated and dish greased"
+        },
+        {
+            "step": 6,
+            "instruction": "Layer half of the cooked spaghetti in the bottom of the baking dish. Spread half of the meat sauce over the pasta, then dollop half of the ricotta mixture in spoonfuls across the top. Sprinkle with one cup of mozzarella cheese. This layering technique creates pockets of cheesy creaminess and ensures every bite has a balance of sauce and pasta.",
+            "timing": "5 minutes",
+            "doneness_cue": "Even layers with visible cheese and sauce"
+        },
+        {
+            "step": 7,
+            "instruction": "Repeat the layers with the remaining spaghetti, meat sauce, ricotta, and mozzarella. Finish by sprinkling the grated Parmesan cheese evenly over the top. Parmesan forms a deliciously crisp, golden crust when baked, adding texture and a nutty flavor that contrasts beautifully with the melted mozzarella.",
+            "timing": "5 minutes",
+            "doneness_cue": "Top layer is evenly covered with cheese"
+        },
+        {
+            "step": 8,
+            "instruction": "Cover the casserole loosely with aluminum foil and bake for 20 minutes. This traps steam and helps the cheese melt without drying out. Avoid wrapping it too tightly to prevent sogginess. After 20 minutes, remove the foil and bake uncovered for another 10 minutes to let the top brown and bubble nicely.",
+            "timing": "30 minutes",
+            "doneness_cue": "Top is golden brown and bubbling"
+        },
+        {
+            "step": 9,
+            "instruction": "Once baked, let the casserole rest for about 5-10 minutes before serving. This resting time allows the layers to set, making it easier to cut and helping flavors meld. Garnish with fresh basil or parsley if desired for a pop of color and freshness.",
+            "timing": "10 minutes",
+            "doneness_cue": "Casserole is set and slightly cooled for clean slices"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Baked Spaghetti Casserole Works So Well",
+        "content": "<p>This baked spaghetti casserole succeeds because of the balance between texture, moisture, and flavor layering. Starting with al dente pasta is key since it continues cooking in the oven, preventing a mushy outcome. The choice of ground meat browned with aromatics adds depth, while simmering the sauce develops a rich tomato base that complements the cheese layers.</p><p>The ricotta cheese acts as a creamy binder that adds moisture and a mild tang, preventing dryness without overpowering the dish. Mozzarella provides gooey meltiness, while Parmesan on top crisps up beautifully due to its low moisture and high fat content, creating that irresistible golden crust.</p><p>Layering is crucial: alternating pasta, meat sauce, and cheese ensures every bite has a perfect balance of flavors and textures. Covering the casserole during the initial baking traps steam to melt the cheese thoroughly, and removing the foil near the end allows browning through Maillard reactions, which develop complex savory notes and appealing color.</p><p>Finally, resting the casserole before serving lets the layers set and flavors meld, making it easier to portion and enhancing the eating experience. Each step works together to create a comforting, satisfying dish that feels both hearty and homey.</p>",
+        "ingredient_notes": {
+            "spaghetti": "Look for good-quality durum wheat spaghetti, which holds its shape well when baked. Avoid overcooking it initially; al dente pasta is essential because it will continue softening in the oven, preventing mushiness. If you prefer gluten-free, choose a brand that maintains firmness after cooking.",
+            "ground beef or Italian sausage": "Ground beef adds hearty flavor, but Italian sausage brings extra seasoning and richness. Choose fresh, high-quality meat with moderate fat content for moisture and taste. Browning the meat properly is vital to develop savory depth and avoid greasy casserole.",
+            "ricotta cheese": "Whole milk ricotta offers creaminess and mild tang that balances the tomato sauce. Avoid watery ricotta by draining excess liquid if necessary. You can substitute with cottage cheese for a lighter texture, but the flavor will be slightly different.",
+            "mozzarella cheese": "Shredded mozzarella melts smoothly and gives that signature gooey texture. Use low-moisture mozzarella to prevent excess water in the casserole, which can make it soggy. Fresh mozzarella can be used but may release more moisture, so adjust baking time accordingly.",
+            "Parmesan cheese": "Grated Parmesan on top creates a nutty, crispy crust due to its low moisture and aged flavor. Use freshly grated Parmesan for best results, as pre-grated versions often contain anti-caking agents that affect melting and browning. It adds a savory punch that elevates the dish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcook the spaghetti initially; aim for al dente.",
+            "reason": "Since the pasta bakes further with the sauce, starting with al dente prevents it from becoming mushy and losing texture in the casserole."
+        },
+        {
+            "tip": "Brown the meat with onions and garlic before adding sauce.",
+            "reason": "This step builds flavor complexity through caramelization and softening of aromatics, making the sauce richer and more savory."
+        },
+        {
+            "tip": "Use low-moisture mozzarella to avoid excess water.",
+            "reason": "High-moisture cheese can release liquid during baking, which might make the casserole watery and affect the texture of the final dish."
+        },
+        {
+            "tip": "Cover with foil during the first part of baking.",
+            "reason": "Covering traps steam, ensuring the cheese melts evenly and the casserole stays moist without drying out."
+        },
+        {
+            "tip": "Remove foil near the end to brown the top.",
+            "reason": "Exposing the casserole to direct heat allows Maillard reactions to create a golden, flavorful crust that adds texture and visual appeal."
+        },
+        {
+            "tip": "Let the casserole rest before serving.",
+            "reason": "Resting lets the layers set and flavors meld, making it easier to cut and enhancing the overall taste experience."
+        },
+        {
+            "tip": "Add fresh herbs to ricotta for brightness.",
+            "reason": "Herbs like basil or parsley add fresh, vibrant notes that balance the richness of the cheese and sauce."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking pasta before baking",
+            "why_it_happens": "Many assume pasta should be fully cooked before baking, but it softens more in the oven, leading to mushy texture.",
+            "fix": "Cook pasta just until al dente, then drain and toss with oil to prevent sticking. This keeps the noodles firm through baking."
+        },
+        {
+            "mistake": "Skipping the browning of meat",
+            "why_it_happens": "Rushing or skipping browning to save time causes bland sauce lacking depth.",
+            "fix": "Take time to brown meat with onions and garlic until golden and fragrant; this adds essential flavor layers."
+        },
+        {
+            "mistake": "Using watery ricotta or fresh mozzarella without draining",
+            "why_it_happens": "Some cheeses contain excess moisture that can make the casserole soggy.",
+            "fix": "Drain ricotta or fresh mozzarella well before layering to avoid watery casserole and maintain texture."
+        },
+        {
+            "mistake": "Not covering the casserole while baking",
+            "why_it_happens": "Skipping foil cover leads to dry cheese and sauce, as moisture escapes too quickly.",
+            "fix": "Cover loosely with foil during most baking time to retain moisture and melt cheese smoothly."
+        },
+        {
+            "mistake": "Cutting casserole immediately after baking",
+            "why_it_happens": "Serving too soon causes the layers to fall apart and lose shape.",
+            "fix": "Allow casserole to rest 5-10 minutes so it firms up for neat slices and better flavor melding."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Baked Spaghetti Casserole",
+            "description": "Swap the meat for sautéed mushrooms, zucchini, and bell peppers for a veggie-packed casserole. Use your favorite marinara and add extra herbs for flavor. This version is hearty yet lighter, perfect for meat-free nights.",
+            "technical_note": "Vegetables release moisture, so cook them until tender and most liquid evaporates before layering to avoid sogginess."
+        },
+        {
+            "name": "Spicy Italian Sausage Baked Spaghetti",
+            "description": "Use spicy Italian sausage instead of ground beef and add crushed red pepper flakes to the sauce for a kick. This variation adds warmth and bold flavor that pairs wonderfully with the creamy cheese layers.",
+            "technical_note": "Adjust spice level by controlling the amount of red pepper and sausage heat to suit your taste."
+        },
+        {
+            "name": "Four-Cheese Baked Spaghetti",
+            "description": "Mix ricotta, mozzarella, Parmesan, and shredded provolone or fontina for a rich, cheesy indulgence. The blend of cheeses creates complex flavors and a luxuriously creamy texture throughout the casserole.",
+            "technical_note": "Use cheeses with varying moisture and melt characteristics to balance creaminess and crust formation."
+        },
+        {
+            "name": "Gluten-Free Baked Spaghetti Casserole",
+            "description": "Replace regular spaghetti with your favorite gluten-free pasta. The rest of the recipe stays the same, making it accessible for gluten-sensitive eaters without sacrificing flavor or texture.",
+            "technical_note": "Cook gluten-free pasta carefully to al dente, as it can become mushy quickly; rinse with cold water after draining to stop cooking."
+        },
+        {
+            "name": "Creamy Alfredo Baked Spaghetti",
+            "description": "Swap marinara for a creamy Alfredo sauce and add cooked chicken or broccoli for a comforting white sauce casserole. This twist offers a luscious, rich flavor profile that’s a nice change from tomato-based dishes.",
+            "technical_note": "Because Alfredo sauce is rich, bake covered to prevent drying and consider adding a splash of milk if sauce thickens too much."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "480 kcal",
+        "protein_grams": "32g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "20g",
+        "fiber_grams": "4g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and brands used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This casserole can safely sit at room temperature for up to 2 hours if covered loosely to avoid drying out. Beyond that, bacteria growth becomes a concern, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The casserole may firm up and flavors deepen when cold. Reheat gently in the oven or microwave, adding a splash of water or sauce to keep it moist.",
+        "freezer": "Freeze portions in airtight containers or wrapped tightly in foil and plastic wrap for up to 3 months. To prevent freezer burn, ensure minimal air exposure. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat covered in a 350°F oven for 15-20 minutes or microwave in short bursts, stirring if possible. Add a little water or sauce to restore moisture and prevent drying out. Avoid overheating to keep cheese from becoming rubbery.",
+        "make_ahead_strategy": "You can assemble the casserole a day ahead and keep it covered in the fridge. Bake fresh the next day for best texture and flavor. Alternatively, cook and bake it fully, then reheat when ready to serve."
+    },
+    "faq": [
+        {
+            "question": "Can I use pre-shredded cheese for this recipe?",
+            "answer": "Yes, you can use pre-shredded cheese, but freshly shredded cheese melts better and creates a smoother texture. Pre-shredded often contains anti-caking agents that can affect melting and may result in a less creamy casserole."
+        },
+        {
+            "question": "Is it okay to substitute ground turkey for beef?",
+            "answer": "Absolutely! Ground turkey works well and makes the dish leaner. Just be sure to brown it thoroughly and season well, as turkey is milder in flavor compared to beef or sausage."
+        },
+        {
+            "question": "How do I prevent the casserole from being watery?",
+            "answer": "Drain pasta well and use low-moisture cheeses. Also, simmer the sauce to thicken it before layering. Avoid using watery ricotta or fresh mozzarella without draining excess liquid."
+        },
+        {
+            "question": "Can I prepare this casserole gluten-free?",
+            "answer": "Yes, substitute regular spaghetti with a gluten-free variety. Cook it carefully to al dente to avoid mushiness. The rest of the recipe remains the same."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat covered in the oven at 350°F for 15-20 minutes or microwave in short bursts. Adding a splash of water or sauce helps keep it moist and prevents drying out."
+        },
+        {
+            "question": "Can I make this casserole vegetarian?",
+            "answer": "Definitely! Replace meat with sautéed vegetables like mushrooms, zucchini, or bell peppers. Cook veggies until most moisture evaporates to avoid sogginess."
+        },
+        {
+            "question": "Is it necessary to let the casserole rest before serving?",
+            "answer": "Yes, resting for 5-10 minutes helps the layers set, making it easier to cut and enhancing the flavors. Serving immediately can cause it to fall apart."
+        },
+        {
+            "question": "Can I double this recipe for a larger crowd?",
+            "answer": "Yes, just use a larger baking dish or two dishes. Keep the layering and baking times similar, but check doneness as ovens vary."
+        },
+        {
+            "question": "What if I don’t have ricotta cheese?",
+            "answer": "You can substitute with cottage cheese or cream cheese, though the texture and flavor will be slightly different. Drain well to avoid excess moisture."
+        },
+        {
+            "question": "How do I add extra flavor to the sauce?",
+            "answer": "Try sautéing extra garlic, adding fresh herbs like basil or oregano, or a splash of red wine. Letting the sauce simmer longer also deepens flavor."
+        }
+    ],
+    "conclusion": "I hope you give this baked spaghetti casserole a try soon—it’s one of those dishes that feels like a warm hug. Let me know how it turns out and what your favorite twist is!",
+    "seo": {
+        "primary_keyword": "baked spaghetti casserole recipe",
+        "secondary_keywords": [
+            "easy baked spaghetti",
+            "cheesy spaghetti casserole",
+            "how to make baked spaghetti casserole",
+            "best baked spaghetti casserole recipe",
+            "easy baked spaghetti casserole"
+        ],
+        "internal_links": [
+            {
+                "text": "classic lasagna recipe",
+                "anchor": "classic-lasagna-recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761229889_885",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-04-25 18:52:50",
+        "title_seed": "Baked Spaghetti Casserole Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1777135970_354",
+    "slug": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite",
+    "uniqueSlug": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_1.webp",
+            "filePath": "posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_1.webp",
+            "relativePath": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_2.webp",
+            "filePath": "posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_2.webp",
+            "relativePath": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_3.webp",
+            "filePath": "posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_3.webp",
+            "relativePath": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_6.webp",
+            "filePath": "posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_6.webp",
+            "relativePath": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_4.webp",
+            "filePath": "posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_4.webp",
+            "relativePath": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_7.webp",
+            "filePath": "posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_7.webp",
+            "relativePath": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_5.webp",
+            "filePath": "posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_5.webp",
+            "relativePath": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_8.webp",
+            "filePath": "posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_8.webp",
+            "relativePath": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_9.webp",
+            "filePath": "posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_9.webp",
+            "relativePath": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "image": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_1.webp",
+    "image_path": "posts/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images/baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite_pinrecipes_image_1.webp",
+    "image_dir": "baked-spaghetti-casserole-recipe-that-feels-like-home-in-every-bite/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-04-25T19:06:23+02:00",
+    "updatedAt": "2026-04-25T19:06:23+02:00"
+}
