@@ -1,95 +1,41 @@
 {
-    "date": "2026-04-29T23:44:51+00:00",
-    "filename": "pinterest_daily_2026-04-29.csv",
+    "date": "2026-04-30T00:43:10+00:00",
+    "filename": "pinterest_daily_2026-04-30.csv",
     "articles": [
         {
-            "slug": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/post.json",
+            "slug": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/post.json",
             "original": {
-                "createdAt": "2026-04-29T23:35:35+00:00",
+                "createdAt": "2026-04-29T23:31:50+00:00",
                 "CreateAt": null,
-                "updatedAt": "2026-04-29T23:35:35+00:00"
+                "updatedAt": "2026-04-29T23:31:50+00:00"
             }
         },
         {
-            "slug": "how-to-crisp-up-radishes-simple-tips-for-perfect-crunch-every-time",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/how-to-crisp-up-radishes-simple-tips-for-perfect-crunch-every-time/post.json",
+            "slug": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/post.json",
             "original": {
-                "createdAt": "2026-04-29T23:33:39+00:00",
+                "createdAt": "2026-04-30T00:06:22+00:00",
                 "CreateAt": null,
-                "updatedAt": "2026-04-29T23:33:39+00:00"
+                "updatedAt": "2026-04-30T00:06:22+00:00"
             }
         },
         {
-            "slug": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/post.json",
+            "slug": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/post.json",
             "original": {
-                "createdAt": "2026-04-29T23:39:21+00:00",
+                "createdAt": "2026-04-30T00:37:34+00:00",
                 "CreateAt": null,
-                "updatedAt": "2026-04-29T23:39:21+00:00"
+                "updatedAt": "2026-04-30T00:37:34+00:00"
             }
         },
         {
-            "slug": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/post.json",
+            "slug": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time",
+            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/post.json",
             "original": {
-                "createdAt": "2026-04-29T23:27:22+00:00",
+                "createdAt": "2026-04-30T00:01:46+00:00",
                 "CreateAt": null,
-                "updatedAt": "2026-04-29T23:27:22+00:00"
-            }
-        },
-        {
-            "slug": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/post.json",
-            "original": {
-                "createdAt": "2026-04-29T23:17:10+00:00",
-                "CreateAt": null,
-                "updatedAt": "2026-04-29T23:17:10+00:00"
-            }
-        },
-        {
-            "slug": "crispy-fried-radishes-a-surprisingly-delicious-snack-or-side-dish",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crispy-fried-radishes-a-surprisingly-delicious-snack-or-side-dish/post.json",
-            "original": {
-                "createdAt": "2026-04-29T23:29:31+00:00",
-                "CreateAt": null,
-                "updatedAt": "2026-04-29T23:29:31+00:00"
-            }
-        },
-        {
-            "slug": "crispy-pickled-radish-recipe-that-adds-a-tangy-crunch-to-any-meal",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crispy-pickled-radish-recipe-that-adds-a-tangy-crunch-to-any-meal/post.json",
-            "original": {
-                "createdAt": "2026-04-29T23:19:32+00:00",
-                "CreateAt": null,
-                "updatedAt": "2026-04-29T23:19:32+00:00"
-            }
-        },
-        {
-            "slug": "sheet-pan-chicken-recipes-easy-recipe-for-effortless-weeknight-dinners",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/sheet-pan-chicken-recipes-easy-recipe-for-effortless-weeknight-dinners/post.json",
-            "original": {
-                "createdAt": "2026-04-28T23:26:07+00:00",
-                "CreateAt": null,
-                "updatedAt": "2026-04-28T23:26:07+00:00"
-            }
-        },
-        {
-            "slug": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/post.json",
-            "original": {
-                "createdAt": "2026-04-29T23:37:39+00:00",
-                "CreateAt": null,
-                "updatedAt": "2026-04-29T23:37:39+00:00"
-            }
-        },
-        {
-            "slug": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor",
-            "path": "C:\\xampp\\htdocs\\SitePinterset\\pinrecipes/posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/post.json",
-            "original": {
-                "createdAt": "2026-04-29T23:42:05+00:00",
-                "CreateAt": null,
-                "updatedAt": "2026-04-29T23:42:05+00:00"
+                "updatedAt": "2026-04-30T00:01:46+00:00"
             }
         }
     ]
