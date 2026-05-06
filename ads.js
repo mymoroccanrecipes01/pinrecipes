@@ -78,6 +78,17 @@
                         "8684648378"
                     ],
                     "className": "Ad-header"
+                },
+                {
+                    "selector": ".instruction-step",
+                    "position": "after",
+                    "format": "auto",
+                    "pages": "all",
+                    "slots": [
+                        "4055138220",
+                        "8684648378"
+                    ],
+                    "className": "Ad-instruction-step"
                 }
             ]
         };
