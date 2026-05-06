@@ -88,6 +88,8 @@
                         "4055138220",
                         "8684648378"
                     ],
+                    "everyNth": 6,
+                    "maxAds": 6,
                     "className": "Ad-instruction-step"
                 }
             ]
