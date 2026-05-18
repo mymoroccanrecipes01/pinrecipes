@@ -1,12 +1,9 @@
 globalThis.facebookURL = "#";
-globalThis.PinterestURL = "https://www.pinterest.com/pinrecipesblog";
+globalThis.PinterestURL = "#";
 globalThis.twitterURL = "#";
 globalThis.redditURL = "#";
 globalThis.siteUrl = "https:\/\/pinrecipes.lummyrecipes.com";
 globalThis.homepageTitle = "PIN RECIPES";
 globalThis.homepageTagline = "Pin Recipes - Discover delicious recipes for every occasion";
-globalThis.email = 'contact@pinposts.org';
+globalThis.email = 'contact@myrecipes.com';
 globalThis.copyright = "2025 - 2026 PIN RECIPES. All rights reserved.";
-globalThis.postNiche = "general";
-globalThis.postMetaStats = [{"field":"prep_time","label":"Prep Time","suffix":"min","icon":"⏱"},{"field":"cook_time","label":"Time","suffix":"min","icon":"🔥"},{"field":"total_time","label":"Total Time","suffix":"min","icon":"⏰"},{"field":"servings","label":"Servings","suffix":"","icon":"🍽"},{"field":"duration","label":"Duration","suffix":"","icon":"📅"},{"field":"difficulty","label":"Difficulty","suffix":"","icon":"📊"},{"field":"budget","label":"Budget","suffix":"","icon":"💰"},{"field":"level","label":"Level","suffix":"","icon":"🎯"}];
-globalThis.postSectionLabels = {"why_this_works":"Why This Works","ingredients":"What You'll Need","instructions":"How To Do It","pro_tips":"Pro Tips","common_mistakes":"Common Mistakes to Avoid","variations":"Variations","nutrition":"Nutrition","storage":"Storage & Tips","faq":"FAQ","conclusion":"Final Thoughts","introduction":"Introduction"};
