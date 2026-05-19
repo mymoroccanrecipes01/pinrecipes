@@ -27,7 +27,7 @@
     "cook_time": 0,
     "servings": 9,
     "ingredients": [
-        "1 1/2 cups graham cracker crumbs",
+        "1 1\/2 cups graham cracker crumbs",
         "6 tablespoons unsalted butter, melted",
         "16 ounces cream cheese, softened",
         "1 cup powdered sugar",
@@ -81,19 +81,19 @@
         {
             "step": 8,
             "instruction": "Store any leftovers in an airtight container in the refrigerator. This keeps the crust crisp and the filling fresh. Avoid leaving them out at room temperature for long periods as the cream cheese filling can soften and lose its texture.",
-            "timing": "N/A",
+            "timing": "N\/A",
             "doneness_cue": "Bars remain firm and fresh when chilled properly."
         },
         {
             "step": 9,
             "instruction": "If you want to make these bars ahead, you can prepare everything up to the refrigeration step 1-2 days in advance. Just keep the pan tightly covered in the fridge until ready to serve. This makes them a great make-ahead dessert for gatherings or meal prep.",
-            "timing": "N/A",
+            "timing": "N\/A",
             "doneness_cue": "Bars hold their shape and flavor after chilling."
         }
     ],
     "why_this_recipe_works": {
         "section": "Why This No Bake Cheesecake Bars Recipe Is So Successful",
-        "content": "<p>These no bake strawberry cheesecake bars work so well because of the perfect balance between the crust and the creamy filling. The graham cracker crust is held together by melted butter, which solidifies as it chills, creating a sturdy foundation that contrasts nicely with the smooth filling. Butter not only binds the crumbs but also adds richness and flavor, making the crust more than just a base.</p><p>The cream cheese filling is whipped until silky smooth, which is key to achieving that classic cheesecake texture without baking. Powdered sugar is used instead of granulated sugar because it dissolves easily, preventing any gritty texture and also helping to stabilize the cream cheese. Whipping air into the cream cheese mixture lightens it up, so the bars don’t feel heavy or dense.</p><p>Fresh strawberries add a refreshing, juicy element that cuts through the richness of the filling. Their natural acidity brightens the flavor profile and adds a lovely pop of color. Pressing the strawberries gently into the filling helps them adhere, so they don’t slide off when slicing.</p><p>Chilling the bars for several hours is crucial as it allows the filling to firm up and the crust to set. This step ensures the bars hold their shape when cut and have that satisfying creamy yet firm bite. Skipping or shortening the chilling time often results in a runny filling and crumbly crust that falls apart easily.</p>",
+        "content": "<p>These no bake strawberry cheesecake bars work so well because of the perfect balance between the crust and the creamy filling. The graham cracker crust is held together by melted butter, which solidifies as it chills, creating a sturdy foundation that contrasts nicely with the smooth filling. Butter not only binds the crumbs but also adds richness and flavor, making the crust more than just a base.<\/p><p>The cream cheese filling is whipped until silky smooth, which is key to achieving that classic cheesecake texture without baking. Powdered sugar is used instead of granulated sugar because it dissolves easily, preventing any gritty texture and also helping to stabilize the cream cheese. Whipping air into the cream cheese mixture lightens it up, so the bars don’t feel heavy or dense.<\/p><p>Fresh strawberries add a refreshing, juicy element that cuts through the richness of the filling. Their natural acidity brightens the flavor profile and adds a lovely pop of color. Pressing the strawberries gently into the filling helps them adhere, so they don’t slide off when slicing.<\/p><p>Chilling the bars for several hours is crucial as it allows the filling to firm up and the crust to set. This step ensures the bars hold their shape when cut and have that satisfying creamy yet firm bite. Skipping or shortening the chilling time often results in a runny filling and crumbly crust that falls apart easily.<\/p>",
         "ingredient_notes": {
             "Graham Cracker Crumbs": "When buying graham cracker crumbs, look for finely ground crumbs for the best crust texture. Coarser crumbs can make the crust crumbly and less cohesive. You can buy pre-packaged crumbs or crush whole graham crackers yourself for freshness. The crumbs provide structure and a slightly sweet, toasty flavor that complements the creamy filling.",
             "Unsalted Butter": "Use unsalted butter melted just before mixing to bind the crust. Salted butter can alter the flavor balance, so unsalted is preferred. The butter solidifies when chilled, helping the crust hold together. Be sure to melt it gently to avoid burning, which would impart a bitter taste.",
@@ -182,7 +182,7 @@
         },
         {
             "name": "Honey-Sweetened Strawberry Cheesecake Bars",
-            "description": "Replace powdered sugar with 1/3 cup honey for a natural sweetener alternative. This gives the filling a subtle floral sweetness and a slightly softer texture.",
+            "description": "Replace powdered sugar with 1\/3 cup honey for a natural sweetener alternative. This gives the filling a subtle floral sweetness and a slightly softer texture.",
             "technical_note": "Mix honey thoroughly with softened cream cheese and chill longer to help the filling set properly."
         }
     ],
@@ -256,7 +256,7 @@
         "reading_level": "8th grade",
         "word_count_total": "approximately 5200 words"
     },
-    "category_id": 8,
+    "category_id": "cat_1761230383_494",
     "generation_metadata": {
         "source": "auto-pipeline",
         "generated": "2026-05-19 12:46:49",
@@ -270,76 +270,76 @@
     "images": [
         {
             "fileName": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_1.png",
-            "filePath": "posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_1.png",
-            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_1.png",
+            "filePath": "posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_1.png",
+            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_1.png",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_2.png",
-            "filePath": "posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_2.png",
-            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_2.png",
+            "filePath": "posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_2.png",
+            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_2.png",
             "originalUrl": "openai-generated",
             "order": 2,
             "type": "main"
         },
         {
             "fileName": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_3.png",
-            "filePath": "posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_3.png",
-            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_3.png",
+            "filePath": "posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_3.png",
+            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_3.png",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
         },
         {
             "fileName": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_8.webp",
-            "filePath": "posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_8.webp",
-            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_8.webp",
-            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_8.webp",
+            "filePath": "posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_8.webp",
+            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/pinrecipes\/posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_8.webp",
             "type": "recipe_card",
             "no_link": true
         },
         {
             "fileName": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_6.webp",
-            "filePath": "posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_6.webp",
-            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_6.webp",
-            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_6.webp",
+            "filePath": "posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_6.webp",
+            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/pinrecipes\/posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_6.webp",
             "type": "template"
         },
         {
             "fileName": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_9.webp",
-            "filePath": "posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_9.webp",
-            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_9.webp",
-            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_9.webp",
+            "filePath": "posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_9.webp",
+            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/pinrecipes\/posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_9.webp",
             "type": "overlay_list",
             "no_link": true
         },
         {
             "fileName": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_7.webp",
-            "filePath": "posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_7.webp",
-            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_7.webp",
-            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_7.webp",
+            "filePath": "posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_7.webp",
+            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/pinrecipes\/posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_7.webp",
             "type": "template"
         },
         {
             "fileName": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_5.webp",
-            "filePath": "posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_5.webp",
-            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_5.webp",
-            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_5.webp",
+            "filePath": "posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_5.webp",
+            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/pinrecipes\/posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_5.webp",
             "type": "template"
         },
         {
             "fileName": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_4.webp",
-            "filePath": "posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_4.webp",
-            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_4.webp",
-            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_4.webp",
+            "filePath": "posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_4.webp",
+            "relativePath": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/pinrecipes\/posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_4.webp",
             "type": "template"
         }
     ],
     "image": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_1.png",
-    "image_path": "posts/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_1.png",
-    "image_dir": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love/images",
+    "image_path": "posts\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images\/simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love_pinrecipes_image_1.png",
+    "image_dir": "simple-5-ingredient-no-bake-strawberry-cheesecake-bars-that-everyone-will-love\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2026-05-19T12:46:54+00:00",
