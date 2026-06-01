@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-01 21:25:45",
-    "count": 787,
+    "generated": "2026-06-01 22:03:57",
+    "count": 789,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -398,6 +398,7 @@
         "frozen-yogurt-bark-with-sprinkles-a-fun-and-easy-summer-treat",
         "fudgy-3-ingredient-tiktok-brownies-with-secret-ingredient-that-will-blow-your-mind",
         "fudgy-5-ingredient-chocolate-brownies-ready-in-30-minutes",
+        "fudgy-chocolate-chip-cookie-dough-brownies-with-sea-salt-finish-that-melt-in-your-mouth",
         "fudgy-easy-5-ingredient-chocolate-brownies-for-quick-desserts",
         "fudgy-espresso-brownies-topped-with-toasted-pecans-for-the-ultimate-treat",
         "fudgy-vegan-black-bean-brownies-with-walnuts-and-dark-chocolate-that-melt-in-your-mouth",
@@ -735,6 +736,7 @@
         "spring-lemon-drizzle-cake-with-fresh-blueberries-that-bursts-with-flavor",
         "spring-nails-2026-15-trending-designs-youll-love-this-season",
         "spring-strawberry-layered-cake-with-whipped-cream-frosting-that-melts-in-your-mouth",
+        "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic",
         "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine",
         "st-patrick-s-day-green-velvet-cupcakes-with-cream-cheese-frosting",
         "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends",
@@ -791,6 +793,36 @@
         "world-s-easiest-yeast-bread-recipe-artisan-no-knead-crusty-bread"
     ],
     "posts": [
+        {
+            "slug": "fudgy-chocolate-chip-cookie-dough-brownies-with-sea-salt-finish-that-melt-in-your-mouth",
+            "title": "Fudgy Chocolate Chip Cookie Dough Brownies with Sea Salt Finish That Melt in Your Mouth",
+            "description": "These brownies are the perfect mashup of rich chocolate fudge and sweet cookie dough, topped with a sprinkle of sea salt that cuts through the sweetness beautifully. I love serving them as a decadent treat for weekend ga",
+            "image": "posts/fudgy-chocolate-chip-cookie-dough-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/fudgy-chocolate-chip-cookie-dough-brownies-with-sea-salt-finish-that-melt-in-your-mouth_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-01T22:03:56+01:00",
+            "updatedAt": "2026-06-01T22:03:56+01:00",
+            "isOnline": true,
+            "difficulty": "Medium",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 9
+        },
+        {
+            "slug": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic",
+            "title": "Spring Strawberry Shortcake with Whipped Cream and Fresh Basil – A Bright Twist on a Classic",
+            "description": "This strawberry shortcake is a fresh spring delight with juicy berries, fluffy whipped cream, and a surprising hint of fresh basil. The basil adds a subtle herbal note that makes it perfect for a light dessert or afterno",
+            "image": "posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-01T21:39:54+01:00",
+            "updatedAt": "2026-06-01T21:39:54+01:00",
+            "isOnline": true,
+            "difficulty": "Medium",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 6
+        },
         {
             "slug": "30-minute-honey-garlic-chicken-with-spring-vegetable-medley-for-busy-weeknights",
             "title": "30-Minute Honey Garlic Chicken with Spring Vegetable Medley for Busy Weeknights",
