@@ -295,6 +295,48 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_8.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_8.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_4.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_4.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_9.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_9.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_5.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_5.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_6.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_6.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_7.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_7.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_7.webp",
+            "type": "template"
         }
     ],
     "image": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_1.png",
@@ -302,6 +344,6 @@
     "image_dir": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-06-05T00:04:49+01:00",
-    "updatedAt": "2026-06-05T00:04:49+01:00"
+    "createdAt": "2026-06-05T12:03:53+01:00",
+    "updatedAt": "2026-06-05T12:03:53+01:00"
 }

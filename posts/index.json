@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-05 00:25:08",
-    "count": 828,
+    "generated": "2026-06-05 12:03:53",
+    "count": 830,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -42,6 +42,7 @@
         "5-ingredient-lemon-drizzle-cake-perfect-for-spring",
         "5-ingredient-moist-chocolate-cake-for-quick-celebrations",
         "5-ingredient-moist-chocolate-cake-ready-in-30-minutes",
+        "5-ingredient-moist-chocolate-cake-with-decadent-ganache-frosting-that-everyone-will-love",
         "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth",
         "adorable-easter-bunny-butt-cupcakes-for-a-fun-celebration",
         "adorable-easter-bunny-cakesicles-for-spring-celebrations",
@@ -655,6 +656,7 @@
         "quick-30-minute-lemon-herb-roasted-chicken-thighs-that-everyone-will-love",
         "quick-5-ingredient-chewy-chocolate-chip-cookies-for-busy-weeknights",
         "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works",
+        "quick-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love",
         "quick-5-ingredient-chocolate-cake-with-fudge-frosting-thats-ready-in-no-time",
         "quick-5-ingredient-chocolate-cake-with-rich-ganache-that-feels-like-a-hug",
         "quick-5-ingredient-chocolate-fudge-cake-for-busy-bakers-who-crave-comfort",
@@ -833,6 +835,51 @@
     ],
     "posts": [
         {
+            "slug": "5-ingredient-moist-chocolate-cake-with-decadent-ganache-frosting-that-everyone-will-love",
+            "title": "5 Ingredient Moist Chocolate Cake with Decadent Ganache Frosting That Everyone Will Love",
+            "description": "This rich yet simple chocolate cake uses just five ingredients for a moist, tender crumb. The secret? A smooth ganache frosting that’s silky and indulgent. Perfect for birthdays or when you want a fuss-free dessert that ",
+            "image": "posts/5-ingredient-moist-chocolate-cake-with-decadent-ganache-frosting-that-everyone-will-love/images/5-ingredient-moist-chocolate-cake-with-decadent-ganache-frosting-that-everyone-will-love_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-05T12:03:53+01:00",
+            "updatedAt": "2026-06-05T12:03:53+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 8
+        },
+        {
+            "slug": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home",
+            "title": "Simple 5 Ingredient Chocolate Cake with Fudge Frosting That Feels Like Home",
+            "description": "This chocolate cake is a no-fuss, rich treat made with just five ingredients. The fudge frosting is silky and indulgent without any complicated steps. It’s perfect for a cozy family dessert or last-minute celebrations!",
+            "image": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-05T12:03:53+01:00",
+            "updatedAt": "2026-06-05T12:03:53+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 8
+        },
+        {
+            "slug": "quick-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love",
+            "title": "Quick 5 Ingredient Chocolate Cake for Busy Weeknights That Everyone Will Love",
+            "description": "This chocolate cake is a lifesaver when you want something sweet but don’t have hours to bake. Only five ingredients and super simple steps make it perfect for busy weeknights or last-minute cravings.",
+            "image": "posts/quick-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love/images/quick-5-ingredient-chocolate-cake-for-busy-weeknights-that-everyone-will-love_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-05T12:02:27+01:00",
+            "updatedAt": "2026-06-05T12:02:27+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 8
+        },
+        {
             "slug": "15-minute-caprese-skewers-with-balsamic-glaze-for-parties",
             "title": "15 Minute Caprese Skewers with Balsamic Glaze for Parties",
             "description": "These Caprese skewers are the perfect bite-sized party treat—fresh mozzarella, ripe tomatoes, and basil drizzled with a sweet balsamic glaze. Super quick to make and always a crowd-pleaser for any gathering!",
@@ -981,21 +1028,6 @@
             "cook_time": 30,
             "total_time": null,
             "servings": 4
-        },
-        {
-            "slug": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home",
-            "title": "Simple 5 Ingredient Chocolate Cake with Fudge Frosting That Feels Like Home",
-            "description": "This chocolate cake is a no-fuss, rich treat made with just five ingredients. The fudge frosting is silky and indulgent without any complicated steps. It’s perfect for a cozy family dessert or last-minute celebrations!",
-            "image": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-feels-like-home_pinrecipes_image_1.png",
-            "category_id": "cat_1761230294_638",
-            "createdAt": "2026-06-05T00:04:49+01:00",
-            "updatedAt": "2026-06-05T00:04:49+01:00",
-            "isOnline": true,
-            "difficulty": "Easy",
-            "prep_time": 15,
-            "cook_time": 30,
-            "total_time": null,
-            "servings": 8
         },
         {
             "slug": "5-ingredient-moist-chocolate-cake-for-quick-celebrations",
