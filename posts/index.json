@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-05 12:13:29",
-    "count": 830,
+    "generated": "2026-06-05 12:20:35",
+    "count": 832,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -565,6 +565,7 @@
         "no-bake-5-ingredient-mocha-chocolate-cheesecake-cups-that-impress-every-time",
         "no-bake-cheesecake-brownie-bars-with-fresh-berries-a-delightful-treat",
         "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing",
+        "no-bake-chocolate-cheesecake-cups-with-oreo-crust-that-everyone-will-love",
         "no-bake-chocolate-peanut-butter-cheesecake-for-summer-parties-that-everyone-will-love",
         "no-bake-chocolate-swirl-cheesecake-with-oreo-crust-that-melts-in-your-mouth",
         "no-bake-coconut-lime-cheesecake-cups-with-graham-cracker-crust-that-are-pure-bliss",
@@ -705,6 +706,7 @@
         "quick-lunch-ideas-that-beat-boring-sandwiches-every-time",
         "quick-mini-chicken-satay-bites-with-peanut-sauce-that-everyone-will-love",
         "quick-moist-5-ingredient-brownies-for-busy-weeknights",
+        "quick-no-bake-dark-chocolate-mini-cheesecakes-that-everyone-will-love",
         "red-wine-braised-short-ribs-a-romantic-dinner-delight",
         "refreshing-cucumber-mint-low-calorie-smoothie-bowl-for-spring",
         "refreshing-high-protein-berry-smoothie-for-busy-mornings-that-kickstart-your-day",
@@ -834,6 +836,36 @@
         "world-s-easiest-yeast-bread-recipe-artisan-no-knead-crusty-bread"
     ],
     "posts": [
+        {
+            "slug": "no-bake-chocolate-cheesecake-cups-with-oreo-crust-that-everyone-will-love",
+            "title": "No Bake Chocolate Cheesecake Cups with Oreo Crust That Everyone Will Love",
+            "description": "These no bake chocolate cheesecake cups are a quick, creamy treat with a crunchy Oreo crust. Perfect for when you want a fuss-free dessert that feels special. Great for family gatherings or a cozy night in!",
+            "image": "posts/no-bake-chocolate-cheesecake-cups-with-oreo-crust-that-everyone-will-love/images/no-bake-chocolate-cheesecake-cups-with-oreo-crust-that-everyone-will-love_pinrecipes_image_1.png",
+            "category_id": "cat_1761230221_583",
+            "createdAt": "2026-06-05T12:20:35+01:00",
+            "updatedAt": "2026-06-05T12:20:35+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 6
+        },
+        {
+            "slug": "quick-no-bake-dark-chocolate-mini-cheesecakes-that-everyone-will-love",
+            "title": "Quick No Bake Dark Chocolate Mini Cheesecakes That Everyone Will Love",
+            "description": "These mini cheesecakes are a dream for chocolate lovers who want dessert fast. No baking needed—just rich cream cheese and dark chocolate swirled together. Perfect for last-minute guests or a sweet treat anytime!",
+            "image": "posts/quick-no-bake-dark-chocolate-mini-cheesecakes-that-everyone-will-love/images/quick-no-bake-dark-chocolate-mini-cheesecakes-that-everyone-will-love_pinrecipes_image_1.png",
+            "category_id": "cat_1761230221_583",
+            "createdAt": "2026-06-05T12:20:35+01:00",
+            "updatedAt": "2026-06-05T12:20:35+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 8
+        },
         {
             "slug": "gluten-free-5-ingredient-chocolate-chip-cookies-ready-in-20-minutes",
             "title": "Gluten-Free 5 Ingredient Chocolate Chip Cookies Ready in 20 Minutes",
