@@ -1,0 +1,354 @@
+{
+    "title": "Zesty Lemon Blueberry Cookies Ready in 20 Minutes",
+    "promptIMG": "Food photography: Zesty Lemon Blueberry Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These lemon blueberry cookies are a delightful mix of tart and sweet, bursting with fresh blueberries and a bright lemon zing. They come together quickly, perfect for an afternoon treat or last-minute dessert.",
+    "hashtags": "#lemoncookies #blueberrybaking #quickdessert",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Day with These Quick Lemon Blueberry Cookies",
+            "description": "Looking for a fresh twist on cookies? These lemon blueberry treats are bursting with flavor and come together in just 20 minutes. Save this recipe for your next baking session! 🍋🫐 #lemonblueberry #quickcookies #bakingfun",
+            "hashtags": "#lemonblueberry #quickcookies #bakingfun #dessertideas"
+        },
+        {
+            "title": "Sweet and Zesty Lemon Blueberry Cookies You Can Make Today",
+            "description": "These cookies balance tart lemon and juicy blueberries perfectly. Easy to make and ready fast, they’re a family favorite. Try them today and enjoy a tasty homemade snack! 🍪🍋 #homemadecookies #blueberrylove #easybaking",
+            "hashtags": "#homemadecookies #blueberrylove #easybaking #snacktime"
+        },
+        {
+            "title": "Quick Lemon Blueberry Cookies That Everyone Will Love",
+            "description": "Whip up these zesty lemon blueberry cookies in no time! Perfect for sharing or a sweet pick-me-up. Don’t forget to save this recipe and bake them soon! 🫐🍋 #quickdessert #lemoncookies #familybaking",
+            "hashtags": "#quickdessert #lemoncookies #familybaking #sweettooth"
+        },
+        {
+            "title": "Easy Lemon Blueberry Cookies with a Burst of Fresh Flavor",
+            "description": "Brighten your baking with these easy lemon blueberry cookies. Fresh blueberries and lemon zest make them irresistibly tasty. Discover this quick recipe and bake some joy today! 🍋🍪 #freshcookies #blueberryrecipes #easybaking",
+            "hashtags": "#freshcookies #blueberryrecipes #easybaking #quickrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 10,
+    "servings": 24,
+    "ingredients": [
+        "2 1/2 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1 cup unsalted butter, softened",
+        "1 cup granulated sugar",
+        "1 large egg",
+        "1 teaspoon vanilla extract",
+        "2 tablespoons fresh lemon juice",
+        "1 tablespoon lemon zest",
+        "1 1/2 cups fresh blueberries"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I first made these lemon blueberry cookies on a whim when I had a bunch of fresh blueberries and lemons sitting on my counter. I wanted something quick, bright, and a little different from the usual chocolate chip. What makes this version special is the balance of tart lemon zest and juice that really wakes up the sweet dough, plus the fresh blueberries that burst with every bite. I’ve learned that gently folding the blueberries in at the end keeps them from breaking apart and turning your dough purple, which happened on my first try! The cookies come out soft with a slight crisp edge, perfect for an afternoon snack or a light dessert after dinner. They’re simple enough to whip up on a busy day but still feel like a treat. I think you’ll love how fresh and zesty they taste without any complicated steps or fancy ingredients.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and line two baking sheets with parchment paper. This step ensures even baking and prevents sticking. Having your oven fully preheated before you start baking is key to getting those perfect edges and a soft center. Don’t rush this part because an oven that’s not hot enough can make your cookies spread too much or bake unevenly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven reaches steady 350°F temperature"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt. This dry mix is the foundation for your cookies, and evenly distributing the leavening agents ensures proper rise and texture. Take your time to whisk well so that the baking soda and powder don’t clump, which could cause uneven spots in your cookies.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are fully combined with no lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, cream the softened butter and granulated sugar together using a hand mixer or stand mixer on medium speed until light and fluffy. This usually takes about 3-4 minutes. Creaming introduces air into the dough, which helps create a tender texture. If you skip this or don’t cream long enough, your cookies might turn out dense or flat.",
+            "timing": "4 minutes",
+            "doneness_cue": "Butter and sugar mixture looks pale and fluffy"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the egg, vanilla extract, lemon zest, and lemon juice to the creamed butter and sugar. Beat until just combined. The lemon juice adds a fresh tang that brightens the whole cookie without overpowering it. Be careful not to overmix here because too much mixing can make the dough tough.",
+            "timing": "2 minutes",
+            "doneness_cue": "Wet ingredients are fully incorporated with no streaks"
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually add the dry ingredients to the wet mixture, mixing on low speed just until combined. Overmixing at this stage can develop gluten and make the cookies tough, so stop as soon as you don’t see flour. The dough should be soft but not sticky.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dough comes together with no dry flour visible"
+        },
+        {
+            "step": 6,
+            "instruction": "Gently fold in the fresh blueberries with a spatula, being careful not to crush them. This step keeps the berries whole so they burst in your mouth instead of turning the dough purple. If you mix too aggressively, the dough will turn blue and the texture will be off.",
+            "timing": "2 minutes",
+            "doneness_cue": "Blueberries evenly distributed without breaking"
+        },
+        {
+            "step": 7,
+            "instruction": "Scoop dough by rounded tablespoons onto the prepared baking sheets, spacing them about 2 inches apart. This spacing prevents the cookies from merging as they spread. If you put them too close, you’ll end up with one big cookie sheet instead of nice individual cookies.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dough balls evenly spaced on sheets"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the cookies for 10-12 minutes until the edges are lightly golden and the centers look set but still soft. Keep an eye on them starting at 10 minutes because overbaking dries them out. The smell of fresh lemon and baked blueberries will be a good indicator they’re almost done.",
+            "timing": "10-12 minutes",
+            "doneness_cue": "Edges are golden, centers no longer shiny"
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the cookies from the oven and let them cool on the baking sheets for 5 minutes before transferring to a wire rack. This resting time helps the cookies firm up so they don’t break apart. Trying to move them too soon often causes them to crumble or stick.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cookies are firm enough to lift without breaking"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Zesty Lemon Blueberry Cookies Turn Out Perfect Every Time",
+        "content": "<p>These cookies succeed because of the balance between acidity, sweetness, and moisture. The lemon zest and juice introduce bright acidity, which not only adds flavor but also reacts with the baking soda to help the cookies rise and become tender. Using fresh blueberries brings bursts of juicy sweetness that contrast beautifully with the tangy lemon.</p><p>The creaming of butter and sugar is a crucial step because it incorporates air into the dough, which creates a lighter, softer texture. If you skip this or don’t do it long enough, the cookies can turn out dense and heavy. The combination of baking powder and baking soda ensures the cookies rise properly and develop a delicate crumb.</p><p>Another key factor is folding in the blueberries gently at the end. This prevents the berries from bursting and turning the dough blue, which can affect both the appearance and texture. The dough should be soft but not sticky, which helps the cookies spread just enough to have crisp edges and chewy centers.</p><p>Finally, baking at the right temperature and timing is essential. Too hot or too long and the cookies become dry; too low or too short and they won’t set properly. Watching for the edges to turn golden while the centers remain soft is the best visual cue for perfectly baked cookies.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a standard all-purpose flour with about 10-12% protein content. This level provides enough gluten structure for the cookies to hold their shape but still remain tender. Avoid using cake flour or bread flour as they can make the cookies too crumbly or tough, respectively.",
+            "unsalted butter": "Use unsalted butter softened to room temperature for better control over the salt content and to ensure even creaming with sugar. Butter adds richness and helps create those crisp edges. Avoid melted butter here, as it would alter the dough’s texture.",
+            "fresh blueberries": "Fresh blueberries are best for this recipe because they hold their shape and provide fresh bursts of flavor. Frozen berries can be used but should be thawed and drained to avoid excess moisture, which can make the dough too wet and the cookies spread too much.",
+            "lemon zest and juice": "Use fresh lemons for zest and juice to get the brightest, most natural flavor. The zest contains essential oils that give a strong lemon aroma, while the juice adds acidity that reacts with baking soda. Bottled lemon juice won’t give the same fresh flavor or rise.",
+            "baking powder and baking soda": "Baking powder provides gentle leavening and helps with browning, while baking soda reacts with the lemon juice’s acidity to create lift and tenderness. Using both ensures a balanced rise and texture. Don’t substitute with just one or the other."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Make sure your butter is softened, not melted.",
+            "reason": "Softened butter creams better with sugar, trapping air that lightens the dough. Melted butter results in a runnier dough that spreads too much and makes flat cookies. The texture depends greatly on this step."
+        },
+        {
+            "tip": "Use fresh lemon zest and juice for best flavor.",
+            "reason": "Fresh lemon zest contains flavorful oils that bottled zest or extracts lack. The juice’s acidity also helps with leavening. Using fresh ingredients brightens the cookie and enhances the texture."
+        },
+        {
+            "tip": "Fold in blueberries gently at the end.",
+            "reason": "Blueberries are delicate and can easily burst, turning the dough purple and wet. Gentle folding keeps them whole, preserving the visual appeal and texture of the cookies."
+        },
+        {
+            "tip": "Don’t overmix the dough after adding flour.",
+            "reason": "Overmixing develops gluten, which toughens cookies. Mixing just until combined keeps them tender and soft."
+        },
+        {
+            "tip": "Chill the dough briefly if your kitchen is warm.",
+            "reason": "Chilling firms the dough, preventing excessive spreading during baking. This helps maintain the cookie’s shape and texture."
+        },
+        {
+            "tip": "Use parchment paper or silicone mats for baking.",
+            "reason": "These surfaces prevent sticking and promote even baking. Greasing pans can cause cookies to spread too much."
+        },
+        {
+            "tip": "Watch the cookies closely in the last minutes of baking.",
+            "reason": "Cookies can go from perfectly baked to overdone quickly. Edges should be golden while centers remain soft for the best texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold butter instead of softened.",
+            "why_it_happens": "Sometimes people forget to take butter out ahead of time and try to mix it cold, thinking it will be fine.",
+            "fix": "Plan ahead and let butter sit at room temperature for about an hour. If short on time, cut into small pieces to soften faster. Softened butter creams evenly with sugar, creating the right texture."
+        },
+        {
+            "mistake": "Overmixing after adding flour.",
+            "why_it_happens": "It’s easy to keep mixing thinking it will make dough smoother, but it actually harms texture.",
+            "fix": "Mix just until the flour disappears. Stop immediately to avoid gluten development, which causes tough cookies."
+        },
+        {
+            "mistake": "Adding blueberries too early or mixing too hard.",
+            "why_it_happens": "Some try to mix berries in with the dry ingredients or vigorously stir, breaking them up.",
+            "fix": "Fold blueberries in gently at the very end with a spatula to keep them intact and prevent dough discoloration."
+        },
+        {
+            "mistake": "Baking at incorrect temperature.",
+            "why_it_happens": "Oven temperatures vary and some people guess or don’t preheat properly.",
+            "fix": "Use an oven thermometer to check accuracy and always preheat fully before baking for consistent results."
+        },
+        {
+            "mistake": "Not spacing cookies properly on the baking sheet.",
+            "why_it_happens": "In a rush, cookies are placed too close together, causing them to merge.",
+            "fix": "Leave about 2 inches between dough balls to allow spreading without merging."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Lemon Blueberry Cookies",
+            "description": "Swap the all-purpose flour for a gluten-free blend that includes xanthan gum. The texture will be slightly different but still tender and delicious. You might want to chill the dough a bit longer to help it hold together.",
+            "technical_note": "Gluten-free flours absorb moisture differently, so watch dough consistency and adjust with a tablespoon of milk if too dry."
+        },
+        {
+            "name": "Lemon Blueberry Cookies with White Chocolate Chips",
+            "description": "Add 1/2 cup white chocolate chips to the dough for a creamy sweetness that pairs beautifully with the tart lemon and blueberries. This adds a richer flavor and a bit more indulgence.",
+            "technical_note": "Fold chips in gently along with blueberries to avoid breaking either ingredient."
+        },
+        {
+            "name": "Vegan Lemon Blueberry Cookies",
+            "description": "Replace butter with vegan margarine and use a flax egg (1 tablespoon ground flaxseed + 3 tablespoons water). The cookies will be slightly denser but still flavorful and moist.",
+            "technical_note": "Let the flax egg sit for 5 minutes to thicken before mixing into dough."
+        },
+        {
+            "name": "Lemon Blueberry Oatmeal Cookies",
+            "description": "Add 1 cup rolled oats to the dry ingredients for a heartier, chewier cookie with extra texture. This version feels more rustic and wholesome.",
+            "technical_note": "Reduce flour slightly to compensate for the oats and keep dough consistency manageable."
+        },
+        {
+            "name": "Lemon Blueberry Cookies with a Sugar Glaze",
+            "description": "Drizzle a simple glaze made from powdered sugar and lemon juice over cooled cookies for an extra burst of lemon flavor and a pretty finish. Great for gifting or special occasions.",
+            "technical_note": "Let cookies cool completely before glazing to prevent melting."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "150 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "22g",
+        "fat_grams": "7g",
+        "fiber_grams": "1g",
+        "sodium_mg": "90mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cookies can be kept at room temperature in an airtight container for up to 2 days. Keep them away from direct sunlight or heat to maintain freshness and prevent the blueberries from making the cookies soggy.",
+        "refrigerator": "Store cookies in an airtight container in the refrigerator for up to 5 days. They may firm up slightly when chilled but will still taste great. Bring them to room temperature before serving for best texture.",
+        "freezer": "Freeze baked cookies in a single layer on a baking sheet, then transfer to a freezer-safe container or bag for up to 3 months. Thaw at room temperature for a few hours before eating. Avoid thawing in the microwave to prevent sogginess.",
+        "reheating": "Warm cookies in a 300°F oven for 5-7 minutes to refresh softness and flavor. Avoid microwaving as it can make them chewy or tough. Adding a small piece of butter on top before warming can add moisture.",
+        "make_ahead_strategy": "You can prepare the dough 1-2 days ahead and keep it tightly wrapped in the refrigerator. When ready to bake, scoop and bake as directed. This resting time can improve flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen blueberries instead of fresh?",
+            "answer": "Yes, but thaw and drain them well before folding into the dough. Frozen berries release more moisture, which can make the dough too wet and cause cookies to spread excessively. Gently pat them dry with paper towels to avoid soggy dough."
+        },
+        {
+            "question": "What if I don’t have fresh lemons for zest and juice?",
+            "answer": "Fresh lemon zest and juice give the best flavor and acidity. If you must use bottled lemon juice, reduce the amount slightly since it’s more concentrated and lacks the zest oils. The cookies might be less vibrant in flavor without fresh zest."
+        },
+        {
+            "question": "How do I prevent blueberries from turning the dough purple?",
+            "answer": "Fold blueberries in gently at the last step to avoid crushing them. Overmixing or stirring them in early can break the berries and color the dough. Using fresh, firm berries also helps keep the dough looking bright."
+        },
+        {
+            "question": "Can I substitute butter with margarine or oil?",
+            "answer": "Butter provides flavor and texture that margarine or oil can’t fully replicate. Margarine can work but may change the cookie’s taste and texture slightly. Oil is not recommended as it makes the dough too soft and changes the structure."
+        },
+        {
+            "question": "Why are my cookies flat and spreading too much?",
+            "answer": "This usually happens if the dough is too warm, butter too soft or melted, or if you skipped chilling the dough in a warm kitchen. Also, check your baking powder and soda are fresh. Chilling dough and using properly softened butter helps control spreading."
+        },
+        {
+            "question": "Can I make these cookies gluten-free?",
+            "answer": "Yes, use a gluten-free flour blend that includes xanthan gum for structure. The texture will be slightly different but still tasty. You may want to chill the dough longer to help it hold shape better during baking."
+        },
+        {
+            "question": "How long do these cookies keep fresh?",
+            "answer": "Stored in an airtight container at room temperature, they stay fresh for about 2 days. Refrigerating extends freshness up to 5 days but may firm the cookies. Freezing is best for longer storage up to 3 months."
+        },
+        {
+            "question": "Can I add other mix-ins like nuts or chocolate chips?",
+            "answer": "Absolutely! Adding 1/2 cup chopped nuts or chocolate chips can add texture and flavor. Just fold them in gently with the blueberries to keep the dough balanced and avoid overmixing."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and sharing these zesty lemon blueberry cookies as much as my family and I do. Give them a try and let me know how they turn out!",
+    "seo": {
+        "primary_keyword": "lemon blueberry cookies",
+        "secondary_keywords": [
+            "easy lemon blueberry cookies",
+            "how to make lemon blueberry cookies",
+            "best lemon blueberry cookie recipe",
+            "quick lemon blueberry cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "classic chocolate chip cookies",
+                "anchor": "classic-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-06-06 12:41:26",
+        "title_seed": "Zesty Lemon Blueberry Cookies Ready in 20 Minutes"
+    },
+    "author_id": "author_001",
+    "id": "post_1780749686_845",
+    "slug": "zesty-lemon-blueberry-cookies-ready-in-20-minutes",
+    "uniqueSlug": "zesty-lemon-blueberry-cookies-ready-in-20-minutes",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_1.png",
+            "filePath": "posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_1.png",
+            "relativePath": "zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_2.png",
+            "filePath": "posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_2.png",
+            "relativePath": "zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_3.png",
+            "filePath": "posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_3.png",
+            "relativePath": "zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_7.webp",
+            "filePath": "posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_7.webp",
+            "relativePath": "zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_8.webp",
+            "filePath": "posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_8.webp",
+            "relativePath": "zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_4.webp",
+            "filePath": "posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_4.webp",
+            "relativePath": "zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_5.webp",
+            "filePath": "posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_5.webp",
+            "relativePath": "zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_6.webp",
+            "filePath": "posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_6.webp",
+            "relativePath": "zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_9.webp",
+            "filePath": "posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_9.webp",
+            "relativePath": "zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_9.webp",
+            "type": "overlay_list"
+        }
+    ],
+    "image": "zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_1.png",
+    "image_path": "posts/zesty-lemon-blueberry-cookies-ready-in-20-minutes/images/zesty-lemon-blueberry-cookies-ready-in-20-minutes_pinrecipes_image_1.png",
+    "image_dir": "zesty-lemon-blueberry-cookies-ready-in-20-minutes/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-06-06T13:59:57+01:00",
+    "updatedAt": "2026-06-06T13:59:57+01:00"
+}
