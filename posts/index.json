@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-08 00:25:39",
-    "count": 868,
+    "generated": "2026-06-08 11:48:26",
+    "count": 869,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -800,6 +800,7 @@
         "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing",
         "spicy-roasted-cabbage-wedges-with-golden-crispy-edges",
         "spring-asparagus-side-dish-perfect-for-your-easter-table",
+        "spring-berry-almond-cake-with-light-whipped-cream-frosting-that-melts-in-your-mouth",
         "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight",
         "spring-berry-chocolate-chip-cookies-with-a-soft-chewy-center-youll-love",
         "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning",
@@ -872,6 +873,21 @@
         "zesty-low-carb-chicken-alfredo-bake-with-broccoli-that-feels-like-comfort-food"
     ],
     "posts": [
+        {
+            "slug": "spring-berry-almond-cake-with-light-whipped-cream-frosting-that-melts-in-your-mouth",
+            "title": "Spring Berry Almond Cake with Light Whipped Cream Frosting That Melts in Your Mouth",
+            "description": "This almond cake is a lovely spring treat, bursting with fresh berries and topped with fluffy whipped cream. I love how the almond flavor pairs with the juicy berries. Great for afternoon tea or a light dessert!",
+            "image": "posts/spring-berry-almond-cake-with-light-whipped-cream-frosting-that-melts-in-your-mouth/images/spring-berry-almond-cake-with-light-whipped-cream-frosting-that-melts-in-your-mouth_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-08T11:48:26+01:00",
+            "updatedAt": "2026-06-08T11:48:26+01:00",
+            "isOnline": true,
+            "difficulty": "Medium",
+            "prep_time": 15,
+            "cook_time": 35,
+            "total_time": null,
+            "servings": 8
+        },
         {
             "slug": "chewy-chocolate-chip-cookies-with-juicy-spring-berries-that-melt-in-your-mouth",
             "title": "Chewy Chocolate Chip Cookies with Juicy Spring Berries That Melt in Your Mouth",
@@ -1012,7 +1028,7 @@
             "title": "Zesty Lemon Herb Chicken Bites Perfect for Party Platters for Easy Entertaining",
             "description": "These lemon herb chicken bites are a fresh, tangy snack that livens up any party spread. The secret is marinating in lemon juice and fresh herbs, making them juicy and flavorful. Great for casual get-togethers or game da",
             "image": "posts/zesty-lemon-herb-chicken-bites-perfect-for-party-platters-for-easy-entertaining/images/zesty-lemon-herb-chicken-bites-perfect-for-party-platters-for-easy-entertaining_pinrecipes_image_1.png",
-            "category_id": null,
+            "category_id": "cat_1761229889_885",
             "createdAt": "2026-06-08T00:25:39+01:00",
             "updatedAt": "2026-06-08T00:25:39+01:00",
             "isOnline": true,
