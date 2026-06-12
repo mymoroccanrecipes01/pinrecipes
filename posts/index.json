@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-12 22:17:54",
-    "count": 913,
+    "generated": "2026-06-12 22:51:07",
+    "count": 915,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -141,6 +141,7 @@
         "classic-birthday-cake-recipe-your-kids-will-adore-every-time",
         "classic-caesar-salad-recipe-from-scratch-every-time",
         "classic-caesar-salad-recipe-with-homemade-creamy-dressing",
+        "classic-campfire-meals-that-bring-everyone-together",
         "classic-carrot-cake-bites-that-are-perfect-for-easter-treats",
         "classic-comfort-food-with-a-healthy-twist-creamy-mashed-cauliflower-and-garlic-chicken",
         "classic-creamy-mushroom-risotto-that-warms-your-soul-on-cool-spring-evenings",
@@ -773,6 +774,7 @@
         "quick-moist-5-ingredient-brownies-for-busy-weeknights",
         "red-wine-braised-short-ribs-a-romantic-dinner-delight",
         "refreshing-cucumber-mint-low-calorie-smoothie-bowl-for-spring",
+        "refreshing-gazpacho-recipe-perfect-for-hot-summer-days",
         "refreshing-high-protein-berry-smoothie-for-busy-mornings-that-kickstart-your-day",
         "refreshing-low-calorie-peach-cobbler-with-a-cinnamon-oat-crust-thats-simply-irresistible",
         "refreshing-no-cook-lunch-ideas-perfect-for-hot-summer-days",
@@ -917,6 +919,36 @@
         "zesty-low-carb-chicken-alfredo-bake-with-broccoli-that-feels-like-comfort-food"
     ],
     "posts": [
+        {
+            "slug": "classic-campfire-meals-that-bring-everyone-together",
+            "title": "Classic Campfire Meals That Bring Everyone Together",
+            "description": "Nothing beats gathering around a campfire with hearty, simple meals that warm you up and fill you up. These recipes use easy ingredients and classic techniques, perfect for a cozy night outdoors or backyard fire pit.",
+            "image": "posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_pinrecipes_image_1.png",
+            "category_id": "cat_1761229889_885",
+            "createdAt": "2026-06-12T22:51:07+01:00",
+            "updatedAt": "2026-06-12T22:51:07+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 4
+        },
+        {
+            "slug": "refreshing-gazpacho-recipe-perfect-for-hot-summer-days",
+            "title": "Refreshing Gazpacho Recipe Perfect for Hot Summer Days",
+            "description": "This cold gazpacho soup is a bright, fresh blend of ripe tomatoes and crisp veggies, blended smooth with a splash of sherry vinegar. It’s my go-to on sweltering days when you want something light but satisfying.",
+            "image": "posts/refreshing-gazpacho-recipe-perfect-for-hot-summer-days/images/refreshing-gazpacho-recipe-perfect-for-hot-summer-days_pinrecipes_image_1.png",
+            "category_id": "cat_1761230636_499",
+            "createdAt": "2026-06-12T22:51:07+01:00",
+            "updatedAt": "2026-06-12T22:51:07+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 4
+        },
         {
             "slug": "best-cake-recipe-ever-moist-fluffy-and-simply-delicious",
             "title": "Best Cake Recipe Ever: Moist, Fluffy, and Simply Delicious",
