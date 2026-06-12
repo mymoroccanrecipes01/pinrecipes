@@ -1,0 +1,353 @@
+{
+    "title": "Grilling Ideas For Dinner: Simple, Flavorful Meals to Try Tonight",
+    "promptIMG": "Food photography: Grilled dinner plate, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "Nothing beats a grilled dinner when you want something quick and delicious. I love adding fresh herbs and a hint of citrus to brighten the flavors. Perfect for family nights or casual weekends outdoors.",
+    "hashtags": "#grillingideas #dinnerrecipes #familymeals",
+    "board_name": "Family Friendly Meat Dishes",
+    "pin_variations": [
+        {
+            "title": "Easy Grilling Ideas for a Flavor-Packed Dinner Tonight",
+            "description": "Looking for quick grilling ideas that wow? Try this simple dinner plan that’s bursting with fresh herbs and smoky flavors. Save this for your next cookout! 🔥🍴 #grillingrecipes #easymeals #familydinner",
+            "hashtags": "#grillingrecipes #easymeals #familydinner"
+        },
+        {
+            "title": "Simple Grilled Dinners That Bring Everyone to the Table",
+            "description": "Nothing says comfort like a perfectly grilled meal. Discover easy tips to get juicy, flavorful results every time. Your family will thank you! 🍗🌿 Save this recipe and try it today! #grillmaster #dinnerideas #homecooking",
+            "hashtags": "#grillmaster #dinnerideas #homecooking"
+        },
+        {
+            "title": "Quick and Tasty Grilling Ideas to Elevate Dinner Tonight",
+            "description": "Whip up a tasty grilled dinner in no time! These ideas are simple, fresh, and perfect for busy evenings. Grab your tongs and get cooking! 🍽️🔥 Don’t forget to save this for later! #quickdinner #grillingseason #easyrecipes",
+            "hashtags": "#quickdinner #grillingseason #easyrecipes"
+        },
+        {
+            "title": "Family-Friendly Grilling Ideas That Make Dinner Special",
+            "description": "Make dinner a breeze with these family-friendly grilling ideas. Juicy, flavorful, and easy to prepare—perfect for any night of the week! 🍖❤️ Save this and enjoy a delicious meal together! #familymeals #grillideas #dinnerinspo",
+            "hashtags": "#familymeals #grillideas #dinnerinspo"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless chicken breasts, trimmed",
+        "2 tablespoons olive oil",
+        "1 tablespoon fresh lemon juice",
+        "2 cloves garlic, minced",
+        "1 teaspoon dried oregano",
+        "Salt and freshly ground black pepper, to taste",
+        "1 red bell pepper, sliced",
+        "1 zucchini, sliced",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I've always loved grilling for dinner, especially when the weather is just right for firing up the grill. This recipe started as a simple way to get dinner on the table fast, but it quickly became a family favorite. What makes this version stand out is the fresh lemon juice and garlic marinade—it really brightens the chicken and keeps it juicy. Plus, grilling the veggies alongside the meat adds a smoky sweetness that’s just irresistible. I remember the first time I tried this, I almost burned the chicken by rushing it, but once I slowed down and let the grill do its magic, the results were fantastic. The finished dish is colorful, full of flavor, and so satisfying. It’s perfect for those busy weeknights when you want something homemade without a lot of fuss.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "In a medium bowl, whisk together olive oil, lemon juice, minced garlic, oregano, salt, and pepper. This marinade is the key to juicy, flavorful chicken, so be sure to mix it well. The acid from the lemon tenderizes the meat while the garlic and oregano add depth. Avoid skipping this step or rushing it, as the chicken won’t absorb the flavors properly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Marinade is well combined and evenly coats the chicken."
+        },
+        {
+            "step": 2,
+            "instruction": "Place the chicken breasts in a shallow dish or resealable bag and pour the marinade over them. Let them marinate in the fridge for at least 15 minutes, but ideally 30 for best flavor. Marinating longer helps the chicken soak up the citrus and herbs, making it tender and tasty. Don’t marinate too long (over 2 hours) or the lemon can start to 'cook' the meat.",
+            "timing": "15-30 minutes",
+            "doneness_cue": "Chicken is evenly coated and has absorbed the marinade’s aroma."
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your grill to medium-high heat. You want it hot enough to get nice sear marks but not so hot that the chicken burns. Clean and oil the grill grates to prevent sticking. This step ensures even cooking and those beautiful grill lines. If the grill is too cool, the chicken will stick and cook unevenly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Grill grates are hot and lightly oiled."
+        },
+        {
+            "step": 4,
+            "instruction": "Remove chicken from marinade and shake off excess. Place chicken on the grill and cook for 6-7 minutes per side, turning once. Resist the urge to flip it multiple times; letting it sit helps develop a caramelized crust. Watch for juices running clear and an internal temperature of 165°F to ensure doneness without drying out.",
+            "timing": "12-14 minutes",
+            "doneness_cue": "Chicken has grill marks, juices run clear, and is firm but springy."
+        },
+        {
+            "step": 5,
+            "instruction": "While the chicken cooks, toss sliced bell pepper and zucchini with a little olive oil, salt, and pepper. Place veggies on the grill in a grill basket or on foil. Grill for about 8-10 minutes, turning occasionally until tender and slightly charred. The veggies add a fresh, smoky contrast that balances the meal perfectly.",
+            "timing": "8-10 minutes",
+            "doneness_cue": "Veggies are tender and have light char marks."
+        },
+        {
+            "step": 6,
+            "instruction": "Once everything is cooked, let the chicken rest for 5 minutes before slicing. Resting allows the juices to redistribute, keeping the meat moist and flavorful. Cutting too soon can cause dry chicken. Use this time to plate the grilled veggies and sprinkle fresh parsley on top for a pop of color and freshness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken feels slightly firm but juicy when pressed."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the grilled chicken and veggies with your choice of side, like a simple salad or crusty bread. This meal is balanced, colorful, and satisfying without being heavy. Plus, it’s easy to double or halve depending on your crowd. I love how it feels like a special dinner but takes almost no effort.",
+            "timing": "0 minutes",
+            "doneness_cue": "Dish is plated attractively and ready to enjoy."
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to add a little extra flavor, drizzle a bit of balsamic glaze or a squeeze of fresh lemon over the top just before serving. It lifts the whole dish and adds a subtle tang. This finishing touch is optional but highly recommended for that extra wow factor.",
+            "timing": "1 minute",
+            "doneness_cue": "Dish has a glossy finish and enhanced aroma."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your grill grates once they’ve cooled to keep them in good shape for next time. A clean grill means better flavor and easier cooking. Use a grill brush or crumpled foil to scrape off residue. This simple habit makes all the difference in your grilling success.",
+            "timing": "5 minutes",
+            "doneness_cue": "Grill grates look clean and ready for next use."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Grilled Dinner Hits the Spot Every Time",
+        "content": "<p>Grilling is all about balancing heat and flavor. The lemon juice in the marinade acts as a natural tenderizer by breaking down proteins in the chicken, which keeps it juicy even over high heat. Meanwhile, the olive oil helps distribute the marinade evenly and prevents the meat from sticking to the grill. Garlic and oregano add aromatic depth that complements the smokiness from grilling.</p><p>The grilling process itself triggers the Maillard reaction, where the proteins and sugars on the surface of the chicken brown and caramelize, creating those irresistible grill marks and complex flavors. Cooking the chicken over medium-high heat ensures it cooks through without drying out, which can happen if the grill is too hot or if you flip the meat too often.</p><p>Grilling the vegetables alongside the chicken not only saves time but also infuses them with a subtle smoky char that enhances their natural sweetness. The olive oil coating prevents the veggies from drying out and helps them cook evenly. Resting the chicken after grilling is crucial as it allows the juices to redistribute, resulting in tender, moist meat rather than dry slices.</p><p>Overall, this recipe succeeds because it respects the science behind marinades, heat control, and resting time, while keeping things simple and approachable for home cooks. It’s a reliable method that delivers satisfying, flavorful dinners without fuss.</p>",
+        "ingredient_notes": {
+            "boneless chicken breasts": "Look for fresh, plump chicken breasts with a pale pink color and no unpleasant odor. Boneless breasts cook more evenly on the grill and are easier to slice for serving. Avoid frozen chicken unless fully thawed, as uneven thawing can cause inconsistent cooking and dryness.",
+            "olive oil": "Extra virgin olive oil is best for its rich flavor and healthy fats. It helps the marinade coat the chicken and prevents sticking on the grill. Choose a good quality oil with a fruity aroma. Avoid using oils with low smoke points, as they can burn and impart bitterness during grilling.",
+            "lemon juice": "Freshly squeezed lemon juice provides acidity that tenderizes the chicken and brightens the overall flavor. Bottled lemon juice lacks the fresh brightness and can taste flat. The acid also helps balance the richness of the olive oil and garlic.",
+            "garlic": "Fresh garlic cloves offer a pungent, vibrant flavor that infuses the marinade. Minced finely, garlic releases its oils and aroma effectively. Using garlic powder won’t give the same fresh impact. Be cautious not to overcook garlic on the grill, as it can become bitter.",
+            "oregano": "Dried oregano is a classic herb for Mediterranean-style marinades, adding earthiness and warmth. Use good quality dried oregano or fresh if available. It complements the lemon and garlic beautifully without overpowering the chicken."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t skip the resting period after grilling.",
+            "reason": "Resting allows the juices inside the chicken to redistribute evenly. If you cut into the meat immediately after cooking, the juices run out and the chicken becomes dry. A 5-minute rest keeps the chicken moist and tender."
+        },
+        {
+            "tip": "Use a meat thermometer to check doneness.",
+            "reason": "Chicken is safe to eat at 165°F internal temperature. Using a thermometer prevents overcooking, which leads to dry meat, and undercooking, which is unsafe. It’s a foolproof way to get perfect results every time."
+        },
+        {
+            "tip": "Oil your grill grates before cooking.",
+            "reason": "Oiling the grates prevents the chicken and veggies from sticking, which helps maintain the presentation and flavor. It also reduces flare-ups caused by stuck bits burning. Use a paper towel dipped in oil and tongs to safely oil the grill."
+        },
+        {
+            "tip": "Marinate the chicken for at least 15 minutes.",
+            "reason": "Marinating infuses flavor and tenderizes the meat. Less than 15 minutes won’t allow enough time for the marinade to penetrate, while too long (over 2 hours) can make the texture mushy due to the acid breaking down proteins excessively."
+        },
+        {
+            "tip": "Cut vegetables into uniform sizes.",
+            "reason": "Evenly sized veggies cook at the same rate, preventing some pieces from burning while others remain raw. This ensures a balanced texture and flavor in every bite."
+        },
+        {
+            "tip": "Use medium-high heat for grilling.",
+            "reason": "Too high heat will burn the outside before the inside cooks, while too low heat results in dry, tough meat. Medium-high heat sears the chicken and locks in juices, giving a perfect crust and tender interior."
+        },
+        {
+            "tip": "Turn the chicken only once.",
+            "reason": "Flipping multiple times interrupts the Maillard reaction and can cause uneven cooking. Letting the chicken sit on one side forms a beautiful crust and helps retain moisture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping marinating or marinating too briefly",
+            "why_it_happens": "Sometimes cooks rush dinner prep or underestimate the importance of marinating, thinking it’s optional.",
+            "fix": "Plan ahead to marinate at least 15 minutes. Even a short marinade greatly improves flavor and tenderness. Use a shallow dish or resealable bag to maximize contact with the marinade."
+        },
+        {
+            "mistake": "Grilling at too high heat",
+            "why_it_happens": "It’s tempting to crank the heat to speed things up, but this often burns the outside and leaves the inside undercooked.",
+            "fix": "Preheat grill to medium-high, about 375-400°F. Use indirect heat if your grill runs hot, and monitor the chicken closely to avoid flare-ups."
+        },
+        {
+            "mistake": "Not letting chicken rest after grilling",
+            "why_it_happens": "Impatience or distraction often leads cooks to cut into the meat right away.",
+            "fix": "Set a timer for 5 minutes post-grill. Tent chicken loosely with foil to keep warm while resting. This step locks in juices and improves texture."
+        },
+        {
+            "mistake": "Cutting vegetables unevenly",
+            "why_it_happens": "In a hurry, it’s easy to slice veggies irregularly, causing uneven cooking.",
+            "fix": "Take a few extra minutes to slice veggies into similar sizes. This ensures they cook evenly and taste better."
+        },
+        {
+            "mistake": "Over-flipping the chicken",
+            "why_it_happens": "Some think flipping often helps cook faster or more evenly, but it actually prevents good searing.",
+            "fix": "Flip chicken only once halfway through cooking. This allows a nice crust to form and keeps juices inside."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Grilled Lemon Herb Salmon",
+            "description": "Swap chicken for salmon fillets and marinate with lemon, dill, and garlic. Grill until just cooked through for a rich, flaky dinner that’s just as easy and fresh.",
+            "technical_note": "Salmon cooks faster than chicken; grill 4-5 minutes per side depending on thickness to avoid drying out."
+        },
+        {
+            "name": "Spicy Grilled Chicken with Chipotle Marinade",
+            "description": "Add chipotle powder and smoked paprika to the marinade for a smoky, spicy kick. Perfect if you like your grilled dinners with a little heat and bold flavor.",
+            "technical_note": "Adjust spice level to taste and watch closely to prevent burning due to the sugars in the marinade."
+        },
+        {
+            "name": "Vegetarian Grilled Portobello Mushrooms",
+            "description": "Replace chicken with large Portobello mushroom caps marinated in balsamic vinegar, garlic, and herbs. Grill until tender for a meaty, satisfying vegetarian option.",
+            "technical_note": "Mushrooms cook quickly and absorb marinades well; grill about 5-7 minutes per side."
+        },
+        {
+            "name": "Grilled Chicken Skewers with Veggies",
+            "description": "Cut chicken and vegetables into chunks and thread onto skewers. Grill for a fun, easy-to-eat dinner perfect for casual gatherings or kids.",
+            "technical_note": "Rotate skewers frequently for even cooking and baste with leftover marinade for extra flavor."
+        },
+        {
+            "name": "Honey Mustard Grilled Chicken",
+            "description": "Mix honey and Dijon mustard into the marinade for a sweet and tangy glaze that caramelizes beautifully on the grill. A crowd-pleaser with minimal effort.",
+            "technical_note": "Watch closely in the last few minutes to prevent honey from burning due to its sugar content."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "15g",
+        "fiber_grams": "2g",
+        "sodium_mg": "420mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Grilled chicken and vegetables can be safely left out at room temperature for up to 2 hours. Cover loosely with foil or a clean cloth to protect from insects and dust.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The chicken may dry out slightly when cold, so reheat gently or serve chilled in salads.",
+        "freezer": "Freeze cooked chicken and veggies in airtight containers or heavy-duty freezer bags for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat gently on the stovetop over low heat or in the microwave with a splash of water or broth to keep moisture. Avoid high heat which can dry out the chicken. Oven reheating at 325°F wrapped in foil also works well.",
+        "make_ahead_strategy": "Marinate the chicken up to 24 hours ahead and keep covered in the fridge. You can also slice and prep vegetables in advance. Grill everything fresh on the day for best flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use bone-in chicken pieces instead of breasts?",
+            "answer": "Yes, bone-in pieces like thighs or drumsticks work well and often stay juicier. Just adjust cooking time—bone-in pieces take longer to cook through, usually 25-30 minutes over medium heat. Use a meat thermometer to ensure they reach 165°F internally."
+        },
+        {
+            "question": "What if I don’t have fresh lemon juice?",
+            "answer": "Fresh lemon juice is best for brightness and acidity, but bottled lemon juice can be used in a pinch. Just be aware it may taste less fresh and slightly different. Avoid lemon zest substitutes, as the juice’s acidity is key to tenderizing the chicken."
+        },
+        {
+            "question": "Can I grill this on a stovetop grill pan?",
+            "answer": "Absolutely! A grill pan mimics outdoor grilling and works well indoors. Preheat the pan and oil it lightly before cooking. Cooking times are similar, but keep an eye to avoid burning since heat distribution differs from outdoor grills."
+        },
+        {
+            "question": "How do I prevent chicken from sticking to the grill?",
+            "answer": "Make sure your grill is clean and preheated well. Oil the grates before cooking and lightly oil the chicken too. Avoid moving the chicken around too much once it’s on the grill to allow a crust to form, which naturally releases it."
+        },
+        {
+            "question": "Can I add other herbs or spices to the marinade?",
+            "answer": "Definitely! Fresh thyme, rosemary, or basil work beautifully. You can also add a pinch of smoked paprika or cumin for extra flavor. Just keep the balance so the lemon and garlic still shine through."
+        },
+        {
+            "question": "What sides go best with this grilled dinner?",
+            "answer": "Simple sides like a green salad, roasted potatoes, or crusty bread complement the flavors nicely. Grilled corn or rice pilaf are also great options. Choose sides that are easy to prepare alongside the grill to keep things stress-free."
+        },
+        {
+            "question": "Is it better to marinate in a plastic bag or a bowl?",
+            "answer": "Both work fine, but a resealable plastic bag is great for even coating and easy cleanup. Just press out excess air and seal tightly. A shallow bowl works too—just turn the chicken occasionally to ensure all sides absorb the marinade."
+        },
+        {
+            "question": "How do I know when the chicken is done without a thermometer?",
+            "answer": "Look for juices running clear when you cut into the thickest part and the meat should be firm but not hard. The surface will have nice grill marks and a slight bounce when pressed gently. However, a thermometer is the most reliable method."
+        }
+    ],
+    "conclusion": "I hope you give these grilling ideas a try—they’re simple, satisfying, and perfect for any dinner. Let me know how your family likes them!",
+    "seo": {
+        "primary_keyword": "grilling ideas for dinner",
+        "secondary_keywords": [
+            "easy grilled dinner recipes",
+            "simple grilling ideas",
+            "how to make grilled chicken",
+            "best grilled chicken recipe",
+            "easy grilling recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "easy chicken marinade tips",
+                "anchor": "easy-chicken-marinade"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "category_id": "cat_1761229889_885",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-06-12 23:10:18",
+        "title_seed": "Grilling Ideas For Dinner"
+    },
+    "author_id": "author_001",
+    "id": "post_1781305818_935",
+    "slug": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight",
+    "uniqueSlug": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_1.png",
+            "filePath": "posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_1.png",
+            "relativePath": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_2.png",
+            "filePath": "posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_2.png",
+            "relativePath": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_3.png",
+            "filePath": "posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_3.png",
+            "relativePath": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_9.webp",
+            "filePath": "posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_9.webp",
+            "relativePath": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_5.webp",
+            "filePath": "posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_5.webp",
+            "relativePath": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_7.webp",
+            "filePath": "posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_7.webp",
+            "relativePath": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_6.webp",
+            "filePath": "posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_6.webp",
+            "relativePath": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_8.webp",
+            "filePath": "posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_8.webp",
+            "relativePath": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_4.webp",
+            "filePath": "posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_4.webp",
+            "relativePath": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "image": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_1.png",
+    "image_path": "posts/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images/grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight_pinrecipes_image_1.png",
+    "image_dir": "grilling-ideas-for-dinner-simple-flavorful-meals-to-try-tonight/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-06-13T00:26:25+01:00",
+    "updatedAt": "2026-06-13T00:26:25+01:00"
+}
