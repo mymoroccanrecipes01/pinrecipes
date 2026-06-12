@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-12 00:20:50",
-    "count": 911,
+    "generated": "2026-06-12 22:17:54",
+    "count": 913,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -85,6 +85,8 @@
         "berry-oat-protein-smoothie-for-a-healthy-morning-boost",
         "berry-power-high-protein-smoothie-bowl-with-greek-yogurt-that-fuels-your-morning",
         "berry-protein-smoothie-bowl-with-chia-seeds-and-granola-a-fresh-energizing-breakfast",
+        "best-cake-recipe-ever-moist-fluffy-and-simply-delicious",
+        "best-cake-recipes-recipe-classic-comfort-that-feels-like-home",
         "best-classic-southern-pecan-pie-for-holiday-gatherings",
         "best-creamy-mushroom-and-thyme-risotto-in-30-minutes-thatll-wow-your-taste-buds",
         "best-creamy-vegan-coconut-curry-with-spring-vegetables-that-wows-every-time",
@@ -915,6 +917,36 @@
         "zesty-low-carb-chicken-alfredo-bake-with-broccoli-that-feels-like-comfort-food"
     ],
     "posts": [
+        {
+            "slug": "best-cake-recipe-ever-moist-fluffy-and-simply-delicious",
+            "title": "Best Cake Recipe Ever: Moist, Fluffy, and Simply Delicious",
+            "description": "This cake is a family favorite—super moist and fluffy with a tender crumb. The secret? Buttermilk and a touch of vanilla make it irresistible. Great for birthdays or any special occasion!",
+            "image": "posts/best-cake-recipe-ever-moist-fluffy-and-simply-delicious/images/best-cake-recipe-ever-moist-fluffy-and-simply-delicious_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-12T22:17:54+01:00",
+            "updatedAt": "2026-06-12T22:17:54+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 8
+        },
+        {
+            "slug": "best-cake-recipes-recipe-classic-comfort-that-feels-like-home",
+            "title": "Best Cake Recipes Recipe: Classic Comfort That Feels Like Home",
+            "description": "This cake recipe is my go-to for any celebration or just because. It’s moist, tender, and uses simple ingredients you probably have on hand. The secret? Buttermilk and a gentle hand when mixing. Perfect for birthdays or ",
+            "image": "posts/best-cake-recipes-recipe-classic-comfort-that-feels-like-home/images/best-cake-recipes-recipe-classic-comfort-that-feels-like-home_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-12T22:17:54+01:00",
+            "updatedAt": "2026-06-12T22:17:54+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 8
+        },
         {
             "slug": "15-minute-garlic-butter-chicken-with-spring-green-beans-and-lemon-zest",
             "title": "15-Minute Garlic Butter Chicken with Spring Green Beans and Lemon Zest",
