@@ -641,19 +641,62 @@ class PostLoader {
             .trim('-');
     }
 
+    // ── localStorage cache helpers ────────────────────────────────────────────
+    _cacheGet() {
+        try {
+            const raw = localStorage.getItem('pindex_v1');
+            if (!raw) return null;
+            const { data, ts } = JSON.parse(raw);
+            if (Date.now() - ts > 5 * 60 * 1000) return null; // 5 min TTL
+            return data;
+        } catch { return null; }
+    }
+    _cacheSet(data) {
+        try { localStorage.setItem('pindex_v1', JSON.stringify({ data, ts: Date.now() })); } catch {}
+    }
+    _cacheInvalidate() {
+        try { localStorage.removeItem('pindex_v1'); } catch {}
+    }
+
     async getpostFolders() {
+        // Page home : charger l'index léger (12 derniers posts) au lieu des 900 → instantané
+        const params = new URLSearchParams(window.location.search);
+        const pageParam = params.get('page') || 'home';
+        const isHome = (pageParam.includes('/') ? pageParam.split('/')[0] : pageParam) === 'home';
+
+        if (isHome) {
+            try {
+                const r = await fetch(`${this.postsPath}index-home.json`);
+                if (r.ok) {
+                    const d = await r.json();
+                    if (Array.isArray(d.posts) && d.posts.length) {
+                        this._cachedIndexData = d;  // pas de cache localStorage partagé (home ≠ listing)
+                        return d.folders || [];
+                    }
+                }
+            } catch {}
+            // index-home.json absent (pas encore régénéré) → fallback index complet ci-dessous
+        }
+
+        // 1. Try localStorage cache (avoids network on repeat visits)
+        const cached = this._cacheGet();
+        if (cached) {
+            this._cachedIndexData = cached;
+            return cached.folders || [];
+        }
+
+        // 2. Fetch index.json (1 request — contains all post metadata)
         try {
             const indexResponse = await fetch(`${this.postsPath}index.json`);
             if (indexResponse.ok) {
-
                 const indexData = await indexResponse.json();
-                return indexData.folders || indexData;
+                this._cacheSet(indexData);
+                this._cachedIndexData = indexData;
+                return indexData.folders || [];
             }
-        } catch (error) {
+        } catch {}
 
-            // console.log('Fichier index.json non trouvé, scan automatique...');
-        }
-
+        // 3. Fallback: scan known folder names (legacy)
         return await this.scanpostFolders();
     }
 
@@ -694,54 +737,56 @@ class PostLoader {
         try {
             const params = new URLSearchParams(window.location.search);
             const pageParam = params.get("page") || "home";
-            
-            // Détecter la page actuelle
-            let currentPage = pageParam;
-            if (pageParam.includes('/')) {
-                currentPage = pageParam.split('/')[0];
-            }
-            
+            let currentPage = pageParam.includes('/') ? pageParam.split('/')[0] : pageParam;
+
             const postFolders = await this.getpostFolders();
-            
+
             if (postFolders.length === 0) {
                 this.showNoposts();
                 return;
             }
 
-            // console.log(`${postFolders.length} dossiers de posts trouvés pour la page "${currentPage}":`, postFolders);
+            // ── Fast path: index.json already has full metadata (0 extra fetches) ──
+            const idx = this._cachedIndexData;
+            if (idx && Array.isArray(idx.posts) && idx.posts.length > 0) {
+                const validPosts = idx.posts
+                    .filter(p => p.isOnline === true)
+                    .map(p => ({
+                        ...p,
+                        folderName:  p.slug,
+                        category:    this.getCategoryName(p.category_id) || 'Général',
+                        mainImage:   p.image ? './' + p.image : null,
+                        prepTime:    p.prep_time  != null ? p.prep_time  + ' min' : null,
+                        cookTime:    p.cook_time  != null ? p.cook_time  + ' min' : null,
+                        totalTime:   p.total_time != null ? p.total_time + ' min' : null,
+                        description: p.description || 'Description non disponible',
+                        images:      p.images || [],
+                    }));
 
-            const postPromises = postFolders.map(folder => 
-                this.loadPostData(folder)
-            );
-            
-            const posts = await Promise.all(postPromises);
-            const validposts = posts.filter(post => post !== null && post.isOnline === true);
-            
-            
+                if (validPosts.length === 0) { this.showNoposts(); return; }
+
+                this.allPosts = currentPage === 'home' ? validPosts.slice(0, 6) : validPosts;
+                return;
+            }
+
+            // ── Fallback: fetch each post.json individually (legacy / no metadata in index) ──
+            const posts = await Promise.all(postFolders.map(f => this.loadPostData(f)));
+            const validposts = posts.filter(p => p !== null && p.isOnline === true);
+
             if (validposts.length === 0) {
                 this.showError('Aucune post valide trouvée dans les dossiers spécifiés');
                 return;
             }
 
-            // Trier par date de création (plus récent en premier)
             validposts.sort((a, b) => {
                 const dateA = new Date(a.createdAt || a.updatedAt || Date.now());
                 const dateB = new Date(b.createdAt || b.updatedAt || Date.now());
-                return dateB - dateA; // Ordre décroissant (plus récent en premier)
+                return dateB - dateA;
             });
-            
-            // Sur la page home, prendre seulement les 6 premières après tri par date
-            if (currentPage === "home") {
-                this.allPosts = validposts.slice(0, 6);
-                // console.log(`Page home: ${this.allPosts.length} posts les plus récentes affichées`);
-            } else {
-                this.allPosts = validposts;
-            }
-            
-            // console.log(`Posts triées par date de création (${this.allPosts.length} posts)`);
+
+            this.allPosts = currentPage === 'home' ? validposts.slice(0, 6) : validposts;
 
         } catch (error) {
-            // console.error('Erreur lors du chargement des posts:', error);
             this.showError('Erreur lors du chargement des posts');
         }
     }

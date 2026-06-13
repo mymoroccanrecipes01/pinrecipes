@@ -35,5 +35,5 @@ debug-daily.txt
 rss.xml
 
 # Video reels + frames — servis DIRECTEMENT par le serveur, jamais committés (git push lent)
-# posts/*/images/*_reel.mp4
-# posts/*/images/*_fb_frame_*.webp
+posts/*/images/*_reel.mp4
+posts/*/images/*_fb_frame_*.webp
