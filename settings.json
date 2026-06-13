@@ -3,6 +3,6 @@
     "lastDailyRun": "2026-06-13",
     "pipelineIntervalDays": 1,
     "lastPipelineRun": null,
-    "pipelineLimitMin": 10,
-    "pipelineLimitMax": 10
+    "pipelineLimitMin": 1,
+    "pipelineLimitMax": 1
 }

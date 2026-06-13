@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-13 00:26:25",
-    "count": 925,
+    "generated": "2026-06-13 13:47:16",
+    "count": 926,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -121,6 +121,7 @@
         "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights",
         "budget-friendly-hearty-chicken-and-veggie-stir-fry-under-10-for-four",
         "budget-friendly-lunch-bowls-under-5-that-actually-taste-amazing",
+        "campfire-desserts-sweet-treats-to-end-your-outdoor-evenings-perfectly",
         "can-you-cook-artichokes-in-an-instant-pot-quick-and-easy-guide",
         "caramelized-roasted-cabbage-that-turns-simple-veggies-into-magic",
         "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist",
@@ -929,6 +930,21 @@
         "zesty-low-carb-chicken-alfredo-bake-with-broccoli-that-feels-like-comfort-food"
     ],
     "posts": [
+        {
+            "slug": "campfire-desserts-sweet-treats-to-end-your-outdoor-evenings-perfectly",
+            "title": "Campfire Desserts: Sweet Treats to End Your Outdoor Evenings Perfectly",
+            "description": "These campfire desserts are the perfect way to end a night under the stars. Gooey marshmallows, melted chocolate, and warm fruit combine for nostalgic, easy-to-make treats. Great for family camping trips or backyard fire",
+            "image": "posts/campfire-desserts-sweet-treats-to-end-your-outdoor-evenings-perfectly/images/campfire-desserts-sweet-treats-to-end-your-outdoor-evenings-perfectly_pinrecipes_image_1.png",
+            "category_id": "cat_1761230221_583",
+            "createdAt": "2026-06-13T13:47:16+01:00",
+            "updatedAt": "2026-06-13T13:47:16+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 4
+        },
         {
             "slug": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight",
             "title": "Brownie Cookie Recipe That Combines Fudgy Goodness with Chewy Delight",
