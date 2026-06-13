@@ -1,0 +1,9 @@
+globalThis.facebookURL = "#";
+globalThis.PinterestURL = "#";
+globalThis.twitterURL = "#";
+globalThis.redditURL = "#";
+globalThis.siteUrl = 'https://www.myrecipes.com';
+globalThis.homepageTitle = 'My Recipes';
+globalThis.homepageTagline = 'My Recipes - Simple Recipes for Every day';
+globalThis.email = 'contact@myrecipes.com';
+globalThis.copyright = '2025 - 2026 My Recipes. All rights reserved.';

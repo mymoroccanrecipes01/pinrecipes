@@ -1,0 +1,38 @@
+### AL ###
+#Template for AL projects for Dynamics 365 Business Central
+#launch.json folder
+tmpIMG/
+fonts/
+test/
+logs/
+*.log
+image1.png
+image2.png
+*.sql
+*.bak
+*.bat
+music/
+downloads/
+pinterest-extension/
+*.php
+# Runtime files — not source code
+fb_posted_log.json
+yt_posted_log.json
+fb_pending_comments.json
+keywords-queue.json
+pages/
+rss/
+*.zip
+
+# Config files containing API keys — MUST NOT be committed
+site-config.json
+ads-config.json
+
+# Editor / tool config
+.claude/
+debug-daily.txt
+rss.xml
+
+# Video reels + frames — servis DIRECTEMENT par le serveur, jamais committés (git push lent)
+posts/*/images/*_reel.mp4
+posts/*/images/*_fb_frame_*.webp

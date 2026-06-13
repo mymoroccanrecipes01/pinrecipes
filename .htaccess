@@ -1,0 +1,62 @@
+# ── Protections sécurité ─────────────────────────────────────────────────────
+
+# Bloquer l'accès direct aux fichiers de configuration sensibles
+<FilesMatch "^(site-config\.json|prompts\.json|settings\.json|profiles\.json|push-debug\.log)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+# Bloquer l'accès direct aux scripts PHP internes (API, auth, pipeline)
+<FilesMatch "^(config\.php|auth\.php|central-auth\.php|central-login\.php|auto-pipeline\.php|auto-daily-csv\.php|git-init-api\.php|tasks-api\.php|fb-auto-post\.php|yt-auto-post\.php)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+# Bloquer l'accès aux logs
+<FilesMatch "\.log$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+# Empêcher la navigation dans les répertoires
+Options -Indexes
+
+# ── Activation du module de réécriture ───────────────────────────────────────
+RewriteEngine On
+
+# Règles pour les fichiers RSS dans le dossier /rss/
+# Permet d'accéder aux fichiers XML directement
+<IfModule mod_rewrite.c>
+    # Assurer que le dossier rss est accessible
+    RewriteCond %{REQUEST_FILENAME} -f
+    RewriteRule ^rss/(.+\.xml)$ rss/$1 [L]
+</IfModule>
+
+# Configuration pour permettre l'accès aux fichiers XML
+<FilesMatch "\.xml$">
+    Header set Content-Type "application/rss+xml; charset=UTF-8"
+    Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
+
+# Cache pour les flux RSS (1 heure)
+<IfModule mod_expires.c>
+    <FilesMatch "\.xml$">
+        ExpiresActive On
+        ExpiresDefault "access plus 1 hour"
+    </FilesMatch>
+</IfModule>
