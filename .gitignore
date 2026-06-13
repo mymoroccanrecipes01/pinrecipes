@@ -1,7 +1,6 @@
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
-*.php
 tmpIMG/
 fonts/
 test/
@@ -11,13 +10,30 @@ image1.png
 image2.png
 *.sql
 *.bak
-*.md
-*.log
 *.bat
 music/
-# Runtime file — contains push error messages that trigger GitHub Push Protection
 downloads/
 pinterest-extension/
+*.php
+# Runtime files — not source code
+fb_posted_log.json
+yt_posted_log.json
+fb_pending_comments.json
+keywords-queue.json
+posts/
+pages/
+rss/
+*.zip
+
 # Config files containing API keys — MUST NOT be committed
 site-config.json
 ads-config.json
+
+# Editor / tool config
+.claude/
+debug-daily.txt
+rss.xml
+
+# Video reels + frames — servis DIRECTEMENT par le serveur, jamais committés (git push lent)
+posts/*/images/*_reel.mp4
+posts/*/images/*_fb_frame_*.webp
