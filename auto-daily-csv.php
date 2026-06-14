@@ -558,6 +558,17 @@ if (empty($selected)) {
 // ── 3b. Video pins — générer les reels MP4 (réutilise le pipeline Facebook) ───
 // Les MP4 sont inclus dans le git add -A final → URL raw GitHub valide dans le CSV.
 $videoPinsActive = defined('PINTEREST_VIDEO_PINS_ACTIVE') ? PINTEREST_VIDEO_PINS_ACTIVE : false;
+// Guard: video base URL must be set + reachable for Pinterest to download the MP4
+if ($videoPinsActive) {
+    $_videoBase = (defined('PINTEREST_VIDEO_BASE_URL') && PINTEREST_VIDEO_BASE_URL)
+        ? PINTEREST_VIDEO_BASE_URL
+        : ('https://' . HOST_NAME);
+    if (!defined('PINTEREST_VIDEO_BASE_URL') || !PINTEREST_VIDEO_BASE_URL) {
+        if ($isCli) echo "  ⚠️  PINTEREST_VIDEO_PINS_ACTIVE=true mais PINTEREST_VIDEO_BASE_URL n'est pas défini.\n"
+                       . "      Les MP4 seront pointés vers https://" . HOST_NAME . " — si le serveur n'expose pas ce dossier publiquement, Pinterest renverra 'Failed to download video'.\n"
+                       . "      → Définis PINTEREST_VIDEO_BASE_URL dans site-config.json avec l'URL directe du serveur.\n";
+    }
+}
 $videoReadySlugs = []; // slug => true si reel disponible
 if ($videoPinsActive && !$dryRun) {
     if (!defined('FB_REEL_FUNCTIONS_ONLY')) define('FB_REEL_FUNCTIONS_ONLY', true);
@@ -855,17 +866,33 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
         }
 
         // Keywords from hashtags
+        // Strip engagement CTAs from description BEFORE hashtag extraction so
+        // words like "SAVE", "FOR LATER", "PIN IT" don't bleed into keyword tags.
+        $engagementCtaPattern = '/\b(SAVE|FOR LATER|PIN IT|PIN THIS|CLICK|BOOKMARK|TRY IT|MAKE IT|GRAB IT)\b\.?/i';
+        $description = trim(preg_replace($engagementCtaPattern, '', $description));
+        $description = trim(preg_replace('/\s{2,}/', ' ', $description));
+
         $keywords = '';
         if (preg_match_all('/#(\w+)/', $description, $matches)) {
-            $keywords    = implode(', ', $matches[1]);
+            $rawTags     = $matches[1];
             $description = preg_replace('/#\w+/', '', $description);
             $description = trim(preg_replace('/\s+/', ' ', $description));
+            // Strip any CTA suffix that got fused to the last hashtag (e.g. #FamilyDinnerSAVE)
+            $cleanTags = array_map(function($tag) {
+                return preg_replace('/(SAVE|LATER|PINIT|CLICK|BOOKMARK|TRYIT|MAKEIT|GRABIT)$/i', '', $tag);
+            }, $rawTags);
+            $cleanTags = array_filter($cleanTags, fn($t) => strlen($t) >= 3);
+            $keywords  = implode(', ', $cleanTags);
         } else {
             $rawHashtags = is_array($post['hashtags'] ?? null)
                 ? implode(' ', $post['hashtags'])
                 : ($post['hashtags'] ?? '');
             if (preg_match_all('/#(\w+)/', $rawHashtags, $hm)) {
-                $keywords = implode(', ', $hm[1]);
+                $cleanTags = array_map(function($tag) {
+                    return preg_replace('/(SAVE|LATER|PINIT|CLICK|BOOKMARK|TRYIT|MAKEIT|GRABIT)$/i', '', $tag);
+                }, $hm[1]);
+                $cleanTags = array_filter($cleanTags, fn($t) => strlen($t) >= 3);
+                $keywords  = implode(', ', $cleanTags);
             }
         }
 
@@ -930,7 +957,7 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
             csvText($title),
             csvField($mediaUrl),
             csvField($boardName),
-            '',
+            '',              // Thumbnail: vide pour image pin (Media URL est déjà l'image)
             csvText($description),
             csvField($link),
             csvField($publishDate),
@@ -941,10 +968,15 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
         // Media URL = reel MP4 servi DIRECTEMENT par le serveur (PAS git → push rapide).
         // Thumbnail = image du pin (cover, sur raw GitHub).
         if ($weekIdx === 0 && !empty($videoReadySlugs[$slug])) {
-            $_vBase     = (defined('PINTEREST_VIDEO_BASE_URL') && PINTEREST_VIDEO_BASE_URL)
-                        ? PINTEREST_VIDEO_BASE_URL
-                        : ('https://' . HOST_NAME);
-            $videoUrl   = $_vBase . '/posts/' . $slug . '/images/' . $slug . '_reel.mp4';
+            $_vBase = (defined('PINTEREST_VIDEO_BASE_URL') && PINTEREST_VIDEO_BASE_URL)
+                    ? PINTEREST_VIDEO_BASE_URL
+                    : ('https://' . HOST_NAME);
+            // Si l'URL pointe sur une IP brute (pas de domaine), forcer HTTP —
+            // les IPs n'ont généralement pas de cert SSL valide, HTTPS échoue côté Pinterest.
+            if (preg_match('/^https?:\/\/\d+\.\d+\.\d+\.\d+/', $_vBase)) {
+                $_vBase = preg_replace('/^https:\/\//', 'http://', $_vBase);
+            }
+            $videoUrl   = rtrim($_vBase, '/') . '/posts/' . $slug . '/images/' . $slug . '_reel.mp4';
             $videoMin   = $currentMinute + rand(0, 15);
             $videoDateO = clone $groupDate;
             if ($videoMin >= 1440) $videoDateO->modify('+1 day');
