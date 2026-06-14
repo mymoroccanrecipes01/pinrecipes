@@ -2351,7 +2351,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             // Fill modal info
             document.getElementById('pinTitle').value = currentpostData.title;
-            document.getElementById('pinDescription').value = currentpostData.description+"SAVE FOR LATER.";
+            document.getElementById('pinDescription').value = currentpostData.description;
             document.getElementById('pinSlug').value = currentpostData.link;
             document.getElementById('pinCategoryName').value = categoryName;
             // Default board: classic board or first board or categorySlug
@@ -2373,6 +2373,15 @@ document.addEventListener('DOMContentLoaded', function () {
                 .then(res => res.json())
                 .then(images => {
                     images.forEach((src, index) => {
+                        // MP4 reels — afficher une vignette vidéo au lieu d'une image cassée
+                        if (src.toLowerCase().endsWith('.mp4')) {
+                            const vidWrap = document.createElement('div');
+                            vidWrap.style.cssText = 'display:inline-flex;align-items:center;justify-content:center;width:15%;aspect-ratio:9/16;background:#111;border-radius:6px;border:2px solid #444;color:#fff;font-size:28px;cursor:default;';
+                            vidWrap.title = src.split('/').pop();
+                            vidWrap.innerHTML = '🎬';
+                            container.appendChild(vidWrap);
+                            return;
+                        }
                         let imgEl = document.createElement('img');
                         imgEl.src = src;
                         imgEl.dataset.pinIndex = index + 1;
