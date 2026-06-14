@@ -41,12 +41,18 @@ try {
         $title       = $post['title']       ?? '';
         $description = $post['description'] ?? '';
 
+        // Strip CTAs avant hashtag extraction
+        $description = trim(preg_replace('/\b(SAVE|FOR LATER|PIN IT|PIN THIS|CLICK|BOOKMARK|TRY IT|MAKE IT|GRAB IT)\b\.?/i', '', $description));
+        $description = trim(preg_replace('/\s{2,}/', ' ', $description));
+
         // Keywords depuis hashtags — même logique auto
         $keywords = '';
         if (preg_match_all('/#(\w+)/', $description, $matches)) {
-            $keywords    = implode(', ', $matches[1]);
+            $rawTags     = $matches[1];
             $description = preg_replace('/#\w+/', '', $description);
             $description = trim(preg_replace('/\s+/', ' ', $description));
+            $cleanTags   = array_filter(array_map(fn($t) => preg_replace('/(SAVE|LATER|PINIT|CLICK|BOOKMARK|TRYIT|MAKEIT|GRABIT)$/i', '', $t), $rawTags), fn($t) => strlen($t) >= 3);
+            $keywords    = implode(', ', $cleanTags);
         }
 
         // Limites + déduplication titre — même logique auto

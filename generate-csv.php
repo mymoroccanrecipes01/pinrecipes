@@ -121,17 +121,26 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
             $description = $post['description'] ?? '';
         }
 
+        // Strip engagement CTAs avant extraction hashtags (évite #FamilyDinnerSAVE etc.)
+        $description = trim(preg_replace('/\b(SAVE|FOR LATER|PIN IT|PIN THIS|CLICK|BOOKMARK|TRY IT|MAKE IT|GRAB IT)\b\.?/i', '', $description));
+        $description = trim(preg_replace('/\s{2,}/', ' ', $description));
+
         // Keywords depuis hashtags
         $keywords = '';
         if (preg_match_all('/#(\w+)/', $description, $matches)) {
-            $keywords    = implode(', ', $matches[1]);
+            $rawTags     = $matches[1];
             $description = preg_replace('/#\w+/', '', $description);
             $description = trim(preg_replace('/\s+/', ' ', $description));
+            $cleanTags   = array_filter(array_map(fn($t) => preg_replace('/(SAVE|LATER|PINIT|CLICK|BOOKMARK|TRYIT|MAKEIT|GRABIT)$/i', '', $t), $rawTags), fn($t) => strlen($t) >= 3);
+            $keywords    = implode(', ', $cleanTags);
         } else {
             $rawHashtags = is_array($post['hashtags'] ?? null)
                 ? implode(' ', $post['hashtags'])
                 : ($post['hashtags'] ?? '');
-            if (preg_match_all('/#(\w+)/', $rawHashtags, $hm)) $keywords = implode(', ', $hm[1]);
+            if (preg_match_all('/#(\w+)/', $rawHashtags, $hm)) {
+                $cleanTags = array_filter(array_map(fn($t) => preg_replace('/(SAVE|LATER|PINIT|CLICK|BOOKMARK|TRYIT|MAKEIT|GRABIT)$/i', '', $t), $hm[1]), fn($t) => strlen($t) >= 3);
+                $keywords  = implode(', ', $cleanTags);
+            }
         }
 
         // Limites + déduplication titre
@@ -190,12 +199,48 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
             csvText($title),
             csvField($mediaUrl),
             csvField($boardName),
-            '',
+            '',              // Thumbnail vide pour image pin (Media URL = l'image)
             csvText($description),
             csvField($link),
             csvField($publishDate),
             csvField($keywords),
         ]);
+
+        // ── Video pin : uniquement sur le 1er groupe, si reel MP4 existe ─────────
+        if ($weekIdx === 0 && defined('PINTEREST_VIDEO_PINS_ACTIVE') && PINTEREST_VIDEO_PINS_ACTIVE) {
+            $_reelPath = $postsDir . '/' . $slug . '/images/' . $slug . '_reel.mp4';
+            if (file_exists($_reelPath)) {
+                // Lire l'URL depuis constante ou site-config.json directement
+                if (defined('PINTEREST_VIDEO_BASE_URL') && PINTEREST_VIDEO_BASE_URL) {
+                    $_vBase = PINTEREST_VIDEO_BASE_URL;
+                } else {
+                    $_sc    = json_decode(@file_get_contents(__DIR__ . '/site-config.json'), true) ?: [];
+                    $_vBase = rtrim(trim($_sc['PINTEREST_VIDEO_BASE_URL'] ?? ''), '/') ?: ('https://' . HOST_NAME);
+                }
+                // IP brute → forcer HTTP (pas de cert SSL valide sur IP)
+                if (preg_match('/^https?:\/\/\d+\.\d+\.\d+\.\d+/', $_vBase)) {
+                    $_vBase = preg_replace('/^https:\/\//', 'http://', $_vBase);
+                }
+                $videoUrl  = rtrim($_vBase, '/') . '/posts/' . $slug . '/images/' . $slug . '_reel.mp4';
+                $vMin      = $currentMinute + rand(5, 20);
+                $currentMinute += 60 + rand(-10, 10);
+                $vDate     = clone $groupDate;
+                if ($vMin >= 1440) $vDate->modify('+1 day');
+                $vh = (int)(($vMin % 1440) / 60); $vm_ = $vMin % 60;
+                $videoDate = $vDate->format('Y-m-d') . 'T' . sprintf('%02d:%02d:00', $vh, $vm_);
+
+                $lines[] = implode(',', [
+                    csvText($title),
+                    csvField($videoUrl),   // Media URL = MP4
+                    csvField($boardName),
+                    csvField($mediaUrl),   // Thumbnail = cover image (raw GitHub)
+                    csvText($description),
+                    csvField($link),
+                    csvField($videoDate),
+                    csvField($keywords),
+                ]);
+            }
+        }
     }
 
     if (count($lines) > 1) {
