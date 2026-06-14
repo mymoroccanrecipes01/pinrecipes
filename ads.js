@@ -53,33 +53,6 @@
                     "className": "ad-before-footer"
                 },
                 {
-                    "selector": "#main-content .container",
-                    "position": "inside-top",
-                    "format": "auto",
-                    "pages": "spa",
-                    "slot": "4055138220",
-                    "className": "ad-top-content"
-                },
-                {
-                    "selector": ".breadcrumb",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
-                    "slot": "8684648378",
-                    "className": "ad-after-breadcrumb"
-                },
-                {
-                    "selector": ".header",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
-                    "slots": [
-                        "4055138220",
-                        "8684648378"
-                    ],
-                    "className": "Ad-header"
-                },
-                {
                     "selector": ".instruction-step",
                     "position": "after",
                     "format": "auto",
