@@ -67,8 +67,10 @@ try {
         }
         if (mb_strlen($description) > 500) $description = mb_substr($description, 0, 497) . '...';
 
-        // Media URL — depuis la queue (URL déjà complète)
-        $mediaUrl = $post['image'] ?? '';
+        // Media URL + Thumbnail — différent pour video pins
+        $isVideo   = !empty($post['isVideo']);
+        $mediaUrl  = $isVideo ? ($post['videoUrl'] ?? '') : ($post['image'] ?? '');
+        $thumbnail = $isVideo ? ($post['image']    ?? '') : '';
 
         // Board — nom exact Pinterest (avec espaces et majuscules)
         $boardName = trim($post['category'] ?? '');
@@ -89,9 +91,9 @@ try {
 
         $lines[] = implode(',', [
             csvText($title),
-            csvField($mediaUrl),
+            csvField($mediaUrl),             // image URL ou MP4 URL
             csvField($boardName),
-            '',
+            csvField($thumbnail),            // vide pour image pin, cover image pour video pin
             csvText($description),
             csvField($link),
             csvField($publishDate),

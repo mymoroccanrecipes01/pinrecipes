@@ -2372,13 +2372,34 @@ document.addEventListener('DOMContentLoaded', function () {
             fetch(`posts-liste.php?dir=posts/${encodeURIComponent(data.image_dir)}`)
                 .then(res => res.json())
                 .then(images => {
+                    // Première image non-MP4 → utilisée comme thumbnail pour le video pin
+                    const firstCoverSrc = images.find(s => !s.toLowerCase().endsWith('.mp4')) || '';
+
                     images.forEach((src, index) => {
-                        // MP4 reels — afficher une vignette vidéo au lieu d'une image cassée
+                        // MP4 reels — afficher une vignette cliquable au lieu d'une image cassée
                         if (src.toLowerCase().endsWith('.mp4')) {
                             const vidWrap = document.createElement('div');
-                            vidWrap.style.cssText = 'display:inline-flex;align-items:center;justify-content:center;width:15%;aspect-ratio:9/16;background:#111;border-radius:6px;border:2px solid #444;color:#fff;font-size:28px;cursor:default;';
-                            vidWrap.title = src.split('/').pop();
+                            vidWrap.style.cssText = 'display:inline-flex;align-items:center;justify-content:center;width:15%;aspect-ratio:9/16;background:#111;border-radius:6px;border:2px solid #444;color:#fff;font-size:28px;cursor:pointer;transition:border .15s;';
+                            vidWrap.title = '🎬 Video pin — ' + src.split('/').pop();
+                            vidWrap.dataset.videoSrc = src;
+                            vidWrap.dataset.videoCover = firstCoverSrc;
                             vidWrap.innerHTML = '🎬';
+                            vidWrap.addEventListener('click', function() {
+                                // Désélectionner toutes les images
+                                container.querySelectorAll('img').forEach(img => {
+                                    img.style.border = '2px solid #dee2e6';
+                                    img.style.transform = 'scale(1)';
+                                    img.style.boxShadow = '';
+                                });
+                                container.querySelectorAll('[data-video-src]').forEach(d => {
+                                    d.style.border = '2px solid #444';
+                                });
+                                // Sélectionner ce video
+                                this.style.border = '4px solid #e60023';
+                                window._pinterestSelectedImage = src;        // MP4 URL
+                                window._pinterestSelectedIsVideo = true;
+                                window._pinterestSelectedVideoCover = firstCoverSrc;
+                            });
                             container.appendChild(vidWrap);
                             return;
                         }
@@ -2541,15 +2562,20 @@ document.addEventListener('DOMContentLoaded', function () {
         // }
 
         // Ajouter à la file avec timestamp pour scheduling
+        const _isVideo = !!(window._pinterestSelectedIsVideo && selectedImage && selectedImage.toLowerCase().endsWith('.mp4'));
         const queueItem = {
             slug: globalThis.linkPinActive ? (document.getElementById('pinSlug').value || currentpostData.link) : '',
             title: document.getElementById('pinTitle').value || currentpostData.title,
             category: document.getElementById('pinBoardName').value || currentpostData.category_slug,
-            image: selectedImage,
+            image: _isVideo ? (window._pinterestSelectedVideoCover || '') : selectedImage,
             description: document.getElementById('pinDescription').value || currentpostData.description || '',
             addedAt: new Date().toISOString(),
-            scheduleTime: new Date(Date.now() + (queue.length * 3600000)).toISOString() // +1h par post
+            scheduleTime: new Date(Date.now() + (queue.length * 3600000)).toISOString(), // +1h par post
+            isVideo: _isVideo,
+            videoUrl: _isVideo ? selectedImage : undefined,
         };
+        // Réinitialiser la sélection vidéo
+        if (_isVideo) { window._pinterestSelectedIsVideo = false; window._pinterestSelectedImage = null; window._pinterestSelectedVideoCover = null; }
 
         queue.push(queueItem);
         console.log('🔵 Queue after push:', queue);
@@ -3272,9 +3298,22 @@ document.getElementById('exportQueueCsvBtn').addEventListener('click', function(
   
   // Make selectedImage accessible globally
   window.getPinterestSelectedImage = function() {
+    // Video sélectionné via 🎬 div → retourner l'URL MP4
+    if (window._pinterestSelectedIsVideo && window._pinterestSelectedImage) {
+        return window._pinterestSelectedImage;
+    }
     console.log('📤 Extension requested image:', selectedImage);
     return selectedImage;
   };
+
+  // Reset video selection on modal close
+  document.addEventListener('click', function(e) {
+    if (e.target.matches('[data-bs-dismiss="modal"]') || e.target.classList.contains('modal-backdrop')) {
+      window._pinterestSelectedImage = null;
+      window._pinterestSelectedIsVideo = false;
+      window._pinterestSelectedVideoCover = null;
+    }
+  });
   
   console.log('✅ Pinterest Image Selection loaded and ready!');
 })();
