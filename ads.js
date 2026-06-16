@@ -13,48 +13,41 @@
             "injectionDelay": 300,
             "placements": [
                 {
-                    "selector": ".recipe-description",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
-                    "slot": "8684648378",
-                    "className": "ad-after-description"
-                },
-                {
                     "selector": ".story-section",
                     "position": "before",
                     "format": "in-article",
                     "pages": "all",
-                    "slot": "6877189795",
-                    "everyNth": 1,
-                    "maxAds": 1,
+                    "slots": [
+                        "4055138220",
+                        "8684648378"
+                    ],
+                    "everyNth": 3,
+                    "maxAds": 2,
                     "className": "ad-in-article"
-                },
-                {
-                    "selector": ".recipe-boxes",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
-                    "slot": "3350602583",
-                    "className": "ad-after-recipe-box"
                 },
                 {
                     "selector": "footer.footer",
                     "position": "before",
                     "format": "horizontal",
                     "pages": "all",
-                    "slot": "4055138220",
+                    "slot": "8684648378",
                     "className": "ad-before-footer"
                 },
                 {
-                    "selector": ".instruction-step",
+                    "selector": ".hero",
+                    "position": "after",
+                    "format": "auto",
+                    "pages": "spa",
+                    "slot": "8684648378",
+                    "className": "ad-top-content"
+                },
+                {
+                    "selector": ".header",
                     "position": "after",
                     "format": "auto",
                     "pages": "all",
-                    "slot": "8684648378",
-                    "everyNth": 6,
-                    "maxAds": 6,
-                    "className": "Ad-instruction-step"
+                    "slot": "4055138220",
+                    "className": "Ad-header"
                 }
             ]
         };
