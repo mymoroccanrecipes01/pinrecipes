@@ -53,8 +53,8 @@
                     "className": "ad-before-footer"
                 },
                 {
-                    "selector": "#main-content .container",
-                    "position": "inside-top",
+                    "selector": ".hero",
+                    "position": "after",
                     "format": "auto",
                     "pages": "spa",
                     "slot": "4055138220",
