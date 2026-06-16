@@ -13,7 +13,7 @@
             "injectionDelay": 300,
             "placements": [
                 {
-                    "selector": ".recipe-description",
+                    "selector": ".post-description",
                     "position": "after",
                     "format": "auto",
                     "pages": "all",
@@ -27,8 +27,8 @@
                     "pages": "all",
                     "slots": [
                         "4055138220",
-                        "6877189795",
-                        "3350602583",
+                        "4055138220",
+                        "4055138220",
                         "8684648378",
                         "4055138220"
                     ],
@@ -37,14 +37,11 @@
                     "className": "ad-in-article"
                 },
                 {
-                    "selector": ".recipe-boxes",
+                    "selector": "#instructions",
                     "position": "after",
                     "format": "auto",
                     "pages": "all",
-                    "slots": [
-                        "4055138220",
-                        "3350602583"
-                    ],
+                    "slot": "4055138220",
                     "className": "ad-after-recipe-box"
                 },
                 {
@@ -56,7 +53,23 @@
                     "className": "ad-before-footer"
                 },
                 {
-                    "selector": ".instruction-step",
+                    "selector": "#main-content .container",
+                    "position": "inside-top",
+                    "format": "auto",
+                    "pages": "spa",
+                    "slot": "4055138220",
+                    "className": "ad-top-content"
+                },
+                {
+                    "selector": ".breadcrumb",
+                    "position": "after",
+                    "format": "auto",
+                    "pages": "all",
+                    "slot": "8684648378",
+                    "className": "ad-after-breadcrumb"
+                },
+                {
+                    "selector": ".header",
                     "position": "after",
                     "format": "auto",
                     "pages": "all",
@@ -64,9 +77,7 @@
                         "4055138220",
                         "8684648378"
                     ],
-                    "everyNth": 6,
-                    "maxAds": 6,
-                    "className": "Ad-instruction-step"
+                    "className": "Ad-header"
                 }
             ]
         };
@@ -139,7 +150,8 @@
     }
 
     function insertAd(placement, target) {
-        var ad = createAdUnit(placement.slot, placement.format, placement.className);
+        var slotId = placement.slot || (placement.slots && placement.slots[0]);
+        var ad = createAdUnit(slotId, placement.format, placement.className);
 
         switch (placement.position) {
             case 'before':
