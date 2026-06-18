@@ -1,0 +1,351 @@
+{
+    "title": "Classic Stewed Tomatoes Recipe That Feels Like Home Cooking",
+    "promptIMG": "Food photography: Classic Stewed Tomatoes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This old-fashioned stewed tomatoes recipe is a cozy side dish that brings out the natural sweetness of fresh tomatoes. Simmered gently with a touch of onion and a pinch of sugar, it’s perfect alongside Sunday roasts or any comforting meal.",
+    "hashtags": "#stewedtomatoes #comfortfood #homemadesides",
+    "board_name": "Comfort Food Dinners",
+    "pin_variations": [
+        {
+            "title": "Warm Up Your Dinner with This Classic Stewed Tomatoes Recipe",
+            "description": "Nothing beats the nostalgia of stewed tomatoes simmered slow and low. 🍅 Perfect for family dinners or a cozy night in. Save this recipe and try it tonight! #comfortfood #homemade #easyrecipes",
+            "hashtags": "#comfortfood #homemade #easyrecipes #tomatoes #familymeals"
+        },
+        {
+            "title": "How to Make Stewed Tomatoes Like Grandma Used To",
+            "description": "Bring back those comforting flavors with this simple stewed tomatoes recipe. 🍅 Easy to make and full of heartwarming flavor. Discover now and add a touch of tradition to your table! #classicrecipes #homemade #sidedish",
+            "hashtags": "#classicrecipes #homemade #sidedish #tomatoes #comfortfood"
+        },
+        {
+            "title": "Simple Stewed Tomatoes That Make Every Meal Special",
+            "description": "Looking for a quick, cozy side? This stewed tomatoes recipe is just what you need. 🍅 Ready in under an hour and tastes like a warm hug. Try it today and enjoy! #easymeals #comfortfood #tomatoes",
+            "hashtags": "#easymeals #comfortfood #tomatoes #homemade #familydinner"
+        },
+        {
+            "title": "The Secret to Perfect Stewed Tomatoes Every Time",
+            "description": "Learn the trick to juicy, flavorful stewed tomatoes that taste like they’ve been simmering all day. 🍅 Save this recipe and impress your family tonight! #homemade #comfortfood #sidedish",
+            "hashtags": "#homemade #comfortfood #sidedish #tomatoes #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 45,
+    "servings": 4,
+    "ingredients": [
+        "4 cups fresh ripe tomatoes, peeled and chopped",
+        "1 medium onion, finely chopped",
+        "2 tablespoons unsalted butter",
+        "1 teaspoon sugar",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "1/4 cup water"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I’ve been making this classic stewed tomatoes recipe since I was a kid, watching my grandmother slowly simmer fresh tomatoes on the stove. It’s one of those simple dishes that feels like a warm hug on a plate. What I love about this version is how it balances the natural sweetness of ripe tomatoes with just a hint of onion and sugar to bring out the best flavors. It’s not rushed — the key is low and slow cooking, which softens the tomatoes into a luscious, chunky sauce that pairs beautifully with roasted meats or cornbread. I’ve tried faster versions, but they never quite get that comforting depth. The trick I learned is to peel the tomatoes first; it makes the texture so much smoother and less bitter. When it’s done, the kitchen smells heavenly, and you’ve got a side dish that feels like a little piece of home. It’s perfect for family dinners or whenever you want a taste of nostalgia.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by peeling your tomatoes. To do this easily, score a small 'X' on the bottom of each tomato and blanch them in boiling water for about 30 seconds, then immediately transfer to ice water. This loosens the skins so they slip off easily without damaging the flesh. Peeling is key to avoid any bitterness and ensures a smooth, tender texture in your stew.",
+            "timing": "10 minutes",
+            "doneness_cue": "Tomato skins slip off easily when peeled correctly"
+        },
+        {
+            "step": 2,
+            "instruction": "Chop the peeled tomatoes into chunks and finely dice the onion. The onion adds a subtle sweetness and depth to the stew, so don’t skip it. Finely chopping ensures it blends well and cooks evenly without overpowering the tomatoes.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onion pieces are small and uniform"
+        },
+        {
+            "step": 3,
+            "instruction": "Melt the butter in a medium saucepan over medium heat. Butter adds richness and helps carry the flavors of the tomatoes and onion. Avoid using oil here as butter gives a classic, comforting taste that’s hard to beat.",
+            "timing": "2 minutes",
+            "doneness_cue": "Butter is melted and slightly foaming but not browned"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the chopped onions to the melted butter and sauté gently until translucent and soft, about 5 minutes. This step draws out the onions’ natural sweetness and mellows their sharpness, which complements the tomatoes perfectly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions are soft and translucent, not browned"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the chopped tomatoes to the pan along with the sugar, salt, pepper, and water. The sugar balances the acidity of the tomatoes, while the water helps create a stew-like consistency without drying out. Stir everything gently to combine.",
+            "timing": "3 minutes",
+            "doneness_cue": "Ingredients are evenly mixed and beginning to simmer"
+        },
+        {
+            "step": 6,
+            "instruction": "Bring the mixture to a gentle simmer over medium-low heat. Then reduce the heat to low and let it cook uncovered for about 30-40 minutes, stirring occasionally. This slow simmer allows the tomatoes to break down and develop a rich, concentrated flavor.",
+            "timing": "30-40 minutes",
+            "doneness_cue": "Tomatoes are soft, stew is thickened but still saucy"
+        },
+        {
+            "step": 7,
+            "instruction": "Taste and adjust seasoning if needed. Sometimes a pinch more salt or sugar can help balance the flavors depending on your tomatoes. This final tweak really makes the difference between good and great.",
+            "timing": "2 minutes",
+            "doneness_cue": "Flavors are balanced and pleasant, no overpowering acidity"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove from heat and let the stewed tomatoes rest for a few minutes before serving. This resting time lets the flavors meld even further and the stew cool just enough to serve comfortably.",
+            "timing": "5 minutes",
+            "doneness_cue": "Stew is warm and thickened, ready to enjoy"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm as a side dish with roasted meats, cornbread, or even over rice for a simple, comforting meal. This dish is best fresh but also reheats beautifully.",
+            "timing": "0 minutes",
+            "doneness_cue": "Stewed tomatoes are hot and flavorful on the plate"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Classic Stewed Tomatoes Recipe Works So Well",
+        "content": "<p>Stewed tomatoes rely on slow, gentle cooking to break down the fresh tomato’s structure, releasing natural sugars and intensifying flavor. The low simmer allows the tomatoes to soften without turning to mush, preserving a pleasant texture that feels hearty but not watery. The Maillard reaction is minimal here since the cooking is gentle, but the slight caramelization of the onions in butter adds a subtle depth that rounds out the acidity of the tomatoes.</p><p>Peeling the tomatoes is more than a texture preference; the skin can be bitter and tough, which detracts from the smooth, comforting mouthfeel we want in this dish. Blanching and shocking the tomatoes helps remove the skins easily without damaging the flesh, preserving the bright tomato flavor.</p><p>Adding a small amount of sugar is a classic technique to balance tomato acidity. Tomatoes vary in sweetness depending on season and variety, so this step is about achieving harmony rather than sweetness. The butter enriches the dish, carrying the flavors and giving the stew a silky finish that oil can’t replicate.</p><p>Finally, seasoning with salt and pepper enhances the natural flavors, and the gentle simmer allows these ingredients to meld beautifully. This recipe’s success lies in respecting the ingredients and using simple techniques to coax out their best qualities.</p>",
+        "ingredient_notes": {
+            "fresh ripe tomatoes": "Choose firm, ripe tomatoes with deep color and a slightly sweet aroma. Varieties like Roma or vine-ripened work well. Avoid underripe or overly soft tomatoes as they affect texture and flavor. Freshness is key here since the tomatoes are the star of the dish.",
+            "unsalted butter": "Use good-quality unsalted butter to control salt levels and add richness. Butter provides a creamy mouthfeel and helps mellow the acidity of the tomatoes. Avoid margarine or oils here as they won’t give the same comforting flavor.",
+            "onion": "A medium yellow or sweet onion works best. It adds natural sweetness and depth without overpowering. Finely chopping ensures it cooks evenly and blends smoothly into the stew.",
+            "sugar": "Just a teaspoon or so balances the tomato’s natural acidity. It’s not about making the stew sweet but about rounding the flavors. You can adjust based on the tomatoes’ tartness.",
+            "salt and black pepper": "Seasoning is crucial to enhance natural flavors. Use fresh ground black pepper for a mild bite and salt to bring out the tomato’s sweetness. Avoid over-salting early; adjust at the end."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Peel tomatoes by blanching and shocking in ice water for easy skin removal.",
+            "reason": "The skin of tomatoes can be tough and bitter, which affects texture and taste. Blanching loosens the skin without cooking the flesh, preserving fresh flavor and a smooth stew texture."
+        },
+        {
+            "tip": "Cook the stew low and slow to develop deep, balanced flavors.",
+            "reason": "Simmering gently allows the tomatoes to break down properly and the flavors to meld without burning or becoming bitter. High heat can cause uneven cooking and harsh flavors."
+        },
+        {
+            "tip": "Use unsalted butter instead of oil for a richer, more classic flavor.",
+            "reason": "Butter adds creaminess and helps soften the tomatoes’ acidity. Oils lack this richness and can make the dish feel flat or greasy."
+        },
+        {
+            "tip": "Add sugar sparingly to balance acidity without making it sweet.",
+            "reason": "Tomatoes vary in tartness, so a touch of sugar rounds the flavor. Too much sugar will overpower the dish, so add gradually and taste."
+        },
+        {
+            "tip": "Finely chop onions to ensure they cook evenly and blend well.",
+            "reason": "Large pieces can remain crunchy or overpower the stew. Finely chopped onions melt into the sauce, adding subtle sweetness and body."
+        },
+        {
+            "tip": "Stir occasionally but gently to keep the tomato chunks intact.",
+            "reason": "Over-stirring can break down the tomatoes too much, resulting in a mushy stew. Gentle stirring helps maintain texture."
+        },
+        {
+            "tip": "Adjust seasoning at the end after simmering to get the perfect balance.",
+            "reason": "Salt and pepper flavors intensify as the stew cooks. Adding them too early can lead to over-seasoning."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the tomato peeling step",
+            "why_it_happens": "Sometimes cooks want to save time or don’t realize the skin affects texture and bitterness.",
+            "fix": "Take the extra 10 minutes to blanch and peel tomatoes. This improves the stew’s smoothness and removes any unpleasant bitterness from the skins."
+        },
+        {
+            "mistake": "Cooking over too high heat",
+            "why_it_happens": "Impatience or lack of attention can lead to cranking up the heat to speed things up.",
+            "fix": "Maintain a gentle simmer to prevent burning and preserve flavor. High heat can cause the tomatoes to taste harsh and ruin the texture."
+        },
+        {
+            "mistake": "Using underripe or watery tomatoes",
+            "why_it_happens": "Sometimes only less ripe tomatoes are available or used to save money.",
+            "fix": "Choose firm, ripe tomatoes with good color. Underripe tomatoes produce a watery, bland stew that lacks depth."
+        },
+        {
+            "mistake": "Over-stirring the stew",
+            "why_it_happens": "Some cooks stir constantly to prevent sticking or out of nervousness.",
+            "fix": "Stir gently and only occasionally to keep tomato chunks intact and avoid a mushy texture."
+        },
+        {
+            "mistake": "Not adjusting seasoning after cooking",
+            "why_it_happens": "Adding all salt and pepper at the start assumes flavor won’t change during cooking.",
+            "fix": "Taste and adjust seasoning at the end. This ensures balanced, well-rounded flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spiced Stewed Tomatoes",
+            "description": "Add a pinch of smoked paprika or a small chopped chili pepper during cooking for a mild smoky or spicy kick. This variation adds warmth without overpowering the classic flavor.",
+            "technical_note": "Add spices early with the onions to allow flavors to infuse evenly during simmering."
+        },
+        {
+            "name": "Herbed Stewed Tomatoes",
+            "description": "Stir in fresh chopped basil or thyme at the end of cooking for a bright herbal note. This freshens the dish and complements the natural tomato sweetness.",
+            "technical_note": "Add fresh herbs off heat to preserve their aroma and avoid bitterness."
+        },
+        {
+            "name": "Creamy Stewed Tomatoes",
+            "description": "Stir in a splash of cream or half-and-half just before serving for a richer, silkier texture. This makes the stew feel more indulgent and pairs well with simple sides.",
+            "technical_note": "Add cream off heat and stir gently to prevent curdling."
+        },
+        {
+            "name": "Stewed Tomatoes with Bacon",
+            "description": "Cook chopped bacon first and use the rendered fat instead of butter. The smoky bacon flavor adds depth and a savory twist to the stew.",
+            "technical_note": "Drain excess bacon fat if too much, to avoid greasiness."
+        },
+        {
+            "name": "Chunky Vegetable Stew",
+            "description": "Add diced bell peppers and celery along with onions for extra texture and flavor. This makes the stew heartier and more vegetable-forward.",
+            "technical_note": "Sauté additional vegetables with onions until softened before adding tomatoes."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "90 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "5g",
+        "fiber_grams": "2g",
+        "sodium_mg": "280mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Stewed tomatoes can be kept at room temperature for up to 2 hours if covered. Beyond that, it’s best to refrigerate to prevent spoilage.",
+        "refrigerator": "Store in an airtight container for up to 4 days. The flavors deepen in the fridge, but the texture may thicken. Reheat gently before serving for best taste.",
+        "freezer": "Freeze in a sealed container for up to 3 months. To prevent freezer burn, wrap the container with an extra layer of plastic wrap or foil. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over low heat, stirring occasionally. Add a splash of water if the stew is too thick. Avoid microwaving at high power to prevent uneven heating.",
+        "make_ahead_strategy": "You can prepare the stewed tomatoes a day or two ahead and store in the fridge. Reheat gently just before serving. This makes it a great make-ahead side for busy dinners."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned tomatoes instead of fresh?",
+            "answer": "Yes, canned tomatoes work in a pinch, especially whole peeled ones. However, fresh tomatoes give a brighter, fresher flavor and better texture. If using canned, reduce added water and adjust seasoning as canned tomatoes can be more acidic."
+        },
+        {
+            "question": "Do I have to peel the tomatoes?",
+            "answer": "Peeling is highly recommended for a smooth texture and to avoid bitterness from the skins. It’s easy to do with blanching, and the result is worth the extra step."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Absolutely! Simply substitute the butter with a plant-based margarine or olive oil. The flavor will be slightly different but still delicious and comforting."
+        },
+        {
+            "question": "How long can I store leftover stewed tomatoes?",
+            "answer": "Stored in an airtight container, leftovers keep well in the fridge for up to 4 days. For longer storage, freeze them for up to 3 months."
+        },
+        {
+            "question": "Is it okay to add other vegetables to the stew?",
+            "answer": "Yes, adding diced peppers, celery, or carrots can add texture and flavor. Just sauté them with the onions first to soften before adding tomatoes."
+        },
+        {
+            "question": "Can I make this recipe ahead of time?",
+            "answer": "Definitely! It actually tastes better the next day as the flavors meld. Store in the fridge and reheat gently before serving."
+        },
+        {
+            "question": "What’s the best way to reheat stewed tomatoes?",
+            "answer": "Reheat slowly on the stovetop over low heat, stirring occasionally. Add a splash of water if it’s too thick. Avoid high heat or microwave reheating to keep texture intact."
+        },
+        {
+            "question": "Can I freeze stewed tomatoes in glass containers?",
+            "answer": "It’s best to use freezer-safe plastic containers or heavy-duty freezer bags to avoid glass breakage from expansion. If using glass, leave plenty of headspace and ensure it’s tempered for freezing."
+        }
+    ],
+    "conclusion": "I hope you enjoy this classic stewed tomatoes recipe as much as my family does. Give it a try and share how it brings a bit of cozy comfort to your table!",
+    "seo": {
+        "primary_keyword": "classic stewed tomatoes recipe",
+        "secondary_keywords": [
+            "homemade stewed tomatoes",
+            "easy stewed tomatoes",
+            "how to make stewed tomatoes",
+            "best stewed tomatoes recipe",
+            "simple stewed tomatoes"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade tomato sauce recipe",
+                "anchor": "homemade-tomato-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230383_494",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-06-18 23:05:11",
+        "title_seed": "Classic Stewed Tomatoes Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1781823911_285",
+    "slug": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking",
+    "uniqueSlug": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_1.webp",
+            "relativePath": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_2.webp",
+            "relativePath": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_3.webp",
+            "relativePath": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_6.webp",
+            "filePath": "posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_6.webp",
+            "relativePath": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_9.webp",
+            "filePath": "posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_9.webp",
+            "relativePath": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_7.webp",
+            "filePath": "posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_7.webp",
+            "relativePath": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_8.webp",
+            "filePath": "posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_8.webp",
+            "relativePath": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_5.webp",
+            "filePath": "posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_5.webp",
+            "relativePath": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_4.webp",
+            "filePath": "posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_4.webp",
+            "relativePath": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "image": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_1.webp",
+    "image_path": "posts/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images/classic-stewed-tomatoes-recipe-that-feels-like-home-cooking_pinrecipes_image_1.webp",
+    "image_dir": "classic-stewed-tomatoes-recipe-that-feels-like-home-cooking/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-06-19T00:42:51+01:00",
+    "updatedAt": "2026-06-19T00:42:51+01:00"
+}
