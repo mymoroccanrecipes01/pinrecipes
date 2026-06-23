@@ -117,7 +117,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['action']) && $_GET['act
     // URLs canoniques uniquement : / (home) + /posts/{slug}/ (= <link rel="canonical"> des pages)
 
     $sitemapXml = '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL;
-    $sitemapXml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL;
+    $sitemapXml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"' . PHP_EOL;
+    $sitemapXml .= '        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"' . PHP_EOL;
+    $sitemapXml .= '        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">' . PHP_EOL;
 
     // Page d'accueil
     $sitemapXml .= '  <url>' . PHP_EOL;
@@ -133,13 +135,42 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['action']) && $_GET['act
 
         if (file_exists($postJsonPath)) {
             $fileModTime = filemtime($postJsonPath);
-            $lastmod = date('Y-m-d', $fileModTime);
+            $lastmod     = date('Y-m-d', $fileModTime);
+            $postData    = json_decode(file_get_contents($postJsonPath), true) ?: [];
+            $postTitle   = htmlspecialchars($postData['title'] ?? $folder, ENT_XML1, 'UTF-8');
 
             $sitemapXml .= '  <url>' . PHP_EOL;
             $sitemapXml .= '    <loc>' . $siteBase . '/posts/' . htmlspecialchars($folder, ENT_XML1, 'UTF-8') . '/</loc>' . PHP_EOL;
             $sitemapXml .= '    <lastmod>' . $lastmod . '</lastmod>' . PHP_EOL;
             $sitemapXml .= '    <changefreq>monthly</changefreq>' . PHP_EOL;
             $sitemapXml .= '    <priority>0.8</priority>' . PHP_EOL;
+
+            // image:image — toutes les images du post
+            $firstImageUrl = '';
+            foreach ($postData['images'] ?? [] as $img) {
+                $fp = $img['filePath'] ?? (!empty($img['fileName']) ? 'posts/' . $folder . '/images/' . $img['fileName'] : '');
+                if (!$fp) continue;
+                $imgUrl = $siteBase . '/' . ltrim($fp, '/');
+                if (!$firstImageUrl) $firstImageUrl = $imgUrl;
+                $imgTitle = htmlspecialchars($img['alt_text'] ?? ($postData['title'] ?? $folder), ENT_XML1, 'UTF-8');
+                $sitemapXml .= '    <image:image>' . PHP_EOL;
+                $sitemapXml .= '      <image:loc>' . $imgUrl . '</image:loc>' . PHP_EOL;
+                $sitemapXml .= '      <image:title>' . $imgTitle . '</image:title>' . PHP_EOL;
+                $sitemapXml .= '    </image:image>' . PHP_EOL;
+            }
+
+            // video:video — si reel existe (sur serveur) ou has_reel flag dans post.json
+            $reelLocalPath = $categoriesDir . '/' . $folder . '/images/' . $folder . '_reel.mp4';
+            $hasReel = file_exists($reelLocalPath) || !empty($postData['has_reel']);
+            if ($hasReel && $firstImageUrl) {
+                $videoUrl = $siteBase . '/posts/' . htmlspecialchars($folder, ENT_XML1, 'UTF-8') . '/images/' . htmlspecialchars($folder, ENT_XML1, 'UTF-8') . '_reel.mp4';
+                $sitemapXml .= '    <video:video>' . PHP_EOL;
+                $sitemapXml .= '      <video:thumbnail_loc>' . $firstImageUrl . '</video:thumbnail_loc>' . PHP_EOL;
+                $sitemapXml .= '      <video:title>' . $postTitle . '</video:title>' . PHP_EOL;
+                $sitemapXml .= '      <video:content_loc>' . $videoUrl . '</video:content_loc>' . PHP_EOL;
+                $sitemapXml .= '    </video:video>' . PHP_EOL;
+            }
+
             $sitemapXml .= '  </url>' . PHP_EOL;
         }
     }
@@ -157,24 +188,38 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['action']) && $_GET['act
     // === GÉNÉRATION DU SITEMAP RECETTES (sitemap-posts.xml) ===
     
     $postsSitemapXml = '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL;
-    $postsSitemapXml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL;
-    
+    $postsSitemapXml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"' . PHP_EOL;
+    $postsSitemapXml .= '        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">' . PHP_EOL;
+
     foreach ($validFolders as $folder) {
         $postJsonPath = $categoriesDir . '/' . $folder . '/post.json';
-        
+
         if (file_exists($postJsonPath)) {
             $fileModTime = filemtime($postJsonPath);
-            $lastmod = date('Y-m-d', $fileModTime);
-            
+            $lastmod     = date('Y-m-d', $fileModTime);
+            $postData    = json_decode(file_get_contents($postJsonPath), true) ?: [];
+
             $postsSitemapXml .= '  <url>' . PHP_EOL;
             $postsSitemapXml .= '    <loc>' . $siteBase . '/posts/' . htmlspecialchars($folder, ENT_XML1, 'UTF-8') . '/</loc>' . PHP_EOL;
             $postsSitemapXml .= '    <lastmod>' . $lastmod . '</lastmod>' . PHP_EOL;
             $postsSitemapXml .= '    <changefreq>monthly</changefreq>' . PHP_EOL;
             $postsSitemapXml .= '    <priority>0.8</priority>' . PHP_EOL;
+
+            foreach ($postData['images'] ?? [] as $img) {
+                $fp = $img['filePath'] ?? (!empty($img['fileName']) ? 'posts/' . $folder . '/images/' . $img['fileName'] : '');
+                if (!$fp) continue;
+                $imgUrl   = $siteBase . '/' . ltrim($fp, '/');
+                $imgTitle = htmlspecialchars($img['alt_text'] ?? ($postData['title'] ?? $folder), ENT_XML1, 'UTF-8');
+                $postsSitemapXml .= '    <image:image>' . PHP_EOL;
+                $postsSitemapXml .= '      <image:loc>' . $imgUrl . '</image:loc>' . PHP_EOL;
+                $postsSitemapXml .= '      <image:title>' . $imgTitle . '</image:title>' . PHP_EOL;
+                $postsSitemapXml .= '    </image:image>' . PHP_EOL;
+            }
+
             $postsSitemapXml .= '  </url>' . PHP_EOL;
         }
     }
-    
+
     $postsSitemapXml .= '</urlset>' . PHP_EOL;
     
     // Écrire le sitemap des posts
