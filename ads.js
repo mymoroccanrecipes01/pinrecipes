@@ -13,17 +13,20 @@
             "injectionDelay": 300,
             "placements": [
                 {
-                    "selector": ".story-section",
-                    "position": "before",
-                    "format": "in-article",
+                    "selector": ".header",
+                    "position": "after",
+                    "format": "auto",
                     "pages": "all",
-                    "slots": [
-                        "4055138220",
-                        "8684648378"
-                    ],
-                    "everyNth": 3,
-                    "maxAds": 2,
-                    "className": "ad-in-article"
+                    "slot": "4055138220",
+                    "className": "ad-header"
+                },
+                {
+                    "selector": ".hero",
+                    "position": "after",
+                    "format": "auto",
+                    "pages": "all",
+                    "slot": "8684648378",
+                    "className": "ad-hero"
                 },
                 {
                     "selector": "footer.footer",
@@ -32,22 +35,6 @@
                     "pages": "all",
                     "slot": "8684648378",
                     "className": "ad-before-footer"
-                },
-                {
-                    "selector": ".hero",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "spa",
-                    "slot": "8684648378",
-                    "className": "ad-top-content"
-                },
-                {
-                    "selector": ".header",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
-                    "slot": "4055138220",
-                    "className": "Ad-header"
                 }
             ]
         };
@@ -163,6 +150,10 @@
 
     function injectAds() {
         if (!ADS_CONFIG.enabled) return;
+
+        // Post pages : les pubs sont rendues server-side aux positions EXACTES (POST_LAYOUT ad_N).
+        // Ne rien injecter ni supprimer ici (removeExistingAds effacerait les pubs server-side).
+        if (getPageType() === 'post') return;
 
         removeExistingAds();
 
