@@ -1644,7 +1644,8 @@ addPostMetaTags(post) {
 
     // Ajouter Schema.org JSON-LD pour Post
     this.addpostschemaLD(post, fullImageUrl, currentUrl);
-    this.addBreadcrumbSchema(post); 
+    this.addBreadcrumbSchema(post);
+    this.addFAQSchema(post);
 }
 
 // Méthode pour ajouter Schema.org Post
@@ -1803,6 +1804,40 @@ addBreadcrumbSchema(post) {
     script.setAttribute('data-breadcrumb', 'true');
     script.setAttribute('data-dynamic', 'true');
     script.textContent = JSON.stringify(breadcrumbSchema, null, 2);
+    document.head.appendChild(script);
+}
+
+addFAQSchema(post) {
+    const faqItems = post.faq;
+    if (!faqItems || !Array.isArray(faqItems) || faqItems.length === 0) return;
+
+    const existing = document.querySelector('script[type="application/ld+json"][data-faq="true"]');
+    if (existing) existing.remove();
+
+    const mainEntity = faqItems
+        .filter(item => item.question && item.answer)
+        .map(item => ({
+            '@type': 'Question',
+            'name': String(item.question).replace(/<[^>]*>/g, '').trim(),
+            'acceptedAnswer': {
+                '@type': 'Answer',
+                'text': String(item.answer).replace(/<[^>]*>/g, '').trim()
+            }
+        }));
+
+    if (mainEntity.length === 0) return;
+
+    const faqSchema = {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        'mainEntity': mainEntity
+    };
+
+    const script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.setAttribute('data-faq', 'true');
+    script.setAttribute('data-dynamic', 'true');
+    script.textContent = JSON.stringify(faqSchema, null, 2);
     document.head.appendChild(script);
 }
 
