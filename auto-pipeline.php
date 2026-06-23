@@ -610,6 +610,20 @@ if ($stats['generated'] > 0) {
     plog("✅ Index / sitemaps / RSS mis à jour");
 }
 
+// ── SEO : IndexNow — soumet les nouveaux posts pour indexing rapide (Bing/Yandex) ──
+if (defined('INDEXNOW_ACTIVE') && INDEXNOW_ACTIVE && !empty($generatedSlugs)) {
+    $indexNowUrls = array_map(
+        fn($slug) => 'https://' . HOST_NAME . '/posts/' . $slug . '/',
+        $generatedSlugs
+    );
+    $inRes = seo_indexnow_ping($indexNowUrls);
+    if (!empty($inRes['skipped'])) {
+        plog("IndexNow: skipped");
+    } else {
+        plog("IndexNow: " . $inRes['count'] . " URLs soumis — HTTP " . $inRes['http'] . ($inRes['ok'] ? " ✅" : " ⚠️"));
+    }
+}
+
 // ── Propagation satellites (tous slugs × tous satellites en parallèle) ───────
 if (!empty($generatedSlugs)) {
     $satCount = count(defined('SATELLITE_PROJECTS') ? SATELLITE_PROJECTS : []);

@@ -42,7 +42,7 @@ try {
         $description = $post['description'] ?? '';
 
         // Strip CTAs avant hashtag extraction
-        $description = trim(preg_replace('/\b(SAVE|FOR LATER|PIN IT|PIN THIS|CLICK|BOOKMARK|TRY IT|MAKE IT|GRAB IT)\b\.?/i', '', $description));
+        $description = trim(preg_replace('/\b(SAVE FOR LATER|FOR LATER|PIN IT|PIN THIS|BOOKMARK)\b\.?/i', '', $description));
         $description = trim(preg_replace('/\s{2,}/', ' ', $description));
 
         // Keywords depuis hashtags — même logique auto
@@ -70,7 +70,7 @@ try {
         // Media URL + Thumbnail — différent pour video pins
         $isVideo   = !empty($post['isVideo']);
         $mediaUrl  = $isVideo ? ($post['videoUrl'] ?? '') : ($post['image'] ?? '');
-        $thumbnail = $isVideo ? ($post['image']    ?? '') : '';
+        $thumbnail = ''; // Video pins: vide → Pinterest auto-génère depuis 1ère frame (évite erreur aspect ratio)
 
         // Board — nom exact Pinterest (avec espaces et majuscules)
         $boardName = trim($post['category'] ?? '');

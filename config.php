@@ -109,6 +109,9 @@ define('FACEBOOK_DAILY_COUNT',    _cfg('FACEBOOK_DAILY_COUNT',     5));
 define('FACEBOOK_CROSSPOST_ACTIVE', (bool)_cfg('FACEBOOK_CROSSPOST_ACTIVE', true));
 define('FACEBOOK_POST_TYPE',       _cfg('FACEBOOK_POST_TYPE',       'photo')); // 'photo' or 'video'
 
+// Google Analytics (gtag.js)
+define('GA_MEASUREMENT_ID', (string)_cfg('GA_MEASUREMENT_ID', ''));
+
 define('YOUTUBE_CLIENT_ID',        _cfg('YOUTUBE_CLIENT_ID',        ''));
 define('YOUTUBE_CLIENT_SECRET',    _cfg('YOUTUBE_CLIENT_SECRET',    ''));
 define('YOUTUBE_REFRESH_TOKEN',    _cfg('YOUTUBE_REFRESH_TOKEN',    ''));
@@ -1293,9 +1296,13 @@ define('CSV_PUBLISH_SPACING_DAYS', (int)_cfg('CSV_PUBLISH_SPACING_DAYS', 7));
 define('CSV_GUARD_MIN_ROWS',       (int)_cfg('CSV_GUARD_MIN_ROWS', 5));
 // Video pins Pinterest — réutilise le pipeline reel (MP4 9:16). Nécessite FFmpeg.
 define('PINTEREST_VIDEO_PINS_ACTIVE', (bool)_cfg('PINTEREST_VIDEO_PINS_ACTIVE', false));
+define('PINTEREST_VIDEO_DAILY_MAX',  (int)_cfg('PINTEREST_VIDEO_DAILY_MAX',  5));  // max video pins / run (0 = illimité)
 // URL publique du serveur servant les MP4 (PAS git — évite de gonfler le repo / push lent).
 // Ex: https://39.113.162.145/sites-moad/pinrecipes  — vide = 'https://' . HOST_NAME
 define('PINTEREST_VIDEO_BASE_URL', rtrim((string)_cfg('PINTEREST_VIDEO_BASE_URL', ''), '/'));
+// URL publique de base pour les images pins (Media URL dans le CSV).
+// Priorité : PINTEREST_IMAGE_BASE_URL > raw.githubusercontent.com (si GITHUB_REPO valide) > 'https://' . HOST_NAME
+define('PINTEREST_IMAGE_BASE_URL', rtrim((string)_cfg('PINTEREST_IMAGE_BASE_URL', ''), '/'));
 // Fresh-pin recycling — repin d'anciens posts online avec un design frais.
 define('PINTEREST_RECYCLE_ACTIVE',   (bool)_cfg('PINTEREST_RECYCLE_ACTIVE',   false));
 define('PINTEREST_RECYCLE_COUNT',    (int)_cfg('PINTEREST_RECYCLE_COUNT',    10));  // posts recyclés / run
@@ -1303,6 +1310,19 @@ define('PINTEREST_RECYCLE_MIN_DAYS', (int)_cfg('PINTEREST_RECYCLE_MIN_DAYS',  7)
 define('PIN_SCHEDULE_START', (int)_cfg('PIN_SCHEDULE_START', 16)); // heure début (0-23)
 define('PIN_SCHEDULE_END',   (int)_cfg('PIN_SCHEDULE_END',   4));  // heure fin   (0-23, peut dépasser minuit)
 define('ZOOM', _cfg('ZOOM', '1'));
+
+// ── SEO Auto-Boost ───────────────────────────────────────────────────────────
+// Internal linking : section "Related Recipes" auto dans chaque post (même catégorie).
+define('INTERNAL_LINKING_ACTIVE', (bool)_cfg('INTERNAL_LINKING_ACTIVE', true));
+define('INTERNAL_LINKING_COUNT',  max(0, (int)_cfg('INTERNAL_LINKING_COUNT', 6)));
+// IndexNow : instant-indexing Bing/Yandex. La KEY n'est PAS secrète (exposée en public
+// dans {key}.txt) → OK dans site-config.json. Générée à la volée si vide (seo_indexnow_key()).
+define('INDEXNOW_ACTIVE', (bool)_cfg('INDEXNOW_ACTIVE', false));
+define('INDEXNOW_KEY',    (string)_cfg('INDEXNOW_KEY', ''));
+
+// AdSense in-article — slots réels pour les blocs ad_N de POST_LAYOUT (pubs rendues
+// server-side à la position EXACTE du bloc). Cyclés si plus de ad_N que de slots.
+define('POST_AD_SLOTS', _cfg('POST_AD_SLOTS', ['4055138220', '8684648378']));
 
 // Image generation prompts — use {title} as placeholder for the post name
 // If empty string in site-config.json, genimg.php falls back to its built-in random prompts
@@ -1479,5 +1499,60 @@ function _rebuild_posts_index(string $baseDir): void {
         'folders'   => array_column($homePosts, 'slug'),
         'posts'     => $homePosts,
     ], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
+}
+
+/**
+ * SEO Auto-Boost — IndexNow.
+ * La clé IndexNow n'est PAS un secret : elle est publiée en clair dans {key}.txt à la racine
+ * pour que les moteurs la vérifient. Stockée donc sans risque dans site-config.json.
+ * Retourne la clé effective (la génère + persiste si absente) et garantit le fichier de vérif.
+ */
+function seo_indexnow_key(): string {
+    $key = defined('INDEXNOW_KEY') ? INDEXNOW_KEY : '';
+    if ($key === '') {
+        $key  = bin2hex(random_bytes(16)); // 32 hex
+        $file = __DIR__ . '/site-config.json';
+        $cfg  = file_exists($file) ? (json_decode(file_get_contents($file), true) ?: []) : [];
+        $cfg['INDEXNOW_KEY'] = $key;
+        file_put_contents($file, json_encode($cfg, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
+    }
+    $keyFile = __DIR__ . '/' . $key . '.txt';
+    if (!file_exists($keyFile)) @file_put_contents($keyFile, $key);
+    return $key;
+}
+
+/**
+ * Soumet une liste d'URLs à IndexNow (Bing/Yandex → indexing en jours).
+ * No-op si INDEXNOW_ACTIVE=false ou liste vide. Retourne ['ok','http','count'].
+ */
+function seo_indexnow_ping(array $urls): array {
+    $urls = array_values(array_unique(array_filter($urls)));
+    if (empty($urls) || !defined('INDEXNOW_ACTIVE') || !INDEXNOW_ACTIVE) {
+        return ['ok' => false, 'http' => 0, 'count' => 0, 'skipped' => true];
+    }
+    if (count($urls) > 10000) $urls = array_slice($urls, 0, 10000); // limite IndexNow / requête
+
+    $key  = seo_indexnow_key();
+    $host = defined('HOST_NAME') ? HOST_NAME : ($_SERVER['HTTP_HOST'] ?? '');
+    $payload = json_encode([
+        'host'        => $host,
+        'key'         => $key,
+        'keyLocation' => 'https://' . $host . '/' . $key . '.txt',
+        'urlList'     => $urls,
+    ], JSON_UNESCAPED_SLASHES);
+
+    $ch = curl_init('https://api.indexnow.org/indexnow');
+    curl_setopt_array($ch, [
+        CURLOPT_POST           => true,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_TIMEOUT        => 30,
+        CURLOPT_HTTPHEADER     => ['Content-Type: application/json; charset=utf-8'],
+        CURLOPT_POSTFIELDS     => $payload,
+    ]);
+    curl_exec($ch);
+    $http = (int)curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    curl_close($ch);
+
+    return ['ok' => ($http >= 200 && $http < 300), 'http' => $http, 'count' => count($urls)];
 }
 ?>

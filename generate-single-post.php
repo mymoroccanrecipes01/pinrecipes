@@ -16,6 +16,7 @@ class PostHTMLGenerator {
     private $author;
     private $labels;
     private $metaStats;
+    private $postsDir;
 
     public function __construct($jsonPath) {
         if (!file_exists($jsonPath)) {
@@ -28,6 +29,9 @@ class PostHTMLGenerator {
         if (!$this->post) {
             throw new Exception("Failed to parse JSON file");
         }
+
+        // Dossier posts/ (pour lire index.json — internal linking "Related Recipes")
+        $this->postsDir = dirname(dirname($jsonPath));
 
         // Load niche config
         $defaultLabels = [
@@ -189,6 +193,115 @@ JS;
         return $this->post['rating'] ?? ['value' => 4.7, 'count' => 20];
     }
 
+    /**
+     * Internal linking SEO — sélectionne des posts liés (même catégorie d'abord,
+     * puis complète avec les plus récents). Lit posts/index.json (trié newest-first
+     * par _rebuild_posts_index). Retourne au plus INTERNAL_LINKING_COUNT posts.
+     */
+    private function getRelatedPosts(): array {
+        $count = defined('INTERNAL_LINKING_COUNT') ? (int)INTERNAL_LINKING_COUNT : 6;
+        if ($count < 1) return [];
+
+        // Source : posts/index.json (rapide). Fallback robuste : scan direct de posts/*/post.json
+        // (si index.json absent ou pas encore régénéré → les liens apparaissent quand même).
+        $all = [];
+        $indexPath = $this->postsDir . '/index.json';
+        if (is_file($indexPath)) {
+            $idx = json_decode(file_get_contents($indexPath), true);
+            $all = $idx['posts'] ?? [];
+        }
+        if (empty($all)) {
+            foreach (glob($this->postsDir . '/*/post.json') ?: [] as $jp) {
+                $d = json_decode(file_get_contents($jp), true);
+                if (!$d || empty($d['title'])) continue;
+                $s   = basename(dirname($jp));
+                $img = '';
+                foreach ($d['images'] ?? [] as $im) {
+                    if (in_array($im['type'] ?? '', ['template', 'recipe_card', 'overlay_list'], true)) continue;
+                    $fn = $im['fileName'] ?? basename($im['filePath'] ?? '');
+                    if ($fn) { $img = 'posts/' . $s . '/images/' . $fn; break; }
+                }
+                $all[] = [
+                    'slug' => $s, 'title' => $d['title'], 'image' => $img,
+                    'category_id' => $d['category_id'] ?? null,
+                    'isOnline'    => (bool)($d['isOnline'] ?? false),
+                    'createdAt'   => $d['createdAt'] ?? ($d['CreateAt'] ?? ''),
+                ];
+            }
+            usort($all, fn($a, $b) => strcmp((string)($b['createdAt'] ?? ''), (string)($a['createdAt'] ?? '')));
+        }
+        if (empty($all)) return [];
+
+        $currentSlug = $this->post['slug'] ?? '';
+        $currentCat  = $this->post['category_id'] ?? null;
+
+        // isOnline = PRÉFÉRENCE (pas un filtre dur) → les liens apparaissent toujours s'il y a
+        // d'autres posts. category_id comparé en chaîne (tolère int 5 vs "5").
+        $sameOnline = $otherOnline = $sameOff = $otherOff = [];
+        foreach ($all as $p) {
+            if (($p['slug'] ?? '') === $currentSlug) continue; // exclure le post courant
+            $isSame = ($currentCat !== null && (string)($p['category_id'] ?? '') === (string)$currentCat);
+            $online = !empty($p['isOnline']);
+            if      ($isSame && $online) $sameOnline[]  = $p;
+            elseif  ($online)            $otherOnline[] = $p;
+            elseif  ($isSame)            $sameOff[]     = $p;
+            else                         $otherOff[]    = $p;
+        }
+        // Préférence : même cat online > autre online > même cat offline > autre offline
+        $ordered = array_merge($sameOnline, $otherOnline, $sameOff, $otherOff);
+        return array_slice($ordered, 0, $count);
+    }
+
+    /**
+     * Section "Related Recipes" — liens internes vers posts liés, URLs canoniques
+     * /posts/{slug}/, anchor text = titre (descriptif → SEO).
+     */
+    private function buildRelatedRecipes(string $rootPath): string {
+        $related = $this->getRelatedPosts();
+        if (empty($related)) return '';
+
+        $label = htmlspecialchars($this->labels['related'] ?? 'You Might Also Like');
+        $cards = '';
+        foreach ($related as $p) {
+            $slug = $p['slug'] ?? '';
+            if ($slug === '') continue;
+            $title   = htmlspecialchars($p['title'] ?? $slug, ENT_QUOTES);
+            $url     = $rootPath . 'posts/' . $slug . '/';
+            $imgHtml = '';
+            if (!empty($p['image'])) {
+                $imgSrc  = $rootPath . htmlspecialchars($p['image'], ENT_QUOTES);
+                $imgHtml = "<img src=\"{$imgSrc}\" alt=\"{$title}\" loading=\"lazy\" class=\"related-thumb\">";
+            }
+            $cards .= <<<CARD
+                <li class="related-item">
+                    <a href="{$url}" class="related-link">
+                        {$imgHtml}
+                        <span class="related-title">{$title}</span>
+                    </a>
+                </li>
+
+CARD;
+        }
+        if ($cards === '') return '';
+
+        return <<<HTML
+        <section class="story-section related-recipes" id="related-recipes">
+            <style>
+            .related-recipes .related-grid{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:16px}
+            .related-recipes .related-item{margin:0}
+            .related-recipes .related-link{display:flex;flex-direction:column;text-decoration:none;color:inherit;border-radius:10px;overflow:hidden;background:#fff;box-shadow:0 1px 4px rgba(0,0,0,.08);transition:transform .15s ease,box-shadow .15s ease;height:100%}
+            .related-recipes .related-link:hover{transform:translateY(-3px);box-shadow:0 6px 16px rgba(0,0,0,.14)}
+            .related-recipes .related-thumb{width:100%;aspect-ratio:1/1;object-fit:cover;display:block}
+            .related-recipes .related-title{padding:10px 12px;font-size:.92rem;font-weight:600;line-height:1.3}
+            </style>
+            <h2 class="story-headline">{$label}</h2>
+            <ul class="related-grid">
+{$cards}            </ul>
+        </section>
+
+HTML;
+    }
+
     private function buildSchemaJsonLD(): string {
         $p       = $this->post;
         $slug    = $p['slug'] ?? '';
@@ -203,14 +316,21 @@ JS;
             'worstRating' => 1,
         ];
 
-        // Première image non-template
+        // Première image non-template — fallback sur la première image template si aucune raw
         $imageUrl = '';
+        $templateFallback = '';
         foreach ($p['images'] ?? [] as $img) {
-            if (empty($img['type']) && !empty($img['filePath'])) {
-                $imageUrl = $domain . '/' . $img['filePath'];
-                break;
+            if (empty($img['filePath'])) continue;
+            $isTpl = in_array($img['type'] ?? '', ['template', 'recipe_card', 'overlay_list']);
+            $url   = $domain . '/' . ltrim($img['filePath'], '/');
+            if (!$isTpl && empty($imageUrl)) {
+                $imageUrl = $url;
+            } elseif ($isTpl && empty($templateFallback)) {
+                $templateFallback = $url;
             }
+            if ($imageUrl) break;
         }
+        if (!$imageUrl) $imageUrl = $templateFallback;
 
         $authorName    = $this->author['name'] ?? 'Chef';
         $datePublished = isset($p['createdAt']) ? date('Y-m-d', strtotime($p['createdAt'])) : null;
@@ -243,29 +363,69 @@ JS;
             $cookTime  = isset($p['cook_time'])  ? 'PT' . (int)$p['cook_time']  . 'M' : null;
             $totalTime = isset($p['total_time']) ? 'PT' . (int)$p['total_time'] . 'M' : null;
 
+            // recipeYield — éviter "4 servings servings" si la valeur contient déjà "serving"
+            $recipeYield = null;
+            if (!empty($p['servings'])) {
+                $srv = (string)$p['servings'];
+                $recipeYield = stripos($srv, 'serving') !== false ? $srv : $srv . ' servings';
+            }
+
+            // Keywords — toujours string (pas array), sans # (Google rejette array + # en schema)
+            $keywordsStr = null;
+            $rawKw = $p['hashtags'] ?? null;
+            if ($rawKw) {
+                $kwText = is_array($rawKw) ? implode(' ', $rawKw) : (string)$rawKw;
+                $parts  = array_filter(array_map(
+                    fn($t) => trim(ltrim(trim($t), '#')),
+                    preg_split('/[\s,]+/', $kwText)
+                ), fn($t) => strlen($t) >= 2);
+                $keywordsStr = $parts ? implode(', ', array_values($parts)) : null;
+            }
+
             $instructions = [];
-            foreach ($p['instructions'] ?? [] as $step) {
+            foreach ($p['instructions'] ?? [] as $i => $step) {
                 $text = strip_tags($step['instruction'] ?? '');
                 if ($text) {
-                    $instructions[] = [
+                    $instructions[] = array_filter([
                         '@type' => 'HowToStep',
-                        'name'  => 'Step ' . ($step['step'] ?? ''),
+                        'name'  => $step['title'] ?? ('Step ' . ($step['step'] ?? ($i + 1))),
                         'text'  => $text,
-                    ];
+                        'url'   => $pageUrl . '#step-' . ($step['step'] ?? ($i + 1)),
+                    ]);
                 }
             }
 
             $nutrition = null;
             if (!empty($p['nutrition'])) {
                 $n = $p['nutrition'];
-                $nutrition = array_filter([
+                // Ajouter les unités si la valeur est numérique (Schema.org attend du texte)
+                $toGrams    = fn($v) => $v === null ? null : (is_numeric($v) ? $v . ' g'   : (string)$v);
+                $toMg       = fn($v) => $v === null ? null : (is_numeric($v) ? $v . ' mg'  : (string)$v);
+                $toCal      = fn($v) => $v === null ? null : (is_numeric($v) ? $v . ' calories' : (string)$v);
+                $nutrition  = array_filter([
                     '@type'               => 'NutritionInformation',
-                    'calories'            => $n['calories_per_serving'] ?? null,
-                    'proteinContent'      => $n['protein_grams'] ?? null,
-                    'carbohydrateContent' => $n['carbohydrates_grams'] ?? null,
-                    'fatContent'          => $n['fat_grams'] ?? null,
-                    'fiberContent'        => $n['fiber_grams'] ?? null,
-                    'sodiumContent'       => $n['sodium_mg'] ?? null,
+                    'calories'            => $toCal($n['calories_per_serving'] ?? null),
+                    'proteinContent'      => $toGrams($n['protein_grams']      ?? null),
+                    'carbohydrateContent' => $toGrams($n['carbohydrates_grams'] ?? null),
+                    'fatContent'          => $toGrams($n['fat_grams']           ?? null),
+                    'fiberContent'        => $toGrams($n['fiber_grams']         ?? null),
+                    'sodiumContent'       => $toMg($n['sodium_mg']             ?? null),
+                ]);
+            }
+
+            // Video pin — VideoObject si reel MP4 existe (local ou flag has_reel dans post.json)
+            $videoObject = null;
+            $reelFile = $slug . '_reel.mp4';
+            $reelPath = __DIR__ . '/posts/' . $slug . '/images/' . $reelFile;
+            $hasReel  = file_exists($reelPath) || !empty($p['has_reel']);
+            if ($hasReel && $imageUrl) {
+                $videoObject = array_filter([
+                    '@type'        => 'VideoObject',
+                    'name'         => $p['title'] ?? '',
+                    'description'  => $p['description'] ?? '',
+                    'thumbnailUrl' => $imageUrl,
+                    'uploadDate'   => $datePublished,
+                    'contentUrl'   => $domain . '/posts/' . $slug . '/images/' . $reelFile,
                 ]);
             }
 
@@ -280,11 +440,14 @@ JS;
                 'prepTime'           => $prepTime,
                 'cookTime'           => $cookTime,
                 'totalTime'          => $totalTime,
-                'recipeYield'        => ($p['servings'] ?? null) ? ($p['servings'] . ' servings') : null,
+                'recipeYield'        => $recipeYield,
+                'recipeCuisine'      => $p['cuisine']       ?? null,
+                'recipeCategory'     => $p['category_name'] ?? ($p['category'] ?? null),
                 'recipeIngredient'   => array_values(array_filter($p['ingredients'] ?? [])) ?: null,
                 'recipeInstructions' => $instructions ?: null,
                 'nutrition'          => $nutrition ?: null,
-                'keywords'           => $p['hashtags'] ?? null,
+                'keywords'           => $keywordsStr,
+                'video'              => $videoObject ?: null,
                 'aggregateRating'    => $aggregateRating,
             ]);
         }
@@ -299,6 +462,29 @@ JS;
                 ['@type' => 'ListItem', 'position' => 3, 'name' => $p['title'] ?? ''],
             ],
         ];
+
+        // 4. FAQPage — rich snippet Google (Q&A expandable dans les SERP)
+        if (!empty($p['faq']) && is_array($p['faq'])) {
+            $faqEntities = [];
+            foreach ($p['faq'] as $item) {
+                $q = trim(strip_tags($item['question'] ?? ''));
+                $a = trim(strip_tags($item['answer'] ?? ''));
+                if ($q && $a) {
+                    $faqEntities[] = [
+                        '@type'          => 'Question',
+                        'name'           => $q,
+                        'acceptedAnswer' => ['@type' => 'Answer', 'text' => $a],
+                    ];
+                }
+            }
+            if ($faqEntities) {
+                $schemas[] = [
+                    '@context'   => 'https://schema.org',
+                    '@type'      => 'FAQPage',
+                    'mainEntity' => $faqEntities,
+                ];
+            }
+        }
 
         $flags = JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT;
         return implode("\n    ", array_map(
@@ -315,6 +501,7 @@ JS;
         $slug         = $this->post['slug'] ?? '';
         $domain       = 'https://' . (defined('HOST_NAME') ? HOST_NAME : 'localhost');
         $canonicalUrl = $domain . '/posts/' . $slug . '/';
+        $siteName     = htmlspecialchars(defined('HOMEPAGE_TITLE') ? HOMEPAGE_TITLE : 'Recipes');
         $ogImage      = '';
         foreach ($this->post['images'] ?? [] as $img) {
             if (empty($img['type']) && !empty($img['filePath'])) {
@@ -325,6 +512,19 @@ JS;
         $ogImageMeta      = $ogImage ? "<meta property=\"og:image\" content=\"{$ogImage}\">" : '';
         $twitterImageMeta = $ogImage ? "<meta name=\"twitter:image\" content=\"{$ogImage}\">" : '';
         $schemaJsonLD     = $this->buildSchemaJsonLD();
+
+        $year     = date('Y');
+        $gaId     = defined('GA_MEASUREMENT_ID') ? GA_MEASUREMENT_ID : '';
+        $gaScript = $gaId
+            ? "<!-- Google tag (gtag.js) -->\n"
+            . "    <script async src=\"https://www.googletagmanager.com/gtag/js?id={$gaId}\"></script>\n"
+            . "    <script>\n"
+            . "      window.dataLayer = window.dataLayer || [];\n"
+            . "      function gtag(){dataLayer.push(arguments);}\n"
+            . "      gtag('js', new Date());\n"
+            . "      gtag('config', '{$gaId}');\n"
+            . "    </script>"
+            : '';
 
         $_layout = defined('POST_LAYOUT') ? POST_LAYOUT : [
             'breadcrumb', 'header', 'rating', 'image_1', 'description', 'introduction',
@@ -343,22 +543,31 @@ JS;
             $bodyBlocks .= $this->buildBlock($_blk);
         }
 
+        // Internal linking SEO — "Related Recipes" en fin d'article
+        if (defined('INTERNAL_LINKING_ACTIVE') && INTERNAL_LINKING_ACTIVE) {
+            $bodyBlocks .= $this->buildRelatedRecipes($rootPath);
+        }
+
         return <<<HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{$title} - Molly Kitchen Daily</title>
+    <title>{$title} ({$year}) - {$siteName}</title>
     <meta name="description" content="{$description}">
     <link rel="canonical" href="{$canonicalUrl}">
     <meta name="robots" content="index, follow">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com">
+    <link rel="preconnect" href="https://www.googletagmanager.com">
 
     <meta property="og:type" content="article">
     <meta property="og:title" content="{$title}">
     <meta property="og:description" content="{$description}">
     <meta property="og:url" content="{$canonicalUrl}">
-    <meta property="og:site_name" content="Molly Kitchen Daily">
+    <meta property="og:site_name" content="{$siteName}">
     {$ogImageMeta}
 
     <meta name="twitter:card" content="summary_large_image">
@@ -373,6 +582,7 @@ JS;
     <link rel="stylesheet" href="{$rootPath}{$this->extractCssLink()}">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
 
+    {$gaScript}
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -550,7 +760,7 @@ HTML;
         $mainAlt   = htmlspecialchars($mainImage['alt_text'] ?? 'Post');
         return <<<HTML
         <div class="post-image-container">
-            <img src="/{$mainPath}" alt="{$mainAlt}" class="post-main-image">
+            <img src="/{$mainPath}" alt="{$mainAlt}" class="post-main-image" fetchpriority="high">
         </div>
 HTML;
     }
@@ -570,7 +780,7 @@ HTML;
 
         return <<<HTML
         <div class="post-image-container">
-            <img src="/{$mainPath}" alt="{$mainAlt}" class="post-main-image">
+            <img src="/{$mainPath}" alt="{$mainAlt}" class="post-main-image" fetchpriority="high">
             <button class="pinterest-pin-btn" onclick="window.open('{$pinUrl}','_blank','width=750,height=550')">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
                 Save
@@ -594,7 +804,7 @@ HTML;
 
         return <<<HTML
         <div class="content-image-container">
-            <img src="/{$filePath}" alt="{$alt}" class="content-image">
+            <img src="/{$filePath}" alt="{$alt}" class="content-image" loading="lazy">
         </div>
 HTML;
     }
@@ -993,13 +1203,39 @@ HTML;
         return '<section class="story-section" id="story"><h2 class="story-headline">' . $label . '</h2><p>' . htmlspecialchars((string)$text) . '</p></section>';
     }
 
+    /**
+     * Pub AdSense in-article rendue server-side à la position EXACTE du bloc ad_N
+     * dans POST_LAYOUT. Slot = POST_AD_SLOTS[(N-1) % count] (cyclé). publisherId +
+     * enabled lus depuis ads-config.json. La lib adsbygoogle.js est déjà chargée dans <head>.
+     */
+    private function buildAdUnit(int $n): string {
+        static $client = null, $slots = null, $enabled = null;
+        if ($client === null) {
+            $cfgFile = __DIR__ . '/ads-config.json';
+            $acfg    = is_file($cfgFile) ? (json_decode(file_get_contents($cfgFile), true) ?: []) : [];
+            $enabled = $acfg['enabled'] ?? true;
+            $client  = $acfg['publisherId'] ?? 'ca-pub-3666818985097490';
+            $slots   = (defined('POST_AD_SLOTS') && is_array(POST_AD_SLOTS) && POST_AD_SLOTS)
+                ? array_values(POST_AD_SLOTS) : ['4055138220', '8684648378'];
+        }
+        if (!$enabled || empty($slots)) return '';
+        $slot = $slots[($n - 1) % count($slots)];
+        return <<<HTML
+        <div class="ad-container ad-in-post">
+            <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="{$client}" data-ad-slot="{$slot}" data-ad-format="fluid" data-ad-layout="in-article"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+
+HTML;
+    }
+
     private function buildBlock(string $block): string {
         if (preg_match('/^image_(\d+)$/', $block, $m)) {
             $idx = (int)$m[1] - 1;
             return $idx === 0 ? $this->buildImage() : $this->getImageByIndex($idx);
         }
-        if (preg_match('/^ad_\d+$/', $block)) {
-            return ''; // ads.js handles injection automatically
+        if (preg_match('/^ad_(\d+)$/', $block, $m)) {
+            return $this->buildAdUnit((int)$m[1]); // pub rendue à la position EXACTE du bloc
         }
         $map = [
             'breadcrumb'      => 'buildBreadcrumb',

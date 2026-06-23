@@ -36,9 +36,13 @@ $forceSlug     = preg_replace('/[^a-z0-9\-]/', '', trim($_POST['force_slug'] ?? 
 $_linkPinDefault = isset($_pSettings['linkPinActive']) ? (bool)$_pSettings['linkPinActive'] : (defined('LINK_PIN_ACTIVE') && LINK_PIN_ACTIVE);
 $linkActive      = isset($_POST['linkPinToggle']) ? ($_POST['linkPinToggle'] === '1') : $_linkPinDefault;
 
-// Base URL images raw GitHub — toujours utilisé pour mediaUrl dans le CSV
-$rawImageBase = 'https://' . HOST_NAME; // fallback
-if (defined('GITHUB_REPO') && defined('BRANCH')) {
+// Base URL images pour le CSV Pinterest (Media URL doit être publiquement accessible).
+// Priorité : PINTEREST_IMAGE_BASE_URL > raw.githubusercontent.com (GITHUB_REPO valide) > https://HOST_NAME
+$rawImageBase = 'https://' . HOST_NAME; // fallback ultime
+if (defined('PINTEREST_IMAGE_BASE_URL') && PINTEREST_IMAGE_BASE_URL) {
+    $rawImageBase = PINTEREST_IMAGE_BASE_URL;
+} elseif (defined('GITHUB_REPO') && defined('BRANCH')
+        && strpos(GITHUB_REPO, 'github.com/') !== false) {
     $_branch      = BRANCH ?: 'main';
     $_repo        = preg_replace('#^https://github\.com/#', '', rtrim(GITHUB_REPO, '/'));
     $_repo        = preg_replace('/\.git$/', '', $_repo);
@@ -168,9 +172,10 @@ if (!$isCli && $propagateSlug !== '') {
     $post    = json_decode(file_get_contents($srcPostJson), true);
     $rewritten = rewritePostForSatellite($post);
     if ($rewritten) {
-        foreach (['images','id','slug','isOnline','createdAt','updatedAt','author_id'] as $k) {
+        foreach (['images','id','slug','isOnline','createdAt','author_id'] as $k) {
             if (array_key_exists($k, $post)) $rewritten[$k] = $post[$k];
         }
+        $rewritten['updatedAt'] = date('Y-m-d\TH:i:sP');
         foreach (['pin_variations','pinterest_boards','category_id'] as $k) {
             if (empty($rewritten[$k]) && !empty($post[$k])) $rewritten[$k] = $post[$k];
         }
@@ -387,9 +392,10 @@ foreach ($selected as $artIdx => &$post) {
         if ($rewritten) {
             // Always keep internal working fields + identity from source
             foreach (['_path', '_slug', '_src', 'images', 'id', 'isOnline',
-                      'createdAt', 'CreateAt', 'updatedAt', 'author_id'] as $k) {
+                      'createdAt', 'CreateAt', 'author_id'] as $k) {
                 if (array_key_exists($k, $post)) $rewritten[$k] = $post[$k];
             }
+            $rewritten['updatedAt'] = date('Y-m-d\TH:i:sP');
             // Keep source pin_variations/boards only if rewrite didn't produce them
             foreach (['pin_variations', 'pinterest_boards', 'category_id'] as $k) {
                 if (empty($rewritten[$k]) && !empty($post[$k])) $rewritten[$k] = $post[$k];
@@ -844,9 +850,21 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
     $groupDate     = clone $today;
     $groupDate->modify('+' . ($weekIdx * CSV_PUBLISH_SPACING_DAYS) . ' days');
     $groupDateStr  = $groupDate->format('Y-m-d');
-    $lines         = [$header];
+    $lines         = [$header];  // image pins
+    $videoLines    = [$header];  // video pins — fichier séparé (Pinterest ne supporte pas les mix)
     $startHour     = (int)(defined('PIN_SCHEDULE_START') ? PIN_SCHEDULE_START : 16);
-    $currentMinute = $startHour * 60;
+    $endHour       = (int)(defined('PIN_SCHEDULE_END')   ? PIN_SCHEDULE_END   : 4);
+    // Fenêtre en minutes, gère passage minuit (ex: 16h→04h = 720 min)
+    $windowMin     = (($endHour - $startHour + 24) % 24) * 60;
+    if ($windowMin === 0) $windowMin = 24 * 60;
+    // Pré-génère des offsets aléatoires dans [0, windowMin[ — triés pour ordre chronologique
+    $pinsForIdx    = count(array_filter($selected, fn($p) => isset($p['_templates'][$weekIdx])));
+    $randOffsets   = [];
+    for ($ri = 0; $ri < $pinsForIdx; $ri++) {
+        $randOffsets[] = rand(0, max(0, $windowMin - 1));
+    }
+    sort($randOffsets);
+    $offsetIdx     = 0;
     $seenTitles    = [];
 
     foreach ($selected as $post) {
@@ -868,7 +886,8 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
         // Keywords from hashtags
         // Strip engagement CTAs from description BEFORE hashtag extraction so
         // words like "SAVE", "FOR LATER", "PIN IT" don't bleed into keyword tags.
-        $engagementCtaPattern = '/\b(SAVE|FOR LATER|PIN IT|PIN THIS|CLICK|BOOKMARK|TRY IT|MAKE IT|GRAB IT)\b\.?/i';
+        // Uniquement les CTAs qui ne font PAS partie d'une phrase naturelle
+        $engagementCtaPattern = '/\b(SAVE FOR LATER|FOR LATER|PIN IT|PIN THIS|BOOKMARK)\b\.?/i';
         $description = trim(preg_replace($engagementCtaPattern, '', $description));
         $description = trim(preg_replace('/\s{2,}/', ' ', $description));
 
@@ -920,11 +939,11 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
             ?? '';
         $boardName = '';
         if (!empty($rawBoard)) {
-            $boardName = strtolower(str_replace(' ', '-', $rawBoard));
+            $boardName = trim($rawBoard); // conserver le nom exact (espaces, casse) — Pinterest est sensible
         } elseif (!empty($post['category_id'])) {
-            $boardName = $catIdToSlug[$post['category_id']] ?? '';
+            $catSlug   = $catIdToSlug[$post['category_id']] ?? '';
+            $boardName = ucwords(str_replace('-', ' ', $catSlug)); // slug → "Easy Vegetable Side Dishes"
         }
-        $boardName = preg_replace('/[^a-z0-9\-]/', '', $boardName);
         if (empty($boardName)) $boardName = 'posts';
 
         // Link — recipe_card/overlay_list suivent leur config propre, autres templates suivent linkActive
@@ -938,9 +957,9 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
             ? $imageBase . '/posts/' . $slug . '/?src=' . $slug . '-image-' . $imgNum
             : '';
 
-        // Publish date — ~1h apart starting at 16:00
-        $minutesFromMidnight = $currentMinute + rand(0, 15);
-        $currentMinute      += 60 + rand(-10, 10);
+        // Publish date — temps aléatoire dans [PIN_SCHEDULE_START, PIN_SCHEDULE_END]
+        $offset              = $randOffsets[$offsetIdx++] ?? rand(0, $windowMin - 1);
+        $minutesFromMidnight = $startHour * 60 + $offset;
         $isNextDay           = $minutesFromMidnight >= 1440;
         $actualDate          = clone $groupDate;
         if ($isNextDay) $actualDate->modify('+1 day');
@@ -964,31 +983,26 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
             csvField($keywords),
         ]);
 
-        // ── Video pin : 1 ligne MP4 par post, uniquement sur le 1er groupe ────
-        // Media URL = reel MP4 servi DIRECTEMENT par le serveur (PAS git → push rapide).
-        // Thumbnail = image du pin (cover, sur raw GitHub).
+        // ── Video pin : CSV séparé (Pinterest rejette image+video dans le même fichier) ──
         if ($weekIdx === 0 && !empty($videoReadySlugs[$slug])) {
             $_vBase = (defined('PINTEREST_VIDEO_BASE_URL') && PINTEREST_VIDEO_BASE_URL)
                     ? PINTEREST_VIDEO_BASE_URL
                     : ('https://' . HOST_NAME);
-            // Si l'URL pointe sur une IP brute (pas de domaine), forcer HTTP —
-            // les IPs n'ont généralement pas de cert SSL valide, HTTPS échoue côté Pinterest.
             if (preg_match('/^https?:\/\/\d+\.\d+\.\d+\.\d+/', $_vBase)) {
                 $_vBase = preg_replace('/^https:\/\//', 'http://', $_vBase);
             }
             $videoUrl   = rtrim($_vBase, '/') . '/posts/' . $slug . '/images/' . $slug . '_reel.mp4';
-            $videoMin   = $currentMinute + rand(0, 15);
+            $videoMin   = $startHour * 60 + rand(0, max(0, $windowMin - 1));
             $videoDateO = clone $groupDate;
             if ($videoMin >= 1440) $videoDateO->modify('+1 day');
             $vh = (int)(($videoMin % 1440) / 60); $vm = $videoMin % 60;
             $videoDate  = $videoDateO->format('Y-m-d') . 'T' . sprintf('%02d:%02d:00', $vh, $vm);
-            $currentMinute += 60 + rand(-10, 10);
 
-            $lines[] = implode(',', [
+            $videoLines[] = implode(',', [
                 csvText($title),
-                csvField($videoUrl),    // Media URL = MP4
+                csvField($videoUrl),
                 csvField($boardName),
-                csvField($mediaUrl),    // Thumbnail = cover image
+                '',          // Thumbnail vide → Pinterest auto-génère depuis 1ère frame (ratio 9:16)
                 csvText($description),
                 csvField($link),
                 csvField($videoDate),
@@ -997,11 +1011,24 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
         }
     }
 
-    if (count($lines) > 1) { // at least 1 pin in this group
+    if (count($lines) > 1) {
         $csvFiles[] = [
             'filename' => 'pinterest_' . $groupDateStr . '.csv',
             'content'  => implode("\r\n", $lines),
             'rows'     => count($lines) - 1,
+        ];
+    }
+    // Fichier reels séparé — uniquement si des videos existent (weekIdx === 0)
+    if ($weekIdx === 0 && count($videoLines) > 1) {
+        // Appliquer PINTEREST_VIDEO_DAILY_MAX (0 = illimité)
+        $vMax = defined('PINTEREST_VIDEO_DAILY_MAX') ? (int)PINTEREST_VIDEO_DAILY_MAX : 5;
+        if ($vMax > 0 && count($videoLines) - 1 > $vMax) {
+            $videoLines = array_merge([$videoLines[0]], array_slice($videoLines, 1, $vMax));
+        }
+        $csvFiles[] = [
+            'filename' => 'pinterest_' . $groupDateStr . '_reels.csv',
+            'content'  => implode("\r\n", $videoLines),
+            'rows'     => count($videoLines) - 1,
         ];
     }
 }

@@ -783,6 +783,7 @@ function generateSitemaps($postsDir = './posts') {
     $host = HOST_NAME;
     $basePage = '/base.html';
     $siteUrl = $protocol . '://' . $host . $basePage;
+    $domain   = $protocol . '://' . $host;   // URL propre pour images/videos/robots.txt
     $currentDate = date('Y-m-d');
     
     $validFolders = [];
@@ -804,10 +805,12 @@ function generateSitemaps($postsDir = './posts') {
     
     sort($validFolders);
     
-    // === SITEMAP PRINCIPAL (sitemap.xml) ===
+    // === SITEMAP PRINCIPAL (sitemap.xml) avec image + video extensions ===
     $sitemapXml = '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL;
-    $sitemapXml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL;
-    
+    $sitemapXml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"' . PHP_EOL;
+    $sitemapXml .= '        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"' . PHP_EOL;
+    $sitemapXml .= '        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">' . PHP_EOL;
+
     // Page d'accueil
     $sitemapXml .= '  <url>' . PHP_EOL;
     $sitemapXml .= '    <loc>' . $siteUrl . '?page=home</loc>' . PHP_EOL;
@@ -815,7 +818,7 @@ function generateSitemaps($postsDir = './posts') {
     $sitemapXml .= '    <changefreq>weekly</changefreq>' . PHP_EOL;
     $sitemapXml .= '    <priority>1.0</priority>' . PHP_EOL;
     $sitemapXml .= '  </url>' . PHP_EOL;
-    
+
     // Page index des posts
     $sitemapXml .= '  <url>' . PHP_EOL;
     $sitemapXml .= '    <loc>' . $siteUrl . '?page=posts</loc>' . PHP_EOL;
@@ -823,55 +826,108 @@ function generateSitemaps($postsDir = './posts') {
     $sitemapXml .= '    <changefreq>daily</changefreq>' . PHP_EOL;
     $sitemapXml .= '    <priority>0.9</priority>' . PHP_EOL;
     $sitemapXml .= '  </url>' . PHP_EOL;
-    
-    // Ajouter chaque post
+
+    // Ajouter chaque post avec ses images et vidéos
     foreach ($validFolders as $folder) {
         $postJsonPath = $postsDir . '/' . $folder . '/post.json';
 
         if (file_exists($postJsonPath)) {
             $fileModTime = filemtime($postJsonPath);
             $lastmod = date('Y-m-d', $fileModTime);
+            $postData = json_decode(file_get_contents($postJsonPath), true) ?: [];
+            $postTitle = htmlspecialchars($postData['title'] ?? $folder, ENT_XML1, 'UTF-8');
+            $postDesc  = htmlspecialchars(mb_substr($postData['description'] ?? '', 0, 200), ENT_XML1, 'UTF-8');
 
             $sitemapXml .= '  <url>' . PHP_EOL;
             $sitemapXml .= '    <loc>' . $siteUrl . '/posts/' . htmlspecialchars($folder, ENT_XML1, 'UTF-8') . '/</loc>' . PHP_EOL;
             $sitemapXml .= '    <lastmod>' . $lastmod . '</lastmod>' . PHP_EOL;
             $sitemapXml .= '    <changefreq>monthly</changefreq>' . PHP_EOL;
             $sitemapXml .= '    <priority>0.8</priority>' . PHP_EOL;
+
+            // image:image — toutes les images du post (URLs absolues via $domain)
+            $firstImageUrl = '';
+            foreach ($postData['images'] ?? [] as $img) {
+                $fp = $img['filePath'] ?? ($img['fileName'] ? 'posts/' . $folder . '/images/' . $img['fileName'] : '');
+                if (!$fp) continue;
+                $imgUrl   = $domain . '/' . ltrim($fp, '/');
+                $imgTitle = htmlspecialchars($img['alt_text'] ?? $postTitle, ENT_XML1, 'UTF-8');
+                $sitemapXml .= '    <image:image>' . PHP_EOL;
+                $sitemapXml .= '      <image:loc>' . $imgUrl . '</image:loc>' . PHP_EOL;
+                $sitemapXml .= '      <image:title>' . $imgTitle . '</image:title>' . PHP_EOL;
+                $sitemapXml .= '    </image:image>' . PHP_EOL;
+                if (!$firstImageUrl) $firstImageUrl = $imgUrl;
+            }
+
+            // video:video — si reel MP4 existe (local ou flag has_reel dans post.json)
+            $reelLocalPath = $postsDir . '/' . $folder . '/images/' . $folder . '_reel.mp4';
+            $hasReel = file_exists($reelLocalPath) || !empty($postData['has_reel']);
+            if ($hasReel && $firstImageUrl) {
+                $videoUrl = $domain . '/posts/' . htmlspecialchars($folder, ENT_XML1, 'UTF-8') . '/images/' . htmlspecialchars($folder, ENT_XML1, 'UTF-8') . '_reel.mp4';
+                $sitemapXml .= '    <video:video>' . PHP_EOL;
+                $sitemapXml .= '      <video:thumbnail_loc>' . $firstImageUrl . '</video:thumbnail_loc>' . PHP_EOL;
+                $sitemapXml .= '      <video:title>' . $postTitle . '</video:title>' . PHP_EOL;
+                $sitemapXml .= '      <video:description>' . $postDesc . '</video:description>' . PHP_EOL;
+                $sitemapXml .= '      <video:content_loc>' . $videoUrl . '</video:content_loc>' . PHP_EOL;
+                $sitemapXml .= '      <video:publication_date>' . $lastmod . '</video:publication_date>' . PHP_EOL;
+                $sitemapXml .= '    </video:video>' . PHP_EOL;
+            }
+
             $sitemapXml .= '  </url>' . PHP_EOL;
         }
     }
-    
+
     $sitemapXml .= '</urlset>' . PHP_EOL;
-    
+
     // === SITEMAP RECETTES (sitemap-posts.xml) ===
     $postsSitemapXml = '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL;
-    $postsSitemapXml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL;
-    
+    $postsSitemapXml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"' . PHP_EOL;
+    $postsSitemapXml .= '        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">' . PHP_EOL;
+
     foreach ($validFolders as $folder) {
         $postJsonPath = $postsDir . '/' . $folder . '/post.json';
 
         if (file_exists($postJsonPath)) {
             $fileModTime = filemtime($postJsonPath);
             $lastmod = date('Y-m-d', $fileModTime);
+            $postData = json_decode(file_get_contents($postJsonPath), true) ?: [];
+            $postTitle = htmlspecialchars($postData['title'] ?? $folder, ENT_XML1, 'UTF-8');
 
             $postsSitemapXml .= '  <url>' . PHP_EOL;
             $postsSitemapXml .= '    <loc>' . $siteUrl . '/posts/' . htmlspecialchars($folder, ENT_XML1, 'UTF-8') . '/</loc>' . PHP_EOL;
             $postsSitemapXml .= '    <lastmod>' . $lastmod . '</lastmod>' . PHP_EOL;
             $postsSitemapXml .= '    <changefreq>monthly</changefreq>' . PHP_EOL;
             $postsSitemapXml .= '    <priority>0.8</priority>' . PHP_EOL;
+
+            foreach ($postData['images'] ?? [] as $img) {
+                $fp = $img['filePath'] ?? ($img['fileName'] ? 'posts/' . $folder . '/images/' . $img['fileName'] : '');
+                if (!$fp) continue;
+                $imgUrl   = $domain . '/' . ltrim($fp, '/');
+                $imgTitle = htmlspecialchars($img['alt_text'] ?? $postTitle, ENT_XML1, 'UTF-8');
+                $postsSitemapXml .= '    <image:image>' . PHP_EOL;
+                $postsSitemapXml .= '      <image:loc>' . $imgUrl . '</image:loc>' . PHP_EOL;
+                $postsSitemapXml .= '      <image:title>' . $imgTitle . '</image:title>' . PHP_EOL;
+                $postsSitemapXml .= '    </image:image>' . PHP_EOL;
+            }
+
             $postsSitemapXml .= '  </url>' . PHP_EOL;
         }
     }
-    
+
     $postsSitemapXml .= '</urlset>' . PHP_EOL;
-    
+
+    // robots.txt — déclaration des sitemaps pour Google + Bing
+    $robotsTxt = "User-agent: *\nAllow: /\n\n"
+               . "Sitemap: {$domain}/sitemap.xml\n"
+               . "Sitemap: {$domain}/posts/sitemap-posts.xml\n";
+
     // Sauvegarder les fichiers
     $results = [
         'sitemap' => file_put_contents('./sitemap.xml', $sitemapXml) !== false,
         'sitemap_posts' => file_put_contents($postsDir . '/sitemap-posts.xml', $postsSitemapXml) !== false,
+        'robots_txt' => file_put_contents('./robots.txt', $robotsTxt) !== false,
         'count' => count($validFolders) + 2
     ];
-    
+
     return $results;
 }
 
@@ -1922,6 +1978,28 @@ $offlineposts = count($allposts) - $onlineposts;
     <script src="config.js"></script>
     <script>
         globalThis.linkPinActive = <?php echo $linkPinActive ? 'true' : 'false'; ?>;
+        globalThis.pinterestVideoBaseUrl = <?php
+            $vBase = defined('PINTEREST_VIDEO_BASE_URL') && PINTEREST_VIDEO_BASE_URL
+                ? PINTEREST_VIDEO_BASE_URL : '';
+            if (!$vBase) {
+                $_sc = json_decode(@file_get_contents(__DIR__ . '/site-config.json'), true) ?: [];
+                $vBase = rtrim(trim($_sc['PINTEREST_VIDEO_BASE_URL'] ?? ''), '/');
+            }
+            if (preg_match('/^https?:\/\/\d+\.\d+\.\d+\.\d+/', $vBase)) {
+                $vBase = preg_replace('/^https:\/\//', 'http://', $vBase);
+            }
+            echo json_encode(rtrim($vBase, '/'));
+        ?>;
+        globalThis.pinterestImageBaseUrl = <?php
+            $_imgBase = 'https://' . HOST_NAME;
+            if (defined('GITHUB_REPO') && defined('BRANCH') && GITHUB_REPO && BRANCH) {
+                $_branch  = BRANCH ?: 'main';
+                $_repo    = preg_replace('#^https://github\.com/#', '', rtrim(GITHUB_REPO, '/'));
+                $_repo    = preg_replace('/\.git$/', '', $_repo);
+                $_imgBase = 'https://raw.githubusercontent.com/' . $_repo . '/refs/heads/' . $_branch;
+            }
+            echo json_encode($_imgBase);
+        ?>;
     </script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
@@ -2394,11 +2472,13 @@ document.addEventListener('DOMContentLoaded', function () {
                                 container.querySelectorAll('[data-video-src]').forEach(d => {
                                     d.style.border = '2px solid #444';
                                 });
-                                // Sélectionner ce video
+                                // Sélectionner ce video — stocker URLs absolues
                                 this.style.border = '4px solid #e60023';
-                                window._pinterestSelectedImage = src;        // MP4 URL
+                                const _vBase = (globalThis.pinterestVideoBaseUrl || window.location.origin);
+                                const _iBase = (globalThis.pinterestImageBaseUrl || window.location.origin);
+                                window._pinterestSelectedImage = _vBase + '/' + src;
                                 window._pinterestSelectedIsVideo = true;
-                                window._pinterestSelectedVideoCover = firstCoverSrc;
+                                window._pinterestSelectedVideoCover = _iBase + '/' + firstCoverSrc;
                             });
                             container.appendChild(vidWrap);
                             return;

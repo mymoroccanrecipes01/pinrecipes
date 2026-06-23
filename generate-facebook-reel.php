@@ -577,6 +577,16 @@ function fb_buildReelComplete($slug, $duration = null, $music = '') {
         foreach (glob($imgDir . $slug . '_fb_frame_*.webp') ?: [] as $frameFile) {
             @unlink($frameFile);
         }
+        // Marquer has_reel dans post.json — permet au schema VideoObject d'être généré
+        // même si le MP4 est absent de git (gitignored)
+        $postJsonPath = __DIR__ . '/posts/' . $slug . '/post.json';
+        if (file_exists($postJsonPath)) {
+            $pd = json_decode(file_get_contents($postJsonPath), true);
+            if (is_array($pd)) {
+                $pd['has_reel'] = true;
+                file_put_contents($postJsonPath, json_encode($pd, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
+            }
+        }
     }
 
     return $res;

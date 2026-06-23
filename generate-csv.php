@@ -101,8 +101,9 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
     $groupDate    = clone $today;
     $groupDate->modify('+' . ($weekIdx * CSV_PUBLISH_SPACING_DAYS) . ' days');
     $groupDateStr = $groupDate->format('Y-m-d');
-    $lines        = [$header];
-    $currentMinute = 16 * 60; // 16:00 — même départ que auto
+    $lines        = [$header];       // image pins
+    $videoLines   = [$header];       // video pins — fichier séparé
+    $currentMinute = 16 * 60;
     $seenTitles   = [];
 
     foreach ($selected as $post) {
@@ -122,7 +123,7 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
         }
 
         // Strip engagement CTAs avant extraction hashtags (évite #FamilyDinnerSAVE etc.)
-        $description = trim(preg_replace('/\b(SAVE|FOR LATER|PIN IT|PIN THIS|CLICK|BOOKMARK|TRY IT|MAKE IT|GRAB IT)\b\.?/i', '', $description));
+        $description = trim(preg_replace('/\b(SAVE FOR LATER|FOR LATER|PIN IT|PIN THIS|BOOKMARK)\b\.?/i', '', $description));
         $description = trim(preg_replace('/\s{2,}/', ' ', $description));
 
         // Keywords depuis hashtags
@@ -167,11 +168,11 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
             ?? '';
         $boardName = '';
         if (!empty($rawBoard)) {
-            $boardName = strtolower(str_replace(' ', '-', $rawBoard));
+            $boardName = trim($rawBoard); // nom exact Pinterest (espaces + casse préservés)
         } elseif (!empty($post['category_id'])) {
-            $boardName = $catIdToSlug[$post['category_id']] ?? '';
+            $catSlug   = $catIdToSlug[$post['category_id']] ?? '';
+            $boardName = ucwords(str_replace('-', ' ', $catSlug));
         }
-        $boardName = preg_replace('/[^a-z0-9\-]/', '', $boardName);
         if (empty($boardName)) $boardName = 'posts';
 
         // Link
@@ -229,11 +230,11 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
                 $vh = (int)(($vMin % 1440) / 60); $vm_ = $vMin % 60;
                 $videoDate = $vDate->format('Y-m-d') . 'T' . sprintf('%02d:%02d:00', $vh, $vm_);
 
-                $lines[] = implode(',', [
+                $videoLines[] = implode(',', [
                     csvText($title),
                     csvField($videoUrl),   // Media URL = MP4
                     csvField($boardName),
-                    csvField($mediaUrl),   // Thumbnail = cover image (raw GitHub)
+                    '',                    // Thumbnail vide — Pinterest auto-génère depuis 1ère frame
                     csvText($description),
                     csvField($link),
                     csvField($videoDate),
@@ -248,6 +249,17 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
             'filename' => 'pinterest_' . $groupDateStr . '.csv',
             'content'  => implode("\r\n", $lines),
             'rows'     => count($lines) - 1,
+        ];
+    }
+    if ($weekIdx === 0 && count($videoLines) > 1) {
+        $vMax = defined('PINTEREST_VIDEO_DAILY_MAX') ? (int)PINTEREST_VIDEO_DAILY_MAX : 5;
+        if ($vMax > 0 && count($videoLines) - 1 > $vMax) {
+            $videoLines = array_merge([$videoLines[0]], array_slice($videoLines, 1, $vMax));
+        }
+        $csvFiles[] = [
+            'filename' => 'pinterest_' . $groupDateStr . '_reels.csv',
+            'content'  => implode("\r\n", $videoLines),
+            'rows'     => count($videoLines) - 1,
         ];
     }
 }

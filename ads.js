@@ -13,71 +13,28 @@
             "injectionDelay": 300,
             "placements": [
                 {
-                    "selector": ".recipe-description",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
-                    "slot": "8684648378",
-                    "className": "ad-after-description"
-                },
-                {
-                    "selector": ".story-section",
-                    "position": "before",
-                    "format": "in-article",
-                    "pages": "all",
-                    "slots": [
-                        "4055138220",
-                        "4055138220",
-                        "4055138220",
-                        "8684648378",
-                        "4055138220"
-                    ],
-                    "everyNth": 2,
-                    "maxAds": 5,
-                    "className": "ad-in-article"
-                },
-                {
-                    "selector": ".recipe-boxes",
+                    "selector": ".header",
                     "position": "after",
                     "format": "auto",
                     "pages": "all",
                     "slot": "4055138220",
-                    "className": "ad-after-recipe-box"
+                    "className": "ad-header"
+                },
+                {
+                    "selector": ".hero",
+                    "position": "after",
+                    "format": "auto",
+                    "pages": "all",
+                    "slot": "8684648378",
+                    "className": "ad-hero"
                 },
                 {
                     "selector": "footer.footer",
                     "position": "before",
                     "format": "horizontal",
                     "pages": "all",
-                    "slot": "4055138220",
-                    "className": "ad-before-footer"
-                },
-                {
-                    "selector": "#main-content .container",
-                    "position": "inside-top",
-                    "format": "auto",
-                    "pages": "spa",
-                    "slot": "4055138220",
-                    "className": "ad-top-content"
-                },
-                {
-                    "selector": ".breadcrumb",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
                     "slot": "8684648378",
-                    "className": "ad-after-breadcrumb"
-                },
-                {
-                    "selector": ".header",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
-                    "slots": [
-                        "4055138220",
-                        "8684648378"
-                    ],
-                    "className": "Ad-header"
+                    "className": "ad-before-footer"
                 }
             ]
         };
@@ -150,7 +107,8 @@
     }
 
     function insertAd(placement, target) {
-        var ad = createAdUnit(placement.slot, placement.format, placement.className);
+        var slotId = placement.slot || (placement.slots && placement.slots[0]);
+        var ad = createAdUnit(slotId, placement.format, placement.className);
 
         switch (placement.position) {
             case 'before':
@@ -192,6 +150,10 @@
 
     function injectAds() {
         if (!ADS_CONFIG.enabled) return;
+
+        // Post pages : les pubs sont rendues server-side aux positions EXACTES (POST_LAYOUT ad_N).
+        // Ne rien injecter ni supprimer ici (removeExistingAds effacerait les pubs server-side).
+        if (getPageType() === 'post') return;
 
         removeExistingAds();
 

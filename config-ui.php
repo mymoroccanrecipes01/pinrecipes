@@ -318,12 +318,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['save_config'])) {
         'CSV_PUBLISH_SPACING_DAYS' => max(1, (int)($_POST['CSV_PUBLISH_SPACING_DAYS'] ?? 7)),
         'CSV_GUARD_MIN_ROWS'       => max(0, (int)($_POST['CSV_GUARD_MIN_ROWS']       ?? 5)),
         'PINTEREST_VIDEO_PINS_ACTIVE' => isset($_POST['PINTEREST_VIDEO_PINS_ACTIVE']),
+        'PINTEREST_VIDEO_DAILY_MAX'   => max(0, (int)($_POST['PINTEREST_VIDEO_DAILY_MAX'] ?? 5)),
         'PINTEREST_VIDEO_BASE_URL'    => rtrim(trim($_POST['PINTEREST_VIDEO_BASE_URL'] ?? ''), '/'),
+        'PINTEREST_IMAGE_BASE_URL'    => rtrim(trim($_POST['PINTEREST_IMAGE_BASE_URL'] ?? ''), '/'),
         'PINTEREST_RECYCLE_ACTIVE'    => isset($_POST['PINTEREST_RECYCLE_ACTIVE']),
         'PINTEREST_RECYCLE_COUNT'     => max(0, (int)($_POST['PINTEREST_RECYCLE_COUNT']    ?? 10)),
         'PINTEREST_RECYCLE_MIN_DAYS'  => max(1, (int)($_POST['PINTEREST_RECYCLE_MIN_DAYS'] ?? 7)),
         'PIN_SCHEDULE_START'       => (int)($_POST['PIN_SCHEDULE_START'] ?? 16),
         'PIN_SCHEDULE_END'         => (int)($_POST['PIN_SCHEDULE_END']   ?? 4),
+        // SEO Auto-Boost
+        'INTERNAL_LINKING_ACTIVE'  => isset($_POST['INTERNAL_LINKING_ACTIVE']),
+        'INTERNAL_LINKING_COUNT'   => max(0, (int)($_POST['INTERNAL_LINKING_COUNT'] ?? 6)),
+        'INDEXNOW_ACTIVE'          => isset($_POST['INDEXNOW_ACTIVE']),
         // Google Trends keywords CSV directory
         'KEYWORDS_PIN_DIR'      => trim($_POST['KEYWORDS_PIN_DIR'] ?? ''),
         'KEYWORD_SOURCE'            => trim($_POST['KEYWORD_SOURCE'] ?? 'pinterest_trends'),
@@ -353,6 +359,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['save_config'])) {
         'FACEBOOK_DAILY_COUNT'       => (int)($_POST['FACEBOOK_DAILY_COUNT']     ?? 5),
         'FACEBOOK_CROSSPOST_ACTIVE'  => isset($_POST['FACEBOOK_CROSSPOST_ACTIVE']),
         'FACEBOOK_POST_TYPE'         => in_array($_POST['FACEBOOK_POST_TYPE'] ?? '', ['photo','video']) ? $_POST['FACEBOOK_POST_TYPE'] : 'photo',
+        // Google Analytics (gtag.js)
+        'GA_MEASUREMENT_ID'          => trim($_POST['GA_MEASUREMENT_ID'] ?? ''),
     ];
     // POST_META_STATS — from textarea JSON or preserve existing
     if (!empty($_POST['POST_META_STATS'])) {
@@ -420,6 +428,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['save_config'])) {
         $newConfig['SATELLITE_PROJECTS'] = $_ovr['SATELLITE_PROJECTS'];
     }
 
+    // INDEXNOW_KEY auto-générée (seo_indexnow_key) — pas dans le formulaire → préserver.
+    if (isset($_ovr['INDEXNOW_KEY'])) {
+        $newConfig['INDEXNOW_KEY'] = $_ovr['INDEXNOW_KEY'];
+    }
+
     // Remove keys marked for reset → they fall back to config.php defaults
     foreach (array_keys($newConfig) as $k) {
         if (($_POST['reset_' . $k] ?? '0') === '1') {
@@ -451,6 +464,20 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['save_config'])) {
                 $baseContent = str_replace(
                     '<meta name="pinterest-rich-pin" content="true">',
                     '<meta name="pinterest-rich-pin" content="true">' . "\n    " . $verifyTag,
+                    $baseContent
+                );
+            }
+            // Mettre à jour l'ID GA dans le tag gtag.js (script src + gtag('config', ...))
+            $gaId = trim($newConfig['GA_MEASUREMENT_ID'] ?? '');
+            if ($gaId) {
+                $baseContent = preg_replace(
+                    '/(googletagmanager\.com\/gtag\/js\?id=)[^"\']+/',
+                    '${1}' . $gaId,
+                    $baseContent
+                );
+                $baseContent = preg_replace(
+                    "/(gtag\('config',\s*')[^']+(')/",
+                    '${1}' . $gaId . '${2}',
                     $baseContent
                 );
             }
@@ -851,11 +878,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
                 'conclusion'      => '🎯 Conclusion',
                 'tips'            => '💡 Tips & Notes',
             ];
-            // Ajouter dynamiquement les blocs ads depuis ads-config.json
-            $_adsFile = __DIR__ . '/ads-config.json';
-            $_adsCfg  = file_exists($_adsFile) ? (json_decode(file_get_contents($_adsFile), true) ?? []) : [];
-            foreach ($_adsCfg['placements'] ?? [] as $_ai => $_apl) {
-                $blockLabels['ad_' . ($_ai + 1)] = '📢 Pub ' . ($_ai + 1) . ' — ' . ($_apl['className'] ?? ($_apl['format'] ?? 'auto'));
+            // Blocs pubs in-article : rendus server-side à la position EXACTE du bloc dans
+            // POST_LAYOUT (slots = POST_AD_SLOTS, cyclés). Indépendant de ads-config.json
+            // (qui ne gère plus que la homepage via ads.js). Glisse ad_N où tu veux la pub.
+            $_adMax = max(6, (defined('POST_AD_SLOTS') && is_array(POST_AD_SLOTS)) ? count(POST_AD_SLOTS) : 2);
+            for ($_ai = 1; $_ai <= $_adMax; $_ai++) {
+                $blockLabels['ad_' . $_ai] = '📢 Pub ' . $_ai . ' (in-article)';
             }
             $currentLayout = defined('POST_LAYOUT') ? POST_LAYOUT : array_keys($blockLabels);
             // Ensure all known blocks appear (append any missing ones at the end)
@@ -885,6 +913,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
                         style="background:#1d4ed8;color:#fff;border:none;border-radius:6px;padding:8px 16px;font-size:0.88em;cursor:pointer;display:flex;align-items:center;gap:6px;">
                     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="1 4 1 10 7 10"/><path d="M3.51 15a9 9 0 1 0 .49-3.5"/></svg>
                     Regenerate HTML posts
+                </button>
+                <button type="button" id="btn-regen-sitemap" onclick="regenSitemap()"
+                        title="Régénère sitemap.xml + sitemap-posts.xml + robots.txt + index.json (URLs canoniques /posts/{slug}/)"
+                        style="background:#0891b2;color:#fff;border:none;border-radius:6px;padding:8px 16px;font-size:0.88em;cursor:pointer;display:flex;align-items:center;gap:6px;">
+                    🗺️ Regenerate sitemap + index
                 </button>
                 <span id="regen-status" style="font-size:0.82em;color:#6b7280;"></span>
             </div>
@@ -916,12 +949,32 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
                     .catch(function(){ status.style.color='#dc2626'; status.textContent='✗ Requête échouée'; })
                     .finally(function(){ btn.disabled=false; btn.style.opacity='1'; });
             }
+            function regenSitemap() {
+                var btn = document.getElementById('btn-regen-sitemap');
+                var status = document.getElementById('regen-status');
+                btn.disabled = true; btn.style.opacity = '0.6';
+                status.style.color = '#6b7280';
+                status.textContent = 'Régénération sitemap…';
+                fetch('posts-generater.php?action=posts_index&ajax=1', { headers: { 'X-Requested-With': 'XMLHttpRequest' } })
+                    .then(function(r){ return r.json(); })
+                    .then(function(d){
+                        if (d.success) {
+                            status.style.color = '#16a34a';
+                            status.textContent = '✓ sitemap + index régénérés (' + d.count + ' posts)';
+                        } else {
+                            status.style.color = '#dc2626';
+                            status.textContent = '✗ Erreur: ' + (d.message || 'inconnue');
+                        }
+                    })
+                    .catch(function(){ status.style.color='#dc2626'; status.textContent='✗ Requête échouée'; })
+                    .finally(function(){ btn.disabled=false; btn.style.opacity='1'; });
+            }
             </script>
             <p style="margin-top:6px;font-size:0.78em;color:#6b7280">Sauvegarder d'abord, puis cliquer <b>Regenerate</b> pour appliquer le nouvel ordre aux pages existantes.</p>
         </div>
         <hr style="border:none;border-top:1px solid #f1f5f9;margin:20px 0">
         <div style="margin-top:6px;padding:8px 10px;background:#f0f9ff;border-radius:6px;font-size:0.78em;color:#0369a1">
-            💡 Les blocs <b>📢 Pub N</b> correspondent aux placements dans <code>ads-config.json</code>. Ajouter un placement → nouveau bloc disponible automatiquement.
+            💡 Les blocs <b>📢 Pub N</b> sont des pubs AdSense <b>in-article</b> rendues à la position EXACTE où tu les places dans la mise en page (slots = <code>POST_AD_SLOTS</code>, cyclés). La section <b>AdSense</b> plus bas (<code>ads-config.json</code>) ne gère que la <b>homepage</b>.
         </div>
             <script>
             (function(){
@@ -1003,6 +1056,64 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
                 </div>
                 <p style="margin:6px 0 0;font-size:0.78em;color:#9ca3af">Le fichier sera copié à la racine du site et appliqué immédiatement comme style actif.</p>
             </div>
+        </div>
+        <div class="field" style="margin-top:8px">
+            <?php lbl('GA_MEASUREMENT_ID', 'Google Analytics — Measurement ID', "Ex: G-XXXXXXXXXX. Injecté automatiquement dans base.html et les pages d'article (gtag.js)") ?>
+            <input type="text" name="GA_MEASUREMENT_ID" placeholder="G-XXXXXXXXXX"
+                value="<?= htmlspecialchars(defined('GA_MEASUREMENT_ID') ? GA_MEASUREMENT_ID : '') ?>" style="width:220px">
+        </div>
+    </div>
+</div>
+
+<!-- ── SEO Auto-Boost ── -->
+<div class="section">
+    <div class="section-header" onclick="toggleSection(this)">
+        <span class="icon">🚀</span><h2>SEO Auto-Boost</h2><span class="chevron">▾</span>
+    </div>
+    <div class="section-body">
+        <div style="margin-bottom:14px;padding:10px 12px;background:#f0fdf4;border:1px solid #bbf7d0;border-radius:8px;font-size:0.82em;color:#166534;line-height:1.5">
+            ✅ <b>Sitemap canonique + robots.txt</b> régénérés automatiquement à chaque run du pipeline (toujours actifs).<br>
+            👉 Soumets ton sitemap <u>une seule fois</u> dans <b>Google Search Console</b> :
+            <code>https://<?= defined('HOST_NAME') ? htmlspecialchars(HOST_NAME) : 'HOST' ?>/sitemap.xml</code>
+        </div>
+
+        <div class="toggle-row">
+            <div class="info">
+                <label>🔗 Internal Linking — « Related Recipes »</label>
+                <small>Ajoute des liens internes (même catégorie) en bas de chaque article → booste le crawl + le ranking Google.</small>
+            </div>
+            <label class="toggle">
+                <input type="checkbox" name="INTERNAL_LINKING_ACTIVE" value="1"
+                    <?= (defined('INTERNAL_LINKING_ACTIVE') && INTERNAL_LINKING_ACTIVE) ? 'checked' : '' ?>>
+                <span class="slider"></span>
+            </label>
+        </div>
+        <div class="field" style="margin-top:8px">
+            <?php lbl('INTERNAL_LINKING_COUNT', 'Nombre de liens par article', 'Combien de recettes liées afficher en bas de page (défaut 6)') ?>
+            <input type="number" name="INTERNAL_LINKING_COUNT" min="0" max="20"
+                value="<?= (int)(defined('INTERNAL_LINKING_COUNT') ? INTERNAL_LINKING_COUNT : 6) ?>" style="width:100px">
+        </div>
+
+        <div class="toggle-row" style="margin-top:14px">
+            <div class="info">
+                <label>⚡ IndexNow — Instant indexing (Bing/Yandex)</label>
+                <small>Soumet les nouveaux posts aux moteurs dès leur publication → indexing en jours, pas en semaines.</small>
+            </div>
+            <label class="toggle">
+                <input type="checkbox" name="INDEXNOW_ACTIVE" value="1"
+                    <?= (defined('INDEXNOW_ACTIVE') && INDEXNOW_ACTIVE) ? 'checked' : '' ?>>
+                <span class="slider"></span>
+            </label>
+        </div>
+        <div class="field" style="margin-top:8px">
+            <label>Clé IndexNow <small style="color:#9ca3af">(générée automatiquement — non secrète)</small></label>
+            <?php $inKey = defined('INDEXNOW_KEY') ? INDEXNOW_KEY : ''; ?>
+            <input type="text" readonly
+                value="<?= $inKey ? htmlspecialchars($inKey) : '(générée automatiquement à la 1ʳᵉ soumission)' ?>"
+                style="width:100%;background:#f8fafc;color:#64748b">
+            <?php if ($inKey): ?>
+            <small style="color:#64748b;margin-top:4px;display:block">Fichier de vérif : <code>https://<?= htmlspecialchars(HOST_NAME) ?>/<?= htmlspecialchars($inKey) ?>.txt</code></small>
+            <?php endif; ?>
         </div>
     </div>
 </div>
@@ -1366,6 +1477,11 @@ async function _doSyncCode(body) {
             </label>
         </div>
         <div class="field" style="margin-top:8px">
+            <?php lbl('PINTEREST_VIDEO_DAILY_MAX', 'Max video pins / run', '0 = illimité. Limite le nombre de video pins générés dans le CSV reels (ex: 3 = max 3 videos par pipeline)') ?>
+            <input type="number" name="PINTEREST_VIDEO_DAILY_MAX" min="0" max="50"
+                value="<?= (int)_cfg('PINTEREST_VIDEO_DAILY_MAX', 5) ?>" style="width:100px">
+        </div>
+        <div class="field" style="margin-top:8px">
             <?php lbl('PINTEREST_VIDEO_BASE_URL', 'URL serveur des videos', 'Les MP4 sont servis DIRECTEMENT par le serveur (jamais committés dans git → push rapide)') ?>
             <input type="text" name="PINTEREST_VIDEO_BASE_URL"
                 value="<?= htmlspecialchars(defined('PINTEREST_VIDEO_BASE_URL') ? PINTEREST_VIDEO_BASE_URL : '') ?>"
@@ -1373,6 +1489,16 @@ async function _doSyncCode(body) {
             <small style="color:#64748b;margin-top:4px;display:block">
                 URL publique du serveur Linux où le site tourne. Vide = <code>https://<?= defined('HOST_NAME') ? HOST_NAME : 'HOST_NAME' ?></code>.
                 Les videos ne passent <b>pas</b> par git/GitHub.
+            </small>
+        </div>
+        <div class="field" style="margin-top:8px">
+            <?php lbl('PINTEREST_IMAGE_BASE_URL', 'URL base des images pins (Media URL)', 'Base des URLs images dans le CSV Pinterest. Doit être publiquement accessible par Pinterest.') ?>
+            <input type="text" name="PINTEREST_IMAGE_BASE_URL"
+                value="<?= htmlspecialchars(defined('PINTEREST_IMAGE_BASE_URL') ? PINTEREST_IMAGE_BASE_URL : '') ?>"
+                placeholder="https://pinrecipes.lummyrecipes.com" style="width:100%">
+            <small style="color:#64748b;margin-top:4px;display:block">
+                Vide = raw.githubusercontent.com si GITHUB_REPO configuré, sinon <code>https://<?= defined('HOST_NAME') ? HOST_NAME : 'HOST_NAME' ?></code>.
+                Pinterest <b>rejette les URL avec IP</b> — utilise toujours un vrai domaine ici.
             </small>
         </div>
 

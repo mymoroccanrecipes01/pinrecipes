@@ -40,6 +40,27 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' &&
 
 // Traiter l'action si c'est un GET
 if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['action']) && $_GET['action'] === 'posts_index') {
+    set_time_limit(0);              // génération lourde (sitemaps + RSS sur tous les posts) → pas de timeout
+    ignore_user_abort(true);
+    @ini_set('memory_limit', '512M'); // marge mémoire pour les gros catalogues (no-op si interdit)
+
+    // Capture des erreurs fatales → réponse exploitable (JSON si AJAX) au lieu d'un 500 muet
+    $_pgAjax = (($_GET['ajax'] ?? '') === '1') || (strtolower($_SERVER['HTTP_X_REQUESTED_WITH'] ?? '') === 'xmlhttprequest');
+    register_shutdown_function(function () use ($_pgAjax) {
+        $e = error_get_last();
+        if ($e && in_array($e['type'], [E_ERROR, E_PARSE, E_CORE_ERROR, E_COMPILE_ERROR], true)) {
+            while (ob_get_level()) { ob_end_clean(); }
+            $msg = $e['message'] . ' @ ' . basename($e['file']) . ':' . $e['line'];
+            if ($_pgAjax) {
+                header('Content-Type: application/json; charset=utf-8');
+                echo json_encode(['success' => false, 'message' => $msg], JSON_UNESCAPED_UNICODE);
+            } else {
+                http_response_code(500);
+                echo '<pre style="padding:16px;background:#fef2f2;color:#991b1b">FATAL: ' . htmlspecialchars($msg) . '</pre>';
+            }
+        }
+    });
+
     $categoriesDir = './posts';
     
     // Créer le dossier s'il n'existe pas
@@ -88,53 +109,47 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['action']) && $_GET['act
     $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http';
     $host = HOST_NAME;
     $basePage = '/base.html';
-    $siteUrl = $protocol . '://' . $host . $basePage;
+    $siteUrl = $protocol . '://' . $host . $basePage;   // legacy (SPA) — gardé pour compat
+    $siteBase = $protocol . '://' . $host;              // base propre pour URLs canoniques SEO
     $currentDate = date('Y-m-d');
-    
+
     // === GÉNÉRATION DU SITEMAP PRINCIPAL (sitemap.xml) ===
-    
+    // URLs canoniques uniquement : / (home) + /posts/{slug}/ (= <link rel="canonical"> des pages)
+
     $sitemapXml = '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL;
     $sitemapXml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL;
-    
+
     // Page d'accueil
     $sitemapXml .= '  <url>' . PHP_EOL;
-    $sitemapXml .= '    <loc>' . $siteUrl . '?page=home</loc>' . PHP_EOL;
-    $sitemapXml .= '    <lastmod>' . $currentDate . '</lastmod>' . PHP_EOL;
-    $sitemapXml .= '    <changefreq>weekly</changefreq>' . PHP_EOL;
-    $sitemapXml .= '    <priority>1.0</priority>' . PHP_EOL;
-    $sitemapXml .= '  </url>' . PHP_EOL;
-    
-    // Page index des posts
-    $sitemapXml .= '  <url>' . PHP_EOL;
-    $sitemapXml .= '    <loc>' . $siteUrl . '?page=posts</loc>' . PHP_EOL;
+    $sitemapXml .= '    <loc>' . $siteBase . '/</loc>' . PHP_EOL;
     $sitemapXml .= '    <lastmod>' . $currentDate . '</lastmod>' . PHP_EOL;
     $sitemapXml .= '    <changefreq>daily</changefreq>' . PHP_EOL;
-    $sitemapXml .= '    <priority>0.9</priority>' . PHP_EOL;
+    $sitemapXml .= '    <priority>1.0</priority>' . PHP_EOL;
     $sitemapXml .= '  </url>' . PHP_EOL;
-    
-    // Ajouter chaque post au sitemap principal
+
+    // Ajouter chaque post au sitemap principal — URL canonique /posts/{slug}/
     foreach ($validFolders as $folder) {
         $postJsonPath = $categoriesDir . '/' . $folder . '/post.json';
-        
+
         if (file_exists($postJsonPath)) {
             $fileModTime = filemtime($postJsonPath);
             $lastmod = date('Y-m-d', $fileModTime);
-            
+
             $sitemapXml .= '  <url>' . PHP_EOL;
-            $sitemapXml .= '    <loc>' . $siteUrl . '?page=post-detail&amp;' . htmlspecialchars($folder, ENT_XML1, 'UTF-8') . '</loc>' . PHP_EOL;
+            $sitemapXml .= '    <loc>' . $siteBase . '/posts/' . htmlspecialchars($folder, ENT_XML1, 'UTF-8') . '/</loc>' . PHP_EOL;
             $sitemapXml .= '    <lastmod>' . $lastmod . '</lastmod>' . PHP_EOL;
             $sitemapXml .= '    <changefreq>monthly</changefreq>' . PHP_EOL;
             $sitemapXml .= '    <priority>0.8</priority>' . PHP_EOL;
             $sitemapXml .= '  </url>' . PHP_EOL;
         }
     }
-    
+
     $sitemapXml .= '</urlset>' . PHP_EOL;
-    
+
     // Écrire le sitemap principal
     $sitemapPath = './sitemap.xml';
     if (file_put_contents($sitemapPath, $sitemapXml) !== false) {
-        $messages[] = "sitemap.xml créé avec succès - " . (count($validFolders) + 2) . " URLs générées";
+        $messages[] = "sitemap.xml créé avec succès - " . (count($validFolders) + 1) . " URLs générées";
     } else {
         $messages[] = "Erreur lors de la création du sitemap.xml";
     }
@@ -152,7 +167,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['action']) && $_GET['act
             $lastmod = date('Y-m-d', $fileModTime);
             
             $postsSitemapXml .= '  <url>' . PHP_EOL;
-            $postsSitemapXml .= '    <loc>' . $siteUrl . '?page=post-detail&amp;' . htmlspecialchars($folder, ENT_XML1, 'UTF-8') . '</loc>' . PHP_EOL;
+            $postsSitemapXml .= '    <loc>' . $siteBase . '/posts/' . htmlspecialchars($folder, ENT_XML1, 'UTF-8') . '/</loc>' . PHP_EOL;
             $postsSitemapXml .= '    <lastmod>' . $lastmod . '</lastmod>' . PHP_EOL;
             $postsSitemapXml .= '    <changefreq>monthly</changefreq>' . PHP_EOL;
             $postsSitemapXml .= '    <priority>0.8</priority>' . PHP_EOL;
@@ -169,7 +184,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['action']) && $_GET['act
     } else {
         $messages[] = "Erreur lors de la création du sitemap-posts.xml";
     }
-    
+
+    // === GÉNÉRATION robots.txt (déclare le sitemap aux moteurs) ===
+    $robotsTxt  = "User-agent: *" . PHP_EOL;
+    $robotsTxt .= "Allow: /" . PHP_EOL;
+    $robotsTxt .= PHP_EOL;
+    $robotsTxt .= "Sitemap: " . $siteBase . "/sitemap.xml" . PHP_EOL;
+    $robotsTxt .= "Sitemap: " . $siteBase . "/posts/sitemap-posts.xml" . PHP_EOL;
+    if (file_put_contents('./robots.txt', $robotsTxt) !== false) {
+        $messages[] = "robots.txt créé avec succès (Sitemap déclaré)";
+    } else {
+        $messages[] = "Erreur lors de la création du robots.txt";
+    }
+
        // AJOUTER CES LIGNES AVANT echo implode :
     $rssResult = generatePinterestRSSFeed($categoriesDir);
     
@@ -180,10 +207,29 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['action']) && $_GET['act
         $messages[] = "⚠️ Erreur génération RSS";
     }
     
-    echo implode('<br>', $messages);
-    header('location: posts-generater.php?status=done');
+    // Réponse AJAX (bouton "Regenerate sitemap + index") → JSON, comme regenPages()
+    $isAjax = (($_GET['ajax'] ?? '') === '1')
+           || (strtolower($_SERVER['HTTP_X_REQUESTED_WITH'] ?? '') === 'xmlhttprequest');
+    if ($isAjax) {
+        if (ob_get_level()) { ob_clean(); }
+        header('Content-Type: application/json; charset=utf-8');
+        echo json_encode([
+            'success'  => true,
+            'count'    => count($validFolders),
+            'messages' => $messages,
+        ], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+        exit;
+    }
+
+    echo '<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><title>Régénération terminée</title>'
+       . '<style>body{font-family:system-ui,Segoe UI,sans-serif;max-width:760px;margin:40px auto;padding:0 20px;color:#1e293b}'
+       . 'h2{color:#16a34a;margin-bottom:8px}.msg{background:#f0fdf4;border:1px solid #bbf7d0;border-radius:8px;padding:14px 16px;line-height:1.8}'
+       . 'a.btn{display:inline-block;margin-top:18px;background:#2563eb;color:#fff;text-decoration:none;padding:9px 18px;border-radius:6px}</style>'
+       . '</head><body><h2>✅ Régénération terminée</h2><div class="msg">' . implode('<br>', $messages) . '</div>'
+       . '<a class="btn" href="sitemap.xml" target="_blank">→ Voir sitemap.xml</a></body></html>';
+    exit; // IMPORTANT : ne pas exécuter le code du générateur (UI) en dessous → évitait un HTTP 500
 }
-    
+
 if (isset($_GET['status']) && $_GET['status'] === 'done') {
     echo "<p style='color: green;  background: #f0f0f0; padding: 10px; position: absolute; margin: 0% 1%; font-weight: bold;'>✅ Opération terminée. Vous pouvez fermer cette fenêtre.</p>";
     sleep(3); // attendre 5 secondes
@@ -607,6 +653,13 @@ function generatePinterestRSSFeed($postsDir = './posts') {
                 if ($postData && isset($postData['title'])) {
                     $postData['folder'] = $folderName;
                     $postData['lastModified'] = filemtime($postFile);
+                    // Normaliser : ingrédients/instructions peuvent être des objets structurés
+                    // → aplatir en chaînes avant tout traitement (évite TypeError sur PHP 8).
+                    foreach (['ingredients', 'instructions'] as $_f) {
+                        if (!empty($postData[$_f]) && is_array($postData[$_f])) {
+                            $postData[$_f] = array_map('pg_str', $postData[$_f]);
+                        }
+                    }
                     $validPosts[] = $postData;
                 }
             }
@@ -657,7 +710,7 @@ function generatePinterestRSSFeed($postsDir = './posts') {
     
     // Ajouter chaque post comme item
     foreach ($validPosts as $post) {
-        $postUrl = $siteUrl . '?page=post-detail&post=' . $post['slug'];
+        $postUrl = 'https://' . HOST_NAME . '/posts/' . $post['slug'] . '/';
         $pubDate = date('r', $post['lastModified']);
         
         // Image principale
@@ -693,10 +746,10 @@ function generatePinterestRSSFeed($postsDir = './posts') {
         // Item RSS
         $rssXml .= '    <item>' . PHP_EOL;
         $rssXml .= '      <title>' . htmlspecialchars($post['title'], ENT_XML1, 'UTF-8') . '</title>' . PHP_EOL;
-        $rssXml .= '      <link>' . htmlspecialchars($rssConfig['link'] . '?page=post-detail&post=' . $post['slug'], ENT_XML1, 'UTF-8') . '</link>' . PHP_EOL;
+        $rssXml .= '      <link>' . htmlspecialchars('https://' . HOST_NAME . '/posts/' . $post['slug'] . '/', ENT_XML1, 'UTF-8') . '</link>' . PHP_EOL;
         $rssXml .= '      <description>' . htmlspecialchars($description, ENT_XML1, 'UTF-8') . '</description>' . PHP_EOL;
         $rssXml .= '      <pubDate>' . $pubDate . '</pubDate>' . PHP_EOL;
-        $rssXml .= '      <guid isPermaLink="true">' . htmlspecialchars($rssConfig['link'] . '?page=post-detail&post=' . $post['slug'], ENT_XML1, 'UTF-8') . '</guid>' . PHP_EOL;
+        $rssXml .= '      <guid isPermaLink="true">' . htmlspecialchars('https://' . HOST_NAME . '/posts/' . $post['slug'] . '/', ENT_XML1, 'UTF-8') . '</guid>' . PHP_EOL;
         $rssXml .= '      <category>' . htmlspecialchars($post['category_id'] ?? 'posts', ENT_XML1, 'UTF-8') . '</category>' . PHP_EOL;
         $rssXml .= '      <dc:creator>' . htmlspecialchars($post['author_id'] ?? 'House Chef', ENT_XML1, 'UTF-8') . '</dc:creator>' . PHP_EOL;
         
@@ -857,7 +910,7 @@ function generateCategoryRSSFeed($categoryId, $categoryName, $postsDir = './post
 
     // Ajouter les posts ONLINE uniquement
     foreach ($categoryPosts as $post) {
-        $postUrl = $siteUrl . '?page=post-detail&post=' . $post['slug'];
+        $postUrl = 'https://' . HOST_NAME . '/posts/' . $post['slug'] . '/';
         $pubDate = date('r', $post['lastModified']);
         
         // Image principale (dernière image ou première)
@@ -883,10 +936,10 @@ function generateCategoryRSSFeed($categoryId, $categoryName, $postsDir = './post
         
         $rssXml .= '    <item>' . PHP_EOL;
         $rssXml .= '      <title>' . htmlspecialchars($post['title'], ENT_XML1, 'UTF-8') . '</title>' . PHP_EOL;
-        $rssXml .= '      <link>' . htmlspecialchars($rssConfig['link'] . '?page=post-detail&post=' . $post['slug'], ENT_XML1, 'UTF-8') . '</link>' . PHP_EOL;
+        $rssXml .= '      <link>' . htmlspecialchars('https://' . HOST_NAME . '/posts/' . $post['slug'] . '/', ENT_XML1, 'UTF-8') . '</link>' . PHP_EOL;
         $rssXml .= '      <description>' . htmlspecialchars($description, ENT_XML1, 'UTF-8') . '</description>' . PHP_EOL;
         $rssXml .= '      <pubDate>' . $pubDate . '</pubDate>' . PHP_EOL;
-        $rssXml .= '      <guid isPermaLink="true">' . htmlspecialchars($rssConfig['link'] . '?page=post-detail&post=' . $post['slug'], ENT_XML1, 'UTF-8') . '</guid>' . PHP_EOL;
+        $rssXml .= '      <guid isPermaLink="true">' . htmlspecialchars('https://' . HOST_NAME . '/posts/' . $post['slug'] . '/', ENT_XML1, 'UTF-8') . '</guid>' . PHP_EOL;
         $rssXml .= '      <category>' . htmlspecialchars($post['category_id'] ?? 'posts', ENT_XML1, 'UTF-8') . '</category>' . PHP_EOL;
         $rssXml .= '      <dc:creator>' . htmlspecialchars($post['author_id'] ?? 'House Chef', ENT_XML1, 'UTF-8') . '</dc:creator>' . PHP_EOL;
         
@@ -1000,7 +1053,7 @@ function extractPostTags($post) {
     // Extraire des ingrédients (3 premiers mots significatifs)
     if (!empty($post['ingredients']) && is_array($post['ingredients'])) {
         foreach (array_slice($post['ingredients'], 0, 3) as $ingredient) {
-            $words = explode(' ', strtolower($ingredient));
+            $words = explode(' ', strtolower(pg_str($ingredient)));
             foreach ($words as $word) {
                 $word = preg_replace('/[^a-z]/', '', $word);
                 if (strlen($word) > 4 && !in_array($word, ['cups', 'tablespoons', 'teaspoons', 'ounces', 'pounds', 'grams'])) {
@@ -1014,13 +1067,26 @@ function extractPostTags($post) {
     return array_unique(array_filter($tags));
 }
 
+// Coerce une valeur (string OU tableau structuré "step" : {text|name|...}) en texte plat.
+// Les ingrédients/instructions des posts peuvent être des objets → évite htmlspecialchars(array) (fatal PHP 8).
+function pg_str($v): string {
+    if (is_string($v)) return $v;
+    if (is_array($v)) {
+        foreach (['text', 'name', 'description', 'instruction', 'step', 'value', 'title'] as $k) {
+            if (isset($v[$k]) && is_string($v[$k])) return $v[$k];
+        }
+        return implode(' ', array_map('strval', array_filter($v, 'is_scalar')));
+    }
+    return is_scalar($v) ? (string)$v : '';
+}
+
 // Fonction pour construire le contenu HTML enrichi
 function buildPostContentHTML($post, $mainImage, $tags) {
     $html = '<div class="post-content" style="font-family: Arial, sans-serif; max-width: 600px;">';
     
     // Image principale
     if (!empty($mainImage)) {
-        $html .= '<img src="' . htmlspecialchars($mainImage) . '" alt="' . htmlspecialchars($post['title']) . '" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;">';
+        $html .= '<img src="' . htmlspecialchars(pg_str($mainImage)) . '" alt="' . htmlspecialchars(pg_str($post['title'] ?? '')) . '" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;">';
     }
     
     // Meta infos
@@ -1038,7 +1104,7 @@ function buildPostContentHTML($post, $mainImage, $tags) {
         $html .= '<h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3>';
         $html .= '<ul style="line-height:1.8;">';
         foreach ($post['ingredients'] as $ingredient) {
-            $html .= '<li>' . htmlspecialchars($ingredient) . '</li>';
+            $html .= '<li>' . htmlspecialchars(pg_str($ingredient)) . '</li>';
         }
         $html .= '</ul>';
         $html .= '</div>';
@@ -1050,7 +1116,7 @@ function buildPostContentHTML($post, $mainImage, $tags) {
         $html .= '<h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3>';
         $html .= '<ol style="line-height:1.8;">';
         foreach ($post['instructions'] as $instruction) {
-            $html .= '<li>' . htmlspecialchars($instruction) . '</li>';
+            $html .= '<li>' . htmlspecialchars(pg_str($instruction)) . '</li>';
         }
         $html .= '</ol>';
         $html .= '</div>';
