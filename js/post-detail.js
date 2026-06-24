@@ -210,10 +210,9 @@ class PostDetailLoader {
             }
 
             .image-container:hover .pinterest-pin-btn {
-                opacity: ;
+                opacity: 1;
                 transform: translateY(0);
             }
-                
 
             .image-container:hover img {
                 transform: scale(1.02);
@@ -259,7 +258,7 @@ class PostDetailLoader {
             }
 
             .image-container:hover .pinterest-pin-btn {
-                animation: pinFadeIn 0.2s ease-out;
+                animation: pinFadeIn 0.2s ease-out forwards;
             }
         `;
         
