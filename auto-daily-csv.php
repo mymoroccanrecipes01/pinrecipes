@@ -814,6 +814,22 @@ if (!$dryRun) {
     // Rebuild posts/index.json with full metadata (1 file = all post data, no N fetches on front-end)
     _rebuild_posts_index(__DIR__);
 
+    // ── IndexNow — ping Google/Bing après isOnline=true + index rebuild ──────
+    if (function_exists('seo_indexnow_ping')) {
+        $protocol     = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http';
+        $siteBase     = $protocol . '://' . HOST_NAME;
+        $indexNowUrls = [];
+        foreach ($selected as $post) {
+            if (!empty($post['_recycle'])) continue;
+            $s = $post['_slug'] ?? '';
+            if ($s) $indexNowUrls[] = $siteBase . '/posts/' . $s . '/';
+        }
+        if ($indexNowUrls) {
+            seo_indexnow_ping($indexNowUrls);
+            progress('🔍', 'IndexNow: ' . count($indexNowUrls) . ' URL(s) soumises à Google/Bing');
+        }
+    }
+
     // Git push géré séparément via push.php
     $gitPushOk = true;
 
@@ -822,6 +838,38 @@ if (!$dryRun) {
     $settings = file_exists($settingsFile) ? (json_decode(file_get_contents($settingsFile), true) ?? []) : [];
     $settings['lastDailyRun'] = date('Y-m-d');
     file_put_contents($settingsFile, json_encode($settings, JSON_PRETTY_PRINT));
+}
+
+// ── Pin Calendar helpers ──────────────────────────────────────────────────────
+/**
+ * Charge pin-calendar.json et purge les dates passées de plus de PIN_CALENDAR_CLEANUP_DAYS jours.
+ */
+function adcsv_loadPinCalendar(string $dir): array {
+    $path   = $dir . '/pin-calendar.json';
+    $cutoff = date('Y-m-d', strtotime('-' . (defined('PIN_CALENDAR_CLEANUP_DAYS') ? PIN_CALENDAR_CLEANUP_DAYS : 7) . ' days'));
+    if (!file_exists($path)) return [];
+    $data = json_decode(file_get_contents($path), true);
+    if (!is_array($data)) return [];
+    return array_filter($data, fn($k) => $k >= $cutoff, ARRAY_FILTER_USE_KEY);
+}
+
+/**
+ * Trouve le prochain jour avec un slot libre (count < $cap) à partir de $fromDate.
+ * Incrémente le compteur et retourne ['date' => 'Y-m-d', 'slotIdx' => int] ou null si plein.
+ */
+function adcsv_findNextSlot(array &$calendar, string $fromDate, int $cap, int $maxAhead): ?array {
+    $d     = new DateTime($fromDate);
+    $limit = new DateTime('+' . $maxAhead . ' days');
+    while ($d <= $limit) {
+        $key = $d->format('Y-m-d');
+        $cur = $calendar[$key] ?? 0;
+        if ($cur < $cap) {
+            $calendar[$key] = $cur + 1;
+            return ['date' => $key, 'slotIdx' => $cur];
+        }
+        $d->modify('+1 day');
+    }
+    return null;
 }
 
 // ── 4. Build CSV (after git push — images must be live) ───────────────────────
@@ -837,41 +885,59 @@ if (!$linkActive && !($gitPushOk ?? true)) {
 }
 progress('📄', 'Génération CSV...');
 
-$csvDateInput = isset($_POST['csv_date']) && preg_match('/^\d{4}-\d{2}-\d{2}$/', $_POST['csv_date'])
-    ? $_POST['csv_date'] : date('Y-m-d');
-$today  = new DateTime($csvDateInput);
-$header = 'Title,Media URL,Pinterest board,Thumbnail,Description,Link,Publish date,Keywords';
+// ── Build 1 merged CSV — Pin Calendar anti-overlap ────────────────────────────
+$downloadsDir = __DIR__ . '/downloads';
+if (!is_dir($downloadsDir)) mkdir($downloadsDir, 0755, true);
 
-// ── Build 5 separate CSV files — 1 per template group, ~10 pins each ─────────
-$csvFiles       = [];
-$fbScheduleTimes = []; // slug → unix timestamp, capturé depuis weekIdx=0 (premier groupe Pinterest)
+$calendar    = adcsv_loadPinCalendar($downloadsDir);
+$capPerDay   = defined('PIN_CAP_PER_DAY')           ? (int)PIN_CAP_PER_DAY           : 15;
+$minAhead    = defined('PIN_MIN_DAYS_AHEAD')        ? (int)PIN_MIN_DAYS_AHEAD        : 1;
+$maxAhead    = defined('PIN_MAX_DAYS_AHEAD')        ? (int)PIN_MAX_DAYS_AHEAD        : 60;
+$repinOffset = defined('PIN_REPIN_MIN_OFFSET_DAYS') ? (int)PIN_REPIN_MIN_OFFSET_DAYS : 7;
 
-foreach ([0, 1, 2, 3, 4] as $weekIdx) {
-    $groupDate     = clone $today;
-    $groupDate->modify('+' . ($weekIdx * CSV_PUBLISH_SPACING_DAYS) . ' days');
-    $groupDateStr  = $groupDate->format('Y-m-d');
-    $lines         = [$header];  // image pins
-    $videoLines    = [$header];  // video pins — fichier séparé (Pinterest ne supporte pas les mix)
-    $startHour     = (int)(defined('PIN_SCHEDULE_START') ? PIN_SCHEDULE_START : 16);
-    $endHour       = (int)(defined('PIN_SCHEDULE_END')   ? PIN_SCHEDULE_END   : 4);
-    // Fenêtre en minutes, gère passage minuit (ex: 16h→04h = 720 min)
-    $windowMin     = (($endHour - $startHour + 24) % 24) * 60;
-    if ($windowMin === 0) $windowMin = 24 * 60;
-    // Pré-génère des offsets aléatoires dans [0, windowMin[ — triés pour ordre chronologique
-    $pinsForIdx    = count(array_filter($selected, fn($p) => isset($p['_templates'][$weekIdx])));
-    $randOffsets   = [];
-    for ($ri = 0; $ri < $pinsForIdx; $ri++) {
-        $randOffsets[] = rand(0, max(0, $windowMin - 1));
-    }
-    sort($randOffsets);
-    $offsetIdx     = 0;
-    $seenTitles    = [];
+$startHour = (int)(defined('PIN_SCHEDULE_START') ? PIN_SCHEDULE_START : 16);
+$endHour   = (int)(defined('PIN_SCHEDULE_END')   ? PIN_SCHEDULE_END   : 4);
+$windowMin = (($endHour - $startHour + 24) % 24) * 60;
+if ($windowMin === 0) $windowMin = 24 * 60;
+// Espacement uniforme entre les slots d'une même journée
+$slotStep = $capPerDay > 1 ? intdiv($windowMin, $capPerDay) : $windowMin;
 
-    foreach ($selected as $post) {
-        $templates = $post['_templates'];
-        if (!isset($templates[$weekIdx])) continue;
-        $template = $templates[$weekIdx];
-        $slug     = $post['_slug'];
+$newPinStart = date('Y-m-d', strtotime('+' . $minAhead . ' day'));
+$repinStart  = date('Y-m-d', strtotime('+' . $repinOffset . ' days'));
+
+$header          = 'Title,Media URL,Pinterest board,Thumbnail,Description,Link,Publish date,Keywords';
+$allLines        = [$header];
+$seenTitles      = [];
+$fbScheduleTimes = [];
+$videoCount      = 0;
+$vMax            = defined('PINTEREST_VIDEO_DAILY_MAX') ? (int)PINTEREST_VIDEO_DAILY_MAX : 5;
+
+foreach ($selected as $post) {
+    $slug      = $post['_slug'];
+    $templates = $post['_templates'] ?? [];
+    $isRepin   = !empty($post['_recycle']);
+    $pinStart  = $isRepin ? $repinStart : $newPinStart;
+
+    foreach ($templates as $weekIdx => $template) {
+        $slot = adcsv_findNextSlot($calendar, $pinStart, $capPerDay, $maxAhead);
+        if ($slot === null) continue;
+
+        $slotDate = $slot['date'];
+        $slotIdx  = $slot['slotIdx'];
+
+        // Publish time — uniformément espacé + jitter ±3 min
+        $baseMin    = $startHour * 60 + ($slotIdx * $slotStep) + rand(-3, 3);
+        $baseMin    = max($startHour * 60, min($baseMin, $startHour * 60 + $windowMin - 1));
+        $isNextDay  = $baseMin >= 1440;
+        $actualDate = new DateTime($slotDate);
+        if ($isNextDay) $actualDate->modify('+1 day');
+        $h = (int)(($baseMin % 1440) / 60);
+        $m = $baseMin % 60;
+        $publishDate = $actualDate->format('Y-m-d') . 'T' . sprintf('%02d:%02d:00', $h, $m);
+
+        if (!isset($fbScheduleTimes[$slug])) {
+            $fbScheduleTimes[$slug] = strtotime($publishDate);
+        }
 
         // Title + Description
         $variations = $post['pin_variations'] ?? [];
@@ -884,9 +950,6 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
         }
 
         // Keywords from hashtags
-        // Strip engagement CTAs from description BEFORE hashtag extraction so
-        // words like "SAVE", "FOR LATER", "PIN IT" don't bleed into keyword tags.
-        // Uniquement les CTAs qui ne font PAS partie d'une phrase naturelle
         $engagementCtaPattern = '/\b(SAVE FOR LATER|FOR LATER|PIN IT|PIN THIS|BOOKMARK)\b\.?/i';
         $description = trim(preg_replace($engagementCtaPattern, '', $description));
         $description = trim(preg_replace('/\s{2,}/', ' ', $description));
@@ -896,26 +959,19 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
             $rawTags     = $matches[1];
             $description = preg_replace('/#\w+/', '', $description);
             $description = trim(preg_replace('/\s+/', ' ', $description));
-            // Strip any CTA suffix that got fused to the last hashtag (e.g. #FamilyDinnerSAVE)
-            $cleanTags = array_map(function($tag) {
-                return preg_replace('/(SAVE|LATER|PINIT|CLICK|BOOKMARK|TRYIT|MAKEIT|GRABIT)$/i', '', $tag);
-            }, $rawTags);
-            $cleanTags = array_filter($cleanTags, fn($t) => strlen($t) >= 3);
-            $keywords  = implode(', ', $cleanTags);
+            $cleanTags   = array_map(fn($tag) => preg_replace('/(SAVE|LATER|PINIT|CLICK|BOOKMARK|TRYIT|MAKEIT|GRABIT)$/i', '', $tag), $rawTags);
+            $cleanTags   = array_filter($cleanTags, fn($t) => strlen($t) >= 3);
+            $keywords    = implode(', ', $cleanTags);
         } else {
-            $rawHashtags = is_array($post['hashtags'] ?? null)
-                ? implode(' ', $post['hashtags'])
-                : ($post['hashtags'] ?? '');
+            $rawHashtags = is_array($post['hashtags'] ?? null) ? implode(' ', $post['hashtags']) : ($post['hashtags'] ?? '');
             if (preg_match_all('/#(\w+)/', $rawHashtags, $hm)) {
-                $cleanTags = array_map(function($tag) {
-                    return preg_replace('/(SAVE|LATER|PINIT|CLICK|BOOKMARK|TRYIT|MAKEIT|GRABIT)$/i', '', $tag);
-                }, $hm[1]);
+                $cleanTags = array_map(fn($tag) => preg_replace('/(SAVE|LATER|PINIT|CLICK|BOOKMARK|TRYIT|MAKEIT|GRABIT)$/i', '', $tag), $hm[1]);
                 $cleanTags = array_filter($cleanTags, fn($t) => strlen($t) >= 3);
                 $keywords  = implode(', ', $cleanTags);
             }
         }
 
-        // Limits + deduplicate title within this file
+        // Limits + deduplicate title
         if (mb_strlen($title) > 100) $title = mb_substr($title, 0, 97) . '...';
         $titleKey = mb_strtolower(trim($title));
         if (isset($seenTitles[$titleKey])) {
@@ -927,29 +983,26 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
         }
         if (mb_strlen($description) > 500) $description = mb_substr($description, 0, 497) . '...';
 
-        // Media URL — toujours raw GitHub (image doit être accessible publiquement)
+        // Media URL
         $mediaUrl = $rawImageBase . '/posts/' . $slug . '/images/' . $template['fileName'];
 
-        // Board — pick per template layout, fallback to board_name or category
+        // Board
         $templateKey     = $template['template'] ?? 'classic';
         $pinterestBoards = $post['pinterest_boards'] ?? [];
-        $rawBoard = $pinterestBoards[$templateKey]
-            ?? $pinterestBoards['classic']
-            ?? $post['board_name']
-            ?? '';
+        $rawBoard = $pinterestBoards[$templateKey] ?? $pinterestBoards['classic'] ?? $post['board_name'] ?? '';
         $boardName = '';
         if (!empty($rawBoard)) {
-            $boardName = trim($rawBoard); // conserver le nom exact (espaces, casse) — Pinterest est sensible
+            $boardName = trim($rawBoard);
         } elseif (!empty($post['category_id'])) {
             $catSlug   = $catIdToSlug[$post['category_id']] ?? '';
-            $boardName = ucwords(str_replace('-', ' ', $catSlug)); // slug → "Easy Vegetable Side Dishes"
+            $boardName = ucwords(str_replace('-', ' ', $catSlug));
         }
         if (empty($boardName)) $boardName = 'posts';
 
-        // Link — recipe_card/overlay_list suivent leur config propre, autres templates suivent linkActive
+        // Link
         preg_match('/_image_(\d+)/', $template['fileName'] ?? '', $imgMatch);
-        $imgNum = $imgMatch[1] ?? ($weekIdx + 1);
-        $tplType = $template['type'] ?? 'template';
+        $imgNum   = $imgMatch[1] ?? ($weekIdx + 1);
+        $tplType  = $template['type'] ?? 'template';
         $isNoLink = ($tplType === 'recipe_card'  && !_cfg('recipe_card_LINK_ACTIVE',  false))
                  || ($tplType === 'overlay_list' && !_cfg('overlay_list_LINK_ACTIVE', false))
                  || (!in_array($tplType, ['recipe_card', 'overlay_list']) && !empty($template['no_link']));
@@ -957,92 +1010,87 @@ foreach ([0, 1, 2, 3, 4] as $weekIdx) {
             ? $imageBase . '/posts/' . $slug . '/?src=' . $slug . '-image-' . $imgNum
             : '';
 
-        // Publish date — temps aléatoire dans [PIN_SCHEDULE_START, PIN_SCHEDULE_END]
-        $offset              = $randOffsets[$offsetIdx++] ?? rand(0, $windowMin - 1);
-        $minutesFromMidnight = $startHour * 60 + $offset;
-        $isNextDay           = $minutesFromMidnight >= 1440;
-        $actualDate          = clone $groupDate;
-        if ($isNextDay) $actualDate->modify('+1 day');
-        $h           = (int)(($minutesFromMidnight % 1440) / 60);
-        $m           = $minutesFromMidnight % 60;
-        $publishDate = $actualDate->format('Y-m-d') . 'T' . sprintf('%02d:%02d:00', $h, $m);
-
-        // Capturer le timestamp du premier groupe pour FB scheduling
-        if ($weekIdx === 0 && !isset($fbScheduleTimes[$slug])) {
-            $fbScheduleTimes[$slug] = strtotime($publishDate);
-        }
-
-        $lines[] = implode(',', [
+        $allLines[] = implode(',', [
             csvText($title),
             csvField($mediaUrl),
             csvField($boardName),
-            '',              // Thumbnail: vide pour image pin (Media URL est déjà l'image)
+            '',
             csvText($description),
             csvField($link),
             csvField($publishDate),
             csvField($keywords),
         ]);
+    }
 
-        // ── Video pin : CSV séparé (Pinterest rejette image+video dans le même fichier) ──
-        if ($weekIdx === 0 && !empty($videoReadySlugs[$slug])) {
+    // Video pin — intégré dans le même fichier CSV
+    if (!empty($videoReadySlugs[$slug]) && ($vMax === 0 || $videoCount < $vMax)) {
+        $slot = adcsv_findNextSlot($calendar, $newPinStart, $capPerDay, $maxAhead);
+        if ($slot !== null) {
+            $baseMin    = $startHour * 60 + ($slot['slotIdx'] * $slotStep) + rand(-3, 3);
+            $baseMin    = max($startHour * 60, min($baseMin, $startHour * 60 + $windowMin - 1));
+            $vDateObj   = new DateTime($slot['date']);
+            if ($baseMin >= 1440) $vDateObj->modify('+1 day');
+            $vh = (int)(($baseMin % 1440) / 60); $vm = $baseMin % 60;
+            $videoDate  = $vDateObj->format('Y-m-d') . 'T' . sprintf('%02d:%02d:00', $vh, $vm);
+
             $_vBase = (defined('PINTEREST_VIDEO_BASE_URL') && PINTEREST_VIDEO_BASE_URL)
-                    ? PINTEREST_VIDEO_BASE_URL
-                    : ('https://' . HOST_NAME);
+                    ? PINTEREST_VIDEO_BASE_URL : ('https://' . HOST_NAME);
             if (preg_match('/^https?:\/\/\d+\.\d+\.\d+\.\d+/', $_vBase)) {
                 $_vBase = preg_replace('/^https:\/\//', 'http://', $_vBase);
             }
-            $videoUrl   = rtrim($_vBase, '/') . '/posts/' . $slug . '/images/' . $slug . '_reel.mp4';
-            $videoMin   = $startHour * 60 + rand(0, max(0, $windowMin - 1));
-            $videoDateO = clone $groupDate;
-            if ($videoMin >= 1440) $videoDateO->modify('+1 day');
-            $vh = (int)(($videoMin % 1440) / 60); $vm = $videoMin % 60;
-            $videoDate  = $videoDateO->format('Y-m-d') . 'T' . sprintf('%02d:%02d:00', $vh, $vm);
+            $videoUrl  = rtrim($_vBase, '/') . '/posts/' . $slug . '/images/' . $slug . '_reel.mp4';
+            $vTitle    = $post['pin_variations'][0]['title']       ?? $post['title']       ?? '';
+            $vDesc     = $post['pin_variations'][0]['description'] ?? $post['description'] ?? '';
+            $vDesc     = trim(preg_replace('/\b(SAVE FOR LATER|FOR LATER|PIN IT|PIN THIS|BOOKMARK)\b\.?/i', '', $vDesc));
+            if (mb_strlen($vTitle) > 100) $vTitle = mb_substr($vTitle, 0, 97) . '...';
+            if (mb_strlen($vDesc) > 500)  $vDesc  = mb_substr($vDesc, 0, 497) . '...';
+            $vBoard    = trim($post['pinterest_boards']['classic'] ?? $post['board_name'] ?? 'posts');
+            $vLink     = $linkActive ? $imageBase . '/posts/' . $slug . '/?src=' . $slug . '-reel' : '';
 
-            $videoLines[] = implode(',', [
-                csvText($title),
+            $allLines[] = implode(',', [
+                csvText($vTitle),
                 csvField($videoUrl),
-                csvField($boardName),
-                '',          // Thumbnail vide → Pinterest auto-génère depuis 1ère frame (ratio 9:16)
-                csvText($description),
-                csvField($link),
+                csvField($vBoard),
+                '',
+                csvText($vDesc),
+                csvField($vLink),
                 csvField($videoDate),
-                csvField($keywords),
+                csvField($keywords ?? ''),
             ]);
+            $videoCount++;
         }
-    }
-
-    if (count($lines) > 1) {
-        $csvFiles[] = [
-            'filename' => 'pinterest_' . $groupDateStr . '.csv',
-            'content'  => implode("\r\n", $lines),
-            'rows'     => count($lines) - 1,
-        ];
-    }
-    // Fichier reels séparé — uniquement si des videos existent (weekIdx === 0)
-    if ($weekIdx === 0 && count($videoLines) > 1) {
-        // Appliquer PINTEREST_VIDEO_DAILY_MAX (0 = illimité)
-        $vMax = defined('PINTEREST_VIDEO_DAILY_MAX') ? (int)PINTEREST_VIDEO_DAILY_MAX : 5;
-        if ($vMax > 0 && count($videoLines) - 1 > $vMax) {
-            $videoLines = array_merge([$videoLines[0]], array_slice($videoLines, 1, $vMax));
-        }
-        $csvFiles[] = [
-            'filename' => 'pinterest_' . $groupDateStr . '_reels.csv',
-            'content'  => implode("\r\n", $videoLines),
-            'rows'     => count($videoLines) - 1,
-        ];
     }
 }
 
-// ── 7. Save CSV files to downloads/ ──────────────────────────────────────────
-$downloadsDir = __DIR__ . '/downloads';
-if (!is_dir($downloadsDir)) mkdir($downloadsDir, 0755, true);
+// Trier toutes les rows par date de publication croissante
+if (count($allLines) > 2) {
+    $headerRow = array_shift($allLines);
+    usort($allLines, function ($a, $b) {
+        preg_match('/(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2})/', $a, $ma);
+        preg_match('/(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2})/', $b, $mb);
+        return strcmp($ma[1] ?? '', $mb[1] ?? '');
+    });
+    array_unshift($allLines, $headerRow);
+}
 
+// Sauvegarder le calendrier mis à jour
+ksort($calendar);
+file_put_contents($downloadsDir . '/pin-calendar.json', json_encode($calendar, JSON_PRETTY_PRINT));
+
+// ── 7. Save 1 fichier CSV merged ──────────────────────────────────────────────
+$csvFiles  = [];
 $totalRows = 0;
-foreach ($csvFiles as $f) {
-    $csvPath = $downloadsDir . '/' . $f['filename'];
-    $written = file_put_contents($csvPath, $f['content']);
-    if ($isCli) echo "  📄 Saved: " . $f['filename'] . " (" . $f['rows'] . " rows, " . ($written !== false ? $written . ' bytes' : 'FAILED') . ")\n";
-    $totalRows += $f['rows'];
+if (count($allLines) > 1) {
+    $csvFilename = 'pinterest_' . date('Y-m-d') . '.csv';
+    $content     = implode("\r\n", $allLines);
+    file_put_contents($downloadsDir . '/' . $csvFilename, $content);
+    $totalRows = count($allLines) - 1;
+    $csvFiles[] = [
+        'filename' => $csvFilename,
+        'content'  => $content,
+        'rows'     => $totalRows,
+    ];
+    if ($isCli) echo "  📄 Saved: $csvFilename ($totalRows pins)\n";
 }
 
 // Save FB schedule manifest — read by fb-from-csv.php to schedule on Facebook
