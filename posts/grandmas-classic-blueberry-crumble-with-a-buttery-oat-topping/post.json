@@ -1,0 +1,355 @@
+{
+    "title": "Grandma’s Classic Blueberry Crumble with a Buttery Oat Topping",
+    "promptIMG": "Food photography: Blueberry Crumble, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This blueberry crumble is pure comfort—sweet, juicy berries under a crunchy, buttery oat topping. I love how the topping crisps up perfectly in the oven. It’s a cozy dessert for any family dinner or weekend treat.",
+    "hashtags": "#blueberrycrumble #classicdessert #comfortfood",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Warm Blueberry Crumble That Tastes Like Home",
+            "description": "Nothing beats a warm blueberry crumble fresh from the oven 🍇✨. The sweet-tart berries with a golden oat topping make it a family favorite. Save this recipe and try it tonight! #blueberrydessert #homemadedessert #comfortfood",
+            "hashtags": "#blueberrycrumble #homemadedessert #comfortfood #easybaking"
+        },
+        {
+            "title": "Simple Blueberry Crumble Recipe with a Crunchy Oat Topping",
+            "description": "Looking for a quick, comforting dessert? This blueberry crumble is easy to make with pantry staples and bursts with juicy flavor. Perfect for cozy nights in. Try it today! 🍽️💙 #blueberrycrumble #easyrecipe #dessertlover",
+            "hashtags": "#blueberrycrumble #easyrecipe #dessertlover #familydessert"
+        },
+        {
+            "title": "Easy Blueberry Crumble for a Sweet Family Treat",
+            "description": "This blueberry crumble is my go-to when I want something sweet but simple. The buttery oat topping crisps up beautifully every time. Grab your berries and bake this soon! 🫐🍴 #blueberrycrumble #familydessert #easybaking",
+            "hashtags": "#blueberrycrumble #familydessert #easybaking #comfortfood"
+        },
+        {
+            "title": "Classic Blueberry Crumble That’s Perfect for Any Occasion",
+            "description": "Juicy blueberries with a crunchy oat topping make this crumble a winner for dessert or brunch. It’s easy to prep and always a crowd-pleaser. Save this recipe and enjoy! 🥄💜 #blueberrycrumble #classicdessert #easyrecipes",
+            "hashtags": "#blueberrycrumble #classicdessert #easyrecipes #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 40,
+    "servings": 6,
+    "ingredients": [
+        "4 cups fresh blueberries",
+        "1/2 cup granulated sugar",
+        "1 tablespoon lemon juice",
+        "1 tablespoon cornstarch",
+        "1 cup old-fashioned rolled oats",
+        "1/2 cup all-purpose flour",
+        "1/2 cup packed light brown sugar",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon salt",
+        "1/2 cup unsalted butter, cold and cubed"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I first made this blueberry crumble years ago when I wanted a simple dessert that reminded me of my grandma’s kitchen. What I love about this recipe is how the topping turns perfectly crisp and buttery while the blueberries bubble up sweet and juicy underneath. It’s not fancy, just honest, comforting food that’s easy to pull together with ingredients you probably already have. The secret? Cold butter cut into the oats and flour mixture, which creates that irresistible crumbly texture. I’ve tried versions with melted butter or skipping the oats, but this one always wins in my family. When it’s done, the crumble has a golden top with a hint of cinnamon and a warm, fruity filling that’s perfect served with a scoop of vanilla ice cream or a dollop of whipped cream. It’s one of those desserts that feels like a hug on a plate, and I hope you enjoy making it as much as I do.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). In a large bowl, gently toss the fresh blueberries with granulated sugar, lemon juice, and cornstarch. The cornstarch helps thicken the juices released during baking, so your crumble isn't soggy. Be careful not to overmix or crush the berries, as you want them mostly whole to keep that lovely texture.",
+            "timing": "10 minutes",
+            "doneness_cue": "Berries evenly coated and mixture slightly thickened"
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate mixing bowl, combine rolled oats, all-purpose flour, brown sugar, cinnamon, and salt. Use a pastry cutter or your fingers to cut the cold, cubed butter into the dry ingredients until the mixture looks crumbly with pea-sized bits of butter. This step is crucial because the cold butter creates the crumble’s signature texture and flavor as it melts during baking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Mixture resembles coarse crumbs with visible butter pieces"
+        },
+        {
+            "step": 3,
+            "instruction": "Transfer the blueberry mixture to a greased 8-inch square baking dish, spreading it out evenly. Then sprinkle the oat crumble topping evenly over the berries, covering them completely. This layering ensures every bite has a good balance of juicy fruit and crunchy topping.",
+            "timing": "5 minutes",
+            "doneness_cue": "Evenly spread topping covering all berries"
+        },
+        {
+            "step": 4,
+            "instruction": "Bake the crumble in the preheated oven for about 35 to 40 minutes. You want the topping to turn golden brown and crisp, and the blueberry filling to bubble up around the edges. If the topping browns too quickly, loosely cover with foil to prevent burning while the filling finishes cooking.",
+            "timing": "35-40 minutes",
+            "doneness_cue": "Golden brown topping with bubbling fruit underneath"
+        },
+        {
+            "step": 5,
+            "instruction": "Once baked, remove the crumble from the oven and let it cool for at least 10 minutes. This resting time helps the filling thicken slightly so it’s not too runny when served. Plus, it’s easier to scoop and tastes better warm than piping hot.",
+            "timing": "10 minutes",
+            "doneness_cue": "Filling thickened and crumble slightly cooled"
+        },
+        {
+            "step": 6,
+            "instruction": "Serve the blueberry crumble warm with a scoop of vanilla ice cream or a dollop of whipped cream if you like. The cold creaminess contrasts beautifully with the warm, sweet berries and crunchy topping, making it a perfect comforting dessert.",
+            "timing": "0 minutes",
+            "doneness_cue": "Ready to enjoy with creamy topping"
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to prepare ahead, you can assemble the crumble and refrigerate it for up to 24 hours before baking. Just cover it tightly with plastic wrap and bake it directly from the fridge, adding a few extra minutes to the baking time to compensate for the cold filling.",
+            "timing": "0 minutes",
+            "doneness_cue": "Crumble assembled and chilled, ready to bake"
+        },
+        {
+            "step": 8,
+            "instruction": "For a deeper flavor, try stirring a teaspoon of vanilla extract or a pinch of nutmeg into the blueberry mixture before baking. These warm spices complement the berries and add a subtle complexity to the dessert.",
+            "timing": "0 minutes",
+            "doneness_cue": "Blueberry mixture with added spices"
+        },
+        {
+            "step": 9,
+            "instruction": "When serving leftovers, gently reheat in the oven at 300°F (150°C) for 10-15 minutes to restore the crispness of the topping. Avoid microwaving if possible, as it can make the topping soggy.",
+            "timing": "10-15 minutes",
+            "doneness_cue": "Topping crisp and warm throughout"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Blueberry Crumble Recipe Delivers Perfect Comfort Every Time",
+        "content": "<p>The magic of this blueberry crumble lies in the balance between the juicy fruit filling and the crisp, buttery topping. The cornstarch in the berry mixture plays a crucial role by thickening the natural juices as the crumble bakes. Without it, the filling would be watery and runny, which can make the topping soggy and unappealing. Cornstarch gelatinizes when heated, trapping the berry juices and creating a luscious sauce that clings to every bite.</p><p>Cutting cold butter into the oat and flour mixture creates distinct pea-sized bits of fat throughout the topping. As the crumble bakes, these bits melt and create pockets of flakiness and crispness. Using cold butter rather than melted ensures the topping doesn’t turn into a dense, greasy layer but stays light and crumbly. The oats add texture and a subtle nuttiness that complements the sweet-tart blueberries perfectly.</p><p>Oven temperature and baking time are also key. Baking at 350°F allows the topping to brown slowly without burning, while the fruit cooks through and bubbles up. The bubbling signals that the filling is hot and thickened, while the golden topping indicates the right crunch. Resting the crumble after baking lets the filling set, so it’s not too runny when served, making for a cleaner, more enjoyable dessert.</p><p>Finally, the addition of lemon juice brightens the blueberries, balancing their sweetness with a hint of acidity. This simple yet effective trick enhances the natural flavors and prevents the filling from tasting flat or overly sugary. Together, these techniques create a classic, reliable blueberry crumble that’s both comforting and delicious.</p>",
+        "ingredient_notes": {
+            "fresh blueberries": "Choose firm, plump blueberries with a deep blue color and a slight silvery bloom on the skin, which indicates freshness. Fresh berries hold their shape better during baking than frozen, resulting in a more appealing texture. If using frozen, thaw and drain excess liquid before mixing to avoid a watery filling.",
+            "granulated sugar": "Granulated sugar sweetens the berries and helps draw out their juices. Adjust the amount based on berry sweetness and personal preference. Using too little sugar can result in a tart filling, while too much can mask the natural berry flavor.",
+            "cornstarch": "Cornstarch is a thickening agent that prevents the fruit juices from making the crumble soggy. It absorbs liquid and gels when heated, creating a thick sauce. Make sure to mix it thoroughly with the berries for even thickening.",
+            "old-fashioned rolled oats": "Rolled oats add texture and a hearty chew to the topping. Avoid instant or quick oats as they can make the topping mushy. The oats also contribute a toasty flavor when baked, enhancing the overall crumble experience.",
+            "unsalted butter": "Using cold, unsalted butter is essential for creating a crumbly topping texture. Salted butter can alter the sweetness balance, so it's best to control salt separately. Keep the butter chilled until cutting it in to maintain the right consistency."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use cold butter and cut it in quickly.",
+            "reason": "Cold butter creates flaky pockets in the crumble topping as it melts during baking. If the butter warms up too much before mixing, the topping can become greasy and dense instead of crumbly and crisp."
+        },
+        {
+            "tip": "Don’t overmix the berry filling.",
+            "reason": "Overmixing can crush the berries, releasing too much juice and making the filling watery. Gently toss ingredients to keep the berries intact, which improves texture and appearance."
+        },
+        {
+            "tip": "Let the crumble rest before serving.",
+            "reason": "Resting allows the filling to thicken and set, making it easier to serve and preventing the topping from sliding off. Plus, flavors meld better when it cools slightly."
+        },
+        {
+            "tip": "Add a splash of lemon juice to the berries.",
+            "reason": "Lemon juice brightens the flavor and balances the sweetness, preventing the filling from tasting too sugary or flat."
+        },
+        {
+            "tip": "Use old-fashioned oats for the topping.",
+            "reason": "They provide the best texture and flavor. Quick oats tend to become mushy and don’t offer the same satisfying crunch."
+        },
+        {
+            "tip": "Cover loosely with foil if topping browns too fast.",
+            "reason": "This prevents burning while allowing the filling to finish cooking and bubbling without overcooking the topping."
+        },
+        {
+            "tip": "Reheat leftovers in the oven, not microwave.",
+            "reason": "Microwaving can make the topping soggy. Oven reheating restores crispness and warms the filling evenly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using melted butter instead of cold butter.",
+            "why_it_happens": "Some cooks think melted butter is easier or faster to mix in, but this changes the topping’s texture.",
+            "fix": "Always chill your butter and cut it into the dry ingredients quickly. This preserves the crumbly texture and prevents a greasy topping."
+        },
+        {
+            "mistake": "Skipping the thickener in the fruit filling.",
+            "why_it_happens": "People sometimes omit cornstarch or flour, assuming the berries will hold their juices naturally.",
+            "fix": "Add cornstarch or flour to the berries to absorb excess liquid and prevent a watery dessert."
+        },
+        {
+            "mistake": "Overbaking the crumble.",
+            "why_it_happens": "Leaving it too long can dry out the topping and make the berries shriveled.",
+            "fix": "Bake until the topping is golden and the filling bubbles, then remove promptly to keep moisture and texture balanced."
+        },
+        {
+            "mistake": "Not letting the crumble rest before serving.",
+            "why_it_happens": "Impatience to serve can lead to a runny filling that’s hard to plate.",
+            "fix": "Allow the crumble to cool for at least 10 minutes so the juices thicken and the dessert firms up."
+        },
+        {
+            "mistake": "Using frozen berries without thawing.",
+            "why_it_happens": "Frozen berries release extra water when baking, which can make the filling soggy.",
+            "fix": "If using frozen, thaw and drain berries before mixing to reduce excess moisture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mixed Berry Crumble",
+            "description": "Swap half the blueberries for raspberries or blackberries for a more complex berry flavor. The tartness of raspberries pairs beautifully with the sweet oat topping.",
+            "technical_note": "Adjust sugar slightly if using more tart berries to balance sweetness."
+        },
+        {
+            "name": "Apple Blueberry Crumble",
+            "description": "Add diced tart apples to the blueberry mixture for extra texture and sweetness. Apples add a nice contrast and make it a heartier dessert.",
+            "technical_note": "Toss apples with cinnamon and a bit more cornstarch to handle extra moisture."
+        },
+        {
+            "name": "Gluten-Free Blueberry Crumble",
+            "description": "Use gluten-free oats and substitute the all-purpose flour with almond flour or a gluten-free blend. This keeps the topping crumbly and safe for gluten-sensitive eaters.",
+            "technical_note": "Almond flour may brown faster, so watch baking time carefully."
+        },
+        {
+            "name": "Vegan Blueberry Crumble",
+            "description": "Replace butter with chilled coconut oil or vegan butter. The crumble still crisps up nicely and has a subtle coconut flavor that complements the berries.",
+            "technical_note": "Use solid coconut oil chilled to mimic cold butter texture."
+        },
+        {
+            "name": "Spiced Blueberry Crumble",
+            "description": "Add warming spices like nutmeg, ginger, or cloves to the topping and berry filling for a cozy twist perfect for fall or winter.",
+            "technical_note": "Use spices sparingly to avoid overpowering the delicate berry flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "12g",
+        "fiber_grams": "6g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Blueberry crumble can safely sit at room temperature for up to 2 hours if covered loosely with foil or a clean towel to prevent drying out. Beyond that, refrigerate to maintain freshness.",
+        "refrigerator": "Store leftover crumble in an airtight container for up to 3 days. The topping may soften when chilled, so reheat in the oven before serving to restore crispness. It can also be enjoyed cold but the texture will be less crunchy.",
+        "freezer": "Freeze the crumble in a freezer-safe container for up to 2 months. Wrap tightly with plastic wrap and foil to prevent freezer burn. Thaw overnight in the refrigerator before reheating in the oven to maintain texture.",
+        "reheating": "Reheat leftovers in a 300°F oven for 10-15 minutes until warmed through and topping is crisp again. Avoid microwaving as it tends to make the topping soggy. Adding a splash of water or lemon juice before reheating can refresh the filling if it seems dry.",
+        "make_ahead_strategy": "You can prepare the crumble topping and berry filling separately up to 1 day ahead. Keep the topping chilled and berries refrigerated. Assemble just before baking for the freshest texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen blueberries instead of fresh?",
+            "answer": "Yes, but thaw and drain frozen blueberries before using to avoid excess liquid making the crumble soggy. You may also want to reduce added sugar slightly since frozen berries can be sweeter."
+        },
+        {
+            "question": "What can I substitute for cornstarch in the filling?",
+            "answer": "You can use arrowroot powder or tapioca starch as a thickener. If unavailable, a small amount of flour can work, but it may slightly change the texture and clarity of the filling."
+        },
+        {
+            "question": "How do I make the topping extra crunchy?",
+            "answer": "Make sure your butter is very cold and cut into the dry ingredients until pea-sized bits remain. Also, use old-fashioned oats rather than quick oats for better texture. Baking until golden brown is key but watch carefully to avoid burning."
+        },
+        {
+            "question": "Can I make this crumble vegan?",
+            "answer": "Absolutely! Substitute the butter with chilled coconut oil or vegan butter. The texture will be slightly different but still delicious and crumbly."
+        },
+        {
+            "question": "How do I store leftovers to keep the topping crisp?",
+            "answer": "Store leftovers in the refrigerator in an airtight container. To restore crispness, reheat in the oven rather than the microwave before serving."
+        },
+        {
+            "question": "Can I add other fruits to this crumble?",
+            "answer": "Yes, apples, raspberries, or blackberries work well. Just adjust sugar and thickener amounts to account for different moisture levels and sweetness."
+        },
+        {
+            "question": "Why is my crumble topping greasy or dense?",
+            "answer": "This usually happens if the butter was too warm or melted before mixing. Always use cold butter and cut it in quickly to create a light, crumbly texture."
+        },
+        {
+            "question": "Can I prepare this crumble ahead of time?",
+            "answer": "Yes, you can assemble it and refrigerate for up to 24 hours before baking. Add a few extra minutes to baking time if baking from chilled."
+        }
+    ],
+    "conclusion": "I hope you enjoy this classic blueberry crumble as much as my family does. It’s simple, comforting, and always a hit—give it a try and share your cozy moments with it!",
+    "seo": {
+        "primary_keyword": "blueberry crumble recipe",
+        "secondary_keywords": [
+            "easy blueberry crumble",
+            "classic blueberry dessert",
+            "how to make blueberry crumble",
+            "best blueberry crumble recipe",
+            "simple blueberry crumble"
+        ],
+        "internal_links": [
+            {
+                "text": "classic apple crisp recipe",
+                "anchor": "classic-apple-crisp"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5100 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-06-25 23:19:18",
+        "title_seed": "Blueberry Crumble"
+    },
+    "author_id": "author_001",
+    "id": "post_1782429558_195",
+    "slug": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping",
+    "uniqueSlug": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_1.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_1.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_2.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_2.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_3.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_3.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_6.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_6.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_4.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_4.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_9.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_9.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_7.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_7.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_8.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_8.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_5.webp",
+            "filePath": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_5.webp",
+            "relativePath": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "image": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_1.webp",
+    "image_path": "posts/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images/grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping_pinrecipes_image_1.webp",
+    "image_dir": "grandmas-classic-blueberry-crumble-with-a-buttery-oat-topping/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-06-26T00:51:28+01:00",
+    "updatedAt": "2026-06-26T00:51:28+01:00",
+    "has_reel": true
+}
