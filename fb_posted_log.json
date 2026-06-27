@@ -4374,5 +4374,41 @@
         "video_id": "1570830627984164",
         "posted_at": "2026-06-27 01:10:35",
         "scheduled_ts": null
+    },
+    {
+        "slug": "classic-tomato-sandwich-with-mayo-and-fresh-basil-leaves",
+        "photo_id": "122176855604878111",
+        "post_id": "690524007468825_122176855736878111",
+        "comment_id": "122176855736878111_1045249511274158",
+        "posted_at": "2026-06-27 18:49:44",
+        "scheduled_ts": 1783031340,
+        "source": "pipeline_crosspost"
+    },
+    {
+        "slug": "homemade-blueberry-jam-recipe-that-tastes-like-summer-in-a-jar",
+        "photo_id": "122176855640878111",
+        "post_id": "690524007468825_122176855796878111",
+        "comment_id": "122176855796878111_1299919498793161",
+        "posted_at": "2026-06-27 18:49:48",
+        "scheduled_ts": 1783092960,
+        "source": "pipeline_crosspost"
+    },
+    {
+        "slug": "creamy-cucumber-salad-thats-refreshingly-simple-and-perfect-for-summer",
+        "photo_id": "122176855592878111",
+        "post_id": "690524007468825_122176855754878111",
+        "comment_id": "122176855754878111_1710122173553367",
+        "posted_at": "2026-06-27 18:49:56",
+        "scheduled_ts": 1783114800,
+        "source": "pipeline_crosspost"
+    },
+    {
+        "slug": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days",
+        "photo_id": "122176855652878111",
+        "post_id": "690524007468825_122176855748878111",
+        "comment_id": "122176855748878111_1364142659113929",
+        "posted_at": "2026-06-27 18:50:00",
+        "scheduled_ts": 1783173120,
+        "source": "pipeline_crosspost"
     }
 ]
