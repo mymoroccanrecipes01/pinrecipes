@@ -1,0 +1,360 @@
+{
+    "title": "Chicago Style Pizza Recipe: Deep Dish Delight You Can Make at Home",
+    "promptIMG": "Food photography: Chicago Style Pizza, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This deep dish pizza is a hearty, cheesy classic that’s perfect for weekend dinners. The buttery crust and chunky tomato sauce make it stand out. Great for sharing with family or friends!",
+    "hashtags": "#ChicagoPizza #DeepDish #ComfortFood",
+    "board_name": "Pizza Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Your Chicago Style Pizza Crust Turn Out Soggy?",
+            "description": "Ever wondered why your deep dish crust gets soggy? It’s all about layering and baking time. Save this tip and try it today for a perfectly crisp crust! 🍕🔥 #PizzaTips #DeepDishPizza #BakingSecrets"
+        },
+        {
+            "title": "What's the Secret to Perfectly Thick and Cheesy Chicago Pizza?",
+            "description": "The trick lies in the cheese layering and sauce timing. Want that gooey, melty cheese without a soggy base? Discover now and impress your family! 🧀🍅 #ChicagoPizza #CheesyGoodness #HomeBaking"
+        },
+        {
+            "title": "Deep Dish vs Thin Crust — Which One Actually Wins?",
+            "description": "Are you team deep dish or thin crust? Each has its charm but the deep dish is a meal on its own. Save this and try the classic deep dish for a filling dinner! 🍕🍽️ #PizzaLovers #DeepDishVsThinCrust #ComfortFood"
+        },
+        {
+            "title": "Are You Still Making Chicago Pizza the Old-Fashioned Way?",
+            "description": "If you’re skipping the butter in the crust or the layered cheese, you’re missing out. Try this updated method for a richer, tastier pizza. Save it for your next pizza night! 🍕❤️ #PizzaRecipe #ChicagoStyle #CookingTips"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 45,
+    "servings": 6,
+    "ingredients": [
+        "2 1/4 teaspoons active dry yeast",
+        "1 1/2 cups warm water (110°F)",
+        "3 1/4 cups all-purpose flour",
+        "1/2 cup yellow cornmeal",
+        "1 teaspoon sugar",
+        "1 1/2 teaspoons salt",
+        "1/2 cup unsalted butter, melted",
+        "2 cups shredded mozzarella cheese",
+        "1/2 pound Italian sausage, cooked and crumbled",
+        "1 large can (28 ounces) crushed tomatoes",
+        "2 cloves garlic, minced",
+        "1 teaspoon dried oregano",
+        "1/2 teaspoon crushed red pepper flakes (optional)",
+        "1/4 cup grated Parmesan cheese"
+    ],
+    "yield": "One 12-inch deep dish pizza, 6 servings",
+    "introduction": "I first tried making Chicago style deep dish pizza years ago when a friend from the Midwest swore it was the best comfort food ever. I had always thought of pizza as thin and crispy, but this thick, buttery crust filled with layers of cheese and chunky tomato sauce was a game changer. After a few trial runs, I found a method that really works at home without needing a commercial pizza oven. The secret is in the dough — mixing cornmeal into the crust gives it that authentic texture and a little crunch. Also, layering the cheese directly on the dough before adding the sauce keeps the crust from getting soggy. This pizza is perfect for weekend dinners when you want something indulgent and satisfying. It’s a bit of a project but totally worth it. When it comes out golden and bubbling, it’s like a warm hug on a plate. My family loves digging in together, and I think you’ll enjoy making it as much as eating it!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by proofing the yeast in warm water. This step is crucial because it activates the yeast, ensuring your dough rises properly. Use water that’s about 110°F—too hot can kill the yeast, too cold won’t activate it. Stir in the yeast and sugar, then let it sit for 5-10 minutes until it’s foamy. This foam means the yeast is alive and ready to work its magic in the dough.",
+            "timing": "10 minutes",
+            "doneness_cue": "Foamy, bubbly surface on the water-yeast mixture"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the flour, cornmeal, and salt. Slowly add the yeast mixture and melted butter, stirring until a sticky dough forms. Knead the dough on a floured surface for about 8-10 minutes until smooth and elastic. Kneading develops gluten, which gives the crust structure and chewiness. If the dough is too sticky, add a little more flour, but be careful not to add too much or the crust will be tough.",
+            "timing": "15 minutes",
+            "doneness_cue": "Smooth, elastic dough that springs back when poked"
+        },
+        {
+            "step": 3,
+            "instruction": "Place the dough in a lightly oiled bowl, cover with a damp cloth, and let it rise in a warm spot for about 1 to 1.5 hours, or until doubled in size. This rising time allows the yeast to produce carbon dioxide, which lightens the dough and creates that tender crumb. Avoid rushing this step; a slow, steady rise is key to flavor and texture.",
+            "timing": "1 to 1.5 hours",
+            "doneness_cue": "Doubled dough volume, soft and airy"
+        },
+        {
+            "step": 4,
+            "instruction": "Preheat your oven to 425°F. While it heats, butter a 12-inch deep dish pan generously—this helps give the crust its signature rich, flaky edge. Punch down the dough and press it evenly into the pan, pushing it up the sides to create a thick crust wall. The butter in the pan and dough will sizzle and crisp during baking, creating that irresistible texture.",
+            "timing": "10 minutes",
+            "doneness_cue": "Dough pressed evenly with a slight lip around the pan edge"
+        },
+        {
+            "step": 5,
+            "instruction": "Next, layer the shredded mozzarella cheese evenly over the dough. This cheese layer acts as a barrier so the sauce doesn’t soak into the crust, keeping it crisp. It also melts into a gooey, delicious layer that’s pure comfort. Don’t skip this step—it’s what really makes Chicago pizza special.",
+            "timing": "5 minutes",
+            "doneness_cue": "Even layer of cheese covering the dough"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the cooked and crumbled Italian sausage on top of the cheese. You can also add other toppings like sliced mushrooms or peppers here if you like. Make sure the sausage is cooked through beforehand because the pizza won’t bake long enough to cook raw meat safely.",
+            "timing": "5 minutes",
+            "doneness_cue": "Evenly distributed cooked sausage pieces"
+        },
+        {
+            "step": 7,
+            "instruction": "In a bowl, mix the crushed tomatoes with minced garlic, oregano, and red pepper flakes if using. Spread this chunky sauce over the sausage layer, covering it completely. The sauce should be thick and hearty, not watery, to avoid sogginess. The tomato chunks add texture and fresh flavor that balances the rich cheese and meat.",
+            "timing": "5 minutes",
+            "doneness_cue": "Thick sauce evenly spread over toppings"
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle grated Parmesan cheese over the sauce for a sharp, nutty finish. This adds a nice flavor contrast and helps brown the top during baking. It’s a small touch but makes a big difference in taste.",
+            "timing": "2 minutes",
+            "doneness_cue": "Light, even sprinkling of Parmesan on top"
+        },
+        {
+            "step": 9,
+            "instruction": "Bake the pizza in the preheated oven for 35-40 minutes until the crust is golden brown and the sauce is bubbling. Avoid opening the oven too often as this can lower the temperature and affect the crust’s rise and crispness. When done, let it rest for 10 minutes before slicing to let everything set nicely.",
+            "timing": "35-40 minutes",
+            "doneness_cue": "Golden crust edges, bubbling tomato sauce on top"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Chicago Style Pizza Recipe Works",
+        "content": "<p>Chicago style deep dish pizza is unique because of its thick, buttery crust and layered construction. The cornmeal in the dough adds texture and a slight crunch that contrasts beautifully with the soft interior. The butter in both the dough and the pan creates a flaky, biscuit-like crust that’s rich and satisfying. This combination is what sets it apart from other pizza styles.</p><p>The layering technique is crucial: cheese goes directly on the dough, then the meat, followed by the chunky tomato sauce. This prevents the crust from becoming soggy by creating a moisture barrier with the cheese. The sauce itself is thicker and chunkier than typical pizza sauce, which helps it stay on top and maintain texture during baking.</p><p>Yeast fermentation during the dough rise not only leavens the crust but also develops flavor. Slow, proper proofing allows the gluten to relax and the dough to become airy yet sturdy, so it can hold up to the heavy toppings. Baking at a high temperature crisps the edges and melts the cheese perfectly, while the longer bake time ensures the dense pizza cooks through without drying out.</p><p>These elements combined—careful dough preparation, layering order, and baking technique—create the classic Chicago deep dish experience: a hearty, comforting pizza that’s both crispy and tender, rich and fresh.</p>",
+        "ingredient_notes": {
+            "active dry yeast": "Look for fresh yeast with a good expiration date to ensure it activates properly. Yeast is what makes the dough rise by producing carbon dioxide. Using warm water (not hot) is essential to wake the yeast up without killing it. If your yeast doesn’t foam during proofing, it’s likely dead and won’t leaven your dough.",
+            "all-purpose flour": "All-purpose flour provides the right balance of protein to develop gluten for structure and chew. For a chewier crust, bread flour can be used, but all-purpose is more common and easier to work with. Make sure to measure flour correctly to avoid a dense dough—too much flour leads to a tough crust.",
+            "yellow cornmeal": "Cornmeal adds a subtle crunch and a slightly nutty flavor to the crust, mimicking the texture of classic Chicago pizzeria dough. It also helps prevent sticking when pressing the dough into the pan. Use fine or medium grind cornmeal for best results; coarse cornmeal can be gritty.",
+            "unsalted butter": "Butter enriches the dough, giving it a tender crumb and flaky texture. Using unsalted butter lets you control the salt level in the dough. Melted butter added to the dough and used to grease the pan creates that signature crispy, golden crust edge that’s buttery and delicious.",
+            "crushed tomatoes": "Use high-quality canned crushed tomatoes for the sauce—preferably San Marzano or another variety known for sweetness and low acidity. The sauce should be thick and chunky, not watery, to avoid soggy crusts. Fresh garlic and herbs add depth and freshness to the sauce."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature ingredients for better dough consistency.",
+            "reason": "Room temperature water, butter, and eggs (if used) mix more evenly with flour and yeast, creating a smoother dough. Cold ingredients can slow yeast activation and result in uneven texture."
+        },
+        {
+            "tip": "Don’t skip the cheese layer directly on the dough.",
+            "reason": "This barrier prevents the sauce’s moisture from soaking into the crust, keeping it crisp. It also melts into a delicious layer that balances the thick sauce."
+        },
+        {
+            "tip": "Let the dough rise until fully doubled for best flavor and texture.",
+            "reason": "Proper fermentation develops gluten and flavor. Rushing this step leads to a dense, flat crust with less taste."
+        },
+        {
+            "tip": "Use a heavy deep dish pan for even heat distribution.",
+            "reason": "Heavy pans retain heat better, ensuring the crust cooks evenly and crisps up without burning."
+        },
+        {
+            "tip": "Pre-cook any meat toppings before adding them.",
+            "reason": "Deep dish pizzas bake longer but not enough to cook raw meat safely. Pre-cooking ensures safety and even flavor."
+        },
+        {
+            "tip": "Let the pizza rest after baking before slicing.",
+            "reason": "Resting allows the cheese and sauce to set, making slicing cleaner and preventing toppings from sliding off."
+        },
+        {
+            "tip": "Adjust oven rack to the lower middle position.",
+            "reason": "This placement helps the crust brown nicely without burning the top sauce and cheese."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using water that’s too hot for yeast proofing.",
+            "why_it_happens": "Many assume hotter water speeds up yeast activation, but water above 120°F can kill yeast cells.",
+            "fix": "Always use water between 105-110°F for proofing. Use a kitchen thermometer or test with your finger to ensure it’s warm but not hot."
+        },
+        {
+            "mistake": "Skipping the cheese layer under the sauce.",
+            "why_it_happens": "Some think cheese goes on top only, but layering cheese directly on dough is essential for crust texture.",
+            "fix": "Always place mozzarella on the dough before sauce to create a moisture barrier and prevent sogginess."
+        },
+        {
+            "mistake": "Pressing dough too thin in the pan.",
+            "why_it_happens": "Trying to stretch dough too thin leads to tearing and a flimsy crust that won’t hold toppings.",
+            "fix": "Press dough evenly but keep it thick enough (about 1/4 inch) and up the sides to support the pizza weight."
+        },
+        {
+            "mistake": "Using watery tomato sauce.",
+            "why_it_happens": "Using runny sauce or fresh tomatoes without cooking down adds too much moisture.",
+            "fix": "Use thick canned crushed tomatoes or simmer fresh sauce to reduce liquid before using."
+        },
+        {
+            "mistake": "Not letting the dough rise enough.",
+            "why_it_happens": "Impatience or cold environment can shorten rising time, resulting in dense dough.",
+            "fix": "Find a warm spot and allow dough to double in size fully before proceeding."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Deep Dish",
+            "description": "Swap sausage for sautéed mushrooms, bell peppers, and onions. The veggies add sweetness and texture, making a hearty vegetarian option without losing the rich pizza feel.",
+            "technical_note": "Sauté vegetables to remove excess moisture before layering to avoid soggy crust."
+        },
+        {
+            "name": "Spicy Chicago Pizza",
+            "description": "Add sliced jalapeños and a sprinkle of crushed red pepper flakes to the sauce. Use spicy Italian sausage or chorizo for an extra kick. Perfect for those who like heat with their comfort food.",
+            "technical_note": "Balance spicy ingredients with a bit more cheese to mellow the heat."
+        },
+        {
+            "name": "White Deep Dish Pizza",
+            "description": "Skip the tomato sauce and make a garlic cream sauce instead. Layer mozzarella, ricotta, and spinach for a creamy, cheesy alternative that’s still rich and filling.",
+            "technical_note": "Bake until the cream sauce bubbles and the crust is golden for best texture."
+        },
+        {
+            "name": "Classic Pepperoni Deep Dish",
+            "description": "Add a generous layer of pepperoni slices on top of the cheese before the sauce. The pepperoni crisps up beautifully during baking, adding a familiar favorite flavor.",
+            "technical_note": "Use thick-cut pepperoni for better texture and less greasiness."
+        },
+        {
+            "name": "Gluten-Free Deep Dish",
+            "description": "Use a gluten-free flour blend and xanthan gum to mimic dough elasticity. The texture will be slightly different but still satisfying with the classic toppings.",
+            "technical_note": "Let gluten-free dough rest longer to hydrate fully before shaping."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "30g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "25g",
+        "fiber_grams": "3g",
+        "sodium_mg": "850mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep leftover pizza at room temperature for up to 2 hours covered loosely with foil or a clean kitchen towel. Beyond that, refrigerate to prevent spoilage.",
+        "refrigerator": "Store in an airtight container or wrapped tightly in plastic wrap for up to 3 days. The crust may become softer when cold, so reheat before serving to restore crispness.",
+        "freezer": "Wrap slices tightly in plastic wrap and foil to prevent freezer burn. Freeze for up to 2 months. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat slices in a 375°F oven for 10-15 minutes on a baking sheet to crisp the crust. Avoid microwaving as it makes the crust soggy. A splash of water in the oven can help keep toppings moist.",
+        "make_ahead_strategy": "Prepare the dough and sauce up to 2 days ahead. Store dough refrigerated and bring to room temperature before shaping. Assemble pizza the day of baking for best freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular pizza dough instead of cornmeal dough?",
+            "answer": "Yes, but the cornmeal adds a distinctive texture and flavor that’s key to Chicago style. Using regular dough will work but the crust might be softer and less authentic."
+        },
+        {
+            "question": "How do I prevent the crust from being soggy?",
+            "answer": "Layer cheese directly on the dough before adding sauce to create a moisture barrier. Also, use thick sauce and avoid watery toppings to keep the crust crisp."
+        },
+        {
+            "question": "Can I make this pizza in a regular round cake pan?",
+            "answer": "Yes, a heavy-duty 12-inch cake or cast iron pan works well. Just make sure it’s deep enough to hold all the toppings and sauce without spilling."
+        },
+        {
+            "question": "Is it okay to use pre-shredded cheese?",
+            "answer": "Pre-shredded cheese often contains anti-caking agents that can affect melting. For best results, shred fresh mozzarella yourself for a creamier melt."
+        },
+        {
+            "question": "Can I freeze the whole pizza after baking?",
+            "answer": "It’s better to freeze individual slices wrapped tightly. Whole pizzas freeze unevenly and thawing can affect texture. Reheat slices from frozen in the oven for best results."
+        },
+        {
+            "question": "How long does the dough need to rise?",
+            "answer": "Typically 1 to 1.5 hours until doubled in size. If your kitchen is cool, it might take longer. Don’t rush this step for best flavor and texture."
+        },
+        {
+            "question": "What if I don’t have yellow cornmeal?",
+            "answer": "You can substitute with fine polenta or omit it, but cornmeal adds a nice texture and flavor reminiscent of classic Chicago dough."
+        },
+        {
+            "question": "Can I add other toppings like vegetables?",
+            "answer": "Absolutely! Just sauté watery vegetables like mushrooms or peppers first to reduce moisture and prevent soggy crust."
+        }
+    ],
+    "conclusion": "I hope you give this Chicago style pizza recipe a try—it’s a comforting classic that’s fun to make and share. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "Chicago style pizza recipe",
+        "secondary_keywords": [
+            "deep dish pizza recipe",
+            "how to make Chicago pizza",
+            "best Chicago style pizza",
+            "easy deep dish pizza"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade pizza dough recipe",
+                "anchor": "homemade-pizza-dough"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230166_734",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-01 23:11:26",
+        "title_seed": "Chicago Style Pizza Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1782947486_558",
+    "slug": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home",
+    "uniqueSlug": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_1.webp",
+            "filePath": "posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_1.webp",
+            "relativePath": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_2.webp",
+            "filePath": "posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_2.webp",
+            "relativePath": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_3.webp",
+            "filePath": "posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_3.webp",
+            "relativePath": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_9.webp",
+            "filePath": "posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_9.webp",
+            "relativePath": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Your Chicago Style Pizza Crust Turn Out Soggy?"
+        },
+        {
+            "fileName": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_7.webp",
+            "filePath": "posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_7.webp",
+            "relativePath": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Are You Still Making Chicago Pizza the Old-Fashioned Way?"
+        },
+        {
+            "fileName": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_5.webp",
+            "filePath": "posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_5.webp",
+            "relativePath": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "What's the Secret to Perfectly Thick and Cheesy Chicago Pizza?"
+        },
+        {
+            "fileName": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_8.webp",
+            "filePath": "posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_8.webp",
+            "relativePath": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Your Chicago Style Pizza Crust Turn Out Soggy?"
+        },
+        {
+            "fileName": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_4.webp",
+            "filePath": "posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_4.webp",
+            "relativePath": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Your Chicago Style Pizza Crust Turn Out Soggy?"
+        },
+        {
+            "fileName": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_6.webp",
+            "filePath": "posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_6.webp",
+            "relativePath": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "Deep Dish vs Thin Crust — Which One Actually Wins?"
+        }
+    ],
+    "image": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_1.webp",
+    "image_path": "posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_1.webp",
+    "image_dir": "chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-02T00:41:41+01:00",
+    "updatedAt": "2026-07-02T00:41:41+01:00",
+    "has_reel": true
+}
