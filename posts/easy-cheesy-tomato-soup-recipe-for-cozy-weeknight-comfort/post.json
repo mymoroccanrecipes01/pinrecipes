@@ -1,0 +1,358 @@
+{
+    "title": "Easy Cheesy Tomato Soup Recipe for Cozy Weeknight Comfort",
+    "promptIMG": "Food photography: Cheesy Tomato Soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "I love this cheesy tomato soup because it’s creamy without being heavy, and the melted cheese adds a cozy twist. It’s perfect for chilly evenings when you want something simple but satisfying.",
+    "hashtags": "#CheesyTomatoSoup #ComfortFood #EasySoupRecipe",
+    "board_name": "Cozy Soup Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Your Tomato Soup Never Taste This Creamy?",
+            "description": "Struggling to get that perfect creamy texture in your tomato soup? Discover the secret ingredient that changes everything. Save this recipe and try it today! 🍅🧀 #TomatoSoup #CreamySoup #ComfortFood"
+        },
+        {
+            "title": "What's the Secret to Perfectly Cheesy Tomato Soup Every Time?",
+            "description": "Want cheesy tomato soup that’s rich but not greasy? Learn the technique that makes the cheese melt smoothly into the soup. Discover now and warm up your weeknights! 🥄🍲 #CheesySoup #EasyDinner #SoupRecipes"
+        },
+        {
+            "title": "Homemade vs Canned Tomato Soup — Which One Actually Wins?",
+            "description": "Is homemade cheesy tomato soup really better than canned? We break down the taste and texture differences so you can decide. Try this easy homemade version today! 🍅🏠 #HomemadeSoup #TomatoSoup #WeeknightDinner"
+        },
+        {
+            "title": "Are You Still Making Tomato Soup Without Cheese?",
+            "description": "Cheese takes tomato soup to a whole new level. If you haven’t tried it yet, you’re missing out! Save this recipe and elevate your comfort food game tonight. 🧀🔥 #CheesyTomatoSoup #ComfortFood #EasyRecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons unsalted butter",
+        "1 medium onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 (28-ounce) can crushed tomatoes",
+        "2 cups vegetable broth",
+        "1 teaspoon sugar",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "1/2 cup heavy cream",
+        "1 cup shredded sharp cheddar cheese",
+        "Fresh basil leaves for garnish (optional)"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first made this cheesy tomato soup on a chilly fall evening when I wanted something comforting but quick. The trick I learned was adding sharp cheddar cheese right at the end—it melts perfectly and gives the soup a creamy, cozy texture without needing a heavy cream overload. Unlike other tomato soups that can be watery or bland, this one balances tangy tomatoes with the richness of cheese and a touch of sweetness from sugar. I also sauté the onions and garlic slowly to bring out their natural sweetness, which adds depth to the soup’s flavor. When it’s done, the soup is velvety smooth with a hint of sharpness from the cheese and a fresh aroma from basil if you add it. It’s become a family favorite for weeknight dinners, especially when paired with crusty bread. I think you’ll love how easy it is to make and how satisfying it tastes—no fancy ingredients, just simple, familiar flavors done right.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by melting the butter in a large pot over medium heat. Add the finely chopped onion and cook slowly for about 8 minutes until it’s soft and translucent but not browned. This gentle cooking releases the onion’s natural sweetness, which is key to a rich soup base. Stir occasionally to prevent sticking and watch carefully so the onions don’t burn, as burnt onion will add bitterness.",
+            "timing": 8,
+            "doneness_cue": "Onions should be soft, translucent, and slightly glossy without any brown edges."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic to the pot and sauté for about 1 minute until fragrant. Garlic cooks quickly, so keep stirring to avoid burning. Once aromatic, pour in the crushed tomatoes and vegetable broth. Stir in the sugar, salt, and black pepper. Bring the mixture to a simmer, then reduce the heat to low and let it cook gently for 20 minutes. This simmering melds the flavors and thickens the soup slightly.",
+            "timing": 20,
+            "doneness_cue": "Soup should be simmering gently with a slightly thickened texture and rich tomato aroma."
+        },
+        {
+            "step": 3,
+            "instruction": "Remove the pot from heat and use an immersion blender to puree the soup until smooth. If you don’t have one, carefully transfer the soup in batches to a blender. Pureeing creates the velvety texture that makes this soup special. Be cautious when blending hot liquids to avoid splatters.",
+            "timing": 5,
+            "doneness_cue": "Soup is smooth and creamy with no large tomato chunks."
+        },
+        {
+            "step": 4,
+            "instruction": "Return the pureed soup to low heat and stir in the heavy cream. Warm gently but don’t let it boil, or the cream might curdle. This step adds richness and balances the acidity of the tomatoes.",
+            "timing": 3,
+            "doneness_cue": "Soup looks creamy and slightly thickened, with a smooth consistency."
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually add the shredded cheddar cheese, stirring constantly until fully melted and incorporated. Adding cheese slowly helps it melt evenly without clumping. The cheese adds a luscious, cheesy flavor that makes this soup irresistible.",
+            "timing": 4,
+            "doneness_cue": "Soup is thick, creamy, and cheesy with no visible cheese lumps."
+        },
+        {
+            "step": 6,
+            "instruction": "Taste the soup and adjust seasoning with more salt or pepper if needed. If the soup is too thick, thin it with a splash of broth or water until you reach your preferred consistency.",
+            "timing": 2,
+            "doneness_cue": "Balanced flavor with a creamy, rich mouthfeel."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the soup hot, garnished with fresh basil leaves if you like. The fresh herb adds a bright contrast to the rich, cheesy base and makes the soup look inviting.",
+            "timing": 1,
+            "doneness_cue": "Soup is steaming and garnished attractively."
+        },
+        {
+            "step": 8,
+            "instruction": "Pair with crusty bread or grilled cheese sandwiches for a classic comfort meal. This combo is perfect for cold days or anytime you want a cozy, satisfying dinner.",
+            "timing": 0,
+            "doneness_cue": "Ready to enjoy a comforting meal."
+        },
+        {
+            "step": 9,
+            "instruction": "Leftovers can be gently reheated on the stove over low heat, stirring occasionally to keep the cheese from sticking or separating. Avoid high heat to maintain the creamy texture.",
+            "timing": 0,
+            "doneness_cue": "Soup is warmed through and creamy again."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Cheesy Tomato Soup Is So Comforting",
+        "content": "<p>The success of this cheesy tomato soup lies in balancing acidity, creaminess, and depth of flavor. Tomatoes are naturally acidic, which can be sharp or harsh if not balanced. Adding sugar and slow-cooked onions mellows the acidity, creating a mellow, rich base. Simmering the tomatoes with broth concentrates the flavors and slightly thickens the soup, which is essential for a satisfying mouthfeel.</p><p>The use of heavy cream adds lusciousness without overpowering the tomatoes, giving the soup a smooth texture and a subtle sweetness. The cheddar cheese is the star ingredient, providing a sharp, savory note that complements the tomatoes perfectly. Melting the cheese slowly into the warm soup ensures it integrates evenly, avoiding clumps or separation.</p><p>Pureeing the soup creates a velvety texture that feels indulgent but is easy to make at home. The gentle cooking of onions and garlic unlocks their natural sugars and aromas, which deepen the flavor without adding complexity or unusual ingredients. This makes the soup approachable and comforting, perfect for family dinners or a cozy night in.</p><p>Finally, serving with fresh basil adds a layer of brightness and a subtle herbal note that cuts through the richness, rounding out the flavor profile beautifully. Each step works together to create a harmonious and satisfying soup that feels homemade and special.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Look for high-quality unsalted butter with a fresh aroma and creamy texture. Using unsalted butter allows you to control the salt level in the soup. Butter adds richness and helps soften the onions gently without browning too quickly, which is important for a sweet, mellow base.",
+            "crushed tomatoes": "Choose good-quality crushed tomatoes, preferably from a reputable brand or organic if possible. The flavor of the tomatoes is crucial since they’re the soup’s main ingredient. Avoid ones with added herbs or spices to keep control over the final flavor.",
+            "vegetable broth": "Use a low-sodium vegetable broth to manage salt levels. The broth adds depth and a savory background note, making the soup more complex without overpowering the tomato flavor.",
+            "heavy cream": "Heavy cream adds smoothness and richness. Be sure to add it off the boil to prevent curdling. You can substitute with half-and-half for a lighter version, but the soup will be less creamy.",
+            "sharp cheddar cheese": "Sharp cheddar works best for its bold flavor and smooth melting properties. Avoid pre-shredded cheese with anti-caking agents, as these can prevent smooth melting. Grate your own cheese for best results."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Cook onions slowly over medium heat until translucent.",
+            "reason": "Slow cooking releases the natural sugars in onions, creating a sweeter, more flavorful base. Rushing this step or using high heat can cause bitterness or burnt flavors, which will affect the soup’s taste."
+        },
+        {
+            "tip": "Add cheese gradually and stir constantly.",
+            "reason": "Adding cheese slowly helps it melt smoothly into the soup, preventing clumps or separation. Stirring constantly distributes the cheese evenly, creating a creamy texture."
+        },
+        {
+            "tip": "Simmer the soup gently to meld flavors.",
+            "reason": "A gentle simmer allows the tomatoes, broth, and aromatics to develop depth without reducing too much or becoming too acidic. Avoid boiling, which can break down the cream and change the texture."
+        },
+        {
+            "tip": "Use an immersion blender for easy pureeing.",
+            "reason": "Immersion blenders save time and reduce mess by blending directly in the pot. This also helps control the texture more precisely than transferring to a blender."
+        },
+        {
+            "tip": "Season at the end after adding cream and cheese.",
+            "reason": "Salt and pepper levels change as ingredients combine. Seasoning last ensures the soup is perfectly balanced without becoming too salty or bland."
+        },
+        {
+            "tip": "Garnish with fresh basil for brightness.",
+            "reason": "Basil adds a fresh, herbal note that cuts through the soup’s richness, enhancing the overall flavor and presentation."
+        },
+        {
+            "tip": "Serve with warm crusty bread or grilled cheese.",
+            "reason": "These classic pairings complement the soup’s creamy texture and make the meal more satisfying and comforting."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Burning the onions or garlic.",
+            "why_it_happens": "People often cook onions and garlic on too high heat or don’t watch them closely, leading to burnt, bitter flavors.",
+            "fix": "Cook onions slowly over medium heat until translucent and add garlic last, cooking just until fragrant. Stir frequently to prevent sticking or burning."
+        },
+        {
+            "mistake": "Adding cheese too quickly or at high heat.",
+            "why_it_happens": "Rushing the cheese addition or adding it to boiling soup causes clumping or separation.",
+            "fix": "Lower the heat and add cheese gradually while stirring constantly to ensure smooth melting."
+        },
+        {
+            "mistake": "Skipping pureeing the soup.",
+            "why_it_happens": "Some skip blending to save time, but chunky soup lacks the creamy texture that makes this recipe special.",
+            "fix": "Use an immersion blender or regular blender to puree until smooth for the best mouthfeel."
+        },
+        {
+            "mistake": "Over-salting early in the cooking process.",
+            "why_it_happens": "Adding salt before all ingredients are combined can lead to over-seasoning.",
+            "fix": "Wait until after adding cream and cheese to adjust salt and pepper to taste."
+        },
+        {
+            "mistake": "Letting the soup boil after adding cream.",
+            "why_it_happens": "Boiling cream can cause it to curdle and separate, ruining the texture.",
+            "fix": "Heat gently over low heat after adding cream, just until warmed through."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Cheesy Tomato Soup",
+            "description": "Add a pinch of cayenne pepper or red pepper flakes when simmering the soup to give it a gentle kick. This variation adds warmth and complexity without overpowering the cheesy tomato flavor.",
+            "technical_note": "Be careful with spice amounts; start small and adjust to taste to keep balance."
+        },
+        {
+            "name": "Vegan Cheesy Tomato Soup",
+            "description": "Use coconut cream instead of heavy cream and nutritional yeast in place of cheddar cheese for a dairy-free version. It’s creamy and cheesy in a different way but just as satisfying.",
+            "technical_note": "Nutritional yeast melts differently, so add gradually and stir well to avoid clumps."
+        },
+        {
+            "name": "Roasted Tomato and Basil Soup",
+            "description": "Roast fresh tomatoes and garlic before adding to the soup for a deeper, smoky flavor. This adds a rustic note and enhances the natural sweetness of the tomatoes.",
+            "technical_note": "Roasting increases cooking time but intensifies flavor significantly."
+        },
+        {
+            "name": "Chunky Cheesy Tomato Soup",
+            "description": "Skip the pureeing step for a heartier soup with tomato chunks. Add diced fresh tomatoes along with the canned ones for extra texture and freshness.",
+            "technical_note": "Simmer a bit longer to soften the fresh tomatoes adequately."
+        },
+        {
+            "name": "Herbed Cheesy Tomato Soup",
+            "description": "Add fresh thyme or oregano during simmering for an herbal twist. This variation brings a garden-fresh aroma and complements the tomato and cheese beautifully.",
+            "technical_note": "Remove woody herb stems before blending for smooth texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "18g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "30g",
+        "fiber_grams": "3g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The soup can safely sit at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store in an airtight container for up to 3 days. The soup thickens when cold; reheat gently with a splash of broth or water to restore creamy consistency.",
+        "freezer": "Freeze in a sealed container for up to 2 months. To prevent freezer burn, leave a little space at the top for expansion. Thaw overnight in the fridge before reheating.",
+        "reheating": "Warm the soup gently on the stovetop over low heat, stirring often. Add a bit of broth or cream if it’s too thick. Avoid boiling to prevent cheese separation.",
+        "make_ahead_strategy": "You can prepare the soup base (onions, tomatoes, broth) 1-2 days ahead and refrigerate. Add cream and cheese just before reheating to keep the texture fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh tomatoes instead of canned?",
+            "answer": "Yes, but fresh tomatoes require roasting or longer cooking to develop flavor and soften properly. Using canned crushed tomatoes saves time and ensures consistent taste, but fresh tomatoes add a bright, natural flavor if prepared well."
+        },
+        {
+            "question": "What if I don’t have an immersion blender?",
+            "answer": "You can use a regular blender to puree the soup in batches. Just be careful with hot liquids—allow the soup to cool slightly and blend in small amounts to avoid splashing."
+        },
+        {
+            "question": "Can I make this soup dairy-free?",
+            "answer": "Absolutely. Substitute heavy cream with coconut cream or cashew cream, and use nutritional yeast instead of cheddar for a cheesy flavor. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "How do I prevent the cheese from clumping?",
+            "answer": "Add cheese gradually over low heat while stirring constantly. Avoid adding cheese to boiling soup, as high heat causes proteins to seize and clump."
+        },
+        {
+            "question": "Can I freeze this soup after adding cheese?",
+            "answer": "Freezing after adding cheese is possible but may affect texture, causing slight separation. For best results, freeze the soup before adding cheese and stir in fresh cheese when reheating."
+        },
+        {
+            "question": "Is it okay to skip the sugar?",
+            "answer": "Sugar balances tomato acidity and enhances sweetness. You can omit it if you prefer, but the soup may taste tangier. Alternatively, a small pinch of baking soda can also reduce acidity."
+        },
+        {
+            "question": "What bread pairs best with this soup?",
+            "answer": "Crusty artisan bread, sourdough, or classic grilled cheese sandwiches are perfect. The crisp, buttery bread contrasts the creamy soup wonderfully."
+        },
+        {
+            "question": "Can I add other cheeses?",
+            "answer": "Yes, mild cheeses like mozzarella or fontina melt well but won’t add as much sharpness as cheddar. Mixing cheeses can create a unique flavor—just ensure they melt smoothly."
+        }
+    ],
+    "conclusion": "Give this cheesy tomato soup a try for your next cozy dinner. I’d love to hear how it turns out and what your favorite variations are!",
+    "seo": {
+        "primary_keyword": "cheesy tomato soup recipe",
+        "secondary_keywords": [
+            "easy tomato soup recipe",
+            "homemade cheesy tomato soup",
+            "how to make tomato soup with cheese",
+            "best cheesy tomato soup recipe",
+            "easy cheesy tomato soup"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade grilled cheese sandwich",
+                "anchor": "homemade-grilled-cheese-sandwich"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230166_734",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-02 23:09:02",
+        "title_seed": "Cheesy Tomato Soup Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1783033742_702",
+    "slug": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort",
+    "uniqueSlug": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_1.webp",
+            "relativePath": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_2.webp",
+            "relativePath": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_3.webp",
+            "relativePath": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_8.webp",
+            "relativePath": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Your Tomato Soup Never Taste This Creamy?"
+        },
+        {
+            "fileName": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_4.webp",
+            "relativePath": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Your Tomato Soup Never Taste This Creamy?"
+        },
+        {
+            "fileName": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_9.webp",
+            "relativePath": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Your Tomato Soup Never Taste This Creamy?"
+        },
+        {
+            "fileName": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_7.webp",
+            "relativePath": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Are You Still Making Tomato Soup Without Cheese?"
+        },
+        {
+            "fileName": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_6.webp",
+            "relativePath": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "Homemade vs Canned Tomato Soup — Which One Actually Wins?"
+        },
+        {
+            "fileName": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_5.webp",
+            "relativePath": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "What's the Secret to Perfectly Cheesy Tomato Soup Every Time?"
+        }
+    ],
+    "image": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_1.webp",
+    "image_dir": "easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-03T00:36:48+01:00",
+    "updatedAt": "2026-07-03T00:36:48+01:00",
+    "has_reel": true
+}
