@@ -1,0 +1,360 @@
+{
+    "title": "Easy Desserts Recipes That Anyone Can Whip Up in Under 30 Minutes",
+    "promptIMG": "Food photography: Easy Desserts Recipes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "If you’re craving something sweet but don’t want to spend hours in the kitchen, these easy desserts are your new best friend. Simple ingredients, quick prep, and delicious results make them perfect for any day.",
+    "hashtags": "#easydesserts #quickrecipes #familyfriendly",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Do Your Easy Desserts Always Turn Out Dry?",
+            "description": "Struggling with dry desserts? It might be your mixing or baking time. Discover simple tweaks to keep your treats moist and flavorful. Save this for your next baking session! 🍰✨ #bakingtips #dessertfix #moistdesserts"
+        },
+        {
+            "title": "What's the Secret to Perfectly Easy Desserts Every Time?",
+            "description": "Want foolproof desserts without the fuss? The secret lies in ingredient quality and timing. Try these tips to impress your family with minimal effort. Try it today! 🍓👩‍🍳 #dessertsecrets #easyrecipes #homebaking"
+        },
+        {
+            "title": "Baking from Scratch vs Box Mix — Which One Actually Wins?",
+            "description": "Is homemade always better? Let’s compare flavor, texture, and convenience. Find out which method suits your lifestyle best. Discover now! 🍪⚖️ #bakingdebate #homemadevsbox #dessertlove"
+        },
+        {
+            "title": "Are You Still Making Easy Desserts the Old-Fashioned Way?",
+            "description": "Old baking habits can slow you down. Learn modern shortcuts that save time without sacrificing taste. Refresh your dessert game today! 🍮⏰ #bakinghacks #easybaking #dessertideas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "1/2 cup granulated sugar",
+        "1/4 cup unsalted butter, melted",
+        "1/2 cup milk",
+        "1 large egg",
+        "1 teaspoon vanilla extract",
+        "1/2 teaspoon baking powder",
+        "Pinch of salt",
+        "Optional: fresh berries or chocolate chips"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I remember the first time I needed a quick dessert for an unexpected guest — I had almost nothing in the pantry but still wanted to serve something homemade and sweet. That’s when I started experimenting with easy desserts that don’t require fancy ingredients or long prep times. This recipe is my go-to when I want something comforting yet simple. What makes it different is the balance of moistness and flavor, thanks to a little trick with melted butter and just the right amount of vanilla. It’s perfect for when you want a sweet ending without the hassle, and it’s versatile enough to add berries or chocolate chips if you’re feeling fancy. The result is a tender, lightly sweet treat that’s just right for any occasion, whether a casual family dinner or a last-minute celebration. I love how it comes together quickly but still feels like you put in effort, and my family always asks for seconds.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). In a medium bowl, whisk together the flour, sugar, baking powder, and salt. This dry mix forms the base of your dessert, and combining these ingredients well ensures even distribution of leavening agents and sweetness. Avoid overmixing to keep the texture light.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are evenly combined with no lumps."
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, whisk the egg, milk, melted butter, and vanilla extract until smooth. The melted butter adds richness and tenderness, while the vanilla enhances flavor. Mixing these wet ingredients thoroughly helps create a smooth batter that bakes evenly.",
+            "timing": 5,
+            "doneness_cue": "Wet ingredients are fully blended and glossy."
+        },
+        {
+            "step": 3,
+            "instruction": "Gradually pour the wet ingredients into the dry ingredients, stirring gently with a spatula until just combined. Avoid overmixing here to prevent tough desserts. The batter should be slightly lumpy but uniform in color.",
+            "timing": 3,
+            "doneness_cue": "Batter is mixed without streaks of flour or dry spots."
+        },
+        {
+            "step": 4,
+            "instruction": "Fold in optional add-ins like fresh berries or chocolate chips if using. This adds bursts of flavor and texture. Be gentle to avoid breaking berries or melting chocolate prematurely.",
+            "timing": 2,
+            "doneness_cue": "Add-ins are evenly distributed without crushing."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the batter into a greased 8-inch square baking dish, smoothing the top with a spatula for even baking. Proper spreading ensures consistent cooking and a nice crust on top.",
+            "timing": 2,
+            "doneness_cue": "Batter is level and fills the dish evenly."
+        },
+        {
+            "step": 6,
+            "instruction": "Bake in the preheated oven for 15-20 minutes. Check at 15 minutes by inserting a toothpick in the center; it should come out clean or with a few moist crumbs. Overbaking dries the dessert, so watch closely.",
+            "timing": 15,
+            "doneness_cue": "Center is set and toothpick comes out mostly clean."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove from oven and let cool for at least 10 minutes before slicing. Cooling allows the dessert to set and makes cutting easier without crumbling.",
+            "timing": 10,
+            "doneness_cue": "Dessert is firm enough to slice cleanly."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve warm or at room temperature, optionally topped with whipped cream or a dusting of powdered sugar. These finishing touches add a lovely contrast and elevate the simple dessert.",
+            "timing": 2,
+            "doneness_cue": "Dessert looks inviting with optional toppings."
+        },
+        {
+            "step": 9,
+            "instruction": "Store leftovers in an airtight container at room temperature for up to 2 days or refrigerate for up to 4 days. Reheat gently before serving to restore softness.",
+            "timing": 1,
+            "doneness_cue": "Dessert remains moist and fresh when stored properly."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Easy Dessert Recipe Succeeds",
+        "content": "<p>This easy dessert recipe works because it balances simple ingredients with thoughtful technique. The use of melted butter instead of cold butter or oil ensures the batter is moist and tender, which prevents dryness common in quick desserts. Butter also contributes to flavor and browning through the Maillard reaction during baking, giving the dessert a pleasant golden crust.</p><p>The leavening agent, baking powder, is carefully measured to provide just enough rise without causing the dessert to become crumbly or cake-like. The gentle mixing technique avoids developing gluten excessively, which keeps the texture soft rather than chewy or dense.</p><p>Vanilla extract plays a crucial role in enhancing the overall flavor profile, making the dessert taste richer and more complex despite its simplicity. Adding milk provides moisture and helps dissolve the sugar, contributing to a smooth batter that bakes evenly.</p><p>Finally, the baking time is optimized to cook the dessert through while retaining moisture. Checking with a toothpick helps avoid overbaking, which can dry out the final product. These combined factors create a quick, easy dessert that feels homemade and satisfying every time.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "All-purpose flour is ideal for this recipe because it has the right balance of protein to create structure without making the dessert tough. Avoid using bread flour as it has too much gluten, which can lead to a dense texture. For a lighter result, you can sift the flour before measuring to aerate it.",
+            "granulated sugar": "Granulated sugar not only sweetens but also contributes to the texture by dissolving into the wet ingredients, helping to keep the dessert moist. Using fine sugar ensures it blends well. Brown sugar could be substituted for a deeper flavor but might alter moisture levels slightly.",
+            "unsalted butter": "Using unsalted butter lets you control the salt level precisely. Melting the butter before mixing helps incorporate it evenly, adding richness and a tender crumb. Room temperature or cold butter would not blend as smoothly, affecting texture.",
+            "milk": "Milk adds moisture and helps dissolve sugar and flour, creating a smooth batter. Whole milk is preferred for richness, but you can use lower-fat milk with slightly less tender results. Non-dairy milk can be substituted but may affect flavor.",
+            "baking powder": "Baking powder is a chemical leavening agent that releases carbon dioxide when heated, causing the dessert to rise. Using fresh baking powder is important; old or expired powder can result in flat, dense desserts. Measure carefully to avoid overpowering the batter.",
+            "egg": "Eggs provide structure and moisture, binding ingredients together. Using a large egg ensures the right balance of liquid and protein. Overbeating eggs with flour can develop gluten, so mix gently after adding.",
+            "vanilla extract": "Vanilla extract enhances the flavor depth, making the dessert taste more complex. Pure vanilla extract is best, but imitation vanilla works in a pinch. Adding it to wet ingredients helps distribute the flavor evenly.",
+            "salt": "A pinch of salt balances sweetness and enhances other flavors. It also strengthens gluten slightly, contributing to structure. Omitting salt can result in a flat-tasting dessert.",
+            "optional add-ins": "Fresh berries add bursts of juiciness and natural sweetness, while chocolate chips provide rich, melty pockets of flavor. Both should be folded in gently to avoid breaking or melting prematurely."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overmix the batter after adding wet to dry ingredients.",
+            "reason": "Overmixing develops gluten in the flour, which can make your dessert tough or chewy instead of tender and soft. Stir just until you see no dry spots for the best texture."
+        },
+        {
+            "tip": "Use melted butter at just the right temperature, not hot.",
+            "reason": "If the butter is too hot, it can start cooking the egg or cause the batter to separate. Let melted butter cool slightly before mixing to keep the batter smooth and emulsified."
+        },
+        {
+            "tip": "Check your baking powder’s freshness regularly.",
+            "reason": "Expired baking powder won’t produce the rise needed, resulting in dense and heavy desserts. Test it by mixing a small amount with warm water—if it bubbles vigorously, it’s still good."
+        },
+        {
+            "tip": "Grease your baking dish well or use parchment paper.",
+            "reason": "This prevents sticking and helps you remove the dessert cleanly, preserving its shape and texture. It also makes cleanup much easier."
+        },
+        {
+            "tip": "Let the dessert cool before slicing.",
+            "reason": "Cutting too soon can cause crumbling because the structure hasn’t set. A brief cooling period allows the dessert to firm up so slices hold together perfectly."
+        },
+        {
+            "tip": "Add mix-ins last and fold gently.",
+            "reason": "This keeps berries whole and chocolate chips from melting prematurely, ensuring even distribution and better texture contrast in every bite."
+        },
+        {
+            "tip": "Use room temperature eggs and milk.",
+            "reason": "Cold ingredients can cause the batter to curdle or mix unevenly. Bringing them to room temperature helps create a smooth, cohesive batter that bakes uniformly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbaking the dessert",
+            "why_it_happens": "Many home cooks leave the dessert in the oven too long, thinking it will firm up more, but this dries it out quickly.",
+            "fix": "Start checking for doneness at the minimum baking time by inserting a toothpick. Remove it as soon as it comes out clean or with a few moist crumbs to keep the dessert tender."
+        },
+        {
+            "mistake": "Mixing too vigorously after adding flour",
+            "why_it_happens": "It’s tempting to get a perfectly smooth batter, but overmixing develops gluten, making the dessert tough.",
+            "fix": "Mix gently and only until the ingredients are just combined. A few lumps are okay and will disappear during baking."
+        },
+        {
+            "mistake": "Using cold melted butter",
+            "why_it_happens": "If butter is too cool or solidifies, it won’t blend properly with other wet ingredients, causing uneven texture.",
+            "fix": "Melt the butter and let it cool slightly so it’s warm but still liquid before adding to the batter."
+        },
+        {
+            "mistake": "Skipping the salt",
+            "why_it_happens": "Some cooks omit salt when focusing on sweetness, but salt is essential for balancing flavors.",
+            "fix": "Always add a pinch of salt to enhance the overall taste and prevent the dessert from tasting flat."
+        },
+        {
+            "mistake": "Not greasing the pan well",
+            "why_it_happens": "Desserts stick if the baking dish isn’t properly prepared, making serving frustrating.",
+            "fix": "Use butter or non-stick spray liberally, or line with parchment paper for easy removal."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Berry Burst Easy Dessert",
+            "description": "Add a cup of fresh or frozen berries to the batter for a fruity twist. The berries add moisture and natural sweetness, making the dessert feel lighter and more refreshing. You can also swirl in a spoonful of jam for extra flavor.",
+            "technical_note": "Fold berries in gently to avoid crushing. If using frozen, do not thaw to prevent excess moisture."
+        },
+        {
+            "name": "Chocolate Chip Easy Dessert",
+            "description": "Stir in half a cup of chocolate chips for a classic favorite. The chocolate melts into pockets of gooey sweetness, complementing the tender crumb perfectly. Great for kids and chocolate lovers alike.",
+            "technical_note": "Use semi-sweet or milk chocolate chips for best melting behavior."
+        },
+        {
+            "name": "Lemon Zest and Poppy Seed",
+            "description": "Add a teaspoon of lemon zest and a tablespoon of poppy seeds to brighten the flavor. This version is fresh and slightly tangy, ideal for spring or summer gatherings.",
+            "technical_note": "Zest the lemon finely to avoid bitter pith. Mix poppy seeds thoroughly for even distribution."
+        },
+        {
+            "name": "Peanut Butter Swirl",
+            "description": "Drop spoonfuls of creamy peanut butter on top of the batter and swirl gently before baking. This adds a rich, nutty flavor and a creamy texture contrast that’s irresistible.",
+            "technical_note": "Don’t over-swirl to keep distinct peanut butter pockets."
+        },
+        {
+            "name": "Spiced Cinnamon Easy Dessert",
+            "description": "Mix a teaspoon of ground cinnamon and a pinch of nutmeg into the dry ingredients for a warm, cozy flavor. Perfect for chilly evenings or holiday treats.",
+            "technical_note": "Adjust spices to taste; too much cinnamon can overpower."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "10g",
+        "fiber_grams": "1g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dessert can safely sit at room temperature for up to 2 hours when covered loosely with foil or plastic wrap. Beyond that, moisture loss and bacterial growth become concerns, so it’s best to refrigerate if not eaten promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The dessert may firm up and lose a bit of its fresh-baked softness but remains tasty. Reheat gently in the microwave or oven to restore warmth and softness.",
+        "freezer": "Freeze portions wrapped tightly in plastic wrap and foil for up to 2 months. To prevent freezer burn, ensure no air pockets remain. Thaw overnight in the refrigerator and warm gently before serving to regain texture.",
+        "reheating": "Reheat in a microwave for 20-30 seconds or in a 300°F oven for 10 minutes. Adding a small splash of milk or butter before reheating can help restore moisture. Avoid overheating, which dries it out.",
+        "make_ahead_strategy": "You can mix the batter a day ahead and keep it refrigerated in a sealed container. Bring to room temperature before baking. Alternatively, bake the dessert fully and store as described, reheating before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute oil for butter in this recipe?",
+            "answer": "Yes, you can use vegetable or canola oil instead of melted butter for a slightly lighter texture. However, butter adds flavor and richness that oil can’t fully replicate. If you substitute, use about 3/4 the amount of butter called for."
+        },
+        {
+            "question": "What if I don’t have baking powder?",
+            "answer": "Baking powder is important for leavening here. If you only have baking soda, you’ll need to add an acid like lemon juice or vinegar to activate it. For this recipe, it’s best to use baking powder to ensure proper rise and texture."
+        },
+        {
+            "question": "How do I know when the dessert is done baking?",
+            "answer": "Start checking at 15 minutes by inserting a toothpick in the center. If it comes out clean or with a few moist crumbs, it’s done. If it’s wet batter, it needs more time. Avoid overbaking to keep it moist."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, substitute the all-purpose flour with a gluten-free blend that includes xanthan gum or another binder. The texture may be slightly different but still delicious. Be sure to check the blend’s instructions for best results."
+        },
+        {
+            "question": "Is it okay to use frozen berries?",
+            "answer": "Frozen berries work well but add them directly to the batter without thawing to prevent excess moisture. This helps keep the dessert from becoming soggy."
+        },
+        {
+            "question": "Can I double the recipe?",
+            "answer": "Absolutely! Just double the ingredients and bake in a larger pan, adjusting baking time as needed. Check for doneness with a toothpick starting at the original bake time."
+        },
+        {
+            "question": "What’s the best way to store leftovers?",
+            "answer": "Keep leftovers in an airtight container in the refrigerator for up to 4 days. For longer storage, freeze portions wrapped tightly. Reheat gently before serving."
+        },
+        {
+            "question": "Can I add nuts to this dessert?",
+            "answer": "Yes, chopped nuts like walnuts or pecans add great texture and flavor. Fold them in with any other add-ins just before baking."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this easy dessert as much as my family does. It’s a simple treat that always feels special. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "easy desserts recipes",
+        "secondary_keywords": [
+            "quick easy desserts",
+            "simple homemade desserts",
+            "how to make easy desserts",
+            "best easy dessert recipe",
+            "easy desserts for family"
+        ],
+        "internal_links": [
+            {
+                "text": "quick weeknight dinners",
+                "anchor": "quick-weeknight-dinners"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-06 23:03:09",
+        "title_seed": "Easy Desserts Recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1783378989_979",
+    "slug": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes",
+    "uniqueSlug": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_1.webp",
+            "relativePath": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_2.webp",
+            "relativePath": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_3.webp",
+            "relativePath": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_7.webp",
+            "relativePath": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Are You Still Making Easy Desserts the Old-Fashioned Way?"
+        },
+        {
+            "fileName": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_8.webp",
+            "relativePath": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Do Your Easy Desserts Always Turn Out Dry?"
+        },
+        {
+            "fileName": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_4.webp",
+            "relativePath": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Do Your Easy Desserts Always Turn Out Dry?"
+        },
+        {
+            "fileName": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_5.webp",
+            "relativePath": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "What's the Secret to Perfectly Easy Desserts Every Time?"
+        },
+        {
+            "fileName": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_6.webp",
+            "relativePath": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "Baking from Scratch vs Box Mix — Which One Actually Wins?"
+        },
+        {
+            "fileName": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_9.webp",
+            "relativePath": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Do Your Easy Desserts Always Turn Out Dry?"
+        }
+    ],
+    "image": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images/easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes_pinrecipes_image_1.webp",
+    "image_dir": "easy-desserts-recipes-that-anyone-can-whip-up-in-under-30-minutes/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-07T00:36:06+01:00",
+    "updatedAt": "2026-07-07T00:36:06+01:00",
+    "has_reel": true
+}
