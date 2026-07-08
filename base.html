@@ -1,14 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F3RYK4L76B"></script>
+    <!-- Google tag (gtag.js) — chargé seulement pour les vrais visiteurs :
+         bots (user-agent) et prefetch Meta/Chrome (page cachée) ne sont pas comptés -->
     <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-F3RYK4L76B');
+    (function () {
+        var ua = navigator.userAgent || '';
+        if (navigator.webdriver || /googlebot|bingbot|bingpreview|yandex|baiduspider|duckduckbot|slurp|facebookexternalhit|meta-externalagent|pinterestbot|applebot|petalbot|ahrefsbot|semrushbot|mj12bot|dotbot|bytespider|gptbot|ccbot|claudebot|headlesschrome|lighthouse|crawler|spider|\bbot\b/i.test(ua)) return;
+        var fired = false;
+        function loadGA() {
+            if (fired) return;
+            fired = true;
+            var s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://www.googletagmanager.com/gtag/js?id=G-F3RYK4L76B';
+            document.head.appendChild(s);
+            gtag('js', new Date());
+            gtag('config', 'G-F3RYK4L76B');
+        }
+        if (document.visibilityState === 'hidden') {
+            // Prefetch (app Facebook, Chrome…) : page chargée en arrière-plan —
+            // attendre que le visiteur l'ouvre vraiment avant de compter la visite
+            document.addEventListener('visibilitychange', function () {
+                if (document.visibilityState !== 'hidden') loadGA();
+            });
+        } else {
+            loadGA();
+        }
+    })();
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

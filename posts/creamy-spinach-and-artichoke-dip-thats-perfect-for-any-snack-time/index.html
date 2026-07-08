@@ -270,13 +270,32 @@
     <link rel="stylesheet" href="../../style.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F3RYK4L76B"></script>
+    <!-- Google tag (gtag.js) — bots + prefetch exclus -->
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-F3RYK4L76B');
+      (function () {
+        var ua = navigator.userAgent || '';
+        if (navigator.webdriver || /googlebot|bingbot|bingpreview|yandex|baiduspider|duckduckbot|slurp|facebookexternalhit|meta-externalagent|pinterestbot|applebot|petalbot|ahrefsbot|semrushbot|mj12bot|dotbot|bytespider|gptbot|ccbot|claudebot|headlesschrome|lighthouse|crawler|spider|\bbot\b/i.test(ua)) return;
+        var fired = false;
+        function loadGA() {
+          if (fired) return;
+          fired = true;
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-F3RYK4L76B';
+          document.head.appendChild(s);
+          gtag('js', new Date());
+          gtag('config', 'G-F3RYK4L76B');
+        }
+        if (document.visibilityState === 'hidden') {
+          document.addEventListener('visibilitychange', function () {
+            if (document.visibilityState !== 'hidden') loadGA();
+          });
+        } else {
+          loadGA();
+        }
+      })();
     </script>
     <script>
       window.dataLayer = window.dataLayer || [];
