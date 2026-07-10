@@ -1,0 +1,358 @@
+{
+    "title": "One Pot Cook Recipe: Easy, Flavorful Dinner in Under 45 Minutes",
+    "promptIMG": "Food photography: One Pot Cook Recipe, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "I love this one pot cook recipe because it’s super simple and cuts down on cleanup. The secret is layering flavors with garlic and herbs, making it perfect for busy weeknights when you want a wholesome meal fast.",
+    "hashtags": "#onepotmeal #easyweeknightdinner #familydinner",
+    "board_name": "Quick Weeknight Meals",
+    "pin_variations": [
+        {
+            "title": "Why Do Your One Pot Meals Always Turn Out Bland?",
+            "description": "Struggling with flavorless one pot dinners? Discover how layering spices and timing ingredients can transform your meals. Save this for your next cooking session! 🍲✨ #onepotmeals #cookinghacks #easyrecipes"
+        },
+        {
+            "title": "What's the Secret to Perfectly Cooked One Pot Meals?",
+            "description": "Want that perfect balance of tender veggies and juicy meat in one pot? The timing and heat control are everything. Try it today and taste the difference! 🍴🔥 #onepotrecipe #weeknightdinner #comfortfood"
+        },
+        {
+            "title": "One Pot Cooking vs Traditional Multi-Pot Meals — Which One Actually Wins?",
+            "description": "Is one pot cooking really better than the classic multi-pot approach? Let’s break down the pros and cons so you can decide. Discover now and simplify your kitchen! 🍛👌 #onepotvsmultipot #easymeals #familydinner"
+        },
+        {
+            "title": "Are You Still Making One Pot Meals the Old-Fashioned Way?",
+            "description": "If you’re using the same old method for one pot recipes, you might be missing out on flavor and ease. Learn new tricks to upgrade your dinner game. Save this for your next meal! 🍽️💡 #onepotdinner #mealprep #easycooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 medium onion, diced",
+        "3 cloves garlic, minced",
+        "1 pound boneless chicken thighs, cut into chunks",
+        "2 cups chicken broth",
+        "1 cup diced tomatoes (canned or fresh)",
+        "1 cup long grain rice, rinsed",
+        "1 cup mixed vegetables (carrots, peas, bell peppers)",
+        "1 teaspoon dried oregano",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first tried this one pot cook recipe on a hectic weeknight when I wanted something quick but satisfying. What makes this version stand out is the simple layering of ingredients right in the pot, which means you get deep flavors without fuss. I learned that sautéing the onion and garlic first builds a great base, and adding the rice and broth all at once lets everything cook evenly without stirring constantly. The result is a tender, juicy chicken with perfectly cooked rice and veggies all in one pot—no extra pans to wash, which is a big win in my book. Plus, it’s flexible enough to swap in whatever veggies you have on hand. I love serving this when I want a cozy, homemade meal that doesn’t take hours but still feels special.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil over medium heat in a large pot or deep skillet. Add the diced onion and cook, stirring occasionally, until it’s translucent and soft, about 5 minutes. This step is crucial because it releases the onion’s natural sweetness and forms the flavor base. Avoid rushing this part or turning the heat too high, as burning the onion will add bitterness instead of depth.",
+            "timing": 5,
+            "doneness_cue": "Onions are soft, translucent, and slightly golden around the edges"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic and cook for about 1 minute until fragrant, stirring constantly to prevent burning. Garlic cooks quickly and can become bitter if overcooked, so watch it closely. This step infuses the oil with flavor, which carries through the entire dish.",
+            "timing": 1,
+            "doneness_cue": "Garlic aroma fills the kitchen, and garlic pieces look lightly golden"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the chicken chunks to the pot, seasoning with salt, pepper, and oregano. Cook for about 5-7 minutes, stirring occasionally, until the chicken is lightly browned but not fully cooked through. Browning the chicken adds a rich, savory flavor through the Maillard reaction, which deepens the dish’s taste.",
+            "timing": 7,
+            "doneness_cue": "Chicken is golden on the outside but still slightly pink inside"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the chicken broth and diced tomatoes, scraping the bottom of the pot to loosen any browned bits. These bits add extra flavor, so don’t skip this step. Bring the mixture to a gentle boil before adding the rice.",
+            "timing": 3,
+            "doneness_cue": "Liquid is simmering with visible bubbles"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the rinsed rice and stir to combine, making sure the rice is evenly distributed. This ensures even cooking and prevents clumping. Avoid stirring too much once the rice starts cooking to keep it fluffy.",
+            "timing": 1,
+            "doneness_cue": "Rice is submerged and evenly spread throughout the liquid"
+        },
+        {
+            "step": 6,
+            "instruction": "Reduce heat to low, cover the pot, and let everything simmer gently for 15 minutes. Resist the urge to lift the lid or stir, as this lets steam cook the rice properly. If you rush this step, the rice might turn mushy or undercooked.",
+            "timing": 15,
+            "doneness_cue": "Rice has absorbed most of the liquid and is tender"
+        },
+        {
+            "step": 7,
+            "instruction": "Add the mixed vegetables on top, cover again, and cook for another 5-7 minutes until the vegetables are tender but still vibrant. Adding veggies later prevents them from overcooking and losing texture and color.",
+            "timing": 7,
+            "doneness_cue": "Vegetables are bright in color and fork-tender"
+        },
+        {
+            "step": 8,
+            "instruction": "Turn off the heat and let the pot sit covered for 5 minutes. This resting period allows the flavors to meld and the rice to finish steaming, making the dish more cohesive and flavorful.",
+            "timing": 5,
+            "doneness_cue": "Steam escapes when lid is lifted, and dish smells aromatic"
+        },
+        {
+            "step": 9,
+            "instruction": "Fluff the rice gently with a fork, garnish with fresh parsley, and serve warm. Fluffing separates the grains and prevents clumping, giving a light texture. Enjoy your easy, comforting one pot meal!",
+            "timing": 2,
+            "doneness_cue": "Rice grains are separated and fluffy, dish looks colorful"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One Pot Cook Recipe Succeeds",
+        "content": "<p>This recipe succeeds because it carefully balances layering flavors and cooking times to maximize taste and texture. Starting with sautéed onions and garlic builds a rich flavor base through caramelization and the release of aromatic oils. This step is essential to avoid a flat taste in the final dish.</p><p>The chicken browns next, triggering the Maillard reaction, which creates complex savory notes and a beautiful golden color. Browning also seals in juices, keeping the meat tender during simmering. Adding broth and tomatoes introduces acidity and moisture, which helps tenderize the rice and chicken while contributing a subtle tang.</p><p>Cooking the rice submerged in liquid allows it to absorb flavors evenly while steaming gently under a lid. Avoiding stirring during this phase prevents the rice from becoming gummy. Adding vegetables towards the end preserves their texture and bright color, creating a pleasing contrast to the soft rice and chicken.</p><p>Finally, letting the dish rest off the heat lets residual steam finish cooking and melds flavors together, resulting in a harmonious, comforting meal that’s easy to make and clean up after.</p>",
+        "ingredient_notes": {
+            "olive oil": "Choose extra virgin olive oil for its robust flavor and health benefits. It acts as a medium to sauté aromatics and helps distribute flavors evenly. Avoid using oils with low smoke points here, as the moderate heat preserves the oil’s delicate taste.",
+            "chicken thighs": "Boneless, skinless chicken thighs are perfect because they stay juicy and tender even with longer cooking. They have more fat than breasts, which adds richness. If substituting with breasts, watch cooking time to avoid drying out.",
+            "rice": "Long grain rice is preferred for its ability to stay fluffy and separate rather than sticky. Rinsing the rice before cooking removes excess starch, preventing clumping. Avoid instant or pre-cooked rice, as it won’t absorb flavors properly.",
+            "chicken broth": "Use a good quality low-sodium broth to control salt levels and add depth. Broth provides moisture and savory notes that water alone can’t. Homemade broth is ideal but store-bought works fine if you choose wisely.",
+            "diced tomatoes": "Canned diced tomatoes add acidity and sweetness, balancing the richness of chicken and broth. Fresh tomatoes can be used but may require longer cooking to break down. Avoid tomato sauces here as they can alter texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Sauté onions and garlic slowly over medium heat.",
+            "reason": "Slow cooking releases sugars in onions, creating natural sweetness and depth. High heat can burn them, making the dish bitter and unbalanced."
+        },
+        {
+            "tip": "Brown the chicken before adding liquid.",
+            "reason": "Browning triggers complex flavor development through the Maillard reaction, enhancing the savory profile and locking in juices for tender meat."
+        },
+        {
+            "tip": "Rinse rice thoroughly before cooking.",
+            "reason": "Rinsing removes excess surface starch that causes rice to clump or become gummy, ensuring fluffy, separate grains."
+        },
+        {
+            "tip": "Add vegetables towards the end of cooking.",
+            "reason": "This preserves their texture and color, avoiding mushy or dull veggies that can make the dish less appealing."
+        },
+        {
+            "tip": "Let the dish rest off heat before serving.",
+            "reason": "Resting allows steam to finish cooking the rice evenly and lets flavors meld, resulting in a more harmonious taste."
+        },
+        {
+            "tip": "Use low-sodium broth to control seasoning.",
+            "reason": "Broth varies in salt content; starting low lets you adjust seasoning at the end, preventing an overly salty dish."
+        },
+        {
+            "tip": "Avoid stirring rice while it cooks.",
+            "reason": "Stirring releases starch, making rice sticky and clumpy instead of light and fluffy."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the browning step for chicken.",
+            "why_it_happens": "Many assume cooking through is enough and rush to add liquid, missing out on flavor development.",
+            "fix": "Take time to brown chicken pieces until golden. This adds savory depth and seals juices, improving texture and taste."
+        },
+        {
+            "mistake": "Not rinsing rice before cooking.",
+            "why_it_happens": "People often overlook this step or think it’s unnecessary, leading to sticky rice.",
+            "fix": "Rinse rice under cold water until water runs clear to remove starch and ensure fluffy grains."
+        },
+        {
+            "mistake": "Lifting the lid during simmering.",
+            "why_it_happens": "Impatience or curiosity leads to lifting the lid, letting steam escape and affecting cooking.",
+            "fix": "Keep the lid closed to trap steam and cook rice evenly. Wait until recommended time before checking."
+        },
+        {
+            "mistake": "Overcooking vegetables by adding them too early.",
+            "why_it_happens": "Adding veggies with rice can make them mushy and dull in color.",
+            "fix": "Add vegetables in the last 5-7 minutes to keep them tender-crisp and vibrant."
+        },
+        {
+            "mistake": "Using chicken breasts without adjusting cooking time.",
+            "why_it_happens": "Breasts cook faster and dry out if cooked too long like thighs.",
+            "fix": "If using breasts, reduce simmer time and check doneness frequently to keep moist."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian One Pot Cook",
+            "description": "Swap chicken for firm tofu or chickpeas and use vegetable broth instead. Add hearty veggies like mushrooms and zucchini for a filling plant-based meal with similar comforting flavors.",
+            "technical_note": "Cooking time may be slightly shorter; check tofu texture or chickpea softness to avoid overcooking."
+        },
+        {
+            "name": "Spicy One Pot Cook",
+            "description": "Add red pepper flakes or diced jalapeños when sautéing onions for a kick. Finish with a squeeze of lime to brighten the flavors and balance heat.",
+            "technical_note": "Adjust spice level to taste; be cautious not to overpower milder ingredients."
+        },
+        {
+            "name": "Creamy One Pot Cook",
+            "description": "Stir in 1/4 cup heavy cream or coconut milk at the end for a richer, creamier texture that adds indulgence without extra steps.",
+            "technical_note": "Add cream off heat to prevent curdling and maintain smoothness."
+        },
+        {
+            "name": "Herb-Infused One Pot Cook",
+            "description": "Use fresh herbs like thyme, rosemary, or basil added during cooking for a fragrant, garden-fresh flavor boost that elevates the dish.",
+            "technical_note": "Add delicate herbs like basil at the end to preserve aroma; sturdier herbs can go in early."
+        },
+        {
+            "name": "One Pot Cook with Quinoa",
+            "description": "Replace rice with quinoa for a protein-packed twist. Quinoa cooks faster, so reduce simmer time accordingly and add extra broth if needed.",
+            "technical_note": "Rinse quinoa well to remove bitterness; monitor liquid absorption closely."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit covered at room temperature for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate promptly. Keep covered to avoid drying out.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The flavors meld further but rice may firm up. Reheat gently to restore moisture, adding a splash of broth or water if needed.",
+        "freezer": "Freeze in a sealed container for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in fridge before reheating to maintain texture.",
+        "reheating": "Reheat on stovetop over low heat or in microwave. Add a splash of broth or water to loosen rice and cover to trap steam. Avoid overheating which can dry out chicken and veggies.",
+        "make_ahead_strategy": "You can prep and sauté onions, garlic, and chicken a day ahead and refrigerate. Assemble and cook rice and broth mixture on the day of serving for freshest texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use brown rice instead of white rice?",
+            "answer": "Yes, but brown rice takes longer to cook and requires more liquid. Increase simmer time by about 20 minutes and add extra broth to ensure it cooks fully without drying out."
+        },
+        {
+            "question": "What if I don’t have chicken broth?",
+            "answer": "You can substitute with water, but the flavor will be less rich. Add extra seasoning like herbs or a bouillon cube to compensate."
+        },
+        {
+            "question": "Can I make this recipe in a slow cooker?",
+            "answer": "Yes, but timing and liquid amounts need adjustment. Slow cookers don’t evaporate liquid as much, so reduce broth slightly and cook on low for 3-4 hours."
+        },
+        {
+            "question": "How do I keep the rice from sticking to the pot?",
+            "answer": "Use a heavy-bottomed pot and stir briefly when adding rice. Avoid stirring while cooking to prevent starch release. Also, make sure there is enough liquid to cover the rice."
+        },
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, but breasts cook faster and can dry out. Add them later in the cooking process and monitor closely to keep them juicy."
+        },
+        {
+            "question": "Is it okay to add frozen vegetables?",
+            "answer": "Absolutely. Add frozen veggies in the last 5-7 minutes of cooking to thaw and heat through without overcooking."
+        },
+        {
+            "question": "Can I double this recipe for a larger crowd?",
+            "answer": "Yes, but cooking time may increase slightly. Use a larger pot and ensure liquid covers the rice and chicken evenly for consistent cooking."
+        },
+        {
+            "question": "What herbs work best in this recipe?",
+            "answer": "Dried oregano is classic, but thyme, rosemary, or parsley also complement the flavors well. Add delicate herbs at the end to preserve freshness."
+        }
+    ],
+    "conclusion": "Give this one pot cook recipe a try—it’s a simple, tasty way to get dinner on the table with minimal fuss. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "one pot cook recipe",
+        "secondary_keywords": [
+            "easy one pot meals",
+            "quick one pot dinner",
+            "how to make one pot cook recipe",
+            "best one pot cook recipe",
+            "easy one pot cook recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight dinner ideas",
+                "anchor": "easy-weeknight-dinner-ideas"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230383_494",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-10 23:09:51",
+        "title_seed": "One Pot Cook Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1783724991_278",
+    "slug": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes",
+    "uniqueSlug": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_4.webp",
+            "filePath": "posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_4.webp",
+            "relativePath": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Do Your One Pot Meals Always Turn Out Bland?"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_7.webp",
+            "filePath": "posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_7.webp",
+            "relativePath": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Are You Still Making One Pot Meals the Old-Fashioned Way?"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_9.webp",
+            "filePath": "posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_9.webp",
+            "relativePath": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Do Your One Pot Meals Always Turn Out Bland?"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_6.webp",
+            "filePath": "posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_6.webp",
+            "relativePath": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "One Pot Cooking vs Traditional Multi-Pot Meals — Which One Actually Wins?"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_8.webp",
+            "filePath": "posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_8.webp",
+            "relativePath": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Do Your One Pot Meals Always Turn Out Bland?"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_5.webp",
+            "filePath": "posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_5.webp",
+            "relativePath": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "What's the Secret to Perfectly Cooked One Pot Meals?"
+        }
+    ],
+    "image": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_1.webp",
+    "image_path": "posts/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images/one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes_pinrecipes_image_1.webp",
+    "image_dir": "one-pot-cook-recipe-easy-flavorful-dinner-in-under-45-minutes/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-11T00:22:49+01:00",
+    "updatedAt": "2026-07-11T00:22:49+01:00",
+    "has_reel": true
+}
