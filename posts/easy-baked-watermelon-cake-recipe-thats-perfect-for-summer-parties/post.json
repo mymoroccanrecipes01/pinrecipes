@@ -290,6 +290,54 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_4.webp",
+            "relativePath": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Your Watermelon Cake Turn Out Watery Every Time?"
+        },
+        {
+            "fileName": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_9.webp",
+            "relativePath": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Your Watermelon Cake Turn Out Watery Every Time?"
+        },
+        {
+            "fileName": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_6.webp",
+            "relativePath": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "Roasting vs Grilling Watermelon Cake — Which One Actually Wins?"
+        },
+        {
+            "fileName": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_7.webp",
+            "relativePath": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Are You Still Making Watermelon Cake the Old-Fashioned Way?"
+        },
+        {
+            "fileName": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_8.webp",
+            "relativePath": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Your Watermelon Cake Turn Out Watery Every Time?"
+        },
+        {
+            "fileName": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_5.webp",
+            "relativePath": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images/easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "What's the Secret to Perfectly Baked Watermelon Cake?"
         }
     ],
     "image": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties_pinrecipes_image_1.webp",
@@ -297,6 +345,7 @@
     "image_dir": "easy-baked-watermelon-cake-recipe-thats-perfect-for-summer-parties/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-07-11T23:12:21+00:00",
-    "updatedAt": "2026-07-11T23:12:21+00:00"
+    "createdAt": "2026-07-13T00:33:04+01:00",
+    "updatedAt": "2026-07-13T00:33:04+01:00",
+    "has_reel": true
 }
