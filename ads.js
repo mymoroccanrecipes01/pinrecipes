@@ -75,7 +75,7 @@
                 label.style.display = '';
                 obs.disconnect();
             } else if (status === 'unfilled') {
-                // container.style.display = 'none';
+                container.style.display = 'none';
                 obs.disconnect();
             }
         }).observe(adIns, { attributes: true, attributeFilter: ['data-ad-status'] });
