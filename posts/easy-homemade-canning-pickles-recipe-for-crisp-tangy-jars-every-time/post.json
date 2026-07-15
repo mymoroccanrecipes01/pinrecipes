@@ -1,0 +1,368 @@
+{
+    "title": "Easy Homemade Canning Pickles Recipe for Crisp, Tangy Jars Every Time",
+    "promptIMG": "Food photography: canning pickles, glass jars filled with bright green pickles, speckled with dill and garlic cloves, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "A close-up hero shot of freshly canned pickles in clear glass Mason jars, showcasing vibrant green cucumber slices with visible dill sprigs, garlic cloves, and mustard seeds suspended in a clear, slightly cloudy brine. The jar fills 80% of the frame, sitting on a rustic wooden countertop with a soft folded linen napkin blurred in the background. The natural daylight from a nearby window highlights the glossy, crisp texture of the pickles, emphasizing their freshness. Shot by a home food blogger for her personal recipe blog in a real home kitchen — it must look like a REAL photo, never a commercial ad or AI render. Light: one window only, soft but DIRECTIONAL daylight with gentle contrast, cozy moody food-blog style; corners of the frame fall darker; the dish is the brightest, most colorful point. Colors: true-to-life but RICH — deep, appetizing, real contrast; never washed-out, pale, hazy or flat; no HDR, no glow, no studio gloss. Fine natural grain. Required imperfections: uneven edges, a few crumbs, a small smudge, a casually placed napkin — perfect = fake. Vertical 2:3 ratio. STRICT NEGATIVE: no washed-out colors, no pale flat image, no hazy overexposed highlights, no oversaturation, no HDR, no studio lighting, no editorial styling, no marble, no steam, no smoke, no text, no watermark, no CGI look, no plastic textures, no over-smoothing, no deformed hands, no extra fingers, no advertising aesthetic.",
+        "img2": "An intimate action shot showing a realistic adult hand reaching from the side to unscrew the metal lid of a Mason jar filled with homemade canned pickles. The jar reveals the interior with tightly packed cucumber slices, dill sprigs, and whole garlic cloves in a clear brine with mustard seeds floating. The focus is locked on the hand and the jar's opening, showcasing the crisp texture of the pickles and the glossy surface of the brine. The jar sits on a worn wooden cutting board with scattered dill leaves and a garlic clove out of focus in the background. Shot by a home food blogger for her personal recipe blog in a real home kitchen — it must look like a REAL photo, never a commercial ad or AI render. Light: one window only, soft but DIRECTIONAL daylight with gentle contrast, cozy moody food-blog style; corners of the frame fall darker; the dish is the brightest, most colorful point. Colors: true-to-life but RICH — deep, appetizing, real contrast; never washed-out, pale, hazy or flat; no HDR, no glow, no studio gloss. Fine natural grain. Required imperfections: uneven edges, a few crumbs, a small smudge, a casually placed napkin — perfect = fake. Vertical 2:3 ratio. STRICT NEGATIVE: no washed-out colors, no pale flat image, no hazy overexposed highlights, no oversaturation, no HDR, no studio lighting, no editorial styling, no marble, no steam, no smoke, no text, no watermark, no CGI look, no plastic textures, no over-smoothing, no deformed hands, no extra fingers, no advertising aesthetic.",
+        "img3": "A cozy table scene featuring two open Mason jars of homemade canned pickles placed on a vintage wooden kitchen table with a small bowl of coarse sea salt and a rustic bread loaf partially sliced beside them. The pickles inside the jars are bright green cucumber spears with dill sprigs and garlic cloves visible through the clear brine. The jars and accompaniments fill about 70% of the frame. The background softly blurs a window frame and a potted herb plant, adding a warm homey atmosphere. Shot by a home food blogger for her personal recipe blog in a real home kitchen — it must look like a REAL photo, never a commercial ad or AI render. Light: one window only, soft but DIRECTIONAL daylight with gentle contrast, cozy moody food-blog style; corners of the frame fall darker; the dish is the brightest, most colorful point. Colors: true-to-life but RICH — deep, appetizing, real contrast; never washed-out, pale, hazy or flat; no HDR, no glow, no studio gloss. Fine natural grain. Required imperfections: uneven edges, a few crumbs, a small smudge, a casually placed napkin — perfect = fake. Vertical 2:3 ratio. STRICT NEGATIVE: no washed-out colors, no pale flat image, no hazy overexposed highlights, no oversaturation, no HDR, no studio lighting, no editorial styling, no marble, no steam, no smoke, no text, no watermark, no CGI look, no plastic textures, no over-smoothing, no deformed hands, no extra fingers, no advertising aesthetic."
+    },
+    "description": "This easy homemade canning pickles recipe yields crisp, tangy jars perfect for snacking or gifting. Using a simple brine and fresh dill gives them that classic bright flavor. Great for summer harvest or anytime you want a crunchy treat!",
+    "hashtags": "#canningpickles #homemadepickles #easyrecipe",
+    "board_name": "Easy Vegetable Side Dishes",
+    "pin_variations": [
+        {
+            "title": "Why Does Homemade Canning Pickles Taste Better Than Store-Bought?",
+            "description": "Discover the secret behind the fresh, tangy crunch of homemade pickles that store shelves can't match. Learn how simple ingredients transform into a delicious snack! Save this for dinner inspo. #canningpickles #homemade #pickles"
+        },
+        {
+            "title": "The One Trick That Makes Canning Pickles Perfectly Crisp Every Time",
+            "description": "I’ll share the foolproof tip that keeps your pickles crunchy and flavorful, no soggy jars here! This trick will change your canning game. Tap to get the full recipe. #crispypickles #homemade #canning"
+        },
+        {
+            "title": "Quick and Easy Homemade Canning Pickles for Busy Cooks",
+            "description": "Pressed for time? This quick canning pickles recipe is simple, fast, and yields delicious crunchy results. Perfect for busy weeknights or last-minute gifts! Save it now. #easyrecipe #pickles #canning"
+        },
+        {
+            "title": "Still Buying Pickles? Try This Homemade Canning Recipe Instead",
+            "description": "Skip the store and make your own tangy, crunchy pickles with this easy canning recipe. Your family will love the fresh flavor and you’ll love how simple it is. Tap for details! #homemadepickles #canning #familyfriendly"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "6 cups fresh cucumbers, sliced into spears",
+        "4 cups water",
+        "2 cups white vinegar (5% acidity)",
+        "1/4 cup pickling salt",
+        "4 cloves garlic, peeled",
+        "4 sprigs fresh dill",
+        "2 tablespoons mustard seeds",
+        "1 tablespoon black peppercorns"
+    ],
+    "yield": "Approximately 8 pints of canned pickles",
+    "introduction": "I first tried canning pickles when I had a bumper crop of cucumbers from my garden and wanted a way to preserve that fresh summer crunch all year long. Over the years, I’ve tweaked the brine to balance tangy vinegar with just enough salt and spices to bring out the best flavor without overpowering the cucumbers. What sets my recipe apart is a simple trick: soaking the cucumbers in ice water before packing them into jars. This step keeps them extra crisp even after canning. Plus, I always add fresh garlic cloves and dill sprigs for that authentic homemade taste. The finished pickles are bright green with a satisfying snap, perfect for sandwiches, snacking, or gifting to friends. It’s a cozy kitchen project that brings a little nostalgia and a lot of flavor to your pantry. I love that this recipe is straightforward enough for beginners but yields results that impress even seasoned canners. If you’ve never canned before, don’t worry — I’ll walk you through every step so you get those perfect crunchy pickles you’ll want to make again and again.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing your cucumbers thoroughly to remove any dirt or debris. Then slice them into spears about 3-4 inches long. Place the cut cucumbers in a large bowl filled with ice water and let them soak for at least 2 hours. This soaking step is crucial because it firms up the cucumbers, helping them stay crisp through the canning process. Avoid skipping this as it prevents soggy pickles later on. After soaking, drain the cucumbers well and pat them dry with a clean towel to remove excess moisture.",
+            "timing": "2 hours soaking",
+            "doneness_cue": "Cucumbers feel firm and cold to the touch, with no excess water dripping"
+        },
+        {
+            "step": 2,
+            "instruction": "While the cucumbers soak, prepare your canning jars by washing them in hot soapy water and sterilizing them in boiling water for 10 minutes. Keep the jars hot until ready to fill to prevent cracking when adding hot brine. Also, prepare lids according to manufacturer instructions. This step ensures your jars are clean and safe for preserving, reducing the risk of spoilage. If jars cool too much before filling, they may crack during processing.",
+            "timing": "10 minutes sterilizing",
+            "doneness_cue": "Jars are visibly clean, steaming hot, and ready to fill"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large saucepan, combine the water, white vinegar, and pickling salt. Bring the mixture to a boil, stirring until the salt dissolves completely. This hot brine is what preserves the cucumbers and infuses them with flavor. Be sure not to rush dissolving the salt as undissolved salt can cause uneven flavor and texture. Once boiling, reduce heat to keep the brine hot but not boiling while you pack the jars.",
+            "timing": "5-7 minutes",
+            "doneness_cue": "Clear brine with no visible salt granules, gently steaming"
+        },
+        {
+            "step": 4,
+            "instruction": "Pack the sterilized jars tightly with cucumber spears, leaving about 1/2 inch headspace at the top. Add one garlic clove, one dill sprig, 1/2 tablespoon mustard seeds, and a few black peppercorns into each jar. Packing the cucumbers tightly helps prevent floating during canning and ensures even brining. The aromatics add classic pickle flavor. Leave enough headspace so the brine can circulate properly and prevent jar breakage.",
+            "timing": "10 minutes",
+            "doneness_cue": "Jars filled firmly but not overly packed; aromatics visible among cucumbers"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the hot brine over the packed cucumbers in each jar, covering the cucumbers completely and maintaining the 1/2 inch headspace. Use a non-metallic utensil to remove any air bubbles by gently sliding it along the jar sides. Air bubbles can cause spoilage or uneven pickling if not released. Wipe the rims of the jars clean with a damp cloth to ensure a good seal.",
+            "timing": "5 minutes",
+            "doneness_cue": "Brine covers cucumbers fully with no bubbles trapped, jar rims spotless"
+        },
+        {
+            "step": 6,
+            "instruction": "Place the sterilized lids on the jars and screw on the metal bands just until fingertip tight. Avoid over-tightening as air needs to escape during processing. This step is important to create a vacuum seal after canning. If too tight, jars may crack or lids won’t seal properly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Lids are snug but can be twisted slightly without resistance"
+        },
+        {
+            "step": 7,
+            "instruction": "Process the jars in a boiling water bath canner for 10 minutes, ensuring the water covers the jars by at least 1 inch. This heat processing kills any bacteria and creates a vacuum seal. Timing is essential—too short risks spoilage, too long softens the pickles. Keep water boiling steadily throughout the process.",
+            "timing": "10 minutes boiling",
+            "doneness_cue": "Jars remain submerged, water boiling steadily, no jar movement"
+        },
+        {
+            "step": 8,
+            "instruction": "Carefully remove the jars from the water bath using jar lifters and place them on a towel or wooden surface to cool undisturbed for 12-24 hours. As they cool, you’ll hear the satisfying pop of lids sealing. Do not retighten lids or disturb jars during this time to ensure proper vacuum formation.",
+            "timing": "12-24 hours cooling",
+            "doneness_cue": "Lids are concave and do not flex when pressed"
+        },
+        {
+            "step": 9,
+            "instruction": "Once cooled, check each jar for a proper seal by pressing the center of the lid. If it doesn’t pop back, the jar is sealed. Label your jars with the date and store them in a cool, dark place. Let pickles cure for at least 1 week before opening to develop full flavor. Refrigerate after opening and enjoy your crunchy homemade pickles!",
+            "timing": "1 week curing minimum",
+            "doneness_cue": "Firm sealed lids and jars stored away from light and heat"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Pickling Method Creates Perfect Crunch and Flavor",
+        "content": "<p>The key to crisp pickles lies in the initial soaking of cucumbers in ice water, which helps maintain their cellular structure by hydrating the cells and preventing them from becoming limp during the canning process. This step is essential because cucumbers naturally lose firmness when exposed to heat and brine, but the cold soak counteracts that effect.</p><p>The brine’s balance of vinegar, water, and pickling salt is carefully calibrated to preserve the cucumbers safely while allowing the natural cucumber flavor to shine. Vinegar’s acidity prevents harmful bacteria growth, while the salt enhances flavor and draws out excess moisture, concentrating the texture. Using pickling salt instead of table salt avoids additives that can cloud the brine or cause off-flavors.</p><p>Adding aromatics like fresh dill, garlic, mustard seeds, and peppercorns infuses the pickles with classic flavors without overpowering the vegetable’s natural brightness. The hot water bath method heats the jars enough to kill microbes and create a vacuum seal, which locks in freshness and prevents spoilage. Proper headspace and air bubble removal ensure even brining and jar integrity.</p><p>Finally, curing the pickles for at least a week allows the flavors to meld and the texture to stabilize, resulting in that satisfying crunch and tangy bite that homemade pickles are known for. This recipe combines tried-and-true techniques with small but impactful steps to guarantee delicious, crisp canned pickles every time.</p>",
+        "ingredient_notes": {
+            "fresh cucumbers": "Choose firm, freshly harvested cucumbers, preferably pickling varieties like Kirby cucumbers, which have thinner skins and fewer seeds. Avoid cucumbers that are soft, yellowing, or have blemishes, as they won’t produce crisp pickles. The freshness and firmness directly affect the texture of the finished pickles.",
+            "white vinegar": "Use distilled white vinegar with 5% acidity for safe preservation and a clean, bright flavor. Avoid flavored or malt vinegars which can alter the taste and acidity level. The acidity level is critical to prevent bacterial growth during canning.",
+            "pickling salt": "Pickling salt is pure granulated salt without additives like iodine or anti-caking agents, which can cloud the brine or cause discoloration. It dissolves cleanly and enhances the pickle flavor without bitterness. If unavailable, kosher salt can be a substitute but adjust quantities.",
+            "fresh dill": "Fresh dill sprigs add that signature aromatic flavor to pickles. Use fresh over dried for best potency and brightness. Dill seeds or dill flowers can also be used but fresh sprigs provide the best visual appeal and flavor infusion.",
+            "garlic cloves": "Whole peeled garlic cloves add a subtle pungency and depth of flavor. Use fresh garlic for best results, avoiding pre-minced or jarred varieties which can be too strong or mushy. Garlic also has natural antimicrobial properties that complement the pickling process."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Soak cucumbers in ice water for at least 2 hours before canning.",
+            "reason": "This step hydrates the cucumbers and maintains cell rigidity, which helps them stay crisp during the heat of canning. Without this, pickles often turn soft or mushy."
+        },
+        {
+            "tip": "Use pickling salt instead of table salt.",
+            "reason": "Pickling salt dissolves cleanly without additives that can cloud the brine or impart off-flavors. It ensures a clear brine and pure pickle taste."
+        },
+        {
+            "tip": "Remove air bubbles from jars before sealing.",
+            "reason": "Trapped air can cause uneven pickling and increase spoilage risk. Using a non-metallic spatula to gently release bubbles ensures even brine coverage and proper preservation."
+        },
+        {
+            "tip": "Do not over-tighten lids before processing.",
+            "reason": "Lids need to vent air during boiling water bath canning. Over-tightening can cause jars to crack or prevent proper vacuum sealing."
+        },
+        {
+            "tip": "Process jars in a boiling water bath for exactly 10 minutes.",
+            "reason": "This time kills harmful bacteria and ensures safe preservation. Less time risks spoilage; more time can soften pickles."
+        },
+        {
+            "tip": "Let pickles cure for at least a week before eating.",
+            "reason": "Curing allows flavors to meld and the texture to set properly, resulting in that classic tangy crunch everyone loves."
+        },
+        {
+            "tip": "Store sealed jars in a cool, dark place.",
+            "reason": "Heat and light can degrade pickle flavor and color. A pantry or cellar keeps them fresh longer."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the ice water soak",
+            "why_it_happens": "Many cooks want to save time and assume soaking isn’t necessary, but this step is often overlooked.",
+            "fix": "Always soak cucumbers in ice water for at least 2 hours before canning. This hydrates the cells and prevents soft, soggy pickles."
+        },
+        {
+            "mistake": "Using regular table salt",
+            "why_it_happens": "Table salt is common and readily available, so some use it without realizing it affects brine clarity and flavor.",
+            "fix": "Use pickling salt or kosher salt instead. These dissolve cleanly and avoid cloudiness or off tastes."
+        },
+        {
+            "mistake": "Over-tightening jar lids before processing",
+            "why_it_happens": "People often tighten lids fully to prevent leaks, but this traps air and can cause jars to crack or not seal.",
+            "fix": "Screw lids on fingertip tight only before processing, allowing air to escape during boiling."
+        },
+        {
+            "mistake": "Not removing air bubbles",
+            "why_it_happens": "Rushing the packing step can leave trapped air, causing uneven pickling or spoilage.",
+            "fix": "Use a non-metallic utensil to gently release air bubbles after filling jars with brine."
+        },
+        {
+            "mistake": "Processing jars for too short or too long",
+            "why_it_happens": "Impatience or misreading recipes leads to incorrect processing time, risking safety or texture.",
+            "fix": "Follow the recommended 10 minutes boiling water bath exactly for safe preservation and crisp texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Dill Pickles",
+            "description": "Add 1-2 sliced jalapeños or a pinch of red pepper flakes to each jar before packing for a spicy kick. The heat pairs beautifully with the tangy brine and fresh dill for those who love a little fire in their pickles.",
+            "technical_note": "Spicy peppers can soften faster; pack jars tightly and process as usual to maintain texture."
+        },
+        {
+            "name": "Bread and Butter Pickles",
+            "description": "Use thinly sliced cucumbers and add sliced onions plus a bit of sugar to the brine for a sweet-and-sour flavor classic. This variation yields sweeter pickles with a tender crunch.",
+            "technical_note": "Sugar in the brine requires careful balancing to avoid fermentation; follow sugar quantities precisely."
+        },
+        {
+            "name": "Garlic Herb Pickles",
+            "description": "Enhance the flavor by adding fresh thyme, rosemary, or bay leaves along with the dill and garlic. These herbs add complexity and a fragrant aroma to your pickles.",
+            "technical_note": "Fresh herbs lose potency over time; add extra sprigs to jars for more flavor."
+        },
+        {
+            "name": "Quick Refrigerator Pickles",
+            "description": "Skip the canning process and store the prepared pickles in jars in the refrigerator. They’re ready to eat in 24-48 hours and keep for up to 2 weeks refrigerated.",
+            "technical_note": "Refrigerator pickles won’t last as long as canned ones but are faster to make and maintain crunch."
+        },
+        {
+            "name": "Sweet and Spicy Pickles",
+            "description": "Combine sugar and chili flakes in the brine for a sweet heat balance. This variation is perfect for those who want a little more flavor complexity and works great as a snack or condiment.",
+            "technical_note": "Adjust sugar and chili levels to taste; processing time remains the same."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "15 kcal",
+        "protein_grams": "0.5g",
+        "carbohydrates_grams": "3g",
+        "fat_grams": "0g",
+        "fiber_grams": "1g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Once canned and sealed, pickles can be safely stored at room temperature in a cool, dark pantry for up to 1 year. Keep jars away from direct sunlight and heat sources to maintain quality.",
+        "refrigerator": "After opening, store pickles in the refrigerator in their brine. They will stay fresh for up to 1 month but may soften slightly over time. Refrigeration preserves flavor and texture best once opened.",
+        "freezer": "Freezing is not recommended for canned pickles as it damages texture and can cause jars to break. Instead, make refrigerator pickles for short-term storage.",
+        "reheating": "Pickles are best served cold or at room temperature. No reheating is necessary. If you want to warm them slightly, do so gently but avoid heat which will soften the crunch.",
+        "make_ahead_strategy": "Prepare and can pickles up to several months ahead. Store sealed jars in a cool pantry and open when ready to enjoy. The flavor improves with time, so making them weeks in advance is ideal."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular cucumbers instead of pickling cucumbers?",
+            "answer": "You can, but pickling cucumbers like Kirby varieties are firmer and have fewer seeds, resulting in crisper pickles. Regular slicing cucumbers have more water and seeds, which can make pickles softer and less crunchy."
+        },
+        {
+            "question": "How long do canned pickles last?",
+            "answer": "Properly canned pickles can last up to one year when stored in a cool, dark pantry. After opening, consume within 1 month refrigerated for best flavor and texture."
+        },
+        {
+            "question": "Why are my pickles soft after canning?",
+            "answer": "Soft pickles often result from skipping the ice water soak, overripe cucumbers, or over-processing. Always soak cucumbers in ice water before canning and use firm, fresh cucumbers. Follow processing times carefully."
+        },
+        {
+            "question": "Do I need to boil the brine before pouring it over cucumbers?",
+            "answer": "Yes, boiling the brine dissolves the salt and helps sterilize it, which is essential for safe preservation and proper flavor infusion."
+        },
+        {
+            "question": "Can I add other spices to the pickles?",
+            "answer": "Absolutely! Mustard seeds, peppercorns, dill, garlic, and even red pepper flakes are common additions. Just be sure not to overcrowd the jars to maintain proper brine circulation."
+        },
+        {
+            "question": "What if my jars don’t seal after processing?",
+            "answer": "If a jar doesn’t seal, refrigerate it and use those pickles first. You can also reprocess the jar with a new lid within 24 hours to try sealing again."
+        },
+        {
+            "question": "Can I use apple cider vinegar instead of white vinegar?",
+            "answer": "Apple cider vinegar has a different flavor and acidity level. It can be used but may alter the taste and color. Ensure it has at least 5% acidity for safe canning."
+        },
+        {
+            "question": "Is it necessary to remove air bubbles before sealing?",
+            "answer": "Yes, removing air bubbles prevents pockets that can cause spoilage and ensures the brine covers all cucumbers evenly."
+        },
+        {
+            "question": "Can I make these pickles without canning?",
+            "answer": "Yes, you can make refrigerator pickles by skipping the boiling water bath. They’re ready faster but must be kept refrigerated and consumed within a couple of weeks."
+        },
+        {
+            "question": "Why is pickling salt preferred over regular salt?",
+            "answer": "Pickling salt dissolves cleanly without additives that can cloud the brine or affect flavor. It’s best for clear, crisp pickles."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing these homemade canned pickles as much as my family does. They’re simple, satisfying, and a true taste of summer you can keep all year. Happy pickling!",
+    "seo": {
+        "primary_keyword": "canning pickles",
+        "secondary_keywords": [
+            "homemade pickles recipe",
+            "easy canning pickles",
+            "how to make pickles",
+            "best pickling recipe",
+            "crisp canned pickles"
+        ],
+        "internal_links": [
+            {
+                "text": "basic water bath canning techniques",
+                "anchor": "water-bath-canning-basics"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "category_id": "cat_1761230221_583",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-15 13:39:54",
+        "title_seed": "Canning Pickles"
+    },
+    "author_id": "author_001",
+    "id": "post_1784122794_860",
+    "slug": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time",
+    "uniqueSlug": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_6.webp",
+            "relativePath": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "Quick and Easy Homemade Canning Pickles for Busy Cooks"
+        },
+        {
+            "fileName": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_4.webp",
+            "relativePath": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Homemade Canning Pickles Taste Better Than Store-Bought?"
+        },
+        {
+            "fileName": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_8.webp",
+            "relativePath": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Homemade Canning Pickles Taste Better Than Store-Bought?"
+        },
+        {
+            "fileName": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_7.webp",
+            "relativePath": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Buying Pickles? Try This Homemade Canning Recipe Instead"
+        },
+        {
+            "fileName": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_9.webp",
+            "relativePath": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Homemade Canning Pickles Taste Better Than Store-Bought?"
+        },
+        {
+            "fileName": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_5.webp",
+            "relativePath": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Canning Pickles Perfectly Crisp Every Time"
+        }
+    ],
+    "image": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images/easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time_pinrecipes_image_1.webp",
+    "image_dir": "easy-homemade-canning-pickles-recipe-for-crisp-tangy-jars-every-time/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-15T15:06:08+01:00",
+    "updatedAt": "2026-07-15T15:06:08+01:00",
+    "has_reel": true
+}
