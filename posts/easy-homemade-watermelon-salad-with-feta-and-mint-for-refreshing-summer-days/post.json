@@ -1,0 +1,52 @@
+{
+    "title": "Easy Homemade Watermelon Salad with Feta and Mint for Refreshing Summer Days",
+    "promptIMG": "Food photography: Watermelon Salad with Feta and Mint, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "Create an ultra-photorealistic hero photograph of a vibrant watermelon salad served in a rustic white ceramic bowl filled to the brim with juicy bright pink watermelon cubes, crumbled creamy white feta cheese, and fresh green mint leaves sprinkled on top. The salad glistens with a light drizzle of golden olive oil and tiny droplets of lime juice, highlighting the freshness. Photographed at a tight 35-degree angle, macro style, with a warm golden-amber tone that enhances the saturated colors. The watermelon cubes show their juicy texture with one piece slightly cut open revealing the moist interior. The background is softly blurred warm wood, emphasizing the vivid colors of the salad. Full-frame DSLR, 100mm macro lens at f/2.2, razor-sharp focus on the salad’s center. Vertical 2:3. No text, watermark, or logos.",
+        "img2": "Create an ultra-photorealistic close-up action photograph of a hand gently lifting a forkful of the watermelon salad from the bowl. The fork holds a perfect bite: a juicy watermelon cube, a crumb of feta cheese, and a fresh mint leaf. The juicy watermelon glistens with moisture, droplets of lime juice shimmer on the surface, and the feta shows crumbly texture. The hand enters naturally from the side with the wrist and forearm visible, adding a human touch. The rest of the salad fills the frame behind the action, rich in color with glossy highlights. Deep golden-amber warm color grading with glowing, highly saturated tones. Full-frame DSLR, 100mm macro lens at f/2.2, razor-sharp focus on the forkful. Vertical 2:3. No text or logos.",
+        "img3": "Create an ultra-photorealistic serving photograph of the watermelon salad in the rustic white ceramic bowl placed on a light wooden table. Beside the bowl, a small glass pitcher of fresh lime dressing and a scattering of whole mint leaves provide authentic accompaniments. The salad is overflowing with juicy watermelon cubes, creamy feta, and bright mint leaves, with a drizzle of olive oil visible. One piece is cut open to reveal the moist interior of the watermelon. The composition is tight, filling 90% of the frame with the food and accompaniments, with soft blurred hints of a kitchen environment at the edges. Warm golden-amber tones and glossy, saturated colors. Full-frame DSLR, 85mm lens at f/2.8, shallow depth of field. Vertical 2:3. No text or watermark."
+    },
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-15 23:58:51",
+        "title_seed": "Watermelon Recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1784159931_920",
+    "slug": "easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days",
+    "uniqueSlug": "easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days/images/easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days/images/easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days/images/easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days/images/easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days/images/easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days/images/easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days/images/easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days_pinrecipes_image_1.webp",
+    "image_dir": "easy-homemade-watermelon-salad-with-feta-and-mint-for-refreshing-summer-days/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-15T23:58:51+00:00",
+    "updatedAt": "2026-07-15T23:58:51+00:00"
+}

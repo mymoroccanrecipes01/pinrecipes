@@ -1,0 +1,364 @@
+{
+    "title": "Easy Homemade Peach Bread with Fresh Peaches and Warm Spices",
+    "promptIMG": "Food photography: Peach Bread, thick golden slices with visible peach chunks and cinnamon specks, served on a rustic wooden board, natural morning light streaming through a kitchen window, close-up macro shot showing moist crumb and soft texture, warm tones, cozy kitchen setting --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "Create an ultra-photorealistic hero photograph of the finished Peach Bread in a rustic ceramic loaf pan, sliced thickly and stacked slightly off-center to show moist crumb and juicy peach chunks glistening under warm natural light. The bread's golden crust is caramelized with cinnamon sugar specks, and a few fresh peach slices lay casually beside the loaf. The frame is tightly cropped, filling 95% of the image with the bread and its crumb, with a soft blurred warm wooden kitchen background. Shot at a 35-degree angle with a 100mm macro lens at f/2.2, the focus is razor sharp on the crumb and peach pieces, with glossy highlights on the juicy fruit and crust edges. No text or props, just the inviting bread and natural shadows.",
+        "img2": "Create an ultra-photorealistic close-up action photograph of Peach Bread being sliced by a natural adult hand entering from the side, wrist and forearm visible, cutting a thick slice from the loaf. The indulgent moment captures the soft, moist crumb with juicy peach pieces exposed, steam-free but visibly tender and fresh. The crust shows a golden caramelized texture with cinnamon sugar glistening under warm kitchen light. The background is a soft creamy bokeh with hints of a wooden board and peach slices. The tight crop fills 95% of the frame with the bread and hand, shot with a 100mm macro lens at f/2.2, hyper-vivid warm tones, no text or distractions.",
+        "img3": "Create an ultra-photorealistic serving photograph of Peach Bread presented as generous thick slices stacked on a rustic wooden board, accompanied by a small bowl of whipped honey butter and a few fresh peach wedges. One slice is slightly pulled forward, showing the moist crumb and juicy peach chunks inside. The warm golden crust glistens with cinnamon sugar. The composition fills 90-95% of the frame with the bread and accompaniments, soft blurred kitchen environment hints at edges. Shot with an 85mm lens at f/2.8, shallow depth of field, warm saturated tones, every surface glistens naturally with no text or watermarks."
+    },
+    "description": "This peach bread is the perfect sweet treat that feels like summer in every bite. It’s packed with fresh peaches and warm spices for a cozy, moist loaf. Great for breakfast or a comforting afternoon snack!",
+    "hashtags": "#PeachBread #EasyBaking #HomemadeBread",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Homemade Peach Bread Taste So Much Better Than Store-Bought?",
+            "description": "There’s something magical about fresh peaches baked right into bread that store-bought versions just can’t match. The secret? Using ripe peaches and warming spices that fill your kitchen with cozy aromas. Save this for your next baking day! 🍑 #PeachBread #HomemadeGoodness #EasyBaking"
+        },
+        {
+            "title": "The One Trick That Makes Peach Bread Moist and Flavorful Every Time",
+            "description": "Want peach bread that’s bursting with juicy fruit and never dry? The trick is folding in fresh peaches gently and adding a touch of cinnamon for warmth. It’s foolproof and perfect for beginners. Tap to get the full recipe! 🍞 #PeachBread #MoistBread #BakingTips"
+        },
+        {
+            "title": "30-Minute Peach Bread Recipe for Busy Mornings and Sweet Cravings",
+            "description": "Short on time but craving something homemade? This peach bread comes together quickly with simple ingredients and fresh fruit. It’s a sweet, tender loaf that’s perfect for breakfast or snack time. Save it for your next quick bake! 🍑 #QuickBread #PeachRecipes #EasyBaking"
+        },
+        {
+            "title": "Homemade Peach Bread vs Muffins: Which Is Better for Breakfast?",
+            "description": "Both peach bread and muffins are delicious, but this bread offers a moist, tender crumb and a cozy spice flavor that muffins sometimes miss. It’s easy to slice and share, making it a family favorite. Try it and see which one wins your heart! 🍞 #PeachBread #BreakfastIdeas #HomemadeBaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 45,
+    "servings": 8,
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1/2 cup unsalted butter, softened",
+        "3/4 cup granulated sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/2 cup sour cream",
+        "1 1/2 cups fresh peaches, peeled and diced"
+    ],
+    "yield": "One 9x5 inch loaf, about 8 servings",
+    "introduction": "I first baked this peach bread on a warm summer afternoon when my backyard peach tree was overflowing with ripe fruit. I wanted a simple way to use those juicy peaches beyond just eating them fresh, and this bread quickly became a family favorite. What sets this recipe apart is the balance of fresh peaches folded gently into a spiced batter that stays moist and tender without being too dense. I use sour cream to add richness and keep the crumb soft, plus a blend of cinnamon and nutmeg to enhance the peach flavor without overpowering it. Over the years, I’ve tweaked the baking time to get a golden crust that’s just sweet enough with a hint of caramelized sugar. The result is a loaf that’s perfect for breakfast, an afternoon snack, or even a light dessert with a smear of honey butter. It’s a cozy, comforting treat that feels both nostalgic and fresh, and I love how easy it is to make with everyday ingredients. If you’ve got peaches to use up, this bread is definitely worth a try!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x5 inch loaf pan with butter or nonstick spray. This step ensures the bread doesn’t stick and forms a nice crust. Make sure your oven is fully preheated before baking to get an even rise and golden color.",
+            "timing": "10 minutes",
+            "doneness_cue": "Loaf pan is evenly greased and oven temperature stable at 350°F."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking powder, baking soda, salt, cinnamon, and nutmeg. Sifting or whisking these dry ingredients helps distribute the leavening agents and spices evenly, which prevents uneven rising or pockets of spice.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are combined with no lumps or clumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, cream the softened butter and sugar together using a hand mixer or stand mixer on medium speed until light and fluffy, about 3-4 minutes. This aerates the butter, which helps create a tender crumb and lifts the batter.",
+            "timing": "4 minutes",
+            "doneness_cue": "Butter and sugar mixture is pale, fluffy, and smooth."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the eggs one at a time to the creamed butter and sugar, beating well after each addition. Then mix in the vanilla extract. Adding eggs slowly ensures they incorporate fully without curdling the mixture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth and glossy with no streaks of egg."
+        },
+        {
+            "step": 5,
+            "instruction": "Fold the sour cream into the wet mixture gently with a spatula until just combined. This adds moisture and richness while keeping the batter tender. Avoid overmixing here to prevent a dense texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter is smooth and creamy with no lumps."
+        },
+        {
+            "step": 6,
+            "instruction": "Gradually add the dry ingredients to the wet ingredients, folding gently with a spatula until just combined. Overmixing at this stage can develop gluten and make the bread tough, so stop as soon as no flour streaks remain.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is thick but smooth, with no visible flour."
+        },
+        {
+            "step": 7,
+            "instruction": "Carefully fold in the diced fresh peaches, distributing them evenly throughout the batter. Be gentle to avoid crushing the peaches, which can make the batter too wet and heavy.",
+            "timing": "2 minutes",
+            "doneness_cue": "Peach pieces are evenly scattered without large clumps."
+        },
+        {
+            "step": 8,
+            "instruction": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. For a little extra texture, sprinkle a teaspoon of cinnamon sugar on top before baking. This will caramelize and add a subtle crunch to the crust.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter evenly fills the pan with a smooth surface."
+        },
+        {
+            "step": 9,
+            "instruction": "Bake in the preheated oven for 45-50 minutes, or until a toothpick inserted into the center comes out clean or with a few moist crumbs. Avoid opening the oven door too early to prevent the bread from collapsing. Let cool in the pan for 10 minutes before transferring to a wire rack.",
+            "timing": "45-50 minutes",
+            "doneness_cue": "Golden brown crust, toothpick test clean, edges pulling slightly from pan."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Peach Bread Recipe Succeeds",
+        "content": "<p>This peach bread recipe balances moisture, flavor, and texture through several key techniques and ingredient choices. The use of fresh peaches adds natural sweetness and juiciness, which can sometimes make baked goods soggy. To counter this, the batter includes sour cream, which adds richness and tenderizes the crumb without adding excess liquid. The combination of baking powder and baking soda ensures the bread rises well and remains light instead of dense.</p><p>The creaming of butter and sugar is essential for aeration, which creates a soft crumb and helps the bread rise evenly. Folding in the dry ingredients gently prevents gluten development, keeping the texture tender rather than chewy. The warm spices—cinnamon and nutmeg—complement the peaches without overpowering their delicate flavor, creating a cozy aroma and taste.</p><p>Finally, the careful baking time and temperature allow the crust to caramelize, adding a slight crunch and golden color, while the interior remains moist with visible peach chunks. This balance of moisture and structure is what makes this peach bread irresistible and reliable every time.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a standard all-purpose flour with moderate protein content (about 10-12%). It provides enough gluten to give the bread structure without making it tough. Avoid bread flour, which would create a denser, chewier crumb not ideal for quick breads.",
+            "fresh peaches": "Use ripe but firm peaches to avoid excess moisture that can weigh down the batter. Peeling the peaches removes any bitterness from the skin and ensures a tender texture. Dice evenly for consistent distribution throughout the bread.",
+            "sour cream": "Sour cream adds fat and acidity, which tenderizes the crumb and balances the sweetness of the peaches. It also reacts with baking soda to help the bread rise. Full-fat sour cream delivers the best flavor and texture.",
+            "baking powder and baking soda": "Baking powder provides general leavening, while baking soda reacts with the acidic sour cream to create additional lift. Using both ensures the bread rises well and has a light texture.",
+            "ground cinnamon and nutmeg": "These warm spices enhance the peach flavor and add depth without overpowering. Freshly ground spices provide the best aroma and taste, but pre-ground is fine if fresh is unavailable."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature ingredients for even mixing.",
+            "reason": "Butter, eggs, and sour cream at room temperature blend more easily, creating a smooth batter and helping the bread rise evenly. Cold ingredients can cause the batter to curdle or mix unevenly, resulting in dense spots."
+        },
+        {
+            "tip": "Gently fold in peaches to avoid breaking them down.",
+            "reason": "Overmixing or vigorous stirring can crush the peach pieces, releasing too much juice and making the batter too wet. Folding gently keeps the peaches intact, preserving texture and preventing sogginess."
+        },
+        {
+            "tip": "Don’t open the oven door during the first 30 minutes of baking.",
+            "reason": "Opening the oven door early causes temperature fluctuations that can make the bread collapse or bake unevenly. Waiting until the bread is set helps maintain its structure and ensures proper rising."
+        },
+        {
+            "tip": "Sprinkle cinnamon sugar on top before baking for a crunchy crust.",
+            "reason": "The sugar caramelizes and forms a delicate crunchy layer on the crust, adding texture contrast and enhancing the bread’s visual appeal."
+        },
+        {
+            "tip": "Check doneness with a toothpick rather than relying on time alone.",
+            "reason": "Oven temperatures vary, so the toothpick test ensures your bread is fully baked without drying it out. Look for moist crumbs, not wet batter."
+        },
+        {
+            "tip": "Cool the bread in the pan for 10 minutes before removing.",
+            "reason": "This gives the bread time to set and prevents it from breaking apart. Removing too soon can cause the loaf to crumble or stick."
+        },
+        {
+            "tip": "Store leftover bread wrapped tightly to maintain moisture.",
+            "reason": "Exposing the bread to air causes it to dry out quickly. Wrapping in plastic wrap or foil keeps it soft and fresh for longer."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using underripe or overly soft peaches",
+            "why_it_happens": "Sometimes cooks use peaches that are too soft or unripe, thinking any peach will work. Soft peaches release too much juice and unripe ones lack sweetness.",
+            "fix": "Select peaches that are ripe but firm to the touch. Peel and dice them evenly to ensure they distribute well without making the batter watery."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour",
+            "why_it_happens": "It’s tempting to mix until perfectly smooth, but overmixing develops gluten and results in tough bread.",
+            "fix": "Fold the flour in gently just until no streaks remain. Some small lumps are okay and better than overworking the batter."
+        },
+        {
+            "mistake": "Skipping the sour cream or substituting with milk",
+            "why_it_happens": "Some may omit sour cream or replace it with milk to reduce fat or because they don’t have it on hand.",
+            "fix": "Use sour cream as it adds acidity and fat that tenderize the crumb and help with rising. If unavailable, plain yogurt is a better substitute than milk."
+        },
+        {
+            "mistake": "Baking at too high a temperature",
+            "why_it_happens": "Higher oven temps can brown the crust too fast while leaving the inside undercooked.",
+            "fix": "Bake at 350°F consistently and test with a toothpick near the end to avoid overbaking or underbaking."
+        },
+        {
+            "mistake": "Not greasing the pan well",
+            "why_it_happens": "Some skip this step to save time, leading to bread sticking and breaking apart.",
+            "fix": "Generously grease or line the pan with parchment paper for easy removal and intact slices."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Peach Walnut Bread",
+            "description": "Add 1/2 cup chopped toasted walnuts to the batter for a crunchy contrast that pairs beautifully with the sweet peaches. The nuts add texture and a slightly nutty flavor that complements the spices.",
+            "technical_note": "Fold walnuts in gently with the peaches to distribute evenly without breaking them up."
+        },
+        {
+            "name": "Gluten-Free Peach Bread",
+            "description": "Replace the all-purpose flour with a gluten-free baking blend designed for 1:1 substitution. The texture will be slightly different but still moist and flavorful with the peaches shining through.",
+            "technical_note": "Add an extra 1/4 teaspoon xanthan gum if your blend doesn’t include it to help with structure."
+        },
+        {
+            "name": "Peach and Blueberry Bread",
+            "description": "Add 1 cup fresh or frozen blueberries along with the peaches for a burst of tartness and color. Blueberries add a lovely contrast and make the bread even more vibrant.",
+            "technical_note": "If using frozen berries, toss them in a bit of flour before folding in to prevent bleeding."
+        },
+        {
+            "name": "Vegan Peach Bread",
+            "description": "Substitute the butter with coconut oil, eggs with flax eggs (1 tablespoon flaxseed meal + 3 tablespoons water per egg), and use a plant-based yogurt instead of sour cream for a vegan-friendly loaf.",
+            "technical_note": "The texture will be slightly denser but still moist and delicious with the fresh peaches."
+        },
+        {
+            "name": "Peach Bread with Streusel Topping",
+            "description": "Top the batter with a simple streusel made from brown sugar, flour, butter, and cinnamon before baking. This adds a sweet, crumbly topping that contrasts with the soft interior.",
+            "technical_note": "Bake as usual; the topping will crisp up and add texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "13g",
+        "fiber_grams": "2g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Peach bread can safely sit at room temperature for up to 2 days if wrapped tightly in plastic wrap or stored in an airtight container. Keep it away from direct sunlight or heat to avoid drying out.",
+        "refrigerator": "Store leftover peach bread in an airtight container in the fridge for up to 5 days. The bread may firm up when chilled, so bring it to room temperature or warm slightly before serving for best texture.",
+        "freezer": "Freeze peach bread wrapped tightly in plastic wrap and foil for up to 3 months. Thaw overnight in the fridge or at room temperature. Reheat gently in a low oven or microwave to refresh softness.",
+        "reheating": "Reheat slices in a 300°F oven for 10-12 minutes wrapped in foil, or microwave for 20-30 seconds. Adding a small pat of butter or honey butter when warm enhances flavor and moisture.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it covered in the fridge. Bring to room temperature before baking. Alternatively, bake the bread and freeze slices for quick breakfasts or snacks."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned peaches instead of fresh?",
+            "answer": "While fresh peaches are best for texture and flavor, you can use canned peaches drained well. Be sure to pat them dry with paper towels to remove excess moisture and reduce the risk of a soggy loaf."
+        },
+        {
+            "question": "How do I know when the peach bread is done baking?",
+            "answer": "Insert a toothpick into the center of the loaf. It should come out clean or with a few moist crumbs. The crust should be golden brown and slightly pulling away from the pan edges."
+        },
+        {
+            "question": "Can I substitute the sour cream with yogurt?",
+            "answer": "Yes, plain full-fat yogurt is a good substitute for sour cream and will keep the bread moist and tender. Avoid flavored or low-fat yogurts as they can affect texture and flavor."
+        },
+        {
+            "question": "Why is my peach bread dense and heavy?",
+            "answer": "This usually happens from overmixing the batter or using too much liquid. Fold ingredients gently and measure liquids carefully. Also, make sure your baking powder and soda are fresh for proper rise."
+        },
+        {
+            "question": "Can I make this bread gluten-free?",
+            "answer": "Yes, using a 1:1 gluten-free baking flour blend works well. Adding a bit of xanthan gum can help with structure if your blend doesn’t include it."
+        },
+        {
+            "question": "How do I store leftover peach bread?",
+            "answer": "Wrap tightly in plastic wrap or store in an airtight container at room temperature for up to 2 days, or refrigerate for up to 5 days. For longer storage, freeze slices wrapped securely."
+        },
+        {
+            "question": "Can I add nuts or other fruits?",
+            "answer": "Absolutely! Chopped walnuts, pecans, or blueberries work beautifully. Fold them in gently with the peaches to maintain texture."
+        },
+        {
+            "question": "What if I don’t have cinnamon or nutmeg?",
+            "answer": "You can omit the spices or substitute with a pinch of allspice or ginger. The bread will still be delicious but less spiced."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and sharing this cozy peach bread as much as my family does. It’s a simple way to bring summer flavors into your home any time of year!",
+    "seo": {
+        "primary_keyword": "peach bread",
+        "secondary_keywords": [
+            "easy peach bread recipe",
+            "homemade peach bread",
+            "best peach bread recipe",
+            "how to make peach bread",
+            "quick peach bread"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade quick bread tips",
+                "anchor": "quick-bread-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-15 23:51:09",
+        "title_seed": "Peach Bread"
+    },
+    "author_id": "author_001",
+    "id": "post_1784159469_696",
+    "slug": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices",
+    "uniqueSlug": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_7.webp",
+            "relativePath": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Homemade Peach Bread vs Muffins: Which Is Better for Breakfast?"
+        },
+        {
+            "fileName": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_6.webp",
+            "relativePath": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "30-Minute Peach Bread Recipe for Busy Mornings and Sweet Cravings"
+        },
+        {
+            "fileName": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_9.webp",
+            "relativePath": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Homemade Peach Bread Taste So Much Better Than Store-Bought?"
+        },
+        {
+            "fileName": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_8.webp",
+            "relativePath": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Homemade Peach Bread Taste So Much Better Than Store-Bought?"
+        },
+        {
+            "fileName": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_4.webp",
+            "relativePath": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Homemade Peach Bread Taste So Much Better Than Store-Bought?"
+        },
+        {
+            "fileName": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_5.webp",
+            "relativePath": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Peach Bread Moist and Flavorful Every Time"
+        }
+    ],
+    "image": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images/easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices_pinrecipes_image_1.webp",
+    "image_dir": "easy-homemade-peach-bread-with-fresh-peaches-and-warm-spices/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-16T00:59:35+01:00",
+    "updatedAt": "2026-07-16T00:59:35+01:00",
+    "has_reel": true
+}
