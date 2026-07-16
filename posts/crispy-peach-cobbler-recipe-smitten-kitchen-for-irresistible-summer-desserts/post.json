@@ -1,0 +1,312 @@
+{
+    "title": "Crispy Peach Cobbler Recipe Smitten Kitchen for Irresistible Summer Desserts",
+    "promptIMG": {
+        "img1": "SCENE: softly blurred background of warm rustic kitchen wood, bright natural daylight from a window. SUBJECT: a generous portion of crispy peach cobbler in a rustic ceramic baking dish, overflowing with golden-brown crust and bubbling peach filling visible through cracks. One corner is cut open revealing juicy peach slices and crispy, caramelized topping with a slight sugar glaze. DETAILS: glistening syrup pools around the edges, crumbly, golden crust with coarse sugar sparkle, fresh mint sprigs for contrast. STYLE: ultra-photorealistic professional food photography, warm golden-amber tones, rich saturated colors, shallow depth of field focusing on the cut corner, vertical 2:3. AVOID: no text, logos, steam, or artificial lighting effects.",
+        "img2": "SCENE: warm creamy bokeh background with soft sunlight. SUBJECT: close-up of an adult hand naturally pulling apart a piece of crispy peach cobbler with a spatula from the rustic ceramic dish. The indulgent moment captures the crispy golden crust breaking apart, revealing juicy, syrupy peach filling dripping slightly. DETAILS: glossy highlights on the syrup, crumbly texture of the crust, natural irregularities in the peach slices. STYLE: ultra-photorealistic professional food photography, warm golden hues, highly saturated tones, shallow macro depth of field locked on the action, vertical 2:3. AVOID: no text, logos, steam, or plastic textures.",
+        "img3": "SCENE: soft blurred hints of a cozy kitchen counter in warm daylight. SUBJECT: the full crispy peach cobbler in its rustic ceramic dish alongside a melting scoop of vanilla ice cream on a small white plate. The cobbler slice shows the juicy peach interior with syrup pooling and a crisp golden crust. DETAILS: glossy syrup shine, caramelized edges, fresh mint garnish, ice cream starting to melt slightly for indulgence. STYLE: ultra-photorealistic professional food photography, warm golden-amber color grading, rich saturated tones, shallow depth of field focusing on the front portion, vertical 2:3. AVOID: no text, logos, steam, or artificial lighting."
+    },
+    "description": "This crispy peach cobbler from Smitten Kitchen is a summer classic with a perfectly crunchy crust and juicy peach filling. The secret is a sugar-crisp topping that bakes to golden perfection. Great for warm afternoons or cozy family dinners.",
+    "hashtags": "#peachcobbler #summerdessert #homemadebaking",
+    "board_name": "Seasonal Feasts",
+    "pin_variations": [
+        {
+            "title": "Why Does This Crispy Peach Cobbler Taste Like Summer in Every Bite?",
+            "description": "Discover the magic behind the crispy crust and juicy peaches that make this cobbler unforgettable 🍑. It’s simple but packed with flavor. Save this for your next dessert craving! #peachcobbler #summerbaking #dessertideas"
+        },
+        {
+            "title": "The One Trick That Makes Smitten Kitchen’s Peach Cobbler So Crispy",
+            "description": "Want a cobbler with that perfect crunchy top and tender fruit inside? The secret is in the sugar sprinkle before baking. Try it and impress your family! 🍑✨ Tap for the full recipe. #crispycobbler #peachdessert #bakingtips"
+        },
+        {
+            "title": "Easy Crispy Peach Cobbler Recipe for Quick Summer Desserts",
+            "description": "Ready in under an hour, this peach cobbler is the ultimate easy dessert. Juicy peaches meet a crunchy, buttery crust—perfect for busy weeknights or weekend treats! 🍑🍨 Save this recipe now. #easycobbler #summerdesserts #homebaking"
+        },
+        {
+            "title": "Still Making Soggy Cobbler? This Crispy Peach Recipe Fixes It",
+            "description": "Stop settling for mushy cobblers! This recipe nails the crispy topping and juicy filling every time. Your family will thank you 🍑👌 Tap to get the secret steps. #peachcobblerrecipe #crispycrust #dessertfix"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "6 cups fresh peaches, peeled and sliced",
+        "3/4 cup granulated sugar, divided",
+        "1/4 cup brown sugar",
+        "1 tablespoon lemon juice",
+        "1 teaspoon vanilla extract",
+        "1 cup all-purpose flour",
+        "1 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1/2 cup unsalted butter, cold and cut into cubes",
+        "1/4 cup boiling water",
+        "Coarse sugar for sprinkling on top"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I first tried this crispy peach cobbler recipe from Smitten Kitchen a few summers ago, and it quickly became a family favorite. What sets this cobbler apart is the perfectly crunchy topping that contrasts beautifully with the juicy, tender peaches inside. Unlike some cobblers that can get soggy, this one stays crisp thanks to a simple sprinkle of coarse sugar on top before baking. I love how the peaches soak in just enough sweetness and lemon juice to brighten their natural flavor without being overpowering. Plus, the crust has a buttery richness that’s just irresistible. I usually serve it warm with a scoop of vanilla ice cream, and it’s always a hit at family dinners or casual get-togethers. The best part? It’s straightforward to make, even if you’re not a seasoned baker. The texture is spot on—crispy edges with a soft, tender interior—and the aroma that fills the kitchen while it bakes is pure summer comfort. This recipe has become my go-to whenever peaches are in season, and I think you’ll love it just as much as we do.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C). In a large mixing bowl, toss the sliced peaches with 1/2 cup of granulated sugar, brown sugar, lemon juice, and vanilla extract. This step macerates the peaches, drawing out their natural juices and infusing them with sweetness and brightness. Letting the peaches sit for 10 minutes helps develop flavor and ensures the filling is juicy but not watery. Avoid skipping the lemon juice—it balances the sweetness and prevents the peaches from turning dull.",
+            "timing": "10 minutes",
+            "doneness_cue": "Peaches should be slightly softened and glossy with syrup forming at the bottom of the bowl."
+        },
+        {
+            "step": 2,
+            "instruction": "While the peaches macerate, prepare the cobbler topping. In a medium bowl, whisk together the flour, baking powder, salt, and remaining 1/4 cup granulated sugar. Then, cut the cold butter into the dry ingredients using a pastry blender or your fingers until the mixture resembles coarse crumbs with pea-sized bits of butter. This technique ensures a flaky, tender crust that crisps up nicely. Pour in the boiling water and stir just until combined; the hot water helps activate the baking powder and brings the dough together without overmixing.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dough should be sticky but hold together when pressed, with visible butter bits."
+        },
+        {
+            "step": 3,
+            "instruction": "Transfer the peach mixture to a buttered 8-inch square baking dish or similar oven-safe dish. Spread the dough evenly over the peaches using a spatula or your hands, leaving some gaps for steam to escape. The uneven topping allows the peaches to bubble up through the crust, creating that signature cobbler texture. Sprinkle a generous layer of coarse sugar over the top to encourage a crispy, caramelized crust during baking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Topping should completely cover peaches with a visible sugar layer on top."
+        },
+        {
+            "step": 4,
+            "instruction": "Bake the cobbler at 425°F for 15 minutes, then reduce the oven temperature to 350°F (175°C) and bake for an additional 15-20 minutes. The initial high heat helps set the crust and caramelize the sugar, while the lower temperature finishes cooking the peaches and prevents the topping from burning. Avoid opening the oven too often, as this can cause uneven baking and soggy crust.",
+            "timing": "35 minutes total",
+            "doneness_cue": "Top should be golden brown and crisp, with bubbling peach juices visible around the edges."
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the cobbler from the oven and let it cool for at least 10 minutes before serving. This resting time allows the juices to thicken slightly, making it easier to serve and intensifying the flavors. Serve warm with vanilla ice cream or whipped cream for an extra indulgent touch. Leftovers can be reheated gently in the oven to restore crispness.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cobbler is warm but not piping hot, juices slightly thickened."
+        },
+        {
+            "step": 6,
+            "instruction": "For the best flavor, use ripe but firm peaches that hold their shape during baking. If peaches are very juicy, you can toss them with a tablespoon of cornstarch before macerating to help thicken the filling. This step prevents the cobbler from becoming too watery while maintaining a luscious texture.",
+            "timing": "Optional, 5 minutes",
+            "doneness_cue": "Filling should be thickened and glossy."
+        },
+        {
+            "step": 7,
+            "instruction": "If you prefer a sweeter topping, feel free to brush the dough with a little melted butter before sprinkling the coarse sugar. This enhances browning and adds richness to the crust. Just be careful not to add too much butter, or the topping may become greasy instead of crisp.",
+            "timing": "2 minutes",
+            "doneness_cue": "Topping looks shiny and evenly coated with sugar."
+        },
+        {
+            "step": 8,
+            "instruction": "Avoid overmixing the dough once you add the boiling water. Overworking activates gluten, which can make the crust tough instead of flaky. Stir just until the ingredients come together, leaving some lumps and visible butter pieces intact for the best texture.",
+            "timing": "Throughout mixing",
+            "doneness_cue": "Dough is cohesive but not smooth or elastic."
+        },
+        {
+            "step": 9,
+            "instruction": "When serving, use a wide spatula to gently lift portions so you get a good balance of crust and juicy peach filling. This helps maintain the cobbler’s structure and ensures every bite has that perfect mix of textures.",
+            "timing": "As serving",
+            "doneness_cue": "Portions hold together without falling apart."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Crispy Peach Cobbler Stands Out",
+        "content": "<p>This peach cobbler recipe succeeds because it balances texture and flavor through simple but effective techniques. The key to the crispy crust lies in the coarse sugar sprinkled on top before baking. As the sugar melts and caramelizes, it forms a shiny, crunchy layer that contrasts beautifully with the soft peach filling beneath. This sugary crust also helps seal moisture inside, preventing the cobbler from becoming soggy.</p><p>The use of cold butter cut into the flour mixture creates pockets of fat that melt during baking, producing a flaky, tender crust rather than a dense one. Adding boiling water activates the baking powder quickly, giving the dough lift and lightness without overworking the gluten, which would make it tough. This combination of ingredients and technique ensures the topping crisps up perfectly while remaining buttery and soft inside.</p><p>For the filling, macerating the peaches with sugar and lemon juice draws out their natural juices and enhances their flavor. The lemon juice brightens the sweetness and keeps the peaches from turning dull in color. Baking at a high temperature initially sets the crust and caramelizes sugars, then lowering the heat finishes cooking the fruit gently, preserving its shape and juiciness. This two-stage baking method is crucial for achieving the ideal texture contrast.</p><p>Overall, this recipe’s success comes from understanding how ingredient interactions and baking temperatures affect texture and flavor, resulting in a classic cobbler that’s crispy, juicy, and utterly delicious every time.</p>",
+        "ingredient_notes": {
+            "fresh peaches": "Choose ripe but firm peaches for the best texture. Overripe peaches can become mushy during baking, while underripe ones lack sweetness and flavor. Peeling is recommended to avoid tough skin in the cobbler. If fresh peaches aren’t available, frozen peaches can work but may require additional thickening.",
+            "granulated sugar": "Dividing the sugar between the filling and topping balances sweetness and promotes caramelization. The coarse sugar on top is essential for creating the signature crispy crust by melting and hardening during baking.",
+            "brown sugar": "Adds a deeper, caramel-like flavor to the filling, complementing the peaches’ natural sweetness. It also contributes moisture and richness, enhancing the overall taste.",
+            "cold unsalted butter": "Cold butter cut into the flour mixture creates flaky layers in the crust. Using unsalted butter allows precise control over salt levels, preventing an overly salty topping.",
+            "baking powder": "Leavens the dough, making the crust light and tender rather than dense. It reacts quickly with the boiling water to provide lift, so fresh baking powder is important for best results."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use coarse sugar for the topping instead of regular granulated sugar.",
+            "reason": "Coarse sugar crystals melt more slowly during baking, creating a crunchy, caramelized crust that’s signature to this cobbler. Regular sugar may dissolve completely, resulting in a softer topping."
+        },
+        {
+            "tip": "Let the peaches macerate for at least 10 minutes before baking.",
+            "reason": "This draws out natural juices and allows the sugar and lemon juice to infuse the fruit, enhancing flavor and ensuring the filling is juicy but not watery."
+        },
+        {
+            "tip": "Cut cold butter into the flour mixture quickly and avoid overmixing.",
+            "reason": "Cold butter creates flaky pockets in the crust as it melts during baking. Overmixing activates gluten, making the crust tough instead of tender."
+        },
+        {
+            "tip": "Bake at a high temperature initially, then lower the heat.",
+            "reason": "Starting at 425°F sets the crust and caramelizes sugars quickly, while lowering to 350°F finishes cooking the fruit gently without burning the topping."
+        },
+        {
+            "tip": "Allow the cobbler to cool for 10 minutes before serving.",
+            "reason": "This resting time thickens the peach juices, making it easier to serve and intensifying the flavors."
+        },
+        {
+            "tip": "Serve with vanilla ice cream or whipped cream.",
+            "reason": "The cold creaminess contrasts beautifully with the warm, crispy cobbler, enhancing the overall dessert experience."
+        },
+        {
+            "tip": "Use a wide spatula when serving to preserve the cobbler’s structure.",
+            "reason": "A wide spatula helps lift portions with both crust and filling intact, preventing the dessert from falling apart."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using overripe or underripe peaches",
+            "why_it_happens": "People often grab the ripest peaches they find without considering texture, which can lead to mushy or flavorless filling.",
+            "fix": "Select peaches that are ripe but still firm to hold their shape during baking. If using frozen peaches, drain excess liquid and consider adding a thickener like cornstarch."
+        },
+        {
+            "mistake": "Skipping the coarse sugar topping",
+            "why_it_happens": "Some may think sugar on top is optional, but it’s essential for the crispy texture.",
+            "fix": "Always sprinkle a generous layer of coarse sugar before baking to achieve that signature crunchy crust."
+        },
+        {
+            "mistake": "Overmixing the dough",
+            "why_it_happens": "Inexperienced bakers may try to fully combine the dough, activating gluten and toughening the crust.",
+            "fix": "Mix just until ingredients come together, leaving some lumps and visible butter bits for flakiness."
+        },
+        {
+            "mistake": "Baking at a single temperature",
+            "why_it_happens": "Skipping the temperature change can result in either burnt crust or undercooked filling.",
+            "fix": "Start baking at a high temperature to set the crust, then reduce heat to cook peaches through gently."
+        },
+        {
+            "mistake": "Serving immediately after baking",
+            "why_it_happens": "Impatience leads to serving while juices are too runny and hot.",
+            "fix": "Let the cobbler rest 10 minutes to thicken juices and improve texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spiced Peach Cobbler",
+            "description": "Add 1 teaspoon cinnamon and 1/4 teaspoon nutmeg to the peach mixture for a warm, cozy flavor. This variation pairs well with fall gatherings and adds depth to the classic cobbler.",
+            "technical_note": "Spices can slightly darken the filling and intensify the aroma; adjust sugar slightly if peaches are very sweet."
+        },
+        {
+            "name": "Gluten-Free Peach Cobbler",
+            "description": "Substitute the all-purpose flour with a gluten-free baking blend. The texture will be slightly different but still delicious and crispy on top.",
+            "technical_note": "Gluten-free flours absorb moisture differently; you may need to reduce boiling water slightly to maintain dough consistency."
+        },
+        {
+            "name": "Vegan Peach Cobbler",
+            "description": "Replace butter with a vegan margarine or coconut oil and use a plant-based milk if desired. The crust remains crispy with a subtle coconut aroma.",
+            "technical_note": "Coconut oil melts faster than butter; chill the dough before topping to maintain flakiness."
+        },
+        {
+            "name": "Peach and Berry Cobbler",
+            "description": "Mix fresh or frozen berries like blueberries or raspberries with the peaches for a colorful, tangy twist. This adds complexity and a pop of color to the filling.",
+            "technical_note": "Berries release more juice; add 1 tablespoon cornstarch to thicken the filling and prevent sogginess."
+        },
+        {
+            "name": "Individual Peach Cobbler Cups",
+            "description": "Divide the peach mixture and dough into ramekins for personal servings. Baking time will be shorter, and the crust will be extra crispy on all sides.",
+            "technical_note": "Check for doneness earlier, around 20-25 minutes, to avoid overbaking small portions."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "12g",
+        "fiber_grams": "3g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store leftover cobbler covered loosely with foil or a clean kitchen towel at room temperature for up to 2 days. Avoid airtight containers at room temp to prevent sogginess.",
+        "refrigerator": "Keep cobbler in an airtight container in the fridge for up to 4 days. The crust may soften but reheating in the oven can restore crispness. Serve cold if preferred for a refreshing dessert.",
+        "freezer": "Freeze cobbler in a tightly wrapped foil or freezer-safe container for up to 3 months. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat in a 350°F oven for 10-15 minutes until warmed through and crust is crisp again. Avoid microwaving as it can make the crust soggy.",
+        "make_ahead_strategy": "Prepare the peach filling and dough separately 1-2 days ahead. Store filling in the fridge and keep dough wrapped tightly. Assemble and bake on the day you plan to serve for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen peaches for this cobbler?",
+            "answer": "Yes, frozen peaches can be used if fresh aren’t available. Make sure to thaw and drain excess liquid to avoid a watery filling. You might also want to add a tablespoon of cornstarch to thicken the juices."
+        },
+        {
+            "question": "How do I get a crispy crust instead of soggy?",
+            "answer": "Sprinkling coarse sugar on top before baking is key to a crispy crust. Also, starting the baking at a higher temperature helps set the crust quickly. Avoid covering the cobbler while hot, as trapped steam softens the crust."
+        },
+        {
+            "question": "Can I make this cobbler gluten-free?",
+            "answer": "Absolutely! Use a gluten-free all-purpose flour blend in place of regular flour. You may need to adjust the amount of boiling water slightly since gluten-free flours absorb liquids differently."
+        },
+        {
+            "question": "What’s the best way to peel peaches quickly?",
+            "answer": "Score an X on the bottom of each peach and blanch them in boiling water for 30 seconds, then transfer to ice water. The skins should slip off easily without bruising the fruit."
+        },
+        {
+            "question": "How long can I store leftover cobbler?",
+            "answer": "Leftovers keep well in the refrigerator for up to 4 days. Store in an airtight container and reheat in the oven to refresh the crust. Avoid leaving cobbler at room temperature for more than 2 days to prevent spoilage."
+        },
+        {
+            "question": "Can I prepare the cobbler ahead of time?",
+            "answer": "Yes, you can prepare the peach filling and dough separately a day or two ahead. Keep the filling refrigerated and dough wrapped. Assemble and bake just before serving for the best texture."
+        },
+        {
+            "question": "What if my cobbler turns out too watery?",
+            "answer": "This often happens if peaches are very juicy or not macerated properly. Next time, try adding cornstarch to the filling or macerating longer to draw out excess juice. Baking at the right temperatures also helps evaporate moisture."
+        },
+        {
+            "question": "How can I make the topping more golden?",
+            "answer": "Brushing the topping with a little melted butter before sprinkling sugar promotes browning. Also, the initial high oven temperature helps caramelize the sugars for a golden crust."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this crispy peach cobbler as much as my family does. It’s a simple, comforting dessert that really shines with fresh peaches. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "crispy peach cobbler recipe",
+        "secondary_keywords": [
+            "Smitten Kitchen peach cobbler",
+            "easy peach cobbler recipe",
+            "best peach cobbler",
+            "homemade peach cobbler"
+        ],
+        "internal_links": [
+            {
+                "text": "classic fruit cobbler techniques",
+                "anchor": "classic-fruit-cobbler-techniques"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-16 14:26:58",
+        "title_seed": "Crispy Peach Cobbler Recipe Smitten Kitchen"
+    },
+    "author_id": "author_001",
+    "id": "post_1784212018_768",
+    "slug": "crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts",
+    "uniqueSlug": "crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts_pinrecipes_image_1.webp",
+            "filePath": "posts/crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts/images/crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts_pinrecipes_image_1.webp",
+            "relativePath": "crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts/images/crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts_pinrecipes_image_2.webp",
+            "filePath": "posts/crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts/images/crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts_pinrecipes_image_2.webp",
+            "relativePath": "crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts/images/crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts_pinrecipes_image_3.webp",
+            "filePath": "posts/crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts/images/crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts_pinrecipes_image_3.webp",
+            "relativePath": "crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts/images/crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts_pinrecipes_image_1.webp",
+    "image_path": "posts/crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts/images/crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts_pinrecipes_image_1.webp",
+    "image_dir": "crispy-peach-cobbler-recipe-smitten-kitchen-for-irresistible-summer-desserts/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-16T14:26:58+00:00",
+    "updatedAt": "2026-07-16T14:26:58+00:00"
+}
