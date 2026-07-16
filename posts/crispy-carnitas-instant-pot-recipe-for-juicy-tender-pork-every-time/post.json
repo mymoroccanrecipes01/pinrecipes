@@ -1,0 +1,363 @@
+{
+    "title": "Crispy Carnitas Instant Pot Recipe for Juicy, Tender Pork Every Time",
+    "promptIMG": "Food photography: Crispy Carnitas Instant Pot Recipe, served in a rustic shallow cast iron skillet with golden-brown crispy pork chunks piled high, garnished with fresh cilantro leaves, lime wedges on the side, natural warm daylight filtering through a kitchen window, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: softly blurred warm wood kitchen table background with natural daylight from the side. SUBJECT: a rustic shallow cast iron skillet overflowing with crispy carnitas pork chunks, golden and caramelized on the edges, some pieces showing juicy tender interior with glistening fat. DETAILS: fresh green cilantro scattered on top, lime wedges resting beside the skillet, textures of crispy pork clearly visible with shiny caramelized crusts. STYLE: ultra-photorealistic professional food photography with deep warm golden tones, rich saturated colors, shallow macro depth of field focusing on the crispy meat, vertical 2:3. AVOID: no text, no logos, no steam or smoke, no plastic textures, no over-smoothing, no dark shadows.",
+        "img2": "SCENE: warm creamy bokeh kitchen background with bright warm side daylight. SUBJECT: close-up action shot of an adult hand naturally gripping a fork lifting a crispy carnitas pork chunk from the skillet, mid-pull showing glistening, juicy interior with crispy edges and a slight drip of rendered fat. DETAILS: glossy highlights on the pork, natural textures of crispy crust and tender meat, skillet blurred in background filling the frame. STYLE: ultra-photorealistic professional food photography with rich golden-amber color grading, shallow macro depth of field locked on the lifted pork piece, vertical 2:3. AVOID: no text, no logos, no steam, no plastic or CGI look, no pale colors.",
+        "img3": "SCENE: softly blurred kitchen counter edges with warm daylight. SUBJECT: the crispy carnitas served abundantly in the rustic cast iron skillet alongside fresh lime wedges and a small bowl of homemade salsa verde, cilantro garnish sprinkled on top. One piece is cut open to reveal the juicy, tender interior and crispy edges. DETAILS: caramelized golden crusts glistening, fresh green herbs for color contrast, natural textures of meat and salsa. STYLE: ultra-photorealistic professional food photography with warm saturated tones, shallow depth of field focusing on front portion of the skillet, vertical 2:3. AVOID: no text, no watermarks, no steam, no plastic textures."
+    },
+    "description": "This crispy carnitas Instant Pot recipe delivers tender, juicy pork with irresistibly crispy edges every time. The secret? Pressure cooking for melt-in-your-mouth texture, then crisping under the broiler. Perfect for tacos or family dinners!",
+    "hashtags": "#carnitasrecipe #instantpotdinner #crispycarnitas",
+    "board_name": "Family Friendly Meat Dishes",
+    "pin_variations": [
+        {
+            "title": "Why Does Restaurant Crispy Carnitas Taste Better Than Yours?",
+            "description": "Ever wonder what makes restaurant carnitas so crispy yet tender? It’s all about the pressure cooking then broiling step! Learn the trick to juicy pork with perfect crispy edges. Save this for your next taco night! 🌮🔥 #carnitas #instantpot #familydinner"
+        },
+        {
+            "title": "The One Trick That Makes Crispy Carnitas Instant Pot Foolproof",
+            "description": "Want foolproof carnitas every time? The secret lies in finishing the pork under the broiler after pressure cooking. It locks in juiciness and adds that crave-worthy crispiness. Try it tonight and impress your family! #crispycarnitas #instantpotrecipe #easymeals"
+        },
+        {
+            "title": "15-Minute Crispy Carnitas Finish for Busy Weeknights",
+            "description": "Short on time? Pressure cook your pork in the Instant Pot, then crisp it up in just 15 minutes under the broiler. This quick finish gives you tender, juicy carnitas with a golden crust. Perfect for busy weeknight dinners! #quickdinner #carnitas #instantpot"
+        },
+        {
+            "title": "Still Making Dry Pork? This Crispy Carnitas Instant Pot Fixes It",
+            "description": "Dry pork is the worst, right? This recipe pressure cooks the meat to juicy perfection and then crisps it for texture. It’s the best way to get tender, flavorful carnitas every time. Tap to get the full recipe! #juicypork #carnitasrecipe #instantpotmeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "3 pounds pork shoulder, cut into 3-inch chunks",
+        "1 tablespoon kosher salt",
+        "1 teaspoon black pepper",
+        "1 tablespoon ground cumin",
+        "1 tablespoon dried oregano",
+        "1 tablespoon chili powder",
+        "1 onion, quartered",
+        "4 cloves garlic, smashed",
+        "1 cup orange juice",
+        "1/2 cup lime juice",
+        "2 bay leaves",
+        "2 tablespoons vegetable oil"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first made this crispy carnitas Instant Pot recipe when I was craving authentic Mexican flavors but didn’t want to spend hours slow cooking. The Instant Pot changed everything — it tenderizes the pork quickly, and finishing it under the broiler gives that perfect crispy edge that’s so addictive. What sets my version apart is the balance of spices and the citrus juices that keep the pork juicy and flavorful. I’ve learned that cutting the pork into larger chunks helps it stay moist inside while the broiler crisps the outside beautifully. The result is a juicy, tender carnitas with golden, crispy edges that are perfect for tacos, burritos, or just eating straight from the skillet. This recipe has become a family favorite for busy weeknights because it’s both easy and impressive. Plus, it’s forgiving — even if you’re new to the Instant Pot, you’ll get great results. I love how the citrus and spices brighten the rich pork flavor, making it feel fresh and comforting all at once. If you want flavorful carnitas without the fuss, this recipe is definitely for you!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by seasoning the pork chunks generously with kosher salt, black pepper, cumin, oregano, and chili powder. Make sure to coat each piece evenly to build layers of flavor. This step is crucial because the seasoning penetrates the meat during cooking, enhancing the taste throughout. Avoid skipping or under-seasoning here, as it can lead to bland carnitas. Let the pork sit with the spices for about 10 minutes while you prepare the other ingredients.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pork pieces evenly coated with dry spices, no dry spots"
+        },
+        {
+            "step": 2,
+            "instruction": "Turn your Instant Pot to the sauté setting and heat the vegetable oil until shimmering. Brown the pork chunks in batches, making sure not to crowd the pot. Browning adds depth through the Maillard reaction and helps develop a rich crust that enhances flavor. If you rush this step or skip it, the carnitas won’t have that signature caramelized taste. Each batch should take about 3-4 minutes per side until golden brown. Remove the pork and set aside once browned.",
+            "timing": "15 minutes",
+            "doneness_cue": "Pork pieces browned with deep golden crust, not steamed"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the quartered onion and smashed garlic cloves to the Instant Pot and sauté for 2-3 minutes until softened and fragrant. This step builds the aromatic base for the cooking liquid. Stir occasionally to prevent burning. If you skip this, the carnitas may lack depth in flavor. Then, pour in the orange juice and lime juice, scraping the bottom to deglaze and lift all those tasty browned bits.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onion translucent and fragrant, liquid simmering with no stuck bits"
+        },
+        {
+            "step": 4,
+            "instruction": "Return the browned pork chunks to the pot, nestling them into the citrus liquid. Add the bay leaves. Seal the Instant Pot lid and set to pressure cook on high for 30 minutes. The pressure cooking tenderizes the pork quickly by breaking down connective tissue, making it melt-in-your-mouth tender. Don’t rush this step or reduce time, or the pork will be tough. Allow the natural pressure release for 15 minutes before opening.",
+            "timing": "45 minutes",
+            "doneness_cue": "Pork is fork-tender and easily pulls apart"
+        },
+        {
+            "step": 5,
+            "instruction": "Carefully remove the pork chunks from the Instant Pot and place them on a rimmed baking sheet lined with foil. Spread them out evenly to allow maximum surface area for crisping. Discard bay leaves and strain the cooking liquid if desired. This step preps the pork for the final crisping and is key to getting those irresistible crunchy edges.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pork pieces separated and ready for broiling"
+        },
+        {
+            "step": 6,
+            "instruction": "Preheat your oven broiler to high. Place the baking sheet with pork chunks under the broiler for 5-7 minutes, watching closely. Flip the pieces halfway through to crisp all sides evenly. The broiler quickly caramelizes the edges, rendering fat and creating that signature crispy texture. Don’t walk away during this step — broilers vary and the pork can burn fast. Remove when golden and crispy.",
+            "timing": "7-10 minutes",
+            "doneness_cue": "Pork edges deeply caramelized and crispy, interior still juicy"
+        },
+        {
+            "step": 7,
+            "instruction": "Transfer the crispy carnitas to a serving dish and garnish with fresh cilantro and lime wedges. These add brightness and complement the rich pork perfectly. Serve immediately with warm tortillas, salsa, and your favorite toppings. The contrast between tender inside and crispy outside is what makes this dish so special.",
+            "timing": "5 minutes",
+            "doneness_cue": "Fresh garnish added, ready to serve"
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to store leftovers, cool the carnitas completely before refrigerating in an airtight container. To reheat, warm gently in a skillet or oven to keep the crispiness intact. Avoid microwaving as it can make the pork soggy. This way, you’ll enjoy the same delicious texture even the next day.",
+            "timing": "N/A",
+            "doneness_cue": "Leftovers reheated without losing crispiness"
+        },
+        {
+            "step": 9,
+            "instruction": "For extra flavor, try spooning some of the strained cooking liquid over the carnitas before serving or mixing it into rice or beans on the side. This adds moisture and a citrusy tang that ties the whole meal together. It’s a simple trick I love for adding an extra punch of flavor.",
+            "timing": "N/A",
+            "doneness_cue": "Carnitas moist and flavorful with added cooking liquid"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Crispy Carnitas Recipe Succeeds",
+        "content": "<p>This recipe succeeds by combining pressure cooking with a final broiling step, balancing tenderness and crispiness perfectly. The Instant Pot’s high-pressure environment breaks down the collagen and connective tissue in pork shoulder rapidly, transforming tough cuts into tender, juicy meat in under an hour. This is much faster than traditional slow cooking but achieves similar melt-in-your-mouth results.</p><p>The seasoning blend of cumin, oregano, chili powder, and citrus juices infuses the meat with layers of flavor during cooking. Citrus acids help tenderize the pork further and brighten the rich pork fat, preventing the dish from feeling heavy. The sauté step before pressure cooking builds flavor through the Maillard reaction, creating caramelized crusts that enhance taste complexity.</p><p>Finishing the carnitas under a hot broiler is the critical step that sets this recipe apart. The broiler’s intense direct heat crisps the pork edges quickly, rendering fat and creating that signature crunchy texture that contrasts beautifully with the tender interior. This two-step cooking method mimics traditional open-fire or deep-frying techniques but with less mess and time.</p><p>Overall, this recipe leverages the unique chemistry of pressure cooking and caramelization to deliver carnitas that are juicy inside and crispy outside, hitting all the right notes for authentic Mexican comfort food.</p>",
+        "ingredient_notes": {
+            "pork shoulder": "Pork shoulder is the ideal cut for carnitas because of its marbling and connective tissue, which break down during cooking to create tender, flavorful meat. Look for well-marbled pieces with some fat cap intact. Avoid lean cuts like pork loin, which will dry out and lack richness. Cutting the shoulder into 3-inch chunks allows even cooking and helps the meat crisp well under the broiler.",
+            "citrus juice": "Orange and lime juice add acidity that tenderizes the pork and balances the richness of the fat. Freshly squeezed juice is best for bright, natural flavor. The citrus also imparts a subtle tang that complements the spices and adds freshness. Bottled juice can be used in a pinch but may lack brightness.",
+            "spices": "The blend of cumin, oregano, chili powder, salt, and pepper builds the classic carnitas flavor profile. Cumin adds earthiness, oregano brings herbal notes, and chili powder contributes mild heat and smokiness. Using fresh spices ensures vibrant flavor; stale spices will result in a dull taste. Adjust chili powder to your heat preference.",
+            "vegetable oil": "Vegetable oil is used for browning the pork before pressure cooking. It has a high smoke point and neutral flavor, allowing the Maillard reaction to develop rich crusts without burning. Avoid olive oil here as it has a lower smoke point and can impart unwanted flavor at high heat.",
+            "bay leaves": "Bay leaves add subtle aromatic depth during pressure cooking. They release herbal, slightly floral notes that complement the pork and spices without overpowering. Remember to remove them before crisping and serving."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Cut pork into uniform 3-inch chunks for even cooking and crisping.",
+            "reason": "Uniform pieces ensure that all pork cooks evenly under pressure and crisp up uniformly under the broiler. If chunks vary too much in size, smaller pieces may dry out or burn while larger ones remain undercooked."
+        },
+        {
+            "tip": "Don’t skip browning the pork before pressure cooking.",
+            "reason": "Browning creates complex flavor compounds through the Maillard reaction, building a rich crust that enhances the final taste. Skipping this results in less flavorful carnitas with a pale appearance."
+        },
+        {
+            "tip": "Use fresh citrus juice for the best flavor and tenderizing effect.",
+            "reason": "Fresh juice contains natural acids and bright aromatics that bottled juice lacks. This acidity helps break down meat fibers, making the pork more tender and adding a fresh, vibrant note to balance the richness."
+        },
+        {
+            "tip": "Broil the pork in a single layer and flip halfway through.",
+            "reason": "Even exposure to the broiler’s heat crisps all sides of the pork chunks. Flipping prevents burning on one side and ensures a consistent golden crust that’s crispy but not charred."
+        },
+        {
+            "tip": "Let the Instant Pot naturally release pressure for best texture.",
+            "reason": "Natural release allows the meat’s juices to redistribute gradually, keeping the pork moist. Quick release can cause the meat to seize up and dry out."
+        },
+        {
+            "tip": "Use a rimmed baking sheet lined with foil for easy cleanup after broiling.",
+            "reason": "The foil catches rendered fat and caramelized bits, making cleanup faster and preventing sticking. The rim prevents drips from making a mess in the oven."
+        },
+        {
+            "tip": "Serve with fresh cilantro and lime wedges to brighten the rich pork.",
+            "reason": "Herbs and citrus add fresh flavor contrast, cutting through the pork’s richness and enhancing the overall eating experience."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not browning the pork before pressure cooking",
+            "why_it_happens": "Some cooks skip browning to save time or because they’re unfamiliar with its importance, assuming pressure cooking alone is enough.",
+            "fix": "Always brown pork chunks in batches before pressure cooking to develop flavor. It takes only a few extra minutes but makes a huge difference in taste and appearance."
+        },
+        {
+            "mistake": "Cutting pork pieces too small",
+            "why_it_happens": "People may think smaller pieces cook faster or are easier to eat, but this leads to dry, overcooked meat.",
+            "fix": "Cut pork into 3-inch chunks for even cooking and to retain juiciness. Larger pieces hold moisture better and crisp nicely under the broiler."
+        },
+        {
+            "mistake": "Using bottled citrus juice",
+            "why_it_happens": "Convenience or lack of fresh fruit may lead to bottled juice use, which lacks brightness.",
+            "fix": "Use freshly squeezed orange and lime juice for best flavor and tenderizing effect. It truly makes a difference in the final dish."
+        },
+        {
+            "mistake": "Broiling too close to the heat or too long",
+            "why_it_happens": "Inexperience with broilers can cause burning instead of crisping.",
+            "fix": "Place the baking sheet a safe distance from the broiler and watch closely, flipping halfway through to avoid burning and achieve even crispiness."
+        },
+        {
+            "mistake": "Reheating carnitas in the microwave",
+            "why_it_happens": "Microwaving is quick but causes sogginess and loss of crisp texture.",
+            "fix": "Reheat leftovers in a skillet or oven to maintain the crispy edges and juicy interior. Add a splash of water if needed to keep moist."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Slow Cooker Version",
+            "description": "For those without an Instant Pot, cook the seasoned pork shoulder in a slow cooker on low for 8 hours until tender. Then transfer to a baking sheet and broil to crisp the edges. Expect a slightly different texture—more fall-apart soft but still delicious.",
+            "technical_note": "Slow cooking yields very tender pork but requires longer time. Broiling crisping step remains essential for texture contrast."
+        },
+        {
+            "name": "Spicy Chipotle Carnitas",
+            "description": "Add 1-2 chipotle peppers in adobo sauce to the cooking liquid for smoky heat. This variation adds a nice smoky depth and a spicy kick that pairs well with the citrus and cumin.",
+            "technical_note": "Adjust chipotle quantity to taste. The peppers soften during cooking and infuse flavor evenly."
+        },
+        {
+            "name": "Pineapple Carnitas",
+            "description": "Mix in 1 cup crushed pineapple with the orange juice for a tropical sweetness. The pineapple’s enzymes help tenderize the pork further and add a bright fruity note.",
+            "technical_note": "Pineapple can speed up tenderizing; monitor texture to avoid over-softening."
+        },
+        {
+            "name": "Carnitas Tacos with Pickled Onions",
+            "description": "Serve the carnitas in warm corn tortillas topped with quick-pickled red onions and fresh cilantro for a classic taco experience. The pickled onions add acidity and crunch.",
+            "technical_note": "Pickled onions can be made ahead and stored refrigerated for up to 1 week."
+        },
+        {
+            "name": "Carnitas Nachos",
+            "description": "Use the crispy carnitas as a topping for loaded nachos with melted cheese, jalapeños, and guacamole. Perfect for game day or parties.",
+            "technical_note": "Broil the carnitas separately before adding to nachos to maintain crispiness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "480 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "6g",
+        "fat_grams": "34g",
+        "fiber_grams": "1g",
+        "sodium_mg": "750mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Crispy carnitas should not be left out at room temperature for more than 2 hours to avoid food safety risks. Cover loosely if serving buffet-style for short periods.",
+        "refrigerator": "Store leftovers in an airtight container in the refrigerator for up to 4 days. The pork may lose some crispiness but reheating in an oven or skillet restores texture well.",
+        "freezer": "Freeze carnitas in airtight containers or freezer bags for up to 3 months. Thaw overnight in the refrigerator before reheating. Avoid refreezing thawed pork for best quality.",
+        "reheating": "Reheat carnitas in a skillet over medium heat or in a 350°F oven until warmed through and crispy. Add a splash of water or broth if needed to prevent drying. Avoid microwaving to keep edges crisp.",
+        "make_ahead_strategy": "You can prepare the carnitas fully in the Instant Pot up to 2 days ahead, then refrigerate. Broil just before serving to crisp the edges fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I use pork loin instead of pork shoulder for carnitas?",
+            "answer": "Pork loin is much leaner and doesn’t have the same fat content or connective tissue as pork shoulder. This means it won’t become as tender or flavorful and can dry out during cooking. For best results, stick with pork shoulder or pork butt, which have the marbling and collagen needed for juicy, tender carnitas."
+        },
+        {
+            "question": "What if I don’t have an Instant Pot? Can I make this on the stove?",
+            "answer": "Yes, you can simmer the pork chunks in a covered pot with the citrus and spices on low heat for 2-3 hours until tender. Then transfer to a baking sheet and broil to crisp. The Instant Pot just speeds up the cooking process but the flavor and texture can still be achieved with slower stovetop cooking."
+        },
+        {
+            "question": "How do I prevent the pork from drying out during broiling?",
+            "answer": "Broil the pork in a single layer and watch closely, flipping halfway through. Keep the broiler rack a few inches from the heat source to avoid burning. The rendered fat from the pork helps keep it moist while crisping the edges."
+        },
+        {
+            "question": "Can I make this recipe spicier?",
+            "answer": "Absolutely! Add chopped jalapeños or chipotle peppers in adobo sauce to the cooking liquid for smoky heat. Adjust the chili powder quantity or add cayenne pepper to taste. Just be mindful not to overpower the citrus and pork flavors."
+        },
+        {
+            "question": "Is it necessary to brown the pork before pressure cooking?",
+            "answer": "Browning is highly recommended because it develops flavor through the Maillard reaction and improves the final color and texture. Skipping it results in less flavorful carnitas with a paler appearance."
+        },
+        {
+            "question": "How do I reheat leftovers without losing crispiness?",
+            "answer": "Avoid microwaving, which makes the pork soggy. Instead, reheat in a skillet over medium heat or in a 350°F oven until warmed and crispy. Adding a splash of water or broth can help keep the meat moist."
+        },
+        {
+            "question": "Can I freeze cooked carnitas?",
+            "answer": "Yes, cooked carnitas freeze well for up to 3 months. Store in airtight containers or freezer bags and thaw overnight in the refrigerator. Reheat as usual, crisping under the broiler or in a skillet."
+        },
+        {
+            "question": "What sides go well with carnitas?",
+            "answer": "Carnitas pair wonderfully with warm corn tortillas, salsa verde, pickled onions, guacamole, rice, and beans. Fresh cilantro and lime wedges add brightness that balances the rich pork."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this crispy carnitas Instant Pot recipe as much as my family does. It’s a simple way to get tender, flavorful pork with that perfect crispy finish. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "crispy carnitas instant pot recipe",
+        "secondary_keywords": [
+            "instant pot carnitas",
+            "how to make carnitas",
+            "best carnitas recipe",
+            "easy carnitas recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "pressure cooking pork tips",
+                "anchor": "pressure-cooking-pork-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "5200"
+    },
+    "category_id": "cat_1761229889_885",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-16 23:18:36",
+        "title_seed": "Crispy Carnitas Instant Pot Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1784243916_609",
+    "slug": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time",
+    "uniqueSlug": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_1.webp",
+            "relativePath": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_2.webp",
+            "relativePath": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_3.webp",
+            "relativePath": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_5.webp",
+            "filePath": "posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_5.webp",
+            "relativePath": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Crispy Carnitas Instant Pot Foolproof"
+        },
+        {
+            "fileName": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_4.webp",
+            "filePath": "posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_4.webp",
+            "relativePath": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Restaurant Crispy Carnitas Taste Better Than Yours?"
+        },
+        {
+            "fileName": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_6.webp",
+            "filePath": "posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_6.webp",
+            "relativePath": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Crispy Carnitas Finish for Busy Weeknights"
+        },
+        {
+            "fileName": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_9.webp",
+            "filePath": "posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_9.webp",
+            "relativePath": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Restaurant Crispy Carnitas Taste Better Than Yours?"
+        },
+        {
+            "fileName": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_7.webp",
+            "filePath": "posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_7.webp",
+            "relativePath": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Pork? This Crispy Carnitas Instant Pot Fixes It"
+        },
+        {
+            "fileName": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_8.webp",
+            "filePath": "posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_8.webp",
+            "relativePath": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Restaurant Crispy Carnitas Taste Better Than Yours?"
+        }
+    ],
+    "image": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_1.webp",
+    "image_path": "posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_1.webp",
+    "image_dir": "crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-17T00:36:57+01:00",
+    "updatedAt": "2026-07-17T00:36:57+01:00",
+    "has_reel": true
+}
