@@ -1,0 +1,362 @@
+{
+    "title": "Easy Sheet Pan Breakfast Recipes for a Crowd That Everyone Will Love",
+    "promptIMG": "Food photography: sheet pan breakfast with scrambled eggs, crispy bacon, roasted potatoes, and sautéed peppers, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred behind with morning light streaming through a window, faint reflections on a wooden countertop, no recognizable objects in focus. SUBJECT: a large sheet pan filled with a colorful breakfast spread including fluffy scrambled eggs with golden edges, crispy browned bacon strips, roasted golden potatoes with caramelized skins, and vibrant sautéed red and green peppers, the front corner piece razor-sharp at a 30-degree angle showing the crispy texture of the bacon and the fluffy eggs, the rest gently fading into soft bokeh. DETAILS: warm golden caramelization on potatoes, glossy sheen on eggs, slight crisp on bacon edges, fresh herb sprinkles scattered on top, natural crumbs and irregularities visible. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm amber tones, rich saturated colors that pop, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no logos, no steam or smoke, no over-smoothing or plastic textures.",
+        "img2": "SCENE: soft light blur behind a warm marble surface with gentle daylight from a nearby window, airy and fresh. SUBJECT: the reveal shot of the sheet pan breakfast — a section cut out showing the interior textures: the scrambled eggs fluffy and moist with a slight melt, bacon strips curling with crispy edges, roasted potatoes with a golden crust and tender inside, and sautéed peppers glistening with a light sheen. The opened corner fills 90% of the frame with razor-sharp focus on the oozing moist eggs and crispy bacon edges. DETAILS: the interior glistens with natural oils and caramelization, contrasting with the matte roasted potato skins, fresh herbs sprinkled on top, crumbs scattered naturally below. STYLE: ultra-photorealistic professional food photography, bright daylight with warm amber highlights, vibrant saturated colors, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no logos, no steam or smoke, no plastic or CGI look.",
+        "img3": "SCENE: warm dark wood background softly blurred with a single warm side glow creating a cozy atmosphere. SUBJECT: several portions of the sheet pan breakfast arranged close together on the pan, with crispy bacon strips layered over fluffy scrambled eggs and golden roasted potatoes, accompanied by a small bowl of fresh salsa on the side. The front piece is razor-sharp showing the glossy sheen on the eggs and bacon, the rest fading softly into warm bokeh. DETAILS: intense glossy shine on bacon and eggs, deep amber caramelization on potatoes, fresh herb sprinkles and a light dusting of black pepper, natural crumbs and textures visible. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich saturated appetizing tones, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no logos, no steam or smoke, no over-smoothing or plastic textures."
+    },
+    "description": "This sheet pan breakfast recipe is a lifesaver when feeding a crowd. It brings together fluffy eggs, crispy bacon, and roasted potatoes all in one pan. I love how easy it is to prep and how everyone gets exactly what they want!",
+    "hashtags": "#sheetpanbreakfast #breakfastforacrowd #easybreakfastrecipes",
+    "board_name": "Morning Meals",
+    "pin_variations": [
+        {
+            "title": "Why Does Sheet Pan Breakfast Taste Better for a Crowd?",
+            "description": "Discover the secret behind this crowd-pleasing sheet pan breakfast that’s juicy, crispy, and packed with flavor. Perfect for weekend brunches or holiday mornings. Save this for your next gathering! #sheetpanbreakfast #breakfastideas #easyrecipes"
+        },
+        {
+            "title": "The One Trick That Makes Sheet Pan Breakfast Foolproof Every Time",
+            "description": "Want perfectly cooked eggs and crispy bacon without fuss? This simple tip will change how you make sheet pan breakfasts forever. Easy, delicious, and ready fast! Tap to get the full recipe. #breakfastrecipes #sheetpanmeals #familydinner"
+        },
+        {
+            "title": "15-Minute Sheet Pan Breakfast for Busy Mornings with a Crowd",
+            "description": "Short on time but need to feed a crowd? This quick sheet pan breakfast comes together in 15 minutes and is a total crowd-pleaser. Juicy, crispy, and satisfying! Save this for busy mornings. #quickbreakfast #sheetpanrecipes #familymeals"
+        },
+        {
+            "title": "Sheet Pan Breakfast vs Traditional Cooking – Which Is Easier?",
+            "description": "Compare sheet pan breakfast to cooking each item separately and see why this one-pan method wins on flavor and cleanup. Perfect for feeding a crowd with minimal effort. Try it this weekend! #sheetpanbreakfast #easyrecipes #mealprep"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "12 large eggs, lightly beaten",
+        "1 pound thick-cut bacon, cut into strips",
+        "4 cups diced Yukon gold potatoes",
+        "1 red bell pepper, diced",
+        "1 green bell pepper, diced",
+        "1 small onion, diced",
+        "2 tablespoons olive oil",
+        "1 teaspoon salt",
+        "½ teaspoon black pepper",
+        "2 tablespoons chopped fresh parsley"
+    ],
+    "yield": "Approximately 8 servings",
+    "introduction": "I first made this sheet pan breakfast recipe when hosting a family brunch and realized how much easier it was to cook everything on one pan instead of juggling multiple dishes. What makes this version special is the balance of textures — fluffy eggs, crispy bacon, and tender roasted potatoes all cooked together, which lets the flavors mingle beautifully. I’ve found that roasting the potatoes first before adding the eggs ensures everything finishes perfectly without overcooking the eggs. Plus, the diced peppers and onions add a fresh pop of color and sweetness that brightens the dish. This recipe is a real crowd-pleaser, ideal for weekend mornings or holidays when you want to feed a larger group without spending hours in the kitchen. The finished breakfast looks inviting with golden edges on the eggs and bacon that’s just crisp enough to snap, making it a comforting yet simple meal everyone will enjoy. I always get asked for the recipe because it’s so easy and tastes like I spent all morning cooking, but really it’s just smart layering and timing that does the trick.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 400°F (200°C). Spread the diced potatoes evenly on a large rimmed sheet pan. Drizzle with olive oil, sprinkle with half the salt and pepper, and toss to coat well. Roast the potatoes for 15 minutes, stirring halfway through, so they develop a crispy golden crust while remaining tender inside. This step is crucial because potatoes take longer to cook than eggs and bacon, and roasting them first ensures they’re perfectly cooked without overbaking the other ingredients.",
+            "timing": 15,
+            "doneness_cue": "Potatoes are golden brown and crisp on the edges but tender when pierced with a fork."
+        },
+        {
+            "step": 2,
+            "instruction": "While the potatoes roast, prepare the bacon by cutting it into strips. After the initial 15 minutes of roasting, remove the sheet pan from the oven and scatter the bacon pieces evenly over the potatoes. Return the pan to the oven and roast for another 10 minutes. This allows the bacon to crisp up without burning, and the rendered fat flavors the potatoes. Avoid crowding the pan to ensure the bacon crisps evenly.",
+            "timing": 10,
+            "doneness_cue": "Bacon is browned and crispy but not burnt, with some rendered fat pooling around the potatoes."
+        },
+        {
+            "step": 3,
+            "instruction": "While the bacon and potatoes cook, sauté the diced bell peppers and onions in a skillet over medium heat with a tablespoon of olive oil until softened and lightly caramelized, about 5 minutes. This step adds sweetness and depth to the dish and prevents the vegetables from releasing too much moisture on the sheet pan, which could make the eggs soggy.",
+            "timing": 5,
+            "doneness_cue": "Peppers and onions are tender, slightly browned, and fragrant."
+        },
+        {
+            "step": 4,
+            "instruction": "Remove the sheet pan from the oven. Pour the beaten eggs evenly over the potatoes and bacon, then evenly distribute the sautéed peppers and onions on top. Sprinkle the remaining salt and pepper over everything. The eggs will cook quickly, so work efficiently to spread them out evenly for consistent cooking.",
+            "timing": 5,
+            "doneness_cue": "Eggs are evenly distributed and the surface is smooth without pooling."
+        },
+        {
+            "step": 5,
+            "instruction": "Return the sheet pan to the oven and bake for 10-12 minutes until the eggs are set but still moist. Check frequently starting at 10 minutes to avoid overcooking. The eggs should be fluffy and slightly golden on top, not rubbery or dry.",
+            "timing": 10,
+            "doneness_cue": "Eggs are firm to the touch but still moist, with a slight golden color on top."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the sheet pan from the oven and sprinkle chopped fresh parsley on top for a fresh, herbal note and vibrant color contrast. Let the breakfast rest for 3-5 minutes before serving to allow flavors to meld and the eggs to finish setting.",
+            "timing": 5,
+            "doneness_cue": "Parsley is bright green and fresh, eggs and bacon glisten slightly."
+        },
+        {
+            "step": 7,
+            "instruction": "Use a spatula to cut the sheet pan breakfast into squares or rectangles for easy serving. Be gentle to keep the layers intact. Serve warm with optional hot sauce or ketchup on the side.",
+            "timing": 3,
+            "doneness_cue": "Squares hold together without falling apart; layers visible when served."
+        },
+        {
+            "step": 8,
+            "instruction": "If desired, garnish individual servings with additional fresh herbs or a sprinkle of shredded cheese for extra richness. This adds a personalized touch and enhances flavor without complicating the base recipe.",
+            "timing": 2,
+            "doneness_cue": "Cheese is slightly melted and herbs look fresh."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up the sheet pan promptly after serving to prevent baked-on residue. Soak with warm soapy water if needed. Keeping the pan in good condition ensures even cooking next time.",
+            "timing": 5,
+            "doneness_cue": "Pan is clean with no stubborn residue."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Sheet Pan Breakfast Works So Well",
+        "content": "<p>This sheet pan breakfast recipe succeeds because it balances cooking times and textures by layering ingredients strategically. Potatoes take the longest to cook and need dry heat to develop a crispy exterior through the Maillard reaction. Starting them first ensures they get that golden crust without overcooking the more delicate eggs and bacon.</p><p>Bacon crisps best when exposed to high heat without overcrowding. By adding it after the potatoes have partially cooked, the bacon renders fat that flavors the potatoes and eggs while crisping evenly. The Maillard browning on bacon adds deep savory notes that elevate the dish.</p><p>Eggs cook quickly and can become rubbery if overbaked. Pouring beaten eggs over the partially cooked potatoes and bacon allows them to set gently in the rendered fat, resulting in a tender, custardy texture. The sautéed peppers and onions add moisture and sweetness but are pre-cooked to avoid sogginess and ensure they caramelize properly.</p><p>Finally, fresh herbs added at the end provide a bright contrast to the rich, savory ingredients. The combination of roasting, sautéing, and layering creates a harmonious dish that’s easy to prepare yet full of flavor and texture contrast.</p>",
+        "ingredient_notes": {
+            "eggs": "Look for fresh, large eggs with bright yolks for the best flavor and texture. Fresh eggs hold together better when beaten and cook to a fluffier consistency. Avoid overbeating, which can make eggs tough. Organic or free-range eggs add a richer taste but are optional.",
+            "bacon": "Choose thick-cut bacon for a meatier, crispier texture that stands up well to roasting. Avoid thin slices that may burn quickly. Look for bacon with a good balance of fat and meat for flavor and moisture. You can substitute turkey bacon, but expect less fat and crispiness.",
+            "potatoes": "Yukon gold potatoes are ideal because they have a creamy interior and thin skins that crisp nicely. Russets are an alternative but may be drier. Cut potatoes evenly to ensure uniform cooking. Parboiling is optional but roasting raw gives more texture.",
+            "bell peppers": "Red and green bell peppers add color and sweetness. Choose firm peppers without soft spots. Dicing them small helps them cook quickly and evenly. You can swap with other sweet peppers or omit if preferred.",
+            "olive oil": "Use good-quality extra virgin olive oil for flavor and moisture. It helps the potatoes crisp and keeps the eggs from sticking. Avoid using too much oil, which can make the dish greasy; just enough to coat ingredients evenly."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pre-roast the potatoes before adding other ingredients.",
+            "reason": "Potatoes need longer to cook and develop a crispy crust through the Maillard reaction. Starting them first ensures they get that perfect golden texture without overcooking the eggs or bacon."
+        },
+        {
+            "tip": "Sauté peppers and onions separately before adding to the pan.",
+            "reason": "Pre-cooking vegetables prevents them from releasing excess moisture on the sheet pan, which could make the eggs watery and prevent proper browning."
+        },
+        {
+            "tip": "Cut bacon into strips before roasting.",
+            "reason": "Smaller pieces cook more evenly and crisp up better. It also allows rendered fat to distribute over the potatoes and eggs, enhancing flavor."
+        },
+        {
+            "tip": "Use a rimmed sheet pan to contain all ingredients and juices.",
+            "reason": "A rimmed pan prevents spills and keeps rendered fat and juices close to the food, which helps with flavor and even cooking."
+        },
+        {
+            "tip": "Don’t overcrowd the pan.",
+            "reason": "Crowding traps moisture, leading to steaming rather than roasting, which prevents crisp textures and browning."
+        },
+        {
+            "tip": "Let the finished dish rest before serving.",
+            "reason": "Resting allows residual heat to finish cooking the eggs gently and helps flavors meld, making the dish more cohesive."
+        },
+        {
+            "tip": "Use fresh herbs as a finishing touch.",
+            "reason": "Fresh herbs brighten the dish with color and flavor contrast, balancing the richness of bacon and eggs."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding eggs too early and overcooking them.",
+            "why_it_happens": "Cooks often pour eggs on the pan too soon, resulting in rubbery, dry eggs because eggs cook faster than potatoes and bacon.",
+            "fix": "Roast potatoes and bacon first, then add eggs near the end to ensure they cook just enough to be moist and tender."
+        },
+        {
+            "mistake": "Overcrowding the sheet pan.",
+            "why_it_happens": "Trying to fit too much on one pan traps moisture and prevents browning.",
+            "fix": "Use a large enough pan or split ingredients between two pans to allow air circulation and proper roasting."
+        },
+        {
+            "mistake": "Skipping sautéing peppers and onions.",
+            "why_it_happens": "Adding raw vegetables directly can release water, making eggs watery.",
+            "fix": "Sauté vegetables separately to caramelize and reduce moisture before adding them to the pan."
+        },
+        {
+            "mistake": "Using thin bacon slices.",
+            "why_it_happens": "Thin bacon burns quickly and doesn’t crisp well in the oven.",
+            "fix": "Choose thick-cut bacon for better texture and flavor."
+        },
+        {
+            "mistake": "Not letting the dish rest before serving.",
+            "why_it_happens": "Serving immediately can cause eggs to be too soft or runny.",
+            "fix": "Let the sheet pan breakfast rest 3-5 minutes to finish cooking and set."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Sheet Pan Breakfast",
+            "description": "Omit the bacon and add extra vegetables like mushrooms, zucchini, and cherry tomatoes. Use smoked paprika and garlic powder for a smoky flavor without meat. The texture will be lighter but still satisfying with roasted potatoes and eggs.",
+            "technical_note": "Roast vegetables longer if adding dense veggies to ensure tenderness."
+        },
+        {
+            "name": "Cheesy Sheet Pan Breakfast",
+            "description": "Sprinkle shredded cheddar or mozzarella cheese over the eggs before baking. The cheese melts and creates a creamy, gooey layer that adds richness and flavor to the dish.",
+            "technical_note": "Add cheese in the last 5 minutes of baking to prevent burning."
+        },
+        {
+            "name": "Spicy Sheet Pan Breakfast",
+            "description": "Add diced jalapeños or a dash of cayenne pepper to the eggs and vegetables for a spicy kick. Serve with hot sauce on the side for extra heat. This variation adds warmth and depth without overwhelming the flavors.",
+            "technical_note": "Adjust spice levels to taste and avoid overpowering the eggs."
+        },
+        {
+            "name": "Herbed Sheet Pan Breakfast",
+            "description": "Mix fresh herbs like thyme, rosemary, and chives into the eggs before baking. The herbs infuse the dish with aromatic notes, making it taste fresh and vibrant.",
+            "technical_note": "Use finely chopped herbs to distribute flavor evenly."
+        },
+        {
+            "name": "Sweet Potato Sheet Pan Breakfast",
+            "description": "Swap Yukon gold potatoes for cubed sweet potatoes for a naturally sweeter flavor and vibrant color. Sweet potatoes roast slightly faster, so adjust timing accordingly to avoid burning.",
+            "technical_note": "Check doneness earlier and stir sweet potatoes halfway through roasting."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "410 kcal",
+        "protein_grams": "24g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "22g",
+        "fiber_grams": "4g",
+        "sodium_mg": "650mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The sheet pan breakfast can safely sit at room temperature for up to 2 hours if covered loosely with foil or a clean kitchen towel to prevent drying out.",
+        "refrigerator": "Store leftovers in an airtight container in the refrigerator for up to 3 days. The texture of eggs may firm up and bacon can lose crispiness. Reheat gently to avoid drying out.",
+        "freezer": "Freeze portions wrapped tightly in plastic wrap and foil for up to 2 months. To thaw, place in refrigerator overnight before reheating.",
+        "reheating": "Reheat leftovers in a 350°F oven for 10-15 minutes covered with foil to prevent drying. Alternatively, microwave on medium power in short intervals, stirring gently to heat evenly. Add a splash of water if eggs seem dry.",
+        "make_ahead_strategy": "You can chop vegetables and par-cook potatoes a day ahead, then assemble and bake fresh in the morning. Pre-sauté peppers and onions and store separately to add just before baking."
+    },
+    "faq": [
+        {
+            "question": "Can I make this sheet pan breakfast gluten-free?",
+            "answer": "Yes! This recipe is naturally gluten-free as it contains eggs, bacon, potatoes, and vegetables. Just be sure to check that your bacon and any seasonings don't contain hidden gluten additives."
+        },
+        {
+            "question": "How do I prevent the eggs from overcooking?",
+            "answer": "Add the eggs after the potatoes and bacon have cooked most of the way, then bake only until the eggs are just set and still moist. Check frequently starting at 10 minutes to avoid dryness."
+        },
+        {
+            "question": "Can I use turkey bacon instead of pork bacon?",
+            "answer": "Yes, but turkey bacon has less fat and crisps differently. You might want to add a bit more oil to compensate and watch cooking times closely to avoid drying out."
+        },
+        {
+            "question": "What if I don’t have a large sheet pan?",
+            "answer": "You can use two smaller pans to avoid overcrowding, which helps with even cooking and crisping. Just rotate pans halfway through baking for best results."
+        },
+        {
+            "question": "Can I prepare this recipe the night before?",
+            "answer": "You can chop and par-cook the potatoes and sauté the vegetables ahead, then assemble and bake fresh in the morning for best texture and flavor."
+        },
+        {
+            "question": "How do I keep the bacon crispy after baking?",
+            "answer": "Avoid covering the sheet pan tightly after baking. Let the bacon rest uncovered for a few minutes to stay crisp. Reheat gently to prevent sogginess."
+        },
+        {
+            "question": "Can I add cheese to this recipe?",
+            "answer": "Absolutely! Sprinkle shredded cheese over the eggs in the last 5 minutes of baking for a melty, creamy addition."
+        },
+        {
+            "question": "Is it okay to use frozen diced potatoes?",
+            "answer": "Yes, but thaw and pat dry first to remove excess moisture, which can prevent crisping. You might need to roast a bit longer to get a golden crust."
+        }
+    ],
+    "conclusion": "I hope you enjoy this easy sheet pan breakfast as much as my family does. It’s perfect for feeding a crowd with minimal fuss, and I’d love to hear how yours turns out!",
+    "seo": {
+        "primary_keyword": "sheet pan breakfast recipes for a crowd",
+        "secondary_keywords": [
+            "easy sheet pan breakfast",
+            "breakfast recipes for a crowd",
+            "how to make sheet pan breakfast",
+            "best sheet pan breakfast recipe",
+            "easy breakfast recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "easy breakfast casserole",
+                "anchor": "easy-breakfast-casserole"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-17 11:47:59",
+        "title_seed": "Sheet Pan Breakfast Recipes For A Crowd"
+    },
+    "author_id": "author_001",
+    "id": "post_1784288879_302",
+    "slug": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love",
+    "uniqueSlug": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_8.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Sheet Pan Breakfast Taste Better for a Crowd?"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_9.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Sheet Pan Breakfast Taste Better for a Crowd?"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_6.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Sheet Pan Breakfast for Busy Mornings with a Crowd"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_4.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Sheet Pan Breakfast Taste Better for a Crowd?"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_5.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Sheet Pan Breakfast Foolproof Every Time"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_7.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Sheet Pan Breakfast vs Traditional Cooking – Which Is Easier?"
+        }
+    ],
+    "image": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_1.webp",
+    "image_dir": "easy-sheet-pan-breakfast-recipes-for-a-crowd-that-everyone-will-love/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-17T12:51:25+01:00",
+    "updatedAt": "2026-07-17T12:51:25+01:00",
+    "has_reel": true
+}
