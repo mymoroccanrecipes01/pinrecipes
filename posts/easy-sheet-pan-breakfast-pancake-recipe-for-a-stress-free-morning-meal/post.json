@@ -1,0 +1,362 @@
+{
+    "title": "Easy Sheet Pan Breakfast Pancake Recipe for a Stress-Free Morning Meal",
+    "promptIMG": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm morning light streaming through a window, faint reflections on a wooden countertop. SUBJECT: a large rectangular sheet pan filled with golden-brown fluffy pancakes arranged in neat rows, edges slightly crispy, filling 95% of the frame with the pan cropped at edges; the front pancakes sharp in focus showing delicate bubbles and caramelized edges, rest softly fading into bokeh. DETAILS: a light drizzle of maple syrup glistening on top, a few fresh blueberries scattered across, powdered sugar dusted lightly, natural crumbs on the pan surface. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm amber tones, rich saturated colors highlighting the golden crust and fresh fruit; shallow depth of field; vertical 2:3. AVOID: no text, logos, hands, or artificial colors; no steam or smoke.",
+        "img2": "SCENE: soft blurred background of a marble countertop with natural daylight from a nearby window. SUBJECT: a close-up reveal shot of a single pancake piece cut from the sheet pan, lifted slightly showing its moist, airy crumb interior with a small pool of melted butter slowly oozing down the side; the edges crisp and golden with tiny bubbles visible. DETAILS: the pancake interior glistens with buttery shine contrasted against the caramelized crust; a few blueberries embedded inside; crumbs scattered below. STYLE: ultra-photorealistic professional food photography, bright daylight with warm golden hues, rich saturation emphasizing texture and moisture; shallow macro depth of field; vertical 2:3. AVOID: no hands, text, logos, or artificial effects.",
+        "img3": "SCENE: warm dark wood surface softly blurred behind with a warm side glow highlighting the food. SUBJECT: several stacked pancakes from the sheet pan arranged on a rustic white ceramic plate, topped generously with a pat of melting butter and a drizzle of amber maple syrup cascading down the sides; fresh blueberries and a sprig of mint as garnish; the stack fills 95% of the frame with the front pancake sharp and detailed. DETAILS: intense glossy shine on syrup, deep golden caramelization on edges, powdered sugar dusting settling naturally into crevices, crumbs scattered around the plate. STYLE: ultra-photorealistic professional food photography, warm golden-amber color grade, rich saturated appetizing tones; shallow macro depth of field; vertical 2:3. AVOID: no hands, text, logos, or artificial lighting."
+    },
+    "description": "This sheet pan breakfast pancake recipe makes mornings so much easier! You bake a whole batch at once, and the pancakes come out perfectly fluffy with crispy edges. Great for feeding the family without the mess of flipping stacks.",
+    "hashtags": "#sheetpanpancakes #breakfastrecipe #easybreakfast",
+    "board_name": "Morning Meals",
+    "pin_variations": [
+        {
+            "title": "Why Does This Sheet Pan Breakfast Pancake Recipe Save So Much Time?",
+            "description": "Tired of flipping pancakes one by one? This sheet pan recipe bakes a whole batch at once with perfect fluffiness and crispy edges. 🍴 Save this for your next busy morning! #sheetpanpancakes #easybreakfast #familymeals"
+        },
+        {
+            "title": "The One Trick That Makes Sheet Pan Breakfast Pancakes So Fluffy",
+            "description": "Discover the secret ingredient that keeps these sheet pan pancakes light and airy while baking evenly. 🥞 Perfect for a hassle-free breakfast. Tap to get the full recipe! #breakfastideas #sheetpanpancakes #easyrecipes"
+        },
+        {
+            "title": "15-Minute Sheet Pan Breakfast Pancake Recipe for Busy Weekends",
+            "description": "Make a big batch of pancakes with minimal effort and time. This sheet pan method is quick, mess-free, and delicious! 🍓 Save it for your next weekend brunch. #easybreakfast #sheetpanpancakes #quickrecipes"
+        },
+        {
+            "title": "Sheet Pan vs Skillet Pancakes – Which Is Better for Breakfast?",
+            "description": "Compare the classic skillet pancakes to the easy sheet pan method. Find out why I prefer baking pancakes all at once for a stress-free morning. 🥞 Save this for your breakfast inspiration! #sheetpanpancakes #breakfastrecipes #familymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "2 tablespoons granulated sugar",
+        "1 tablespoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "2 large eggs",
+        "2 cups buttermilk, room temperature",
+        "1/4 cup unsalted butter, melted and cooled",
+        "1 teaspoon vanilla extract",
+        "1 cup fresh blueberries (optional)",
+        "Butter and maple syrup for serving"
+    ],
+    "yield": "Approximately 12 large pancakes, 6 servings",
+    "introduction": "I first tried making breakfast pancakes on a sheet pan a few years ago when I wanted to feed my family quickly without standing over the stove flipping pancakes one by one. It was a game changer! This recipe is my go-to for weekend mornings when I want fluffy pancakes with crispy edges but without the usual mess. What makes this version special is the balance of baking powder and baking soda for lift, plus the buttermilk that adds a subtle tang and tender crumb. I also love melting butter into the batter for richness and brushing some on top before baking to get that golden crust. The result is a big batch of perfectly cooked pancakes all at once, with a lovely texture that’s soft inside and slightly crisp on the outside. Plus, you can add blueberries right in for a fresh burst of flavor. It’s just so easy and satisfying — perfect for feeding a hungry family or a brunch crowd. I hope you enjoy it as much as we do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C) and lightly grease a rimmed sheet pan with butter or non-stick spray. This high temperature helps the pancakes rise quickly and develop a golden crust. Make sure your oven is fully preheated before baking to ensure even cooking and prevent soggy pancakes.",
+            "timing": 10,
+            "doneness_cue": "Oven reaches 425°F and sheet pan is evenly greased with no bare spots."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt. This dry mix forms the base and the leavening agents will give the pancakes their lift and fluffy texture. Mixing dry ingredients first ensures even distribution and prevents clumping.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients thoroughly combined with no lumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, beat the eggs and then whisk in the buttermilk, melted butter, and vanilla extract. The buttermilk’s acidity reacts with the baking soda to create bubbles, making the pancakes tender and airy. Make sure the melted butter is cooled so it doesn’t cook the eggs prematurely.",
+            "timing": 5,
+            "doneness_cue": "Wet ingredients are smooth and well combined."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the wet ingredients into the dry and gently fold together with a spatula until just combined. Avoid overmixing to keep the batter light and prevent tough pancakes. It’s okay if there are a few lumps remaining.",
+            "timing": 3,
+            "doneness_cue": "Batter is mixed but still slightly lumpy and thick."
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in fresh blueberries if using, distributing them evenly but gently. This adds bursts of juicy sweetness without breaking the batter too much.",
+            "timing": 2,
+            "doneness_cue": "Blueberries evenly scattered throughout the batter."
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the batter onto the prepared sheet pan and spread evenly with a spatula to about 1/2-inch thickness. Spreading evenly ensures uniform cooking and consistent pancake thickness across the pan.",
+            "timing": 3,
+            "doneness_cue": "Batter is level and smooth across the pan surface."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the pancakes for 15-20 minutes until the edges are golden brown and a toothpick inserted in the center comes out clean. The high oven heat will give the edges a slight crisp while keeping the inside fluffy.",
+            "timing": 20,
+            "doneness_cue": "Pancakes are puffed, golden, and toothpick comes out clean."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the sheet pan from the oven and let the pancakes cool for a few minutes. This resting time helps them set and makes cutting easier without crumbling.",
+            "timing": 5,
+            "doneness_cue": "Pancakes feel set and slightly firm to the touch."
+        },
+        {
+            "step": 9,
+            "instruction": "Cut the pancakes into squares or rectangles directly on the pan and serve warm with butter and maple syrup. The sheet pan method makes serving easy and mess-free, perfect for a family breakfast.",
+            "timing": 2,
+            "doneness_cue": "Pancakes cut cleanly with soft, fluffy interiors visible."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind Perfect Sheet Pan Pancakes",
+        "content": "<p>Sheet pan pancakes may seem simple, but there’s a bit of chemistry that makes them turn out so well. The first key is the balance of leavening agents: baking powder and baking soda. Baking powder provides a steady rise, while baking soda reacts with the acidity in buttermilk to create carbon dioxide bubbles that lighten the batter quickly. This combination ensures the pancakes are fluffy and tender inside.</p><p>Buttermilk is another star player here. Its acidity not only activates the baking soda but also breaks down gluten strands in the flour, resulting in a softer crumb. The melted butter folded into the batter adds richness and helps create a tender texture, while brushing some on top before baking encourages a beautiful golden crust.</p><p>The high oven temperature of 425°F is crucial. It jump-starts the rise and caramelization, giving the edges a slight crispness that contrasts delightfully with the soft interior. Spreading the batter evenly in a thin layer allows uniform heat penetration, so every pancake cooks through without sogginess.</p><p>Finally, folding in blueberries or other mix-ins gently prevents the batter from deflating, preserving the airy texture. Resting the pancakes briefly after baking lets the structure set, making them easy to cut and serve without falling apart.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good-quality all-purpose flour with moderate protein content (around 10-11%). This level provides enough gluten formation for structure while still allowing tenderness. Avoid bread flour which is too strong and can make pancakes tough. Measure flour by spooning it into the cup and leveling off to avoid dense batter.",
+            "baking powder": "Use fresh baking powder for best lift. It’s a mix of acid and base that releases carbon dioxide when moistened and heated. This helps give pancakes their fluffy rise. Old or expired baking powder won’t react well, resulting in flat pancakes.",
+            "baking soda": "Baking soda is pure sodium bicarbonate and requires an acid to activate it, such as buttermilk. It produces carbon dioxide quickly, creating bubbles that lighten the batter. Too much baking soda can cause a soapy taste, so measure carefully.",
+            "buttermilk": "The acidity in buttermilk tenderizes the batter and reacts with baking soda to produce lift. Use full-fat buttermilk at room temperature for best results. If you don’t have buttermilk, mix 2 tablespoons lemon juice or vinegar with milk and let sit 5 minutes.",
+            "unsalted butter": "Melted and cooled butter adds moisture and richness to the batter. Using unsalted butter lets you control the salt level in the recipe. Adding butter before mixing the wet and dry ingredients ensures even distribution and prevents greasy pockets."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Make sure your oven is fully preheated before baking the pancakes.",
+            "reason": "A fully preheated oven at 425°F ensures the batter sets quickly and the pancakes develop a golden crust. If you put the pan in too early, the batter may spread too much and result in soggy pancakes."
+        },
+        {
+            "tip": "Don’t overmix the batter; leave some lumps for fluffier pancakes.",
+            "reason": "Overmixing develops gluten which can make pancakes tough and dense. Leaving a few lumps means less gluten formation and a lighter texture."
+        },
+        {
+            "tip": "Use room temperature buttermilk and melted butter for better batter consistency.",
+            "reason": "Cold liquids can cause the batter to seize or mix unevenly. Room temperature ingredients blend smoothly, ensuring even rise and texture."
+        },
+        {
+            "tip": "Spread the batter evenly across the sheet pan to ensure uniform cooking.",
+            "reason": "Uneven batter thickness causes some pancakes to undercook while others overcook. A level layer guarantees consistent texture and doneness."
+        },
+        {
+            "tip": "Add fresh blueberries gently to avoid breaking the batter.",
+            "reason": "Stirring vigorously can deflate the batter’s air bubbles, reducing fluffiness. Gently folding preserves the light texture."
+        },
+        {
+            "tip": "Let the pancakes rest a few minutes after baking before cutting.",
+            "reason": "Resting allows the structure to set, preventing crumbly edges and making clean cuts easier."
+        },
+        {
+            "tip": "Brush melted butter on top of the batter before baking for a golden crust.",
+            "reason": "Butter promotes Maillard browning, adding flavor and a desirable crisp edge to the pancakes."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many cooks think a smooth batter is ideal and mix until lumps disappear, but this develops too much gluten.",
+            "fix": "Mix just until the dry ingredients are moistened. It’s okay to have some lumps. This keeps pancakes tender and fluffy."
+        },
+        {
+            "mistake": "Using cold ingredients",
+            "why_it_happens": "Some forget to bring ingredients to room temperature, which affects batter consistency and rise.",
+            "fix": "Let eggs, buttermilk, and melted butter sit out for 15-20 minutes before mixing to ensure smooth batter and even baking."
+        },
+        {
+            "mistake": "Not preheating the oven fully",
+            "why_it_happens": "In a rush, cooks put the pan in before the oven reaches temperature, causing uneven cooking.",
+            "fix": "Wait until the oven signals it’s fully preheated at 425°F to get the best rise and crust."
+        },
+        {
+            "mistake": "Spreading batter unevenly",
+            "why_it_happens": "Without leveling, some parts cook faster and others remain underdone.",
+            "fix": "Use an offset spatula to spread batter evenly for uniform thickness and doneness."
+        },
+        {
+            "mistake": "Cutting pancakes immediately after baking",
+            "why_it_happens": "Hot pancakes are fragile and prone to crumble when cut too soon.",
+            "fix": "Let pancakes rest 5 minutes to firm up for clean slices."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Banana Walnut Sheet Pan Pancakes",
+            "description": "Add mashed ripe bananas and chopped walnuts to the batter for a nutty, fruity twist. This variation adds natural sweetness and texture, making the pancakes even more satisfying.",
+            "technical_note": "Mash bananas thoroughly and fold in gently; walnuts can be sprinkled on top before baking for crunch."
+        },
+        {
+            "name": "Chocolate Chip Sheet Pan Pancakes",
+            "description": "Fold mini chocolate chips into the batter for a kid-friendly treat. The chips melt slightly during baking, creating gooey pockets of chocolate throughout.",
+            "technical_note": "Use mini chips to distribute evenly and avoid sinking; fold gently to preserve batter airiness."
+        },
+        {
+            "name": "Gluten-Free Sheet Pan Pancakes",
+            "description": "Swap all-purpose flour with a gluten-free blend and add a teaspoon of xanthan gum for structure. This makes pancakes safe for gluten-sensitive eaters without sacrificing fluffiness.",
+            "technical_note": "Check your gluten-free blend’s protein content and adjust liquid slightly if batter is too thick."
+        },
+        {
+            "name": "Vegan Sheet Pan Pancakes",
+            "description": "Replace eggs with flax eggs and use plant-based milk and butter alternatives. This version is perfect for vegan diets and still yields fluffy, delicious pancakes.",
+            "technical_note": "Mix flaxseed meal with water 5 minutes before use to gel properly; ensure baking powder is vegan."
+        },
+        {
+            "name": "Cinnamon Spice Sheet Pan Pancakes",
+            "description": "Add ground cinnamon, nutmeg, and a pinch of cloves to the dry ingredients for warm, aromatic pancakes. Great for fall mornings or holiday breakfasts.",
+            "technical_note": "Adjust spice amounts to taste; spices can intensify during baking, so start conservatively."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "8g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "10g",
+        "fiber_grams": "2g",
+        "sodium_mg": "400mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Sheet pan pancakes can be kept covered at room temperature for up to 2 hours. Beyond that, they may dry out or become stale, so it’s best to refrigerate leftovers promptly.",
+        "refrigerator": "Store pancakes in an airtight container in the fridge for up to 3 days. They may become slightly firmer but reheat well in a toaster or microwave. Adding a small pat of butter when reheating restores moisture.",
+        "freezer": "Freeze pancakes in a single layer on a baking sheet, then transfer to a freezer-safe bag for up to 2 months. Thaw overnight in the fridge or reheat directly from frozen in a toaster or oven for best texture.",
+        "reheating": "Reheat pancakes in a toaster oven or conventional oven at 350°F for 5-7 minutes until warmed through. Avoid microwave reheating alone as it can make them rubbery; add a bit of butter or cover loosely to retain moisture.",
+        "make_ahead_strategy": "Prepare the batter the night before and store it covered in the fridge. Spread and bake the next morning for fresh pancakes with minimal effort. Alternatively, bake pancakes ahead and reheat as needed for quick breakfasts."
+    },
+    "faq": [
+        {
+            "question": "Can I make this recipe without buttermilk?",
+            "answer": "Yes! If you don't have buttermilk, mix 2 tablespoons of lemon juice or white vinegar with enough milk to make 2 cups, let it sit for 5 minutes to curdle, then use as a substitute. This mimics the acidity needed to activate the baking soda for fluffy pancakes."
+        },
+        {
+            "question": "Why are my sheet pan pancakes dense instead of fluffy?",
+            "answer": "Dense pancakes often result from overmixing the batter, which develops gluten and toughens the texture. Mix just until the ingredients are combined and some lumps remain. Also, ensure your baking powder and baking soda are fresh and the oven is fully preheated."
+        },
+        {
+            "question": "Can I add other mix-ins besides blueberries?",
+            "answer": "Absolutely! Try chocolate chips, chopped nuts, or diced fruit. Just fold them in gently to avoid deflating the batter. Be mindful that very wet ingredients might affect the batter consistency."
+        },
+        {
+            "question": "How do I store leftover sheet pan pancakes?",
+            "answer": "Store cooled pancakes in an airtight container in the fridge for up to 3 days or freeze for up to 2 months. Reheat in a toaster oven or oven for best texture. Avoid leaving them at room temperature for more than 2 hours to maintain freshness."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes, by substituting eggs with flax eggs (1 tablespoon flaxseed meal + 3 tablespoons water per egg) and using plant-based milk and vegan butter. Make sure your baking powder is vegan-friendly. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "Why do my pancakes stick to the sheet pan?",
+            "answer": "Insufficient greasing or using a pan without a non-stick surface can cause sticking. Be sure to generously butter or spray the pan before pouring the batter. Using parchment paper is another option to prevent sticking."
+        },
+        {
+            "question": "Can I use whole wheat flour instead of all-purpose?",
+            "answer": "You can substitute half the all-purpose flour with whole wheat flour for a nuttier flavor and more fiber. Use fresh whole wheat flour and expect a slightly denser texture. You may need to add a little more liquid to the batter."
+        },
+        {
+            "question": "How do I get crispy edges on sheet pan pancakes?",
+            "answer": "Baking at a high temperature (425°F) and brushing melted butter on top before baking encourages Maillard browning, creating crispy, golden edges. Avoid overcrowding the pan to allow heat circulation."
+        }
+    ],
+    "conclusion": "Give this easy sheet pan breakfast pancake recipe a try for your next family brunch. I’d love to hear how it turns out and any tweaks you make!",
+    "seo": {
+        "primary_keyword": "sheet pan breakfast pancake recipe",
+        "secondary_keywords": [
+            "easy sheet pan pancakes",
+            "breakfast pancake recipe",
+            "how to make sheet pan pancakes",
+            "best sheet pan pancake recipe",
+            "easy breakfast pancake recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "fluffy buttermilk pancakes",
+                "anchor": "fluffy-buttermilk-pancakes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-17 23:16:20",
+        "title_seed": "Sheet Pan Breakfast Pancake Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1784330180_313",
+    "slug": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal",
+    "uniqueSlug": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_1.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_2.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_3.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_9.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Sheet Pan Breakfast Pancake Recipe Save So Much Time?"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_6.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Sheet Pan Breakfast Pancake Recipe for Busy Weekends"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_5.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Sheet Pan Breakfast Pancakes So Fluffy"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_7.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Sheet Pan vs Skillet Pancakes – Which Is Better for Breakfast?"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_4.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Sheet Pan Breakfast Pancake Recipe Save So Much Time?"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_8.webp",
+            "relativePath": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Sheet Pan Breakfast Pancake Recipe Save So Much Time?"
+        }
+    ],
+    "image": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images/easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal_pinrecipes_image_1.webp",
+    "image_dir": "easy-sheet-pan-breakfast-pancake-recipe-for-a-stress-free-morning-meal/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-18T00:36:50+01:00",
+    "updatedAt": "2026-07-18T00:36:50+01:00",
+    "has_reel": true
+}

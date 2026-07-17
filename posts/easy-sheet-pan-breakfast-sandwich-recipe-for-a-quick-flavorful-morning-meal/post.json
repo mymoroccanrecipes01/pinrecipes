@@ -1,0 +1,364 @@
+{
+    "title": "Easy Sheet Pan Breakfast Sandwich Recipe for a Quick, Flavorful Morning Meal",
+    "promptIMG": "Food photography: Sheet Pan Breakfast Sandwich, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred home kitchen with warm morning light filtering through a window, faint reflections on a clean countertop, no recognizable objects in focus. SUBJECT: a large sheet pan filled with multiple golden toasted breakfast sandwiches, stacked slightly overlapping, the front sandwich sharply in focus at a 30-degree angle revealing its layers of fluffy eggs, melted cheese, crispy bacon, and toasted English muffin with a glossy finish. DETAILS: the sandwiches show a perfect golden-brown crust with melted cheese oozing slightly, bacon edges crisp and glistening, and a light sheen of butter on the muffins. STYLE: ultra-photorealistic professional food photography with bright, airy daylight and warm golden tones, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, hands, people, logos, dull colors, steam, or CGI effects.",
+        "img2": "SCENE: soft natural light from a bright window illuminating a light grey marble surface blurred gently in the background. SUBJECT: a single breakfast sandwich cut in half and stacked with the cut sides facing the camera, showing the interior layers of fluffy scrambled eggs, melty cheddar cheese stretching slightly, crispy bacon strips, and toasted English muffin with buttery edges. DETAILS: the interior is glossy and moist, cheese pull frozen mid-stretch, bacon edges caramelized with a slight crunch, crumbs scattered naturally below. STYLE: ultra-photorealistic professional food photography with bright, warm daylight, rich saturated golden and amber hues, shallow macro depth of field, vertical 2:3. AVOID: no text, hands, or artificial effects.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with a single warm side glow creating a cozy atmosphere. SUBJECT: several breakfast sandwiches arranged closely on a rustic wooden board, topped generously with melted cheddar and crispy bacon, some sandwiches slightly pulled apart to reveal gooey cheese and fluffy eggs, accompanied by a small bowl of fresh fruit salad with vibrant colors. DETAILS: intense glossy shine on cheese and bacon, deep amber caramelization on muffin edges, a light sprinkle of fresh chopped chives on top, natural crumbs around the board. STYLE: ultra-photorealistic professional food photography with rich golden-amber warm tones, highly saturated appetizing colors, shallow macro depth of field, vertical 2:3. AVOID: no text, hands, logos, or artificial elements."
+    },
+    "description": "This sheet pan breakfast sandwich recipe is a game changer for busy mornings. It’s loaded with fluffy eggs, crispy bacon, and melty cheese all baked together for easy cleanup. Perfect for feeding a crowd or meal prepping your week.",
+    "hashtags": "#breakfastsandwich #sheetpanrecipe #easybreakfast",
+    "board_name": "Morning Meals",
+    "pin_variations": [
+        {
+            "title": "Why Does This Sheet Pan Breakfast Sandwich Taste Better Than Yours?",
+            "description": "Discover the secret to perfectly crispy bacon and fluffy eggs baked all together on one pan. This recipe will change your breakfast game! Save this for your next weekend brunch 🥓🍳 #breakfastideas #sheetpanmeal"
+        },
+        {
+            "title": "The One Trick That Makes Sheet Pan Breakfast Sandwiches Foolproof",
+            "description": "Want breakfast sandwiches that come out perfectly every time? The trick is in layering and timing on the sheet pan. Try it this weekend and thank me later! Tap for the full recipe 🍞🧀 #easybreakfast #mealprep"
+        },
+        {
+            "title": "15-Minute Sheet Pan Breakfast Sandwich for Busy Weeknights",
+            "description": "No more rushing in the morning! This sheet pan breakfast sandwich is quick to prep and bakes all at once. Ideal for busy schedules but still delicious and filling. Save for your next busy morning! ⏰🥪 #quickbreakfast #familydinner"
+        },
+        {
+            "title": "Still Making Dry Breakfast Sandwiches? This Sheet Pan Fixes It",
+            "description": "Dry eggs and soggy muffins? Not anymore! This sheet pan method keeps everything juicy and crispy. Your mornings just got a whole lot tastier. Tap to get the recipe now! 🍳🥓 #comfortfood #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "6 English muffins, split",
+        "8 large eggs",
+        "1/2 cup milk",
+        "12 slices bacon",
+        "6 slices sharp cheddar cheese",
+        "2 tablespoons butter, melted",
+        "Salt and pepper to taste",
+        "Chopped chives for garnish (optional)"
+    ],
+    "yield": "6 sandwiches",
+    "introduction": "I first made this sheet pan breakfast sandwich recipe on a hectic weekend morning when I wanted something hearty but fuss-free. The idea of baking everything together on one pan sounded too good to be true, but it totally works! What makes this version stand out is the layering technique — placing eggs, bacon, and cheese on the English muffins then baking them all at once ensures the flavors meld perfectly. Plus, using melted butter brushed on the muffins before baking gives them that irresistible golden crisp. I’ve tried making breakfast sandwiches the traditional way, frying everything separately, but this sheet pan method saves so much time and cleanup without sacrificing any flavor. The sandwiches come out with fluffy eggs, crispy bacon edges, and gooey cheese all nestled inside toasted muffins. It’s a simple recipe that feels special enough for guests but easy enough for a weekday treat. Whenever I serve these, my family always asks for seconds. It’s become my go-to when I want a cozy, satisfying breakfast without the morning rush.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C). Line a large sheet pan with parchment paper for easy cleanup. Split the English muffins and arrange them cut side up on the pan. Brush each muffin half generously with melted butter to ensure they toast up golden and crisp while baking. This step is crucial because the butter creates a barrier that keeps the muffins from getting soggy from the eggs later. Avoid skipping it or using too little butter, as that can result in dry or chewy muffins.",
+            "timing": 10,
+            "doneness_cue": "Muffins should appear golden and slightly crispy around the edges after baking."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the eggs, milk, salt, and pepper until fully combined and slightly frothy. Pour the egg mixture evenly over the buttered English muffin halves on the sheet pan. The milk helps keep the eggs fluffy and tender while baking. Pour carefully to avoid spilling over the edges, which can make cleanup harder. If you rush this step, the eggs may not distribute evenly, causing some sandwiches to have too much or too little egg.",
+            "timing": 5,
+            "doneness_cue": "Eggs should fill the muffin cavities evenly without spilling over the pan edges."
+        },
+        {
+            "step": 3,
+            "instruction": "Arrange the bacon slices evenly over the eggs on each muffin half. Using uncooked bacon here allows it to crisp up perfectly in the oven alongside the eggs and muffin. Make sure the bacon slices don’t overlap too much for even cooking. Overlapping can cause uneven cooking and chewy spots. The bacon fat will also add flavor and moisture to the eggs as it renders.",
+            "timing": 2,
+            "doneness_cue": "Bacon slices are laid flat and cover the egg surface without crowding."
+        },
+        {
+            "step": 4,
+            "instruction": "Place a slice of cheddar cheese on top of each bacon-topped muffin half. The cheese melts into the warm eggs and bacon, creating a gooey, flavorful layer. Using sharp cheddar adds a nice tang that balances the richness. If you prefer, you can swap for other cheeses like Swiss or pepper jack, but cheddar gives the best melt and flavor combination here.",
+            "timing": 1,
+            "doneness_cue": "Cheese slices cover the bacon evenly and lay flat without curling."
+        },
+        {
+            "step": 5,
+            "instruction": "Bake the sheet pan in the preheated oven for 20-25 minutes, or until the eggs are set and the cheese is melted and bubbly. Keep an eye on the bacon edges; they should be crispy but not burnt. Baking everything together allows the ingredients to meld while the muffins toast underneath. Avoid opening the oven frequently as it can lower the temperature and affect cooking time.",
+            "timing": 25,
+            "doneness_cue": "Eggs are firm and no longer jiggle, cheese is melted and golden at edges."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the sheet pan from the oven and let the sandwiches cool for 3-5 minutes before serving. This resting time helps the eggs finish setting and makes the sandwiches easier to handle. If served immediately, the eggs might be too hot and the cheese too runny to hold together well.",
+            "timing": 5,
+            "doneness_cue": "Sandwiches are warm but not too hot to touch, cheese slightly thickened."
+        },
+        {
+            "step": 7,
+            "instruction": "Optional: Sprinkle chopped fresh chives over the sandwiches for a pop of color and mild onion flavor. This step adds freshness and a nice visual contrast. You can also add a dash of hot sauce or ketchup if you like a bit of tang or spice.",
+            "timing": 1,
+            "doneness_cue": "Chives are evenly scattered and brighten the sandwich appearance."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the sheet pan breakfast sandwiches warm, either as is or with your favorite morning sides like fresh fruit or hash browns. These sandwiches hold up well if you want to pack them for a grab-and-go breakfast or brunch gathering. They’re filling, flavorful, and perfect for feeding a crowd without standing over the stove.",
+            "timing": 0,
+            "doneness_cue": "Sandwiches plated attractively and ready to enjoy."
+        },
+        {
+            "step": 9,
+            "instruction": "To store leftovers, wrap individual sandwiches tightly in foil or plastic wrap. Reheat in a 350°F oven until warmed through, about 10-12 minutes, to restore the crispy muffin texture and melty cheese. Avoid microwaving if possible, as it can make the muffins soggy and the bacon chewy.",
+            "timing": 0,
+            "doneness_cue": "Sandwiches reheated thoroughly with crisp muffin edges."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Sheet Pan Breakfast Sandwich Recipe Succeeds",
+        "content": "<p>This recipe works because it leverages the even heat distribution of the oven to cook multiple components simultaneously, which saves time and enhances flavor melding. The butter brushed on the English muffins before baking creates a golden, crispy crust by promoting the Maillard reaction, which is the chemical browning that develops complex, savory flavors and appealing textures. Without this step, the muffins can become soggy from the eggs and bacon fat.</p><p>The eggs are whisked with milk to introduce moisture and air, resulting in fluffy, tender baked eggs rather than rubbery or dry ones. The milk also helps the eggs set evenly in the muffin cups during baking, preventing pockets of undercooked egg. Pouring the eggs carefully ensures even coverage and consistent texture across all sandwiches.</p><p>Cooking the bacon uncooked on the sheet pan with the eggs allows it to render its fat slowly, crisping up perfectly while infusing the eggs with savory richness. The bacon fat also helps keep the eggs moist and flavorful. The sharp cheddar cheese melts over the bacon and eggs, binding the layers together with gooey creaminess, which enhances the mouthfeel and flavor complexity.</p><p>Finally, baking everything together means the muffins toast underneath while the eggs set and the cheese melts, creating a harmonious balance of textures from crispy to soft and melty. This one-pan method reduces cleanup and keeps all flavors fresh and integrated.</p>",
+        "ingredient_notes": {
+            "English muffins": "Choose fresh English muffins with a sturdy texture and a slightly dense crumb. They should be able to hold the egg and bacon filling without becoming soggy. Muffins with nooks and crannies absorb butter well, which helps create a crisp exterior when baked. Avoid overly soft or stale muffins as they won’t crisp properly in the oven.",
+            "Eggs": "Use large, fresh eggs for the best texture and flavor. Fresh eggs whip up fluffier when combined with milk and bake evenly in the muffin cups. Older eggs tend to be watery and can result in watery or rubbery baked eggs. Whisking eggs with milk helps create a tender, custard-like texture in the final sandwich.",
+            "Bacon": "Opt for thick-cut bacon for a satisfying chew and crispness after baking. Thin bacon cooks too quickly and can become brittle or burn before the eggs are done. Uncooked bacon on the sheet pan renders fat slowly, crisping up nicely and flavoring the eggs beneath. Avoid pre-cooked bacon as it won’t crisp properly in this method.",
+            "Cheddar cheese": "Sharp cheddar is ideal for melting and adds a tangy, rich flavor that complements the savory bacon and eggs. Choose a good-quality block cheese and slice it yourself for best melting. Pre-shredded cheese often contains anti-caking agents that can affect melt quality. You can substitute with other melting cheeses like Swiss or Monterey Jack depending on your taste.",
+            "Butter": "Using melted butter brushed on the muffins before baking is key to achieving a golden, crispy crust. Butter’s milk solids promote browning and add rich flavor. Margarine or oil can be used in a pinch but won’t produce the same depth of flavor or crispness. Be generous with the butter to prevent sogginess from the eggs."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Brush the English muffins thoroughly with melted butter before baking.",
+            "reason": "Butter promotes the Maillard reaction, which browns the muffins to a beautiful golden crisp. Without this, the muffins can become soggy from the egg mixture. The butter also adds rich flavor and helps create a barrier that keeps the muffins toasted and not chewy."
+        },
+        {
+            "tip": "Use thick-cut bacon and place it flat without overlapping.",
+            "reason": "Thick-cut bacon crisps up nicely in the oven without burning quickly. Overlapping bacon can cause uneven cooking, leading to chewy spots. Baking the bacon uncooked on the sheet pan lets the fat render slowly, infusing the eggs with flavor while crisping the bacon edges."
+        },
+        {
+            "tip": "Whisk eggs with milk until slightly frothy for fluffier texture.",
+            "reason": "Milk adds moisture and helps the eggs bake up tender and custardy instead of rubbery. Whisking incorporates air, which makes the eggs lighter and fluffier. Skipping milk or not whisking enough can result in dense, dry eggs."
+        },
+        {
+            "tip": "Let the sandwiches rest 3-5 minutes after baking before serving.",
+            "reason": "Resting lets the eggs finish setting and the cheese stabilize, making the sandwiches easier to handle and less likely to fall apart. Serving immediately can cause runny eggs and cheese that’s too hot to eat comfortably."
+        },
+        {
+            "tip": "Avoid overcrowding the sheet pan to ensure even cooking.",
+            "reason": "Crowding traps steam and prevents proper browning and crisping. Spacing the sandwiches allows hot air to circulate, resulting in evenly cooked eggs, crispy bacon, and toasted muffins."
+        },
+        {
+            "tip": "Use parchment paper on the sheet pan for easy cleanup.",
+            "reason": "Baking eggs and bacon on a sheet pan can get messy. Parchment paper prevents sticking and makes cleanup quick and effortless, encouraging you to make this recipe more often."
+        },
+        {
+            "tip": "Reheat leftovers in the oven instead of the microwave.",
+            "reason": "Microwaving can make muffins soggy and bacon chewy. Oven reheating restores the crispy muffin edges and melty cheese texture, making leftovers almost as good as fresh."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the butter on the English muffins",
+            "why_it_happens": "Some cooks assume the muffins will toast enough without butter or want to reduce fat. This leads to muffins that are dry or soggy under the eggs.",
+            "fix": "Always brush the muffin halves generously with melted butter before adding eggs. This ensures a golden, crisp texture and richer flavor."
+        },
+        {
+            "mistake": "Using pre-cooked bacon instead of raw",
+            "why_it_happens": "Pre-cooked bacon seems like a shortcut but doesn’t crisp properly during baking with eggs.",
+            "fix": "Use raw thick-cut bacon slices laid flat on the eggs. This crisps up nicely and flavors the eggs as it cooks."
+        },
+        {
+            "mistake": "Pouring eggs too quickly causing spills",
+            "why_it_happens": "Rushing the egg pouring step can lead to uneven distribution and messy spills on the pan.",
+            "fix": "Pour eggs slowly and evenly into each muffin cavity to ensure all sandwiches have the right amount and prevent overflow."
+        },
+        {
+            "mistake": "Overcrowding the sheet pan",
+            "why_it_happens": "Trying to fit too many sandwiches causes steaming instead of toasting.",
+            "fix": "Bake in batches or use a larger pan so sandwiches have space to brown evenly."
+        },
+        {
+            "mistake": "Not letting sandwiches rest before serving",
+            "why_it_happens": "Impatience leads to runny eggs and cheese that doesn’t set.",
+            "fix": "Allow sandwiches to cool 3-5 minutes before eating for perfect texture and easier handling."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Sheet Pan Sandwich",
+            "description": "Swap bacon for sautéed mushrooms or roasted tomatoes for a vegetarian version. You can also add spinach or avocado slices after baking for extra freshness. The eggs and cheese still provide plenty of protein and richness.",
+            "technical_note": "Sauté mushrooms beforehand to remove moisture so the sandwich doesn’t become soggy. Roast tomatoes until slightly caramelized for best flavor."
+        },
+        {
+            "name": "Spicy Southwest Version",
+            "description": "Add diced jalapeños to the egg mixture and swap cheddar for pepper jack cheese. Top with sliced avocado and a drizzle of chipotle mayo after baking for a smoky kick.",
+            "technical_note": "Be careful with jalapeños if you prefer mild spice; remove seeds to reduce heat. Adjust baking time slightly if using wetter ingredients."
+        },
+        {
+            "name": "Gluten-Free Breakfast Sandwich",
+            "description": "Use gluten-free English muffins or sandwich thins to make this recipe suitable for gluten-sensitive diets. All other ingredients remain the same for a delicious gluten-free breakfast.",
+            "technical_note": "Check the gluten-free muffins’ texture as some brands may be denser; adjust baking time to avoid over-toasting."
+        },
+        {
+            "name": "Cheese Lover’s Deluxe",
+            "description": "Add a mix of cheeses like mozzarella, cheddar, and parmesan for extra melty, flavorful sandwiches. Sprinkle parmesan on top before baking for a crispy cheesy crust.",
+            "technical_note": "Use cheeses that melt well and balance strong flavors; avoid overly salty cheeses that can overpower the dish."
+        },
+        {
+            "name": "Herbed Egg and Bacon Sandwich",
+            "description": "Mix fresh herbs like chives, parsley, or thyme into the egg mixture before baking. This adds brightness and complexity to the classic flavors.",
+            "technical_note": "Chop herbs finely and fold gently into eggs to distribute evenly without overworking the mixture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "25g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "22g",
+        "fiber_grams": "2g",
+        "sodium_mg": "720mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredient brands and portion sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These sandwiches can be left out at room temperature for up to 2 hours if covered loosely with foil or a clean towel. Beyond that, bacterial growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container or wrapped tightly in plastic wrap in the fridge for up to 3 days. The sandwiches may lose some crispness but reheat well in the oven to restore texture.",
+        "freezer": "Wrap sandwiches individually in plastic wrap and then foil to prevent freezer burn. Freeze for up to 2 months. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat sandwiches in a 350°F oven for 10-12 minutes until warmed through and muffin edges crisp again. Avoid microwaving to prevent sogginess. Adding a splash of water to the pan can help keep eggs moist during reheating.",
+        "make_ahead_strategy": "You can assemble the sandwiches on the sheet pan up to 24 hours ahead, cover tightly with plastic wrap, and refrigerate. Bake fresh in the morning for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I make this recipe dairy-free?",
+            "answer": "Yes! Substitute the cheddar cheese with a dairy-free cheese alternative and use a dairy-free milk like almond or oat milk in the eggs. Also, replace the butter with a plant-based spread to keep the muffins crispy and flavorful."
+        },
+        {
+            "question": "What if I don’t have English muffins?",
+            "answer": "You can use sandwich thins, small bagels, or even sliced bread. Just keep in mind that bread slices may get soggier and might not hold the egg mixture as well. Toasting beforehand helps maintain structure."
+        },
+        {
+            "question": "Can I prepare this recipe vegan?",
+            "answer": "This recipe relies on eggs, cheese, and bacon, so making it fully vegan would require significant substitutions. You could try scrambled tofu instead of eggs, plant-based cheese, and vegan bacon alternatives, but cooking times and textures will differ."
+        },
+        {
+            "question": "How do I avoid soggy muffins?",
+            "answer": "Brushing the muffins with melted butter before adding eggs is key to preventing sogginess. Also, avoid pouring too much egg mixture over the edges and bake on a lined sheet pan to allow air circulation."
+        },
+        {
+            "question": "Can I use pre-cooked bacon?",
+            "answer": "While you can, pre-cooked bacon won’t crisp up as well during baking and may become chewy. Using raw bacon slices lets them crisp nicely and flavor the eggs as they cook."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheating in a 350°F oven for 10-12 minutes restores the crispy muffin edges and melty cheese. Avoid microwaving as it tends to make the muffins soggy and bacon rubbery."
+        },
+        {
+            "question": "Can I add vegetables to this recipe?",
+            "answer": "Absolutely! Chopped spinach, bell peppers, or mushrooms can be added to the egg mixture before baking. Just sauté any watery vegetables first to prevent sogginess."
+        },
+        {
+            "question": "How do I make these sandwiches ahead for a crowd?",
+            "answer": "Assemble the sandwiches on the sheet pan, cover tightly with plastic wrap, and refrigerate up to 24 hours before baking fresh. This saves time on the day of your event while keeping flavors fresh."
+        }
+    ],
+    "conclusion": "I hope you give this sheet pan breakfast sandwich recipe a try soon — it’s a simple way to make mornings deliciously easy. Let me know how it turns out for your family!",
+    "seo": {
+        "primary_keyword": "sheet pan breakfast sandwich recipe",
+        "secondary_keywords": [
+            "easy breakfast sandwich",
+            "baked breakfast sandwich",
+            "how to make breakfast sandwiches",
+            "best sheet pan breakfast",
+            "quick breakfast sandwich recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "easy breakfast casserole",
+                "anchor": "easy_breakfast_casserole"
+            },
+            {
+                "text": "crispy bacon tips",
+                "anchor": "crispy_bacon_tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-17 23:18:55",
+        "title_seed": "Sheet Pan Breakfast Sandwich Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1784330335_191",
+    "slug": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal",
+    "uniqueSlug": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_1.webp",
+            "relativePath": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_2.webp",
+            "relativePath": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_3.webp",
+            "relativePath": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_6.webp",
+            "relativePath": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Sheet Pan Breakfast Sandwich for Busy Weeknights"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_4.webp",
+            "relativePath": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Sheet Pan Breakfast Sandwich Taste Better Than Yours?"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_5.webp",
+            "relativePath": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Sheet Pan Breakfast Sandwiches Foolproof"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_8.webp",
+            "relativePath": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Sheet Pan Breakfast Sandwich Taste Better Than Yours?"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_7.webp",
+            "relativePath": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Breakfast Sandwiches? This Sheet Pan Fixes It"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_9.webp",
+            "relativePath": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Sheet Pan Breakfast Sandwich Taste Better Than Yours?"
+        }
+    ],
+    "image": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images/easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal_pinrecipes_image_1.webp",
+    "image_dir": "easy-sheet-pan-breakfast-sandwich-recipe-for-a-quick-flavorful-morning-meal/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-18T00:36:50+01:00",
+    "updatedAt": "2026-07-18T00:36:50+01:00",
+    "has_reel": true
+}
