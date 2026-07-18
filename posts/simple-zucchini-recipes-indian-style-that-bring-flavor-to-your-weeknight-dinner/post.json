@@ -1,0 +1,364 @@
+{
+    "title": "Simple Zucchini Recipes Indian Style That Bring Flavor to Your Weeknight Dinner",
+    "promptIMG": {
+        "img1": "SCENE: a cozy home kitchen with soft natural light filtering through a window, faint shadows on a wooden countertop. SUBJECT: a rustic shallow bowl filled with vibrant Indian-style zucchini sabzi, bright green zucchini pieces cooked with mustard seeds, turmeric, and fresh coriander, overflowing the bowl edges. DETAILS: the zucchini pieces glisten with a light oil sheen, sprinkled with fresh chopped herbs and mustard seeds, with tiny red chili flakes visible, the textures of tender zucchini contrasting with crispy mustard seeds. STYLE: ultra-photorealistic professional food photography, warm daylight with rich golden hues enhancing the green and yellow tones, shallow depth of field focusing on the front zucchini pieces, vertical 2:3. AVOID: no text, no hands, no steam or smoke, no artificial colors, no logos or watermarks.",
+        "img2": "SCENE: a softly lit marble surface with warm daylight from a nearby window, blurred background. SUBJECT: a close-up of a halved serving of Indian zucchini sabzi on a traditional metal plate, showing the tender zucchini interior with a light golden crust from sautéing, seeds visible, and a drizzle of tempered mustard oil slowly oozing over the edges. DETAILS: the zucchini interior glistens moist and juicy, with mustard seeds and curry leaves resting on top, a few scattered mustard seeds and chili flakes on the plate. STYLE: ultra-photorealistic professional food photography, bright and warm daylight, rich saturated colors highlighting the yellow turmeric and green zucchini, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no steam, no logos or watermarks.",
+        "img3": "SCENE: a warm dark wood table softly blurred behind with a side glow from a warm lamp, creating a cozy evening vibe. SUBJECT: several servings of Indian zucchini sabzi arranged in a traditional brass bowl alongside a small bowl of steamed basmati rice and a wedge of lemon, the front piece topped with fresh coriander and a light drizzle of tempered mustard oil. DETAILS: intense glossy shine on the zucchini surfaces, rich golden turmeric color, fresh green herbs sprinkled generously, natural crumbs and mustard seeds scattered on the wood surface. STYLE: ultra-photorealistic professional food photography, deep golden-amber warmth, richly saturated appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no artificial colors."
+    },
+    "description": "This Indian-style zucchini sabzi is a simple, flavorful dish that brings a touch of spice to your dinner table. I love how the mustard seeds and turmeric add depth without overwhelming the fresh zucchini. Great for quick weeknight meals or as a side.",
+    "hashtags": "#IndianZucchini #SimpleZucchiniRecipe #WeeknightDinner",
+    "board_name": "Quick Weeknight Meals",
+    "pin_variations": [
+        {
+            "title": "Why Does Indian Zucchini Sabzi Taste So Flavorful and Simple?",
+            "description": "Discover the secret behind this easy Indian zucchini sabzi that’s bursting with flavor yet super simple to make. Perfect for busy nights when you want something wholesome and tasty. Save this for dinner inspiration! #IndianZucchini #EasyDinner #FlavorfulMeals"
+        },
+        {
+            "title": "The One Trick That Makes Indian Zucchini Sabzi Irresistible Every Time",
+            "description": "It’s all about tempering mustard seeds and curry leaves just right! This simple technique transforms everyday zucchini into a deliciously aromatic dish. Try it tonight and see the difference. Tap to get the full recipe! #SimpleZucchini #IndianCooking #WeeknightMeals"
+        },
+        {
+            "title": "15-Minute Indian Zucchini Sabzi for Busy Weeknight Dinners",
+            "description": "Short on time? This quick Indian zucchini sabzi comes together fast without sacrificing flavor. It’s fresh, light, and perfect alongside rice or roti. Save this easy recipe for your next dinner! #QuickDinner #IndianZucchini #EasyRecipes"
+        },
+        {
+            "title": "Still Cooking Bland Zucchini? This Indian Sabzi Fixes That Fast",
+            "description": "If your zucchini dishes feel boring, this Indian sabzi recipe will change your mind. The spices and tempering add a punch of flavor that your family will love. Give it a try and enjoy! #ZucchiniRecipes #IndianFlavors #SimpleMeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 4,
+    "ingredients": [
+        "3 medium zucchini, chopped into 1/2-inch pieces",
+        "2 tablespoons vegetable oil",
+        "1 teaspoon mustard seeds",
+        "1 teaspoon cumin seeds",
+        "1/2 teaspoon turmeric powder",
+        "1/2 teaspoon red chili powder",
+        "1/2 teaspoon coriander powder",
+        "1 small onion, finely chopped",
+        "2 green chilies, slit lengthwise",
+        "1 teaspoon grated ginger",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish",
+        "Juice of half a lemon"
+    ],
+    "yield": "4 servings, approximately 4 cups cooked zucchini sabzi",
+    "introduction": "I first tried making this simple Indian zucchini sabzi a few years ago when I wanted a quick vegetable side that still packed a punch of flavor. Zucchini can be a bit bland on its own, but the magic of Indian spices like mustard seeds, turmeric, and cumin completely transforms it. What I love about this recipe is how straightforward it is—no complicated ingredients or steps, just fresh veggies and pantry staples. The trick I learned is tempering the mustard and cumin seeds in hot oil until they pop; it releases their aroma and infuses the whole dish with warmth. I also add a squeeze of lemon at the end to brighten the flavors. This sabzi is perfect for weeknight dinners served alongside rice or flatbreads, and it’s gentle enough for picky eaters too. The finished dish is tender zucchini with a lovely golden hue and just the right amount of spice, making it comforting yet light. It’s become a staple in my kitchen, especially when I want something healthy but satisfying. Give it a try—you might find yourself making it again and again!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the vegetable oil in a large skillet over medium heat until shimmering. Add the mustard seeds and cumin seeds, and cover the pan for about 30 seconds. When the seeds begin to pop and crackle, remove the lid and stir quickly to prevent burning. This tempering step is crucial because it releases the essential oils and flavors of the spices, infusing the oil and setting the foundation for the dish. Be careful not to let the seeds burn, as that will make the sabzi bitter.",
+            "timing": 3,
+            "doneness_cue": "Mustard seeds are popping actively and you can smell a nutty, fragrant aroma."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the finely chopped onion, slit green chilies, and grated ginger to the skillet. Sauté for about 5 minutes until the onions turn translucent and soft. This step builds the flavor base and softens the aromatics, allowing their sweetness and heat to mellow and blend. Stir occasionally to prevent sticking or browning. If you rush this step, the onions won’t develop the right sweetness, and the sabzi will lack depth.",
+            "timing": 5,
+            "doneness_cue": "Onions are translucent and tender, with a light golden tint at edges."
+        },
+        {
+            "step": 3,
+            "instruction": "Sprinkle in the turmeric powder, red chili powder, coriander powder, and salt. Stir well to coat the onions and spices evenly. Cooking the spices briefly in the oil helps release their flavors and prevents a raw taste. Stir constantly for about 1 minute to toast the spices without burning them.",
+            "timing": 1,
+            "doneness_cue": "Spices become aromatic and the mixture looks glossy and evenly colored."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the chopped zucchini pieces to the skillet and stir to combine with the spiced onion mixture. The zucchini will start releasing moisture, which helps cook it gently. Stir occasionally to ensure even cooking and prevent sticking. The zucchini should remain tender but not mushy.",
+            "timing": 10,
+            "doneness_cue": "Zucchini pieces are tender to the fork but still hold their shape and have a slight golden edge."
+        },
+        {
+            "step": 5,
+            "instruction": "Cover the skillet and reduce the heat to low. Let the zucchini steam in its own juices for about 5 minutes. This allows the flavors to meld and the zucchini to cook through without drying out. Avoid overcooking, which can make the sabzi watery and limp.",
+            "timing": 5,
+            "doneness_cue": "Zucchini is soft throughout and the pan has minimal liquid remaining."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the lid and increase heat to medium-high for 2 minutes to evaporate any excess moisture. Stir frequently to prevent burning. This step ensures the sabzi has a nice texture and isn’t soggy.",
+            "timing": 2,
+            "doneness_cue": "Moisture has mostly evaporated and the sabzi looks glossy but not watery."
+        },
+        {
+            "step": 7,
+            "instruction": "Turn off the heat and squeeze fresh lemon juice over the sabzi. Stir gently to combine. The lemon juice adds brightness and balances the earthiness of the spices and zucchini.",
+            "timing": 1,
+            "doneness_cue": "Sabzi has a fresh, tangy aroma and a slight sheen from the lemon juice."
+        },
+        {
+            "step": 8,
+            "instruction": "Garnish with freshly chopped coriander leaves. This adds a fresh herbal note and vibrant color to the dish. Serve immediately with steamed rice or flatbreads for a wholesome meal.",
+            "timing": 1,
+            "doneness_cue": "Bright green coriander scattered evenly on top, enhancing the dish’s appearance."
+        },
+        {
+            "step": 9,
+            "instruction": "If serving later, let the sabzi cool slightly before storing in an airtight container. Reheat gently on the stove with a splash of water or oil to refresh the texture without drying it out.",
+            "timing": 1,
+            "doneness_cue": "Sabzi is warmed through and retains its tender texture without becoming mushy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Indian Zucchini Sabzi Works So Well",
+        "content": "<p>This simple Indian zucchini sabzi thrives on the balance of spice tempering, gentle cooking, and fresh finishing touches. The tempering of mustard and cumin seeds in hot oil is foundational; it releases essential oils and aromas that infuse the entire dish with warmth and depth. Without this step, the spices would taste flat or raw.</p><p>Turmeric powder not only imparts the signature golden color but also adds subtle earthiness and anti-inflammatory benefits. Cooking the turmeric briefly in oil activates its flavors and enhances its bioavailability. The chili and coriander powders add layers of heat and citrusy warmth, respectively, rounding out the flavor profile.</p><p>Cooking zucchini gently is key. Zucchini has high water content, so sautéing it over moderate heat allows it to soften without becoming mushy or watery. Covering the pan traps steam to cook the zucchini evenly while preserving its texture. Finishing with lemon juice brightens the dish, cutting through the richness of the oil and spices, and fresh coriander adds a vibrant herbal note that lifts the flavors.</p><p>Overall, this recipe succeeds by respecting the ingredients’ natural textures and flavors, layering spices carefully, and balancing richness with acidity. It’s a straightforward approach that yields a comforting yet fresh vegetable side perfect for everyday meals.</p>",
+        "ingredient_notes": {
+            "mustard seeds": "Mustard seeds are small but powerful in flavor. Look for black or brown mustard seeds for the best aroma. When heated in oil, they pop and release pungent, nutty flavors that form the base of many Indian dishes. Avoid burning them as they turn bitter quickly.",
+            "turmeric powder": "Choose bright orange-yellow turmeric powder that is fresh and vibrant. Turmeric adds earthiness and a warm color to dishes. Cooking turmeric in oil helps activate its flavor and makes its health benefits more accessible. Store in a cool, dry place to retain potency.",
+            "zucchini": "Use fresh, firm zucchini with a bright green skin and no soft spots. Zucchini cooks quickly and releases water, so it’s important to cook it gently to avoid mushiness. Cutting into uniform pieces ensures even cooking.",
+            "coriander powder": "Ground coriander has a warm, citrusy flavor that complements turmeric and chili well. Freshly ground coriander is best but pre-ground works fine. It adds depth without overpowering the dish.",
+            "lemon juice": "Freshly squeezed lemon juice adds acidity that balances rich spices and oil. Avoid bottled lemon juice as it can taste artificial and harsh. Add at the end of cooking to preserve its brightness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Temper the mustard and cumin seeds in hot oil until they pop before adding other ingredients.",
+            "reason": "Tempering releases the essential oils and aromas of the spices, which infuses the entire dish with flavor. If you skip this, the spices can taste raw and flat, diminishing the overall taste."
+        },
+        {
+            "tip": "Cut zucchini into uniform pieces to ensure even cooking.",
+            "reason": "Uneven pieces cook at different rates, causing some to be mushy while others remain undercooked. Uniformity helps achieve a consistent tender texture throughout the dish."
+        },
+        {
+            "tip": "Add lemon juice only after cooking is complete.",
+            "reason": "Adding lemon juice too early can cause the zucchini to become mushy and lose its vibrant color. Adding it at the end preserves brightness and fresh flavor."
+        },
+        {
+            "tip": "Cook zucchini on medium heat and cover the pan to steam gently.",
+            "reason": "Zucchini has high water content; gentle steaming prevents drying out and allows the pieces to cook evenly without becoming soggy."
+        },
+        {
+            "tip": "Use fresh coriander leaves for garnish rather than dried herbs.",
+            "reason": "Fresh coriander adds a bright, herbal note and vibrant color that dried herbs cannot replicate, enhancing the dish’s visual appeal and flavor."
+        },
+        {
+            "tip": "Avoid overcooking zucchini to prevent it from turning mushy.",
+            "reason": "Overcooked zucchini loses its structure and becomes watery, which negatively affects texture and presentation."
+        },
+        {
+            "tip": "Use a heavy-bottomed skillet to prevent hot spots and burning.",
+            "reason": "A heavy pan distributes heat evenly, reducing the risk of burning spices or vegetables and promoting uniform cooking."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Burning mustard seeds during tempering",
+            "why_it_happens": "Cooks sometimes leave the seeds unattended or use too high heat, causing the seeds to burn quickly and taste bitter.",
+            "fix": "Use medium heat and cover the pan while tempering to control the popping. Remove the lid as soon as seeds start popping actively and stir immediately to prevent burning."
+        },
+        {
+            "mistake": "Cutting zucchini pieces unevenly",
+            "why_it_happens": "In a rush, cooks often chop vegetables unevenly, leading to inconsistent cooking.",
+            "fix": "Take a moment to cut zucchini into similar-sized pieces for even cooking. This ensures all pieces soften at the same rate."
+        },
+        {
+            "mistake": "Adding lemon juice too early",
+            "why_it_happens": "Some add lemon juice during cooking, which breaks down the zucchini and dulls its color.",
+            "fix": "Add lemon juice only after cooking is finished to maintain texture and freshness."
+        },
+        {
+            "mistake": "Overcooking zucchini until mushy",
+            "why_it_happens": "Cooking zucchini on high heat or for too long causes it to lose structure and become watery.",
+            "fix": "Cook on medium heat, cover briefly to steam, and remove lid to evaporate excess moisture, stopping when zucchini is tender but firm."
+        },
+        {
+            "mistake": "Skipping the tempering step",
+            "why_it_happens": "Some skip tempering to save time, resulting in bland flavors.",
+            "fix": "Always temper spices in hot oil first to unlock their full flavor potential."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Indian Zucchini Sabzi",
+            "description": "Add extra green chilies or a pinch of garam masala for a spicier, more robust flavor. This variation adds warmth and complexity, perfect for those who enjoy heat.",
+            "technical_note": "Increase cooking time slightly if adding more spices to ensure they bloom properly in the oil."
+        },
+        {
+            "name": "Zucchini and Potato Sabzi",
+            "description": "Include diced potatoes along with zucchini for a heartier dish. Potatoes add creaminess and bulk, making it a more filling side or even a light main.",
+            "technical_note": "Parboil potatoes before adding to ensure even cooking with zucchini."
+        },
+        {
+            "name": "Zucchini with Mustard and Coconut",
+            "description": "Add grated fresh coconut towards the end of cooking for a subtle sweetness and texture contrast. This variation is popular in South Indian cuisine.",
+            "technical_note": "Add coconut off heat to preserve its fresh flavor and texture."
+        },
+        {
+            "name": "Zucchini Curry with Tomato",
+            "description": "Add chopped tomatoes and a splash of water to turn the sabzi into a light curry. This adds acidity and a saucier texture, great with rice.",
+            "technical_note": "Simmer uncovered after adding tomatoes to reduce excess liquid."
+        },
+        {
+            "name": "Vegan Indian Zucchini Sabzi",
+            "description": "Use mustard oil instead of vegetable oil and skip any dairy additions for a completely vegan dish that still retains authentic flavor.",
+            "technical_note": "Mustard oil has a stronger flavor; use sparingly to avoid overpowering the zucchini."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "110 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "7g",
+        "fiber_grams": "3g",
+        "sodium_mg": "250mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This zucchini sabzi can be safely kept at room temperature for up to 4 hours if covered well. Make sure it’s not exposed to direct heat or sunlight to avoid spoilage.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 3 days. The flavors deepen over time but the zucchini may soften further. Reheat gently before serving.",
+        "freezer": "Freeze in a sealed container for up to 2 months. To prevent freezer burn, wrap the container tightly with plastic wrap or foil. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over medium heat with a splash of water or oil to refresh the texture. Avoid microwaving at high power as it can make the zucchini mushy.",
+        "make_ahead_strategy": "You can prepare the sabzi up to 1 day ahead and refrigerate. Reheat gently before serving and add fresh lemon juice and coriander just before serving to retain brightness."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this recipe?",
+            "answer": "Frozen zucchini tends to release more water and become mushy when cooked, so it’s not ideal for this sabzi. If you must use frozen, thaw and drain it well, then cook uncovered to evaporate excess moisture."
+        },
+        {
+            "question": "What can I substitute for mustard seeds?",
+            "answer": "If you don’t have mustard seeds, you can use a small pinch of ground mustard powder or omit them entirely, though the flavor will be less authentic. Cumin seeds alone still provide good aroma."
+        },
+        {
+            "question": "Can I make this sabzi oil-free or low-fat?",
+            "answer": "You can reduce the oil amount or use a non-stick pan to sauté with less oil, but tempering spices in oil is important for flavor. Using too little oil may result in less aromatic sabzi."
+        },
+        {
+            "question": "How do I make this dish spicier?",
+            "answer": "Add more green chilies or a pinch of red chili powder to increase heat. You can also sprinkle garam masala at the end for a warm spice boost."
+        },
+        {
+            "question": "Is this recipe gluten-free?",
+            "answer": "Yes, this simple zucchini sabzi is naturally gluten-free as it contains only vegetables and spices without any wheat-based ingredients."
+        },
+        {
+            "question": "Can I prepare this recipe in advance for meal prep?",
+            "answer": "Absolutely! This sabzi stores well in the fridge for a few days and reheats nicely. Add fresh lemon juice and coriander after reheating for best flavor."
+        },
+        {
+            "question": "Why is tempering mustard seeds important?",
+            "answer": "Tempering activates the spices’ oils and releases their aroma, which infuses the entire dish with flavor. Without it, the sabzi tastes flat and less authentic."
+        },
+        {
+            "question": "Can I add other vegetables to this sabzi?",
+            "answer": "Yes, vegetables like potatoes, carrots, or bell peppers can be added, but adjust cooking times accordingly to ensure all ingredients are tender."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this simple Indian zucchini sabzi as much as I do. It’s a comforting, easy dish that fits perfectly into any weeknight dinner. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "simple zucchini recipes Indian",
+        "secondary_keywords": [
+            "easy Indian zucchini sabzi",
+            "Indian zucchini recipe",
+            "how to make zucchini sabzi",
+            "best Indian zucchini recipes",
+            "simple Indian vegetable side"
+        ],
+        "internal_links": [
+            {
+                "text": "easy Indian vegetable sabzi techniques",
+                "anchor": "indian-vegetable-sabzi-techniques"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230383_494",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-18 23:18:43",
+        "title_seed": "Simple Zucchini Recipes Indian"
+    },
+    "author_id": "author_001",
+    "id": "post_1784416723_317",
+    "slug": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner",
+    "uniqueSlug": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_1.webp",
+            "filePath": "posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_1.webp",
+            "relativePath": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_2.webp",
+            "filePath": "posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_2.webp",
+            "relativePath": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_3.webp",
+            "filePath": "posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_3.webp",
+            "relativePath": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_4.webp",
+            "filePath": "posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_4.webp",
+            "relativePath": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Indian Zucchini Sabzi Taste So Flavorful and Simple?"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_8.webp",
+            "filePath": "posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_8.webp",
+            "relativePath": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Indian Zucchini Sabzi Taste So Flavorful and Simple?"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_6.webp",
+            "filePath": "posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_6.webp",
+            "relativePath": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Indian Zucchini Sabzi for Busy Weeknight Dinners"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_9.webp",
+            "filePath": "posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_9.webp",
+            "relativePath": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Indian Zucchini Sabzi Taste So Flavorful and Simple?"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_5.webp",
+            "filePath": "posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_5.webp",
+            "relativePath": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Indian Zucchini Sabzi Irresistible Every Time"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_7.webp",
+            "filePath": "posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_7.webp",
+            "relativePath": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Cooking Bland Zucchini? This Indian Sabzi Fixes That Fast"
+        }
+    ],
+    "image": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_1.webp",
+    "image_path": "posts/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images/simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner_pinrecipes_image_1.webp",
+    "image_dir": "simple-zucchini-recipes-indian-style-that-bring-flavor-to-your-weeknight-dinner/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-19T00:32:50+01:00",
+    "updatedAt": "2026-07-19T00:32:50+01:00",
+    "has_reel": true
+}
