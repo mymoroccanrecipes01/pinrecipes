@@ -1,0 +1,362 @@
+{
+    "title": "Delicious Spiced Desserts Recipes to Warm Up Your Cozy Nights",
+    "promptIMG": {
+        "img1": "SCENE: a softly blurred home kitchen with warm natural daylight filtering through a window, faint reflections on a wooden countertop. SUBJECT: a rustic ceramic bowl overflowing with a spiced dessert featuring deep amber caramelized crust and a glossy cinnamon-sugar glaze, the front piece sharply focused at a 30-degree angle revealing a tender, moist interior flecked with nutmeg and clove, the rest softly fading into bokeh. DETAILS: visible sugar crystals glistening on the surface, a light dusting of powdered cinnamon settling into crevices, crumbs scattered naturally around the bowl. STYLE: ultra-photorealistic professional food photography, bright airy daylight with golden warmth, rich saturated colors that invite comfort and indulgence, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands or people, no dull or flat colors, no steam or smoke, no CGI or plastic textures.",
+        "img2": "SCENE: soft daylight through a bright window with a blurred marble-toned background, airy and clean. SUBJECT: the spiced dessert cut in half and stacked slightly off-center to reveal its moist interior bursting with warm spices and a glossy, syrupy swirl of caramelized sugar slowly oozing from the center, the texture moist and tender with flecks of cinnamon and cloves visible. DETAILS: the edges are caramelized to a deep amber with a shiny glaze, crumbs scattered naturally below, the top crowned with a light sprinkle of chopped toasted nuts. STYLE: ultra-photorealistic professional food photography, bright daylight with a golden glow, hyper-vivid rich colors, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no watermarks, no dull colors, no steam or smoke, no artificial look.",
+        "img3": "SCENE: warm dark wood softly blurred behind with a warm side glow highlighting textures. SUBJECT: several pieces of the spiced dessert arranged closely in a rustic ceramic dish with a small bowl of whipped cream topped with a cinnamon stick and a dusting of nutmeg on the side, the front piece sharply focused and generously drizzled with sticky caramel sauce, the rest fading into warm bokeh. DETAILS: wet glossy shine on every surface, deep amber caramelization, a light dusting of powdered cinnamon and nutmeg drifting into the creases, a few crumbs scattered naturally. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich saturated appetizing tones, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands or people, no dull colors, no steam or smoke, no plastic textures."
+    },
+    "description": "If you love cozy flavors, these spiced desserts are just the thing to make your evenings special. I add a touch of cinnamon and clove that really brings out the warmth. Perfect for sharing on chilly nights or holiday gatherings!",
+    "hashtags": "#spiceddesserts #cozyrecipes #homemadedesserts",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Do Spiced Desserts Taste So Comforting and Irresistible?",
+            "description": "Discover the secret behind that warm, cozy flavor in spiced desserts that everyone loves. It’s all about the blend of spices and a touch of caramel. Save this for your next dessert craving! #spiceddesserts #comfortfood #easybaking"
+        },
+        {
+            "title": "The One Spice Blend That Makes These Desserts Foolproof",
+            "description": "I swear by this simple spice mix that transforms any dessert into a warm, flavorful treat. It’s easy to make and perfect for beginners. Tap to get the full recipe and impress your family tonight! #homemadedesserts #spices #bakingtips"
+        },
+        {
+            "title": "Quick Spiced Desserts You Can Whip Up in Under 30 Minutes",
+            "description": "Pressed for time? These quick spiced desserts come together fast without losing any flavor. Perfect for busy weeknights or last-minute guests. Save this recipe for your next sweet fix! #quickdesserts #spiceddesserts #easyrecipes"
+        },
+        {
+            "title": "Still Using Plain Desserts? Try These Spiced Treats Instead",
+            "description": "If your desserts feel a bit boring, adding warm spices can change everything. This recipe is easy and full of cozy flavors that your family will beg for. Try it tonight and see the difference! #spiceddesserts #familyfavorites #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "1/2 cup brown sugar, packed",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1/4 teaspoon ground cloves",
+        "1/4 teaspoon salt",
+        "1/2 teaspoon baking powder",
+        "1/2 cup unsalted butter, melted",
+        "1 large egg",
+        "1/2 cup milk",
+        "1 teaspoon vanilla extract"
+    ],
+    "yield": "4 servings",
+    "introduction": "I remember the first time I made a spiced dessert like this—it was on a chilly fall evening, and the warm aromas filled the whole kitchen. What I love about this recipe is how simple it is, yet it packs such a cozy punch with just a few spices like cinnamon, nutmeg, and cloves. I’ve tweaked it over time to get the balance just right, ensuring the spices don’t overpower but complement the sweetness perfectly. One trick I’ve learned is to toast the spices lightly before mixing them in; it really brings out their depth and makes the final dessert taste richer and more complex. The finished dessert is moist with a tender crumb and a caramelized top that’s just irresistible. It’s perfect for sharing with family on a quiet evening or bringing to a holiday gathering. I think you’ll find it’s one of those recipes that feels like a warm hug on a plate.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). In a medium bowl, whisk together the flour, brown sugar, cinnamon, nutmeg, cloves, salt, and baking powder. Toasting the spices lightly in a dry pan for about 1-2 minutes before mixing them in can really enhance their flavor, but be careful not to burn them. This step is crucial because it awakens the spices' oils and intensifies the aroma, setting the stage for a deeply flavored dessert.",
+            "timing": 10,
+            "doneness_cue": "The dry mixture should smell fragrant and the spices should appear evenly distributed without clumps."
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, whisk the melted butter with the egg, milk, and vanilla extract until smooth and combined. Slowly pour the wet ingredients into the dry mixture, stirring gently until just combined. Avoid overmixing to keep the dessert tender and moist. Overmixing develops gluten in the flour, which can make the texture tough instead of soft.",
+            "timing": 5,
+            "doneness_cue": "The batter should be smooth with no visible streaks of flour but still slightly lumpy."
+        },
+        {
+            "step": 3,
+            "instruction": "Grease a baking dish or line it with parchment paper to prevent sticking. Pour the batter evenly into the prepared dish, smoothing the top with a spatula. This ensures even cooking and a uniform caramelized crust. Make sure the batter is spread evenly to avoid uneven baking or soggy spots.",
+            "timing": 5,
+            "doneness_cue": "The batter surface should be flat and even with no thick or thin spots."
+        },
+        {
+            "step": 4,
+            "instruction": "Bake in the preheated oven for 25-30 minutes. Check doneness by inserting a toothpick into the center; it should come out clean or with a few moist crumbs but no wet batter. Baking time may vary slightly depending on your oven, so start checking at 25 minutes to avoid overbaking.",
+            "timing": 25,
+            "doneness_cue": "Golden brown top with a firm texture and toothpick test clean."
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the dessert from the oven and let it cool in the pan for at least 10 minutes. Cooling helps the dessert set and makes it easier to cut without crumbling. Patience here means your slices will hold together beautifully.",
+            "timing": 10,
+            "doneness_cue": "The dessert feels firm but still moist to the touch and slightly warm."
+        },
+        {
+            "step": 6,
+            "instruction": "Optional: Drizzle with a simple caramel sauce or dust with powdered sugar before serving for an extra touch of indulgence. The caramel adds a sticky, glossy finish that complements the warm spices beautifully and adds a layer of richness.",
+            "timing": 5,
+            "doneness_cue": "Even, glossy drizzle or light dusting covering the top without clumping."
+        },
+        {
+            "step": 7,
+            "instruction": "Cut into squares or wedges and serve warm or at room temperature. This dessert pairs wonderfully with a scoop of vanilla ice cream or a dollop of whipped cream to balance the spices with creamy coolness.",
+            "timing": 5,
+            "doneness_cue": "Clean cuts with moist, tender interior and caramelized edges visible."
+        },
+        {
+            "step": 8,
+            "instruction": "Store any leftovers in an airtight container at room temperature for up to two days or refrigerate for up to five days. Reheat gently before serving to revive that fresh-baked warmth and aroma.",
+            "timing": 2,
+            "doneness_cue": "Dessert remains moist and flavorful after reheating."
+        },
+        {
+            "step": 9,
+            "instruction": "For best flavor, enjoy this dessert within a day or two of baking. The spices tend to mellow over time, so fresh is best to experience the full warm aroma and taste.",
+            "timing": 0,
+            "doneness_cue": "The dessert smells fragrant and tastes vibrant when freshly baked."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind the Perfect Spiced Dessert",
+        "content": "<p>Spiced desserts owe their irresistible appeal to the careful balance of warm spices and the chemistry of baking. The combination of cinnamon, nutmeg, and cloves introduces volatile oils that release aromatic compounds when heated, creating that comforting scent and flavor we associate with cozy treats. Toasting these spices before mixing them into the batter amplifies this effect by breaking down cell walls and releasing essential oils, resulting in a deeper, more complex flavor profile.</p><p>The structure of the dessert relies on the interaction between flour, fat, and leavening agents. Using melted butter provides richness and moisture, while baking powder helps the batter rise, creating a tender crumb. Overmixing can develop gluten, leading to toughness, so gentle folding preserves a soft texture. The brown sugar adds not only sweetness but also moisture and a slight caramel flavor due to its molasses content.</p><p>Baking at the right temperature ensures the Maillard reaction occurs on the surface, giving the dessert a golden-brown caramelized crust that contrasts beautifully with the moist interior. This reaction is key for flavor development and visual appeal. Cooling the dessert before cutting allows the starches to set, preventing crumbling and helping the dessert hold its shape.</p><p>Finally, optional caramel or powdered sugar toppings add a glossy finish and an additional layer of sweetness and texture, enhancing the overall sensory experience. This recipe balances chemistry and technique to deliver a spiced dessert that's tender, flavorful, and utterly comforting.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "All-purpose flour provides the necessary gluten structure for the dessert. Choose a fresh, unbleached variety for best flavor and texture. It balances tenderness and strength, helping the dessert hold together without becoming dense. Avoid overmixing to prevent toughness.",
+            "brown sugar": "Brown sugar contains molasses, which adds moisture and a subtle caramel flavor to the dessert. Use packed brown sugar for consistent sweetness and texture. It also contributes to the moist crumb and helps the crust caramelize nicely.",
+            "ground cinnamon": "Cinnamon is the star spice in this recipe, offering warmth and sweetness. Opt for fresh ground cinnamon for maximum aroma and flavor. Toasting it lightly before use releases essential oils, intensifying its impact without bitterness.",
+            "ground nutmeg": "Nutmeg adds a subtle nutty and slightly sweet flavor that complements cinnamon perfectly. Freshly grated nutmeg is best, but pre-ground works well if fresh is unavailable. Use sparingly, as its flavor is potent and can overpower if overused.",
+            "ground cloves": "Cloves provide a sharp, aromatic warmth with a hint of sweetness. Ground cloves should be used sparingly to avoid bitterness. Toasting helps mellow the flavor and integrate it harmoniously with other spices."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Toast your spices before adding them to the batter.",
+            "reason": "Toasting spices releases their essential oils, enhancing their flavor and aroma. This simple step transforms the dessert from ordinary to deeply flavorful by intensifying the warm, cozy notes that define spiced desserts."
+        },
+        {
+            "tip": "Avoid overmixing the batter once wet and dry ingredients are combined.",
+            "reason": "Overmixing develops gluten in the flour, which can make your dessert tough and chewy instead of tender and moist. Gentle folding ensures a soft crumb and a pleasant texture."
+        },
+        {
+            "tip": "Use brown sugar instead of white for added moisture and flavor.",
+            "reason": "Brown sugar contains molasses, which not only sweetens but also adds moisture and a rich caramel undertone. This helps keep the dessert soft and enhances the overall taste."
+        },
+        {
+            "tip": "Let the dessert cool before slicing.",
+            "reason": "Cooling allows the starches to set and the moisture to redistribute, preventing crumbling and ensuring clean, attractive slices that hold together well."
+        },
+        {
+            "tip": "Serve with a dollop of whipped cream or vanilla ice cream.",
+            "reason": "The creamy coolness balances the warm spices and adds a contrasting texture, elevating the dessert experience and making it more indulgent."
+        },
+        {
+            "tip": "Use fresh spices whenever possible.",
+            "reason": "Spices lose potency over time. Fresh spices deliver brighter, more vibrant flavors, which are essential for capturing that signature cozy warmth in spiced desserts."
+        },
+        {
+            "tip": "Grease your baking dish well or use parchment paper.",
+            "reason": "Proper preparation prevents sticking, preserves the caramelized crust, and makes removal easier, keeping the dessert intact and visually appealing."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the spice toasting step",
+            "why_it_happens": "Many cooks overlook toasting spices because it adds an extra step and they assume ground spices are ready to use as is.",
+            "fix": "Take the time to toast spices briefly in a dry pan before mixing. This unlocks deeper flavors and elevates the dessert’s aroma, making a noticeable difference in the final taste."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Rushing or trying to fully smooth the batter leads to overmixing, which toughens the dessert.",
+            "fix": "Mix only until the ingredients are just combined. It’s okay if the batter is slightly lumpy. This keeps the crumb tender and moist."
+        },
+        {
+            "mistake": "Using old or stale spices",
+            "why_it_happens": "Spices lose flavor over time, and many home cooks don’t replace them frequently.",
+            "fix": "Check spice freshness regularly and replace if the aroma is weak. Fresh spices ensure the signature warm flavor shines through."
+        },
+        {
+            "mistake": "Cutting the dessert too soon",
+            "why_it_happens": "Impatience to serve often leads to slicing while still hot, causing crumbling.",
+            "fix": "Allow the dessert to cool for at least 10 minutes to set properly for clean, neat slices."
+        },
+        {
+            "mistake": "Not greasing or lining the pan properly",
+            "why_it_happens": "Skipping this step can cause sticking and ruin the dessert’s crust.",
+            "fix": "Always grease the pan well or use parchment paper to ensure easy removal and preserve the caramelized edges."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Apple Cinnamon Spiced Dessert",
+            "description": "Add 1 cup of peeled, diced apples to the batter for a fruity twist. The apples add moisture and a fresh sweetness that complements the warm spices beautifully. Expect a slightly softer texture with bursts of juicy apple in every bite.",
+            "technical_note": "Fold the apples gently into the batter before baking to evenly distribute and avoid breaking them down."
+        },
+        {
+            "name": "Pumpkin Spice Dessert",
+            "description": "Incorporate 1/2 cup of pumpkin puree and increase cinnamon to 1 1/2 teaspoons for a seasonal favorite. This variation yields a moist, tender dessert with a rich autumn flavor perfect for fall gatherings.",
+            "technical_note": "Reduce milk slightly to balance the added moisture from pumpkin puree."
+        },
+        {
+            "name": "Gluten-Free Spiced Dessert",
+            "description": "Substitute all-purpose flour with a gluten-free blend suitable for baking. This keeps the dessert accessible without sacrificing flavor or texture, though the crumb may be slightly denser.",
+            "technical_note": "Add 1/4 teaspoon xanthan gum if your gluten-free blend doesn’t already contain it to improve structure."
+        },
+        {
+            "name": "Vegan Spiced Dessert",
+            "description": "Replace butter with coconut oil, egg with flaxseed egg, and milk with almond milk. This adaptation maintains the warm spice flavors while making the dessert suitable for vegan diets, with a subtle coconut undertone.",
+            "technical_note": "Ensure all ingredients are at room temperature for best mixing and texture."
+        },
+        {
+            "name": "Spiced Dessert Bars with Nuts",
+            "description": "Stir in 1/2 cup chopped toasted pecans or walnuts for added crunch and flavor complexity. The nuts add texture contrast and a nutty richness that pairs perfectly with the warm spices.",
+            "technical_note": "Toast nuts lightly before adding to enhance their flavor and crunch."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "14g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the dessert covered at room temperature for up to two days. It’s best kept in an airtight container to maintain moisture and prevent it from drying out. Avoid leaving it out longer to prevent spoilage.",
+        "refrigerator": "Keep leftovers in an airtight container in the fridge for up to five days. The dessert may firm up when chilled but reheats nicely. Serve warmed or at room temperature for best flavor and texture.",
+        "freezer": "Freeze the dessert wrapped tightly in plastic wrap and foil for up to three months. Thaw overnight in the refrigerator, then warm gently before serving to restore moisture and softness.",
+        "reheating": "Warm slices gently in a microwave for 20-30 seconds or in a low oven (300°F) for 10 minutes. Adding a small splash of milk or a pat of butter before reheating helps maintain moisture.",
+        "make_ahead_strategy": "Prepare the batter and store it in the refrigerator for up to 24 hours before baking. This can deepen the spice flavors. Alternatively, bake ahead and reheat slices as needed."
+    },
+    "faq": [
+        {
+            "question": "Can I use different spices instead of cinnamon, nutmeg, and cloves?",
+            "answer": "Absolutely! You can experiment with ginger, allspice, or cardamom for different flavor profiles. Just adjust quantities carefully since some spices are stronger. The key is balancing warmth and sweetness without overpowering the dessert."
+        },
+        {
+            "question": "What if I don’t have brown sugar on hand?",
+            "answer": "You can substitute with white sugar, but the dessert will lose some moisture and depth of flavor. To compensate, add a tablespoon of molasses or honey to mimic brown sugar’s richness."
+        },
+        {
+            "question": "How do I know when the dessert is fully baked?",
+            "answer": "Use a toothpick inserted in the center; it should come out clean or with a few moist crumbs but no wet batter. The top should be golden brown and firm to the touch."
+        },
+        {
+            "question": "Can I make this dessert gluten-free?",
+            "answer": "Yes, using a gluten-free flour blend designed for baking works well. Adding xanthan gum if not included helps improve texture. Expect a slightly different crumb but still delicious results."
+        },
+        {
+            "question": "Is it okay to prepare the batter ahead of time?",
+            "answer": "Definitely. Refrigerating the batter for up to 24 hours can actually enhance the flavors as the spices meld. Just give it a gentle stir before baking."
+        },
+        {
+            "question": "What’s the best way to store leftovers?",
+            "answer": "Store in an airtight container at room temperature for two days or in the fridge for up to five days. Reheat gently for best texture and flavor."
+        },
+        {
+            "question": "Can I add fruit or nuts to this recipe?",
+            "answer": "Yes! Diced apples, pumpkin puree, or chopped nuts like pecans or walnuts work beautifully. They add moisture, texture, and complementary flavors."
+        },
+        {
+            "question": "Why does overmixing make the dessert tough?",
+            "answer": "Overmixing develops gluten strands in the flour, which toughens the crumb. Mixing just until combined keeps the dessert tender and soft."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this cozy spiced dessert as much as my family does. It’s simple, comforting, and perfect for any occasion—give it a try and let me know what you think!",
+    "seo": {
+        "primary_keyword": "spiced desserts recipes",
+        "secondary_keywords": [
+            "easy spiced desserts",
+            "homemade spiced dessert recipes",
+            "how to make spiced desserts",
+            "best spiced desserts recipe",
+            "simple spiced desserts"
+        ],
+        "internal_links": [
+            {
+                "text": "easy fall dessert recipes",
+                "anchor": "easy-fall-dessert-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-19 23:06:34",
+        "title_seed": "Spiced Desserts Recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1784502394_557",
+    "slug": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights",
+    "uniqueSlug": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_1.webp",
+            "filePath": "posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_1.webp",
+            "relativePath": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_2.webp",
+            "filePath": "posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_2.webp",
+            "relativePath": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_3.webp",
+            "filePath": "posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_3.webp",
+            "relativePath": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_8.webp",
+            "filePath": "posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_8.webp",
+            "relativePath": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Do Spiced Desserts Taste So Comforting and Irresistible?"
+        },
+        {
+            "fileName": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_6.webp",
+            "filePath": "posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_6.webp",
+            "relativePath": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "Quick Spiced Desserts You Can Whip Up in Under 30 Minutes"
+        },
+        {
+            "fileName": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_5.webp",
+            "filePath": "posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_5.webp",
+            "relativePath": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Spice Blend That Makes These Desserts Foolproof"
+        },
+        {
+            "fileName": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_7.webp",
+            "filePath": "posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_7.webp",
+            "relativePath": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Using Plain Desserts? Try These Spiced Treats Instead"
+        },
+        {
+            "fileName": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_9.webp",
+            "filePath": "posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_9.webp",
+            "relativePath": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Do Spiced Desserts Taste So Comforting and Irresistible?"
+        },
+        {
+            "fileName": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_4.webp",
+            "filePath": "posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_4.webp",
+            "relativePath": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Do Spiced Desserts Taste So Comforting and Irresistible?"
+        }
+    ],
+    "image": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_1.webp",
+    "image_path": "posts/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images/delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights_pinrecipes_image_1.webp",
+    "image_dir": "delicious-spiced-desserts-recipes-to-warm-up-your-cozy-nights/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-20T00:34:51+01:00",
+    "updatedAt": "2026-07-20T00:34:51+01:00",
+    "has_reel": true
+}
