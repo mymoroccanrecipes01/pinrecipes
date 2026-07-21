@@ -1,0 +1,370 @@
+{
+    "title": "Easy Stuffed Zucchini Recipes with Savory Filling for Family Dinners",
+    "promptIMG": "Food photography: Stuffed zucchini with savory filling, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm daylight streaming through a window, faint reflections on a clean wooden countertop. SUBJECT: a generous pile of stuffed zucchini boats overflowing with a savory mixture of browned ground meat, diced tomatoes, melted cheese, and fresh herbs, served on a rustic white ceramic platter. The front zucchini is sharply focused at a 30-degree angle, showcasing the glossy, golden-browned cheese topping and juicy filling, while the rest fade softly into the bokeh. DETAILS: the filling glistens with a rich tomato sauce sheen, flecks of green parsley scattered on top, and a light dusting of grated parmesan melting into the edges. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden hues, rich saturated colors emphasizing freshness and warmth, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no artificial lighting or CGI effects, no steam or smoke.",
+        "img2": "SCENE: soft natural light from a large window with a marble countertop softly blurred behind, creating an airy and clean atmosphere. SUBJECT: the reveal shot of a stuffed zucchini cut in half lengthwise, both halves facing the camera to display the moist, juicy interior packed with a mixture of seasoned ground beef, sautéed onions, diced tomatoes, herbs, and melted mozzarella cheese slowly oozing out. The filling shines with a glossy, rich tomato sauce, and the zucchini edges show caramelized golden-brown spots. DETAILS: crumbs of parmesan cheese scattered naturally on the marble surface, fresh basil leaves resting beside the halves. STYLE: ultra-photorealistic professional food photography, bright daylight with warm golden tones, rich saturated vibrant colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no artificial or dull lighting, no steam or plastic textures.",
+        "img3": "SCENE: warm dark wood table softly blurred in the background with a single warm side light casting a gentle glow, creating a cozy ambiance. SUBJECT: several stuffed zucchini boats arranged closely on a large rustic wooden serving board, topped generously with melted golden cheese and sprinkled with fresh parsley. Accompaniments include a small bowl of marinara sauce and a folded linen napkin. The front zucchini is sharply focused, showing the moist filling and glossy cheese pull, while the rest recede into warm bokeh. DETAILS: intense wet glossy shine on the cheese and sauce, natural crumbs scattered on the board, fresh herb sprinkles drifting into the crevices. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grading, rich saturated appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no dim or moody lighting, no steam or artificial effects."
+    },
+    "description": "Stuffed zucchini is one of those dishes that feels like a warm hug on a plate. I love mixing ground beef with fresh herbs and melty cheese for a filling that’s both hearty and fresh. It’s perfect for a cozy family dinner any night of the week.",
+    "hashtags": "#stuffedzucchini #familydinner #easyrecipes",
+    "board_name": "Comfort Food Dinners",
+    "pin_variations": [
+        {
+            "title": "Why Does Restaurant Stuffed Zucchini Taste Better Than Yours?",
+            "description": "Ever wonder why stuffed zucchini at restaurants is so flavorful? It’s all about layering fresh herbs and slow-simmered sauce. Try this recipe to get that rich taste at home. Save this for dinner inspo! #stuffedzucchini #comfortfood #homemaderecipes"
+        },
+        {
+            "title": "The One Trick That Makes Stuffed Zucchini Foolproof Every Time",
+            "description": "The secret to perfect stuffed zucchini? Pre-cooking the filling to lock in flavor and avoid soggy veggies. This easy trick makes all the difference! Tap to get the full recipe and impress your family tonight. #easyrecipes #stuffedzucchini #familydinner"
+        },
+        {
+            "title": "15-Minute Stuffed Zucchini for Busy Weeknights",
+            "description": "Short on time? This 15-minute stuffed zucchini recipe is quick, delicious, and wholesome. Perfect for busy nights when you want something comforting without the fuss. Save it now for your next dinner! #quickmeals #stuffedzucchini #weeknightdinner"
+        },
+        {
+            "title": "Still Making Dry Stuffed Zucchini? This Recipe Fixes It",
+            "description": "Dry stuffed zucchini can be disappointing. This recipe keeps the filling juicy and the zucchini tender with a simple layering technique. Your family will thank you! Tap for the full step-by-step. #stuffedzucchini #comfortfood #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 medium zucchinis, halved lengthwise and seeds scooped out",
+        "1/2 pound ground beef",
+        "1 small onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 cup diced tomatoes, drained",
+        "1/2 cup shredded mozzarella cheese",
+        "1/4 cup grated parmesan cheese",
+        "2 tablespoons fresh parsley, chopped",
+        "1 tablespoon olive oil",
+        "Salt and pepper to taste"
+    ],
+    "yield": "4 servings (8 zucchini halves)",
+    "introduction": "I first made stuffed zucchini years ago when I wanted a lighter comfort food that still felt hearty. My family wasn’t sure at first, but after trying this version packed with savory ground beef, fresh herbs, and melty cheese, it became a favorite. What sets this recipe apart is the way the filling is pre-cooked to develop deep flavors and ensure the zucchini doesn’t get soggy. I also love adding a mix of mozzarella and parmesan for that perfect cheesy pull and golden crust. The finished dish is juicy, flavorful, and looks so inviting on the plate with its vibrant colors. It’s a simple recipe but one that feels special enough for weeknight dinners or casual gatherings. Plus, it’s easy to customize with your favorite veggies or spices. I think you’ll enjoy how this recipe balances fresh and comforting elements in every bite.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping the zucchinis: slice them in half lengthwise and scoop out the seeds carefully with a spoon, creating hollow boats. This step is important because it gives the filling space and ensures the zucchini cooks evenly without becoming mushy. Be gentle to keep the zucchini halves intact. Set them aside on a baking sheet lined with parchment paper.",
+            "timing": "10 minutes",
+            "doneness_cue": "Zucchini halves are hollowed out with firm edges and no tears."
+        },
+        {
+            "step": 2,
+            "instruction": "Heat olive oil in a skillet over medium heat. Add chopped onions and garlic, sautéing until translucent and fragrant, about 3-4 minutes. Then add ground beef, breaking it up with a spatula, and cook until browned all over. This step builds a rich base flavor for the filling and cooks out excess moisture to prevent soggy zucchini.",
+            "timing": "8 minutes",
+            "doneness_cue": "Beef is fully browned with no pink spots, onions are soft and golden."
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in diced tomatoes, salt, and pepper. Let the mixture simmer for 5 minutes to meld flavors and reduce excess liquid. This simmering step thickens the filling so it holds together well inside the zucchini boats without making them watery.",
+            "timing": "5 minutes",
+            "doneness_cue": "Filling is thickened, with a rich tomato aroma and no watery liquid."
+        },
+        {
+            "step": 4,
+            "instruction": "Preheat your oven to 375°F (190°C). While it heats, spoon the beef mixture evenly into each zucchini half, packing it gently but not overfilling. This ensures every bite has a balanced amount of filling and zucchini.",
+            "timing": "5 minutes",
+            "doneness_cue": "Zucchini boats are filled generously without spilling over."
+        },
+        {
+            "step": 5,
+            "instruction": "Sprinkle shredded mozzarella evenly over each stuffed zucchini, then dust with grated parmesan. The combination of cheeses melts into a golden, bubbly crust that adds richness and texture contrast to the tender zucchini and savory filling.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cheese is evenly distributed and ready to melt."
+        },
+        {
+            "step": 6,
+            "instruction": "Place the stuffed zucchinis on a baking sheet and bake in the preheated oven for 20-25 minutes until the zucchini is tender and the cheese is melted and golden brown. Baking at this temperature allows the zucchini to soften without turning mushy and lets the cheese develop a nice crust.",
+            "timing": "20-25 minutes",
+            "doneness_cue": "Zucchini is fork-tender; cheese is bubbly and browned."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove from oven and sprinkle freshly chopped parsley on top for a bright, fresh finish. Let the stuffed zucchini rest for 5 minutes before serving to allow juices to settle and flavors to meld.",
+            "timing": "5 minutes",
+            "doneness_cue": "Parsley is vibrant; dish is warm but not steaming."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the stuffed zucchini warm with a side of crusty bread or a simple green salad. The dish holds well and tastes even better the next day, making it ideal for leftovers or meal prep.",
+            "timing": "0 minutes",
+            "doneness_cue": "Dish plated attractively and ready to enjoy."
+        },
+        {
+            "step": 9,
+            "instruction": "To add a personal touch, try mixing in finely chopped mushrooms or substituting ground turkey for beef. These variations keep the dish fresh while maintaining its comforting essence.",
+            "timing": "0 minutes",
+            "doneness_cue": "Optional ingredient incorporation noted for future attempts."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Stuffed Zucchini Recipe Succeeds",
+        "content": "<p>What makes this stuffed zucchini recipe stand out is the balance between moisture control and flavor layering. Zucchini naturally contains a lot of water, so hollowing it out carefully and pre-cooking the filling are key to preventing sogginess. Browning the ground beef and sautéing aromatics like onion and garlic develops complex flavors through the Maillard reaction, which adds depth to the dish. Simmering the filling with diced tomatoes reduces excess liquid, ensuring the filling binds together and doesn't leak during baking.</p><p>The choice of cheeses—mozzarella and parmesan—also plays a vital role. Mozzarella provides that creamy, stretchy melt, while parmesan adds a nutty, salty punch and helps form a golden crust when baked. Baking at a moderate temperature allows the zucchini to soften just enough without turning mushy, preserving its slight bite and fresh flavor.</p><p>Fresh herbs like parsley brighten the dish and add a layer of freshness that cuts through the richness of the meat and cheese. This recipe’s success lies in these deliberate steps that balance texture, moisture, and flavor, resulting in a comforting yet fresh meal that feels homemade and satisfying.</p>",
+        "ingredient_notes": {
+            "zucchini": "Choose medium-sized zucchinis that are firm with smooth, unblemished skin. Larger zucchinis tend to have more seeds and watery flesh, which can make the dish soggy. The zucchini serves as a tender but sturdy vessel for the filling, so maintaining its shape during baking is important.",
+            "ground beef": "Use lean ground beef (85-90% lean) to avoid excessive fat that can release during cooking and make the filling greasy. Browning the beef properly develops rich flavor through caramelization, which is essential for a savory filling.",
+            "mozzarella cheese": "Fresh shredded mozzarella melts beautifully, providing a creamy texture and mild flavor that complements the filling. Avoid pre-shredded cheese with anti-caking agents, which can affect melt quality.",
+            "parmesan cheese": "Grated parmesan adds a salty, nutty flavor and helps create a golden crust when baked. It also enhances umami, making the dish more flavorful. Using fresh parmesan yields the best results over pre-grated powders.",
+            "diced tomatoes": "Use canned diced tomatoes with minimal liquid or drain fresh tomatoes well. Tomatoes add acidity and moisture but need to be controlled to prevent soggy filling. They also contribute to the rich color and tangy flavor of the mixture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Scoop out zucchini seeds gently to avoid breaking the skin.",
+            "reason": "The zucchini skin acts as a natural container for the filling, so keeping it intact is essential. If the skin tears, the filling can leak during baking, resulting in a mess and uneven cooking."
+        },
+        {
+            "tip": "Brown the ground beef thoroughly before adding other ingredients.",
+            "reason": "Browning develops complex flavors through Maillard reactions and reduces moisture content in the meat, preventing a watery filling that could make the zucchini soggy."
+        },
+        {
+            "tip": "Simmer the filling to reduce excess liquid before stuffing.",
+            "reason": "Simmering thickens the filling, concentrating flavors and ensuring it holds together well inside the zucchini. Skipping this step often leads to watery, loose filling."
+        },
+        {
+            "tip": "Use a combination of mozzarella and parmesan for best cheese texture and flavor.",
+            "reason": "Mozzarella melts into a creamy layer, while parmesan adds sharpness and helps form a golden crust. This combo balances creaminess with a flavorful topping."
+        },
+        {
+            "tip": "Let the stuffed zucchini rest a few minutes after baking before serving.",
+            "reason": "Resting allows the filling juices to redistribute and settle, preventing them from spilling out immediately and improving overall texture and flavor."
+        },
+        {
+            "tip": "Bake at 375°F for tender zucchini without mushiness.",
+            "reason": "This temperature softens the zucchini enough to be tender but not so much that it loses structure, preserving a pleasant bite."
+        },
+        {
+            "tip": "Add fresh herbs at the end to keep their bright flavor.",
+            "reason": "Herbs like parsley lose their vibrancy if cooked too long. Adding them after baking keeps their fresh aroma and color, enhancing the dish's appeal."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the pre-cook step for the filling.",
+            "why_it_happens": "Many cooks want to save time by stuffing raw ingredients directly, assuming the oven will cook everything evenly.",
+            "fix": "Pre-cook the filling by browning the meat and simmering with tomatoes. This step develops flavor and reduces moisture, preventing soggy zucchini and ensuring a well-seasoned filling."
+        },
+        {
+            "mistake": "Using large zucchinis with lots of seeds.",
+            "why_it_happens": "Sometimes larger zucchinis are chosen for size without considering texture.",
+            "fix": "Select medium zucchinis that are firm and less seedy. This ensures the vegetable holds up during baking and the filling fits nicely."
+        },
+        {
+            "mistake": "Overfilling the zucchini boats.",
+            "why_it_happens": "It’s tempting to pile on the filling for more flavor, but this can cause spilling and uneven cooking.",
+            "fix": "Fill zucchini evenly but not overflowing. This helps the filling cook uniformly and keeps the presentation neat."
+        },
+        {
+            "mistake": "Using pre-shredded cheese with anti-caking agents.",
+            "why_it_happens": "Convenience leads to choosing pre-shredded cheese, unaware it melts poorly.",
+            "fix": "Use freshly shredded mozzarella and parmesan for smooth melting and better texture."
+        },
+        {
+            "mistake": "Baking at too high a temperature.",
+            "why_it_happens": "Trying to speed up cooking by increasing oven temperature can dry out the zucchini.",
+            "fix": "Bake at 375°F to soften zucchini gently while melting cheese perfectly without drying out the dish."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Stuffed Zucchini",
+            "description": "Replace ground beef with a mix of sautéed mushrooms, diced bell peppers, and cooked quinoa for a hearty vegetarian version. Use vegetable broth to sauté veggies and add spices like smoked paprika for depth. This keeps the dish filling and flavorful without meat.",
+            "technical_note": "Sauté vegetables thoroughly to reduce moisture and ensure a concentrated filling that holds well during baking."
+        },
+        {
+            "name": "Italian-Style Stuffed Zucchini",
+            "description": "Add Italian seasoning, fresh basil, and use Italian sausage instead of ground beef. Top with marinara sauce before baking and finish with fresh basil leaves for a classic Italian flavor profile.",
+            "technical_note": "Simmer filling with marinara to infuse rich tomato flavor and adjust seasoning to balance sausage spices."
+        },
+        {
+            "name": "Cheesy Spinach and Ricotta Stuffed Zucchini",
+            "description": "Mix ricotta cheese with sautéed spinach, garlic, and parmesan for a creamy vegetarian filling. This version is lighter but still rich and perfect for a meatless meal.",
+            "technical_note": "Drain cooked spinach well to avoid watery filling and bake until cheese is bubbly and golden."
+        },
+        {
+            "name": "Spicy Mexican Stuffed Zucchini",
+            "description": "Incorporate taco seasoning into the beef, add black beans and corn, and top with pepper jack cheese. Serve with sour cream and salsa for a zesty twist.",
+            "technical_note": "Adjust spice level carefully and ensure filling is thickened to prevent runoff during baking."
+        },
+        {
+            "name": "Low-Carb Stuffed Zucchini",
+            "description": "Use ground turkey and mix with cauliflower rice instead of tomatoes for a low-carb, protein-packed filling. Top with shredded cheddar for a satisfying meal that fits keto diets.",
+            "technical_note": "Cook cauliflower rice thoroughly to remove excess moisture for a firm filling."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "30g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "22g",
+        "fiber_grams": "3g",
+        "sodium_mg": "610mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Stuffed zucchini can be safely left out at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria growth can occur, so refrigerate promptly to maintain freshness and safety.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The flavors meld beautifully overnight, but the zucchini might soften further. Reheat gently to avoid drying out the dish.",
+        "freezer": "Freeze stuffed zucchini in a sealed container for up to 2 months. Wrap tightly with plastic wrap and foil to prevent freezer burn. Thaw overnight in the refrigerator before reheating to preserve texture.",
+        "reheating": "Reheat in a 350°F oven for 15-20 minutes until warmed through, covering loosely with foil to prevent over-browning. Alternatively, microwave on medium power in short intervals, adding a splash of water to keep zucchini moist.",
+        "make_ahead_strategy": "Prepare the filling and hollowed zucchinis 1-2 days ahead. Store separately in airtight containers in the fridge. Assemble and bake just before serving for maximum freshness and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use other ground meats besides beef?",
+            "answer": "Absolutely! Ground turkey, chicken, or pork work well in this recipe. Just be mindful of their moisture content and fat levels. Ground turkey is leaner and may need a bit of added oil or seasoning to keep the filling juicy and flavorful."
+        },
+        {
+            "question": "How do I prevent the zucchini from becoming soggy?",
+            "answer": "The key is to scoop out the seeds to create space and pre-cook the filling to reduce moisture. Also, baking at a moderate temperature allows the zucchini to soften without turning mushy. Avoid overfilling to ensure even cooking."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, this recipe is naturally gluten-free as long as you check that any canned tomatoes or seasoning mixes don’t contain gluten additives. Always verify labels if you have gluten sensitivities."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat leftovers in the oven at 350°F covered with foil to keep moisture in, or use a microwave on medium power in short bursts. Adding a splash of water before reheating helps prevent the zucchini from drying out."
+        },
+        {
+            "question": "Can I freeze stuffed zucchini?",
+            "answer": "Yes, freeze the cooked stuffed zucchinis in airtight containers for up to 2 months. Thaw overnight in the fridge before reheating. The texture might soften slightly but the flavors remain delicious."
+        },
+        {
+            "question": "Is it okay to use pre-shredded cheese?",
+            "answer": "For best melting and texture, freshly shredded cheese is preferred. Pre-shredded cheese often contains anti-caking agents that can affect melt quality and texture."
+        },
+        {
+            "question": "Can I prepare this dish vegan or vegetarian?",
+            "answer": "Definitely! Swap the ground beef for a mixture of sautéed vegetables, lentils, or plant-based meat substitutes. Use vegan cheese or omit cheese altogether. Adjust seasoning to taste."
+        },
+        {
+            "question": "How do I make the filling spicier?",
+            "answer": "Add chili flakes, cayenne pepper, or diced jalapeños to the filling while cooking. Start with small amounts and taste as you go to reach your desired heat level."
+        },
+        {
+            "question": "What sides pair well with stuffed zucchini?",
+            "answer": "A simple green salad, crusty bread, or steamed rice complement stuffed zucchini nicely. For a heartier meal, roasted potatoes or a light pasta salad work well too."
+        },
+        {
+            "question": "Can I double the recipe for a larger crowd?",
+            "answer": "Yes, simply double the ingredients and use a larger baking dish or multiple trays. Keep an eye on baking time as it may vary slightly with more volume."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this stuffed zucchini recipe as much as my family does. It’s a simple, comforting dish that always feels like a little celebration at the dinner table. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "stuffed zucchini recipes",
+        "secondary_keywords": [
+            "easy stuffed zucchini",
+            "healthy stuffed zucchini",
+            "how to make stuffed zucchini",
+            "best stuffed zucchini recipe",
+            "stuffed zucchini family dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "Easy Summer Vegetable Recipes",
+                "anchor": "easy-summer-vegetable-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230383_494",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-21 23:18:51",
+        "title_seed": "Stuffed Zucchini Recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1784675931_224",
+    "slug": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners",
+    "uniqueSlug": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_1.webp",
+            "relativePath": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_2.webp",
+            "relativePath": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_3.webp",
+            "relativePath": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_6.webp",
+            "relativePath": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Stuffed Zucchini for Busy Weeknights"
+        },
+        {
+            "fileName": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_9.webp",
+            "relativePath": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Restaurant Stuffed Zucchini Taste Better Than Yours?"
+        },
+        {
+            "fileName": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_7.webp",
+            "relativePath": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Stuffed Zucchini? This Recipe Fixes It"
+        },
+        {
+            "fileName": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_5.webp",
+            "relativePath": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Stuffed Zucchini Foolproof Every Time"
+        },
+        {
+            "fileName": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_4.webp",
+            "relativePath": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Restaurant Stuffed Zucchini Taste Better Than Yours?"
+        },
+        {
+            "fileName": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_8.webp",
+            "relativePath": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Restaurant Stuffed Zucchini Taste Better Than Yours?"
+        }
+    ],
+    "image": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_1.webp",
+    "image_dir": "easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-22T00:40:20+01:00",
+    "updatedAt": "2026-07-22T00:40:20+01:00",
+    "has_reel": true
+}

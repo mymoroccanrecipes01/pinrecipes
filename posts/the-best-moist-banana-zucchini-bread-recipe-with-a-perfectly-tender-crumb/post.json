@@ -1,0 +1,362 @@
+{
+    "title": "The Best Moist Banana Zucchini Bread Recipe with a Perfectly Tender Crumb",
+    "promptIMG": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm natural daylight streaming through a window, faint reflections on a wooden countertop, no distinct objects in focus. SUBJECT: a generous loaf of banana zucchini bread resting on a rustic wooden board, sliced to reveal its moist, tender crumb studded with green zucchini flecks and golden banana bits, the front slice angled at 30 degrees showing its soft texture and speckled crust, the rest receding softly into bokeh. DETAILS: the crust has a light golden brown caramelized sheen with a slight crackle, a dusting of powdered sugar lightly settling into the surface crevices, crumbs scattered naturally on the board. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors that highlight the bread’s moistness and freshness, shallow macro depth of field; vertical 2:3. AVOID: no text, logos, hands, or people, no dull or flat colors, no steam or smoke, no CGI or over-smoothing.",
+        "img2": "SCENE: soft light blur behind a light grey marble surface with bright natural daylight from a nearby window, airy and clean. SUBJECT: a close-up reveal shot of the banana zucchini bread sliced in half, both halves facing the camera, the interior crumb moist and glistening with tiny flecks of green zucchini and banana, the crumb texture soft and tender with a slight glossy sheen, the crust edges caramelized to a warm amber color. DETAILS: crumbs scattered gently below the slices, the interior looks juicy and inviting, the contrast between the golden crust and moist interior is vivid. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden-amber warmth, rich saturated colors, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no logos, no dull colors, no steam.",
+        "img3": "SCENE: warm dark wood tones softly blurred behind with a single warm side glow, creating a cozy ambiance. SUBJECT: several slices of banana zucchini bread arranged closely on a rustic wooden serving board, the front slice topped with a light spread of melting butter glistening in the warm light, the rest receding into soft bokeh. DETAILS: the bread surfaces have an intense wet glossy shine from the butter, deep amber caramelization on crust edges, a light dusting of powdered sugar drifting into the creases, a few crumbs scattered naturally on the board. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich saturated glowing appetizing tones, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no logos, no dim shadows or plastic textures."
+    },
+    "description": "This banana zucchini bread is wonderfully moist and tender, packed with fresh zucchini and ripe bananas that add natural sweetness and moisture. I love how the zucchini keeps it soft without overpowering the flavor. It’s perfect for breakfast or an afternoon snack!",
+    "hashtags": "#bananazucchinibread #easybaking #moistbread",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does This Banana Zucchini Bread Stay So Moist Every Time?",
+            "description": "Discover the secret ingredient that keeps this banana zucchini bread incredibly moist and tender. You'll never go back to dry bread again! 🍌🥒 Save this for your next baking day. #bananazucchinibread #moistbread #easybaking"
+        },
+        {
+            "title": "The One Trick That Makes Banana Zucchini Bread Foolproof",
+            "description": "I learned this simple trick to get the perfect crumb every time with banana zucchini bread. It’s easy and makes a huge difference! Perfect for beginner bakers. Tap to get the full recipe. 🍞 #bananazucchinibread #bakingtips #easyrecipes"
+        },
+        {
+            "title": "15-Minute Prep for Banana Zucchini Bread That Tastes Homemade",
+            "description": "Busy day? This banana zucchini bread takes just 15 minutes prep and fills your home with cozy aromas. It’s a wholesome treat you’ll want to bake again and again. Save this for dinner inspo! 🍌 #quickbaking #bananazucchinibread #comfortfood"
+        },
+        {
+            "title": "Still Making Dry Banana Bread? This Zucchini Version Fixes It",
+            "description": "If your banana bread often turns out dry, try adding zucchini for extra moisture and softness. This recipe is a game changer! 🍞🥒 Tap to see how easy it is. #bananazucchinibread #moistbread #easybakingrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/2 cup granulated sugar",
+        "1/4 cup brown sugar, packed",
+        "2 large ripe bananas, mashed",
+        "1 cup grated zucchini, squeezed dry",
+        "1/3 cup vegetable oil",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/2 cup chopped walnuts (optional)"
+    ],
+    "yield": "One 9x5 inch loaf, approximately 8 servings",
+    "introduction": "I first made this banana zucchini bread when I had a few overripe bananas and some zucchini from my garden that needed using up. I’d always loved banana bread but sometimes it turns out dry or dense, so I wanted to add zucchini to keep it moist without changing the flavor too much. The trick I learned is to grate the zucchini finely and squeeze out excess moisture so the bread stays tender but not soggy. This version strikes the perfect balance — it’s soft, flavorful, and just sweet enough. Plus, the cinnamon adds a warm hint that makes it feel cozy and comforting. My family has made this a regular in our rotation, especially for breakfast or a quick snack with coffee. It’s simple to make, doesn’t require any fancy ingredients, and the texture is just right — not too crumbly, not too heavy. I think you’ll love how the zucchini sneaks in moisture and nutrition without anyone guessing. It’s a great way to sneak veggies into a sweet treat that feels like a little homemade indulgence.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x5 inch loaf pan. This ensures your bread won’t stick and will bake evenly. It’s important to get the oven fully heated before baking so the bread rises properly and cooks through without drying out.",
+            "timing": 10,
+            "doneness_cue": "Oven temperature steady at 350°F before placing the pan inside."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking soda, salt, and cinnamon. Mixing the dry ingredients separately helps distribute the leavening agent and spices evenly throughout the bread, preventing clumps and ensuring consistent flavor.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are fully combined with no lumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, combine the mashed bananas, grated zucchini (squeezed to remove excess water), granulated sugar, brown sugar, vegetable oil, eggs, and vanilla extract. Mix well until smooth. The wet ingredients provide moisture and sweetness, while the zucchini adds extra tenderness without making the batter watery.",
+            "timing": 5,
+            "doneness_cue": "Wet mixture is smooth and homogenous with no streaks."
+        },
+        {
+            "step": 4,
+            "instruction": "Gradually add the dry ingredients to the wet ingredients, folding gently with a spatula until just combined. Avoid overmixing here to keep the bread tender rather than tough. Overmixing develops gluten which can make the bread dense.",
+            "timing": 5,
+            "doneness_cue": "Batter is thick and slightly lumpy but no visible flour patches."
+        },
+        {
+            "step": 5,
+            "instruction": "If using, fold in chopped walnuts for added texture and nutty flavor. This step is optional but adds a nice crunch contrast to the soft bread. Be gentle to avoid breaking the nuts too much.",
+            "timing": 2,
+            "doneness_cue": "Walnuts are evenly distributed without overmixing."
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. Leveling the batter helps the bread bake evenly and prevents doming or cracking on top.",
+            "timing": 3,
+            "doneness_cue": "Batter covers the pan evenly with a smooth surface."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake in the preheated oven for 50-60 minutes, or until a toothpick inserted in the center comes out clean or with just a few moist crumbs. Check around 50 minutes to avoid overbaking, which dries out the bread.",
+            "timing": 50,
+            "doneness_cue": "Golden brown crust with toothpick clean or nearly clean."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the bread from the oven and let it cool in the pan for 10 minutes. Cooling slightly helps the bread set so it slices cleanly without crumbling.",
+            "timing": 10,
+            "doneness_cue": "Bread is slightly warm but firm to the touch."
+        },
+        {
+            "step": 9,
+            "instruction": "Transfer the bread to a wire rack to cool completely before slicing. This final step prevents sogginess and allows the flavors to develop fully. Slice with a serrated knife for best results.",
+            "timing": 30,
+            "doneness_cue": "Bread is fully cooled and slices cleanly."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Banana Zucchini Bread Is So Moist and Tender",
+        "content": "<p>This banana zucchini bread recipe succeeds because it balances moisture and structure perfectly. The combination of ripe bananas and grated zucchini introduces natural sugars and water content that keep the crumb tender without making the bread soggy. The key is squeezing out excess moisture from the zucchini before adding it, which prevents the batter from becoming too wet and dense.</p><p>The baking soda reacts with the acidic bananas and brown sugar, creating carbon dioxide bubbles that help the bread rise and develop a light texture. The cinnamon adds warmth and complexity, enhancing the flavor without overpowering the natural sweetness. Using vegetable oil instead of butter contributes to a moist crumb because oil remains liquid at room temperature, unlike butter which solidifies and can dry out baked goods.</p><p>Mixing the dry and wet ingredients separately and then folding them together gently avoids overdeveloping gluten in the flour. Overmixing would make the bread tough and chewy instead of soft and tender. The walnuts add a pleasant crunch contrast but are optional if you prefer a smoother texture.</p><p>Finally, baking at a moderate temperature of 350°F ensures the bread cooks evenly and develops a golden crust without drying out the interior. Allowing the bread to cool completely before slicing helps the crumb set properly and enhances the flavor.</p>",
+        "ingredient_notes": {
+            "bananas": "Choose ripe bananas with lots of brown spots for maximum sweetness and moisture. Overripe bananas are softer and mash easily, releasing natural sugars that enhance flavor and tenderness. Avoid underripe bananas as they’re less sweet and won’t contribute the same moist texture.",
+            "zucchini": "Use fresh medium-sized zucchini, grated finely. After grating, squeeze out excess water using a clean kitchen towel or cheesecloth to avoid making the batter too wet. The zucchini adds moisture and a subtle vegetable sweetness without overpowering the bread’s flavor.",
+            "all-purpose flour": "Standard all-purpose flour provides structure through gluten formation. Measuring accurately is important—too much flour makes the bread dry, too little makes it dense. Spoon and level the flour when measuring for best results.",
+            "baking soda": "Baking soda is the leavening agent that reacts with acidic ingredients like bananas and brown sugar to produce carbon dioxide bubbles. This reaction helps the bread rise and creates a tender crumb. Using fresh baking soda is essential for proper rising.",
+            "vegetable oil": "Vegetable oil keeps the bread moist because it remains liquid at room temperature, unlike butter which can solidify and dry out baked goods. It also adds richness without affecting flavor. You can substitute with mild-flavored oils like canola or sunflower."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Squeeze the zucchini well to remove excess moisture before adding it to the batter.",
+            "reason": "Removing extra water prevents the bread from becoming soggy or dense. The zucchini adds moisture and tenderness without making the batter too wet, which would affect the crumb structure and baking time."
+        },
+        {
+            "tip": "Use ripe bananas with lots of brown spots for natural sweetness and moisture.",
+            "reason": "Ripe bananas are softer and sweeter, contributing both flavor and moisture. Using underripe bananas results in less sweetness and a dryer texture, so waiting until they’re fully ripe makes a big difference."
+        },
+        {
+            "tip": "Mix the wet and dry ingredients just until combined to avoid overdeveloping gluten.",
+            "reason": "Overmixing flour activates gluten, making the bread tough and chewy instead of soft and tender. Gentle folding keeps the crumb light and moist."
+        },
+        {
+            "tip": "Bake at 350°F and check for doneness early to prevent overbaking.",
+            "reason": "A moderate oven temperature ensures even cooking and a golden crust. Overbaking dries out the bread, so testing with a toothpick starting at 50 minutes helps avoid this."
+        },
+        {
+            "tip": "Let the bread cool completely before slicing.",
+            "reason": "Cooling allows the crumb to set and flavors to develop fully. Slicing warm bread can cause it to crumble or become gummy."
+        },
+        {
+            "tip": "Add chopped walnuts for crunch, but fold them in gently.",
+            "reason": "Walnuts add texture contrast but overmixing can break them up and affect the bread’s crumb. Folding gently distributes them evenly."
+        },
+        {
+            "tip": "Use a serrated knife to slice the bread cleanly.",
+            "reason": "A serrated knife cuts through the crust without compressing the soft crumb, resulting in neat slices."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not removing enough moisture from the zucchini",
+            "why_it_happens": "Many assume grated zucchini won’t affect moisture levels, but it contains a lot of water that can make the batter too wet.",
+            "fix": "After grating, wrap the zucchini in a clean towel and squeeze firmly to remove excess water. This prevents soggy bread and ensures proper texture."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "It’s tempting to mix thoroughly for even distribution, but overmixing develops gluten, making the bread tough.",
+            "fix": "Mix just until the dry ingredients are incorporated into the wet. Stop as soon as you don’t see flour patches."
+        },
+        {
+            "mistake": "Using underripe bananas",
+            "why_it_happens": "Sometimes people use bananas too early to avoid waste, but they lack sweetness and moisture.",
+            "fix": "Wait until bananas have brown spots and are very soft for maximum flavor and moisture contribution."
+        },
+        {
+            "mistake": "Baking at too high a temperature",
+            "why_it_happens": "Some ovens run hot or cooks increase temperature for faster baking, risking dry or burnt crust.",
+            "fix": "Bake at 350°F and use an oven thermometer if needed to ensure accurate temperature."
+        },
+        {
+            "mistake": "Slicing bread before it cools",
+            "why_it_happens": "Impatience leads to slicing warm bread, which can crumble or become gummy.",
+            "fix": "Allow bread to cool completely on a wire rack for best texture and clean slices."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Banana Zucchini Bread with Chocolate Chips",
+            "description": "Add 1/2 cup semi-sweet chocolate chips to the batter for a sweeter, more indulgent version. The chocolate melts into pockets throughout the bread, complementing the banana and zucchini flavors.",
+            "technical_note": "Fold in chocolate chips gently after mixing the batter. Baking time remains the same but check early to avoid burning the chips."
+        },
+        {
+            "name": "Gluten-Free Banana Zucchini Bread",
+            "description": "Substitute the all-purpose flour with a gluten-free blend. This makes the bread suitable for gluten-sensitive diets, though the texture may be slightly denser.",
+            "technical_note": "Use a 1:1 gluten-free flour blend with xanthan gum included for best results. Baking time may increase by 5-10 minutes."
+        },
+        {
+            "name": "Banana Zucchini Bread with Walnuts and Cinnamon Sugar Topping",
+            "description": "Sprinkle a mixture of cinnamon and sugar on top of the batter before baking and add chopped walnuts inside. This adds a crunchy, sweet crust and nutty flavor.",
+            "technical_note": "Add topping just before baking. Watch closely to prevent the sugar from burning."
+        },
+        {
+            "name": "Vegan Banana Zucchini Bread",
+            "description": "Replace eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg) and use a plant-based oil. This keeps the bread moist and flavorful without animal products.",
+            "technical_note": "Allow flax eggs to thicken before mixing. Baking time remains similar."
+        },
+        {
+            "name": "Spiced Banana Zucchini Bread with Nutmeg and Ginger",
+            "description": "Add 1/2 teaspoon nutmeg and 1/4 teaspoon ground ginger to the dry ingredients for a warm, spiced flavor that’s perfect for fall baking.",
+            "technical_note": "Mix spices with dry ingredients thoroughly to ensure even flavor distribution."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "220 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "10g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store banana zucchini bread covered at room temperature for up to 2 days. Keep it in an airtight container or wrapped tightly in plastic wrap to maintain moisture and prevent drying out.",
+        "refrigerator": "Keep the bread in an airtight container in the refrigerator for up to 5 days. The bread may firm up slightly but will stay moist. Bring to room temperature or warm gently before serving for best texture.",
+        "freezer": "Wrap the bread tightly in plastic wrap and then aluminum foil to prevent freezer burn. Freeze for up to 3 months. Thaw overnight in the refrigerator or at room temperature before reheating.",
+        "reheating": "Reheat slices in a toaster oven or regular oven at 300°F for 5-7 minutes until warmed through. Avoid microwaving as it can make the bread rubbery. A light spread of butter before reheating enhances flavor and moisture.",
+        "make_ahead_strategy": "You can prepare the batter 1 day ahead and keep it refrigerated. Bring it to room temperature before baking. Alternatively, bake the bread ahead and freeze slices individually for quick breakfasts or snacks."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this bread?",
+            "answer": "While fresh zucchini is best, you can use frozen zucchini if you thaw and squeeze out all excess moisture thoroughly before adding it to the batter. Frozen zucchini tends to be wetter, so removing water is crucial to avoid soggy bread."
+        },
+        {
+            "question": "How ripe should my bananas be?",
+            "answer": "For best flavor and moisture, bananas should be very ripe with plenty of brown spots and soft to the touch. Overripe bananas mash easily and add natural sweetness, which improves the bread’s texture and taste."
+        },
+        {
+            "question": "Can I substitute the oil with butter?",
+            "answer": "Yes, melted butter can be used instead of oil, but it may make the bread slightly denser and less moist. Oil helps keep the bread tender because it stays liquid at room temperature, so oil is preferred for the moistest texture."
+        },
+        {
+            "question": "What if my bread is too dense or heavy?",
+            "answer": "Dense bread often results from overmixing the batter or using too much flour. Mix just until combined and measure flour accurately. Also, ensure your baking soda is fresh to help the bread rise properly."
+        },
+        {
+            "question": "Can I make muffins instead of a loaf?",
+            "answer": "Absolutely! Divide the batter into a greased or lined muffin tin and bake at 350°F for about 20-25 minutes. Check with a toothpick to ensure they’re done. Muffins bake faster due to smaller size."
+        },
+        {
+            "question": "How do I know when the bread is done baking?",
+            "answer": "Insert a toothpick into the center; it should come out clean or with a few moist crumbs but no wet batter. The crust should be golden brown and spring back lightly when pressed."
+        },
+        {
+            "question": "Can I add other mix-ins like raisins or chocolate chips?",
+            "answer": "Yes, you can fold in 1/2 cup of raisins, chocolate chips, or nuts for added flavor and texture. Just be careful not to overmix after adding them."
+        },
+        {
+            "question": "Is this recipe suitable for meal prep or freezing?",
+            "answer": "Definitely! This bread freezes well when wrapped tightly. Slice before freezing for easy grab-and-go portions. It’s great for meal prep breakfasts or snacks."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this banana zucchini bread as much as my family does. It’s a simple, comforting treat that’s perfect any time you need a moist, flavorful slice of homemade goodness.",
+    "seo": {
+        "primary_keyword": "banana zucchini bread",
+        "secondary_keywords": [
+            "moist banana zucchini bread",
+            "how to make banana zucchini bread",
+            "best banana zucchini bread recipe",
+            "easy banana zucchini bread"
+        ],
+        "internal_links": [
+            {
+                "text": "moist banana bread recipe",
+                "anchor": "moist-banana-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-21 23:09:43",
+        "title_seed": "Banana Zucchini Bread"
+    },
+    "author_id": "author_001",
+    "id": "post_1784675383_686",
+    "slug": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb",
+    "uniqueSlug": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_1.webp",
+            "filePath": "posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_1.webp",
+            "relativePath": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_2.webp",
+            "filePath": "posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_2.webp",
+            "relativePath": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_3.webp",
+            "filePath": "posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_3.webp",
+            "relativePath": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_4.webp",
+            "filePath": "posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_4.webp",
+            "relativePath": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Banana Zucchini Bread Stay So Moist Every Time?"
+        },
+        {
+            "fileName": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_7.webp",
+            "filePath": "posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_7.webp",
+            "relativePath": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Banana Bread? This Zucchini Version Fixes It"
+        },
+        {
+            "fileName": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_6.webp",
+            "filePath": "posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_6.webp",
+            "relativePath": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep for Banana Zucchini Bread That Tastes Homemade"
+        },
+        {
+            "fileName": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_5.webp",
+            "filePath": "posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_5.webp",
+            "relativePath": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Banana Zucchini Bread Foolproof"
+        },
+        {
+            "fileName": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_9.webp",
+            "filePath": "posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_9.webp",
+            "relativePath": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Banana Zucchini Bread Stay So Moist Every Time?"
+        },
+        {
+            "fileName": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_8.webp",
+            "filePath": "posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_8.webp",
+            "relativePath": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Banana Zucchini Bread Stay So Moist Every Time?"
+        }
+    ],
+    "image": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_1.webp",
+    "image_path": "posts/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images/the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb_pinrecipes_image_1.webp",
+    "image_dir": "the-best-moist-banana-zucchini-bread-recipe-with-a-perfectly-tender-crumb/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-22T00:40:20+01:00",
+    "updatedAt": "2026-07-22T00:40:20+01:00",
+    "has_reel": true
+}

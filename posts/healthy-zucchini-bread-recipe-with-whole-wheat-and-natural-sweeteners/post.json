@@ -1,0 +1,364 @@
+{
+    "title": "Healthy Zucchini Bread Recipe with Whole Wheat and Natural Sweeteners",
+    "promptIMG": "Food photography: Healthy Zucchini Bread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred behind with warm daylight streaming through a window, faint reflections on a wooden counter. SUBJECT: a generous loaf of healthy zucchini bread in a rustic ceramic loaf pan, filling most of the frame corner to corner, the front slice sharply focused at a 30-degree angle showing the moist crumb flecked with green zucchini strands and specks of cinnamon, the rest of the loaf fading into soft bokeh. DETAILS: the top crust is golden brown with a slightly glossy sheen from a light honey glaze, natural cracks revealing tender interior, a sprinkle of chopped walnuts on top adds texture. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors enhancing the bread's moist texture and fresh ingredients; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no logos, no steam or smoke, no artificial colors or over-smoothing.",
+        "img2": "SCENE: soft blurred background of a marble countertop with natural daylight streaming in, creating a bright airy atmosphere. SUBJECT: the reveal shot of healthy zucchini bread cut in half with both halves facing the camera; the moist interior glistens with visible strands of zucchini and flecks of cinnamon and nutmeg, a slow drip of honey glaze oozing down one side, emphasizing the tender crumb. DETAILS: the crust edges are caramelized amber with a glossy finish, a scattering of walnut pieces around the base, crumbs naturally scattered on the surface. STYLE: ultra-photorealistic professional food photography, bright daylight with warm golden hues, rich saturated colors that highlight the moist texture and fresh ingredients; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no logos, no steam or smoke, no artificial effects.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with a single warm side glow highlighting the scene. SUBJECT: several thick slices of healthy zucchini bread arranged overlapping on a rustic wooden platter, topped with a light drizzle of honey and a sprinkle of chopped walnuts, with a small bowl of natural Greek yogurt on the side as an accompaniment. DETAILS: intense wet glossy shine on the honey drizzle, deep golden crust with a moist crumb visible, crumbs and walnut pieces scattered naturally on the platter. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grading, rich saturated appetizing tones; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no logos, no steam or smoke, no artificial textures."
+    },
+    "description": "This healthy zucchini bread is a moist, flavorful twist on a classic favorite. Made with whole wheat flour and natural sweeteners, it’s perfect for breakfast or a wholesome snack. I love how the zucchini keeps it tender and fresh!",
+    "hashtags": "#healthyzucchinibread #wholewheatbaking #healthysnacks",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Healthy Zucchini Bread Taste Better Than Store-Bought?",
+            "description": "Discover the secret to moist, flavorful zucchini bread that’s packed with wholesome ingredients and no artificial junk. You’ll never go back to store-bought once you try this! Save this for your next baking day 🍞 #healthyrecipes #zucchinibread #wholewheatbaking"
+        },
+        {
+            "title": "The One Trick That Makes Healthy Zucchini Bread So Moist",
+            "description": "Want your zucchini bread perfectly moist every time? It’s all about the fresh grated zucchini and a touch of natural sweetener that keeps it tender and delicious. Try this easy recipe and taste the difference! 🍯 #homemadebread #healthybreakfast #bakingtips"
+        },
+        {
+            "title": "15-Minute Healthy Zucchini Bread Prep for Busy Mornings",
+            "description": "Short on time but craving homemade zucchini bread? This recipe comes together fast with simple ingredients and minimal prep. Perfect for busy mornings or a quick wholesome snack! Tap to get the full recipe 🥒 #quickbaking #healthysnacks #easyrecipes"
+        },
+        {
+            "title": "Whole Wheat vs White Flour: Best Healthy Zucchini Bread Recipe",
+            "description": "Curious how whole wheat changes zucchini bread? This recipe uses whole wheat for extra fiber and a nutty flavor, making it healthier without sacrificing taste. Try it and see which you prefer! Save for later 🍞 #wholewheatbaking #zucchinibread #healthybaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups whole wheat flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/4 teaspoon ground nutmeg",
+        "2 large eggs",
+        "1/4 cup honey",
+        "1/4 cup unsweetened applesauce",
+        "1/4 cup plain Greek yogurt",
+        "1 teaspoon vanilla extract",
+        "1 1/2 cups grated zucchini, squeezed dry",
+        "1/2 cup chopped walnuts (optional)"
+    ],
+    "yield": "One 9x5 inch loaf, approximately 8 servings",
+    "introduction": "I've been making zucchini bread for years, but this healthy version quickly became a favorite in my family. The trick I learned was swapping out refined flour for whole wheat and using natural sweeteners like honey and applesauce to keep it moist without the extra sugar crash. I also add Greek yogurt for a subtle tang and extra tenderness. What sets this recipe apart is the balance between wholesome ingredients and classic cozy flavors — you still get that comforting cinnamon and nutmeg warmth, but with a lighter feel. I remember the first time I made it, I was worried the bread would be too dense or dry, but the grated zucchini and yogurt keep it perfectly soft and moist. It’s great for breakfast, a snack, or even a light dessert. Plus, it’s easy enough to whip up on a weekend morning or prep ahead for busy weekdays. I always recommend squeezing the zucchini well to avoid soggy bread, and letting the batter rest just a bit before baking to let the flavors meld. When it comes out of the oven, the aroma alone is enough to make you want to slice right in. I hope you enjoy this recipe as much as my family does — it’s simple, healthy, and truly delicious.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x5 inch loaf pan with butter or non-stick spray. This ensures your bread doesn’t stick and comes out cleanly. Using the right pan size helps the bread bake evenly, so it’s moist inside without being undercooked or overly dense.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven preheated and pan prepared, ready for batter."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the whole wheat flour, baking soda, baking powder, salt, cinnamon, and nutmeg. Mixing the dry ingredients first ensures even distribution of leavening agents and spices, which helps the bread rise properly and develop balanced flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are evenly combined with no clumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, beat the eggs lightly, then whisk in the honey, applesauce, Greek yogurt, and vanilla extract until smooth. This wet mixture combines moisture and sweetness, and the yogurt adds tenderness and a slight tang that brightens the flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Wet ingredients are smooth and well combined."
+        },
+        {
+            "step": 4,
+            "instruction": "Grate the zucchini using a box grater, then place it in a clean kitchen towel or cheesecloth and squeeze out as much moisture as possible. Removing excess water prevents soggy bread and helps maintain the right texture.",
+            "timing": "10 minutes",
+            "doneness_cue": "Zucchini is moist but not dripping water."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the grated zucchini and chopped walnuts (if using) to the wet ingredients and stir gently to combine. The walnuts add a nice crunch and nutty flavor that complements the moist zucchini and spices.",
+            "timing": "3 minutes",
+            "doneness_cue": "Zucchini and nuts are evenly mixed into the wet batter."
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the wet ingredients into the dry ingredients and fold gently with a spatula until just combined. Avoid overmixing to keep the bread tender; overworking the batter can develop gluten and make it tough.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is combined with no large flour pockets but still slightly lumpy."
+        },
+        {
+            "step": 7,
+            "instruction": "Let the batter rest for 5 minutes before transferring it to the prepared loaf pan. This rest allows the flour to hydrate and the leavening agents to activate, resulting in a better rise and moist crumb.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter has rested and looks slightly thickened."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the zucchini bread in the preheated oven for 45-55 minutes, or until a toothpick inserted in the center comes out clean. Baking times vary due to moisture content, so start checking at 45 minutes to avoid overbaking.",
+            "timing": "45-55 minutes",
+            "doneness_cue": "Bread is golden brown on top and toothpick inserted comes out clean."
+        },
+        {
+            "step": 9,
+            "instruction": "Allow the bread to cool in the pan for 10 minutes, then transfer to a wire rack to cool completely. Cooling helps the bread set and prevents it from becoming gummy when sliced.",
+            "timing": "20 minutes",
+            "doneness_cue": "Bread is firm to the touch and cool enough to slice."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Healthy Zucchini Bread Recipe Succeeds",
+        "content": "<p>This healthy zucchini bread recipe works because it balances moisture, structure, and flavor through thoughtful ingredient choices and techniques. Whole wheat flour provides a hearty, nutty flavor and added fiber, but it can sometimes make baked goods dense. Here, the addition of baking soda and baking powder creates the right lift, while the grated zucchini adds moisture without excess fat, keeping the crumb tender.</p><p>The natural sweeteners—honey and applesauce—replace refined sugar, offering sweetness with added moisture and a subtle fruity note. Honey also helps create a glossy crust when baked, enhancing the bread’s visual appeal.</p><p>Greek yogurt plays a crucial role, contributing protein and fat that tenderize the crumb and add a slight tang that balances the sweetness and spices. This ingredient also reacts with the baking soda to help the bread rise more effectively. The spices—cinnamon and nutmeg—bring warmth and depth, complementing the mild zucchini flavor.</p><p>Lastly, squeezing the zucchini to remove excess water is essential. Too much moisture can make the bread gummy or cause it to collapse. Resting the batter before baking allows the flour to hydrate fully and the leavening agents to activate, resulting in a moist, fluffy loaf with a golden crust.</p>",
+        "ingredient_notes": {
+            "Whole Wheat Flour": "Choose finely ground whole wheat flour for a tender crumb and mild flavor. It provides more fiber and nutrients than white flour but can make baked goods heavier if overmixed. Sifting or mixing gently helps maintain lightness.",
+            "Honey": "Use raw or mild-flavored honey to add natural sweetness and moisture. Honey also contributes to a golden crust and helps retain freshness longer. Avoid overheating honey to preserve its delicate flavors and nutrients.",
+            "Applesauce": "Unsweetened applesauce is a great fat substitute that adds moisture and natural sweetness without extra calories. It helps keep the bread soft and tender while reducing the need for oil or butter.",
+            "Greek Yogurt": "Plain Greek yogurt adds creaminess, protein, and a subtle tang that balances the sweetness. It also reacts with baking soda to help leaven the bread, improving texture and rise.",
+            "Zucchini": "Use fresh, firm zucchini and grate it finely. Squeeze out excess water thoroughly to prevent sogginess. The zucchini adds moisture and a mild vegetable flavor that blends well with spices."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze out excess moisture from grated zucchini before adding it to the batter.",
+            "reason": "Zucchini contains a lot of water, which can make your bread soggy or cause it to collapse if not removed. Wrapping grated zucchini in a clean towel and squeezing firmly ensures the right moisture balance, resulting in a tender but well-structured loaf."
+        },
+        {
+            "tip": "Mix the batter gently and avoid overmixing once the wet and dry ingredients are combined.",
+            "reason": "Overmixing develops gluten in the whole wheat flour, which can make the bread tough and dense. Folding ingredients until just combined ensures a tender crumb and light texture."
+        },
+        {
+            "tip": "Let the batter rest for a few minutes before baking.",
+            "reason": "Resting allows the flour to hydrate fully and the baking soda and powder to start reacting. This helps the bread rise better and results in a moist, fluffy texture."
+        },
+        {
+            "tip": "Use a toothpick to check doneness starting at 45 minutes.",
+            "reason": "Ovens vary, and zucchini adds moisture that can lengthen baking time. Testing early prevents overbaking, which can dry out the bread."
+        },
+        {
+            "tip": "Add chopped walnuts or pecans for extra texture and flavor.",
+            "reason": "Nuts provide a pleasant crunch and nutty taste that complements the soft, moist bread. They also add healthy fats and protein."
+        },
+        {
+            "tip": "Use room temperature eggs and yogurt for better mixing and rise.",
+            "reason": "Cold ingredients can cause the batter to curdle or mix unevenly, affecting texture and rise. Room temperature ingredients blend more smoothly and help activate leavening agents."
+        },
+        {
+            "tip": "Store the bread wrapped tightly once cooled to maintain moisture.",
+            "reason": "Proper storage prevents the bread from drying out and keeps it fresh longer, especially important for whole wheat baked goods which can dry quickly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing enough moisture from zucchini.",
+            "why_it_happens": "Many assume grated zucchini can be added directly, but the excess water disrupts the batter’s structure.",
+            "fix": "Use a clean kitchen towel or cheesecloth to wring out as much water as possible before folding zucchini into the batter. This prevents sogginess and ensures proper crumb texture."
+        },
+        {
+            "mistake": "Overmixing the batter.",
+            "why_it_happens": "Excited to finish, cooks sometimes stir vigorously, thinking it helps combine ingredients better.",
+            "fix": "Mix just until dry ingredients are moistened. Stop when you still see a few small flour streaks. This keeps gluten development minimal for a tender bread."
+        },
+        {
+            "mistake": "Using too much sweetener.",
+            "why_it_happens": "Some recipes call for sugar-heavy versions, but this can overpower the natural flavors and affect texture.",
+            "fix": "Stick to the recommended honey and applesauce amounts to maintain balance and moisture without excessive sweetness."
+        },
+        {
+            "mistake": "Skipping the batter rest time.",
+            "why_it_happens": "Rushing to bake without letting the batter sit can lead to uneven rise and dense texture.",
+            "fix": "Allow the batter to rest 5 minutes before baking to hydrate flour and activate leavening for better results."
+        },
+        {
+            "mistake": "Baking at too high a temperature.",
+            "why_it_happens": "Some try to speed baking by increasing oven temp, causing crust to burn before the inside cooks.",
+            "fix": "Bake at 350°F (175°C) as directed for even cooking and a moist crumb."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Zucchini Bread",
+            "description": "Swap whole wheat flour for a gluten-free blend that includes xanthan gum. This keeps the bread tender and moist while accommodating gluten sensitivities. Expect a slightly different texture but still delicious.",
+            "technical_note": "Gluten-free flours absorb moisture differently, so you might need to adjust liquid amounts slightly and avoid overmixing."
+        },
+        {
+            "name": "Vegan Zucchini Bread",
+            "description": "Replace eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg) and use plant-based yogurt. This version keeps the bread moist and flavorful without animal products.",
+            "technical_note": "Flax eggs add binding but can slightly change texture; be sure to mix well and let the flaxseed gel before incorporating."
+        },
+        {
+            "name": "Chocolate Chip Zucchini Bread",
+            "description": "Add 1/2 cup dark chocolate chips to the batter for a sweet twist. The chocolate pairs wonderfully with the cinnamon and zucchini, making it a hit for kids and adults alike.",
+            "technical_note": "Fold chips in gently to prevent sinking; consider chilling the batter briefly before baking."
+        },
+        {
+            "name": "Spiced Zucchini Bread with Ginger and Cloves",
+            "description": "Enhance the warm spice profile by adding 1/2 teaspoon ground ginger and a pinch of ground cloves along with cinnamon and nutmeg. This variation adds a cozy depth perfect for cooler months.",
+            "technical_note": "Adjust spice levels to taste; these stronger spices can easily overpower if overused."
+        },
+        {
+            "name": "Zucchini Bread Muffins",
+            "description": "Pour the batter into a lined muffin tin and bake for 20-25 minutes for portable, single-serving treats. Great for lunchboxes or quick snacks.",
+            "technical_note": "Watch baking time carefully to avoid drying out; muffins bake faster due to smaller size."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "32g",
+        "fat_grams": "6g",
+        "fiber_grams": "4g",
+        "sodium_mg": "200mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the zucchini bread wrapped tightly in plastic wrap or in an airtight container at room temperature for up to 2 days. Keep it away from direct sunlight or heat sources to prevent drying out.",
+        "refrigerator": "Refrigerate leftovers in an airtight container for up to 5 days. The bread may firm up slightly when cold, so bring to room temperature or warm briefly before serving for best texture.",
+        "freezer": "Freeze the bread wrapped tightly in plastic wrap and then foil or in a freezer-safe bag for up to 3 months. Thaw overnight in the refrigerator or at room temperature before reheating.",
+        "reheating": "Warm slices in a toaster oven or microwave for 20-30 seconds to restore softness. Adding a small pat of butter or a drizzle of honey enhances flavor and moisture.",
+        "make_ahead_strategy": "You can grate the zucchini and prepare the batter up to 1 day in advance, storing it covered in the refrigerator. Bake fresh when ready to serve for best texture and rise."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular all-purpose flour instead of whole wheat?",
+            "answer": "Yes, you can substitute all-purpose flour for whole wheat if you prefer a lighter texture. The bread will be softer and less dense but less nutritious. You might want to reduce the baking powder slightly since all-purpose flour is lighter."
+        },
+        {
+            "question": "How do I know when the zucchini bread is fully baked?",
+            "answer": "Insert a toothpick into the center of the loaf. If it comes out clean or with a few moist crumbs (not wet batter), the bread is done. The top should be golden brown and spring back when lightly pressed."
+        },
+        {
+            "question": "Can I freeze this zucchini bread?",
+            "answer": "Absolutely! Wrap the cooled bread tightly in plastic wrap and foil or place in a freezer-safe bag. Freeze for up to 3 months. Thaw in the fridge or at room temperature before warming and serving."
+        },
+        {
+            "question": "What’s the best way to grate zucchini for this recipe?",
+            "answer": "Use the medium holes on a box grater to shred the zucchini finely. After grating, wrap it in a clean towel and squeeze out excess water thoroughly to avoid soggy bread."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes, replace eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg) and use plant-based yogurt. The texture may be slightly different but still moist and flavorful."
+        },
+        {
+            "question": "Why does my zucchini bread turn out dense?",
+            "answer": "Dense bread often results from overmixing the batter, too much moisture, or insufficient leavening. Be gentle when combining ingredients, squeeze out zucchini water well, and ensure baking soda and powder are fresh."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips?",
+            "answer": "Yes, adding chopped walnuts or chocolate chips is a delicious variation. Fold them in gently at the end to keep the batter light and prevent sinking."
+        },
+        {
+            "question": "How long does this bread keep fresh?",
+            "answer": "At room temperature, it stays fresh for about 2 days. Refrigerated, it lasts up to 5 days. Properly wrapped and stored, it maintains moisture and flavor well."
+        }
+    ],
+    "conclusion": "I hope you enjoy this healthy zucchini bread as much as my family does. It’s a simple, wholesome treat perfect for any time of day. Let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "healthy zucchini bread",
+        "secondary_keywords": [
+            "whole wheat zucchini bread",
+            "easy zucchini bread recipe",
+            "best healthy zucchini bread",
+            "how to make zucchini bread"
+        ],
+        "internal_links": [
+            {
+                "text": "whole wheat banana bread recipe",
+                "anchor": "whole-wheat-banana-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-21 23:15:30",
+        "title_seed": "Healthy Zucchini Bread"
+    },
+    "author_id": "author_001",
+    "id": "post_1784675730_559",
+    "slug": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners",
+    "uniqueSlug": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_1.webp",
+            "filePath": "posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_1.webp",
+            "relativePath": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_2.webp",
+            "filePath": "posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_2.webp",
+            "relativePath": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_3.webp",
+            "filePath": "posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_3.webp",
+            "relativePath": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_9.webp",
+            "filePath": "posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_9.webp",
+            "relativePath": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Healthy Zucchini Bread Taste Better Than Store-Bought?"
+        },
+        {
+            "fileName": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_4.webp",
+            "filePath": "posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_4.webp",
+            "relativePath": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Healthy Zucchini Bread Taste Better Than Store-Bought?"
+        },
+        {
+            "fileName": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_6.webp",
+            "filePath": "posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_6.webp",
+            "relativePath": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Healthy Zucchini Bread Prep for Busy Mornings"
+        },
+        {
+            "fileName": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_7.webp",
+            "filePath": "posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_7.webp",
+            "relativePath": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Whole Wheat vs White Flour: Best Healthy Zucchini Bread Recipe"
+        },
+        {
+            "fileName": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_5.webp",
+            "filePath": "posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_5.webp",
+            "relativePath": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Healthy Zucchini Bread So Moist"
+        },
+        {
+            "fileName": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_8.webp",
+            "filePath": "posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_8.webp",
+            "relativePath": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Healthy Zucchini Bread Taste Better Than Store-Bought?"
+        }
+    ],
+    "image": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_1.webp",
+    "image_path": "posts/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images/healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners_pinrecipes_image_1.webp",
+    "image_dir": "healthy-zucchini-bread-recipe-with-whole-wheat-and-natural-sweeteners/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-22T00:40:20+01:00",
+    "updatedAt": "2026-07-22T00:40:20+01:00",
+    "has_reel": true
+}
