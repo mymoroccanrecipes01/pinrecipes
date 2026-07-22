@@ -1,0 +1,101 @@
+{
+    "title": "Delicious Flavorful High Fiber Recipes for Easy Healthy Meals",
+    "promptIMG": "Food photography: Flavorful High Fiber Recipes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm natural daylight streaming through a window, faint reflections on a wooden countertop. SUBJECT: a large rustic ceramic bowl overflowing with a colorful high fiber salad featuring vibrant roasted sweet potatoes, dark leafy kale, bright red kidney beans, and toasted sunflower seeds, garnished with fresh parsley. DETAILS: the salad glistens with a light citrus dressing, the sweet potatoes have caramelized edges, the kale leaves show textured veins, and seeds scatter naturally around the bowl's rim. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors that pop, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no dim shadows, no CGI, no steam or smoke.",
+        "img2": "SCENE: a softly blurred light grey marble surface under bright daylight from a nearby window. SUBJECT: a close-up reveal shot of a spoonful of the high fiber salad lifted from the bowl, showing the moist interior with juicy roasted sweet potato chunks, glossy red kidney beans, tender kale strands, and crunchy sunflower seeds. DETAILS: the dressing lightly coats the ingredients, giving a wet glossy shine; the textures contrast between creamy beans and crisp kale; crumbs and bits of parsley fall naturally below. STYLE: ultra-photorealistic professional food photography, bright daylight with warm golden highlights, vibrant natural colors, shallow macro depth of field, vertical 2:3. AVOID: no hands, no text, no logos, no flat lighting, no CGI.",
+        "img3": "SCENE: a warm dark wooden table softly blurred with a soft warm side glow highlighting the food. SUBJECT: several servings of the high fiber salad arranged in rustic ceramic bowls, accompanied by a small bowl of tangy lemon vinaigrette and a crusty whole grain roll. DETAILS: the salad pieces glisten with dressing, the roasted sweet potatoes show caramelized edges, sunflower seeds and parsley sprinkle naturally on the bowls and table, the bread has a crunchy golden crust. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grading, rich saturated appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no dull colors, no CGI."
+    },
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-22 23:22:04",
+        "title_seed": "Flavorful High Fiber Recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1784762524_985",
+    "slug": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals",
+    "uniqueSlug": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_1.webp",
+            "filePath": "posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_1.webp",
+            "relativePath": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_2.webp",
+            "filePath": "posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_2.webp",
+            "relativePath": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_3.webp",
+            "filePath": "posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_3.webp",
+            "relativePath": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_6.webp",
+            "filePath": "posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_6.webp",
+            "relativePath": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "Delicious Flavorful High Fiber Recipes for Easy Healthy Meals"
+        },
+        {
+            "fileName": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_7.webp",
+            "filePath": "posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_7.webp",
+            "relativePath": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Delicious Flavorful High Fiber Recipes for Easy Healthy Meals"
+        },
+        {
+            "fileName": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_5.webp",
+            "filePath": "posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_5.webp",
+            "relativePath": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "Delicious Flavorful High Fiber Recipes for Easy Healthy Meals"
+        },
+        {
+            "fileName": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_9.webp",
+            "filePath": "posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_9.webp",
+            "relativePath": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Delicious Flavorful High Fiber Recipes for Easy Healthy Meals"
+        },
+        {
+            "fileName": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_8.webp",
+            "filePath": "posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_8.webp",
+            "relativePath": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Delicious Flavorful High Fiber Recipes for Easy Healthy Meals"
+        },
+        {
+            "fileName": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_4.webp",
+            "filePath": "posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_4.webp",
+            "relativePath": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Delicious Flavorful High Fiber Recipes for Easy Healthy Meals"
+        }
+    ],
+    "image": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_1.webp",
+    "image_path": "posts/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images/delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals_pinrecipes_image_1.webp",
+    "image_dir": "delicious-flavorful-high-fiber-recipes-for-easy-healthy-meals/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-23T00:37:05+01:00",
+    "updatedAt": "2026-07-23T00:37:05+01:00",
+    "has_reel": true
+}

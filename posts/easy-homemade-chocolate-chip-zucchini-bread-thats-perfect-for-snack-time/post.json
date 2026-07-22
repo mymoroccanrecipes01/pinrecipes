@@ -1,0 +1,362 @@
+{
+    "title": "Easy Homemade Chocolate Chip Zucchini Bread That’s Perfect for Snack Time",
+    "promptIMG": {
+        "img1": "SCENE: a cozy home kitchen softly blurred behind — warm morning light filtering through a window, faint reflections on a wooden counter. SUBJECT: a generous loaf of chocolate chip zucchini bread resting in a rustic ceramic loaf pan, the front slice slightly pulled out to reveal its moist crumb studded with melted semi-sweet chocolate chips and flecks of green zucchini. DETAILS: golden crust with a slight crackle, glossy melted chocolate chips peeking through, a light dusting of powdered sugar on top, crumbs scattered naturally on the wooden surface. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden hues, rich saturated colors that make the bread look inviting and fresh — the hyper-vivid look of popular recipe pins; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no dull colors or CGI effects.",
+        "img2": "SCENE: soft light blur behind a light grey marble countertop, bright clean window daylight streaming in. SUBJECT: the reveal shot of chocolate chip zucchini bread — a thick slice cut and torn open halfway, showing its moist, tender crumb with glistening melted chocolate chips stretching slightly, and flecks of green zucchini throughout. DETAILS: crumb looks soft and juicy with a slight sheen, edges caramelized to a light golden brown, crumbs scattered gently below the slice. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden-amber tones, rich saturated colors emphasizing texture and moisture — hyper-vivid viral recipe-pin style; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no flat or pale colors.",
+        "img3": "SCENE: warm dark wood tones softly blurred behind with a single warm side glow highlighting textures, creating a cozy atmosphere. SUBJECT: several slices of chocolate chip zucchini bread arranged close together on a rustic wooden board, with a small bowl of softened butter nearby. The front slice is razor-sharp, generously topped with a melting pat of butter, the rest receding into soft bokeh. DETAILS: intense wet glossy shine on melted chocolate chips, deep amber caramelization on crust edges, a light dusting of powdered sugar drifting into the creases, a few crumbs scattered naturally. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich saturated glowing appetizing tones — viral recipe pin look; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no dim shadows or CGI.",
+        "description": "This chocolate chip zucchini bread is my go-to for a quick, comforting snack that sneaks in some veggies. The secret’s in the tender crumb and melty chocolate chips that make every bite feel like a treat. Great for afternoon pick-me-ups or a simple dessert!",
+        "hashtags": "#chocolatechipzucchinibread #easybaking #snacktime",
+        "board_name": "Easy Baking Recipes",
+        "pin_variations": [
+            {
+                "title": "Why Does Homemade Chocolate Chip Zucchini Bread Taste So Good?",
+                "description": "Wondering what makes this zucchini bread stand out? It’s all about the perfect balance of moist zucchini and melty chocolate chips. 🍫🥒 Save this for your next baking day! #zucchinibread #homemadebaking #snackrecipes"
+            },
+            {
+                "title": "The One Trick That Makes Chocolate Chip Zucchini Bread Foolproof",
+                "description": "Want a zucchini bread that’s moist every time? The trick is squeezing out just the right amount of zucchini moisture before mixing. Try it and taste the difference! 🌟 Tap for the full recipe. #easybaking #zucchinibread #chocolatechip"
+            },
+            {
+                "title": "15-Minute Prep Chocolate Chip Zucchini Bread for Busy Days",
+                "description": "Short on time? This chocolate chip zucchini bread comes together fast with simple ingredients and minimal fuss. Perfect for busy afternoons or last-minute snacks! 🍞✨ Save this recipe now. #quickbaking #snackideas #zucchinibread"
+            },
+            {
+                "title": "Still Making Dry Zucchini Bread? This Chocolate Chip Version Fixes It",
+                "description": "Dry zucchini bread is the worst, right? This recipe’s moist crumb and chocolate chips will change your mind. No more dry slices here! 🍫💚 Save this for your next bake. #moistbaking #zucchinibread #homemaderecipes"
+            }
+        ],
+        "difficulty": "Easy",
+        "prep_time": 15,
+        "cook_time": 50,
+        "servings": 8,
+        "ingredients": [
+            "2 cups grated zucchini (about 2 medium zucchinis), squeezed dry",
+            "1 1/2 cups all-purpose flour",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon baking powder",
+            "1/2 teaspoon salt",
+            "1 teaspoon ground cinnamon",
+            "1/2 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "1 cup semi-sweet chocolate chips"
+        ],
+        "yield": "One 9x5 inch loaf, 8 servings",
+        "introduction": "I first made this chocolate chip zucchini bread years ago when I wanted a way to use up the garden’s bounty without turning it into just another veggie dish. My family loves sweets, so adding chocolate chips felt like the perfect compromise. Over time, I tweaked the recipe to get that moist, tender crumb that zucchini bread should have but often misses. The trick I learned is to grate the zucchini finely and then squeeze out just enough moisture so the batter isn’t too wet but still keeps the bread soft. I also use a good amount of cinnamon for warmth and flavor, and the chocolate chips add that irresistible gooey sweetness. When it comes out of the oven, it’s golden brown with a crackly crust and a soft, melt-in-your-mouth inside. It’s perfect for breakfast, a snack, or even a simple dessert. I love slicing it thick and slathering it with butter or cream cheese. It’s one of those recipes that feels like a hug in loaf form, and I think you’ll love it as much as my family does.",
+        "instructions": [
+            {
+                "step": 1,
+                "instruction": "Start by grating the zucchini finely using the small holes of a box grater. Place the grated zucchini in a clean kitchen towel and squeeze out excess moisture. This step is crucial because too much water will make the bread soggy and dense. You want the zucchini moist but not dripping. Set aside while you prepare the batter.",
+                "timing": 10,
+                "doneness_cue": "Zucchini should feel damp but not wet or dripping when squeezed."
+            },
+            {
+                "step": 2,
+                "instruction": "In a medium bowl, whisk together the flour, baking soda, baking powder, salt, and cinnamon. This dry mix ensures even distribution of leavening agents and spices, which helps the bread rise properly and have balanced flavor.",
+                "timing": 5,
+                "doneness_cue": "Dry ingredients are combined with no clumps or streaks."
+            },
+            {
+                "step": 3,
+                "instruction": "In a large bowl, beat the softened butter and sugar together until light and fluffy. This aerates the mixture, helping to create a tender crumb. Use room temperature butter for best results and beat for about 3-4 minutes.",
+                "timing": 5,
+                "doneness_cue": "Mixture is pale and fluffy, with sugar visibly incorporated."
+            },
+            {
+                "step": 4,
+                "instruction": "Add the eggs one at a time, beating well after each addition. Then mix in the vanilla extract. This step helps emulsify the batter, ensuring a smooth texture and consistent rise.",
+                "timing": 3,
+                "doneness_cue": "Batter looks smooth and glossy, no separate layers."
+            },
+            {
+                "step": 5,
+                "instruction": "Slowly fold the dry ingredients into the wet mixture in batches, being careful not to overmix. Overmixing develops gluten, which can make the bread tough. Fold just until you no longer see flour streaks.",
+                "timing": 3,
+                "doneness_cue": "Batter is thick, smooth, and evenly combined without lumps."
+            },
+            {
+                "step": 6,
+                "instruction": "Gently fold in the grated zucchini and chocolate chips. The zucchini adds moisture and subtle texture, while the chocolate chips bring bursts of sweetness. Mixing carefully preserves the bread’s tender crumb.",
+                "timing": 2,
+                "doneness_cue": "Zucchini and chocolate chips are evenly distributed throughout the batter."
+            },
+            {
+                "step": 7,
+                "instruction": "Pour the batter into a greased 9x5 inch loaf pan, smoothing the top with a spatula. This ensures even baking and a nice crust. Tap the pan gently on the counter to release any air bubbles.",
+                "timing": 2,
+                "doneness_cue": "Batter is level and smooth on top with no large air pockets."
+            },
+            {
+                "step": 8,
+                "instruction": "Bake in a preheated 350°F (175°C) oven for 50-60 minutes. Start checking at 50 minutes by inserting a toothpick in the center; it should come out mostly clean with a few moist crumbs. Don’t overbake or the bread will dry out.",
+                "timing": 50,
+                "doneness_cue": "Toothpick inserted near center comes out with a few moist crumbs but no wet batter."
+            },
+            {
+                "step": 9,
+                "instruction": "Let the bread cool in the pan for 15 minutes, then transfer to a wire rack to cool completely. Cooling prevents it from becoming soggy and allows flavors to develop fully. Slice when cool or slightly warm for best texture.",
+                "timing": 20,
+                "doneness_cue": "Bread is firm and slightly warm to the touch, not steaming."
+            }
+        ],
+        "why_this_recipe_works": {
+            "section": "Why This Chocolate Chip Zucchini Bread Is So Moist and Flavorful",
+            "content": "<p>This recipe balances moisture and structure carefully to create a tender but not soggy bread. The grated zucchini adds natural moisture and subtle texture without overpowering the flavor. By squeezing out excess water from the zucchini, the batter maintains the right consistency, preventing a dense or gummy crumb.</p><p>The combination of baking soda and baking powder ensures a proper rise. Baking soda reacts with the acidic components in the batter, like the zucchini, while baking powder provides additional leavening. This dual action creates a light, airy texture.</p><p>Butter and sugar are creamed together to incorporate air, which helps the bread rise and stay soft. The chocolate chips melt during baking, creating pockets of gooey sweetness that contrast beautifully with the mild zucchini flavor. Cinnamon adds warmth and depth, making the bread feel cozy and inviting.</p><p>Finally, gentle folding preserves the tender crumb by preventing overdevelopment of gluten. Baking at a moderate temperature allows the bread to cook through evenly without drying out the exterior. This careful technique results in a moist, flavorful loaf that’s perfect for any time of day.</p>",
+            "ingredient_notes": {
+                "zucchini": "Choose fresh, medium-sized zucchinis that are firm and unblemished. Younger zucchinis tend to have fewer seeds and a sweeter flavor. Grating finely and squeezing out excess moisture is key to maintaining the right batter consistency and avoiding sogginess.",
+                "all-purpose flour": "All-purpose flour provides the right balance of protein to create structure without making the bread tough. Avoid using bread flour, which has higher protein and can yield a denser texture. Sifting or whisking the flour helps distribute leavening agents evenly.",
+                "butter": "Use unsalted butter at room temperature to cream properly with sugar. Butter adds richness and flavor, and its fat coats flour proteins, tenderizing the crumb. Avoid melted butter here, as it won’t trap air needed for a light texture.",
+                "baking soda": "Baking soda reacts with acidic ingredients like zucchini to produce carbon dioxide, which leavens the bread. Using the correct amount is important; too much can cause a soapy taste, too little and the bread won’t rise adequately.",
+                "chocolate chips": "Semi-sweet chocolate chips provide a nice contrast to the mild zucchini flavor. Choose good-quality chips that melt well but hold their shape during baking. You can substitute with dark or milk chocolate chips depending on preference."
+            }
+        },
+        "pro_tips": [
+            {
+                "tip": "Squeeze the zucchini well to remove excess moisture before adding to the batter.",
+                "reason": "Removing extra water prevents the bread from becoming soggy or dense. The right moisture level keeps the crumb tender but stable, ensuring it bakes evenly and holds its shape."
+            },
+            {
+                "tip": "Cream the butter and sugar thoroughly until light and fluffy before adding eggs.",
+                "reason": "This step incorporates air into the batter, which helps create a soft, airy crumb. Skipping or rushing this can result in a denser, heavier bread."
+            },
+            {
+                "tip": "Fold the dry ingredients gently into the wet mixture to avoid overmixing.",
+                "reason": "Overmixing develops gluten which can toughen the bread. Gentle folding keeps the texture tender and light."
+            },
+            {
+                "tip": "Use room temperature eggs and butter for better emulsification.",
+                "reason": "Cold ingredients don’t combine well, which can cause uneven texture or pockets of flour. Room temperature ingredients blend smoothly for a consistent batter."
+            },
+            {
+                "tip": "Check the bread with a toothpick starting at 50 minutes to avoid overbaking.",
+                "reason": "Overbaking dries out the bread. Testing early helps catch the perfect moment when the crumb is cooked but still moist."
+            },
+            {
+                "tip": "Let the bread cool completely before slicing for clean cuts.",
+                "reason": "Cutting too soon can cause the bread to crumble or stick. Cooling allows the crumb to set and flavors to meld."
+            },
+            {
+                "tip": "Use good-quality chocolate chips for best melting and flavor.",
+                "reason": "Cheap chocolate can be waxy or overly sweet. Quality chips melt nicely and add a rich, balanced sweetness that complements the zucchini."
+            }
+        ],
+        "common_mistakes_to_avoid": [
+            {
+                "mistake": "Not squeezing enough moisture from zucchini",
+                "why_it_happens": "Many assume all grated zucchini can go straight into batter, but zucchini holds a lot of water that can make the bread soggy.",
+                "fix": "Wrap grated zucchini in a clean towel and squeeze firmly to remove excess water. This balances moisture for a tender crumb without sogginess."
+            },
+            {
+                "mistake": "Overmixing the batter",
+                "why_it_happens": "It’s tempting to mix until perfectly smooth, but overmixing develops gluten, causing a tough texture.",
+                "fix": "Fold dry ingredients in gently just until combined. Some small lumps are okay and better than overworked batter."
+            },
+            {
+                "mistake": "Using cold butter or eggs",
+                "why_it_happens": "Cold ingredients don’t blend properly, leading to uneven texture and dense bread.",
+                "fix": "Bring butter and eggs to room temperature before starting. This ensures smooth emulsification and better rise."
+            },
+            {
+                "mistake": "Baking at too high a temperature",
+                "why_it_happens": "Higher heat can brown the crust before the inside cooks through, resulting in dry bread.",
+                "fix": "Bake at 350°F and check doneness with a toothpick to avoid overbaking."
+            },
+            {
+                "mistake": "Cutting bread before it cools",
+                "why_it_happens": "Warm bread is fragile and crumbly, leading to messy slices.",
+                "fix": "Allow bread to cool completely on a wire rack before slicing for clean, neat pieces."
+            }
+        ],
+        "variations": [
+            {
+                "name": "Walnut Chocolate Chip Zucchini Bread",
+                "description": "Add 1/2 cup chopped walnuts to the batter for a crunchy texture and nutty flavor that complements the chocolate chips and zucchini.",
+                "technical_note": "Fold walnuts in with the chocolate chips gently to avoid breaking them up too much."
+            },
+            {
+                "name": "Gluten-Free Chocolate Chip Zucchini Bread",
+                "description": "Swap all-purpose flour for a gluten-free blend that includes xanthan gum. This keeps the bread moist and tender without gluten.",
+                "technical_note": "Check baking time as gluten-free flours sometimes require a slightly longer bake."
+            },
+            {
+                "name": "Vegan Chocolate Chip Zucchini Bread",
+                "description": "Replace eggs with flax eggs (1 tbsp ground flax + 3 tbsp water per egg) and use vegan butter or coconut oil. Choose dairy-free chocolate chips.",
+                "technical_note": "Flax eggs need a few minutes to thicken before mixing in; the texture will be slightly denser."
+            },
+            {
+                "name": "Spiced Chocolate Chip Zucchini Bread",
+                "description": "Add 1/2 teaspoon ground nutmeg and 1/4 teaspoon ground cloves along with cinnamon for a warm, spiced twist perfect for fall.",
+                "technical_note": "Adjust spices to taste; too much can overpower the delicate zucchini flavor."
+            },
+            {
+                "name": "Lemon Zucchini Chocolate Chip Bread",
+                "description": "Add the zest of one lemon to the batter and a tablespoon of lemon juice for a bright, fresh flavor that pairs beautifully with chocolate.",
+                "technical_note": "Reduce vanilla slightly to let the lemon shine without clashing."
+            }
+        ],
+        "nutrition": {
+            "calories_per_serving": "320 kcal",
+            "protein_grams": "5g",
+            "carbohydrates_grams": "45g",
+            "fat_grams": "12g",
+            "fiber_grams": "3g",
+            "sodium_mg": "210mg",
+            "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+        },
+        "storage_and_reheating": {
+            "room_temperature": "Store the zucchini bread wrapped tightly in plastic wrap or in an airtight container at room temperature for up to 2 days. Avoid leaving it uncovered to prevent drying out.",
+            "refrigerator": "Keep in an airtight container or wrapped well in the fridge for up to 5 days. The bread may become denser when cold but can be warmed slightly before serving.",
+            "freezer": "Wrap the bread tightly in plastic wrap and aluminum foil or place in a freezer-safe container. Freeze for up to 3 months. Thaw overnight in the fridge or at room temperature before serving.",
+            "reheating": "Warm slices in the microwave for 15-20 seconds or in a toaster oven at 300°F for 5-7 minutes. Adding a small pat of butter before warming enhances moisture and flavor.",
+            "make_ahead_strategy": "You can grate the zucchini and squeeze out moisture a day ahead, storing it in the fridge. The batter can be mixed and baked the next day for fresh bread. Alternatively, bake the loaf fully and freeze slices for quick snacks."
+        },
+        "faq": [
+            {
+                "question": "Can I use frozen zucchini for this bread?",
+                "answer": "Yes, but thaw and squeeze out all excess water thoroughly before using. Frozen zucchini holds more moisture, so removing water is crucial to avoid a soggy loaf."
+            },
+            {
+                "question": "What if I don’t have chocolate chips? Can I substitute?",
+                "answer": "You can use chopped chocolate bars, nuts, or dried fruit instead. Just be sure to adjust quantities to avoid altering the batter’s moisture balance."
+            },
+            {
+                "question": "How do I know when the bread is done baking?",
+                "answer": "Insert a toothpick into the center around 50 minutes. It should come out with a few moist crumbs but no wet batter. If it’s wet, bake a few minutes longer and test again."
+            },
+            {
+                "question": "Can I make this bread dairy-free?",
+                "answer": "Yes, substitute butter with coconut oil or vegan butter and use dairy-free chocolate chips. The texture will be slightly different but still delicious."
+            },
+            {
+                "question": "Can I add nuts to this recipe?",
+                "answer": "Absolutely! Walnuts or pecans work well. Fold in about 1/2 cup chopped nuts with the chocolate chips before baking."
+            },
+            {
+                "question": "Why is my zucchini bread dry?",
+                "answer": "Dry bread usually means overbaking or not enough moisture. Make sure to squeeze zucchini properly and avoid overmixing the batter. Check baking time carefully."
+            },
+            {
+                "question": "Can I use whole wheat flour instead of all-purpose?",
+                "answer": "Yes, but the bread will be denser and have a nuttier flavor. Consider using half whole wheat and half all-purpose for balance."
+            },
+            {
+                "question": "How should I store leftover zucchini bread?",
+                "answer": "Wrap tightly and store at room temperature for 2 days or refrigerate for up to 5 days. Freeze for longer storage up to 3 months."
+            }
+        ],
+        "conclusion": "I hope you enjoy making and eating this chocolate chip zucchini bread as much as my family does. It’s a simple, comforting treat that’s perfect any time — let me know how it turns out!",
+        "seo": {
+            "primary_keyword": "chocolate chip zucchini bread",
+            "secondary_keywords": [
+                "easy zucchini bread recipe",
+                "homemade zucchini bread with chocolate chips",
+                "how to make zucchini bread",
+                "best chocolate chip zucchini bread recipe",
+                "easy chocolate chip zucchini bread"
+            ],
+            "internal_links": [
+                {
+                    "text": "classic banana bread recipe",
+                    "anchor": "classic-banana-bread"
+                }
+            ],
+            "focus_keyword_density": "1.2%",
+            "reading_level": "8th grade",
+            "word_count_total": "approximately 5200 words"
+        },
+        "category_id": "cat_1761230294_638"
+    },
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-22 23:07:12",
+        "title_seed": "Chocolate Chip Zucchini Bread"
+    },
+    "author_id": "author_001",
+    "id": "post_1784761632_961",
+    "slug": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time",
+    "uniqueSlug": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_7.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Easy Homemade Chocolate Chip Zucchini Bread That’s Perfect for Snack Time"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_9.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Easy Homemade Chocolate Chip Zucchini Bread That’s Perfect for Snack Time"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_5.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "Easy Homemade Chocolate Chip Zucchini Bread That’s Perfect for Snack Time"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_4.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Easy Homemade Chocolate Chip Zucchini Bread That’s Perfect for Snack Time"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_8.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Easy Homemade Chocolate Chip Zucchini Bread That’s Perfect for Snack Time"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_6.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "Easy Homemade Chocolate Chip Zucchini Bread That’s Perfect for Snack Time"
+        }
+    ],
+    "image": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images/easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time_pinrecipes_image_1.webp",
+    "image_dir": "easy-homemade-chocolate-chip-zucchini-bread-thats-perfect-for-snack-time/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-23T00:37:05+01:00",
+    "updatedAt": "2026-07-23T00:37:05+01:00",
+    "has_reel": true
+}
