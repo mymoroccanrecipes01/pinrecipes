@@ -39,10 +39,32 @@ Options -Indexes
 # ── Activation du module de réécriture ───────────────────────────────────────
 RewriteEngine On
 
-# Règles pour les fichiers RSS dans le dossier /rss/
-# Permet d'accéder aux fichiers XML directement
+# ── SEO : X-Robots-Tag noindex sur routes SPA shell (/base, ?page=) ─────────
 <IfModule mod_rewrite.c>
-    # Assurer que le dossier rss est accessible
+    # ?page= query string → SPA shell vide pour les bots
+    RewriteCond %{QUERY_STRING} (^|&)page=
+    RewriteRule ^ - [E=NOINDEX:1,L]
+
+    # /base et /base.html → SPA shell vide
+    RewriteCond %{REQUEST_URI} ^/base(\.html)?(/|$)
+    RewriteRule ^ - [E=NOINDEX:1,L]
+</IfModule>
+<IfModule mod_headers.c>
+    Header always set X-Robots-Tag "noindex, follow" env=NOINDEX
+</IfModule>
+
+# ── SEO : redirect trailing slash pour /posts/{slug} → /posts/{slug}/ ────────
+<IfModule mod_rewrite.c>
+    # Eviter les fichiers statiques existants
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    # /posts/slug (sans slash) → /posts/slug/ (avec slash — URL canonique)
+    RewriteCond %{REQUEST_URI} ^/posts/[^/]+$
+    RewriteRule ^(posts/.+)$ /$1/ [R=301,L]
+</IfModule>
+
+# ── RSS : fichiers XML dans /rss/ ────────────────────────────────────────────
+<IfModule mod_rewrite.c>
     RewriteCond %{REQUEST_FILENAME} -f
     RewriteRule ^rss/(.+\.xml)$ rss/$1 [L]
 </IfModule>

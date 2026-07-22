@@ -1,5 +1,10 @@
 User-agent: *
 Allow: /
+Disallow: /base
+Disallow: /base.html
+Disallow: /*?page=
+Disallow: /*?src=
+Disallow: /*?id=
 
 Sitemap: https://pinrecipes.lummyrecipes.com/sitemap.xml
 Sitemap: https://pinrecipes.lummyrecipes.com/posts/sitemap-posts.xml
