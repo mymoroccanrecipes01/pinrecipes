@@ -1,0 +1,366 @@
+{
+    "title": "The Best Moist Zucchini Cake Recipe with Cinnamon and Cream Cheese Frosting",
+    "promptIMG": "Food photography: zucchini cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred behind with warm natural daylight streaming through a window, faint reflections on a wooden countertop. SUBJECT: a generous, tall round zucchini cake on a rustic ceramic cake stand, the cake's golden brown crust and moist crumb visible at the edges, topped with a thick layer of creamy white cream cheese frosting generously swirled and sprinkled with a dusting of cinnamon and a few finely grated zucchini shreds. DETAILS: the frosting has a glossy sheen, the cake's surface shows natural crumb texture, a few crumbs scattered on the stand, warm inviting colors with amber and cream tones. STYLE: ultra-photorealistic professional food photography, bright airy daylight with deep golden warmth, rich saturated glowing colors — the hyper-vivid look of viral recipe pins, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no steam or smoke, no plastic textures or CGI look.",
+        "img2": "SCENE: soft light blur behind a warm wood surface with gentle daylight from a nearby window, airy and bright. SUBJECT: the reveal shot of zucchini cake — a thick slice cut cleanly out, showing its moist interior studded with flecks of green zucchini and cinnamon swirls, the slice leaning slightly to reveal the creamy, glossy cream cheese frosting layer between and on top. DETAILS: the crumb looks moist and tender with visible zucchini strands, the frosting is smooth and shiny, a light dusting of cinnamon on top, crumbs scattered naturally on the plate below. STYLE: ultra-photorealistic food photography, bright daylight with golden-amber warmth, rich saturated colors — hyper-vivid viral recipe-pin look, shallow depth of field; vertical 2:3. AVOID: no text, no hands, no people, no steam, no over-smoothing.",
+        "img3": "SCENE: warm dark wood tones softly blurred behind with a single warm side glow highlighting the scene, rich golden light. SUBJECT: several slices of zucchini cake arranged close together on a vintage ceramic plate with a dollop of cream cheese frosting melting slightly on the front slice, a small bowl of cinnamon sugar nearby as an accompaniment. DETAILS: intense wet glossy shine on the frosting, deep amber caramelization on the cake crust, cinnamon dusting drifting into the creases, crumbs scattered naturally on the plate. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich glowing appetizing tones — hyper-vivid viral recipe pins, shallow macro depth of field; vertical 2:3. AVOID: no text, no people, no hands, no steam, no plastic or CGI textures."
+    },
+    "description": "This zucchini cake is wonderfully moist and packed with warm cinnamon flavor, topped with a luscious cream cheese frosting that’s just the right balance of sweet and tangy. I love how the shredded zucchini keeps it tender without being heavy. It’s perfect for an afternoon treat or a cozy weekend dessert!",
+    "hashtags": "#zucchinicake #homemadebaking #comfortdessert",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does This Zucchini Cake Stay So Moist Every Time?",
+            "description": "Discover the secret ingredient that keeps this zucchini cake incredibly moist and tender. You'll never guess what makes it so soft! Save this for your next baking day 🍰 #zucchinicake #bakingsecrets #moistcake"
+        },
+        {
+            "title": "The One Trick That Makes Zucchini Cake Foolproof and Delicious",
+            "description": "Learn the simple step that guarantees a perfect zucchini cake every time. No more dry or crumbly slices! Tap to get the full recipe and wow your family tonight 🎂 #easybaking #zucchinicake #homemadedessert"
+        },
+        {
+            "title": "30-Minute Zucchini Cake for Busy Weeknights and Sweet Cravings",
+            "description": "Need a quick dessert that feels homemade and special? This zucchini cake comes together fast and tastes like you spent hours baking. Save it for your next busy evening! 🍴 #quickdessert #zucchinicake #weeknightbaking"
+        },
+        {
+            "title": "Zucchini Cake vs Carrot Cake: Which Moist Cake Wins Your Heart?",
+            "description": "Both cakes are packed with veggies and spices, but this zucchini cake offers a unique moistness and subtle flavor that might surprise you. Which one do you prefer? Tap to find out! 🥕🥒 #zucchinicake #carrotcake #comfortbaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 40,
+    "servings": 8,
+    "ingredients": [
+        "2 cups grated zucchini, squeezed dry",
+        "1 1/2 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "3/4 cup granulated sugar",
+        "1/2 cup brown sugar, packed",
+        "3 large eggs",
+        "1/2 cup vegetable oil",
+        "1 teaspoon vanilla extract",
+        "For the frosting: 8 ounces cream cheese, softened",
+        "1/4 cup unsalted butter, softened",
+        "1 1/2 cups powdered sugar",
+        "1 teaspoon vanilla extract"
+    ],
+    "yield": "One 9-inch round cake, 8 generous slices",
+    "introduction": "I first stumbled upon zucchini cake years ago when I had a surplus of zucchini from my garden and wanted to bake something sweet but not too heavy. This recipe quickly became a family favorite because it’s moist, flavorful, and just the right amount of spice without being overwhelming. What I love about this version is the balance between the tender zucchini strands and the warm cinnamon and nutmeg that make it feel like a cozy treat. The cream cheese frosting adds a tangy sweetness that pairs perfectly with the cake, making every bite irresistible. I’ve found that squeezing out the zucchini well before adding it to the batter is key to keeping the cake from being soggy. Plus, using both baking powder and baking soda helps it rise beautifully with a tender crumb. It’s a simple, no-fuss recipe that feels like a hug in cake form, perfect for afternoon tea or weekend dessert. I hope you enjoy baking and sharing it as much as my family does!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9-inch round cake pan with butter or nonstick spray. This ensures the cake releases easily after baking and helps form a nice crust. Prepare the zucchini by grating it finely, then place it in a clean kitchen towel or cheesecloth and squeeze out as much moisture as possible. This step is crucial because excess water can make the cake dense and soggy instead of tender and light.",
+            "timing": 10,
+            "doneness_cue": "Pan well greased with no residue; zucchini feels dry to the touch after squeezing."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the flour, baking powder, baking soda, salt, cinnamon, and nutmeg. Combining the dry ingredients thoroughly ensures even distribution of leavening agents and spices, which helps the cake rise evenly and have consistent flavor. If you skip this, you might end up with uneven texture or pockets of baking soda taste.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are well mixed with no clumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, beat the granulated sugar, brown sugar, eggs, vegetable oil, and vanilla extract until smooth and creamy. This mixture should be light and slightly thickened, which helps incorporate air and moisture into the batter, contributing to a tender crumb. Don’t rush this step; well-beaten eggs and sugar make a big difference in texture.",
+            "timing": 5,
+            "doneness_cue": "Mixture is pale, glossy, and smooth."
+        },
+        {
+            "step": 4,
+            "instruction": "Gradually add the dry ingredients to the wet mixture, folding gently with a spatula until just combined. Overmixing can develop gluten and make the cake tough, so fold carefully and stop as soon as the flour disappears. Then fold in the squeezed zucchini, distributing it evenly without overworking the batter.",
+            "timing": 5,
+            "doneness_cue": "Batter is smooth with no visible flour streaks; zucchini is evenly dispersed."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the batter into the prepared cake pan and smooth the top with a spatula. Tap the pan gently on the counter to release any large air bubbles. This helps the cake bake evenly without large holes or tunnels inside.",
+            "timing": 3,
+            "doneness_cue": "Batter evenly spread with a smooth surface."
+        },
+        {
+            "step": 6,
+            "instruction": "Bake in the preheated oven for 35 to 40 minutes, or until a toothpick inserted in the center comes out clean or with just a few moist crumbs. Oven temperatures vary, so start checking at 35 minutes to avoid overbaking, which dries out the cake.",
+            "timing": 35,
+            "doneness_cue": "Toothpick inserted in center comes out clean or with moist crumbs."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the cake from the oven and let it cool in the pan for 15 minutes, then transfer to a wire rack to cool completely. Cooling in the pan too long can cause sogginess from steam, while cooling on a rack prevents condensation and keeps the crust crisp.",
+            "timing": 20,
+            "doneness_cue": "Cake is cool to the touch on the wire rack."
+        },
+        {
+            "step": 8,
+            "instruction": "While the cake cools, prepare the cream cheese frosting by beating together the softened cream cheese and butter until smooth and creamy. Gradually add powdered sugar and vanilla extract, beating until fluffy and spreadable. The frosting should be thick but still easy to spread, balancing sweetness with tanginess.",
+            "timing": 10,
+            "doneness_cue": "Frosting is smooth, creamy, and holds soft peaks."
+        },
+        {
+            "step": 9,
+            "instruction": "Once the cake is completely cool, spread the cream cheese frosting evenly over the top and sides. For a finishing touch, sprinkle a little cinnamon or finely grated zucchini on top. Chill the cake for 30 minutes before serving to allow the frosting to set and flavors to meld.",
+            "timing": 10,
+            "doneness_cue": "Frosting is set but still soft and creamy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Zucchini Cake Recipe Succeeds",
+        "content": "<p>This zucchini cake works beautifully because of a few key techniques and ingredient interactions. First, squeezing out the grated zucchini removes excess water that would otherwise weigh down the batter and make the cake dense or soggy. The zucchini adds moisture naturally, but controlling it is essential for the right crumb texture.</p><p>Next, the combination of baking powder and baking soda provides balanced leavening. Baking powder reacts in the oven's heat, while baking soda reacts immediately with the acidic brown sugar and cream cheese frosting, giving the cake lift and tenderness. This dual leavening ensures a light, airy crumb.</p><p>The use of both granulated and brown sugar adds complexity and moisture. Brown sugar contains molasses, which helps retain moisture and adds a subtle caramel flavor that complements the cinnamon and nutmeg spices. The warm spices enhance the natural sweetness and earthy flavor of the zucchini.</p><p>Finally, the cream cheese frosting provides a tangy contrast to the sweet, spiced cake. Its creamy texture balances the moist crumb and adds richness without overwhelming the delicate zucchini flavor. Chilling the cake before serving lets the frosting set and the flavors meld, resulting in a perfectly harmonious dessert.</p>",
+        "ingredient_notes": {
+            "zucchini": "When choosing zucchini for baking, look for firm, medium-sized squash with smooth skin and minimal blemishes. Fresh zucchini has a mild flavor and high moisture content, which keeps baked goods tender. Grate it finely and squeeze out excess water to avoid soggy cake. You can substitute yellow squash if needed, but zucchini is preferred for its subtle flavor and texture.",
+            "all-purpose flour": "All-purpose flour provides the right balance of protein to create structure without toughness. Using cake flour could make the cake too delicate, while bread flour would be too dense. Sifting the flour with the leavening agents ensures even distribution and prevents lumps, contributing to a uniform crumb.",
+            "baking powder and baking soda": "Baking powder contains both acid and base and reacts with heat, while baking soda requires an acid to activate immediately. Using both allows for a controlled rise during baking and a tender crumb. Too much baking soda can leave a bitter taste, so precise measurement is important.",
+            "spices (cinnamon and nutmeg)": "Freshly ground cinnamon and nutmeg add warmth and depth to the cake’s flavor profile. They complement the zucchini’s mild earthiness and the sweetness of the sugars. Using pre-ground spices is fine, but fresh spices will give a brighter, more aromatic flavor.",
+            "cream cheese": "Cream cheese adds moisture, tang, and richness to the frosting. Use full-fat cream cheese for the best texture and flavor. It should be softened to room temperature to blend smoothly with butter and sugar. Low-fat versions won’t whip as well and can result in a runny frosting."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze the zucchini well to remove excess moisture before adding it to the batter.",
+            "reason": "Excess water in zucchini can make your cake soggy and dense. Squeezing it out ensures the cake stays moist but not wet, preserving a tender crumb and proper structure."
+        },
+        {
+            "tip": "Use both baking powder and baking soda for balanced leavening and a light crumb.",
+            "reason": "Baking powder provides a slow rise during baking, while baking soda reacts quickly with acidic ingredients. This combination prevents the cake from being too dense or flat."
+        },
+        {
+            "tip": "Beat the eggs and sugars until pale and creamy before folding in dry ingredients.",
+            "reason": "This step incorporates air into the batter, which helps create a lighter texture. Skipping it can result in a denser cake."
+        },
+        {
+            "tip": "Cool the cake completely before frosting to prevent the frosting from melting.",
+            "reason": "Applying frosting to warm cake can cause it to slide off or become runny. Cooling ensures the frosting sets nicely and holds its shape."
+        },
+        {
+            "tip": "Chill the frosted cake for at least 30 minutes before serving.",
+            "reason": "Chilling allows the frosting to firm up and the flavors to meld, enhancing taste and texture."
+        },
+        {
+            "tip": "Use fresh spices for the best aroma and flavor impact.",
+            "reason": "Spices lose potency over time. Freshly ground cinnamon and nutmeg will brighten the cake’s flavor and make it more inviting."
+        },
+        {
+            "tip": "Don’t overmix the batter once the flour is added; fold gently until just combined.",
+            "reason": "Overmixing develops gluten, which can make the cake tough and chewy instead of tender and soft."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing out enough moisture from the zucchini.",
+            "why_it_happens": "Many cooks underestimate how much water zucchini holds and skip or rush this step, thinking the moisture will just bake out.",
+            "fix": "Take the time to grate and then firmly squeeze the zucchini in a clean towel or cheesecloth. Removing this excess water prevents a soggy cake and ensures proper texture."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour.",
+            "why_it_happens": "It’s tempting to mix thoroughly to avoid lumps, but this develops gluten, making the cake tough.",
+            "fix": "Fold the flour in gently with a spatula just until no dry streaks remain. Stop mixing as soon as combined for a tender crumb."
+        },
+        {
+            "mistake": "Applying frosting to a warm cake.",
+            "why_it_happens": "Impatience or lack of cooling space leads to frosting melting and sliding off.",
+            "fix": "Allow the cake to cool completely on a wire rack before frosting to ensure the frosting adheres properly and sets."
+        },
+        {
+            "mistake": "Using expired or old baking powder/soda.",
+            "why_it_happens": "Baking powder and soda lose potency over time, leading to flat, dense cake.",
+            "fix": "Test your leavening agents by adding a small amount to warm water; it should bubble vigorously. Replace if inactive."
+        },
+        {
+            "mistake": "Skipping the cinnamon and nutmeg spices.",
+            "why_it_happens": "Some may omit spices to simplify or due to lack of ingredients, but this dulls the cake’s flavor.",
+            "fix": "Use at least cinnamon for warmth and depth; nutmeg adds subtle complexity. These spices elevate the cake from plain to special."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Zucchini Cake",
+            "description": "Swap all-purpose flour for a gluten-free blend to make this cake safe for gluten-sensitive eaters. Expect a slightly different crumb that's still moist and tender. Use xanthan gum if your blend doesn’t contain it to help with structure.",
+            "technical_note": "Gluten-free flours absorb liquids differently, so you may need to adjust moisture slightly. Avoid overmixing to maintain tenderness."
+        },
+        {
+            "name": "Vegan Zucchini Cake",
+            "description": "Replace eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg) and use plant-based milk and vegan butter. The cake will be slightly denser but still moist and flavorful with the spices and zucchini.",
+            "technical_note": "Flax eggs provide binding but less lift, so add an extra 1/4 tsp baking powder to help with rising."
+        },
+        {
+            "name": "Chocolate Chip Zucchini Cake",
+            "description": "Fold 1 cup of semi-sweet chocolate chips into the batter for a sweet chocolate surprise in every bite. This adds richness and a fun twist kids love.",
+            "technical_note": "Toss chips in a little flour before adding to batter to prevent sinking to the bottom."
+        },
+        {
+            "name": "Lemon Zucchini Cake",
+            "description": "Add the zest of one lemon and 2 tbsp fresh lemon juice to the batter and frosting for a bright, citrusy flavor that complements the zucchini and spices beautifully.",
+            "technical_note": "Reduce vanilla extract slightly to let the lemon flavor shine through."
+        },
+        {
+            "name": "Spiced Walnut Zucchini Cake",
+            "description": "Mix in 1 cup chopped toasted walnuts for crunch and nuttiness. The texture contrast pairs wonderfully with the moist cake and creamy frosting.",
+            "technical_note": "Toast nuts lightly to enhance flavor without overpowering the delicate cake."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "15g",
+        "fiber_grams": "2g",
+        "sodium_mg": "250mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the zucchini cake covered loosely with a cake dome or plastic wrap at room temperature for up to 2 days. Keep it away from direct sunlight or heat to prevent the frosting from melting or the cake drying out.",
+        "refrigerator": "Keep the cake in an airtight container or wrapped tightly in plastic wrap in the refrigerator for up to 5 days. The frosting will firm up and the cake will stay moist, though chilling may slightly intensify the flavors. Serve chilled or bring to room temperature before eating.",
+        "freezer": "Wrap the cake tightly in plastic wrap and then in aluminum foil to freeze for up to 3 months. Thaw overnight in the refrigerator wrapped to retain moisture. Avoid freezing the frosted cake if possible; freeze unfrosted layers and frost after thawing.",
+        "reheating": "For best texture, serve zucchini cake at room temperature. If desired, warm slices gently in the microwave for 10-15 seconds, but avoid overheating to prevent drying out. Do not microwave with frosting on to avoid melting.",
+        "make_ahead_strategy": "Bake the cake layers up to 2 days ahead and store wrapped at room temperature. Prepare the cream cheese frosting a day ahead and refrigerate. Assemble and frost the cake on the day you plan to serve for freshest flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this cake?",
+            "answer": "Yes, but be sure to thaw and squeeze out all excess moisture thoroughly before using. Frozen zucchini has more water content, so proper draining is essential to prevent a soggy cake."
+        },
+        {
+            "question": "What if I don’t have cream cheese for the frosting?",
+            "answer": "You can substitute with a simple buttercream frosting or whipped cream topping. However, cream cheese adds a nice tang and moisture that balances the sweetness, so the frosting flavor will be different."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Absolutely! Use a gluten-free all-purpose flour blend with xanthan gum if needed. The texture might be slightly different but still delicious and moist."
+        },
+        {
+            "question": "How do I store leftover zucchini cake?",
+            "answer": "Store leftovers in an airtight container in the refrigerator for up to 5 days. You can also freeze slices wrapped tightly for up to 3 months."
+        },
+        {
+            "question": "Why is my zucchini cake dry?",
+            "answer": "Dryness often results from overbaking or not squeezing out zucchini moisture properly. Make sure to check the cake early and remove it from the oven as soon as a toothpick comes out clean."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips?",
+            "answer": "Yes! Chopped walnuts or chocolate chips make excellent additions. Toss them in a little flour before folding into the batter to prevent sinking."
+        },
+        {
+            "question": "Is it necessary to peel the zucchini?",
+            "answer": "No, the skin is thin and adds nice color and texture. Just wash thoroughly before grating."
+        },
+        {
+            "question": "Can I make this cake vegan?",
+            "answer": "Yes, replace eggs with flax eggs and use plant-based milk and vegan butter. The cake will be slightly denser but still tasty."
+        }
+    ],
+    "conclusion": "I hope you give this zucchini cake a try and enjoy its moist, cozy flavors as much as my family does. Don’t forget to share your baking results!",
+    "seo": {
+        "primary_keyword": "zucchini cake recipe",
+        "secondary_keywords": [
+            "moist zucchini cake",
+            "how to make zucchini cake",
+            "best zucchini cake recipe",
+            "easy zucchini cake"
+        ],
+        "internal_links": [
+            {
+                "text": "classic carrot cake recipe",
+                "anchor": "classic-carrot-cake"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-23 15:46:40",
+        "title_seed": "Zucchini Cake"
+    },
+    "author_id": "author_001",
+    "id": "post_1784821600_580",
+    "slug": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting",
+    "uniqueSlug": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_1.webp",
+            "filePath": "posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_1.webp",
+            "relativePath": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_2.webp",
+            "filePath": "posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_2.webp",
+            "relativePath": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_3.webp",
+            "filePath": "posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_3.webp",
+            "relativePath": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_8.webp",
+            "filePath": "posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_8.webp",
+            "relativePath": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Zucchini Cake Stay So Moist Every Time?"
+        },
+        {
+            "fileName": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_9.webp",
+            "filePath": "posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_9.webp",
+            "relativePath": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Zucchini Cake Stay So Moist Every Time?"
+        },
+        {
+            "fileName": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_4.webp",
+            "filePath": "posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_4.webp",
+            "relativePath": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Zucchini Cake Stay So Moist Every Time?"
+        },
+        {
+            "fileName": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_6.webp",
+            "filePath": "posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_6.webp",
+            "relativePath": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "30-Minute Zucchini Cake for Busy Weeknights and Sweet Cravings"
+        },
+        {
+            "fileName": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_5.webp",
+            "filePath": "posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_5.webp",
+            "relativePath": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Zucchini Cake Foolproof and Delicious"
+        },
+        {
+            "fileName": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_7.webp",
+            "filePath": "posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_7.webp",
+            "relativePath": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Zucchini Cake vs Carrot Cake: Which Moist Cake Wins Your Heart?"
+        }
+    ],
+    "image": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_1.webp",
+    "image_path": "posts/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images/the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting_pinrecipes_image_1.webp",
+    "image_dir": "the-best-moist-zucchini-cake-recipe-with-cinnamon-and-cream-cheese-frosting/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-23T16:50:50+01:00",
+    "updatedAt": "2026-07-23T16:50:50+01:00",
+    "has_reel": true
+}
