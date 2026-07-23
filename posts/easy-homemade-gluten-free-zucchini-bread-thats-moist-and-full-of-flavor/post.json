@@ -1,0 +1,364 @@
+{
+    "title": "Easy Homemade Gluten Free Zucchini Bread That’s Moist and Full of Flavor",
+    "promptIMG": "Food photography: Gluten Free Zucchini Bread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with a bright window casting natural daylight, faint reflections on the counter, no recognizable objects in focus. SUBJECT: a generous loaf of gluten free zucchini bread placed on a rustic wooden cutting board, the loaf filling most of the frame with the front crust sharply focused at a slight angle showing its moist, slightly cracked golden-brown crust textured with flecks of green zucchini and cinnamon. DETAILS: the surface glistens with a light sheen from a subtle glaze, a dusting of powdered sugar settles naturally into the crevices, crumbs scattered around the board, showcasing the bread's tender crumb. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors highlighting the bread’s texture, shallow depth of field, vertical 2:3. AVOID: no text, no hands, no people, no logos, no steam or smoke, no dull colors or plastic textures.",
+        "img2": "SCENE: soft natural light coming through a bright window with a blurred marble-toned countertop background, airy and bright. SUBJECT: the reveal shot of the gluten free zucchini bread sliced in half with both halves facing the camera, the moist interior crumb exposed showing flecks of shredded zucchini and specks of cinnamon, a slice slightly torn open to reveal the tender, juicy texture. DETAILS: the crumb glistens with moisture, golden edges caramelized, a light dusting of powdered sugar on top, crumbs scattered naturally below, emphasizing the bread’s soft and moist interior. STYLE: ultra-photorealistic professional food photography, bright daylight with warm amber highlights, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no people, no logos, no CGI or plastic textures.",
+        "img3": "SCENE: warm dark wood surface softly blurred behind with a gentle warm side glow, rich and inviting. SUBJECT: several thick slices of gluten free zucchini bread arranged closely on a rustic ceramic plate, the front slice sharply focused, topped with a light spread of creamy butter melting slightly, the rest receding into warm bokeh. DETAILS: intense glossy shine on the butter, deep golden crust caramelization, a few crumbs scattered on the plate, powdered sugar dusting drifting into the creases, natural textures captured as if freshly served. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, highly saturated appetizing tones, shallow depth of field, vertical 2:3. AVOID: no text, no hands, no people, no logos, no steam or flat colors."
+    },
+    "description": "This gluten free zucchini bread is the perfect easy homemade treat—moist, flavorful, and just sweet enough. I love how the zucchini keeps it tender without any fuss. Great for breakfast or an afternoon snack!",
+    "hashtags": "#glutenfreezucchinibread #glutenfreebaking #easyhomemade",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does This Gluten Free Zucchini Bread Stay So Moist Every Time?",
+            "description": "Discover the secret to a perfectly moist gluten free zucchini bread that never dries out. This recipe is simple and uses fresh zucchini for natural moisture. Save this for your next baking day! #glutenfreebaking #zucchinibread #moistbread"
+        },
+        {
+            "title": "The One Trick That Makes Gluten Free Zucchini Bread Foolproof",
+            "description": "Want a foolproof gluten free zucchini bread? The trick is in how you prepare and drain the zucchini to keep the bread tender and delicious. Try it out and tap to get the full recipe! #glutenfree #easybaking #zucchinibread"
+        },
+        {
+            "title": "30-Minute Gluten Free Zucchini Bread for Busy Weeknights",
+            "description": "Short on time? This gluten free zucchini bread comes together quickly with simple ingredients you have on hand. Perfect for a quick snack or breakfast on the go. Save this recipe for busy days! #glutenfree #quickbaking #zucchinibread"
+        },
+        {
+            "title": "Still Making Dry Gluten Free Bread? This Zucchini Bread Fixes That",
+            "description": "If your gluten free breads often turn dry, this zucchini bread recipe will change that. The zucchini adds moisture and flavor that keeps every slice tender. Don’t miss out—tap for the recipe! #glutenfreebaking #moistbread #zucchinibread"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 45,
+    "servings": 8,
+    "ingredients": [
+        "2 cups finely shredded zucchini, squeezed dry",
+        "1 1/2 cups gluten free all-purpose flour blend",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "3/4 cup granulated sugar",
+        "1/4 cup brown sugar, packed",
+        "2 large eggs",
+        "1/3 cup vegetable oil",
+        "1 teaspoon vanilla extract"
+    ],
+    "yield": "One 9x5-inch loaf, 8 servings",
+    "introduction": "I first made this gluten free zucchini bread when a friend asked for a treat she could enjoy without worrying about gluten. I was a bit skeptical at first because gluten free baking can be tricky and often turns out dry or crumbly. But after a few tweaks, I found a version that’s moist, flavorful, and so easy to make. What sets this recipe apart is the way I prepare the zucchini—squeezing out excess moisture but keeping enough to keep the bread tender. I also use a balanced blend of gluten free flour with baking soda and powder to help it rise just right. The warm spices like cinnamon and nutmeg add that cozy comfort food vibe that makes this bread perfect for breakfast or a snack with tea. I love that it’s not overly sweet, so it feels wholesome but still indulgent. Every time I bake this, my family asks for seconds, and it’s become a staple in our kitchen. If you’ve struggled with gluten free quick breads before, this one might just surprise you.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by shredding the zucchini finely, then place it in a clean kitchen towel and squeeze out as much moisture as possible. This step is crucial because too much water will make the bread soggy and prevent it from baking properly. You want the zucchini moist but not dripping. The texture of your bread depends heavily on this balance, so don’t skip it or rush it. Taking your time here ensures a tender crumb without excess wetness.",
+            "timing": 10,
+            "doneness_cue": "Zucchini feels damp but no liquid pools when squeezed."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the gluten free flour, baking soda, baking powder, salt, cinnamon, and nutmeg. Mixing the dry ingredients thoroughly helps distribute the leavening agents evenly, which ensures the bread rises uniformly. If you mix too little, you might get uneven pockets or a dense loaf. Set this aside while you prepare the wet ingredients.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are well combined with no clumps of spices or baking powder."
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, beat the eggs with the granulated and brown sugars until combined, then add the oil and vanilla extract. This mixture should be smooth and slightly thick. The sugars help create a tender crumb and a lightly caramelized crust, while the oil keeps the bread moist. Be careful not to overbeat here as you don’t want to incorporate too much air.",
+            "timing": 5,
+            "doneness_cue": "Wet mixture is smooth and glossy with no sugar granules visible."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the wet ingredients to the dry ingredients and fold gently until just combined. Overmixing can develop the starches too much and make the bread tough, so fold carefully to maintain a tender texture. Then fold in the shredded zucchini evenly, distributing it without overworking the batter.",
+            "timing": 3,
+            "doneness_cue": "Batter is thick but smooth, zucchini evenly dispersed."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the batter into a greased or parchment-lined 9x5-inch loaf pan, smoothing the top gently with a spatula. This even surface helps the loaf bake uniformly and develop a nice crust. Avoid tapping the pan too hard or you might lose air bubbles that help with the rise.",
+            "timing": 2,
+            "doneness_cue": "Batter evenly spread in pan with a smooth top."
+        },
+        {
+            "step": 6,
+            "instruction": "Bake in a preheated 350°F (175°C) oven for 40-45 minutes. Start checking at 40 minutes by inserting a toothpick into the center; it should come out clean or with a few moist crumbs. Baking too long can dry out the bread, so watch closely towards the end. The crust should be golden brown and slightly cracked.",
+            "timing": 40,
+            "doneness_cue": "Toothpick inserted in center comes out clean or with moist crumbs."
+        },
+        {
+            "step": 7,
+            "instruction": "Allow the bread to cool in the pan for 10 minutes, then transfer to a wire rack to cool completely. Cooling in the pan too long traps steam and can make the crust soggy. Cooling fully on the rack lets the bread set and makes slicing easier without crumbling.",
+            "timing": 15,
+            "doneness_cue": "Bread feels firm to the touch and slices cleanly once cooled."
+        },
+        {
+            "step": 8,
+            "instruction": "Once cooled, slice the bread with a serrated knife to avoid squishing the crumb. For best flavor, serve slightly warmed or at room temperature. This bread pairs wonderfully with butter or cream cheese, enhancing the moist texture and subtle spice notes.",
+            "timing": 5,
+            "doneness_cue": "Slices hold shape well and show moist crumb with zucchini flecks."
+        },
+        {
+            "step": 9,
+            "instruction": "Store leftover bread wrapped tightly in plastic wrap or in an airtight container at room temperature for up to 3 days. For longer storage, refrigerate or freeze slices individually wrapped. Reheat gently to restore moisture before serving.",
+            "timing": 0,
+            "doneness_cue": "Bread remains moist and fresh after storage and reheating."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind Moist Gluten Free Zucchini Bread",
+        "content": "<p>Gluten free baking can be challenging because gluten provides structure and elasticity in traditional breads. Without it, baked goods often turn out crumbly or dry. This recipe succeeds by carefully balancing moisture and structure. The shredded zucchini provides natural moisture and fiber, which helps keep the crumb tender and moist without making it soggy. The key is squeezing out excess water to avoid a wet batter that won't bake properly.</p><p>The combination of baking soda and baking powder works together to give this quick bread a good rise. Baking soda reacts with the acidic components in the zucchini and brown sugar, creating carbon dioxide bubbles that lighten the crumb. Baking powder adds additional leavening to ensure a fluffy texture. Using both helps compensate for the lack of gluten's elasticity.</p><p>The gluten free flour blend should contain a mixture of rice flour, tapioca starch, and xanthan gum or guar gum. These ingredients mimic gluten’s binding properties and help trap air bubbles, improving texture and preventing crumbling. The oil adds richness and moisture, while the sugars not only sweeten but contribute to caramelization and crust color.</p><p>Spices like cinnamon and nutmeg add warmth and depth of flavor that complement the subtle zucchini taste, making the bread feel cozy and comforting. The gentle folding technique prevents overworking the batter, which can toughen gluten free baked goods. Overall, this recipe balances moisture, structure, and flavor to create a moist, tender, and delicious gluten free zucchini bread.</p>",
+        "ingredient_notes": {
+            "gluten free all-purpose flour blend": "Look for a blend that contains rice flour, tapioca starch, and a binding agent like xanthan gum. This combination provides the structure and elasticity needed to mimic gluten, ensuring the bread holds together without crumbling. Avoid single-flour substitutes, which often result in dense or crumbly textures.",
+            "zucchini": "Choose fresh, firm zucchinis and shred them finely. The zucchini adds moisture and fiber, which keeps the bread tender. Be sure to squeeze out excess water thoroughly to prevent a soggy batter, but don’t dry it completely, or the bread will be dry.",
+            "baking soda and baking powder": "Using both leavening agents creates a balanced rise. Baking soda reacts with the acidity in brown sugar and zucchini, producing carbon dioxide for lift, while baking powder provides additional leavening to ensure a light crumb. Omitting one can lead to dense bread.",
+            "vegetable oil": "Oil contributes to the bread’s moist texture and richness. Unlike butter, oil remains liquid at room temperature, helping keep the crumb tender longer. You can substitute with melted coconut oil for a subtle flavor twist, but avoid solid fats that can harden the crumb.",
+            "spices (cinnamon and nutmeg)": "These warm spices complement the mild zucchini flavor and add depth to the bread. They also enhance the perception of sweetness without adding sugar. Freshly ground spices provide the best aroma and flavor, but pre-ground is fine if fresh is unavailable."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze out excess moisture from shredded zucchini before adding it to the batter.",
+            "reason": "Removing extra water prevents the bread from becoming soggy or dense. It ensures the batter has the right consistency for proper baking and a tender crumb. If too wet, the bread won’t set correctly and may collapse."
+        },
+        {
+            "tip": "Use a gluten free flour blend with xanthan gum included or add it separately.",
+            "reason": "Xanthan gum acts as a binder, replacing gluten’s elasticity. Without it, the bread can crumble or fall apart. It helps trap air bubbles, improving rise and texture for a more traditional quick bread feel."
+        },
+        {
+            "tip": "Fold the batter gently to avoid overmixing.",
+            "reason": "Overmixing can develop starches too much, leading to a tough or gummy texture. Gentle folding keeps the batter light and tender, preserving the delicate crumb structure gluten free breads need."
+        },
+        {
+            "tip": "Bake at the correct temperature and avoid opening the oven door early.",
+            "reason": "Consistent heat allows the bread to rise and set properly. Opening the door too soon can cause the bread to collapse or bake unevenly. A toothpick test near the end ensures doneness without overbaking."
+        },
+        {
+            "tip": "Cool the bread completely on a wire rack before slicing.",
+            "reason": "Cooling allows steam to escape, preventing a soggy crust. It also helps the crumb set so slices hold together cleanly without crumbling or becoming gummy."
+        },
+        {
+            "tip": "Store leftover bread wrapped tightly or in an airtight container.",
+            "reason": "Proper storage preserves moisture and freshness. Gluten free breads tend to dry out faster, so airtight wrapping slows this process and keeps the bread enjoyable for longer."
+        },
+        {
+            "tip": "Try adding chopped nuts or chocolate chips for extra texture.",
+            "reason": "Mix-ins add variety and richness to the bread. Nuts provide crunch and flavor contrast, while chocolate chips add sweetness and gooey pockets. Adjust baking time slightly if adding large quantities."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not removing enough moisture from shredded zucchini",
+            "why_it_happens": "Many assume shredded zucchini can be added directly without draining, but it contains a lot of water that can make batter too wet.",
+            "fix": "Use a clean towel or cheesecloth to squeeze out as much water as possible. The zucchini should feel damp but not dripping. This step is crucial for a moist but not soggy bread."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "In an effort to combine ingredients thoroughly, cooks often stir too much, developing starches and toughening the crumb.",
+            "fix": "Mix just until the dry ingredients are incorporated and zucchini is evenly distributed. Folding gently preserves a tender texture essential for gluten free quick breads."
+        },
+        {
+            "mistake": "Using a single gluten free flour without binder",
+            "why_it_happens": "Some try to use only rice flour or almond flour, which lack the binding properties of gluten.",
+            "fix": "Use a gluten free blend with xanthan gum or add it separately. This helps trap air and provides structure so the bread doesn’t crumble."
+        },
+        {
+            "mistake": "Baking at too high or low temperature",
+            "why_it_happens": "Incorrect oven temperature can cause uneven baking or drying out.",
+            "fix": "Preheat oven to 350°F and use an oven thermometer if possible. Bake until a toothpick inserted comes out clean or with moist crumbs, usually 40-45 minutes."
+        },
+        {
+            "mistake": "Slicing bread before it’s cooled",
+            "why_it_happens": "Cutting warm bread causes it to crumble or become gummy.",
+            "fix": "Cool the loaf in the pan for 10 minutes, then finish cooling on a wire rack until completely cool before slicing."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Chip Gluten Free Zucchini Bread",
+            "description": "Add 1 cup of semi-sweet chocolate chips folded into the batter before baking. This variation adds pockets of melty chocolate that contrast nicely with the moist zucchini bread. It’s a kid-friendly twist that makes a great snack or dessert.",
+            "technical_note": "Chocolate chips add moisture and sweetness, so watch baking time closely to avoid overbaking. The bread may brown faster on top."
+        },
+        {
+            "name": "Nutty Gluten Free Zucchini Bread",
+            "description": "Fold in 1/2 cup chopped walnuts or pecans for extra crunch and nutty flavor. This adds texture contrast and richness, making the bread more substantial and satisfying.",
+            "technical_note": "Chopped nuts can weigh down the batter slightly, so ensure zucchini is well-drained and avoid overmixing to maintain rise."
+        },
+        {
+            "name": "Vegan Gluten Free Zucchini Bread",
+            "description": "Replace eggs with flax eggs (2 tablespoons ground flaxseed mixed with 6 tablespoons water) and use coconut oil instead of vegetable oil. This makes the bread vegan while keeping it moist and tender.",
+            "technical_note": "Flax eggs provide binding but may produce a slightly denser crumb. Baking time may increase by a few minutes."
+        },
+        {
+            "name": "Spiced Gluten Free Zucchini Bread",
+            "description": "Add 1/2 teaspoon ground ginger and 1/4 teaspoon cloves along with the cinnamon and nutmeg for a spicier, warming flavor profile. This is perfect for fall or winter baking.",
+            "technical_note": "Spices intensify flavor, so adjust quantities to taste. The bread will have a deeper aroma and a slightly darker crumb."
+        },
+        {
+            "name": "Lemon Zucchini Bread",
+            "description": "Add the zest of one lemon and replace vanilla extract with lemon extract for a bright, fresh twist. This variation gives a lovely citrus note that pairs beautifully with the zucchini’s mild flavor.",
+            "technical_note": "Lemon zest adds moisture and flavor; be sure to finely grate to avoid bitter pith. Baking time remains the same."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "9g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the zucchini bread wrapped tightly in plastic wrap or in an airtight container at room temperature for up to 3 days. Keep it away from direct sunlight and heat to maintain moisture and freshness.",
+        "refrigerator": "In the fridge, store the bread in an airtight container for up to one week. The cooler temperature slows mold growth, but the bread may dry out slightly, so reheat gently before serving to restore softness.",
+        "freezer": "Freeze the bread wrapped tightly in plastic wrap and then in foil or a freezer bag for up to 3 months. Thaw at room temperature overnight. For best texture, reheat slices gently in a toaster oven or microwave.",
+        "reheating": "Reheat slices in a toaster oven at 300°F for 5-7 minutes or microwave on medium power for 20-30 seconds. Adding a small pat of butter or a splash of milk before reheating helps restore moisture.",
+        "make_ahead_strategy": "You can shred and squeeze zucchini a day ahead and store it in the fridge. Mix dry ingredients the day before and combine with wet ingredients just before baking. This saves prep time on baking day."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute the gluten free flour blend with almond flour?",
+            "answer": "Almond flour has a very different texture and moisture content compared to gluten free all-purpose blends. Using only almond flour will yield a denser, moister bread and may not rise properly. If you want to try almond flour, consider replacing only part of the blend and adding a binder like xanthan gum."
+        },
+        {
+            "question": "What if I don’t have baking powder? Can I use baking soda alone?",
+            "answer": "Baking soda needs an acid to activate, which the zucchini and brown sugar provide, but baking powder adds extra lift. Using only baking soda may result in uneven rising and a denser loaf. It’s best to use both for the best texture."
+        },
+        {
+            "question": "How do I know when the zucchini bread is done baking?",
+            "answer": "Insert a toothpick into the center of the loaf near the end of baking. It should come out clean or with a few moist crumbs attached. The crust should be golden brown and slightly cracked. Avoid overbaking to keep the bread moist."
+        },
+        {
+            "question": "Can I freeze the zucchini bread after baking?",
+            "answer": "Yes, the bread freezes well. Wrap it tightly in plastic wrap and then foil or a freezer bag to prevent freezer burn. Thaw at room temperature before reheating gently to restore moisture and texture."
+        },
+        {
+            "question": "Why does my gluten free zucchini bread sometimes turn out dry?",
+            "answer": "Common causes include not squeezing out enough zucchini moisture (leading to uneven baking), overbaking, or overmixing the batter. Follow the recipe’s moisture and mixing tips closely, and check for doneness early to avoid dryness."
+        },
+        {
+            "question": "Can I use frozen zucchini for this recipe?",
+            "answer": "Frozen zucchini can be used if fully thawed and squeezed dry, but it tends to release more water, making moisture control more difficult. Fresh zucchini is preferred for consistent results."
+        },
+        {
+            "question": "Is it necessary to add spices like cinnamon and nutmeg?",
+            "answer": "Spices add warmth and depth of flavor but are not strictly necessary. You can omit or adjust them to your taste. The bread will still be moist and tender without them, but less aromatic."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes, replace eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use a plant-based oil like coconut oil. The texture may be slightly denser but still delicious."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this gluten free zucchini bread as much as my family does. It’s a simple, comforting recipe that’s perfect for any time you want a moist, flavorful quick bread. Please share your results!",
+    "seo": {
+        "primary_keyword": "gluten free zucchini bread",
+        "secondary_keywords": [
+            "easy gluten free zucchini bread",
+            "moist gluten free zucchini bread",
+            "how to make gluten free zucchini bread",
+            "best gluten free zucchini bread recipe",
+            "homemade gluten free zucchini bread"
+        ],
+        "internal_links": [
+            {
+                "text": "gluten free baking tips",
+                "anchor": "gluten-free-baking-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "5200"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-23 15:26:36",
+        "title_seed": "Gluten Free Zucchini Bread"
+    },
+    "author_id": "author_001",
+    "id": "post_1784820396_451",
+    "slug": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor",
+    "uniqueSlug": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_9.webp",
+            "relativePath": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Gluten Free Zucchini Bread Stay So Moist Every Time?"
+        },
+        {
+            "fileName": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_8.webp",
+            "relativePath": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Gluten Free Zucchini Bread Stay So Moist Every Time?"
+        },
+        {
+            "fileName": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_6.webp",
+            "relativePath": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "30-Minute Gluten Free Zucchini Bread for Busy Weeknights"
+        },
+        {
+            "fileName": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_7.webp",
+            "relativePath": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Gluten Free Bread? This Zucchini Bread Fixes That"
+        },
+        {
+            "fileName": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_5.webp",
+            "relativePath": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Gluten Free Zucchini Bread Foolproof"
+        },
+        {
+            "fileName": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_4.webp",
+            "relativePath": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Gluten Free Zucchini Bread Stay So Moist Every Time?"
+        }
+    ],
+    "image": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images/easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor_pinrecipes_image_1.webp",
+    "image_dir": "easy-homemade-gluten-free-zucchini-bread-thats-moist-and-full-of-flavor/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-23T16:31:07+01:00",
+    "updatedAt": "2026-07-23T16:31:07+01:00",
+    "has_reel": true
+}
