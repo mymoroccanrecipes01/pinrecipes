@@ -1,0 +1,358 @@
+{
+    "title": "Creamy Watermelon Drink Recipe with Fresh Mint and Coconut Milk for Summer Refreshment",
+    "promptIMG": {
+        "img1": "SCENE: a softly blurred home kitchen with a bright window letting in natural daylight, faint reflections on a clean countertop, no recognizable objects in focus. SUBJECT: a tall clear glass filled to the brim with creamy watermelon drink, the pale pink liquid topped with a frothy layer and fresh mint leaves, filling 95% of the frame corner to corner with the glass edges cropped out; the front of the glass sharply focused at a 30-degree angle showing the smooth creamy texture and tiny watermelon pulp specks, the rest fading into soft bokeh. DETAILS: the drink's surface glistens with a light sheen, a few droplets of condensation on the glass, fresh mint sprigs resting on top, subtle natural irregularities in the creamy mix visible. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden-amber tones, rich saturated colors highlighting the pink and green contrast, shallow macro depth of field; vertical 2:3. AVOID: no text, no logos, no watermarks, no hands or people, no steam or smoke, no dull or flat colors, no CGI or plastic textures.",
+        "img2": "SCENE: soft natural light with a blurred warm wood surface and bright window daylight in the background, airy and inviting. SUBJECT: the reveal shot of creamy watermelon drink showing the interior texture in a clear glass cut in half lengthwise (conceptual), with a spoon scooping the thick creamy mixture mid-pour, the pink liquid slow-dripping with a silky, luscious consistency; the opened glass fills 90-95% of the frame with razor-sharp focus on the creamy texture and fresh mint garnish. DETAILS: the creamy watermelon base glistens wet and glossy with visible tiny watermelon pulp and coconut milk swirls, fresh mint leaves crown the top, a few droplets and natural splashes on the glass rim, crumbs or mint leaves scattered naturally below. STYLE: ultra-photorealistic professional food photography, bright daylight with warm golden highlights, rich saturated pink and green hues, shallow macro depth of field, vertical 2:3. AVOID: no text, no watermarks, no hands or people, no dull colors or CGI, no steam or smoke.",
+        "img3": "SCENE: warm dark wood tones softly blurred in the background with a soft warm side glow, creating a cozy inviting atmosphere. SUBJECT: several servings of creamy watermelon drink arranged close together in tall clear glasses, each topped generously with fresh mint sprigs and a light dusting of coconut flakes, filling 95% of the frame corner to corner; the front glass razor-sharp with glistening creamy surface and fresh toppings, the rest receding into warm bokeh. DETAILS: intense glossy shine on every glass surface, deep pink creamy texture with subtle coconut milk swirls, fresh mint and coconut flakes drifting naturally into the creases, a few droplets and natural imperfections visible. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich saturated glowing pink and green tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no logos, no hands or people, no dull or flat colors, no CGI, no steam or smoke."
+    },
+    "description": "This creamy watermelon drink blends fresh watermelon with coconut milk and a hint of mint for a refreshingly smooth summer treat. I love how the coconut adds a silky texture that makes it feel indulgent but still light. Perfect for cooling off on warm afternoons!",
+    "hashtags": "#creamywatermelondrink #summerdrinks #refreshingbeverages",
+    "board_name": "Easy Snack Ideas",
+    "pin_variations": [
+        {
+            "title": "Why Does This Creamy Watermelon Drink Taste So Refreshing?",
+            "description": "Discover the secret behind this creamy watermelon drink's fresh and smooth flavor. The coconut milk adds a dreamy texture that’s perfect for summer 🌞. Save this for your next hot day! #summerdrinks #creamywatermelon #refreshingbeverages"
+        },
+        {
+            "title": "The One Trick That Makes Creamy Watermelon Drink So Silky Smooth",
+            "description": "Want a creamy watermelon drink that’s perfectly smooth every time? The addition of coconut milk is the trick I swear by! It’s easy and delicious 🍉🥥. Tap to get the full recipe and impress your friends! #creamywatermelon #summerrecipes #easybeverages"
+        },
+        {
+            "title": "5-Minute Creamy Watermelon Drink for Busy Summer Days",
+            "description": "Need a quick, refreshing drink? This creamy watermelon recipe comes together in just minutes with simple ingredients. It’s my go-to for a fast cool-down on busy days 🌿. Save this for your next summer gathering! #quickdrinks #watermelonrecipe #summerrefreshment"
+        },
+        {
+            "title": "Creamy Watermelon Drink vs Classic Juice – Which One Wins?",
+            "description": "I used to love plain watermelon juice, but this creamy version with coconut milk totally changed my mind! It’s richer, smoother, and so much more satisfying 🍹. Try both and see which you prefer! #creamywatermelon #summerdrinks #refreshingrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "4 cups fresh watermelon chunks, seeds removed",
+        "1 cup canned coconut milk, well stirred",
+        "2 tablespoons honey or maple syrup, optional",
+        "1 tablespoon fresh lime juice",
+        "6-8 fresh mint leaves, plus extra for garnish",
+        "Ice cubes as desired"
+    ],
+    "yield": "Approximately 4 cups, 4 servings",
+    "introduction": "I first made this creamy watermelon drink on a scorching summer afternoon when I wanted something cool but a little more special than plain juice. The idea came from combining fresh watermelon with creamy coconut milk I had on hand. What makes this recipe stand out is the silky texture the coconut milk adds, turning a simple fruit juice into a luscious treat. Plus, the splash of lime juice brightens the flavors, and fresh mint adds a refreshing herbal note. I’ve tried many watermelon drinks over the years, but this one is my family’s favorite because it feels indulgent yet light and natural. It’s perfect for hot days when you want something hydrating but with a little extra creaminess. No fancy equipment needed, just a blender and a few fresh ingredients. The result is a beautifully pink, smooth drink that tastes like summer in a glass. I love serving it chilled with a sprig of mint on top — it’s simple but feels like a little celebration.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by cutting fresh watermelon into chunks, removing all seeds to avoid bitterness. Using fresh watermelon ensures the best natural sweetness and vibrant color. Place the chunks into a blender, making sure not to overfill to allow for smooth blending. Blend on high speed until the watermelon turns into a smooth liquid. This step releases the juicy pulp and natural sugars, creating the base for your drink. Avoid blending too long to prevent warming the juice, which can dull the fresh flavor.",
+            "timing": 3,
+            "doneness_cue": "The watermelon should be fully liquefied with no large chunks remaining, smooth and bright pink."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the coconut milk, honey or maple syrup if using, fresh lime juice, and mint leaves to the blender. Blend again briefly to combine, allowing the coconut milk to emulsify with the watermelon juice, creating a creamy texture. The lime juice balances the sweetness and lifts the flavors, while the mint infuses a subtle freshness. Be careful not to over-blend the mint to avoid bitterness. Taste and adjust sweetness if needed. Blending these ingredients together ensures a smooth, harmonious drink with a silky mouthfeel.",
+            "timing": 2,
+            "doneness_cue": "The mixture should be creamy with a consistent pale pink color and a fresh mint aroma."
+        },
+        {
+            "step": 3,
+            "instruction": "Add ice cubes to the blender and pulse briefly to chill the drink without diluting it too much. This step cools the beverage quickly and keeps it refreshing. If you prefer your drink less diluted, you can skip blending the ice and serve it over ice cubes instead. Pour the creamy watermelon drink into glasses immediately to enjoy the fresh flavors at their peak.",
+            "timing": 1,
+            "doneness_cue": "The drink should be cold, slightly frothy on top, and ready to serve."
+        },
+        {
+            "step": 4,
+            "instruction": "Garnish each glass with a sprig of fresh mint and, if desired, a small wedge of watermelon on the rim. This adds a beautiful finishing touch and enhances the drink’s fresh aroma. Serve immediately for the best experience, as the flavors are brightest when fresh. If you need to store it, keep it chilled in the fridge but consume within 24 hours for best taste.",
+            "timing": 1,
+            "doneness_cue": "Glasses look inviting with fresh green mint contrasting the creamy pink drink."
+        },
+        {
+            "step": 5,
+            "instruction": "If you like a thicker texture, you can freeze some watermelon chunks beforehand and blend them in place of ice cubes. This creates a slushy, smoothie-like consistency that’s perfect for hot days. Just be mindful that frozen fruit may slightly change the flavor intensity, so adjust sweetness accordingly.",
+            "timing": 0,
+            "doneness_cue": "The drink should have a thicker, colder texture with a slightly frosty appearance."
+        },
+        {
+            "step": 6,
+            "instruction": "For a twist, try adding a small piece of fresh ginger to the blender with the other ingredients. Ginger adds a gentle spicy warmth that pairs beautifully with the sweetness of watermelon and creaminess of coconut milk. Start with a small amount to avoid overpowering the delicate flavors.",
+            "timing": 0,
+            "doneness_cue": "The drink has a subtle spicy aroma and a balanced flavor profile."
+        },
+        {
+            "step": 7,
+            "instruction": "To make this drink vegan, simply use maple syrup or agave instead of honey. This swap keeps the recipe plant-based without sacrificing sweetness or flavor. Maple syrup also adds a mild caramel note that complements the watermelon beautifully.",
+            "timing": 0,
+            "doneness_cue": "The sweetness is balanced and the drink remains creamy and fresh."
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to prepare this drink ahead of time, blend the watermelon and coconut milk mixture but hold off on adding ice or mint until serving. Store the base in an airtight container in the refrigerator for up to 24 hours. Add fresh mint and ice just before serving to keep the flavors vibrant.",
+            "timing": 0,
+            "doneness_cue": "The stored drink retains its creamy texture and fresh flavor when properly chilled."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your blender immediately after use to prevent any staining or residue from the watermelon and coconut milk. Rinse with warm water and a drop of dish soap, then blend a little clean water to get into the blades. This keeps your equipment fresh and ready for your next delicious recipe.",
+            "timing": 2,
+            "doneness_cue": "The blender is clean with no visible residue or color stains."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Watermelon Drink Is So Refreshing and Silky",
+        "content": "<p>This creamy watermelon drink succeeds because of the perfect balance between fresh fruit juice and the richness of coconut milk. Watermelon is naturally high in water content and sugars, which makes it incredibly hydrating and sweet. When blended, it releases a juicy pulp that provides natural texture and flavor. Coconut milk adds fat and creaminess, which emulsifies with the watery watermelon juice to create a smooth, luscious mouthfeel that feels indulgent without heaviness.</p><p>The addition of lime juice is a crucial balancing act. The acidity brightens the sweetness and prevents the drink from tasting flat or overly sugary. It also helps preserve the vibrant pink color of the watermelon by slowing oxidation. Fresh mint leaves contribute subtle herbal notes and a cooling sensation, enhancing the overall refreshing quality.</p><p>Blending technique matters too: over-blending can warm the juice and break down mint leaves too much, causing bitterness. Quick, high-speed pulses preserve freshness and texture. Adding ice cubes at the end chills the drink without watering it down, maintaining the concentrated flavors. This recipe’s success lies in combining these ingredients and techniques to highlight watermelon’s natural flavor while transforming it into a creamy, satisfying beverage perfect for hot days.</p>",
+        "ingredient_notes": {
+            "watermelon": "Choose ripe, seedless watermelon for the best flavor and sweetness. Look for a uniform deep pink or red flesh with a fresh, juicy aroma. The natural sugars and high water content are essential for a refreshing drink. Avoid overly ripe or mealy watermelon as it can taste bland or grainy.",
+            "coconut milk": "Use canned coconut milk with a creamy consistency rather than the thin carton versions. The fat content in canned milk creates the silky texture crucial for this drink. Stir the can well before measuring to incorporate the cream and liquid evenly. Light coconut milk can be used but will result in a thinner drink.",
+            "honey or maple syrup": "These natural sweeteners enhance the watermelon’s flavor without overpowering it. Honey adds floral notes, while maple syrup adds a subtle caramel flavor. Both dissolve easily in the liquid. Adjust sweetness to taste, especially based on the watermelon’s natural sugar level.",
+            "lime juice": "Freshly squeezed lime juice is best to brighten and balance the drink. The acidity cuts through the sweetness and enhances flavor complexity. Avoid bottled lime juice, which can taste artificial and dull the fresh watermelon taste.",
+            "fresh mint": "Use fresh, vibrant mint leaves for a cooling herbal note. Bruising the leaves slightly before blending releases essential oils for aroma and flavor. Adding mint at the right stage prevents bitterness and keeps the drink fresh and inviting."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use chilled watermelon chunks to keep the drink cool without diluting it with too much ice.",
+            "reason": "Chilling the watermelon before blending helps maintain a cold temperature, so you can add less ice and keep the flavors concentrated. More ice can water down the drink, reducing its refreshing quality."
+        },
+        {
+            "tip": "Pulse the blender when adding mint leaves instead of continuous blending.",
+            "reason": "Pulsing prevents over-processing the mint, which can release bitter compounds. It allows you to infuse fresh mint flavor without turning the drink green or bitter."
+        },
+        {
+            "tip": "Taste and adjust sweetness after blending all ingredients, not before.",
+            "reason": "Sweetness perception changes once lime juice and coconut milk are added. Adjusting at the end ensures the balance is perfect without making the drink too sweet or sour."
+        },
+        {
+            "tip": "Serve immediately for the best flavor and texture.",
+            "reason": "Fresh watermelon juice oxidizes quickly and loses vibrancy. Serving right away captures the bright, fresh taste and creamy texture before separation occurs."
+        },
+        {
+            "tip": "Use a high-speed blender for a smooth, creamy texture.",
+            "reason": "A powerful blender breaks down the watermelon pulp and coconut milk evenly, ensuring a silky consistency without graininess."
+        },
+        {
+            "tip": "Freeze some watermelon chunks for a slushy variation.",
+            "reason": "Frozen watermelon chunks create a thicker, colder drink without diluting flavor like ice does. It’s a great alternative for a smoothie-like texture."
+        },
+        {
+            "tip": "Avoid bottled lime juice for freshness.",
+            "reason": "Bottled lime juice often contains preservatives and lacks the bright acidity of fresh juice, which is essential for balancing the sweetness and enhancing flavor."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using watermelon with seeds or rind in the blender.",
+            "why_it_happens": "Sometimes it's tempting to just toss everything in, but seeds and rind add bitterness and unpleasant texture.",
+            "fix": "Carefully remove all seeds and rind before blending. This ensures a smooth, sweet drink without off-flavors or gritty bits."
+        },
+        {
+            "mistake": "Over-blending the mint leaves.",
+            "why_it_happens": "Blending mint too long releases bitter chlorophyll and breaks down leaves into unpleasant sludge.",
+            "fix": "Add mint leaves near the end and pulse briefly to infuse flavor without bitterness or discoloration."
+        },
+        {
+            "mistake": "Adding too much ice at once.",
+            "why_it_happens": "Adding excessive ice dilutes the drink, making it watery and less flavorful.",
+            "fix": "Use chilled watermelon or add ice gradually, tasting as you go to maintain flavor concentration."
+        },
+        {
+            "mistake": "Not balancing sweetness and acidity.",
+            "why_it_happens": "Skipping lime juice or not tasting can result in a flat or overly sweet drink.",
+            "fix": "Always add lime juice and adjust honey/maple syrup last to achieve a bright, balanced flavor."
+        },
+        {
+            "mistake": "Storing the drink too long before serving.",
+            "why_it_happens": "Watermelon juice oxidizes quickly, losing freshness and vibrant color.",
+            "fix": "Prepare just before serving or store in airtight container chilled for no more than 24 hours."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Frozen Watermelon Slushy",
+            "description": "Freeze watermelon chunks and blend with coconut milk and lime juice for a thick, icy slushy. This variation is perfect for extra hot days and has a smoothie-like texture without added ice cubes.",
+            "technical_note": "Adjust blending time to fully crush frozen fruit and avoid warming the mixture."
+        },
+        {
+            "name": "Ginger-Infused Creamy Watermelon Drink",
+            "description": "Add a small piece of fresh ginger to the blender for a subtle spicy kick. Ginger pairs beautifully with watermelon and coconut milk, adding warmth and complexity to the drink.",
+            "technical_note": "Use a small amount of ginger to avoid overpowering the delicate watermelon flavor."
+        },
+        {
+            "name": "Vegan Sweetened Version",
+            "description": "Replace honey with maple syrup or agave nectar to make the drink fully vegan. Maple syrup adds a mild caramel note that complements the watermelon sweetness well.",
+            "technical_note": "Adjust sweetness to taste since maple syrup can be sweeter than honey."
+        },
+        {
+            "name": "Mint-Free Version",
+            "description": "Omit mint for a pure watermelon and coconut milk flavor. Add a splash more lime juice for brightness and garnish with a thin slice of watermelon for visual appeal.",
+            "technical_note": "Without mint, the drink’s flavor is simpler and more straightforward, so balancing acidity is key."
+        },
+        {
+            "name": "Sparkling Creamy Watermelon Drink",
+            "description": "Top the creamy watermelon base with sparkling water for a fizzy twist. Serve immediately to enjoy the contrast between creamy texture and bubbles.",
+            "technical_note": "Add sparkling water just before serving to retain fizz."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "150 kcal",
+        "protein_grams": "1g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "7g",
+        "fiber_grams": "1g",
+        "sodium_mg": "20mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This creamy watermelon drink should not be kept at room temperature for more than 1 hour as it can spoil quickly due to fresh fruit content. Always cover if left out briefly.",
+        "refrigerator": "Store in an airtight container in the refrigerator for up to 24 hours. The drink may separate slightly; stir gently before serving. Best served chilled but not cold from the fridge to avoid dulling flavors.",
+        "freezer": "Freezing the drink is not recommended as the creamy texture will separate and become grainy upon thawing. Instead, freeze watermelon chunks separately for future blending.",
+        "reheating": "This drink is best served cold and should not be reheated. If it tastes less fresh after refrigeration, add a splash of fresh lime juice and stir.",
+        "make_ahead_strategy": "Prepare the watermelon and coconut milk base up to a day in advance and store chilled. Add fresh mint and ice cubes just before serving to keep flavors vibrant."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen watermelon instead of fresh?",
+            "answer": "Yes, frozen watermelon chunks work well and can create a thicker, slushy texture. Just be aware that frozen fruit can be less sweet and slightly diluted, so you might want to adjust the sweetener accordingly."
+        },
+        {
+            "question": "What if I don’t have coconut milk? Can I substitute something else?",
+            "answer": "You can substitute with almond milk or regular milk, but the creamy texture and tropical flavor will be less pronounced. Coconut milk’s fat content is key to achieving the silky mouthfeel in this recipe."
+        },
+        {
+            "question": "How long can I store this drink in the fridge?",
+            "answer": "Store it in an airtight container for up to 24 hours. The flavors may dull and the texture can separate, so stir well before serving. For best taste, consume as fresh as possible."
+        },
+        {
+            "question": "Can I make this drink ahead for a party?",
+            "answer": "Yes, prepare the base mixture without ice and mint up to a day ahead. Keep it chilled and add ice and mint just before serving to keep it fresh and vibrant."
+        },
+        {
+            "question": "Is this recipe suitable for kids?",
+            "answer": "Absolutely! It’s naturally sweet, creamy, and refreshing without any alcohol or caffeine. Just adjust sweetness to your child’s preference."
+        },
+        {
+            "question": "Can I add alcohol to make a cocktail?",
+            "answer": "Yes, this drink pairs well with light rum or vodka. Add alcohol after blending and serve immediately over ice for a refreshing summer cocktail."
+        },
+        {
+            "question": "What’s the best way to remove watermelon seeds?",
+            "answer": "Cut watermelon into chunks and pick out seeds by hand before blending. Alternatively, use seedless watermelon varieties to save time."
+        },
+        {
+            "question": "Does the drink separate if left standing?",
+            "answer": "Yes, natural separation can occur because of the coconut milk and watermelon juice. Stir or shake gently before serving to recombine."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sipping this creamy watermelon drink as much as my family does. It’s a simple way to bring a little summer magic to your day—do share how it turns out!",
+    "seo": {
+        "primary_keyword": "creamy watermelon drink recipe",
+        "secondary_keywords": [
+            "healthy watermelon drink",
+            "easy summer drinks",
+            "how to make creamy watermelon drink",
+            "best creamy watermelon drink recipe",
+            "easy creamy watermelon drink"
+        ],
+        "internal_links": [
+            {
+                "text": "summer fruit smoothie recipes",
+                "anchor": "summer-fruit-smoothies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "category_id": "cat_1761230221_583",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-25 23:22:55",
+        "title_seed": "Creamy Watermelon Drink Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1785021775_850",
+    "slug": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment",
+    "uniqueSlug": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_1.webp",
+            "relativePath": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_2.webp",
+            "relativePath": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_3.webp",
+            "relativePath": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_9.webp",
+            "filePath": "posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_9.webp",
+            "relativePath": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Creamy Watermelon Drink Taste So Refreshing?"
+        },
+        {
+            "fileName": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_4.webp",
+            "filePath": "posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_4.webp",
+            "relativePath": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Creamy Watermelon Drink Taste So Refreshing?"
+        },
+        {
+            "fileName": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_5.webp",
+            "filePath": "posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_5.webp",
+            "relativePath": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Creamy Watermelon Drink So Silky Smooth"
+        },
+        {
+            "fileName": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_7.webp",
+            "filePath": "posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_7.webp",
+            "relativePath": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Creamy Watermelon Drink vs Classic Juice – Which One Wins?"
+        },
+        {
+            "fileName": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_8.webp",
+            "filePath": "posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_8.webp",
+            "relativePath": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Creamy Watermelon Drink Taste So Refreshing?"
+        },
+        {
+            "fileName": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_6.webp",
+            "filePath": "posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_6.webp",
+            "relativePath": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "5-Minute Creamy Watermelon Drink for Busy Summer Days"
+        }
+    ],
+    "image": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_1.webp",
+    "image_path": "posts/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images/creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment_pinrecipes_image_1.webp",
+    "image_dir": "creamy-watermelon-drink-recipe-with-fresh-mint-and-coconut-milk-for-summer-refreshment/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-26T01:04:03+01:00",
+    "updatedAt": "2026-07-26T01:04:03+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}
