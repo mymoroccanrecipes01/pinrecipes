@@ -1,0 +1,370 @@
+{
+    "title": "Quick Breakfast Recipes That Make Mornings Easy and Delicious Every Time",
+    "promptIMG": "Food photography: quick breakfast recipes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred behind with morning sunlight streaming through a window, faint countertop reflections. SUBJECT: a generous stack of golden fluffy pancakes piled high on a rustic white ceramic plate, topped with melting butter and a drizzle of maple syrup glistening under the light, the front pancake sharply focused at a 30-degree angle showcasing its airy texture and crispy edges, the rest of the stack fading gently into soft bokeh. DETAILS: syrup pooling slightly at the base, a few scattered fresh blueberries and a dusting of powdered sugar adding natural accents, crumbs scattered naturally on the plate. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden hues, rich saturated colors emphasizing the pancakes’ golden brown and syrup’s amber shine, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no steam or smoke, no dull colors or CGI effects.",
+        "img2": "SCENE: soft blurred background of a light grey marble countertop with bright window daylight. SUBJECT: the reveal shot of a single pancake cut in half with the interior fully visible, showing the moist, fluffy crumb with steam rising faintly, a slow drip of maple syrup cascading down the side, butter melting into the warm center. DETAILS: the interior crumb glistens moist and tender contrasting with the crispy golden crust, a few blueberries peeking from the edges, powdered sugar lightly dusted around the base with crumbs scattered naturally. STYLE: ultra-photorealistic professional food photography, bright daylight with warm amber highlights, richly saturated colors capturing the syrup’s gloss and crumb texture, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no logos, no flat or washed-out colors, no plastic textures.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with a single warm side glow highlighting the food. SUBJECT: several slices of a quick breakfast frittata arranged closely on a rustic ceramic plate, topped with fresh chopped herbs and melted cheese, accompanied by a small bowl of fresh salsa with a spoon resting inside. The front slice sharply focused showing the moist, fluffy interior with pockets of melted cheese and colorful veggies, the rest fading into warm bokeh. DETAILS: intense glossy shine on the melted cheese and salsa, a few crumbs and herb sprinkles scattered naturally on the plate, deep golden edges on the frittata. STYLE: ultra-photorealistic professional food photography with deep golden-amber warm color grading, rich saturated tones emphasizing textures and colors, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no steam, no logos, no dull lighting."
+    },
+    "description": "These quick breakfast recipes are my go-to for busy mornings when I want something tasty without the fuss. They’re simple, comforting, and come together fast. Perfect for starting your day right!",
+    "hashtags": "#quickbreakfast #easybreakfastideas #morningmeals",
+    "board_name": "Morning Meals",
+    "pin_variations": [
+        {
+            "title": "Why Does Restaurant Pancakes Taste Better Than Yours?",
+            "description": "Ever wonder why diner pancakes are so fluffy and delicious? Discover the secret ingredient that makes all the difference. 🍴 Save this for your next breakfast! #pancakesecrets #quickbreakfast #easyrecipes"
+        },
+        {
+            "title": "The One Trick That Makes Quick Breakfast Recipes Foolproof",
+            "description": "Want breakfast that’s always perfect? This simple tip guarantees fluffy pancakes and moist frittatas every time. Try it and thank me later! 🥞✨ Tap for the full recipe. #breakfasttips #easybreakfast #quickmeals"
+        },
+        {
+            "title": "15-Minute Quick Breakfast Recipes for Busy Weeknights",
+            "description": "Short on time but craving something homemade? These quick breakfast recipes come together in no time and taste amazing. Perfect for those hectic mornings! ⏰🍳 Save this for dinner inspo. #quickbreakfast #easymeals #weeknightdinner"
+        },
+        {
+            "title": "Still Making Dry Eggs? This Quick Breakfast Fixes It",
+            "description": "Dry scrambled eggs are a thing of the past with this foolproof method. Moist, fluffy, and packed with flavor, these quick breakfasts will become your new favorite! 🍳👌 Tap to get the recipe. #eggrecipes #quickbreakfast #easycooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "2 tablespoons sugar",
+        "1 tablespoon baking powder",
+        "1/2 teaspoon salt",
+        "1 cup milk",
+        "1 large egg",
+        "2 tablespoons melted butter",
+        "1 cup shredded cheddar cheese",
+        "1/2 cup diced bell peppers",
+        "1/4 cup chopped green onions",
+        "2 large eggs",
+        "1/4 cup milk",
+        "Salt and pepper to taste",
+        "Butter or oil for cooking"
+    ],
+    "yield": "Makes approximately 8 pancakes or 4 servings of frittata",
+    "introduction": "I’ve been making quick breakfast recipes for years, especially on mornings when time is tight but I still want something homemade and satisfying. My family loves these pancakes and frittatas because they’re simple, versatile, and come together fast. What I’ve learned is that a few small tweaks—like using baking powder just right and not overmixing the batter—make the pancakes light and fluffy instead of dense. For the frittata, I add fresh veggies and cheese to keep it moist and flavorful without any fuss. I remember once rushing breakfast and ending up with dry eggs, so I perfected this method to avoid that mistake. The finished dishes are golden, tender, and full of comforting flavors that make mornings feel special even when busy. Whether you’re feeding the kids or treating yourself, these recipes are a reliable go-to that never disappoint. Plus, they’re easy enough for beginners but tasty enough to impress everyone at the table!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "In a large bowl, whisk together the flour, sugar, baking powder, and salt until well combined. This dry mix is the base for your pancakes and ensures even rising. Be careful not to overmix once you add the wet ingredients, as this can make the pancakes tough. Mixing just until combined keeps them tender and fluffy.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are evenly combined with no large clumps; texture is powdery and smooth."
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, whisk together the milk, egg, and melted butter until smooth. Pour the wet ingredients into the dry and gently fold with a spatula until just combined. Some lumps are okay. Overmixing activates gluten and leads to dense pancakes, so stop as soon as the batter comes together.",
+            "timing": 5,
+            "doneness_cue": "Batter is thick but pourable with small lumps visible; no flour pockets remain."
+        },
+        {
+            "step": 3,
+            "instruction": "Heat a non-stick skillet or griddle over medium heat and lightly grease with butter or oil. Pour 1/4 cup batter for each pancake onto the skillet. Cook until bubbles form on the surface and edges look set, about 2-3 minutes. Flip carefully and cook another 2 minutes until golden and cooked through.",
+            "timing": 10,
+            "doneness_cue": "Pancakes are golden brown on both sides with a fluffy interior when cut."
+        },
+        {
+            "step": 4,
+            "instruction": "For the frittata, preheat the oven to 350°F (175°C). In a bowl, whisk together the eggs, milk, salt, and pepper until smooth. Stir in diced bell peppers, green onions, and shredded cheddar cheese for flavor and texture.",
+            "timing": 5,
+            "doneness_cue": "Egg mixture is smooth and uniform with evenly distributed veggies and cheese."
+        },
+        {
+            "step": 5,
+            "instruction": "Heat an oven-safe skillet over medium heat and add a little butter or oil. Pour in the egg mixture and cook without stirring for 3-4 minutes until the edges begin to set. This step starts the cooking process and prevents the frittata from sticking.",
+            "timing": 4,
+            "doneness_cue": "Edges look firm and slightly golden while the center is still slightly jiggly."
+        },
+        {
+            "step": 6,
+            "instruction": "Transfer the skillet to the preheated oven and bake for 12-15 minutes until the frittata is fully set and lightly golden on top. Baking gently cooks the eggs through without drying them out.",
+            "timing": 15,
+            "doneness_cue": "Frittata is firm to the touch and a knife inserted in the center comes out clean."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the frittata from the oven and let it rest for 5 minutes before slicing. Resting allows the eggs to finish cooking gently and makes slicing easier without crumbling.",
+            "timing": 5,
+            "doneness_cue": "Frittata holds its shape and slices cleanly without falling apart."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve pancakes warm with butter and maple syrup or your favorite toppings. For the frittata, garnish with fresh herbs or salsa for added brightness and flavor.",
+            "timing": 2,
+            "doneness_cue": "Pancakes and frittata look glossy and inviting with toppings melting or glistening."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up any spills promptly and store leftovers in airtight containers. Reheat gently to preserve texture and moisture for best results the next day.",
+            "timing": 5,
+            "doneness_cue": "Kitchen is tidy and leftovers are stored properly to maintain freshness."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why These Quick Breakfast Recipes Succeed",
+        "content": "<p>These quick breakfast recipes work because they balance the science of baking with practical cooking techniques that anyone can master. For the pancakes, the use of baking powder is crucial. It reacts with moisture and heat to create carbon dioxide bubbles that make the batter rise and become fluffy. However, overmixing the batter develops gluten, which tightens the structure and results in dense, chewy pancakes. That’s why folding just until combined is key.</p><p>The eggs in the frittata provide structure through coagulation when heated. Adding milk dilutes the egg proteins slightly, resulting in a tender, moist texture rather than rubbery eggs. Cooking the frittata first on the stovetop sets the edges and prevents sticking, while finishing it in the oven ensures even cooking without overbrowning. The combination of fresh veggies and cheese adds moisture and flavor, keeping the dish from drying out.</p><p>Temperature control is vital for both recipes. Medium heat allows pancakes to cook through without burning, while the oven’s gentle heat ensures the frittata cooks evenly. Resting the frittata after baking lets residual heat complete the cooking and helps it set firmly for clean slicing. These techniques together create reliable, delicious breakfasts that feel homemade but come together quickly.</p><p>Choosing quality ingredients, like fresh eggs and real butter, also elevates the flavor and texture. The natural moisture and richness from these ingredients help achieve the perfect balance of tender crumb and golden crust in pancakes and a creamy interior in the frittata. Altogether, these recipes combine simple science and cooking wisdom to make quick breakfasts that taste like you spent hours in the kitchen.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "All-purpose flour is ideal for pancakes because it has a balanced protein content that provides enough structure without making the batter tough. When buying, choose fresh flour stored in a cool, dry place to avoid off flavors. Avoid self-rising flour here since baking powder is added separately to control leavening precisely.",
+            "baking powder": "Baking powder is a chemical leavening agent that reacts with moisture and heat to release carbon dioxide, creating bubbles that make pancakes rise and become fluffy. Use fresh baking powder for best results; expired powder won’t produce enough lift, resulting in flat, dense pancakes.",
+            "milk": "Milk adds moisture and helps dissolve dry ingredients. Whole milk contributes richness, but you can use lower-fat milk or dairy alternatives if preferred. The liquid content is crucial for activating the baking powder and hydrating the flour proteins for proper texture.",
+            "eggs": "Eggs provide structure through protein coagulation and add moisture and richness. Fresh eggs produce better volume and texture in both pancakes and frittatas. They also help emulsify the batter, ensuring even distribution of fats and liquids.",
+            "cheddar cheese": "Sharp cheddar cheese adds flavor and moisture to the frittata. Choose a good-quality cheese that melts well without releasing excess oil. The cheese creates pockets of creamy texture and complements the veggies for a balanced savory taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Let the pancake batter rest for 5 minutes before cooking.",
+            "reason": "Resting the batter allows the flour to fully hydrate and the baking powder to start reacting, which results in lighter, fluffier pancakes. Skipping this step may lead to a denser texture because the ingredients haven’t had time to meld."
+        },
+        {
+            "tip": "Use a non-stick skillet and preheat it properly before adding batter.",
+            "reason": "A well-heated pan ensures pancakes cook evenly and develop a golden crust without sticking. If the skillet is too cool, pancakes absorb more oil and become greasy or fall apart when flipped."
+        },
+        {
+            "tip": "Don’t press down on pancakes while cooking.",
+            "reason": "Pressing pancakes squeezes out air bubbles that keep them fluffy, resulting in a dense, flat texture. Let them cook undisturbed until bubbles form and edges set for the best rise."
+        },
+        {
+            "tip": "For the frittata, use an oven-safe skillet to transfer from stovetop to oven easily.",
+            "reason": "Using an oven-safe pan prevents transferring the egg mixture, reducing mess and maintaining the frittata’s shape. It also allows for even cooking from both heat sources."
+        },
+        {
+            "tip": "Add vegetables that are pre-cooked or finely diced to the frittata.",
+            "reason": "Raw chunky vegetables release moisture and may not cook fully, leading to a watery or uneven texture. Pre-cooking or finely chopping ensures even cooking and a pleasant bite."
+        },
+        {
+            "tip": "Season the batter lightly and adjust toppings after cooking.",
+            "reason": "Over-seasoning the batter can overpower the delicate flavors. Adding salt, herbs, or syrup at serving lets you customize each portion to taste."
+        },
+        {
+            "tip": "Use fresh baking powder and eggs for best results.",
+            "reason": "Expired baking powder loses its leavening power, making pancakes flat. Fresh eggs provide better texture and flavor, contributing to the overall success of the recipes."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the pancake batter",
+            "why_it_happens": "Many cooks think mixing thoroughly is best, but overmixing develops gluten which toughens pancakes.",
+            "fix": "Mix the batter just until the dry ingredients are moistened; some lumps are okay. Use a gentle folding motion to combine ingredients without overworking."
+        },
+        {
+            "mistake": "Cooking pancakes on too high heat",
+            "why_it_happens": "Rushing pancakes on high heat causes burning outside and raw inside.",
+            "fix": "Preheat skillet to medium heat and adjust as needed. Cook pancakes slowly until bubbles form and edges set before flipping."
+        },
+        {
+            "mistake": "Not letting the frittata rest before slicing",
+            "why_it_happens": "Cutting immediately causes the frittata to crumble because it hasn’t fully set.",
+            "fix": "Allow the frittata to rest 5 minutes after baking to firm up and make slicing clean and easy."
+        },
+        {
+            "mistake": "Using cold ingredients straight from the fridge",
+            "why_it_happens": "Cold batter can cook unevenly and affect texture.",
+            "fix": "Bring milk and eggs to room temperature before mixing to ensure even cooking and better rise."
+        },
+        {
+            "mistake": "Skipping butter or oil in the pan",
+            "why_it_happens": "Pancakes stick and tear without enough fat in the pan.",
+            "fix": "Lightly grease the skillet before each batch with butter or oil for easy flipping and golden crust."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Blueberry Pancakes",
+            "description": "Add a cup of fresh or frozen blueberries to the pancake batter for a fruity twist. The berries add bursts of sweetness and moisture, making the pancakes extra flavorful and colorful.",
+            "technical_note": "Fold blueberries gently into the batter just before cooking to avoid breaking them and discoloring the batter."
+        },
+        {
+            "name": "Spinach and Feta Frittata",
+            "description": "Swap bell peppers for fresh spinach and add crumbled feta cheese for a Mediterranean flavor. This variation is perfect for a light, savory breakfast or brunch.",
+            "technical_note": "Wilt spinach slightly before adding to avoid excess moisture in the frittata, which could make it soggy."
+        },
+        {
+            "name": "Banana Pancakes",
+            "description": "Mash one ripe banana into the pancake batter for natural sweetness and extra moisture. These pancakes are soft and fragrant, a great way to use up ripe bananas.",
+            "technical_note": "Reduce sugar slightly since bananas add sweetness; batter will be thicker, so adjust milk as needed."
+        },
+        {
+            "name": "Mushroom and Herb Frittata",
+            "description": "Sauté mushrooms with garlic and fresh herbs before adding to the egg mixture. This adds earthiness and depth of flavor, perfect for a comforting breakfast.",
+            "technical_note": "Cook mushrooms thoroughly to remove excess moisture before mixing into the eggs."
+        },
+        {
+            "name": "Gluten-Free Pancakes",
+            "description": "Use a gluten-free all-purpose flour blend instead of regular flour to make these pancakes suitable for gluten sensitivities. The texture is slightly different but still tender and delicious.",
+            "technical_note": "Ensure the baking powder is gluten-free and adjust liquid slightly as gluten-free flours absorb differently."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "18g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "15g",
+        "fiber_grams": "3g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Quick breakfast items like pancakes and frittatas can be left at room temperature for up to 2 hours if covered loosely with foil or a clean towel to prevent drying out.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. Pancakes may become denser when cold; reheat gently in a skillet or microwave with a damp paper towel to restore moisture.",
+        "freezer": "Freeze pancakes or frittata slices in a single layer on a baking sheet, then transfer to freezer bags for up to 2 months. Thaw overnight in the fridge and reheat in a skillet or oven to maintain texture.",
+        "reheating": "Reheat pancakes in a non-stick skillet over medium-low heat until warmed through to retain crisp edges. For frittata, reheat in a 350°F oven for 10-15 minutes wrapped in foil to keep moist. Avoid microwave reheating for best texture.",
+        "make_ahead_strategy": "Prepare pancake batter or frittata mixture a day ahead and keep refrigerated. For pancakes, cook fresh in the morning for best fluffiness. For frittata, bake fully and reheat before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use almond milk instead of regular milk?",
+            "answer": "Yes, almond milk or other plant-based milks work fine in these recipes. They may slightly change the flavor and texture but won’t affect the rise or cooking process significantly."
+        },
+        {
+            "question": "How do I keep pancakes from sticking to the pan?",
+            "answer": "Make sure your pan is well preheated and lightly greased with butter or oil before adding batter. Using a non-stick skillet helps, and avoid flipping too early before bubbles form on the surface."
+        },
+        {
+            "question": "Can I make the frittata without cheese?",
+            "answer": "Absolutely! Cheese adds flavor and moisture, but you can omit it or substitute with dairy-free cheese. Just note the texture will be less creamy without it."
+        },
+        {
+            "question": "What’s the best way to store leftover pancakes?",
+            "answer": "Cool pancakes completely, then stack with parchment paper between each to prevent sticking. Store in an airtight container in the fridge for up to 3 days or freeze for longer storage."
+        },
+        {
+            "question": "How do I know when the frittata is done baking?",
+            "answer": "The frittata is done when it’s set in the center and a knife inserted comes out clean. The top should be lightly golden but not burnt."
+        },
+        {
+            "question": "Can I add other vegetables to the frittata?",
+            "answer": "Yes, feel free to add cooked or finely chopped veggies like spinach, mushrooms, or zucchini. Just make sure to remove excess moisture to avoid a soggy frittata."
+        },
+        {
+            "question": "How do I make pancakes fluffier?",
+            "answer": "Use fresh baking powder, don’t overmix the batter, and let it rest for a few minutes before cooking. Cooking on medium heat also helps develop a good rise."
+        },
+        {
+            "question": "Can I prepare these recipes for meal prep?",
+            "answer": "Yes, both pancakes and frittatas can be made ahead and stored in the fridge or freezer. Reheat gently to preserve texture and moisture."
+        }
+    ],
+    "conclusion": "I hope you enjoy these quick breakfast recipes as much as my family does. They’re easy, satisfying, and perfect for busy mornings. Let me know how yours turn out!",
+    "seo": {
+        "primary_keyword": "quick breakfast recipes",
+        "secondary_keywords": [
+            "easy breakfast ideas",
+            "healthy quick breakfast",
+            "how to make quick breakfast recipes",
+            "best quick breakfast recipes",
+            "easy quick breakfast"
+        ],
+        "internal_links": [
+            {
+                "text": "easy pancake recipe",
+                "anchor": "easy-pancake-recipe"
+            },
+            {
+                "text": "simple frittata technique",
+                "anchor": "simple-frittata-technique"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-27 10:02:55",
+        "title_seed": "Quick Breakfast Recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1785146575_896",
+    "slug": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time",
+    "uniqueSlug": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_1.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_2.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_3.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_8.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_8.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Restaurant Pancakes Taste Better Than Yours?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_9.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_9.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Restaurant Pancakes Taste Better Than Yours?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_7.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_7.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Eggs? This Quick Breakfast Fixes It"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_5.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_5.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Quick Breakfast Recipes Foolproof"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_6.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_6.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Quick Breakfast Recipes for Busy Weeknights"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_4.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_4.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Restaurant Pancakes Taste Better Than Yours?"
+        }
+    ],
+    "image": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_1.webp",
+    "image_path": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_1.webp",
+    "image_dir": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-27T11:06:26+01:00",
+    "updatedAt": "2026-07-27T11:06:26+01:00",
+    "has_reel": true
+}
