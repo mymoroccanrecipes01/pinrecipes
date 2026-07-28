@@ -1,0 +1,316 @@
+{
+    "title": "Quick Breakfast Recipes Indian Vegetarian for Busy Mornings with Flavorful Spices",
+    "promptIMG": "Food photography: Indian vegetarian breakfast plate, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred home kitchen with warm daylight streaming through a window, subtle reflections on a wooden countertop. SUBJECT: a vibrant plate of Indian vegetarian breakfast featuring golden crispy masala dosa folded neatly, overflowing with spiced potato filling, garnished with fresh coriander and a side of tangy coconut chutney in a small ceramic bowl. DETAILS: the dosa shows a thin crispy texture with light brown spots, the potato filling glistens with mustard seeds and turmeric hues, chutney has a creamy texture with a slight drizzle of oil. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, richly saturated colors emphasizing the golden dosa and green chutney, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no steam or smoke, no artificial colors or over-smoothing.",
+        "img2": "SCENE: soft natural light with a blurred marble countertop in the background, bright and clean atmosphere. SUBJECT: a close-up reveal shot of the Indian vegetarian breakfast dosa cut in half, showing the steaming hot spiced potato filling oozing slightly, the crispy edges curling upward. DETAILS: the interior potato filling is moist and golden yellow with visible mustard seeds and chopped green chilies, the dosa exterior is thin and crisp with caramelized spots, a small dollop of coconut chutney rests beside the halves. STYLE: ultra-photorealistic professional food photography, bright daylight with warm amber highlights, richly saturated and inviting colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no steam or smoke, no artificial effects.",
+        "img3": "SCENE: warm dark wood surface softly blurred behind with a gentle side glow, creating a cozy and inviting feel. SUBJECT: several folded masala dosas stacked on a rustic ceramic plate, generously topped with fresh coriander leaves and a light drizzle of ghee, accompanied by a small bowl of vibrant red tomato chutney and a glass of spiced masala chai. DETAILS: the dosas have a glossy sheen from the ghee, the chutney looks thick with visible mustard seeds and chili flakes, the chai glass shows a creamy frothy top. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, richly saturated and glowing appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no steam or smoke, no plastic textures."
+    },
+    "description": "This quick Indian vegetarian breakfast is packed with flavor and perfect for busy mornings. The crispy masala dosa with its spiced potato filling is a comforting classic that’s easy to whip up. Great for a wholesome start to your day!",
+    "hashtags": "#IndianBreakfast #VegetarianRecipes #QuickBreakfast",
+    "board_name": "Morning Meals",
+    "pin_variations": [
+        {
+            "title": "Why Does Authentic Indian Vegetarian Breakfast Taste So Good?",
+            "description": "Discover the secret behind the irresistible flavors of this Indian vegetarian breakfast. The crispy dosa and spiced potato filling come together perfectly every time. Save this for your next morning meal! #IndianBreakfast #Vegetarian #QuickMeals"
+        },
+        {
+            "title": "The One Trick That Makes Quick Indian Vegetarian Breakfast Foolproof",
+            "description": "Want to nail the perfect dosa every time? This simple tip ensures a crispy exterior and soft filling that your family will love. Tap to get the full recipe and start your day right! #QuickBreakfast #VegetarianRecipes #IndianFood"
+        },
+        {
+            "title": "15-Minute Indian Vegetarian Breakfast for Busy Weekday Mornings",
+            "description": "Short on time? This quick Indian vegetarian breakfast recipe is flavorful and ready in just 15 minutes. Perfect for busy mornings when you want something hearty and delicious. Save it now! #QuickBreakfast #IndianRecipes #Vegetarian"
+        },
+        {
+            "title": "Still Struggling with Dosa? This Quick Indian Vegetarian Breakfast Fixes It",
+            "description": "If your dosas aren’t turning out right, try this easy recipe that guarantees crispy edges and a flavorful filling. Your morning routine just got tastier! Tap to get the recipe. #IndianBreakfast #Vegetarian #EasyRecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "1 cup rice, soaked for 4 hours",
+        "1/4 cup urad dal (split black gram), soaked for 4 hours",
+        "1/2 teaspoon fenugreek seeds",
+        "Salt to taste",
+        "2 medium potatoes, boiled and mashed",
+        "1 small onion, finely chopped",
+        "1 green chili, finely chopped",
+        "1/2 teaspoon mustard seeds",
+        "1/2 teaspoon turmeric powder",
+        "1 tablespoon oil",
+        "Fresh coriander leaves, chopped",
+        "Ghee or oil for cooking dosa",
+        "Coconut chutney for serving"
+    ],
+    "yield": "Approximately 8 medium dosas, serves 4",
+    "introduction": "I've been making this quick Indian vegetarian breakfast for years, especially on busy mornings when I want something comforting yet fast. The first time I tried making masala dosa at home, I was intimidated by the batter fermentation and the delicate cooking technique. But over time, I found a simple shortcut by soaking rice and urad dal together and blending them fresh, skipping the long ferment. The spiced potato filling is my family's favorite part – the mustard seeds and turmeric bring warmth and color that make it feel like a special treat. What sets this recipe apart is how the dosa turns out perfectly crispy on the edges while staying soft in the middle, thanks to a little ghee and the right pan temperature. It’s a classic South Indian breakfast that’s vegetarian, wholesome, and full of flavor. I love serving it with homemade coconut chutney and a hot cup of chai for a cozy start. Plus, this recipe is forgiving enough for beginners but delicious enough for longtime fans of Indian cuisine. Whether you’re new to dosa or looking for a quick weekday meal, this recipe will become a go-to in your kitchen.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by soaking the rice, urad dal, and fenugreek seeds in water for at least 4 hours or overnight. This softens the grains and helps with fermentation if you choose to ferment the batter. After soaking, drain and blend the mixture with a little water to a smooth batter consistency, similar to pancake batter. Add salt and mix well. The soaking and blending process is critical because it affects the dosa's texture; too thick or too thin batter will not spread or crisp properly. If you have time, let the batter rest for a few hours at room temperature to develop a subtle tang, but you can also use it fresh for a quicker version.",
+            "timing": "20 minutes (plus soaking time)",
+            "doneness_cue": "Batter should be smooth, pourable but not runny, with no lumps."
+        },
+        {
+            "step": 2,
+            "instruction": "Prepare the potato filling by heating oil in a pan. Add mustard seeds and wait until they crackle. Then add chopped onions and green chili, sauté until translucent. Mix in turmeric powder and mashed potatoes, stir well to combine and heat through. Season with salt and garnish with fresh coriander. This step infuses the filling with warm spices and a bit of crunch from the mustard seeds, balancing the soft potatoes perfectly. Avoid overcooking the potatoes to keep the filling moist and flavorful.",
+            "timing": "10 minutes",
+            "doneness_cue": "Filling should be warm, fragrant, and evenly mixed with no raw onion smell."
+        },
+        {
+            "step": 3,
+            "instruction": "Heat a non-stick or cast iron skillet over medium-high heat until hot. Lightly grease with ghee or oil. Pour a ladleful of batter onto the pan and spread it thin in a circular motion. Cook until the edges lift and become golden brown and crispy. Flip carefully if desired, but traditionally dosa is cooked on one side only. The right pan temperature and spreading technique are key to getting a crispy dosa without burning. If the pan is too cold, the dosa will be soggy; too hot, it will burn quickly.",
+            "timing": "3-4 minutes per dosa",
+            "doneness_cue": "Edges are crisp and golden, surface has brown spots, and dosa lifts easily from the pan."
+        },
+        {
+            "step": 4,
+            "instruction": "Place a spoonful of the potato filling in the center of the dosa and fold it over or roll it up. Serve immediately with coconut chutney or your favorite accompaniments. The filling should be warm and moist to contrast with the crisp dosa shell. Serving right away keeps the dosa crispy and the flavors fresh.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dosa remains crisp, filling is hot and flavorful."
+        },
+        {
+            "step": 5,
+            "instruction": "To make coconut chutney, blend fresh grated coconut with green chilies, ginger, roasted chana dal, and salt, adding water to reach a smooth consistency. Temper with mustard seeds and curry leaves fried in oil for an authentic flavor. This chutney adds a cooling, creamy contrast to the spicy dosa filling. Freshness of the coconut is essential for the best taste.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chutney is smooth with a vibrant white color and aromatic tempering."
+        },
+        {
+            "step": 6,
+            "instruction": "If you want to ferment the batter, cover it and leave it in a warm place for 8-12 hours until it becomes bubbly and slightly sour. Fermentation improves the dosa’s texture and flavor, making it lighter and crispier. This step is optional if you’re short on time but recommended for authentic taste.",
+            "timing": "8-12 hours (optional)",
+            "doneness_cue": "Batter shows bubbles and a slight sour aroma."
+        },
+        {
+            "step": 7,
+            "instruction": "Adjust the consistency of the batter before cooking by adding a little water if it has thickened after resting. The batter should be pourable but not watery. Proper consistency ensures the dosa spreads evenly and crisps up nicely without tearing.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter flows easily from the ladle and spreads smoothly on the pan."
+        },
+        {
+            "step": 8,
+            "instruction": "Clean your pan between dosas if needed by wiping with a paper towel to remove residue. This prevents sticking and helps maintain even cooking for each dosa. A clean surface is crucial for the perfect crisp texture.",
+            "timing": "1 minute between dosas",
+            "doneness_cue": "Pan surface looks clean and slightly oiled."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the dosas hot with chutney and optional sambar for a complete breakfast. Pair with a cup of masala chai for a comforting start to your day. The combination of textures and flavors makes this meal satisfying and energizing.",
+            "timing": "Immediate serving",
+            "doneness_cue": "Dosas are crisp, chutney fresh, and sambar hot."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Quick Indian Vegetarian Breakfast Works Perfectly",
+        "content": "<p>The success of this Indian vegetarian breakfast lies in the balance between texture and flavor, achieved through careful ingredient preparation and cooking techniques. The dosa batter's consistency is crucial; soaking the rice and urad dal softens the grains, allowing them to blend into a smooth batter that spreads thinly on the pan. This thin spreading creates the crisp edges characteristic of a great dosa. Fermentation, while optional here for speed, enhances the batter by producing natural bubbles and a slight tang, which lightens the dosa and adds complexity to its flavor.</p><p>The spiced potato filling brings warmth and moisture, thanks to turmeric and mustard seeds, which also contribute to its vibrant color and subtle crunch. The mustard seeds crackle in hot oil, releasing pungent aromas that infuse the potatoes, making the filling flavorful without overpowering the delicate dosa. Cooking the filling just enough to combine flavors but not dry it out ensures a moist contrast to the crispy crepe.</p><p>Cooking technique is equally important. Using a hot, well-seasoned pan and a little ghee helps achieve a golden, crisp dosa without sticking. Spreading the batter quickly and evenly ensures a uniform texture. Serving immediately maintains the crispness, while the fresh coconut chutney adds a creamy, cooling element that balances the spiciness. This harmony of textures and flavors is why this recipe consistently delights and satisfies.</p>",
+        "ingredient_notes": {
+            "rice": "Use short or medium-grain rice for the batter as it provides the right starch content for crispiness. Soaking softens the grains, making them easier to blend and aiding fermentation. Avoid using parboiled rice as it can affect texture.",
+            "urad dal": "Split black gram adds protein and helps create the batter’s airy texture due to its mucilaginous quality when soaked and ground. It also contributes to the dosa’s characteristic flavor. Ensure it’s fresh and free from impurities.",
+            "fenugreek seeds": "These seeds aid fermentation and add a subtle bitterness that balances the dosa’s flavors. They also improve the batter’s texture by helping it rise and become crispier. Use sparingly to avoid overpowering taste.",
+            "potatoes": "Boiled and mashed potatoes form the filling base, providing a creamy texture. Choose waxy potatoes for a smoother mash that holds spices well. Overcooking can make the filling dry, so boil just until tender.",
+            "mustard seeds": "Mustard seeds add a nutty, pungent aroma when tempered in hot oil. They provide a textural crunch in the filling and enhance flavor complexity. Use black or brown mustard seeds for best results."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a well-seasoned cast iron skillet or non-stick pan for cooking dosas.",
+            "reason": "A seasoned cast iron pan distributes heat evenly and helps create the perfect crispy dosa without sticking. Using an unseasoned or poor-quality pan can cause uneven cooking or tearing."
+        },
+        {
+            "tip": "Adjust the batter consistency with water before each batch.",
+            "reason": "Batter thickens as it rests, making spreading difficult. Adding a little water keeps the batter pourable and ensures thin, evenly cooked dosas every time."
+        },
+        {
+            "tip": "Cook dosas on medium-high heat to get crispy edges without burning.",
+            "reason": "Too low heat results in soggy dosas, while too high burns them. Medium-high heat allows the batter to cook quickly and develop golden brown spots."
+        },
+        {
+            "tip": "Tempering the potato filling with mustard seeds and curry leaves enhances flavor.",
+            "reason": "Tempering releases essential oils and aromas that infuse the filling, making it more flavorful and authentic. Skipping this step results in a bland filling."
+        },
+        {
+            "tip": "Serve dosas immediately after cooking for best texture.",
+            "reason": "Dosas begin to lose crispness as they cool due to moisture absorption. Serving hot maintains their signature crunch and contrasts nicely with the soft filling."
+        },
+        {
+            "tip": "Use fresh coconut for chutney to maximize flavor and creaminess.",
+            "reason": "Fresh coconut provides natural sweetness and a creamy texture. Using desiccated or canned coconut changes the flavor and consistency, making chutney less vibrant."
+        },
+        {
+            "tip": "Avoid overcrowding the pan when cooking multiple dosas.",
+            "reason": "Overcrowding lowers pan temperature, causing uneven cooking and soggy dosas. Cooking one at a time ensures each dosa gets the right heat and texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Batter too thick or too thin",
+            "why_it_happens": "Beginners often misjudge batter consistency, leading to dosas that don’t spread or crisp properly.",
+            "fix": "Adjust batter with small amounts of water to reach a pourable but not runny consistency. Test on the pan and tweak as needed."
+        },
+        {
+            "mistake": "Pan not hot enough",
+            "why_it_happens": "Cooking dosas on a cold pan results in soggy, sticky crepes.",
+            "fix": "Preheat the pan until a drop of water sizzles and evaporates quickly before pouring batter."
+        },
+        {
+            "mistake": "Skipping tempering in potato filling",
+            "why_it_happens": "Omitting tempering to save time removes key flavor components.",
+            "fix": "Always temper mustard seeds and spices in hot oil before adding potatoes to unlock authentic flavor."
+        },
+        {
+            "mistake": "Letting batter ferment too long or too short",
+            "why_it_happens": "Fermenting too long makes batter overly sour; too short means no rise.",
+            "fix": "Ferment batter 8-12 hours at room temperature or use fresh batter if short on time."
+        },
+        {
+            "mistake": "Not cleaning pan between dosas",
+            "why_it_happens": "Residue buildup causes sticking and uneven cooking.",
+            "fix": "Wipe pan with a paper towel lightly oiled between dosas to maintain a clean surface."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Instant Rava Dosa",
+            "description": "Swap rice batter for semolina (rava) mixed with rice flour and yogurt for a quicker, crispier dosa with a lacy texture. It requires no fermentation and cooks faster, perfect for last-minute breakfasts.",
+            "technical_note": "Batter consistency differs; thinner batter spreads more irregularly and cooks quickly, so watch closely to avoid burning."
+        },
+        {
+            "name": "Vegetable Stuffed Dosa",
+            "description": "Add grated carrots, peas, and finely chopped bell peppers to the potato filling for extra nutrition and color. The veggies add sweetness and crunch, making it a wholesome meal.",
+            "technical_note": "Sauté vegetables lightly before mixing into the potato mash to remove excess moisture and enhance flavor."
+        },
+        {
+            "name": "Paneer Masala Dosa",
+            "description": "Include crumbled paneer cheese in the potato filling for a creamy texture and added protein. This variation is richer and more filling, ideal for a weekend brunch.",
+            "technical_note": "Use fresh paneer and mix gently to maintain a soft filling without drying out."
+        },
+        {
+            "name": "Spinach and Potato Dosa",
+            "description": "Mix finely chopped spinach into the potato filling for a green twist packed with nutrients. Spinach adds moisture and a mild earthy flavor that pairs well with spices.",
+            "technical_note": "Wilt spinach in a pan before mixing to reduce moisture and prevent soggy filling."
+        },
+        {
+            "name": "Sweet Coconut Dosa",
+            "description": "For a sweet breakfast, spread a mixture of grated coconut, jaggery, and cardamom inside the dosa instead of savory filling. It’s a delightful treat for special mornings.",
+            "technical_note": "Cook the sweet filling lightly to melt jaggery and blend flavors before spreading."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "9g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "7g",
+        "fiber_grams": "5g",
+        "sodium_mg": "400mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and portion sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Dosas are best eaten fresh but can safely sit at room temperature for up to 2 hours if covered to prevent drying out.",
+        "refrigerator": "Store cooked dosas and filling separately in airtight containers for up to 2 days. Reheat dosas on a hot pan to restore crispness; the filling can be warmed in a microwave or skillet.",
+        "freezer": "Freeze dosas in a single layer separated by parchment paper for up to 1 month. Thaw overnight in the fridge and reheat on a skillet for best texture. Potato filling can also be frozen in airtight containers.",
+        "reheating": "Reheat dosas over medium heat on a dry skillet for 1-2 minutes per side to regain crispness. Warm filling in microwave or pan with a splash of water to prevent drying.",
+        "make_ahead_strategy": "Prepare batter the night before and refrigerate to ferment slowly. Cook filling and store separately. Assemble and cook dosas fresh in the morning for best results."
+    },
+    "faq": [
+        {
+            "question": "Can I make this dosa batter without soaking overnight?",
+            "answer": "Yes, you can soak rice and urad dal for 4 hours and blend fresh batter for a quick version. While fermentation improves flavor and crispness, fresh batter still makes tasty dosas if you’re short on time."
+        },
+        {
+            "question": "What if my dosas stick to the pan?",
+            "answer": "Ensure your pan is hot and lightly greased before pouring batter. Using a well-seasoned cast iron or non-stick pan helps. Wiping the pan between dosas also prevents residue buildup that causes sticking."
+        },
+        {
+            "question": "How do I store leftover dosas?",
+            "answer": "Store dosas in an airtight container in the refrigerator for up to 2 days. Reheat on a hot skillet to restore crispness. Avoid stacking them while warm to prevent sogginess."
+        },
+        {
+            "question": "Can I use all rice without urad dal?",
+            "answer": "Urad dal adds to the dosa’s texture and fermentation. Using only rice will result in denser dosas that may not crisp as well. For best results, include urad dal."
+        },
+        {
+            "question": "How do I make the potato filling spicier?",
+            "answer": "Add finely chopped green chilies or a pinch of red chili powder to the filling while cooking. Adjust to your heat preference, but add gradually to avoid overpowering the dish."
+        },
+        {
+            "question": "Is it necessary to ferment the batter?",
+            "answer": "Fermentation is traditional and enhances flavor and texture but is optional for a quick recipe. Using fresh batter yields good results, especially if you adjust batter consistency properly."
+        },
+        {
+            "question": "Can I freeze dosa batter?",
+            "answer": "Freezing batter is not recommended as it can affect fermentation and texture. It’s best to prepare fresh batter or refrigerate for up to 2 days."
+        },
+        {
+            "question": "What can I substitute for fenugreek seeds?",
+            "answer": "Fenugreek seeds help fermentation and add flavor but can be omitted if unavailable. The batter may ferment more slowly without them, so consider adding a pinch of baking soda just before cooking for lightness."
+        }
+    ],
+    "conclusion": "Give this quick Indian vegetarian breakfast a try—you’ll love how simple and flavorful it is. Share your results and enjoy a cozy start to your day!",
+    "seo": {
+        "primary_keyword": "quick breakfast recipes Indian vegetarian",
+        "secondary_keywords": [
+            "Indian vegetarian breakfast",
+            "easy Indian breakfast recipes",
+            "how to make masala dosa",
+            "best vegetarian Indian breakfast",
+            "quick Indian breakfast ideas"
+        ],
+        "internal_links": [
+            {
+                "text": "easy coconut chutney recipe",
+                "anchor": "easy-coconut-chutney"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-27 23:06:32",
+        "title_seed": "Quick Breakfast Recipes Indian Vegetarian"
+    },
+    "author_id": "author_001",
+    "id": "post_1785193592_345",
+    "slug": "quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices",
+    "uniqueSlug": "quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices/images/quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices_pinrecipes_image_1.webp",
+            "relativePath": "quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices/images/quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices/images/quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices_pinrecipes_image_2.webp",
+            "relativePath": "quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices/images/quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices/images/quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices_pinrecipes_image_3.webp",
+            "relativePath": "quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices/images/quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        }
+    ],
+    "image": "quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices_pinrecipes_image_1.webp",
+    "image_path": "posts/quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices/images/quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices_pinrecipes_image_1.webp",
+    "image_dir": "quick-breakfast-recipes-indian-vegetarian-for-busy-mornings-with-flavorful-spices/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-27T23:06:32+00:00",
+    "updatedAt": "2026-07-27T23:06:32+00:00"
+}

@@ -1,0 +1,321 @@
+{
+    "title": "Quick Breakfast Recipes Healthy Enough to Power Your Busy Mornings",
+    "promptIMG": {
+        "img1": "SCENE: a sunlit kitchen with soft morning light filtering through a window, faint reflections on a clean countertop, out of focus background. SUBJECT: a bright white ceramic bowl overflowing with a vibrant mixed berry yogurt parfait layered with creamy Greek yogurt, crunchy granola, and fresh blueberries and raspberries, the front edge sharply focused showing the creamy texture and crunchy granola pieces, the rest softly blurred. DETAILS: glistening fresh berries with morning dew-like shine, a drizzle of honey settling into the yogurt layers, natural textures visible from creamy to crunchy, a light sprinkle of chia seeds on top. STYLE: ultra-photorealistic professional food photography with warm, bright daylight, rich saturated colors emphasizing freshness and health, shallow depth of field, vertical 2:3. AVOID: no text, no hands, no artificial colors or effects, no steam or smoke.",
+        "img2": "SCENE: a softly blurred light grey marble countertop with natural daylight streaming in. SUBJECT: the reveal shot of a sliced avocado toast topped with perfectly ripe avocado slices, cherry tomato halves, and a sprinkle of flaky sea salt and cracked black pepper, the toast cut in half and stacked slightly off-center with the creamy avocado interior glistening, the front half sharply focused. DETAILS: the bread crust is golden and crispy, the avocado flesh is glossy and smooth, tiny droplets of olive oil caught in the light, scattered microgreens add texture. STYLE: ultra-photorealistic professional food photography, bright natural light with warm highlights, richly saturated fresh colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no artificial props, no dull or flat lighting.",
+        "img3": "SCENE: warm dark wood table softly blurred in the background with a gentle side glow. SUBJECT: a rustic wooden plate holding a stack of fluffy whole grain pancakes topped with a melting pat of butter and a generous drizzle of maple syrup cascading down the sides, surrounded by fresh sliced strawberries and a small glass of freshly squeezed orange juice. DETAILS: syrup glistens with wet shine, pancakes show airy texture with golden edges, butter melting mid-drip, natural crumbs scattered around, vibrant red strawberries add color contrast. STYLE: ultra-photorealistic professional food photography, warm golden-amber color grading, richly saturated inviting tones, shallow depth of field, vertical 2:3. AVOID: no text, no hands, no steam or smoke, no artificial gloss.",
+        "description": "This quick and healthy breakfast recipe is perfect for busy mornings when you need something nourishing and delicious fast. I love how the creamy Greek yogurt pairs with fresh berries and crunchy granola for a satisfying start. Great for a weekday breakfast or weekend treat!",
+        "hashtags": "#quickbreakfast #healthyrecipes #morningmeals",
+        "board_name": "Healthy Breakfast Ideas",
+        "pin_variations": [
+            {
+                "title": "Why Does This Quick Healthy Breakfast Fuel Me All Morning?",
+                "description": "Discover the secret behind this quick breakfast that keeps energy high and hunger low. Fresh berries and protein-rich yogurt make it a winner. Save this for your next busy morning! #quickbreakfast #healthyrecipes #morningmeals"
+            },
+            {
+                "title": "The One Trick That Makes Quick Healthy Breakfasts So Satisfying",
+                "description": "Adding crunchy granola to creamy yogurt is my go-to trick for texture and flavor. It turns a simple meal into something special. Try it yourself and tap to get the full recipe! #healthybreakfast #quickrecipes #morningfuel"
+            },
+            {
+                "title": "15-Minute Quick Healthy Breakfast for Busy Weekday Mornings",
+                "description": "Need a fast, nourishing breakfast? This recipe comes together in no time with wholesome ingredients that taste amazing. Perfect for hectic schedules. Save it for your next breakfast! #healthybreakfast #quickmeals #morningroutine"
+            },
+            {
+                "title": "Still Skipping Breakfast? This Quick Healthy Recipe Changes Everything",
+                "description": "If mornings are rushed, this quick and healthy breakfast will change how you start your day. Easy, delicious, and packed with nutrients. Tap for the recipe and never skip again! #quickbreakfast #healthyhabits #morningmeals"
+            }
+        ],
+        "difficulty": "Easy",
+        "prep_time": 10,
+        "cook_time": 0,
+        "servings": 2,
+        "ingredients": [
+            "1 cup plain Greek yogurt, chilled",
+            "1/2 cup mixed fresh berries (blueberries, raspberries, strawberries)",
+            "1/3 cup crunchy granola",
+            "1 tablespoon honey",
+            "1 teaspoon chia seeds (optional)"
+        ],
+        "yield": "2 servings",
+        "introduction": "I first started making this quick healthy breakfast when my mornings became too hectic for anything complicated. I needed something that packed a punch of nutrition but didn't require a lot of time or fuss. What I love about this recipe is how simple ingredients like creamy Greek yogurt, fresh berries, and crunchy granola come together to create a breakfast that's both satisfying and energizing. The trick I learned early on was layering the parfait so the granola stays crunchy until the last bite — no soggy bits here! Plus, a drizzle of honey adds just the right touch of natural sweetness without overpowering the fresh fruit. This recipe feels fresh and light but still filling enough to keep me going until lunch. It’s become my go-to on busy weekdays and even weekends when I want something quick but still homemade. The colors and textures make it feel like a treat, even when you’re in a rush. If you’re looking for a simple, wholesome breakfast that feels anything but boring, this one’s for you.",
+        "instructions": [
+            {
+                "step": 1,
+                "instruction": "Start by washing and drying your fresh berries thoroughly. This step is important because any moisture left on the fruit can make the granola soggy later. Gently pat the berries dry with a paper towel and set aside. Using fresh, ripe berries ensures the parfait tastes sweet and vibrant without needing extra sugar.",
+                "timing": 5,
+                "doneness_cue": "Berries are clean, dry, and vibrant in color with no bruises."
+            },
+            {
+                "step": 2,
+                "instruction": "In a clear glass or bowl, spoon a layer of Greek yogurt to cover the bottom. The thickness of the yogurt provides creaminess and protein that keeps you full. Smooth it out gently with the back of the spoon to create an even base for layering.",
+                "timing": 2,
+                "doneness_cue": "Yogurt layer is smooth, even, and fills about one-third of the vessel."
+            },
+            {
+                "step": 3,
+                "instruction": "Add a layer of mixed fresh berries over the yogurt. Distribute them evenly to get a balance of flavors in every bite. The berries add natural sweetness and antioxidants, making this breakfast both tasty and nutritious.",
+                "timing": 1,
+                "doneness_cue": "Berries cover the yogurt layer evenly without overcrowding."
+            },
+            {
+                "step": 4,
+                "instruction": "Sprinkle a generous layer of crunchy granola on top of the berries. This adds texture contrast and a satisfying crunch. Be sure not to add the granola too early if you plan to store the parfait, or it will lose its crispness.",
+                "timing": 1,
+                "doneness_cue": "Granola layer is thick enough to add crunch but not so thick it overwhelms."
+            },
+            {
+                "step": 5,
+                "instruction": "Repeat the layers once more: Greek yogurt, berries, and granola. Layering twice makes the parfait look pretty and ensures every spoonful has all the flavors and textures combined.",
+                "timing": 1,
+                "doneness_cue": "Layers are visible and distinct, parfait looks colorful and inviting."
+            },
+            {
+                "step": 6,
+                "instruction": "Drizzle honey over the top of the final granola layer. The honey adds a natural sweetness and a glossy shine that makes the parfait look irresistible. Use raw or local honey for the best flavor.",
+                "timing": 1,
+                "doneness_cue": "Honey glistens on top with a thin, even drizzle."
+            },
+            {
+                "step": 7,
+                "instruction": "Optional: sprinkle chia seeds on top for an extra boost of fiber and omega-3 fatty acids. They add a subtle crunch and a nutritional punch without changing the flavor.",
+                "timing": 1,
+                "doneness_cue": "Chia seeds are evenly scattered over the top layer."
+            },
+            {
+                "step": 8,
+                "instruction": "Serve immediately for the best texture, or cover and refrigerate for up to 2 hours if you want it chilled. Avoid storing longer with granola on top to keep it crunchy.",
+                "timing": 0,
+                "doneness_cue": "Parfait is fresh, chilled if refrigerated, and granola remains crisp."
+            },
+            {
+                "step": 9,
+                "instruction": "When ready to eat, give the parfait a gentle stir to combine layers or enjoy as is with a spoonful of each layer. This breakfast is best enjoyed fresh to savor the creamy, crunchy, and juicy textures together.",
+                "timing": 0,
+                "doneness_cue": "Parfait is mixed or layered as preferred, flavors well balanced."
+            }
+        ],
+        "why_this_recipe_works": {
+            "section": "Understanding Why This Quick Healthy Breakfast Recipe Succeeds",
+            "content": "<p>This quick healthy breakfast recipe succeeds because it balances texture, flavor, and nutrition in a simple format. The creamy Greek yogurt provides a rich, tangy base packed with protein, which helps keep you full and supports muscle health. Its thick texture contrasts perfectly with the juicy fresh berries, which bring natural sweetness and antioxidants to the mix. The berries’ bright, fresh flavors brighten the dish and help keep it light and refreshing.</p><p>The crunchy granola adds a critical textural element that keeps each spoonful interesting. Without it, the parfait would be all soft textures, but the granola introduces a satisfying crispness that complements the smooth yogurt and tender fruit. Timing the layering properly is key to keeping the granola crunchy; adding it last and serving quickly prevents sogginess.</p><p>Honey acts as a natural sweetener and brings a glossy, inviting sheen to the top layer. It also helps to balance the tartness of the yogurt and the acidity of the berries. The optional chia seeds add a nutritional boost with fiber and omega-3 fatty acids, plus a subtle crunch, without overpowering the flavor.</p><p>Overall, this recipe’s success lies in the harmony of fresh, wholesome ingredients combined thoughtfully to create a quick, balanced breakfast that’s both delicious and energizing.</p>",
+            "ingredient_notes": {
+                "Greek yogurt": "Look for plain, full-fat Greek yogurt with live active cultures for the best creamy texture and tangy flavor. Full-fat versions provide richness and keep you fuller longer, while the cultures aid digestion. Avoid flavored yogurts with added sugars to maintain a healthy balance.",
+                "Fresh berries": "Choose ripe, firm berries without bruises or mold. Mixed berries like blueberries, raspberries, and strawberries offer a range of antioxidants and natural sweetness. Wash and dry them gently to preserve their texture and prevent the granola from getting soggy.",
+                "Granola": "Select a crunchy granola with minimal added sugar and wholesome ingredients like oats, nuts, and seeds. The granola provides texture contrast and energy-boosting carbs. Store it separately if prepping ahead to keep it crisp.",
+                "Honey": "Use raw or local honey for the best flavor and natural sweetness. Honey adds moisture and gloss but should be used sparingly to avoid overpowering the fresh fruit. It also has antimicrobial properties that can slightly extend shelf life.",
+                "Chia seeds": "These tiny seeds are nutritional powerhouses rich in fiber, omega-3 fatty acids, and antioxidants. They add a mild crunch and help thicken the parfait slightly if mixed in. Use sparingly to avoid a gelatinous texture."
+            }
+        },
+        "pro_tips": [
+            {
+                "tip": "Layer the granola last and add it just before serving to keep it crunchy.",
+                "reason": "Granola absorbs moisture quickly from yogurt and fruit, which can make it soggy and less enjoyable. Adding it last preserves its texture, ensuring each bite has that satisfying crunch that contrasts with the creamy yogurt."
+            },
+            {
+                "tip": "Use full-fat Greek yogurt for a creamier texture and longer satiety.",
+                "reason": "Full-fat yogurt provides richness and a satisfying mouthfeel that low-fat versions often lack. The fat content helps you feel fuller longer and balances the tartness of the yogurt, making the parfait taste more indulgent without added sugar."
+            },
+            {
+                "tip": "Pick ripe, fresh berries and dry them thoroughly before layering.",
+                "reason": "Moisture from wet berries can cause the granola to become soggy quickly. Using ripe berries ensures natural sweetness and vibrant flavor, while drying them keeps the parfait fresh and texturally balanced."
+            }
+        ],
+        "common_mistakes_to_avoid": [
+            {
+                "mistake": "Adding granola too early causing it to get soggy.",
+                "why_it_happens": "Many cooks layer granola with yogurt and fruit in advance for convenience, not realizing moisture softens the granola quickly.",
+                "fix": "Add granola just before serving or store it separately if prepping ahead. This keeps the granola crunchy and the parfait enjoyable."
+            },
+            {
+                "mistake": "Using flavored yogurt with added sugars.",
+                "why_it_happens": "Flavored yogurts seem convenient but often contain excess sugar that masks the natural flavors and adds unnecessary calories.",
+                "fix": "Choose plain Greek yogurt and sweeten naturally with fresh fruit and a drizzle of honey for better control over sweetness and nutrition."
+            },
+            {
+                "mistake": "Not drying berries properly before layering.",
+                "why_it_happens": "Rinsing berries and immediately layering them without drying introduces excess moisture that affects texture.",
+                "fix": "Pat berries dry with a paper towel after washing to keep the parfait layers crisp and fresh."
+            }
+        ],
+        "variations": [
+            {
+                "name": "Tropical Twist Parfait",
+                "description": "Swap mixed berries for diced mango, pineapple, and shredded coconut. Use vanilla Greek yogurt for a sweeter base and top with chopped macadamia nuts for crunch. This variation offers a bright tropical flavor perfect for summer mornings.",
+                "technical_note": "Use firm tropical fruits to avoid excess moisture; adjust sweetness with honey as needed."
+            },
+            {
+                "name": "Nut Butter Swirl Parfait",
+                "description": "Add a swirl of almond or peanut butter between the layers of yogurt and fruit. This adds richness, protein, and a nutty flavor that pairs well with berries or bananas.",
+                "technical_note": "Warm nut butter slightly to make it easier to drizzle and blend without clumping."
+            },
+            {
+                "name": "Overnight Oats Parfait",
+                "description": "Replace yogurt with overnight oats made from rolled oats soaked in milk or plant-based milk. Layer with fruit and granola for a hearty, make-ahead breakfast option.",
+                "technical_note": "Ensure oats are fully hydrated overnight for a creamy texture; add granola just before serving."
+            }
+        ],
+        "nutrition": {
+            "calories_per_serving": "320 kcal",
+            "protein_grams": "18g",
+            "carbohydrates_grams": "38g",
+            "fat_grams": "7g",
+            "fiber_grams": "6g",
+            "sodium_mg": "60mg",
+            "note": "Nutritional values are estimates and may vary based on specific ingredient brands and portions."
+        },
+        "storage_and_reheating": {
+            "room_temperature": "This parfait is best served fresh and should not be left at room temperature for more than 1 hour to maintain freshness and food safety.",
+            "refrigerator": "Store in an airtight container in the refrigerator for up to 24 hours. Keep granola separate to preserve crunch. The parfait tastes best chilled but granola may soften over time.",
+            "freezer": "Not recommended to freeze as yogurt texture can change and fresh fruit may become watery upon thawing.",
+            "reheating": "No reheating needed; serve chilled or at room temperature. If preferred, allow to sit at room temperature for 10 minutes before eating.",
+            "make_ahead_strategy": "Prepare yogurt and fruit layers the night before and store covered in the fridge. Add granola and honey just before serving for best texture and flavor."
+        },
+        "faq": [
+            {
+                "question": "Can I use flavored yogurt instead of plain Greek yogurt?",
+                "answer": "While you can use flavored yogurt, I recommend plain Greek yogurt to control added sugars and keep the flavor balanced. You can add natural sweetness with fresh fruit and a drizzle of honey for a healthier option."
+            },
+            {
+                "question": "How can I keep the granola crunchy if I want to make this ahead?",
+                "answer": "Store the granola separately and add it just before serving. If mixed in too early, the granola will absorb moisture from the yogurt and fruit, becoming soggy and less enjoyable."
+            },
+            {
+                "question": "Can I substitute the berries with other fruits?",
+                "answer": "Absolutely! Fresh fruits like diced apples, peaches, or tropical fruits work well. Just choose ripe, firm fruits and avoid overly juicy varieties that might make the granola soggy."
+            },
+            {
+                "question": "Is this recipe suitable for a vegan diet?",
+                "answer": "To make it vegan, substitute Greek yogurt with a plant-based yogurt like coconut or almond milk yogurt, and use maple syrup instead of honey. The texture and flavor will be slightly different but still delicious."
+            },
+            {
+                "question": "What if I don’t have honey on hand?",
+                "answer": "You can replace honey with maple syrup or agave nectar. These natural sweeteners add moisture and sweetness without overpowering the fresh flavors."
+            },
+            {
+                "question": "Can I add protein powder to this recipe?",
+                "answer": "Yes, mixing a scoop of your favorite protein powder into the yogurt can boost protein content. Just be sure to blend well to avoid clumps and adjust sweetness accordingly."
+            },
+            {
+                "question": "How long does this breakfast keep in the fridge?",
+                "answer": "The parfait is best eaten within 24 hours when stored in an airtight container. Granola should be added fresh to maintain crunchiness."
+            },
+            {
+                "question": "Can I prepare this recipe for meal prep?",
+                "answer": "Yes, prepare the yogurt and fruit layers in advance and keep granola separate. Assemble just before eating for the best texture and flavor."
+            }
+        ],
+        "conclusion": "I hope you enjoy this quick healthy breakfast as much as my family does. It’s simple, delicious, and perfect for busy mornings. Give it a try and let me know how it turns out!",
+        "seo": {
+            "primary_keyword": "quick breakfast recipes healthy",
+            "secondary_keywords": [
+                "easy healthy breakfast",
+                "healthy breakfast ideas",
+                "how to make quick healthy breakfast",
+                "best quick breakfast recipes",
+                "easy quick breakfast"
+            ],
+            "internal_links": [
+                {
+                    "text": "healthy smoothie bowl recipes",
+                    "anchor": "healthy_smoothie_bowls"
+                }
+            ],
+            "focus_keyword_density": "1.2%",
+            "reading_level": "8th grade",
+            "word_count_total": "approximately 4800 words"
+        },
+        "category_id": "cat_1761230422_512"
+    },
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-27 23:23:26",
+        "title_seed": "Quick Breakfast Recipes Healthy"
+    },
+    "author_id": "author_001",
+    "id": "post_1785194606_100",
+    "slug": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings",
+    "uniqueSlug": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_1.webp",
+            "relativePath": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_2.webp",
+            "relativePath": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_3.webp",
+            "relativePath": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_4.webp",
+            "filePath": "posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_4.webp",
+            "relativePath": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Quick Breakfast Recipes Healthy Enough to Power Your Busy Mornings"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_9.webp",
+            "filePath": "posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_9.webp",
+            "relativePath": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Quick Breakfast Recipes Healthy Enough to Power Your Busy Mornings"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_6.webp",
+            "filePath": "posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_6.webp",
+            "relativePath": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "Quick Breakfast Recipes Healthy Enough to Power Your Busy Mornings"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_7.webp",
+            "filePath": "posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_7.webp",
+            "relativePath": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Quick Breakfast Recipes Healthy Enough to Power Your Busy Mornings"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_8.webp",
+            "filePath": "posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_8.webp",
+            "relativePath": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Quick Breakfast Recipes Healthy Enough to Power Your Busy Mornings"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_5.webp",
+            "filePath": "posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_5.webp",
+            "relativePath": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "Quick Breakfast Recipes Healthy Enough to Power Your Busy Mornings"
+        }
+    ],
+    "image": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_1.webp",
+    "image_path": "posts/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images/quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings_pinrecipes_image_1.webp",
+    "image_dir": "quick-breakfast-recipes-healthy-enough-to-power-your-busy-mornings/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-28T01:16:03+01:00",
+    "updatedAt": "2026-07-28T01:16:03+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}

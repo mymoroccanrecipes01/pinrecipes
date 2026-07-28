@@ -1,0 +1,356 @@
+{
+    "title": "Quick Breakfast Recipes for Kids That Are Easy, Fun, and Nutritious",
+    "promptIMG": {
+        "img1": "SCENE: a cozy kitchen softly blurred behind with warm morning light filtering through a window, faint reflections on a wooden countertop. SUBJECT: a colorful plate piled high with fluffy mini pancakes topped with fresh strawberries, blueberries, and a drizzle of maple syrup, the front pancake sharply in focus showing its golden-brown texture and slight crisp edges, the rest fading softly into bokeh. DETAILS: glossy syrup dripping down the sides, fresh fruit glistening with morning dew, a light dusting of powdered sugar settling naturally on top; crumbs scattered gently on the plate edge. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden hues, rich saturated colors that pop—hyper-vivid viral recipe pin style; shallow macro depth of field; vertical 2:3. AVOID: no text, logos, hands, or people; no steam or smoke; no over-smoothing or plastic textures.",
+        "img2": "SCENE: soft natural light from a bright window illuminating a light wood surface with a subtle warm grey backdrop. SUBJECT: a torn-open mini pancake revealing a moist, fluffy interior with steam faintly rising, a generous smear of melting butter and syrup pooling inside the crevices; the opened pancake fills 90% of the frame, razor-sharp at the center. DETAILS: golden caramelized edges with a glossy syrup sheen, crumbs scattered naturally below, fresh berries peeking at the frame edges. STYLE: ultra-photorealistic professional food photography, bright daylight with warm amber tones, rich saturated colors; shallow macro depth of field; vertical 2:3. AVOID: no hands, text, or artificial effects; no dull or washed-out colors.",
+        "img3": "SCENE: warm dark wood tones softly blurred behind with a single warm side glow casting gentle highlights. SUBJECT: several mini pancakes stacked neatly on a rustic ceramic plate, topped with a dollop of whipped cream, fresh sliced bananas, and a drizzle of honey; a small glass of milk and a bowl of mixed fruit sit beside the plate, all filling 95% of the frame. DETAILS: wet glossy shine on syrup and honey, natural textures of fruit and fluffy pancakes, a light dusting of powdered sugar drifting into the creases. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich saturated appetizing tones; shallow macro depth of field; vertical 2:3. AVOID: no text, hands, or logos; no dim shadows or CGI look."
+    },
+    "description": "If mornings with kids feel rushed, these quick breakfast recipes are a game changer! From fluffy mini pancakes to fun fruit combos, they're easy to whip up and packed with nutrition. Perfect for busy school days or weekend treats!",
+    "hashtags": "#quickbreakfast #kidfriendlymeals #easyrecipes",
+    "board_name": "Morning Meals",
+    "pin_variations": [
+        {
+            "title": "Why Do Kids Love These Quick Breakfast Recipes So Much?",
+            "description": "Discover the secret behind kid-approved breakfasts that come together in minutes 🍓🥞. These recipes are simple, tasty, and nutritious—perfect for busy mornings. Save this for your next breakfast rush! #quickbreakfast #kidmeals #easyrecipes"
+        },
+        {
+            "title": "The One Trick That Makes Quick Breakfast Recipes for Kids Foolproof",
+            "description": "Want breakfast to be stress-free and delicious? The trick is prepping ingredients ahead and using simple combos kids adore. These recipes make mornings smoother and tastier. Tap to get the full recipe! #breakfastideas #kidfriendly #easymeals"
+        },
+        {
+            "title": "15-Minute Quick Breakfast Recipes for Kids on Busy School Mornings",
+            "description": "Pressed for time? These quick breakfast ideas are ready in 15 minutes or less and keep kids happy and fueled. From pancakes to smoothies, they’re perfect for hectic mornings. Save this for dinner inspo! #quickbreakfast #schoolmorningmeals #easyrecipes"
+        },
+        {
+            "title": "Still Struggling with Breakfast? These Quick Recipes for Kids Fix That",
+            "description": "Tired of breakfast battles? These quick recipes are kid-friendly, nutritious, and so easy to make. They’ll have your little ones asking for more! Try them this week and see the difference. Tap for details! #kidbreakfast #quickmeals #familyfriendly"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "1 tablespoon sugar",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1 cup buttermilk",
+        "1 large egg",
+        "2 tablespoons melted butter",
+        "Fresh berries, sliced bananas, and maple syrup for serving"
+    ],
+    "yield": "Approximately 12 mini pancakes, 4 servings",
+    "introduction": "I've been making quick breakfasts for my kids for years, especially on those hectic school mornings when time is tight but everyone still needs a good meal to start the day. This recipe is my go-to because it’s fast, simple, and always a hit with my little ones. What sets it apart is using buttermilk and a touch of baking soda, which makes the pancakes incredibly fluffy and tender without a lot of fuss. Plus, I love adding fresh fruit toppings because it adds natural sweetness and a pop of color that kids find irresistible. I remember once rushing through a batch that turned out a bit dense, and that’s when I realized the importance of not over-mixing the batter and letting it rest a few minutes before cooking. The result is golden, soft pancakes with just the right crisp edges. They’re perfect for a quick weekday breakfast or a cozy weekend brunch. I think you’ll find this recipe easy to customize too—whether you want to sneak in some oats or swap fruit based on what’s in season. It’s a simple, comforting start to any morning that your kids will love as much as mine do.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt. This dry mix ensures the pancakes will rise properly and have a balanced flavor. It’s important to sift or whisk well to avoid lumps, which can create uneven texture in the batter. Mixing the dry ingredients thoroughly also helps distribute the leavening agents evenly, so every pancake cooks up fluffy and light. Avoid overdoing it here — just a good whisk until combined is enough.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are well combined with no clumps visible."
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, whisk the buttermilk, egg, and melted butter until smooth. The buttermilk adds a slight tang and reacts with the baking soda to create a tender crumb. Make sure the butter isn’t too hot or it will cook the egg prematurely. Combining wet ingredients separately ensures even mixing when added to the dry mix. If you skip this step and add everything at once, you risk overmixing and tough pancakes.",
+            "timing": 3,
+            "doneness_cue": "Wet ingredients are smooth, slightly frothy, and well combined."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the wet ingredients into the dry ingredients and gently fold together with a spatula until just combined. The batter should be lumpy but without dry flour patches. Overmixing develops gluten and makes pancakes dense and chewy, so stop as soon as the ingredients come together. Let the batter rest for 5 minutes to allow the baking powder and soda to activate fully and the gluten to relax.",
+            "timing": 5,
+            "doneness_cue": "Batter is lumpy and thick, with no visible dry flour, and has rested slightly."
+        },
+        {
+            "step": 4,
+            "instruction": "Heat a non-stick skillet or griddle over medium heat and lightly grease with butter or oil. Test the heat by sprinkling a few drops of water on the surface; they should sizzle and evaporate immediately. Cooking pancakes at the right temperature ensures a golden crust without burning or undercooking the inside. Avoid too high heat or the outside will burn before the center cooks through.",
+            "timing": 3,
+            "doneness_cue": "Skillet surface is hot enough to sizzle water droplets immediately."
+        },
+        {
+            "step": 5,
+            "instruction": "Scoop about 2 tablespoons of batter per mini pancake onto the skillet, spacing them apart. Smaller pancakes cook more evenly and are easier for kids to handle. Cook until bubbles form on the surface and edges look set, about 2-3 minutes. Don’t flip too early or the pancake won’t have a chance to develop a proper crust.",
+            "timing": 3,
+            "doneness_cue": "Bubbles appear on the surface and edges are slightly dry."
+        },
+        {
+            "step": 6,
+            "instruction": "Flip the pancakes gently with a spatula and cook the other side for another 1-2 minutes until golden brown. The second side cooks faster because the pan is hot and the batter is partially cooked. Watch for a rich golden color and avoid overcooking to keep them tender inside.",
+            "timing": 2,
+            "doneness_cue": "Second side is golden brown and pancakes spring back when pressed lightly."
+        },
+        {
+            "step": 7,
+            "instruction": "Transfer cooked pancakes to a warm plate and cover loosely with foil to keep warm while cooking the rest. This prevents them from drying out and keeps them soft. Avoid stacking too many pancakes directly as the steam can make them soggy.",
+            "timing": 1,
+            "doneness_cue": "Pancakes remain warm and soft without becoming soggy."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the pancakes topped with fresh berries, sliced bananas, and a drizzle of maple syrup or honey. Adding fresh fruit provides natural sweetness and vitamins, making the meal more balanced. You can also add a dollop of yogurt or nut butter for extra protein and creaminess.",
+            "timing": 2,
+            "doneness_cue": "Toppings look fresh and vibrant, syrup glistens on the pancakes."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up the cooking area and enjoy breakfast with your kids! These pancakes reheat well if you want to make extra and save for later. Just warm gently in a toaster or microwave to maintain softness. Leftovers can be stored in the fridge for 1-2 days.",
+            "timing": 2,
+            "doneness_cue": "Kitchen tidy and pancakes ready to serve or store."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why These Quick Breakfast Recipes for Kids Succeed",
+        "content": "<p>This recipe works because it balances simplicity with effective science to create fluffy, tender pancakes that kids love. The use of buttermilk and baking soda together creates a chemical reaction that produces carbon dioxide bubbles, which help the batter rise quickly and develop a light texture. Buttermilk's acidity also tenderizes the gluten, preventing toughness despite the quick mix.</p><p>Gentle mixing is key. Overmixing activates gluten too much, resulting in dense, chewy pancakes. Folding the wet and dry ingredients just until combined keeps the batter lumpy and airy, which translates to a soft crumb once cooked. Letting the batter rest allows the leavening agents to fully activate and the gluten to relax, improving texture and rise.</p><p>Cooking temperature is another critical factor. Medium heat ensures the pancakes brown evenly without burning or leaving the center raw. Too hot and the exterior will burn before the inside cooks; too low and the pancakes will be pale and dense. The small size of these mini pancakes helps them cook through quickly and evenly, perfect for kids’ small hands and appetites.</p><p>Finally, fresh fruit and natural sweeteners add flavor without overwhelming sugar, making the meal more balanced and appealing. This recipe is a great example of how understanding ingredient roles and cooking techniques leads to a quick, nutritious, and kid-approved breakfast.</p>",
+        "ingredient_notes": {
+            "buttermilk": "Buttermilk is slightly acidic, which reacts with baking soda to create bubbles that make pancakes fluffy. When buying, look for fresh buttermilk with a thick, creamy texture. It tenderizes gluten and adds a pleasant tang. If you don’t have buttermilk, you can make a substitute by adding 1 tablespoon lemon juice or vinegar to 1 cup milk and letting it sit for 5 minutes before using.",
+            "baking soda": "Baking soda is a leavening agent that requires acid to activate. It produces carbon dioxide bubbles that help the batter rise quickly. Using the right amount is important—too much can cause a metallic taste, too little results in dense pancakes. Always measure accurately and combine with acidic ingredients like buttermilk for best results.",
+            "all-purpose flour": "All-purpose flour provides structure through gluten formation. Choosing a good quality, unbleached flour helps achieve a tender crumb. Avoid overmixing flour with wet ingredients to prevent tough pancakes. For a lighter texture, you can substitute part of the flour with cake flour or add a small amount of cornstarch.",
+            "egg": "Eggs bind ingredients and add moisture and richness. They also help with leavening by trapping air when beaten. Using room temperature eggs ensures better emulsification with wet ingredients, resulting in a smoother batter and more consistent pancakes.",
+            "maple syrup": "Pure maple syrup adds natural sweetness and a rich, complex flavor that complements the pancakes and fruit. It also adds moisture and a glossy finish when drizzled on top. Avoid artificial syrups to keep the flavor authentic and wholesome."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Let the batter rest for 5-10 minutes before cooking.",
+            "reason": "Resting allows the baking powder and baking soda to fully activate and the gluten to relax, resulting in fluffier, more tender pancakes. Skipping this step can lead to tougher texture and less rise."
+        },
+        {
+            "tip": "Use a non-stick skillet or well-seasoned griddle for even cooking.",
+            "reason": "A non-stick surface prevents sticking and allows for easy flipping without breaking the pancakes. It also promotes even browning, which is key to achieving that perfect golden crust."
+        },
+        {
+            "tip": "Avoid overmixing the batter; fold ingredients gently until just combined.",
+            "reason": "Overmixing develops too much gluten, making pancakes dense and chewy. Gentle folding keeps the batter lumpy, preserving air pockets that expand during cooking for a light texture."
+        },
+        {
+            "tip": "Cook pancakes on medium heat to avoid burning or undercooking.",
+            "reason": "Medium heat allows the pancakes to develop a golden crust while cooking through evenly. Too high heat burns the outside before the inside cooks; too low heat results in pale, dense pancakes."
+        },
+        {
+            "tip": "Use small scoops for mini pancakes to ensure even cooking and kid-friendly portions.",
+            "reason": "Mini pancakes cook faster and more evenly, reducing the risk of raw centers. They’re also easier for kids to handle and less intimidating, encouraging them to enjoy breakfast."
+        },
+        {
+            "tip": "Add fresh fruit toppings right before serving for best texture and flavor.",
+            "reason": "Fresh fruit adds natural sweetness and vitamins but can become soggy if added too early. Adding them last keeps the fruit vibrant and the pancakes crisp."
+        },
+        {
+            "tip": "Keep cooked pancakes warm by covering loosely with foil.",
+            "reason": "Covering traps heat and moisture, keeping pancakes soft without steaming them soggy. Avoid stacking too tightly to prevent texture loss."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many cooks think a smooth batter means better pancakes, but overmixing develops gluten, causing tough, dense pancakes.",
+            "fix": "Mix just until the dry ingredients are moistened and lumps remain. Use a spatula to gently fold ingredients instead of stirring vigorously."
+        },
+        {
+            "mistake": "Cooking on too high heat",
+            "why_it_happens": "Rushing the cooking process or using high heat to speed things up burns the outside before the inside cooks.",
+            "fix": "Use medium heat and test with water droplets. Adjust temperature as needed to achieve golden brown pancakes that cook through."
+        },
+        {
+            "mistake": "Using cold eggs or butter",
+            "why_it_happens": "Cold ingredients don’t emulsify well, leading to uneven batter and inconsistent pancakes.",
+            "fix": "Bring eggs and melted butter to room temperature before mixing for smoother batter and better rise."
+        },
+        {
+            "mistake": "Not greasing the pan properly",
+            "why_it_happens": "Insufficient oil or butter causes pancakes to stick and break when flipping.",
+            "fix": "Lightly grease the pan before each batch with a paper towel dipped in oil or melted butter for even, non-stick cooking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Oatmeal Banana Pancakes",
+            "description": "Swap half the flour for rolled oats and add mashed ripe banana to the batter for added fiber and natural sweetness. These pancakes have a heartier texture and a delicious banana flavor that kids love.",
+            "technical_note": "Oats absorb more liquid, so you may need to add a splash more buttermilk to keep the batter loose."
+        },
+        {
+            "name": "Blueberry Lemon Mini Pancakes",
+            "description": "Fold fresh or frozen blueberries and a teaspoon of lemon zest into the batter for a bright, fruity twist. Blueberries add antioxidants and a burst of juicy flavor.",
+            "technical_note": "Add berries gently to avoid breaking them and turning the batter purple; cook on slightly lower heat to prevent burning the sugar in the fruit."
+        },
+        {
+            "name": "Whole Wheat Quick Pancakes",
+            "description": "Use whole wheat flour instead of all-purpose for a nuttier flavor and more fiber. These pancakes are still soft and kid-friendly but with a wholesome boost.",
+            "technical_note": "Whole wheat flour absorbs more liquid and can make batter thicker; increase buttermilk by 2 tablespoons if needed."
+        },
+        {
+            "name": "Peanut Butter Swirl Pancakes",
+            "description": "Swirl a tablespoon of peanut butter into the batter before cooking for a rich, nutty flavor and extra protein. Perfect for peanut lovers and a filling breakfast.",
+            "technical_note": "Peanut butter can thicken batter; warm it slightly to make swirling easier and ensure even distribution."
+        },
+        {
+            "name": "Dairy-Free Quick Pancakes",
+            "description": "Replace buttermilk with almond or oat milk mixed with lemon juice, and use coconut oil instead of butter to make the recipe dairy-free and vegan-friendly.",
+            "technical_note": "Dairy-free milk substitutes may change batter consistency; adjust liquid quantities slightly for best texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "8g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "10g",
+        "fiber_grams": "2g",
+        "sodium_mg": "350mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pancakes can safely sit at room temperature for up to 2 hours if covered loosely with foil or a clean towel to prevent drying out. Beyond that, they may lose freshness and texture.",
+        "refrigerator": "Store cooked pancakes in an airtight container in the fridge for up to 2 days. They may firm up slightly but reheat well. For best results, warm them gently in a toaster or microwave with a damp paper towel to restore softness.",
+        "freezer": "Freeze pancakes in a single layer on a baking sheet, then transfer to a freezer-safe bag for up to 2 months. To thaw, leave in the fridge overnight or reheat directly from frozen in a toaster or oven until warmed through.",
+        "reheating": "Reheat pancakes on a toaster, in a skillet over low heat, or microwave with a damp paper towel to maintain moisture. Avoid overheating or microwaving dry pancakes without moisture as they can become tough.",
+        "make_ahead_strategy": "Prepare the batter the night before and refrigerate for a quick morning cook. You can also make pancakes in advance and freeze them for easy reheating on busy days."
+    },
+    "faq": [
+        {
+            "question": "Can I make the batter ahead of time?",
+            "answer": "Yes, you can prepare the batter up to 12 hours ahead and store it in the refrigerator. The leavening agents will still work, but the batter may thicken slightly. Give it a gentle stir before cooking."
+        },
+        {
+            "question": "What if I don’t have buttermilk?",
+            "answer": "You can make a buttermilk substitute by adding 1 tablespoon of lemon juice or white vinegar to 1 cup of milk and letting it sit for 5 minutes. This acidity helps activate the baking soda for fluffy pancakes."
+        },
+        {
+            "question": "How do I keep pancakes warm while cooking the rest?",
+            "answer": "Place cooked pancakes on a plate and cover loosely with aluminum foil. You can also keep them in a warm oven set to 200°F (93°C) to maintain warmth without drying out."
+        },
+        {
+            "question": "Can I freeze leftover pancakes?",
+            "answer": "Absolutely! Freeze pancakes in a single layer on a baking sheet, then transfer to a sealed bag. They keep well for up to 2 months and reheat quickly in a toaster or oven."
+        },
+        {
+            "question": "Why are my pancakes dense instead of fluffy?",
+            "answer": "This usually happens from overmixing the batter or using expired leavening agents. Mix gently and check that your baking powder and baking soda are fresh for best results."
+        },
+        {
+            "question": "Can I use whole wheat flour instead of all-purpose?",
+            "answer": "Yes, but whole wheat flour absorbs more liquid and can make pancakes denser. You might want to add a bit more buttermilk or reduce flour slightly to keep them tender."
+        },
+        {
+            "question": "How do I make the pancakes dairy-free?",
+            "answer": "Replace buttermilk with a plant-based milk plus lemon juice mixture and use coconut oil or vegan butter instead of regular butter. This keeps the pancakes moist and flavorful."
+        },
+        {
+            "question": "What’s the best way to flip pancakes without breaking them?",
+            "answer": "Use a thin, wide spatula and wait until bubbles form on the surface and edges look set before flipping. Flip gently in one smooth motion to keep pancakes intact."
+        }
+    ],
+    "conclusion": "I hope you and your family enjoy these quick breakfast recipes as much as mine do. They’re simple, tasty, and perfect for busy mornings—give them a try and let me know how they turn out!",
+    "seo": {
+        "primary_keyword": "quick breakfast recipes for kids",
+        "secondary_keywords": [
+            "easy breakfast for kids",
+            "healthy quick breakfast",
+            "how to make pancakes for kids",
+            "best quick breakfast recipes",
+            "easy kid-friendly breakfast"
+        ],
+        "internal_links": [
+            {
+                "text": "simple pancake recipe",
+                "anchor": "simple-pancake-recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "5200"
+    },
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-27 23:09:32",
+        "title_seed": "Quick Breakfast Recipes For Kids"
+    },
+    "author_id": "author_001",
+    "id": "post_1785193772_526",
+    "slug": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious",
+    "uniqueSlug": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_1.webp",
+            "relativePath": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_2.webp",
+            "relativePath": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_3.webp",
+            "relativePath": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_4.webp",
+            "filePath": "posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_4.webp",
+            "relativePath": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Do Kids Love These Quick Breakfast Recipes So Much?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_9.webp",
+            "filePath": "posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_9.webp",
+            "relativePath": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Do Kids Love These Quick Breakfast Recipes So Much?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_7.webp",
+            "filePath": "posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_7.webp",
+            "relativePath": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Struggling with Breakfast? These Quick Recipes for Kids Fix That"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_6.webp",
+            "filePath": "posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_6.webp",
+            "relativePath": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Quick Breakfast Recipes for Kids on Busy School Mornings"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_8.webp",
+            "filePath": "posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_8.webp",
+            "relativePath": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Do Kids Love These Quick Breakfast Recipes So Much?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_5.webp",
+            "filePath": "posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_5.webp",
+            "relativePath": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Quick Breakfast Recipes for Kids Foolproof"
+        }
+    ],
+    "image": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_1.webp",
+    "image_path": "posts/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images/quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious_pinrecipes_image_1.webp",
+    "image_dir": "quick-breakfast-recipes-for-kids-that-are-easy-fun-and-nutritious/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-28T01:16:03+01:00",
+    "updatedAt": "2026-07-28T01:16:03+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}

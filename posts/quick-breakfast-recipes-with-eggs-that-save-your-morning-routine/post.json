@@ -1,0 +1,359 @@
+{
+    "title": "Quick Breakfast Recipes With Eggs That Save Your Morning Routine",
+    "promptIMG": "Food photography: quick breakfast recipes with eggs, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm morning light filtering through a window, faint reflections on a wooden counter. SUBJECT: a generous stack of golden scrambled eggs piled high on a rustic white ceramic plate, the front portion sharply focused showing fluffy, tender curds with a slight glossy shine, the rest softly fading into bokeh. DETAILS: the eggs glisten with a light buttery sheen, sprinkled with fresh chives and a few cracked black pepper flakes, natural crumbs scattered around the plate edge. STYLE: ultra-photorealistic professional food photography with bright airy daylight and warm golden hues, rich saturated colors that make the eggs look irresistibly fresh, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands or people, no steam or smoke, no artificial or dull colors, no logos or watermarks.",
+        "img2": "SCENE: soft natural light coming through a kitchen window illuminating a light grey marble countertop with a subtle blur. SUBJECT: a close-up reveal shot of a quick breakfast egg sandwich cut in half, halves stacked slightly askew facing the camera, showing the creamy yolk and soft whites melting into a toasted English muffin with melted cheddar oozing out. DETAILS: the sandwich interior is glossy and moist, with vibrant yellow yolk and cheese pull frozen mid-pull, crumbs and a light scattering of paprika on the muffin edges. STYLE: ultra-photorealistic food photography with bright daylight, warm golden tones enhancing the textures and colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no steam, no dull or flat colors, no artificial effects.",
+        "img3": "SCENE: warm dark wood tabletop softly blurred behind with a gentle side glow highlighting textures. SUBJECT: several plates of quick breakfast egg dishes arranged close together, including fluffy scrambled eggs, an open-faced omelette topped with fresh herbs, and a small bowl of fresh fruit, the front plate razor-sharp showing glossy eggs with a buttery shine and a sprinkle of fresh parsley. DETAILS: intense wet glossy shine on every egg surface, deep golden yellows with fresh green herb accents, natural crumbs and a light drizzle of hot sauce on the side. STYLE: ultra-photorealistic professional food photography with rich golden-amber warmth, highly saturated appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no steam, no logos, no dull colors."
+    },
+    "description": "These quick breakfast recipes with eggs are my go-to when mornings get hectic. They come together fast but still feel homemade and comforting. I love how a simple technique like gentle folding makes the eggs super fluffy. Perfect for busy weekday mornings or a relaxed weekend brunch!",
+    "hashtags": "#quickbreakfast #eggrecipes #morningmeals",
+    "board_name": "Morning Meals",
+    "pin_variations": [
+        {
+            "title": "Why Does Restaurant Breakfast Egg Taste Better Than Yours?",
+            "description": "Ever wonder why diner eggs taste so good? It’s all about the cooking method and timing. Discover the secrets to fluffy, juicy eggs that beat takeout every time. Save this for your next breakfast! #quickbreakfast #eggrecipes #morningmeals"
+        },
+        {
+            "title": "The One Trick That Makes Quick Breakfast Eggs Foolproof",
+            "description": "This simple tip will change how you cook eggs forever—no more rubbery or dry bites! Learn how to get creamy, tender eggs every time with minimal effort. Tap to get the full recipe and start your day right. #eggrecipes #quickbreakfast #easyrecipes"
+        },
+        {
+            "title": "15-Minute Quick Breakfast Eggs for Busy Weeknights",
+            "description": "Need a fast, satisfying breakfast? These egg recipes come together in just 15 minutes and taste like you spent hours. Perfect for busy mornings or late-night cravings. Save it for your next quick meal! #morningmeals #quickbreakfast #eggs"
+        },
+        {
+            "title": "Still Making Dry Eggs? This Quick Breakfast Fixes It",
+            "description": "Dry eggs are a thing of the past! This recipe shows you how to get moist, fluffy eggs with a foolproof technique anyone can master. Your family will thank you. Tap for the full easy recipe! #eggrecipes #quickbreakfast #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 10,
+    "servings": 2,
+    "ingredients": [
+        "4 large eggs, room temperature",
+        "2 tablespoons whole milk or cream",
+        "1 tablespoon unsalted butter",
+        "Salt and freshly ground black pepper, to taste",
+        "Fresh chives or parsley, chopped for garnish (optional)",
+        "2 slices whole grain bread or English muffins (optional)"
+    ],
+    "yield": "Serves 2 people",
+    "introduction": "I’ve been making quick breakfast recipes with eggs for years, especially on those mornings when time is tight but I still want something homemade and satisfying. My family loves eggs any way I make them, but I found that a few small tweaks really elevate the texture and flavor. For example, gently whisking in a bit of milk before cooking and using low heat to slowly cook the eggs makes them incredibly fluffy and tender rather than rubbery. Plus, finishing with a pat of butter adds richness that feels indulgent but is so simple. I remember the first time I tried this method — it was a happy accident when I was rushing out the door but still wanted a decent meal. The eggs turned out so soft and creamy, and from then on, I never went back to scrambling at high heat. These quick egg recipes are perfect for weekday mornings when you need something fast but crave that comforting, homemade feel. Whether you’re making a simple scramble or a quick sandwich, these tips help you get it just right every time.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Crack the eggs into a medium bowl and add the milk or cream. Whisk gently until the yolks and whites are fully combined but not overly frothy. This light whisking incorporates air, which helps create fluffy eggs without making them tough. Avoid over-beating, which can cause the eggs to become rubbery when cooked.",
+            "timing": 3,
+            "doneness_cue": "Egg mixture is smooth and pale yellow with no streaks of white or yolk."
+        },
+        {
+            "step": 2,
+            "instruction": "Heat a non-stick skillet over low to medium-low heat and add the butter. Allow it to melt completely but not brown. Pour in the egg mixture and let it sit undisturbed for about 20 seconds until the edges just start to set. Cooking slowly over low heat prevents the eggs from drying out and allows gentle curds to form.",
+            "timing": 2,
+            "doneness_cue": "Edges begin to look set and slightly opaque while the center is still glossy."
+        },
+        {
+            "step": 3,
+            "instruction": "Using a silicone spatula, gently push the eggs from the edges toward the center in slow folds, letting the uncooked eggs flow to the pan’s edges. Repeat this folding motion every 15-20 seconds. This technique cooks the eggs evenly and keeps them tender and creamy.",
+            "timing": 5,
+            "doneness_cue": "Eggs form soft curds and look creamy but not runny."
+        },
+        {
+            "step": 4,
+            "instruction": "When the eggs are mostly set but still slightly shiny and moist, remove the pan from heat. The residual heat will finish cooking them without over-drying. Season with salt and pepper to taste and gently fold in chopped herbs if using.",
+            "timing": 1,
+            "doneness_cue": "Eggs are soft, glossy, and just set with no liquid remaining."
+        },
+        {
+            "step": 5,
+            "instruction": "If making a sandwich, toast bread or English muffins until golden and warm. Assemble the eggs on the bread, adding cheese or other desired toppings. Serve immediately while warm and fluffy.",
+            "timing": 5,
+            "doneness_cue": "Bread is toasted golden brown and eggs remain warm and tender."
+        },
+        {
+            "step": 6,
+            "instruction": "For variations like an omelette, pour the eggs into the pan and let them set slightly before adding fillings. Fold gently and cook just until set, keeping the interior moist and tender.",
+            "timing": 4,
+            "doneness_cue": "Omelette edges are set but the center remains soft and slightly creamy."
+        },
+        {
+            "step": 7,
+            "instruction": "Clean up any spilled egg immediately to avoid sticky residue. Use a non-stick pan for best results and avoid high heat to prevent tough eggs.",
+            "timing": 1,
+            "doneness_cue": "Pan surface remains smooth and clean after cooking."
+        },
+        {
+            "step": 8,
+            "instruction": "Adjust seasoning at the table if desired, adding hot sauce or extra herbs. Freshly cracked pepper adds a nice touch of flavor.",
+            "timing": 1,
+            "doneness_cue": "Eggs are flavorful and balanced to your taste."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately for best texture and flavor. Eggs will lose their creamy texture if held too long or reheated multiple times.",
+            "timing": 1,
+            "doneness_cue": "Eggs are warm and fluffy when served."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Quick Egg Recipe Succeeds",
+        "content": "<p>Eggs are delicate proteins that require gentle handling to achieve the perfect texture. When eggs are cooked too quickly or at high heat, the proteins contract tightly, squeezing out moisture and resulting in dry, rubbery curds. This recipe uses low heat and slow cooking to allow the proteins to coagulate gradually, producing soft, tender curds that retain moisture. Adding a small amount of milk or cream introduces additional fat and liquid, which further helps keep the eggs moist and creamy.</p><p>The folding technique is essential as it prevents the eggs from sitting too long on the hot pan surface, which could overcook and dry them out. By gently moving the eggs, you expose uncooked portions to heat evenly while preserving the delicate texture. Removing the pan from heat just before the eggs are fully set is another key step; residual heat finishes the cooking without overshooting the perfect doneness.</p><p>Butter plays a dual role here — it adds richness and flavor while also providing a non-stick surface that allows the eggs to cook gently without sticking or breaking apart. The balance of seasoning is important too; salt added too early can draw out moisture and toughen the eggs, so seasoning at the end preserves tenderness.</p><p>Overall, this recipe’s success lies in respecting the eggs’ delicate nature and using simple techniques to coax out their best texture and flavor. It’s a foolproof method that transforms everyday eggs into a luxurious, satisfying breakfast.</p>",
+        "ingredient_notes": {
+            "eggs": "Choose fresh, large eggs at room temperature for best results. Fresh eggs have firmer whites and more vibrant yolks, which contribute to a better texture and richer flavor. Bringing eggs to room temperature helps them cook evenly and prevents sudden temperature shock that can cause uneven curds.",
+            "milk or cream": "Adding milk or cream adds fat and moisture that keeps the eggs tender and creamy. Whole milk or light cream works best for richness without thinning the eggs too much. Avoid skim milk, which can make eggs watery, or heavy cream, which may make them overly rich.",
+            "butter": "Unsalted butter provides both flavor and a gentle cooking surface. Its milk solids help create a slight caramelized flavor on the eggs while preventing sticking. Clarified butter can be used for higher heat tolerance but regular butter adds more flavor.",
+            "salt": "Salt enhances flavor but should be added at the end of cooking to avoid drawing out moisture prematurely, which can lead to tougher eggs. Use fine sea salt or kosher salt for even seasoning.",
+            "fresh herbs": "Chopped chives, parsley, or tarragon add fresh brightness and a mild onion or herbal note that complements eggs beautifully. Add herbs at the end to preserve their color and flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a silicone spatula for gentle folding to avoid breaking the curds.",
+            "reason": "Silicone spatulas are flexible and gentle, which helps fold the eggs without breaking them into small pieces. This maintains the fluffy, tender texture by keeping the curds intact."
+        },
+        {
+            "tip": "Cook eggs over low heat to prevent overcooking and dryness.",
+            "reason": "Low heat allows proteins to coagulate slowly, retaining moisture and resulting in creamy eggs. High heat causes rapid protein tightening and moisture loss, making eggs rubbery."
+        },
+        {
+            "tip": "Remove eggs from heat just before fully set to finish cooking off the pan.",
+            "reason": "Residual heat continues cooking the eggs gently, preventing overcooking. This step ensures eggs stay moist and soft rather than dry and crumbly."
+        },
+        {
+            "tip": "Whisk eggs just until combined, not frothy.",
+            "reason": "Over-whisking incorporates too much air, which can create large bubbles and uneven texture. Gentle whisking produces consistent, smooth curds."
+        },
+        {
+            "tip": "Season eggs with salt and pepper at the end of cooking.",
+            "reason": "Adding salt too early draws out water from eggs, causing them to become watery and tough. Seasoning at the end preserves their natural moisture and tenderness."
+        },
+        {
+            "tip": "Use room temperature eggs for even cooking.",
+            "reason": "Cold eggs shock the pan and cook unevenly, leading to rubbery edges and undercooked centers. Room temperature eggs produce uniform curds."
+        },
+        {
+            "tip": "Toast bread or muffins while eggs cook to save time.",
+            "reason": "Multi-tasking breakfast prep speeds up the process and ensures everything is warm and ready to serve together."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cooking eggs on high heat",
+            "why_it_happens": "Many cooks rush mornings and turn the heat up to cook eggs faster, assuming it saves time.",
+            "fix": "Use low to medium-low heat instead. Cooking eggs slowly allows proteins to set gently, keeping them tender and moist rather than rubbery and dry."
+        },
+        {
+            "mistake": "Over-whisking eggs",
+            "why_it_happens": "Thinking more whisking means fluffier eggs, some overbeat the mixture.",
+            "fix": "Whisk just until yolks and whites are combined. Over-whisking traps air that can cause uneven texture and tough curds."
+        },
+        {
+            "mistake": "Adding salt too early",
+            "why_it_happens": "Salt is often added at the start to season, but it affects egg texture.",
+            "fix": "Season eggs at the end of cooking to prevent moisture loss and maintain softness."
+        },
+        {
+            "mistake": "Leaving eggs in the pan too long",
+            "why_it_happens": "Some leave eggs on heat until fully set, causing overcooking.",
+            "fix": "Remove eggs just before fully cooked and let residual heat finish them for creamy texture."
+        },
+        {
+            "mistake": "Using cold eggs straight from the fridge",
+            "why_it_happens": "For convenience, eggs are cracked cold into the pan.",
+            "fix": "Let eggs come to room temperature before cooking for even heat distribution and better texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Cheesy Herb Scramble",
+            "description": "Add shredded cheddar or mozzarella and a mix of fresh herbs like dill and chives to the eggs just before finishing. The cheese melts into creamy pockets, and herbs add brightness for a flavorful twist.",
+            "technical_note": "Add cheese when eggs are almost set to allow melting without overcooking."
+        },
+        {
+            "name": "Veggie-Packed Omelette",
+            "description": "Sauté diced bell peppers, onions, and spinach before adding beaten eggs to the pan. Fold the omelette around the veggies for a hearty, nutrient-rich breakfast that still cooks quickly.",
+            "technical_note": "Cook vegetables first to soften and remove excess moisture before adding eggs."
+        },
+        {
+            "name": "Spicy Southwest Eggs",
+            "description": "Mix in diced jalapeños, cumin, and a dash of hot sauce. Top with avocado slices and fresh cilantro for a spicy, creamy breakfast with Tex-Mex flair.",
+            "technical_note": "Add spices to eggs before cooking; garnish after cooking to preserve fresh flavors."
+        },
+        {
+            "name": "Classic Egg Sandwich",
+            "description": "Layer fluffy scrambled eggs on toasted English muffins with a slice of tomato and crisp bacon or ham. A quick and satisfying handheld breakfast perfect for on-the-go mornings.",
+            "technical_note": "Assemble sandwich immediately to keep eggs warm and bread crisp."
+        },
+        {
+            "name": "Mediterranean Egg Bowl",
+            "description": "Serve soft scrambled eggs over a bed of cooked quinoa or couscous, topped with feta cheese, olives, and diced cucumber for a fresh, protein-packed breakfast bowl.",
+            "technical_note": "Prepare grain base ahead to speed up assembly."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "18g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "20g",
+        "fiber_grams": "2g",
+        "sodium_mg": "350mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Quick breakfast egg dishes are best enjoyed immediately but can be left at room temperature covered for up to 1 hour to avoid bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 2 days. Eggs may lose some creaminess and become firmer when cold; reheat gently to restore softness.",
+        "freezer": "Egg dishes can be frozen for up to 1 month. Wrap tightly in freezer-safe containers or bags. Thaw overnight in the fridge before reheating to preserve texture.",
+        "reheating": "Reheat eggs gently in a non-stick pan over low heat or in short bursts in the microwave with a splash of milk to restore moisture. Avoid high heat which can overcook and dry eggs.",
+        "make_ahead_strategy": "Whisk eggs with milk and store the mixture in the fridge up to 24 hours before cooking. This saves prep time in the morning while maintaining freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use egg whites only for this recipe?",
+            "answer": "Yes, you can substitute whole eggs with egg whites for a lower-fat option. The texture will be lighter but less rich. Add a small amount of milk or cream to keep eggs tender, and adjust cooking time as whites cook faster."
+        },
+        {
+            "question": "How do I prevent eggs from sticking to the pan?",
+            "answer": "Use a good quality non-stick skillet and melt enough butter before adding eggs. Cook over low heat and avoid rushing the process. If eggs start sticking, lower the heat and use a silicone spatula to gently loosen them."
+        },
+        {
+            "question": "Is it better to whisk eggs vigorously or gently?",
+            "answer": "Gentle whisking is best for fluffy, tender eggs. Over-beating incorporates excess air, which can cause uneven curds and a rubbery texture once cooked."
+        },
+        {
+            "question": "Can I add cheese directly to the eggs before cooking?",
+            "answer": "Yes, but add cheese when eggs are partially set to allow it to melt without making eggs watery. Adding cheese too early can release moisture and affect texture."
+        },
+        {
+            "question": "Why do my eggs sometimes turn out watery?",
+            "answer": "Watery eggs can result from cooking at too low a temperature or adding too much liquid. Also, adding salt too early can draw out moisture. Cook over moderate low heat and season at the end."
+        },
+        {
+            "question": "How do I make eggs creamy without adding milk?",
+            "answer": "Cooking eggs slowly over low heat and removing them just before fully set helps retain moisture and creaminess. Butter also adds richness that helps with texture."
+        },
+        {
+            "question": "Can I prepare the egg mixture the night before?",
+            "answer": "Yes, whisk eggs with milk and store in the fridge overnight. Give it a quick whisk before cooking. This saves time but use fresh eggs and keep the mixture cold until cooking."
+        },
+        {
+            "question": "What’s the best way to reheat leftover scrambled eggs?",
+            "answer": "Reheat gently in a non-stick pan over low heat, stirring frequently, or microwave in short bursts with a splash of milk. Avoid high heat to prevent drying out and rubbery texture."
+        }
+    ],
+    "conclusion": "I hope you enjoy these quick breakfast recipes with eggs as much as my family does. They’re simple, comforting, and perfect for any busy morning. Give them a try and let me know how they turn out!",
+    "seo": {
+        "primary_keyword": "quick breakfast recipes with eggs",
+        "secondary_keywords": [
+            "easy egg breakfast ideas",
+            "healthy egg breakfast recipes",
+            "how to make scrambled eggs",
+            "best quick egg recipes",
+            "simple egg breakfast meals"
+        ],
+        "internal_links": [
+            {
+                "text": "easy scrambled eggs technique",
+                "anchor": "easy-scrambled-eggs"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "5200"
+    },
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-27 23:20:29",
+        "title_seed": "Quick Breakfast Recipes With Eggs"
+    },
+    "author_id": "author_001",
+    "id": "post_1785194429_803",
+    "slug": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine",
+    "uniqueSlug": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_1.webp",
+            "relativePath": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_2.webp",
+            "relativePath": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_3.webp",
+            "relativePath": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_7.webp",
+            "filePath": "posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_7.webp",
+            "relativePath": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Eggs? This Quick Breakfast Fixes It"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_4.webp",
+            "filePath": "posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_4.webp",
+            "relativePath": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Restaurant Breakfast Egg Taste Better Than Yours?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_9.webp",
+            "filePath": "posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_9.webp",
+            "relativePath": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Restaurant Breakfast Egg Taste Better Than Yours?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_6.webp",
+            "filePath": "posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_6.webp",
+            "relativePath": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Quick Breakfast Eggs for Busy Weeknights"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_5.webp",
+            "filePath": "posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_5.webp",
+            "relativePath": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Quick Breakfast Eggs Foolproof"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_8.webp",
+            "filePath": "posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_8.webp",
+            "relativePath": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Restaurant Breakfast Egg Taste Better Than Yours?"
+        }
+    ],
+    "image": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_1.webp",
+    "image_path": "posts/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images/quick-breakfast-recipes-with-eggs-that-save-your-morning-routine_pinrecipes_image_1.webp",
+    "image_dir": "quick-breakfast-recipes-with-eggs-that-save-your-morning-routine/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-28T01:16:03+01:00",
+    "updatedAt": "2026-07-28T01:16:03+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}

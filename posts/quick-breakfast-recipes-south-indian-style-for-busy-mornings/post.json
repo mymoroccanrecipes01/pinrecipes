@@ -1,0 +1,363 @@
+{
+    "title": "Quick Breakfast Recipes South Indian Style for Busy Mornings",
+    "promptIMG": "Food photography: South Indian breakfast spread with idli, dosa, and chutney, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred home kitchen background with a bright window casting natural daylight, faint reflections on a clean countertop, no recognizable objects in focus. SUBJECT: an abundant serving of fluffy white idlis stacked on a traditional stainless steel plate with a small bowl of vibrant green coconut chutney and golden sambar on the side, filling nearly the entire frame with the edges of the plate cropped out. DETAILS: the idlis show their soft, spongy texture with tiny air pockets visible, the chutney glistens with a fresh sheen, and the sambar has a warm amber color with mustard seeds floating. STYLE: ultra-photorealistic professional food photography with bright, airy daylight and warm golden tones, rich saturated colors that pop, shallow depth of field focusing sharply on the front idli. AVOID: no text, logos, hands, or people; no steam or smoke; no artificial or dull colors.",
+        "img2": "SCENE: a softly blurred marble-toned background with bright, clean daylight streaming through a window. SUBJECT: a single idli cut in half, revealing its moist, airy interior with tiny bubbles, placed on a white ceramic plate with a dollop of melting ghee on top, coconut chutney dripping slightly from the side. DETAILS: the interior crumb is glossy and moist, the ghee shines with a golden hue, and the chutney's texture is smooth with flecks of green herbs. STYLE: ultra-photorealistic professional food photography with bright, warm daylight, rich saturated colors, shallow macro focus on the exposed interior of the idli. AVOID: no text, logos, hands, or people; no steam, no CGI effects.",
+        "img3": "SCENE: a softly blurred warm dark wood background with a gentle side glow highlighting the scene. SUBJECT: several dosas folded and stacked on a banana leaf-lined traditional brass plate, accompanied by bowls of sambar and coconut chutney, with a small mound of potato masala spilling slightly from one dosa edge. DETAILS: dosas show a crispy golden-brown texture with some darker spots, the potato masala is vibrant yellow with mustard seeds and curry leaves visible, and the chutney and sambar glisten with wet shine. STYLE: ultra-photorealistic professional food photography with deep golden-amber warm tones, rich saturated colors, shallow depth of field focusing on the front dosa edge. AVOID: no text, logos, hands, or people; no steam or smoke; no artificial colors or over-smoothing."
+    },
+    "description": "If you love South Indian flavors but are short on time, these quick breakfast recipes are perfect. From soft idlis to crispy dosas, each dish comes alive with fresh chutneys and sambar. Great for busy mornings when you want something satisfying and authentic.",
+    "hashtags": "#SouthIndianBreakfast #QuickBreakfastRecipes #EasyIndianFood",
+    "board_name": "Morning Meals",
+    "pin_variations": [
+        {
+            "title": "Why Does South Indian Breakfast Taste So Comforting and Quick?",
+            "description": "Discover the secret behind the fluffy idlis and crispy dosas that make South Indian breakfasts so comforting and quick to prepare. You'll love how simple ingredients create such big flavors. Save this for your next morning meal! #SouthIndianBreakfast #QuickMeals #ComfortFood"
+        },
+        {
+            "title": "The One Trick That Makes Quick South Indian Breakfast Foolproof",
+            "description": "Want to nail the perfect idli batter every time? This one trick ensures soft, fluffy results without fuss. Plus, quick tips for making dosas crisp and golden. Tap to get the full recipe and impress your family! #QuickBreakfastRecipes #SouthIndianFood #EasyCooking"
+        },
+        {
+            "title": "15-Minute South Indian Breakfast Ideas for Busy Weeknights",
+            "description": "No time to cook? These 15-minute South Indian breakfast recipes are your new go-to. From steaming idlis to savory dosas, they come together fast and taste authentic. Try them tonight and enjoy a cozy meal! #QuickBreakfast #SouthIndianRecipes #WeeknightDinner"
+        },
+        {
+            "title": "Idli vs Dosa: Which Quick South Indian Breakfast Wins Your Heart?",
+            "description": "Can't decide between idli and dosa for breakfast? Both are quick, healthy, and delicious South Indian staples. See which one suits your taste and lifestyle best. Save this for your next breakfast inspiration! #SouthIndianBreakfast #IdliVsDosa #QuickRecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 cup parboiled rice",
+        "1/4 cup split urad dal (black gram)",
+        "1/2 teaspoon fenugreek seeds",
+        "Salt to taste",
+        "Water as needed",
+        "Ghee or oil for cooking"
+    ],
+    "yield": "Approximately 12 idlis or 4 servings",
+    "introduction": "I've been making South Indian breakfasts for years, and nothing beats the comfort of soft idlis and crispy dosas on a busy morning. My first attempt was a bit of a disaster—batter too thick, idlis dense—but over time I learned the importance of soaking the rice and dal properly and fermenting the batter just right. This recipe is my go-to when I want authentic flavors without spending hours. The trick is balancing the rice and urad dal ratio and allowing enough fermentation time for that characteristic tang and fluffiness. Plus, a splash of ghee on hot idlis elevates the experience to pure comfort food. Whether you’re rushing to work or enjoying a relaxed weekend, these quick South Indian breakfast recipes are always a hit with my family and friends. Expect fluffy, airy idlis and golden, crisp dosas paired with fresh chutneys and sambar—the perfect start to any day.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Begin by rinsing the parboiled rice and urad dal separately under cold water until the water runs clear. Soak the rice with fenugreek seeds in one bowl and the urad dal in another for at least 4 hours or overnight. Soaking softens the grains and helps in fermentation, which is key for fluffy idlis and crispy dosas. Avoid skipping this step, as it affects the texture and taste significantly.",
+            "timing": "4 hours soaking",
+            "doneness_cue": "Rice and dal should feel soft and swollen to the touch after soaking."
+        },
+        {
+            "step": 2,
+            "instruction": "Drain the soaked rice and dal. Grind the urad dal with a little water to a smooth, fluffy batter using a wet grinder or blender. Then grind the rice and fenugreek seeds to a slightly coarse batter. Combine both batters in a large bowl, add salt, and mix well. The consistency should be thick but pourable. Proper grinding and mixing create the right texture and help fermentation. Rushing this step can result in dense idlis or flat dosas.",
+            "timing": "20 minutes grinding and mixing",
+            "doneness_cue": "Batter is smooth, slightly thick, and well combined."
+        },
+        {
+            "step": 3,
+            "instruction": "Cover the batter and leave it in a warm place to ferment for 8-12 hours or overnight. Fermentation develops the characteristic tang and airiness. If your kitchen is cold, place the batter in the oven with the light on or near a warm spot. Avoid disturbing the batter during fermentation to allow proper rising.",
+            "timing": "8-12 hours fermentation",
+            "doneness_cue": "Batter has risen visibly, with bubbles and a slight sour aroma."
+        },
+        {
+            "step": 4,
+            "instruction": "Once fermented, gently stir the batter. For idlis, grease the idli molds and pour the batter evenly. Steam in an idli cooker or steamer for 10-12 minutes until a toothpick inserted comes out clean. Steaming retains moisture and creates soft idlis. Over-steaming can make them rubbery, so watch the time carefully.",
+            "timing": "10-12 minutes steaming",
+            "doneness_cue": "Idlis are soft, spongy, and spring back when pressed lightly."
+        },
+        {
+            "step": 5,
+            "instruction": "For dosas, heat a non-stick or cast iron griddle until hot. Pour a ladle of batter and spread thinly in a circular motion. Drizzle a little oil or ghee around the edges. Cook until the edges turn golden and crisp, then flip if desired or fold directly. Thin spreading and high heat are key for crispy dosas. Avoid pressing down with the spatula to keep them light.",
+            "timing": "2-3 minutes per dosa",
+            "doneness_cue": "Dosa edges are crisp and golden brown with a slightly soft center."
+        },
+        {
+            "step": 6,
+            "instruction": "Prepare coconut chutney by blending fresh grated coconut, green chilies, ginger, roasted chana dal, and salt with water to a smooth paste. Temper with mustard seeds, curry leaves, and dried red chilies in hot oil for added flavor. Fresh chutney adds brightness and balances the savory batter dishes.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chutney is smooth, vibrant green, and aromatic."
+        },
+        {
+            "step": 7,
+            "instruction": "Make sambar by cooking toor dal until soft, then simmering with tamarind extract, diced vegetables, and sambar powder. Temper with mustard seeds, dried red chilies, and curry leaves. Sambar adds warmth and a tangy, spicy contrast to the mild idlis and dosas.",
+            "timing": "30 minutes",
+            "doneness_cue": "Sambar is thick, flavorful, and aromatic with tender vegetables."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve idlis or dosas hot with a dollop of ghee or butter on top, accompanied by coconut chutney and sambar. The ghee melts on the warm idlis adding richness, while the chutney and sambar provide layers of flavor. Serve immediately for best texture and taste.",
+            "timing": "Immediate serving",
+            "doneness_cue": "Idlis are warm and moist; dosas are crisp; accompaniments are fresh."
+        },
+        {
+            "step": 9,
+            "instruction": "Store any leftover batter in the refrigerator for up to 2 days. Stir well before use. You can reheat steamed idlis by sprinkling water and microwaving covered, or reheat dosas on a hot griddle to restore crispness. Avoid storing cooked idlis or dosas for too long as they lose texture.",
+            "timing": "Storage and reheating as needed",
+            "doneness_cue": "Reheated idlis are soft and warm; dosas regain crispness."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This South Indian Breakfast Recipe Succeeds",
+        "content": "<p>The success of South Indian breakfast staples like idli and dosa hinges on fermentation, ingredient ratios, and cooking technique. Soaking the rice and urad dal softens them and activates enzymes that aid fermentation. The urad dal's high protein and starch content create a fluffy texture as it traps air during fermentation. Fenugreek seeds add flavor and help fermentation by promoting beneficial bacteria growth.</p><p>Grinding the dal to a smooth, airy batter while keeping the rice slightly coarse balances texture and moisture. Proper fermentation produces natural leavening, resulting in the characteristic tangy aroma and light, spongy crumb in idlis. For dosas, the fermented batter's consistency and spreading technique are crucial to achieve a thin, crisp texture without tearing.</p><p>Steaming idlis retains moisture and prevents drying, while cooking dosas on a hot griddle with a little oil encourages Maillard browning, delivering the golden crisp exterior. The coconut chutney and sambar provide complementary flavors and textures, enhancing the overall eating experience. Each element plays a vital role in creating a harmonious and authentic South Indian breakfast.</p><p>Attention to detail in fermentation time, batter consistency, and cooking temperatures ensures reliable results. These techniques have been perfected over generations and are the backbone of this quick yet authentic breakfast recipe.</p>",
+        "ingredient_notes": {
+            "parboiled rice": "Parboiled rice is preferred for idli and dosa batter because it has a firm texture and releases starch that aids fermentation. It results in softer, fluffier idlis and crisp dosas. When buying, look for high-quality, aged parboiled rice. Avoid using regular white rice as it may give denser results.",
+            "urad dal": "Urad dal is the key protein-rich legume that provides the batter's sponginess. Choose whole split urad dal with skins removed for smoother batter. Soaking it well and grinding it to a fluffy consistency traps air, which is essential for fermentation and light texture.",
+            "fenugreek seeds": "Fenugreek seeds add a subtle nutty flavor and help kickstart fermentation by promoting lactic acid bacteria. Use sparingly as too much can impart bitterness. They also improve the batter's ability to rise and develop the characteristic sour aroma.",
+            "ghee": "Ghee adds richness and a buttery aroma when served on hot idlis or dosas. It melts quickly and enhances mouthfeel. Use good quality clarified butter for best flavor. It is optional but highly recommended for authentic taste.",
+            "tamarind": "Tamarind pulp provides the sour and tangy base for sambar, balancing the earthy lentils and spices. Use fresh or paste form, ensuring it is not overly concentrated or artificial. Proper tamarind adds depth and brightness to the dish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a wet grinder for the smoothest batter texture.",
+            "reason": "Wet grinders grind lentils and rice more gently and uniformly than a blender, preserving air bubbles and preventing batter from heating up, which can affect fermentation and texture."
+        },
+        {
+            "tip": "Keep the batter in a warm place to ferment properly.",
+            "reason": "Fermentation requires warmth to activate natural yeast and bacteria. In colder climates, placing the batter in an oven with the light on or near a warm appliance speeds fermentation and prevents souring."
+        },
+        {
+            "tip": "Do not overmix the batter after fermentation.",
+            "reason": "Overmixing can deflate the air bubbles formed during fermentation, leading to denser idlis and less crispy dosas. Gently stir just enough to combine before cooking."
+        },
+        {
+            "tip": "Use a cast iron or non-stick pan for crispy dosas.",
+            "reason": "A well-seasoned cast iron pan distributes heat evenly and helps achieve the perfect golden crisp edges without sticking, enhancing dosa texture and flavor."
+        },
+        {
+            "tip": "Add a pinch of baking soda only if batter is over-fermented.",
+            "reason": "Baking soda can help lighten the batter if fermentation went too long and became overly sour, but use sparingly to avoid off-flavors and loss of authentic taste."
+        },
+        {
+            "tip": "Serve idlis hot with a dollop of ghee for best flavor.",
+            "reason": "Ghee melts into the idlis, adding richness and moisture, which enhances the soft texture and elevates the overall taste experience."
+        },
+        {
+            "tip": "Prepare chutney and sambar fresh for vibrant flavors.",
+            "reason": "Freshly ground chutney retains bright color and aroma, while freshly cooked sambar has balanced spices and perfect texture, making the meal more enjoyable."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping fermentation or rushing it.",
+            "why_it_happens": "Many cooks underestimate fermentation time or try to speed it up, leading to dense idlis and flat dosas lacking the characteristic tang.",
+            "fix": "Allow the batter to ferment fully in a warm environment for 8-12 hours. If your kitchen is cold, use an oven with the light on or a warm spot. This ensures the batter rises and develops flavor."
+        },
+        {
+            "mistake": "Grinding batter too coarse or too smooth.",
+            "why_it_happens": "Improper grinding texture affects batter's ability to trap air and ferment properly.",
+            "fix": "Grind urad dal to a smooth, fluffy paste and rice to a slightly coarse texture. This balance helps achieve the right consistency and fermentation."
+        },
+        {
+            "mistake": "Using cold batter for cooking.",
+            "why_it_happens": "Cold batter does not spread well for dosas and yields dense idlis.",
+            "fix": "Bring batter to room temperature before cooking to ensure even cooking and better texture."
+        },
+        {
+            "mistake": "Over-steaming idlis.",
+            "why_it_happens": "Leaving idlis in the steamer too long makes them rubbery and dry.",
+            "fix": "Steam for 10-12 minutes and test with a toothpick. Remove immediately once cooked to maintain softness."
+        },
+        {
+            "mistake": "Spreading dosa batter too thick or too thin.",
+            "why_it_happens": "Inexperience or rushing leads to uneven cooking and texture.",
+            "fix": "Use a ladle to pour batter and spread quickly in a circular motion to achieve thin, even layers. Practice helps."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Rava Idli",
+            "description": "Swap rice with semolina (rava) for quicker idlis that don’t require fermentation. These are lighter and have a slightly grainy texture, perfect for an instant breakfast.",
+            "technical_note": "Use yogurt and baking soda to leaven the batter instead of fermentation; steam immediately after mixing."
+        },
+        {
+            "name": "Masala Dosa",
+            "description": "Add a spiced potato filling inside the dosa for a hearty, flavorful twist. The crispy dosa paired with soft potato masala makes a complete meal.",
+            "technical_note": "Prepare potato filling separately and stuff dosas just before serving to maintain crispness."
+        },
+        {
+            "name": "Neer Dosa",
+            "description": "A thin, delicate dosa made from rice batter without fermentation. It cooks quickly and has a soft, crepe-like texture, great with chutney or curry.",
+            "technical_note": "Batter is thinner and not fermented; spread thinly on a hot griddle for best results."
+        },
+        {
+            "name": "Set Dosa",
+            "description": "Soft, thick dosas stacked in threes, served with chutney and sambar. They are fluffier and slightly spongy compared to regular dosas.",
+            "technical_note": "Use slightly thicker batter and cook on medium heat without spreading too thin."
+        },
+        {
+            "name": "Pesarattu",
+            "description": "A green gram (moong dal) crepe that’s protein-rich and quick. It has a distinct flavor and is often served with ginger chutney.",
+            "technical_note": "Soak and grind moong dal separately; no fermentation needed; cook like dosa."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "12g",
+        "carbohydrates_grams": "60g",
+        "fat_grams": "5g",
+        "fiber_grams": "4g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Batter can be kept covered at room temperature for up to 12 hours during fermentation. Cooked idlis or dosas should be eaten fresh; leaving them out too long causes dryness and loss of texture.",
+        "refrigerator": "Store leftover batter in an airtight container in the refrigerator for up to 2 days. Cooked idlis and dosas can be refrigerated for 1 day but may lose texture. Reheat before serving for best results.",
+        "freezer": "Cooked idlis freeze well for up to 1 month. Wrap individually or in airtight containers to prevent freezer burn. Thaw in the refrigerator overnight and steam or microwave to reheat.",
+        "reheating": "Reheat idlis by sprinkling water and microwaving covered for 30-60 seconds. Reheat dosas on a hot griddle for a minute to restore crispness. Avoid microwaving dosas alone as they become soggy.",
+        "make_ahead_strategy": "Prepare and ferment batter a day ahead. You can also pre-make chutneys and sambar 1-2 days in advance and refrigerate. Assemble and cook fresh on the day for best flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular white rice instead of parboiled rice?",
+            "answer": "While regular white rice can be used, parboiled rice is preferred because it yields softer idlis and crispier dosas due to its starch content. Using white rice may result in denser textures. If you only have white rice, soak it well and consider grinding it slightly coarser."
+        },
+        {
+            "question": "How do I know when the batter has fermented enough?",
+            "answer": "Properly fermented batter will rise and become bubbly with a slightly sour aroma. It should roughly double in volume. If the batter smells off or overly sour, it may be over-fermented. Fermentation time varies with temperature; warmer climates need less time."
+        },
+        {
+            "question": "Why are my idlis turning out hard or dense?",
+            "answer": "Hard idlis usually result from insufficient fermentation, too thick batter, or over-steaming. Ensure the batter is well fermented and airy, and steam idlis for the recommended time without overcooking. Also, avoid packing batter too tightly in molds."
+        },
+        {
+            "question": "Can I make dosas without fermenting the batter?",
+            "answer": "Yes, you can make instant dosas using rice flour or semolina batter without fermentation, but the flavor and texture differ. Fermentation adds tanginess and improves crispness. Instant dosas are quicker but less authentic in taste."
+        },
+        {
+            "question": "What is the best way to store leftover batter?",
+            "answer": "Store leftover batter in an airtight container in the refrigerator for up to 2 days. Stir gently before use. Avoid keeping batter at room temperature for too long after fermentation to prevent spoilage."
+        },
+        {
+            "question": "How can I make dosas extra crispy?",
+            "answer": "Use a well-seasoned cast iron griddle heated to medium-high, spread the batter thinly and evenly, and drizzle a little oil or ghee around the edges. Avoid flipping too early to let the bottom crisp up fully."
+        },
+        {
+            "question": "Is it necessary to use fenugreek seeds?",
+            "answer": "Fenugreek seeds aid fermentation and add subtle flavor but can be omitted if unavailable. The batter may ferment slower and lack some depth of flavor, but results will still be good with proper fermentation."
+        },
+        {
+            "question": "Can I prepare the batter in a blender instead of a wet grinder?",
+            "answer": "A blender can be used in a pinch but may not produce the same fluffy texture as a wet grinder. Blenders tend to heat the batter and grind less evenly, which can affect fermentation and final texture."
+        }
+    ],
+    "conclusion": "I hope you enjoy making these quick South Indian breakfast recipes as much as I do. They bring warmth and tradition to the table with minimal fuss. Let me know how they turn out!",
+    "seo": {
+        "primary_keyword": "quick breakfast recipes South Indian",
+        "secondary_keywords": [
+            "South Indian breakfast ideas",
+            "easy South Indian breakfast",
+            "how to make idli and dosa",
+            "best South Indian breakfast recipe",
+            "quick South Indian breakfast"
+        ],
+        "internal_links": [
+            {
+                "text": "easy coconut chutney recipe",
+                "anchor": "easy-coconut-chutney"
+            },
+            {
+                "text": "authentic sambar recipe",
+                "anchor": "authentic-sambar"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-27 23:17:56",
+        "title_seed": "Quick Breakfast Recipes South Indian"
+    },
+    "author_id": "author_001",
+    "id": "post_1785194276_421",
+    "slug": "quick-breakfast-recipes-south-indian-style-for-busy-mornings",
+    "uniqueSlug": "quick-breakfast-recipes-south-indian-style-for-busy-mornings",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_1.webp",
+            "relativePath": "quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_2.webp",
+            "relativePath": "quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_3.webp",
+            "relativePath": "quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_6.webp",
+            "filePath": "posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_6.webp",
+            "relativePath": "quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute South Indian Breakfast Ideas for Busy Weeknights"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_4.webp",
+            "filePath": "posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_4.webp",
+            "relativePath": "quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does South Indian Breakfast Taste So Comforting and Quick?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_7.webp",
+            "filePath": "posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_7.webp",
+            "relativePath": "quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Idli vs Dosa: Which Quick South Indian Breakfast Wins Your Heart?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_9.webp",
+            "filePath": "posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_9.webp",
+            "relativePath": "quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does South Indian Breakfast Taste So Comforting and Quick?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_8.webp",
+            "filePath": "posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_8.webp",
+            "relativePath": "quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does South Indian Breakfast Taste So Comforting and Quick?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_5.webp",
+            "filePath": "posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_5.webp",
+            "relativePath": "quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Quick South Indian Breakfast Foolproof"
+        }
+    ],
+    "image": "quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_1.webp",
+    "image_path": "posts/quick-breakfast-recipes-south-indian-style-for-busy-mornings/images/quick-breakfast-recipes-south-indian-style-for-busy-mornings_pinrecipes_image_1.webp",
+    "image_dir": "quick-breakfast-recipes-south-indian-style-for-busy-mornings/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-28T01:16:03+01:00",
+    "updatedAt": "2026-07-28T01:16:03+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}

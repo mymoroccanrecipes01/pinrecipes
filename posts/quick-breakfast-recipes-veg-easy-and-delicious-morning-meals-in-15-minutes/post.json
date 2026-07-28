@@ -1,0 +1,363 @@
+{
+    "title": "Quick Breakfast Recipes Veg: Easy and Delicious Morning Meals in 15 Minutes",
+    "promptIMG": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm morning sunlight streaming through a window, casting gentle shadows on a light wooden countertop. SUBJECT: a vibrant, overflowing bowl of veggie-packed breakfast scramble served in a rustic ceramic bowl, with colorful bell peppers, spinach, cherry tomatoes, and golden scrambled eggs filling the frame. The front portion is sharply focused at a 30-degree angle, showing the fluffy texture of the eggs and the glossy shine of sautéed veggies. DETAILS: a light sprinkle of fresh chopped herbs and a drizzle of olive oil glistening on top, natural crumbs and tiny bits of sautéed onion scattered around the bowl. STYLE: ultra-photorealistic food photography with bright, airy daylight, rich saturated colors highlighting the freshness of the vegetables, shallow depth of field, vertical 2:3. AVOID: no text, no hands, no artificial lighting, no steam or smoke, no plastic textures.",
+        "img2": "SCENE: a softly lit marble countertop with warm natural daylight from a nearby window, slightly blurred background. SUBJECT: the reveal shot of the veggie breakfast scramble, cut open or scooped to show its moist, fluffy interior with vibrant layers of sautéed zucchini, red peppers, and spinach mixed into the eggs. The opened portion fills 90% of the frame, sharply focused on the glossy, steaming-soft texture and the glistening melted cheese strands pulling gently. DETAILS: natural juices from the cooked vegetables shimmer against the bright yellow eggs, with a light dusting of cracked black pepper and fresh herbs on top. STYLE: ultra-photorealistic, bright airy daylight with warm golden tones, hyper-vivid colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no artificial props, no dull colors or CGI.",
+        "img3": "SCENE: a warm dark wood table softly blurred in the background with a cozy side glow highlighting the scene. SUBJECT: several bowls of the veggie breakfast scramble arranged close together, each generously topped with fresh herbs and a small side of toasted whole grain bread slices. The front bowl is razor-sharp with vibrant colors and intense wet glossy shine on the sautéed vegetables and eggs. DETAILS: the golden edges of the eggs show slight caramelization, with scattered crumbs and a drizzle of olive oil catching the warm light. STYLE: ultra-photorealistic professional food photography with deep golden-amber warmth, rich saturated appetizing colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no steam or smoke."
+    },
+    "description": "This quick veggie breakfast scramble is my go-to for busy mornings. Packed with fresh vegetables and ready in just 15 minutes, it’s a flavorful, wholesome way to start your day. Perfect for any weekday when time’s tight!",
+    "hashtags": "#quickbreakfast #vegetarianrecipes #easybreakfast",
+    "board_name": "Morning Meals",
+    "pin_variations": [
+        {
+            "title": "Why Does This Quick Veggie Breakfast Taste So Fresh and Flavorful?",
+            "description": "Discover the secret to a veggie-packed breakfast that’s both quick and bursting with flavor. It’s perfect for busy mornings when you want something healthy and satisfying. Save this for your next breakfast! #quickbreakfast #vegetarian #healthyrecipes"
+        },
+        {
+            "title": "The One Trick That Makes This Quick Veggie Breakfast Perfect Every Time",
+            "description": "Want your scrambled eggs fluffy and veggies perfectly tender? This simple tip will change your breakfast game! Quick, easy, and delicious—your mornings just got better. Tap to get the full recipe. #easybreakfast #vegrecipes #morningmeals"
+        },
+        {
+            "title": "15-Minute Quick Veggie Breakfast for Busy Weekday Mornings",
+            "description": "Short on time? This veggie scramble comes together fast with fresh ingredients and minimal fuss. Healthy, colorful, and satisfying—a great way to fuel your day. Save this for dinner inspo! #quickbreakfast #healthyfood #vegetarian"
+        },
+        {
+            "title": "Quick Veggie Breakfast vs Traditional Eggs: Which Is Better for You?",
+            "description": "Looking for a healthier morning option? This veggie-packed scramble adds nutrients and flavor to your eggs without extra effort. Find out why it’s a family favorite! Tap for the recipe. #breakfastideas #vegetarianrecipes #healthymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "8 large eggs, lightly beaten",
+        "1 cup diced bell peppers (red, yellow, green)",
+        "1 cup fresh spinach, chopped",
+        "1/2 cup cherry tomatoes, halved",
+        "1 small zucchini, diced",
+        "1/4 cup shredded cheddar cheese",
+        "2 tablespoons olive oil",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "1/2 teaspoon garlic powder",
+        "Fresh parsley or chives for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this quick veggie breakfast scramble when I needed a fast, healthy way to start my hectic mornings. What I love about this recipe is how it balances fresh vegetables with fluffy eggs, making it both nourishing and satisfying. Unlike many standard scrambled egg recipes, this one sneaks in a colorful mix of peppers, spinach, and zucchini that brighten the plate and add a lovely texture. The trick I learned early on was to cook the veggies just until tender before adding the eggs, which keeps everything perfectly moist and flavorful without turning soggy. Plus, a little shredded cheddar stirred in at the end adds just the right creamy touch. Every time I make this, my family asks for seconds because it feels hearty but not heavy. It’s a simple recipe that works great for busy weekdays but also feels special enough for a lazy weekend brunch. You’ll get fluffy eggs with vibrant veggies that hold their shape and flavor, making breakfast something to look forward to every day.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large nonstick skillet over medium heat. Add the diced bell peppers, zucchini, and cherry tomatoes, sautéing gently for about 5 minutes until the vegetables are just tender but still vibrant. This step is crucial because cooking the veggies first lets their flavors develop and prevents them from releasing too much water later, which can make the eggs watery. Watch for slight caramelization on the edges, which adds a subtle sweetness and depth.",
+            "timing": 5,
+            "doneness_cue": "Vegetables are tender with a slight golden edge and no excess moisture pooling in the pan."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the chopped spinach to the skillet and cook for another 1-2 minutes until wilted. Then pour the beaten eggs evenly over the veggies, seasoning with salt, pepper, and garlic powder. Let the eggs sit undisturbed for about 30 seconds to start setting, then gently stir with a spatula, folding the eggs from the edges toward the center. Cooking eggs slowly and gently helps keep them tender and fluffy rather than rubbery or dry.",
+            "timing": 6,
+            "doneness_cue": "Eggs are softly set but still moist and glossy, with the spinach fully wilted and evenly distributed."
+        },
+        {
+            "step": 3,
+            "instruction": "When the eggs are mostly cooked but still slightly runny, sprinkle the shredded cheddar cheese evenly over the scramble. Cover the skillet with a lid and let it sit off the heat for 1-2 minutes. The residual heat will melt the cheese perfectly without overcooking the eggs. This final step adds a creamy, rich layer that balances the fresh vegetable flavors beautifully.",
+            "timing": 3,
+            "doneness_cue": "Cheese is melted and gooey, eggs are fully set but still tender and moist."
+        },
+        {
+            "step": 4,
+            "instruction": "Remove the skillet from heat and garnish the scramble with fresh chopped parsley or chives. Serve immediately with toasted whole grain bread or your favorite breakfast sides. The fresh herbs add a bright, fresh note that complements the savory eggs and veggies.",
+            "timing": 1,
+            "doneness_cue": "Herbs look vibrant and fresh, and the dish is hot and ready to serve."
+        },
+        {
+            "step": 5,
+            "instruction": "For best results, use a nonstick skillet and avoid high heat which can cause eggs to toughen quickly. Stir gently and avoid overcooking to maintain a creamy texture. If you prefer, you can substitute cheddar with feta or goat cheese for a tangier flavor.",
+            "timing": 0,
+            "doneness_cue": "Eggs remain tender, vegetables retain color and texture."
+        },
+        {
+            "step": 6,
+            "instruction": "Feel free to customize the veggies based on what you have on hand. Mushrooms or diced onions work well if sautéed first. Just adjust cooking time slightly to ensure everything is tender but not mushy.",
+            "timing": 0,
+            "doneness_cue": "Vegetables are evenly cooked and flavorful."
+        },
+        {
+            "step": 7,
+            "instruction": "If making for meal prep, cook eggs slightly less than usual so they don’t dry out when reheated. Store in an airtight container in the fridge and reheat gently to preserve texture.",
+            "timing": 0,
+            "doneness_cue": "Eggs remain moist and flavorful after reheating."
+        },
+        {
+            "step": 8,
+            "instruction": "To add extra protein, toss in cooked sausage or bacon pieces along with the vegetables before adding the eggs. This makes the scramble heartier and perfect for a family breakfast.",
+            "timing": 0,
+            "doneness_cue": "Meat is crisp and evenly distributed."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve this scramble immediately for the best texture and flavor. Leftovers can become watery or rubbery if stored too long or reheated improperly, so enjoy fresh when possible.",
+            "timing": 0,
+            "doneness_cue": "Dish is warm, fresh, and appetizing."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Quick Veggie Breakfast Scramble Succeeds",
+        "content": "<p>This recipe works so well because it balances moisture, texture, and flavor through a few key techniques. Starting by sautéing the vegetables separately allows their natural sugars to caramelize slightly, adding depth without releasing excess water that would make the eggs watery. The gentle cooking of eggs over medium heat ensures they stay tender and creamy rather than rubbery or dry. Adding cheese at the end and letting it melt off heat prevents overcooking while enriching the dish with a luscious texture.</p><p>The choice of fresh, colorful vegetables not only boosts nutrition but also provides varied textures and bright flavors that keep the scramble interesting. The use of olive oil gives a subtle fruity richness and helps carry the flavors without overpowering. Seasoning with salt, pepper, and garlic powder enhances the natural tastes without masking them.</p><p>Cooking eggs slowly while stirring gently encourages a soft curd formation, which is key to fluffy scrambled eggs. The residual heat melting the cheese is a clever way to add creaminess without risking toughness. Fresh herbs added last bring a fresh, bright finish that balances the dish.</p><p>Altogether, these techniques create a quick, nutritious breakfast that feels indulgent yet wholesome, perfect for busy mornings or leisurely weekends alike.</p>",
+        "ingredient_notes": {
+            "eggs": "Choose fresh, large eggs for the best texture and flavor. Eggs provide the protein backbone of this scramble, and their freshness affects fluffiness and taste. Room temperature eggs mix more evenly and cook more gently, preventing toughness. Avoid overcooking to keep them tender.",
+            "bell peppers": "Use a mix of red, yellow, and green bell peppers for vibrant color and natural sweetness. Fresh, firm peppers provide crispness and a mild bite. Sautéing just until tender brings out their flavor without losing texture.",
+            "spinach": "Fresh baby spinach wilts quickly and adds a mild, slightly earthy flavor. It’s best added toward the end of the veggie sauté to preserve its bright green color and delicate texture. Frozen spinach can be used but should be well-drained.",
+            "cheddar cheese": "Sharp or mild cheddar melts beautifully, adding creamy richness and a subtle tang. Adding cheese off heat prevents it from becoming greasy or separating. You can substitute with feta or goat cheese for different flavor profiles.",
+            "olive oil": "Extra virgin olive oil adds a fruity, slightly peppery note that complements the vegetables and eggs. It also helps sauté the veggies evenly and prevents sticking. Use moderate heat to preserve its delicate flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Cook vegetables first until just tender before adding eggs.",
+            "reason": "Sautéing vegetables separately allows their flavors to develop and prevents excess moisture from making the eggs watery. This step ensures the scramble has a nice texture with distinct vegetable pieces."
+        },
+        {
+            "tip": "Use medium heat and stir eggs gently for fluffy texture.",
+            "reason": "Cooking eggs slowly and folding them gently prevents toughness and dryness, resulting in a soft, creamy scramble rather than rubbery curds."
+        },
+        {
+            "tip": "Add cheese off heat and cover to melt gently.",
+            "reason": "This technique melts cheese without overcooking the eggs, preserving moisture and creating a luscious, creamy finish."
+        },
+        {
+            "tip": "Use fresh herbs as a finishing touch.",
+            "reason": "Herbs like parsley or chives add brightness and fresh aroma that balance the savory eggs and vegetables, enhancing overall flavor."
+        },
+        {
+            "tip": "Avoid overcrowding the pan to ensure even cooking.",
+            "reason": "Overcrowding traps steam and causes soggy vegetables. Cooking in batches or using a large skillet ensures proper caramelization and texture."
+        },
+        {
+            "tip": "Use a nonstick skillet for easy stirring and cleanup.",
+            "reason": "Nonstick surfaces prevent eggs from sticking and breaking apart, allowing for gentle folding and a smooth scramble."
+        },
+        {
+            "tip": "Season eggs lightly at the start and adjust at the end.",
+            "reason": "Adding salt too early can make eggs watery; seasoning gradually preserves texture while enhancing flavor."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the eggs until dry and rubbery",
+            "why_it_happens": "Many cooks rush the process or use high heat, which causes eggs to lose moisture and become tough.",
+            "fix": "Cook eggs on medium heat, stirring gently and removing from heat while still slightly moist. Residual heat will finish cooking them without drying out."
+        },
+        {
+            "mistake": "Adding vegetables and eggs all at once",
+            "why_it_happens": "Skipping the sauté step leads to watery eggs because vegetables release moisture as they cook.",
+            "fix": "Cook veggies separately until tender and most moisture evaporates before adding eggs to keep the scramble fluffy."
+        },
+        {
+            "mistake": "Using frozen vegetables without draining",
+            "why_it_happens": "Frozen veggies contain extra water that can make the scramble soggy.",
+            "fix": "Thaw and thoroughly drain frozen vegetables before cooking to avoid excess moisture."
+        },
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "Too much food in the pan traps steam and prevents proper caramelization.",
+            "fix": "Cook in batches or use a large skillet to allow vegetables to brown evenly and retain texture."
+        },
+        {
+            "mistake": "Adding cheese too early",
+            "why_it_happens": "Cheese added at the start can separate or become greasy when cooked too long.",
+            "fix": "Add cheese off heat and cover to melt gently for a creamy finish."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Southwest Veggie Scramble",
+            "description": "Add diced jalapeños, black beans, and a sprinkle of cumin and smoked paprika for a spicy twist. Top with avocado slices and a squeeze of lime for extra freshness.",
+            "technical_note": "Cook spicy peppers carefully to avoid overpowering heat; add beans warmed through before eggs."
+        },
+        {
+            "name": "Mediterranean Style",
+            "description": "Swap cheddar for crumbled feta and add kalamata olives, sun-dried tomatoes, and fresh oregano. Serve with warm pita bread for a Mediterranean flair.",
+            "technical_note": "Add olives and sun-dried tomatoes with the vegetables to infuse flavor evenly."
+        },
+        {
+            "name": "Mushroom and Herb Scramble",
+            "description": "Include sautéed cremini mushrooms and fresh thyme or rosemary. This adds an earthy, savory depth that pairs beautifully with eggs.",
+            "technical_note": "Cook mushrooms until golden and moisture evaporates before adding eggs to avoid sogginess."
+        },
+        {
+            "name": "Vegan Tofu Scramble",
+            "description": "Replace eggs with crumbled firm tofu seasoned with turmeric and nutritional yeast for color and flavor. Sauté vegetables as usual for a plant-based alternative.",
+            "technical_note": "Press tofu well to remove excess water; cook gently to maintain texture."
+        },
+        {
+            "name": "Cheesy Broccoli and Cauliflower Scramble",
+            "description": "Add small steamed broccoli and cauliflower florets to the vegetable mix and use sharp cheddar for a comforting, veggie-rich breakfast.",
+            "technical_note": "Steam florets just until tender to keep a slight crunch before adding to the skillet."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "18g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "18g",
+        "fiber_grams": "3g",
+        "sodium_mg": "400mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredient brands and quantities."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Keep the scramble covered at room temperature for up to 2 hours. Avoid leaving it out longer to prevent bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. Reheat gently in a skillet over low heat with a splash of water or olive oil to restore moisture. Texture may be slightly firmer when cold.",
+        "freezer": "Freeze cooked scramble in a sealed container for up to 1 month. Thaw overnight in the fridge before reheating. Freezing may slightly change texture but flavor remains good.",
+        "reheating": "Reheat in a nonstick skillet over low heat, stirring occasionally, adding a teaspoon of water or olive oil to prevent drying. Microwave reheating can be used but may cause uneven heating and tougher texture.",
+        "make_ahead_strategy": "Prepare the vegetables a day ahead and store them separately in the fridge. Beat eggs fresh in the morning and combine with pre-cooked veggies for quick assembly and cooking."
+    },
+    "faq": [
+        {
+            "question": "Can I make this scramble vegan?",
+            "answer": "Yes! Substitute the eggs with firm tofu crumbled and seasoned with turmeric and nutritional yeast for color and flavor. Cook the tofu gently with the vegetables for a delicious vegan scramble alternative."
+        },
+        {
+            "question": "What if I don’t have cheddar cheese?",
+            "answer": "You can use other melting cheeses like mozzarella, Monterey Jack, or even feta for a tangier taste. If you want to skip cheese, adding a splash of plant-based milk can help keep the eggs creamy."
+        },
+        {
+            "question": "How do I keep the eggs fluffy and not rubbery?",
+            "answer": "Cook eggs on medium-low heat and stir gently and slowly. Remove from heat when they’re still slightly moist; residual heat will finish cooking them. Avoid high heat and over-stirring."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Absolutely! Mushrooms, onions, zucchini, or asparagus work well. Just sauté them first until tender and adjust cooking times to avoid sogginess."
+        },
+        {
+            "question": "How long can I store leftovers?",
+            "answer": "Store in an airtight container in the fridge for up to 3 days. Reheat gently to preserve texture. Avoid leaving leftovers at room temperature for more than 2 hours."
+        },
+        {
+            "question": "Can I prepare this ahead for meal prep?",
+            "answer": "Yes, cook veggies ahead and store separately. Combine with eggs and cook fresh or make the whole scramble and reheat gently. Slight texture changes may occur but flavor remains good."
+        },
+        {
+            "question": "What’s the best pan to use?",
+            "answer": "A nonstick skillet is ideal for easy cooking and cleanup. It prevents eggs from sticking and breaking apart, allowing gentle folding for fluffy texture."
+        },
+        {
+            "question": "How do I prevent watery eggs?",
+            "answer": "Cook vegetables first to evaporate moisture, use fresh eggs, and avoid overcrowding the pan. Season eggs gradually and stir gently to keep moisture balanced."
+        }
+    ],
+    "conclusion": "I hope you enjoy this quick veggie breakfast scramble as much as my family does. It’s simple, nourishing, and perfect for busy mornings. Let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "quick breakfast recipes veg",
+        "secondary_keywords": [
+            "easy vegetarian breakfast",
+            "healthy quick breakfast",
+            "how to make veggie scramble",
+            "best quick breakfast recipes",
+            "easy breakfast recipes veg"
+        ],
+        "internal_links": [
+            {
+                "text": "easy scrambled eggs recipe",
+                "anchor": "easy-scrambled-eggs"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-27 23:12:19",
+        "title_seed": "Quick Breakfast Recipes Veg"
+    },
+    "author_id": "author_001",
+    "id": "post_1785193939_913",
+    "slug": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes",
+    "uniqueSlug": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_1.webp",
+            "relativePath": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_2.webp",
+            "relativePath": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_3.webp",
+            "relativePath": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_9.webp",
+            "filePath": "posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_9.webp",
+            "relativePath": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Quick Veggie Breakfast Taste So Fresh and Flavorful?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_7.webp",
+            "filePath": "posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_7.webp",
+            "relativePath": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Quick Veggie Breakfast vs Traditional Eggs: Which Is Better for You?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_5.webp",
+            "filePath": "posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_5.webp",
+            "relativePath": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes This Quick Veggie Breakfast Perfect Every Time"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_8.webp",
+            "filePath": "posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_8.webp",
+            "relativePath": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Quick Veggie Breakfast Taste So Fresh and Flavorful?"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_6.webp",
+            "filePath": "posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_6.webp",
+            "relativePath": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Quick Veggie Breakfast for Busy Weekday Mornings"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_4.webp",
+            "filePath": "posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_4.webp",
+            "relativePath": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Quick Veggie Breakfast Taste So Fresh and Flavorful?"
+        }
+    ],
+    "image": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_1.webp",
+    "image_path": "posts/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images/quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes_pinrecipes_image_1.webp",
+    "image_dir": "quick-breakfast-recipes-veg-easy-and-delicious-morning-meals-in-15-minutes/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-28T01:16:03+01:00",
+    "updatedAt": "2026-07-28T01:16:03+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}
