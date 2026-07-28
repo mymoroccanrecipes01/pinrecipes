@@ -1,0 +1,363 @@
+{
+    "title": "Easy Homemade Zucchini Brownies Recipe That’s Moist and Delicious Every Time",
+    "promptIMG": {
+        "img1": "SCENE: a cozy home kitchen with soft natural light streaming through a window, faintly blurred background showing a wooden countertop. SUBJECT: a generous stack of rich, dark chocolate zucchini brownies resting on a rustic ceramic plate, the front brownie sharply in focus at a 30-degree angle showcasing its moist, fudgy texture and slightly cracked top with a glossy sheen. DETAILS: deep chocolate brown color with flecks of green from shredded zucchini subtly visible, a light dusting of powdered sugar over the top, crumbs scattered naturally on the plate edges. STYLE: ultra-photorealistic professional food photography with bright, warm daylight and saturated colors highlighting the rich chocolate tone and fresh zucchini flecks; shallow depth of field; vertical 2:3. AVOID: no text, logos, hands, or artificial elements; no steam or smoke; no dull or washed-out colors.",
+        "img2": "SCENE: soft, diffused daylight from a nearby window with a marble countertop softly blurred in the background. SUBJECT: a single zucchini brownie cut in half with both halves facing the camera, revealing a moist, dense interior with chocolate chips melting and zucchini strands woven through. DETAILS: interior glistens with moist crumb, chocolate chips slowly oozing, edges caramelized amber with a slight crust. STYLE: ultra-photorealistic food photography emphasizing texture and moisture, warm natural light, rich chocolate and green hues vivid and inviting; shallow macro depth of field; vertical 2:3. AVOID: no hands, no text, no artificial lighting effects, no flat colors.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with a side glow casting a golden hue. SUBJECT: several zucchini brownies arranged closely on a wooden board, topped with a light dusting of powdered sugar and a small bowl of fresh raspberries on the side. DETAILS: glossy chocolate surface with moist crumb visible, powdered sugar drifting into cracks, crumbs scattered naturally. STYLE: ultra-photorealistic professional food photography with deep golden-amber warmth, rich saturated colors highlighting chocolate and fresh raspberries; shallow depth of field; vertical 2:3. AVOID: no text, no hands, no logos, no dull lighting or colors."
+    },
+    "description": "These zucchini brownies are incredibly moist and rich, with a secret veggie twist that keeps them perfectly fudgy. I love sneaking in zucchini for extra moisture and texture without sacrificing chocolatey goodness. Great for a cozy afternoon treat or family dessert!",
+    "hashtags": "#zucchinibrownies #easybaking #moistbrownies",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Homemade Zucchini Brownies Taste Better Than Store-Bought?",
+            "description": "Discover the secret ingredient that makes these zucchini brownies so irresistibly moist and chocolatey 🍫. Perfect for sneaking veggies into dessert! Save this for your next baking day. #zucchinibrownies #homemadebaking #easyrecipes"
+        },
+        {
+            "title": "The One Trick That Makes Moist Zucchini Brownies Foolproof",
+            "description": "Want fudgy brownies every time? Adding shredded zucchini keeps these brownies moist without extra oil. Try this simple trick for perfect texture and flavor! Tap to get the full recipe. #bakingtips #zucchinibrownies #moistbrownies"
+        },
+        {
+            "title": "15-Minute Prep Zucchini Brownies for Busy Weeknights",
+            "description": "Short on time? These zucchini brownies come together quickly with simple ingredients and minimal fuss. A delicious way to enjoy dessert any night of the week! Save this for dinner inspo 🍫 #quickdessert #easybaking #zucchinibrownies"
+        },
+        {
+            "title": "Still Making Dry Brownies? This Zucchini Recipe Fixes It",
+            "description": "Dry brownies are a thing of the past with this zucchini brownie recipe. The veggie adds moisture and keeps every bite soft and rich. Try it tonight and thank me later! #moistbrownies #zucchinibrownies #familydessert"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 12,
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "1/2 cup unsweetened cocoa powder",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1/2 cup unsalted butter, melted",
+        "1 cup granulated sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 cup shredded zucchini, squeezed dry",
+        "1/2 cup chocolate chips (optional)"
+    ],
+    "yield": "Approximately 12 brownies",
+    "introduction": "I first tried zucchini brownies years ago when I wanted to sneak some veggies into a treat my kids would actually enjoy. At first, I was skeptical—how could something with zucchini taste like a proper brownie? But after a few tweaks, I found a recipe that’s moist, fudgy, and perfectly chocolatey every time. The zucchini adds moisture without making the brownies taste like veggies, and it keeps them soft even after a day or two. I usually squeeze out the shredded zucchini to avoid sogginess, and I always use melted butter for richness. This version also includes a touch of baking powder so the brownies rise just enough without losing their dense texture. When you bite into these, you’ll get that classic brownie crackly top and a gooey, rich center that’s hard to resist. It’s become a family favorite for after-school snacks and weekend baking sessions. I hope you enjoy making these as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease or line an 8x8-inch baking pan with parchment paper. This ensures your brownies won’t stick and will come out cleanly. Proper pan prep is key to easy slicing and serving later.",
+            "timing": 10,
+            "doneness_cue": "Pan is fully greased or parchment paper is snug without wrinkles."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, cocoa powder, baking powder, and salt. Sifting or whisking these dry ingredients helps distribute the leavening and cocoa evenly, preventing lumps and ensuring a uniform chocolate flavor throughout the batter.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are well combined with no visible clumps or streaks."
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate large bowl, mix the melted butter and sugar until smooth. Adding melted butter rather than softened butter gives the brownies a fudgier texture and richer flavor. Stirring the sugar in well helps dissolve it slightly for a smoother batter.",
+            "timing": 5,
+            "doneness_cue": "Butter and sugar mixture is glossy and lump-free."
+        },
+        {
+            "step": 4,
+            "instruction": "Beat in the eggs one at a time, followed by the vanilla extract. Incorporating eggs one by one allows the batter to emulsify properly, helping it hold together and rise evenly. The vanilla adds a subtle depth of flavor that complements the cocoa.",
+            "timing": 3,
+            "doneness_cue": "Batter is smooth and shiny with no streaks of egg white."
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the shredded zucchini, making sure it’s well-drained to avoid adding excess moisture. The zucchini adds moisture and a tender crumb without a noticeable veggie taste. Be gentle folding so you don’t deflate the batter.",
+            "timing": 3,
+            "doneness_cue": "Zucchini is evenly distributed throughout the batter."
+        },
+        {
+            "step": 6,
+            "instruction": "Gradually add the dry ingredients into the wet, folding gently until just combined. Overmixing can develop gluten and make the brownies tough, so stop as soon as you see no more flour streaks.",
+            "timing": 3,
+            "doneness_cue": "Batter is thick, fudgy, and evenly mixed without dry patches."
+        },
+        {
+            "step": 7,
+            "instruction": "If using, fold in the chocolate chips for extra melty pockets of chocolate. This step is optional but adds a wonderful texture contrast and bursts of chocolate in every bite.",
+            "timing": 2,
+            "doneness_cue": "Chocolate chips are evenly scattered throughout the batter."
+        },
+        {
+            "step": 8,
+            "instruction": "Pour the batter into the prepared pan and smooth the top with a spatula. Even spreading ensures the brownies bake uniformly, preventing thin edges or undercooked centers.",
+            "timing": 2,
+            "doneness_cue": "Batter surface is level and smooth."
+        },
+        {
+            "step": 9,
+            "instruction": "Bake for 25-30 minutes until the edges look set and a toothpick inserted near the center comes out with a few moist crumbs. Avoid overbaking to keep the brownies fudgy and moist rather than dry and cakey.",
+            "timing": 30,
+            "doneness_cue": "Edges are firm and toothpick test shows moist crumbs but no wet batter."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Zucchini Brownie Recipe Delivers Moist, Fudgy Results",
+        "content": "<p>Adding shredded zucchini to brownies might sound unusual, but it’s a clever way to boost moisture and tenderness without compromising chocolate flavor. Zucchini has a high water content, which keeps the crumb soft and prevents drying out during baking. The key is to squeeze out excess moisture from the shredded zucchini so the batter isn’t too wet, which would make the brownies dense and gummy.</p><p>Melted butter is used instead of softened butter or oil because it imparts a richer flavor and helps create that classic fudgy texture. Butter’s milk solids participate in Maillard browning reactions during baking, giving the brownies their signature crackly top and deep chocolate aroma.</p><p>The small amount of baking powder provides just enough lift to lighten the dense batter slightly without turning the brownies cakey. This balance between rise and density is essential for a moist, chewy brownie that holds together well but still feels indulgent.</p><p>Finally, folding the dry ingredients gently into the wet preserves tenderness by minimizing gluten development. Overmixing would make the brownies tough. The optional chocolate chips melt into pockets of gooey chocolate, enhancing the sensory experience and making each bite a delight.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good quality all-purpose flour with moderate protein content (around 10-11%). This provides enough structure to hold the brownies together while allowing a tender crumb. Avoid bread flour, which would make the brownies too chewy, or cake flour, which might make them too delicate.",
+            "unsweetened cocoa powder": "Use natural unsweetened cocoa powder for a rich chocolate flavor and deep color. Dutch-processed cocoa can be used but it will alter the acidity and may affect the rise slightly. Fresh cocoa powder ensures the best aroma and taste.",
+            "baking powder": "A small amount of baking powder helps the brownies rise just enough for a tender texture without becoming cakey. Too much leavening would create air pockets and dry texture, so precise measurement is important.",
+            "unsalted butter": "Melted unsalted butter adds richness and moisture. Unsalted allows you to control salt levels precisely. Butter also contributes to the Maillard reaction, creating a flavorful crust and enhancing aroma.",
+            "shredded zucchini": "Fresh zucchini should be shredded finely and squeezed of excess water to prevent soggy batter. It adds moisture and a subtle vegetal note that disappears in baking, making these brownies moist without tasting like veggies.",
+            "chocolate chips": "Optional but recommended for extra melty chocolate bursts. Use semi-sweet or dark chocolate chips for balance. They melt partially during baking, creating gooey pockets that elevate the texture and flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Squeeze the shredded zucchini well before adding it to the batter.",
+            "reason": "Removing excess moisture prevents the batter from becoming too wet and ensures the brownies bake with the perfect fudgy texture instead of turning gummy or soggy."
+        },
+        {
+            "tip": "Use melted butter rather than softened butter or oil.",
+            "reason": "Melted butter helps achieve a richer flavor and a fudgier texture. It also promotes Maillard browning, giving the brownies a crackly top and deep chocolate aroma."
+        },
+        {
+            "tip": "Avoid overmixing the batter when combining dry and wet ingredients.",
+            "reason": "Overmixing develops gluten, which can make brownies tough and cakey. Gently folding just until combined keeps the texture tender and moist."
+        },
+        {
+            "tip": "Line your baking pan with parchment paper extending over the edges.",
+            "reason": "This makes it easy to lift the entire batch out of the pan for clean, even slicing without sticking or crumbling."
+        },
+        {
+            "tip": "Bake until a toothpick comes out with moist crumbs, not completely clean.",
+            "reason": "This ensures the brownies stay fudgy inside rather than drying out. They continue to set as they cool."
+        },
+        {
+            "tip": "Add chocolate chips for extra melty pockets of chocolate.",
+            "reason": "They melt during baking, creating gooey bites that contrast beautifully with the dense brownie texture."
+        },
+        {
+            "tip": "Cool brownies completely before slicing.",
+            "reason": "This helps them set fully and slice cleanly without crumbling or falling apart."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not draining the zucchini well enough",
+            "why_it_happens": "Many assume shredded zucchini can be added straight from shredding, but its high water content can make the batter too wet and affect texture.",
+            "fix": "After shredding, place zucchini in a clean kitchen towel and squeeze firmly to remove excess moisture before adding to the batter."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "In an effort to combine ingredients well, some mix too vigorously, which develops gluten and toughens brownies.",
+            "fix": "Fold dry ingredients into wet gently and stop mixing as soon as no flour streaks remain."
+        },
+        {
+            "mistake": "Baking too long",
+            "why_it_happens": "Waiting for a toothpick to come out completely clean can dry out brownies, losing their fudgy quality.",
+            "fix": "Remove brownies when toothpick still has a few moist crumbs attached; they will finish setting as they cool."
+        },
+        {
+            "mistake": "Using the wrong pan size",
+            "why_it_happens": "Using a pan too large or too small changes baking time and thickness, leading to under or overbaked brownies.",
+            "fix": "Stick to an 8x8-inch pan or adjust baking time accordingly if using a different size."
+        },
+        {
+            "mistake": "Skipping parchment paper or greasing",
+            "why_it_happens": "Brownies stick to the pan and break apart when removed without proper preparation.",
+            "fix": "Always line the pan with parchment paper or grease it well to ensure easy removal."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Zucchini Brownies",
+            "description": "Add 1/2 cup chopped walnuts or pecans to the batter for a crunchy texture contrast and nutty flavor. Toast the nuts lightly beforehand to enhance aroma.",
+            "technical_note": "Folding nuts in at the end preserves their crunch. Baking time remains the same."
+        },
+        {
+            "name": "Vegan Zucchini Brownies",
+            "description": "Replace eggs with flax eggs (1 tablespoon flaxseed meal + 3 tablespoons water per egg) and use coconut oil instead of butter for a dairy-free option. Expect a slightly denser texture.",
+            "technical_note": "Mix flax eggs well and let them gel before adding to batter; baking time may increase by 3-5 minutes."
+        },
+        {
+            "name": "Spiced Zucchini Brownies",
+            "description": "Add 1 teaspoon cinnamon and 1/4 teaspoon ground nutmeg to the dry ingredients for a warm, cozy flavor twist that complements the chocolate and zucchini.",
+            "technical_note": "Spices should be mixed thoroughly with dry ingredients to avoid clumps."
+        },
+        {
+            "name": "Gluten-Free Zucchini Brownies",
+            "description": "Substitute all-purpose flour with a gluten-free blend that includes xanthan gum. Texture will be similar but slightly more delicate.",
+            "technical_note": "Ensure the blend is suitable for baking, and do not overmix to maintain tenderness."
+        },
+        {
+            "name": "Chocolate Swirl Zucchini Brownies",
+            "description": "Drop spoonfuls of cream cheese mixed with sugar and vanilla onto the batter and swirl gently with a knife before baking for a luscious marbled effect.",
+            "technical_note": "Swirling should be gentle to keep distinct layers; bake as usual."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "8g",
+        "fiber_grams": "2g",
+        "sodium_mg": "100mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store brownies in an airtight container at room temperature for up to 2 days. They stay moist and fresh but avoid leaving them uncovered to prevent drying out.",
+        "refrigerator": "Keep brownies in an airtight container in the fridge for up to 5 days. They may firm up slightly but can be brought back to room temperature before serving to restore softness.",
+        "freezer": "Wrap brownies tightly in plastic wrap and foil, then freeze for up to 3 months. Thaw overnight in the fridge or at room temperature before serving.",
+        "reheating": "Warm brownies gently in a microwave for 10-15 seconds or in a low oven (300°F) for 5-7 minutes to restore softness. Avoid overheating to prevent drying.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it covered in the fridge. Bake fresh the next day for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use zucchini without peeling it?",
+            "answer": "Yes, you can use zucchini with the skin on. The skin is thin and softens during baking, adding extra nutrients and a bit of texture without affecting the taste."
+        },
+        {
+            "question": "What if I don’t have cocoa powder?",
+            "answer": "Cocoa powder is essential for the chocolate flavor and texture. Substituting it with melted chocolate will change the recipe ratios and texture, so it’s best to use cocoa powder for this recipe."
+        },
+        {
+            "question": "How do I know when the brownies are done?",
+            "answer": "Insert a toothpick near the center; it should come out with a few moist crumbs but not wet batter. The edges will look set and slightly pulling away from the pan."
+        },
+        {
+            "question": "Can I freeze these brownies?",
+            "answer": "Absolutely! Wrap them tightly and freeze for up to 3 months. Thaw at room temperature or in the fridge before serving."
+        },
+        {
+            "question": "Can I substitute the sugar with a natural sweetener?",
+            "answer": "You can try using maple syrup or honey, but reduce the liquid in the recipe slightly to compensate, and expect a softer texture and different flavor profile."
+        },
+        {
+            "question": "Is it necessary to use baking powder?",
+            "answer": "Baking powder gives a slight lift to keep the brownies tender. Omitting it may result in denser brownies, but they will still be tasty."
+        },
+        {
+            "question": "Can I make these brownies vegan?",
+            "answer": "Yes, substitute eggs with flax eggs and butter with coconut oil or vegan butter. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "How to prevent the brownies from being dry?",
+            "answer": "Don’t overbake and make sure to squeeze excess moisture from the zucchini. Also, avoid overmixing the batter to keep it tender."
+        }
+    ],
+    "conclusion": "I hope you enjoy these zucchini brownies as much as my family does! They’re a simple way to add a little veggie goodness to your dessert. Let me know how they turn out!",
+    "seo": {
+        "primary_keyword": "zucchini brownies recipe",
+        "secondary_keywords": [
+            "easy zucchini brownies",
+            "moist zucchini brownies",
+            "how to make zucchini brownies",
+            "best zucchini brownies recipe",
+            "healthy zucchini brownies"
+        ],
+        "internal_links": [
+            {
+                "text": "moist chocolate brownie recipe",
+                "anchor": "moist-chocolate-brownie-recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-28 23:29:17",
+        "title_seed": "Zucchini Brownies Recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1785281357_430",
+    "slug": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time",
+    "uniqueSlug": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_5.webp",
+            "relativePath": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Moist Zucchini Brownies Foolproof"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_7.webp",
+            "relativePath": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Brownies? This Zucchini Recipe Fixes It"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_9.webp",
+            "relativePath": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Homemade Zucchini Brownies Taste Better Than Store-Bought?"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_4.webp",
+            "relativePath": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Homemade Zucchini Brownies Taste Better Than Store-Bought?"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_8.webp",
+            "relativePath": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Homemade Zucchini Brownies Taste Better Than Store-Bought?"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_6.webp",
+            "relativePath": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep Zucchini Brownies for Busy Weeknights"
+        }
+    ],
+    "image": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images/easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time_pinrecipes_image_1.webp",
+    "image_dir": "easy-homemade-zucchini-brownies-recipe-thats-moist-and-delicious-every-time/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-29T00:57:05+01:00",
+    "updatedAt": "2026-07-29T00:57:05+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}

@@ -1,0 +1,306 @@
+{
+    "title": "Authentic Argentine Asado: The Ultimate Guide to Traditional Argentina Food",
+    "promptIMG": "Food photography: Argentine Asado, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a warmly lit rustic kitchen softly blurred behind with a large wooden table and faint kitchenware in the background. SUBJECT: a generous, abundant pile of Argentine Asado ribs and chorizo sausages stacked high on a traditional metal grill plate, filling 95% of the frame corner to corner with the vessel cropping out of the frame edges; the front piece razor-sharp at a tight 30-degree angle showing the glistening caramelized char and juicy texture, the rest receding into soft bokeh. DETAILS: deep caramelized crust with wet glossy shine, sprinkled with coarse salt and fresh chimichurri herbs, natural irregularities on the meat surface visible; real textures as if a real photo captured in the moment — juices glistening on the surface. STYLE: ultra-photorealistic professional food photography, bright airy daylight with deep golden-amber warmth, rich highly saturated glowing appetizing colors — the hyper-vivid look of viral recipe pins, never illustration or neon; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no fingers, no arms, no people, no washed-out or dull colors, no CGI or plastic textures.",
+        "img2": "SCENE: soft light blur behind with warm wood tones and a bright clean window daylight, airy. SUBJECT: the reveal shot of Argentine Asado — a large rib cut in half with both halves facing the camera, the interior showing juicy, tender meat fibers glistening with rendered fat, the slow-cooked texture visible; the opened piece fills 90-95% of the frame, razor-sharp at the revealed center. DETAILS: the interior glistens wet and glossy with strong contrast against the charred crust; coarse salt crystals and chimichurri herbs crowning the top; meat juices pooling naturally below; real textures as if a real photo captured in the moment. STYLE: ultra-photorealistic professional food photography, bright airy daylight with deep golden-amber warmth, rich highly saturated glowing appetizing colors — hyper-vivid viral recipe-pin look; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no dull colors, no CGI.",
+        "img3": "SCENE: warm dark wood tones softly blurred behind with a single warm side glow — a richer, warmer variant that still glows. SUBJECT: several pieces of Argentine Asado ribs and chorizo arranged close together on a large rustic wooden board, topped with a generous drizzle of chimichurri sauce and fresh parsley sprigs; the front piece razor-sharp, the rest receding into warm bokeh; food fills 95% of the frame corner to corner. DETAILS: intense wet glossy shine on every surface, deep amber caramelization, chimichurri herbs drifting into the creases, a few coarse salt crystals scattered naturally on the board; real textures as if a real photo captured in the moment. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich highly saturated glowing appetizing tones — hyper-vivid viral recipe pin look; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no dull colors, no CGI."
+    },
+    "description": "This Argentine Asado recipe brings the heart of Argentina's beloved barbecue right to your table. The secret is in the slow grilling and fresh chimichurri that elevates every bite. Perfect for weekend gatherings or family dinners.",
+    "hashtags": "#ArgentineAsado #ArgentinaFood #TraditionalBBQ",
+    "board_name": "Family Friendly Meat Dishes",
+    "pin_variations": [
+        {
+            "title": "Why Does Authentic Argentine Asado Taste So Irresistible?",
+            "description": "Discover the magic behind Argentina's famous Asado and why slow grilling with fresh chimichurri makes all the difference. Ready to impress your family? Save this for your next BBQ! #ArgentineAsado #FamilyDinner #BBQSecrets"
+        },
+        {
+            "title": "The One Trick That Makes Argentine Asado Perfect Every Time",
+            "description": "It’s all about the grill temperature and seasoning! Learn the foolproof method to juicy, flavorful Argentine Asado that melts in your mouth. Tap to get the full recipe and wow your guests! #ArgentinaFood #GrillingTips #EasyBBQ"
+        },
+        {
+            "title": "30-Minute Prep for a Classic Argentine Asado Feast",
+            "description": "Prep your meats and chimichurri in just 30 minutes, then let the grill do the work. This traditional Argentina food is perfect for weekend family meals. Save it now for easy dinner inspiration! #FamilyMeal #ArgentineBBQ #QuickPrep"
+        },
+        {
+            "title": "Argentine Asado vs American BBQ: Which Flavor Wins?",
+            "description": "Explore the differences between Argentina’s Asado and classic American BBQ styles. Which one will become your new favorite? Dive in and decide! Save this for your next grilling session. #BBQComparison #ArgentinaFood #Grilling"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 120,
+    "servings": 6,
+    "ingredients": [
+        "4 lbs beef short ribs, bone-in",
+        "1 lb Argentine chorizo sausages",
+        "Coarse sea salt, to taste",
+        "1 cup fresh parsley, finely chopped",
+        "4 cloves garlic, minced",
+        "1/2 cup olive oil",
+        "1/4 cup red wine vinegar",
+        "1 tsp red pepper flakes",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I first fell in love with Argentine Asado during a trip to Buenos Aires years ago. The way they slow-grill the meat over wood embers, paired with vibrant chimichurri, was unforgettable. Since then, I've tried countless recipes, but this version nails the balance of smoky char and juicy tenderness every time. One trick I learned is to salt the meat liberally and let it rest before grilling, which helps develop that perfect crust. Also, making the chimichurri fresh just before serving keeps it bright and zesty. The finished Asado is deeply flavorful, with a satisfying char and a tender, juicy interior that melts in your mouth. It’s the kind of meal that brings everyone to the table and keeps them talking long after the last bite.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by seasoning the beef short ribs generously with coarse sea salt on all sides. This step is crucial because the salt draws out moisture and helps form a delicious crust during grilling. Let the ribs rest at room temperature for about 30 minutes before cooking. This resting period ensures even cooking and enhances flavor penetration. Avoid rushing this step; salting too late or grilling immediately can lead to uneven seasoning and less flavorful meat.",
+            "timing": 30,
+            "doneness_cue": "The meat should feel slightly firm but not cold; salt crystals will have started dissolving on the surface."
+        },
+        {
+            "step": 2,
+            "instruction": "Prepare the chimichurri sauce by combining finely chopped parsley, minced garlic, olive oil, red wine vinegar, red pepper flakes, salt, and freshly ground black pepper in a bowl. Stir well and set aside for flavors to meld while you grill. Making chimichurri ahead allows the ingredients to marry, but for the freshest taste, add the sauce just before serving. Skipping this step or rushing it can result in a less vibrant sauce that doesn't complement the meat as well.",
+            "timing": 10,
+            "doneness_cue": "The sauce should look vibrant green with evenly distributed ingredients and a slightly oily sheen."
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your grill to medium-high heat. Arrange the ribs and chorizo on the grill, starting with the ribs first as they take longer to cook. Grill the ribs for about 1 to 1.5 hours, turning occasionally to develop an even char. Maintaining steady heat is key; avoid flare-ups by managing embers or coals carefully. Patience here ensures the meat becomes tender and smoky without burning.",
+            "timing": 90,
+            "doneness_cue": "The ribs should have a deep caramelized crust, and the meat should pull back slightly from the bone."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the chorizo sausages to the grill during the last 20-25 minutes of cooking. Turn them regularly to cook evenly and develop a crisp skin. Chorizos cook faster than ribs, so timing is important to avoid overcooking. If you rush this step, the sausages can split or dry out.",
+            "timing": 25,
+            "doneness_cue": "Sausages should be browned all over with a firm but juicy interior."
+        },
+        {
+            "step": 5,
+            "instruction": "Once cooked, remove the meat from the grill and let it rest for 10-15 minutes. Resting allows the juices to redistribute, making the meat more tender and juicy. Cutting into the meat too soon causes juices to spill out, resulting in dryness. Cover loosely with foil during resting to keep warm.",
+            "timing": 15,
+            "doneness_cue": "The meat should feel warm and slightly springy when pressed."
+        },
+        {
+            "step": 6,
+            "instruction": "Slice the ribs between the bones and arrange on a serving platter with the grilled chorizo. Spoon fresh chimichurri sauce generously over the meat. The acidity and herbs in the chimichurri brighten the rich, smoky flavors and add a fresh contrast. Skipping the sauce would miss the authentic Argentine flavor profile.",
+            "timing": 5,
+            "doneness_cue": "Meat glistens with sauce and looks vibrant and inviting."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the Argentine Asado with traditional sides like grilled vegetables, crusty bread, or a simple salad. These accompaniments complement the richness of the meat and balance the meal. Avoid heavy or overly complex sides that can overpower the flavors.",
+            "timing": 5,
+            "doneness_cue": "Sides look fresh and colorful, balancing the hearty meat."
+        },
+        {
+            "step": 8,
+            "instruction": "For best results, use hardwood charcoal or seasoned wood for grilling. This adds authentic smoky flavor that gas grills can't replicate. If using a gas grill, consider adding wood chips to a smoker box. The choice of fuel greatly influences the final taste, so don’t skip this if possible.",
+            "timing": 5,
+            "doneness_cue": "A subtle smoky aroma fills the air during cooking."
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your Argentine Asado with friends and family, encouraging everyone to savor the flavors and share stories. This recipe is as much about the experience as the food. Taking time to relax and enjoy the meal honors the tradition behind this beloved dish.",
+            "timing": 0,
+            "doneness_cue": "Happy, satisfied faces and lively conversation around the table."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Captures Authentic Argentine Flavor",
+        "content": "<p>Argentine Asado is more than just grilled meat; it’s a culinary tradition rooted in slow cooking and simple, quality ingredients. The key to success lies in the salt seasoning and slow, steady heat. Salt draws out moisture initially but then reabsorbs it, enhancing flavor and creating a savory crust known as the Maillard reaction. This chemical process browns the meat’s surface, producing complex, rich flavors and an appealing texture.</p><p>Slow grilling over hardwood or charcoal allows the meat to cook evenly while absorbing smoky aromas that gas grills lack. The low heat breaks down connective tissues, resulting in tender, juicy ribs. The chimichurri sauce balances the richness with acidity and fresh herbs, creating a harmonious flavor profile. The oil in chimichurri also helps emulsify the sauce, coating the meat and adding moisture.</p><p>Resting the meat after grilling is crucial. It lets juices redistribute within the fibers, preventing them from spilling out when sliced, which keeps the meat moist. The timing of adding chorizo later in the cook ensures it doesn’t overcook and dry out, preserving its juicy, spicy character. Altogether, these techniques and ingredients work in concert to deliver the authentic Argentine Asado experience.</p>",
+        "ingredient_notes": {
+            "beef short ribs": "Choose bone-in beef short ribs with good marbling for maximum flavor and tenderness. The bone adds richness during cooking and helps the meat retain moisture. Avoid overly lean cuts as they can dry out during the long grilling process.",
+            "Argentine chorizo sausages": "Look for fresh, coarsely ground pork chorizo seasoned with paprika and garlic. These sausages add a spicy, juicy contrast to the ribs. If unavailable, substitute with a mild pork sausage but avoid pre-cooked or dry varieties.",
+            "coarse sea salt": "Coarse salt is essential for drawing out moisture and creating the signature crust on the meat. Fine salt dissolves too quickly and won’t provide the same texture or flavor impact.",
+            "fresh parsley": "Fresh flat-leaf parsley gives chimichurri its bright, grassy notes. Avoid curly parsley as it’s less flavorful. Chop finely to release oils and blend well with other ingredients.",
+            "olive oil": "Use good quality extra virgin olive oil for a fruity, peppery base in the chimichurri. It emulsifies with vinegar and herbs, coating the meat and adding richness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Salt the meat at least 30 minutes before grilling for better crust formation.",
+            "reason": "Salting early draws moisture to the surface, which then reabsorbs, seasoning the meat deeply and helping create a flavorful crust through the Maillard reaction during grilling."
+        },
+        {
+            "tip": "Use hardwood charcoal or seasoned wood for authentic smoky flavor.",
+            "reason": "Wood smoke contains compounds that infuse the meat with complex aromas and taste, which gas grills cannot replicate. This enhances the traditional Argentine flavor profile."
+        },
+        {
+            "tip": "Let the meat rest after grilling before slicing.",
+            "reason": "Resting allows juices to redistribute evenly inside the meat fibers, preventing them from escaping when cut, which keeps the meat moist and tender."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Grilling the meat immediately after salting",
+            "why_it_happens": "Many cooks salt the meat just before placing it on the grill, thinking it will season it quickly.",
+            "fix": "Salt the ribs at least 30 minutes in advance to allow the salt to penetrate and draw out moisture before reabsorbing it, which helps develop a better crust and deeper flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Chimichurri",
+            "description": "Add extra red pepper flakes and a dash of smoked paprika to the chimichurri for a bolder, spicier kick that complements the smoky ribs perfectly.",
+            "technical_note": "Adjust the amount of chili flakes gradually to suit your heat tolerance, as too much can overpower the fresh herbs."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "45g",
+        "carbohydrates_grams": "3g",
+        "fat_grams": "36g",
+        "fiber_grams": "1g",
+        "sodium_mg": "780mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Keep leftover Asado covered loosely at room temperature for up to 2 hours. Avoid leaving meat out longer to prevent bacterial growth.",
+        "refrigerator": "Store cooled leftovers in an airtight container for up to 4 days. Meat may firm up and lose some juiciness when cold; reheat gently to restore tenderness.",
+        "freezer": "Freeze leftover meat in airtight freezer bags or containers for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat meat gently in a low oven (around 300°F) covered with foil to retain moisture, or in a skillet with a splash of water or broth. Avoid microwave reheating which can dry the meat.",
+        "make_ahead_strategy": "Prepare chimichurri sauce a day ahead to deepen flavors. Salt the meat in advance and refrigerate overnight for even better seasoning. Grill the next day for the freshest results."
+    },
+    "faq": [
+        {
+            "question": "Can I use a gas grill instead of charcoal for Argentine Asado?",
+            "answer": "Yes, but to mimic the smoky flavor, add soaked wood chips in a smoker box or foil pouch on your gas grill. This adds a subtle smoke aroma, though it won’t be as intense as charcoal or wood fire."
+        },
+        {
+            "question": "How do I know when the ribs are done?",
+            "answer": "Look for a deep caramelized crust and meat pulling back from the bones slightly. The ribs should be tender but not falling apart. You can test doneness by inserting a fork; it should meet little resistance."
+        },
+        {
+            "question": "Can I make chimichurri ahead of time?",
+            "answer": "Absolutely! Making chimichurri a few hours or a day ahead allows flavors to meld beautifully. Just keep it refrigerated and bring to room temperature before serving."
+        },
+        {
+            "question": "What if I don’t have Argentine chorizo?",
+            "answer": "You can substitute with fresh pork sausages seasoned with garlic and paprika. Avoid pre-cooked or dry sausages as they won’t provide the same juicy texture."
+        },
+        {
+            "question": "Is it necessary to rest the meat after grilling?",
+            "answer": "Yes, resting for 10-15 minutes lets the juices redistribute, making the meat juicier and more tender. Cutting too soon causes juices to escape, drying out the meat."
+        },
+        {
+            "question": "How can I make the chimichurri less spicy?",
+            "answer": "Reduce or omit the red pepper flakes and adjust garlic to taste. The parsley and vinegar provide plenty of flavor without heat."
+        },
+        {
+            "question": "Can I cook this recipe indoors?",
+            "answer": "While possible on a grill pan or broiler, the authentic smoky flavor comes from outdoor grilling over wood or charcoal. Indoor cooking won’t replicate the same taste."
+        },
+        {
+            "question": "What sides go best with Argentine Asado?",
+            "answer": "Simple grilled vegetables, fresh salads, crusty bread, or roasted potatoes complement the rich meat perfectly without overpowering it."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this authentic Argentine Asado as much as my family does. It’s a delicious way to bring a bit of Argentina’s warmth and tradition to your table. Don’t forget to share your results!",
+    "seo": {
+        "primary_keyword": "Argentina food",
+        "secondary_keywords": [
+            "Argentine Asado recipe",
+            "traditional Argentina food",
+            "how to make Argentine Asado",
+            "best Argentine Asado recipe",
+            "easy Argentine Asado"
+        ],
+        "internal_links": [
+            {
+                "text": "chimichurri sauce recipe",
+                "anchor": "chimichurri_sauce_recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761229889_885",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-28 23:15:54",
+        "title_seed": "Argentina Food"
+    },
+    "author_id": "author_001",
+    "id": "post_1785280554_409",
+    "slug": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food",
+    "uniqueSlug": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_1.webp",
+            "filePath": "posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_1.webp",
+            "relativePath": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_2.webp",
+            "filePath": "posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_2.webp",
+            "relativePath": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_3.webp",
+            "filePath": "posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_3.webp",
+            "relativePath": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_5.webp",
+            "filePath": "posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_5.webp",
+            "relativePath": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Argentine Asado Perfect Every Time"
+        },
+        {
+            "fileName": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_9.webp",
+            "filePath": "posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_9.webp",
+            "relativePath": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Authentic Argentine Asado Taste So Irresistible?"
+        },
+        {
+            "fileName": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_4.webp",
+            "filePath": "posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_4.webp",
+            "relativePath": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Authentic Argentine Asado Taste So Irresistible?"
+        },
+        {
+            "fileName": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_6.webp",
+            "filePath": "posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_6.webp",
+            "relativePath": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "30-Minute Prep for a Classic Argentine Asado Feast"
+        },
+        {
+            "fileName": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_8.webp",
+            "filePath": "posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_8.webp",
+            "relativePath": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Authentic Argentine Asado Taste So Irresistible?"
+        },
+        {
+            "fileName": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_7.webp",
+            "filePath": "posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_7.webp",
+            "relativePath": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Argentine Asado vs American BBQ: Which Flavor Wins?"
+        }
+    ],
+    "image": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_1.webp",
+    "image_path": "posts/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images/authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food_pinrecipes_image_1.webp",
+    "image_dir": "authentic-argentine-asado-the-ultimate-guide-to-traditional-argentina-food/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-29T00:57:05+01:00",
+    "updatedAt": "2026-07-29T00:57:05+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}

@@ -1,0 +1,363 @@
+{
+    "title": "Easy Recipes With Zucchini That Turn This Veggie Into Family Favorites",
+    "promptIMG": "Food photography: zucchini recipes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a bright home kitchen softly blurred behind with a large window letting in natural daylight, faint reflections on a clean countertop. SUBJECT: a generous, overflowing bowl of sautéed zucchini ribbons mixed with caramelized onions and cherry tomatoes in a rustic ceramic bowl, filling 95% of the frame with the bowl edges softly cropped. The front zucchini ribbons show their tender, glossy texture with a slight golden sear, the rest fading into a soft bokeh. DETAILS: vibrant green zucchini with a wet glossy shine, scattered fresh basil leaves and a light drizzle of olive oil settling into the strands; natural irregularities and crumbs on the bowl rim. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors that pop, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands or people, no dull colors, no CGI, no steam or smoke.",
+        "img2": "SCENE: soft blurred background of warm light wood and marble tones with bright natural light from a nearby window. SUBJECT: the reveal shot of a zucchini bake cut in half on a white ceramic plate, showing layers of thin zucchini slices, melted mozzarella cheese slowly oozing and bubbling, and a rich tomato sauce glistening wet inside. The opened halves fill 90% of the frame, razor-sharp focus on the oozing cheese pull and juicy vegetable layers. DETAILS: caramelized golden edges, fresh herbs sprinkled on top, crumbs scattered naturally on the plate, real textures with moist, glossy interiors. STYLE: ultra-photorealistic food photography, bright daylight with warm amber highlights, saturated appetizing colors, shallow depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no dull or flat colors.",
+        "img3": "SCENE: warm dark wood table softly blurred with a single warm side glow highlighting the food. SUBJECT: several slices of zucchini lasagna stacked and arranged closely on a rustic wooden board, topped with fresh basil and a light dusting of grated Parmesan, accompanied by a small bowl of homemade marinara sauce with a wooden spoon resting inside. The front slice is razor-sharp, showing layers of zucchini, ricotta, and melted cheese with intense glossy shine and caramelized edges. DETAILS: deep amber caramelization on the cheese, fresh herb sprinkles settling into creases, crumbs scattered naturally. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm tones, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no people, no dull colors, no plastic textures."
+    },
+    "description": "This collection of easy recipes with zucchini turns this humble veggie into delicious meals your family will love. From tender sautés to cheesy bakes, the secret is simple seasoning and fresh herbs. Great for quick dinners or meal prep!",
+    "hashtags": "#zucchinirecipes #easyvegetables #familydinner",
+    "board_name": "Easy Vegetable Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Zucchini Taste Better In These Easy Recipes?",
+            "description": "Discover the simple tricks that make zucchini pop with flavor in these easy dishes. From perfect seasoning to cooking methods, these recipes will change how you cook this veggie. Save this for dinner inspo! #zucchinirecipes #easyvegetables #familymeals"
+        },
+        {
+            "title": "The One Trick That Makes Zucchini Recipes Foolproof Every Time",
+            "description": "Want tender, flavorful zucchini every time? This one trick will transform your meals and impress your family. Try it tonight and see the difference! Tap to get the full recipe. #familydinner #vegetablerecipes #zucchini"
+        },
+        {
+            "title": "15-Minute Zucchini Recipes Perfect For Busy Weeknights",
+            "description": "Short on time? These 15-minute zucchini recipes are quick, healthy, and delicious. Perfect for busy weeknights when you want a wholesome meal fast. Save this for your next dinner! #quickrecipes #zucchini #easymeals"
+        },
+        {
+            "title": "Still Struggling With Bland Zucchini? These Recipes Fix That",
+            "description": "If your zucchini dishes often come out bland or soggy, these recipes will change your game. Learn how to bring out zucchini’s best flavors and textures. Tap to discover! #vegetablerecipes #familydinner #zucchinirecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "3 medium zucchini, sliced into ribbons or rounds",
+        "2 tablespoons olive oil",
+        "1 medium onion, thinly sliced",
+        "2 cloves garlic, minced",
+        "1 cup cherry tomatoes, halved",
+        "1/2 cup fresh basil leaves, chopped",
+        "1 cup shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "1 cup marinara sauce",
+        "Salt and freshly ground black pepper to taste"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first started experimenting with zucchini recipes when I had an overabundance from my garden one summer. At first, I struggled to make it taste exciting — it often came out watery or bland. But over time, I discovered a few secrets that completely changed how zucchini cooks and tastes. For example, slicing it thinly and salting it before cooking draws out excess moisture, which keeps dishes from getting soggy. Also, pairing zucchini with fresh herbs and a touch of cheese adds richness and depth without overpowering the vegetable’s natural flavor. I love how versatile zucchini is — you can sauté it quickly for a light side or layer it in a cheesy bake for a comforting meal. My family especially enjoys the zucchini lasagna I make with thin slices replacing noodles; it’s lighter but still satisfying. This collection of recipes highlights zucchini’s best qualities, turning it into dishes that feel cozy and homemade without being complicated. Whether you’re new to cooking with zucchini or looking for fresh ideas, these recipes are easy, flavorful, and perfect for weeknight dinners or meal prep.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preparing the zucchini. Slice the zucchini into thin ribbons or rounds depending on your recipe preference. Lay the slices out on a clean kitchen towel or paper towels and sprinkle lightly with salt. Let them sit for about 10 minutes to draw out excess moisture. This step is crucial because zucchini holds a lot of water, and salting helps prevent sogginess in your final dish. After 10 minutes, gently pat the slices dry to remove the released water and excess salt. This technique ensures your zucchini cooks up tender but not watery.",
+            "timing": 15,
+            "doneness_cue": "Zucchini slices feel less wet and floppy, with no visible water pooling on the towel."
+        },
+        {
+            "step": 2,
+            "instruction": "Heat olive oil in a large skillet over medium heat. Add the sliced onions and cook gently, stirring occasionally, until they become soft and translucent, about 7-8 minutes. This slow cooking allows the onions to caramelize slightly, adding natural sweetness that complements the zucchini. Avoid turning the heat too high to prevent burning. Once the onions are tender, add minced garlic and cook for another 1-2 minutes until fragrant. The garlic adds depth but can become bitter if overcooked, so watch closely.",
+            "timing": 10,
+            "doneness_cue": "Onions are soft, lightly golden, and garlic releases a fragrant aroma without browning."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the prepared zucchini slices to the skillet with the onions and garlic. Cook over medium-high heat, stirring occasionally, for about 5-7 minutes until zucchini is tender and lightly browned. The higher heat helps develop a bit of caramelization, enhancing flavor. Be careful not to overcrowd the pan to allow even cooking and browning. If needed, cook in batches. Season with salt and freshly ground black pepper to taste. The zucchini should be soft but still hold its shape.",
+            "timing": 7,
+            "doneness_cue": "Zucchini slices have a slight golden sear and are tender but not mushy."
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in the halved cherry tomatoes and fresh basil leaves. Cook for an additional 2-3 minutes until the tomatoes soften slightly but still hold their shape. The fresh basil adds a bright herbal note that balances the richness of the cooked vegetables. Avoid overcooking the tomatoes to preserve their fresh flavor and texture.",
+            "timing": 3,
+            "doneness_cue": "Tomatoes are softened with a glossy appearance, basil leaves are vibrant and wilted slightly."
+        },
+        {
+            "step": 5,
+            "instruction": "For a baked zucchini dish, preheat your oven to 375°F (190°C). In a baking dish, layer half of the sautéed zucchini mixture, then spread a thin layer of marinara sauce, followed by dollops of ricotta or shredded mozzarella cheese. Repeat the layers and finish with a generous sprinkle of grated Parmesan on top. This layering creates a rich, cheesy casserole that’s hearty but still highlights the zucchini’s texture.",
+            "timing": 10,
+            "doneness_cue": "The dish is evenly layered and ready to bake, with cheese visibly distributed."
+        },
+        {
+            "step": 6,
+            "instruction": "Bake the zucchini casserole in the preheated oven for 20-25 minutes until the cheese is melted, bubbly, and golden brown around the edges. Baking melds the flavors and gives the dish a comforting, cozy feel. Watch closely towards the end to avoid burning the cheese. Let the dish rest for 5 minutes after baking to set before serving.",
+            "timing": 25,
+            "doneness_cue": "Top is golden brown and bubbly, edges slightly caramelized, and interior hot and set."
+        },
+        {
+            "step": 7,
+            "instruction": "If making a quick sautéed zucchini side, after cooking the vegetables, transfer them to a serving dish and drizzle with a little extra virgin olive oil and a squeeze of fresh lemon juice. This brightens the flavors and adds a fresh finish. Garnish with extra chopped basil or parsley for color and aroma.",
+            "timing": 2,
+            "doneness_cue": "Vegetables glisten with oil and lemon juice, garnishes are fresh and vibrant."
+        },
+        {
+            "step": 8,
+            "instruction": "To store leftovers, let the zucchini dishes cool completely before transferring to airtight containers. Refrigerate promptly to maintain freshness and prevent sogginess. When reheating, add a splash of water or broth to keep the zucchini moist, especially for baked dishes.",
+            "timing": 5,
+            "doneness_cue": "Food is cooled and stored properly, ready for reheating."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve your zucchini dishes warm with a side of crusty bread or a simple green salad for a complete meal. These recipes work great for meal prep because they reheat well and keep their flavor. Enjoy the fresh, light taste of zucchini elevated with simple, classic ingredients.",
+            "timing": 1,
+            "doneness_cue": "Dish is plated attractively and ready to enjoy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why These Zucchini Recipes Shine",
+        "content": "<p>Zucchini is a high-moisture vegetable, which means managing its water content is key to achieving the right texture in cooked dishes. Salting the zucchini slices before cooking draws out excess liquid, preventing sogginess and allowing the vegetable to brown nicely. This simple technique transforms zucchini from watery to tender and flavorful.</p><p>Cooking at the right temperature also matters. Medium to medium-high heat encourages caramelization, which deepens flavor through Maillard reactions without burning the delicate vegetable. Sautéing onions slowly first builds a sweet, savory base that complements zucchini’s mild taste. Adding garlic towards the end preserves its aroma and prevents bitterness.</p><p>Layering zucchini with cheese and marinara sauce in baked dishes creates a harmonious balance of textures and flavors. The cheese melts and browns, adding richness and a crispy top layer, while the tomato sauce provides acidity that cuts through the creaminess. Resting the casserole after baking allows the layers to set, making it easier to serve.</p><p>Finally, fresh herbs like basil brighten the overall flavor profile and add a fresh contrast to the cooked vegetables. These recipes succeed by respecting zucchini’s natural characteristics and enhancing them with classic, simple ingredients.</p>",
+        "ingredient_notes": {
+            "zucchini": "Look for firm, medium-sized zucchini with smooth, unblemished skin. Smaller zucchini tend to be less watery and have a sweeter flavor, making them ideal for sautéing and baking. Avoid overly large zucchini which can be seedy and watery. When slicing, uniform thickness ensures even cooking and consistent texture.",
+            "olive oil": "Extra virgin olive oil adds a fruity, peppery flavor that complements zucchini’s mild profile. It also helps with browning and prevents sticking during sautéing. Choose a good quality, fresh olive oil for best taste. Avoid overheating to prevent bitterness and preserve healthy fats.",
+            "garlic": "Fresh garlic cloves provide a pungent, aromatic depth to the dish. Mince finely to ensure even flavor distribution. Adding garlic too early can cause it to burn and taste bitter, so it’s best added after onions have softened. Garlic powder can be used in a pinch but fresh is preferred.",
+            "mozzarella cheese": "Fresh shredded mozzarella melts beautifully, creating a creamy texture and mild flavor that pairs well with zucchini. Use whole milk mozzarella for richness. Pre-shredded cheese often contains anti-caking agents that can affect melting quality, so shredding fresh blocks is recommended.",
+            "basil": "Fresh basil leaves add a bright, herbal note that lifts the dish. Use fresh rather than dried for the best flavor and aroma. Add basil towards the end of cooking or as a garnish to preserve its delicate oils and vibrant color."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Salt zucchini slices and let them sit before cooking.",
+            "reason": "Salting draws out excess moisture, which prevents watery dishes and helps the zucchini brown better. If you skip this step, your zucchini may steam instead of sauté, resulting in a mushy texture."
+        },
+        {
+            "tip": "Cook onions slowly over medium heat before adding other ingredients.",
+            "reason": "Slow cooking allows onions to caramelize gently, developing natural sweetness that balances zucchini’s mild flavor. High heat risks burning the onions, which creates bitterness."
+        },
+        {
+            "tip": "Avoid overcrowding the pan when sautéing zucchini.",
+            "reason": "Crowding traps steam, causing the zucchini to become soggy instead of caramelized. Cook in batches if needed to maintain proper heat and texture."
+        },
+        {
+            "tip": "Add garlic towards the end of cooking.",
+            "reason": "Garlic burns quickly and turns bitter if cooked too long. Adding it late preserves its aroma and flavor without overpowering the dish."
+        },
+        {
+            "tip": "Let baked zucchini dishes rest before serving.",
+            "reason": "Resting allows the layers to set and the juices to redistribute, making the dish easier to slice and enhancing the overall texture."
+        },
+        {
+            "tip": "Use fresh herbs as a finishing touch.",
+            "reason": "Fresh herbs like basil add brightness and aroma that can be lost if cooked too long. Adding them at the end preserves their vibrant flavor."
+        },
+        {
+            "tip": "Use whole milk mozzarella for baking.",
+            "reason": "Whole milk mozzarella melts creamier and browns better than part-skim versions, enhancing the texture and richness of zucchini casseroles."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not salting zucchini before cooking.",
+            "why_it_happens": "Many cooks overlook this step, assuming all vegetables cook the same way. They expect zucchini to sauté without extra prep.",
+            "fix": "Salt the zucchini slices and let them sit for 10 minutes to draw out moisture, then pat dry before cooking. This prevents sogginess and improves browning."
+        },
+        {
+            "mistake": "Cooking garlic too early and burning it.",
+            "why_it_happens": "Garlic cooks faster than most veggies, so adding it at the start can lead to burning and bitterness.",
+            "fix": "Add garlic after onions have softened, cooking it briefly just until fragrant to avoid bitterness."
+        },
+        {
+            "mistake": "Overcrowding the pan when sautéing.",
+            "why_it_happens": "Trying to cook everything at once can trap steam, causing vegetables to stew rather than brown.",
+            "fix": "Cook zucchini in batches if necessary to allow proper caramelization and avoid soggy texture."
+        },
+        {
+            "mistake": "Using large, seedy zucchini.",
+            "why_it_happens": "Larger zucchini are often watery and have tough seeds, which affects texture and flavor.",
+            "fix": "Choose medium or smaller zucchini with firm skin for best results."
+        },
+        {
+            "mistake": "Skipping the resting step after baking.",
+            "why_it_happens": "Impatience leads cooks to serve immediately, but the dish hasn’t set yet.",
+            "fix": "Let baked zucchini dishes rest 5-10 minutes to firm up for easier slicing and better texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Zucchini Noodles with Pesto",
+            "description": "Swap zucchini ribbons for spiralized noodles and toss with homemade or store-bought pesto for a light, fresh meal. Add cherry tomatoes and pine nuts for texture. This version is raw or lightly sautéed, offering a crisp bite.",
+            "technical_note": "Cook zucchini noodles very briefly or serve raw to avoid sogginess; overcooking makes them mushy."
+        },
+        {
+            "name": "Zucchini Fritters",
+            "description": "Grate zucchini and mix with eggs, flour, and herbs to form patties. Pan-fry until golden and crispy for a delicious appetizer or side dish. These fritters have a crunchy exterior with tender interiors.",
+            "technical_note": "Squeeze excess moisture from grated zucchini before mixing to prevent soggy fritters."
+        },
+        {
+            "name": "Stuffed Zucchini Boats",
+            "description": "Hollow out zucchini halves and fill with a savory mixture of ground meat, vegetables, and cheese. Bake until tender and bubbly. This hearty variation works well for family dinners.",
+            "technical_note": "Pre-cook filling ingredients to ensure even baking and fully cooked stuffing."
+        },
+        {
+            "name": "Zucchini and Tomato Gratin",
+            "description": "Layer thin slices of zucchini and tomato with breadcrumbs and Parmesan, then bake until golden and bubbly. This gratin is a perfect side for roast meats or fish.",
+            "technical_note": "Use fresh breadcrumbs for a crisp topping and avoid soggy layers."
+        },
+        {
+            "name": "Zucchini Soup",
+            "description": "Cook zucchini with onions and broth, then blend until smooth for a comforting, creamy soup. Add herbs and a splash of cream for richness. This soup is easy to make and perfect for chilly days.",
+            "technical_note": "Don’t overcook zucchini before blending to retain vibrant color and fresh flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "220 kcal",
+        "protein_grams": "12g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "15g",
+        "fiber_grams": "3g",
+        "sodium_mg": "480mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Zucchini dishes should not be left at room temperature for more than 2 hours to prevent bacterial growth. Cover loosely if serving buffet-style but refrigerate leftovers promptly.",
+        "refrigerator": "Store cooked zucchini dishes in airtight containers in the refrigerator for up to 3 days. Note that texture may soften when cold; reheat gently to restore warmth and flavor.",
+        "freezer": "Freeze zucchini casseroles or cooked zucchini in airtight containers or heavy-duty freezer bags for up to 2 months. Thaw overnight in the refrigerator before reheating to maintain texture.",
+        "reheating": "Reheat zucchini dishes in the oven at 350°F (175°C) until warmed through, about 15-20 minutes. For stovetop reheating, use low heat with a splash of water or broth to prevent drying. Avoid microwaving too long as it can make zucchini mushy.",
+        "make_ahead_strategy": "Prepare zucchini layers or sautéed vegetables 1-2 days ahead and store separately in the refrigerator. Assemble and bake on the day of serving for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for these recipes?",
+            "answer": "Frozen zucchini releases more water when thawed, which can make dishes soggy. If using frozen, thaw completely and squeeze out excess moisture before cooking. Fresh zucchini is preferred for best texture."
+        },
+        {
+            "question": "How do I prevent zucchini from becoming mushy?",
+            "answer": "Salting and draining zucchini before cooking helps remove excess water. Also, avoid overcrowding the pan and cook over medium-high heat to encourage browning rather than steaming."
+        },
+        {
+            "question": "What cheese works best in baked zucchini dishes?",
+            "answer": "Mozzarella and Parmesan are classics for melting and flavor. Fresh mozzarella melts creamy while Parmesan adds a nutty, crispy topping. Ricotta can be added for creaminess but should be layered carefully to avoid excess moisture."
+        },
+        {
+            "question": "Can I make these recipes vegan?",
+            "answer": "Yes! Substitute cheese with vegan alternatives or nutritional yeast for flavor. Use olive oil or plant-based butter instead of dairy. Ensure any sauces used are vegan-friendly."
+        },
+        {
+            "question": "How long can I store leftover zucchini casserole?",
+            "answer": "Store leftovers in an airtight container in the refrigerator for up to 3 days. Reheat thoroughly before serving. For longer storage, freeze as recommended."
+        },
+        {
+            "question": "Is it necessary to peel zucchini?",
+            "answer": "No, the skin is tender and nutritious. Just wash well before slicing. Peeling is optional and usually done only if the skin is tough or waxed."
+        },
+        {
+            "question": "Can I add other vegetables to these recipes?",
+            "answer": "Absolutely! Bell peppers, mushrooms, or spinach work well. Adjust cooking times accordingly to ensure all vegetables are tender."
+        },
+        {
+            "question": "What’s the best way to slice zucchini for these dishes?",
+            "answer": "Uniform slices ensure even cooking. Use a mandoline or sharp knife to slice zucchini into ribbons, rounds, or thin strips depending on the recipe."
+        }
+    ],
+    "conclusion": "I hope you enjoy these easy and delicious recipes with zucchini as much as my family does. Give them a try and let me know which one becomes your favorite!",
+    "seo": {
+        "primary_keyword": "recipes with zucchini",
+        "secondary_keywords": [
+            "easy zucchini recipes",
+            "healthy zucchini dishes",
+            "how to make zucchini recipes",
+            "best zucchini recipes",
+            "simple zucchini meals"
+        ],
+        "internal_links": [
+            {
+                "text": "easy vegetable side dishes",
+                "anchor": "easy-vegetable-side-dishes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230221_583",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-28 23:19:23",
+        "title_seed": "Recipes With Zucchini"
+    },
+    "author_id": "author_001",
+    "id": "post_1785280763_379",
+    "slug": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites",
+    "uniqueSlug": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_1.webp",
+            "relativePath": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_2.webp",
+            "relativePath": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_3.webp",
+            "relativePath": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_5.webp",
+            "relativePath": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Zucchini Recipes Foolproof Every Time"
+        },
+        {
+            "fileName": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_9.webp",
+            "relativePath": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Zucchini Taste Better In These Easy Recipes?"
+        },
+        {
+            "fileName": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_8.webp",
+            "relativePath": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Zucchini Taste Better In These Easy Recipes?"
+        },
+        {
+            "fileName": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_4.webp",
+            "relativePath": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Zucchini Taste Better In These Easy Recipes?"
+        },
+        {
+            "fileName": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_6.webp",
+            "relativePath": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Zucchini Recipes Perfect For Busy Weeknights"
+        },
+        {
+            "fileName": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_7.webp",
+            "relativePath": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Struggling With Bland Zucchini? These Recipes Fix That"
+        }
+    ],
+    "image": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images/easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites_pinrecipes_image_1.webp",
+    "image_dir": "easy-recipes-with-zucchini-that-turn-this-veggie-into-family-favorites/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-29T00:57:05+01:00",
+    "updatedAt": "2026-07-29T00:57:05+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}
