@@ -1,0 +1,365 @@
+{
+    "title": "Easy Zucchini Brownies Recipe With Cocoa Powder That Everyone Will Love",
+    "promptIMG": {
+        "img1": "SCENE: a cozy home kitchen softly blurred with morning light filtering through a window, warm wooden countertops in the background. SUBJECT: a generous stack of rich, fudgy zucchini brownies in a rustic ceramic baking dish, the front piece sharply focused at a 30-degree angle showing the moist crumb and deep chocolatey texture with flecks of green zucchini visible, the rest fading softly into bokeh. DETAILS: glossy cocoa powder dusting on top with a slight sheen from melted chocolate, a few crumbs scattered naturally on the dish edge, the surface showing subtle cracks and a moist, dense texture. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors highlighting the deep brown and green hues—hyper-vivid viral recipe pin look, shallow macro depth of field, vertical 2:3. AVOID: no text, logos, hands, or artificial effects; no steam or smoke.",
+        "img2": "SCENE: soft natural daylight with a warm marble countertop blurred behind, bright window light. SUBJECT: the reveal shot of zucchini brownies cut in half with both halves stacked slightly offset, moist interior exposed showing gooey melted chocolate pockets and flecks of shredded zucchini, the cut edges glistening with a rich, fudgy shine. DETAILS: deep dark chocolate color contrasted with light green zucchini strands, crumbs scattered below, a dusting of cocoa powder on top edges, the texture wet and inviting. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden-amber glow, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no hands, text, logos, or artificial enhancements.",
+        "img3": "SCENE: warm dark wood tones softly blurred with a single warm side glow, creating a cozy atmosphere. SUBJECT: several zucchini brownie pieces arranged close together in a rustic ceramic dish, topped with a light dusting of cocoa powder and a drizzle of melted chocolate, accompanied by a small bowl of fresh raspberries on the side. DETAILS: intense glossy shine on brownie surfaces, deep amber highlights on edges, a few crumbs scattered naturally on the plate, warm inviting textures. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grading, rich saturated appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, hands, logos, or artificial effects."
+    },
+    "description": "These zucchini brownies are a delicious way to sneak veggies into dessert without sacrificing fudgy chocolate flavor. The cocoa powder adds a rich depth, and they come together quickly for a perfect after-dinner treat or weekend bake.",
+    "hashtags": "#zucchinibrownies #easybaking #homemadedessert",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does This Zucchini Brownies Recipe Taste So Moist and Rich?",
+            "description": "Discover the secret ingredient that keeps these brownies fudgy and moist every time 🍫🥒. Perfect for sneaking in veggies without losing that chocolatey goodness. Save this for your next baking day! #zucchinibrownies #easybaking #homemadedessert"
+        },
+        {
+            "title": "The One Trick That Makes Zucchini Brownies With Cocoa Powder Foolproof",
+            "description": "Want brownies that are perfectly fudgy with a hint of zucchini freshness? This simple technique ensures a moist texture and deep chocolate flavor. Try it tonight and watch everyone ask for seconds! #easybaking #zucchinibrownies #chocolatelover"
+        },
+        {
+            "title": "15-Minute Prep Zucchini Brownies Recipe Perfect for Busy Weeknights",
+            "description": "Short on time? Whip up this quick zucchini brownies recipe with cocoa powder that’s both healthy and indulgent. Ready to bake in just 15 minutes, it’s a family favorite you’ll reach for again and again. Tap for the full recipe! #weeknightdessert #zucchinibrownies #easybaking",
+            "hashtags": "#weeknightdessert #zucchinibrownies #easybaking"
+        },
+        {
+            "title": "Still Making Dry Brownies? This Zucchini Brownies Recipe Fixes It",
+            "description": "Say goodbye to dry brownies! Adding shredded zucchini and cocoa powder creates a moist, rich texture that melts in your mouth. Perfect for family dinners or cozy nights in. Save this recipe for your next bake! #zucchinibrownies #moistbrownies #easybaking",
+            "hashtags": "#moistbrownies #zucchinibrownies #familydessert"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 cup shredded zucchini, squeezed dry",
+        "3/4 cup all-purpose flour",
+        "1/2 cup unsweetened cocoa powder",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1/2 cup granulated sugar",
+        "1/4 cup brown sugar, packed",
+        "1/3 cup vegetable oil",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/2 cup chocolate chips (optional)"
+    ],
+    "yield": "8 moist, fudgy brownies",
+    "introduction": "I've been making zucchini brownies for years now, and honestly, they're one of my favorite ways to sneak in some veggies without anyone noticing. The first time I tried this recipe, I was skeptical—would the zucchini make them weird or soggy? But nope, it just adds this incredible moistness and subtle texture that makes every bite so satisfying. What sets my version apart is using unsweetened cocoa powder for a deep, rich chocolate flavor and squeezing the zucchini well to avoid excess moisture. I also like to toss in a handful of chocolate chips for those gooey pockets of melty chocolate. These brownies come out dense and fudgy, with just the right balance of sweetness and earthiness from the zucchini. They’re perfect for a cozy family dessert or a weekend treat to share with friends. Plus, they're super simple to whip up and don’t require fancy ingredients or techniques, which I know is important when cooking for a busy household. If you’ve ever been hesitant about adding veggies to your sweets, this recipe might just change your mind!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and lightly grease an 8x8-inch baking pan or line it with parchment paper. This ensures your brownies come out cleanly without sticking. Proper oven temperature is crucial for even baking and a fudgy texture; too hot and the edges dry out, too cool and they won’t set right.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan is evenly greased or parchment paper is wrinkle-free and covers the pan fully."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, cocoa powder, baking powder, and salt. Sifting or whisking these dry ingredients well helps avoid lumps and ensures even distribution of the leavening agent, which gives a slight lift to the brownies without making them cakey.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well combined with no visible clumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the eggs with granulated and brown sugar until combined. Add the vegetable oil and vanilla extract, mixing until smooth. This wet mixture provides moisture and richness; the brown sugar adds a subtle molasses flavor that deepens the chocolate taste.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is smooth and glossy, with no visible sugar crystals."
+        },
+        {
+            "step": 4,
+            "instruction": "Fold the dry ingredients into the wet mixture gently, being careful not to overmix. Overmixing can develop gluten, making brownies tough. The batter should be thick but smooth.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is uniform in color with no streaks of flour."
+        },
+        {
+            "step": 5,
+            "instruction": "Stir in the shredded zucchini and optional chocolate chips. The zucchini adds moisture and a subtle texture without overwhelming the chocolate flavor. Be sure the zucchini is well squeezed to avoid excess water that can make brownies soggy.",
+            "timing": "3 minutes",
+            "doneness_cue": "Zucchini and chips are evenly distributed throughout the batter."
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the batter into the prepared pan and spread evenly with a spatula. Even spreading ensures the brownies bake uniformly, preventing edges from drying out before the center is done.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter surface is level and smooth."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake in the preheated oven for 25-30 minutes. Start checking at 25 minutes by inserting a toothpick in the center; it should come out with a few moist crumbs but not wet batter. This timing keeps brownies fudgy rather than dry or cakey.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Edges are set and slightly pulling away from the pan, toothpick test passes."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove from oven and let cool completely in the pan on a wire rack. Cooling allows the brownies to set fully and makes cutting easier without crumbling.",
+            "timing": "30 minutes",
+            "doneness_cue": "Brownies are firm to the touch and no longer warm."
+        },
+        {
+            "step": 9,
+            "instruction": "Once cooled, cut into squares and serve. These brownies keep well at room temperature in an airtight container for several days or can be refrigerated for longer freshness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Clean, even squares with moist, fudgy texture inside."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Zucchini Brownies Recipe Succeeds",
+        "content": "<p>Zucchini brownies work wonderfully because the shredded zucchini adds moisture without a strong vegetable flavor, which keeps the brownies rich and fudgy. The key is squeezing out excess water from the zucchini to avoid sogginess. Cocoa powder is essential here; it provides a deep chocolate flavor without adding fat, balancing the moisture from the zucchini and oil.</p><p>The baking powder gives just enough lift to keep the brownies from being too dense, but not so much that they become cakey. The combination of granulated and brown sugar adds sweetness with a subtle caramel undertone from the brown sugar, enhancing the chocolate notes.</p><p>Mixing technique is important: overmixing develops gluten, which can toughen brownies, so gentle folding is necessary. Baking at 350°F ensures even cooking; a lower temperature might dry them out, while higher could burn the edges before the center sets. Cooling completely lets the brownies firm up for clean slicing.</p><p>Adding chocolate chips creates pockets of melted chocolate, increasing the indulgence factor. This recipe balances moisture, texture, and flavor beautifully, making it a reliable crowd-pleaser even for those skeptical about veggies in desserts.</p>",
+        "ingredient_notes": {
+            "shredded zucchini": "Choose fresh, firm zucchini without blemishes. Shred finely and squeeze out excess water using a clean kitchen towel or cheesecloth to prevent watery batter. Zucchini adds moisture and subtle texture without overpowering flavor, making brownies soft and fudgy.",
+            "unsweetened cocoa powder": "Use natural unsweetened cocoa powder for a rich, deep chocolate flavor. Avoid Dutch-processed cocoa here, as the acidity in natural cocoa reacts better with baking powder, helping the brownies rise properly and develop that classic chocolate taste.",
+            "all-purpose flour": "Regular all-purpose flour provides the right structure for brownies. Avoid substituting with whole wheat or gluten-free flours unless adjusted, as they can change texture and density significantly.",
+            "baking powder": "A small amount of baking powder gives a slight lift, preventing the brownies from becoming too dense or heavy. Using baking soda alone may alter flavor and texture, so stick to baking powder for this recipe.",
+            "vegetable oil": "Neutral vegetable oil keeps the brownies moist and tender. It disperses evenly through the batter, unlike butter which can solidify and create uneven texture. You can substitute with light olive oil or melted coconut oil if desired."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze the shredded zucchini to remove excess moisture before adding it to the batter.",
+            "reason": "Removing excess water prevents the brownies from becoming soggy or gummy. Too much moisture dilutes the cocoa flavor and affects baking time and texture."
+        },
+        {
+            "tip": "Use a gentle folding motion when combining wet and dry ingredients to avoid overdeveloping gluten.",
+            "reason": "Overmixing activates gluten in the flour which makes brownies tough and chewy instead of tender and fudgy."
+        },
+        {
+            "tip": "Check brownies a few minutes before the minimum baking time to prevent overbaking.",
+            "reason": "Oven temperatures vary, and overbaking dries out brownies. Look for moist crumbs on a toothpick rather than completely clean for perfect fudginess."
+        },
+        {
+            "tip": "Let brownies cool fully in the pan before cutting for clean edges.",
+            "reason": "Cutting warm brownies can cause them to crumble or stick. Cooling firms up the structure for neat slices."
+        },
+        {
+            "tip": "Add chocolate chips or chunks for extra gooey pockets of melted chocolate.",
+            "reason": "Chocolate chips melt during baking, creating indulgent bursts of flavor and moist texture that complement the zucchini."
+        },
+        {
+            "tip": "Use natural unsweetened cocoa powder instead of Dutch-processed for best rise and flavor.",
+            "reason": "Natural cocoa reacts with baking powder to create lift and a classic chocolate taste, whereas Dutch-processed is less acidic and can alter texture."
+        },
+        {
+            "tip": "Store brownies in an airtight container to maintain moistness.",
+            "reason": "Exposure to air dries out brownies quickly. Airtight storage preserves the fudgy texture and flavor for days."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing zucchini enough",
+            "why_it_happens": "Many assume shredded zucchini can be added straight in, forgetting it contains a lot of water.",
+            "fix": "Thoroughly squeeze shredded zucchini in a clean towel or cheesecloth before mixing to remove as much water as possible, ensuring the batter isn’t too wet."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "In a rush, cooks often stir vigorously, thinking it ensures better mixing.",
+            "fix": "Fold ingredients gently just until combined to avoid tough brownies from gluten development."
+        },
+        {
+            "mistake": "Overbaking brownies",
+            "why_it_happens": "Waiting too long or baking at too high temperature dries out the brownies.",
+            "fix": "Start checking doneness at 25 minutes; look for moist crumbs on a toothpick, not fully clean."
+        },
+        {
+            "mistake": "Using the wrong type of cocoa powder",
+            "why_it_happens": "Confusing natural and Dutch-processed cocoa powders is common.",
+            "fix": "Use natural unsweetened cocoa powder for this recipe to ensure proper chemical reactions and flavor."
+        },
+        {
+            "mistake": "Cutting brownies before fully cooled",
+            "why_it_happens": "Impatience leads to cutting warm brownies, causing crumbling and mess.",
+            "fix": "Cool brownies completely in the pan on a wire rack before slicing for clean cuts."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Walnut Zucchini Brownies",
+            "description": "Add 1/2 cup chopped walnuts to the batter for a crunchy texture and nutty flavor that complements the chocolate and zucchini. Toast the walnuts lightly beforehand for extra depth.",
+            "technical_note": "Fold nuts gently into the batter at the end to avoid overmixing; baking time remains the same."
+        },
+        {
+            "name": "Gluten-Free Zucchini Brownies",
+            "description": "Substitute all-purpose flour with a 1:1 gluten-free baking blend. These brownies remain fudgy and moist but may have a slightly different crumb texture.",
+            "technical_note": "Check doneness a few minutes earlier as gluten-free flours can bake faster."
+        },
+        {
+            "name": "Vegan Zucchini Brownies",
+            "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use coconut oil instead of vegetable oil. This keeps the brownies moist and rich without animal products.",
+            "technical_note": "Let flax eggs sit for 5 minutes to gel before mixing; bake time and temperature stay the same."
+        },
+        {
+            "name": "Spiced Zucchini Brownies",
+            "description": "Add 1 teaspoon cinnamon and 1/4 teaspoon nutmeg to the dry ingredients for a warm, cozy spice note that pairs beautifully with chocolate and zucchini.",
+            "technical_note": "Mix spices with cocoa powder and flour to distribute evenly; no change in baking time."
+        },
+        {
+            "name": "Peanut Butter Swirl Zucchini Brownies",
+            "description": "Drop spoonfuls of peanut butter on top of the batter and swirl with a knife before baking for a rich, nutty contrast to the chocolate zucchini base.",
+            "technical_note": "Swirling does not affect baking time but adds visual appeal and flavor complexity."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "220 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "10g",
+        "fiber_grams": "3g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store zucchini brownies in an airtight container at room temperature for up to 3 days. Keep them away from direct sunlight or heat to maintain moisture and prevent drying out.",
+        "refrigerator": "Refrigerate brownies in an airtight container for up to 7 days. They may firm up and become denser when cold but can be brought back to room temperature before serving for best texture.",
+        "freezer": "Freeze brownies wrapped tightly in plastic wrap and placed in a freezer-safe container or bag for up to 3 months. Thaw overnight in the refrigerator or at room temperature before serving.",
+        "reheating": "Warm brownies gently in a microwave for 10-15 seconds or in a low oven (300°F) for 5-7 minutes to restore softness. Avoid overheating which can dry them out.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it covered in the refrigerator. Bake fresh the next day for best texture and flavor. Alternatively, bake brownies and freeze them for later enjoyment."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this recipe?",
+            "answer": "Yes, but thaw and squeeze out all excess moisture thoroughly before using. Frozen zucchini contains more water, so proper draining is essential to avoid soggy brownies."
+        },
+        {
+            "question": "What if I don’t have cocoa powder?",
+            "answer": "You can substitute with melted unsweetened chocolate (about 3 ounces) but reduce the oil slightly to compensate for the added fat. This will change the texture slightly but still yield delicious brownies."
+        },
+        {
+            "question": "Can I make these brownies nut-free?",
+            "answer": "Absolutely. This recipe is naturally nut-free unless you add nuts as a variation. Just ensure your cocoa powder and chocolate chips are processed in a nut-free facility if allergies are a concern."
+        },
+        {
+            "question": "How do I know when the brownies are done?",
+            "answer": "Insert a toothpick in the center; it should come out with moist crumbs but not wet batter. Edges will look set and may slightly pull away from the pan."
+        },
+        {
+            "question": "Can I use whole wheat flour instead of all-purpose?",
+            "answer": "You can, but expect a denser texture and nuttier flavor. Consider using half whole wheat and half all-purpose for a lighter result."
+        },
+        {
+            "question": "Why is it important to cool brownies before cutting?",
+            "answer": "Cooling allows the brownies to set fully so they cut cleanly without crumbling or sticking. Cutting warm brownies can cause a mess and uneven pieces."
+        },
+        {
+            "question": "Can I double the recipe?",
+            "answer": "Yes, double all ingredients and bake in a 9x13-inch pan, increasing baking time to about 35-40 minutes. Check for doneness regularly to avoid overbaking."
+        },
+        {
+            "question": "Are zucchini brownies healthy?",
+            "answer": "They’re a healthier dessert option since zucchini adds fiber and moisture, reducing the need for extra fats. However, they are still a sweet treat with sugar and oil, so enjoy in moderation."
+        }
+    ],
+    "conclusion": "I hope you enjoy these zucchini brownies as much as my family does! They’re a simple, delicious way to add a little veggie goodness to your dessert. Let me know how yours turn out!",
+    "seo": {
+        "primary_keyword": "zucchini brownies recipe with cocoa powder",
+        "secondary_keywords": [
+            "easy zucchini brownies",
+            "healthy chocolate brownies",
+            "how to make zucchini brownies",
+            "best zucchini brownies recipe",
+            "easy chocolate zucchini brownies"
+        ],
+        "internal_links": [
+            {
+                "text": "moist chocolate brownies recipe",
+                "anchor": "moist-chocolate-brownies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-29 23:11:00",
+        "title_seed": "Zucchini Brownies Recipe With Cocoa Powder"
+    },
+    "author_id": "author_001",
+    "id": "post_1785366660_123",
+    "slug": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love",
+    "uniqueSlug": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_6.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep Zucchini Brownies Recipe Perfect for Busy Weeknights"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_8.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Zucchini Brownies Recipe Taste So Moist and Rich?"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_5.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Zucchini Brownies With Cocoa Powder Foolproof"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_4.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Zucchini Brownies Recipe Taste So Moist and Rich?"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_9.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Zucchini Brownies Recipe Taste So Moist and Rich?"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_7.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Brownies? This Zucchini Brownies Recipe Fixes It"
+        }
+    ],
+    "image": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images/easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love_pinrecipes_image_1.webp",
+    "image_dir": "easy-zucchini-brownies-recipe-with-cocoa-powder-that-everyone-will-love/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-30T01:00:29+01:00",
+    "updatedAt": "2026-07-30T01:00:29+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}

@@ -1,0 +1,365 @@
+{
+    "title": "Easy Zucchini Brownies Recipe With Chocolate Chips for Moist, Fudgy Treats",
+    "promptIMG": "Food photography: zucchini brownies with chocolate chips, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm daylight streaming in from a window, faint reflections on a wooden countertop. SUBJECT: a generous pile of rich, fudgy zucchini brownies studded with glossy dark chocolate chips piled high on a rustic ceramic plate, the front piece sharply focused at a 30-degree angle revealing the moist, dense texture with specks of green zucchini and melted chocolate chips glistening. DETAILS: shiny chocolate chips catching the light, a slight crackle on the surface, crumbs scattered naturally around the plate edges. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors emphasizing the deep chocolate browns and fresh green flecks, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no logos, no steam or smoke, no CGI or over-smoothing.",
+        "img2": "SCENE: soft light blur behind a light grey marble countertop, bright natural window light illuminating the scene. SUBJECT: the reveal shot of a zucchini brownie cut in half with both halves facing the camera, showing the moist, fudgy interior with melted chocolate chips oozing slightly and flecks of shredded zucchini visible throughout. DETAILS: glossy, wet crumb with a rich chocolate sheen, edges caramelized to a deep amber, crumbs scattered gently on the surface below. STYLE: ultra-photorealistic professional food photography, bright daylight with warm golden highlights, rich saturated chocolate and green hues, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no logos, no steam, no CGI.",
+        "img3": "SCENE: warm dark wood table softly blurred with a single warm side glow highlighting the food. SUBJECT: several thick squares of zucchini brownies arranged close together on a dark rustic wooden board, each piece generously topped with extra chocolate chips that glisten under the warm light. DETAILS: intense glossy shine on chocolate chips, deep amber caramelization on edges, a light dusting of powdered sugar settling into the crevices, natural crumbs scattered around. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich saturated appetizing tones, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no logos, no steam, no CGI."
+    },
+    "description": "These zucchini brownies are my go-to when I want a dessert that’s fudgy and moist but sneaks in some veggies. The chocolate chips add that irresistible melty touch. Perfect for an after-dinner treat or snack anytime!",
+    "hashtags": "#zucchinibrownies #easybaking #chocolatechipbrownies",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does This Zucchini Brownies Recipe Stay So Moist Every Time?",
+            "description": "Wondering how to keep brownies moist without oil overload? This recipe’s secret is shredded zucchini that keeps them fudgy and tender 🍫💚. Save this for your next baking day! #zucchinibrownies #moistbrownies #easybaking"
+        },
+        {
+            "title": "The One Trick That Makes Zucchini Brownies With Chocolate Chips Perfect",
+            "description": "I found that squeezing out excess moisture from zucchini before mixing makes all the difference for fudgy brownies with no soggy bits. Try it and thank me later! 🍫👌 Tap for the full recipe. #brownies #chocolatechip #bakingtips"
+        },
+        {
+            "title": "15-Minute Prep Zucchini Brownies With Chocolate Chips for Busy Bakers",
+            "description": "Short on time but craving brownies? This zucchini brownies recipe comes together in 15 minutes prep and bakes into a rich, chocolatey treat. Perfect for quick dessert fixes! 🍫⏰ Save it now. #quickdessert #easybaking #zucchinibrownies"
+        },
+        {
+            "title": "Still Making Dry Brownies? This Zucchini Chocolate Chip Recipe Fixes It",
+            "description": "Dry brownies are the worst! Adding zucchini keeps these brownies super moist and fudgy without extra fat. Plus, the chocolate chips add gooey pockets of joy. Try it tonight! 🍫💚 #moistbrownies #zucchinibrownies #familyfriendly"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 cup shredded zucchini, excess moisture squeezed out",
+        "1/2 cup unsalted butter, melted",
+        "1 cup granulated sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "3/4 cup all-purpose flour",
+        "1/4 cup unsweetened cocoa powder",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1/2 cup semi-sweet chocolate chips"
+    ],
+    "yield": "8 brownies",
+    "introduction": "I first made zucchini brownies when I wanted to sneak some veggies into dessert without sacrificing flavor. At first, I was skeptical—how could green zucchini taste good in chocolate brownies? But after a few tries, I learned the key is squeezing out the zucchini’s moisture to keep the batter thick and fudgy. This version is my family’s favorite because it stays moist and rich, thanks to the melted butter and chocolate chips that add pockets of gooey chocolate throughout. The crumb is dense but tender, with just a hint of zucchini that no one minds. I love making these when I want a comforting treat that feels a little healthier but still indulgent. Plus, they’re super simple to whip up on a weeknight or for a casual gathering. If you’ve never tried zucchini in brownies before, this recipe is a great place to start—it’s foolproof and delicious every time.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease or line an 8x8 inch baking pan with parchment paper. This ensures your brownies won’t stick and makes cleanup easier. Getting the oven fully heated before baking is crucial for even cooking and that perfect fudgy texture with a slightly crackly top.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven is fully preheated to 350°F before baking the batter."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the melted butter and sugar until smooth. Then add the eggs one at a time, beating well after each addition to incorporate air and create a smooth batter. Stir in the vanilla extract. This step builds the base of your brownies and ensures a tender crumb.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is glossy and slightly thickened with no lumps."
+        },
+        {
+            "step": 3,
+            "instruction": "Fold in the shredded zucchini that has been squeezed dry to remove excess moisture. This is important because too much water can make the brownies soggy. The zucchini adds moisture and subtle veggie goodness without overpowering the chocolate flavor.",
+            "timing": "3 minutes",
+            "doneness_cue": "Zucchini is evenly distributed throughout the batter with no watery spots."
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, sift together the flour, cocoa powder, baking powder, and salt. Sifting helps remove lumps and aerates the dry ingredients for a lighter texture. Gradually fold these dry ingredients into the wet mixture, mixing just until combined to avoid overworking the batter.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is uniform in color with no streaks of flour or cocoa powder."
+        },
+        {
+            "step": 5,
+            "instruction": "Gently fold in the chocolate chips, reserving a few to sprinkle on top before baking. The chocolate chips add pockets of melty chocolate that make every bite extra special and indulgent.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chocolate chips are evenly scattered throughout the batter and some on top."
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the batter into the prepared pan and spread it evenly with a spatula. Make sure the batter reaches all corners for even baking. Smooth the top and sprinkle the reserved chocolate chips over the surface for a glossy finish.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is level and chocolate chips are visible on top."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake in the preheated oven for 25-30 minutes. Start checking at 25 minutes by inserting a toothpick in the center; it should come out with a few moist crumbs but not wet batter. Overbaking will dry out the brownies, so watch closely.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Edges are set and toothpick comes out mostly clean with moist crumbs."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the brownies from the oven and let them cool completely in the pan on a wire rack. Cooling allows the brownies to set properly and makes cutting easier without crumbling.",
+            "timing": "30 minutes",
+            "doneness_cue": "Brownies are firm to the touch and cool to room temperature."
+        },
+        {
+            "step": 9,
+            "instruction": "Once cooled, lift the brownies out using the parchment paper and cut into 8 squares with a sharp knife. Wipe the knife clean after each cut for neat edges. Serve as is or with a scoop of vanilla ice cream for an extra indulgent treat.",
+            "timing": "5 minutes",
+            "doneness_cue": "Clean, even squares with visible chocolate chips and moist crumb."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Zucchini Brownies Recipe Succeeds",
+        "content": "<p>This zucchini brownies recipe succeeds because it balances moisture and structure perfectly. The shredded zucchini adds moisture naturally, which keeps the brownies fudgy without needing extra fat. However, the key is removing excess water from the zucchini by squeezing it dry. Too much moisture would make the brownies soggy and dense rather than tender and rich.</p><p>The melted butter provides fat that coats the flour proteins, tenderizing the crumb and contributing to a rich mouthfeel. Using melted butter rather than softened butter helps the batter blend smoothly and yields a fudgier texture. The sugar not only sweetens but also helps retain moisture during baking.</p><p>The combination of cocoa powder and chocolate chips delivers deep chocolate flavor and varied textures. Cocoa powder offers an intense, slightly bitter chocolate base, while the chips melt into gooey pockets throughout. Baking powder is used sparingly to give a slight lift without making the brownies cakey.</p><p>Finally, baking at a moderate temperature (350°F) ensures the brownies cook evenly without drying out. The toothpick test helps avoid overbaking, preserving that perfect fudgy interior. Cooling fully before cutting lets the brownies set, preventing crumbling and ensuring clean slices. Altogether, these elements create a moist, flavorful, and irresistible zucchini brownie that’s a little healthier but still indulgent.</p>",
+        "ingredient_notes": {
+            "shredded zucchini": "Choose fresh, firm zucchini with a bright green color and no soft spots. Shred it finely and then squeeze out as much moisture as possible using a clean kitchen towel or cheesecloth. This step is crucial to avoid excess water in the batter, which can cause soggy brownies. The zucchini adds moisture and a subtle veggie boost without overpowering the chocolate flavor.",
+            "unsalted butter": "Use unsalted butter melted gently to control salt content and ensure even mixing. Melted butter coats the flour proteins, resulting in a tender, fudgy crumb. Avoid using margarine or low-fat substitutes as they change texture and flavor. Butter quality impacts the richness and mouthfeel of the brownies.",
+            "granulated sugar": "Regular granulated sugar is best for sweetness and moisture retention. It dissolves well in the melted butter and eggs, helping create a smooth batter. Avoid substitutes like powdered sugar here, as they can alter texture. Adjust sugar slightly if you prefer less sweetness.",
+            "all-purpose flour": "All-purpose flour provides the structure for the brownies. Measuring accurately and sifting helps prevent lumps and ensures even mixing. Overmixing flour can develop gluten and make brownies tough, so fold gently. For gluten-free versions, substitute with a blend designed for baking.",
+            "cocoa powder": "Use unsweetened natural cocoa powder for a rich chocolate flavor with slight acidity that balances sweetness. Dutch-processed cocoa can be used but may alter rising slightly due to pH differences. Sifting cocoa powder prevents clumps and ensures smooth batter.",
+            "baking powder": "A small amount of baking powder helps the brownies rise just enough to avoid being too dense or heavy. Too much can make brownies cakey, so measure carefully. Baking powder reacts with moisture and heat to create tiny air bubbles, lightening the texture.",
+            "chocolate chips": "Semi-sweet chocolate chips provide melty pockets of chocolate that contrast with the dense brownie. Choose good quality chips that melt well but hold shape during mixing. You can vary chip size or use chunks for different texture. Adding some on top before baking creates a glossy, appealing finish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze out excess moisture from shredded zucchini before adding it to the batter.",
+            "reason": "Removing water prevents soggy brownies and ensures the batter isn’t too wet, which would affect texture and baking time. The zucchini still adds moisture and nutrition without weighing down the batter."
+        },
+        {
+            "tip": "Use melted butter instead of softened butter for a fudgier brownie texture.",
+            "reason": "Melted butter coats flour proteins more evenly and creates a denser, moister crumb compared to creamed softened butter, which incorporates more air and yields cakier results."
+        },
+        {
+            "tip": "Do not overmix the batter once flour is added; fold gently until just combined.",
+            "reason": "Overmixing develops gluten, which toughens brownies and makes them less tender. Folding gently keeps the crumb soft and moist."
+        },
+        {
+            "tip": "Bake until a toothpick inserted comes out with moist crumbs, not completely clean.",
+            "reason": "Brownies continue to cook slightly as they cool. Removing them too late results in dry brownies, while underbaking leaves them gooey and unstable."
+        },
+        {
+            "tip": "Cool brownies completely in the pan before cutting.",
+            "reason": "Cooling lets brownies set and firm up, preventing crumbling and making clean slicing easier."
+        },
+        {
+            "tip": "Sprinkle extra chocolate chips on top before baking for a glossy, melty finish.",
+            "reason": "This adds visual appeal and extra pockets of gooey chocolate on the surface that enhance flavor and texture."
+        },
+        {
+            "tip": "Use parchment paper to line the baking pan for easy removal and cleanup.",
+            "reason": "Parchment prevents sticking and allows you to lift the entire brownie slab out for neat cutting without breaking."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing out enough moisture from the zucchini.",
+            "why_it_happens": "Many assume shredded zucchini can be added directly, but it contains a lot of water that can make brownies soggy.",
+            "fix": "After shredding, place zucchini in a clean towel and wring out as much liquid as possible. This keeps the batter thick and the brownies moist but not wet."
+        },
+        {
+            "mistake": "Overbaking the brownies.",
+            "why_it_happens": "It’s tempting to bake until a toothpick is completely clean, but brownies are best with some moist crumbs.",
+            "fix": "Check at 25 minutes and remove when toothpick has moist crumbs. This keeps brownies fudgy and prevents drying out."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour.",
+            "why_it_happens": "Some mix vigorously to combine, but this develops gluten and toughens the crumb.",
+            "fix": "Fold flour in gently just until no streaks remain to keep brownies tender."
+        },
+        {
+            "mistake": "Using low-quality cocoa powder or chocolate chips.",
+            "why_it_happens": "Cheap ingredients can lack flavor and melt poorly.",
+            "fix": "Choose good-quality unsweetened cocoa and semi-sweet chocolate chips for best taste and texture."
+        },
+        {
+            "mistake": "Skipping parchment paper or greasing the pan insufficiently.",
+            "why_it_happens": "Brownies can stick and break apart when cutting.",
+            "fix": "Line pan with parchment and grease lightly for easy removal and neat slices."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Walnut Zucchini Brownies",
+            "description": "Add 1/2 cup chopped walnuts to the batter for crunch and nutty flavor. Walnuts complement the chocolate and add texture without overwhelming the moist crumb.",
+            "technical_note": "Fold nuts in with the chocolate chips to distribute evenly. Baking time remains the same."
+        },
+        {
+            "name": "Gluten-Free Zucchini Brownies",
+            "description": "Substitute all-purpose flour with a gluten-free baking blend. This keeps the brownies tender and moist while accommodating gluten sensitivities.",
+            "technical_note": "Make sure your gluten-free blend contains xanthan gum or add 1/4 teaspoon to help bind the batter."
+        },
+        {
+            "name": "Vegan Zucchini Brownies",
+            "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use vegan butter or coconut oil. Use dairy-free chocolate chips to keep it fully vegan.",
+            "technical_note": "Flax eggs require a few minutes to gel before mixing. Baking time may increase by a few minutes."
+        },
+        {
+            "name": "Spiced Zucchini Brownies",
+            "description": "Add 1/2 teaspoon cinnamon and a pinch of nutmeg to the dry ingredients for a warm, cozy spice note that pairs wonderfully with chocolate.",
+            "technical_note": "Mix spices with cocoa powder before adding to wet ingredients for even flavor distribution."
+        },
+        {
+            "name": "Peanut Butter Swirl Zucchini Brownies",
+            "description": "Drop spoonfuls of peanut butter on top of the batter and swirl gently with a knife before baking. This adds a creamy, nutty contrast to the rich chocolate.",
+            "technical_note": "Use natural peanut butter for best swirl effect; avoid overly runny types."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "10g",
+        "fiber_grams": "3g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store brownies covered at room temperature for up to 2 days. Keep them in an airtight container to prevent drying out. They remain moist and soft, but avoid leaving them uncovered to prevent a crusty top.",
+        "refrigerator": "Refrigerate in an airtight container for up to 5 days. Brownies may firm up and taste denser when cold. Bring to room temperature before serving or warm briefly in the microwave to restore softness.",
+        "freezer": "Freeze brownies wrapped tightly in plastic wrap and then foil for up to 3 months. Thaw overnight in the refrigerator or at room temperature. Reheat gently in the microwave or oven to regain that fresh-baked texture.",
+        "reheating": "Warm brownies in a microwave-safe dish for 15-20 seconds or in a 300°F oven for 5-7 minutes. Add a small splash of milk if they seem dry. Avoid overheating which can make them tough.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it covered in the fridge. Bake fresh the next day for best texture. Alternatively, bake the brownies fully and freeze portions to thaw as needed."
+    },
+    "faq": [
+        {
+            "question": "Can I use zucchini without squeezing out the water?",
+            "answer": "It’s best to squeeze out excess moisture from zucchini before adding it to the batter. If you skip this step, the brownies can turn out soggy and may not bake properly. The water content in zucchini is high, and removing it helps maintain the right batter consistency and fudgy texture."
+        },
+        {
+            "question": "What’s the best way to shred zucchini for these brownies?",
+            "answer": "Use a box grater or food processor with a shredding attachment to get fine, even shreds. After shredding, place the zucchini in a clean kitchen towel and squeeze firmly to remove excess liquid. This prevents the batter from becoming too watery and ensures a moist but not soggy brownie."
+        },
+        {
+            "question": "Can I substitute the butter with oil?",
+            "answer": "Yes, you can substitute melted butter with an equal amount of neutral oil like vegetable or canola oil. However, butter adds flavor and richness that oil doesn’t provide, so the brownies may taste slightly different and be less tender."
+        },
+        {
+            "question": "How do I know when the brownies are done baking?",
+            "answer": "Insert a toothpick into the center around 25 minutes. The brownies are done when the toothpick comes out with moist crumbs but no wet batter. Overbaking will dry them out, so it’s better to check early and err on the side of slightly underbaked."
+        },
+        {
+            "question": "Can I freeze these zucchini brownies?",
+            "answer": "Absolutely! Wrap cooled brownies tightly in plastic wrap and foil to prevent freezer burn. Freeze for up to 3 months. Thaw overnight in the fridge or at room temperature and warm gently before serving for best texture."
+        },
+        {
+            "question": "Are these brownies healthy because they have zucchini?",
+            "answer": "While zucchini adds moisture and a bit of fiber, these brownies still contain sugar, butter, and chocolate. They’re a slightly healthier twist on traditional brownies but should still be enjoyed as a treat."
+        },
+        {
+            "question": "Can I use other types of chocolate instead of semi-sweet chips?",
+            "answer": "Yes, you can use dark, milk, or white chocolate chips depending on your taste preference. Keep in mind that sweeter chocolates will make the brownies sweeter, and darker chocolates add richness and slight bitterness."
+        },
+        {
+            "question": "What if I don’t have cocoa powder?",
+            "answer": "Cocoa powder is essential for the chocolate flavor and texture. If you don’t have it, you could try using melted chocolate instead, but you’ll need to adjust the fat and sugar in the recipe accordingly, which can be tricky."
+        }
+    ],
+    "conclusion": "I hope you enjoy these zucchini brownies as much as my family does! They’re a simple way to add a little veggie goodness to your dessert without sacrificing flavor. Let me know how yours turn out!",
+    "seo": {
+        "primary_keyword": "zucchini brownies recipe with chocolate chips",
+        "secondary_keywords": [
+            "easy zucchini brownies",
+            "moist chocolate zucchini brownies",
+            "how to make zucchini brownies",
+            "best zucchini brownies recipe",
+            "easy zucchini brownies with chocolate chips"
+        ],
+        "internal_links": [
+            {
+                "text": "moist chocolate chip cookie recipe",
+                "anchor": "moist-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-29 23:19:25",
+        "title_seed": "Zucchini Brownies Recipe With Chocolate Chips"
+    },
+    "author_id": "author_001",
+    "id": "post_1785367165_229",
+    "slug": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats",
+    "uniqueSlug": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_1.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_2.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_3.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_9.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Zucchini Brownies Recipe Stay So Moist Every Time?"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_6.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep Zucchini Brownies With Chocolate Chips for Busy Bakers"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_4.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Zucchini Brownies Recipe Stay So Moist Every Time?"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_7.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Brownies? This Zucchini Chocolate Chip Recipe Fixes It"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_8.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Zucchini Brownies Recipe Stay So Moist Every Time?"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_5.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Zucchini Brownies With Chocolate Chips Perfect"
+        }
+    ],
+    "image": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images/easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats_pinrecipes_image_1.webp",
+    "image_dir": "easy-zucchini-brownies-recipe-with-chocolate-chips-for-moist-fudgy-treats/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-30T01:00:29+01:00",
+    "updatedAt": "2026-07-30T01:00:29+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}

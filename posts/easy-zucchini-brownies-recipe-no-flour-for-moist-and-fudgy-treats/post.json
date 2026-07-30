@@ -1,0 +1,362 @@
+{
+    "title": "Easy Zucchini Brownies Recipe No Flour for Moist and Fudgy Treats",
+    "promptIMG": "Food photography: Zucchini Brownies, rich dark chocolate color with moist crumb texture, served on a rustic wooden board, natural lighting from a kitchen window, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred home kitchen background with sunlight filtering through a window, faint reflections on a clean counter. SUBJECT: a generous stack of rich, dark chocolate zucchini brownies piled on a rustic wooden board, the top piece sharply focused at a slight angle revealing the moist, fudgy crumb and subtle flecks of green zucchini. DETAILS: glossy dark chocolate sheen on the crust, natural cracks and uneven edges showing homemade texture, a light dusting of powdered sugar settling into the crevices. STYLE: ultra-photorealistic professional food photography with bright natural daylight and warm golden tones, highly saturated rich chocolate colors, shallow depth of field emphasizing the front brownie piece; vertical 2:3. AVOID: no text, hands, or people; no steam or CGI effects; no dull or washed-out colors.",
+        "img2": "SCENE: soft natural daylight through a bright window, blurred light grey marble surface behind. SUBJECT: a single zucchini brownie cut in half with both halves facing the camera, showing the moist, fudgy interior with tiny green zucchini flecks and glossy melted chocolate pockets oozing slightly. DETAILS: the interior crumb glistens with moisture, amber caramelized edges contrast with the dark chocolate center, a few crumbs scattered naturally. STYLE: ultra-photorealistic professional food photography with bright airy daylight and warm golden-amber highlights, rich saturated chocolate tones, shallow macro depth of field; vertical 2:3. AVOID: no text, hands, people, or artificial effects.",
+        "img3": "SCENE: warm dark wood surface softly blurred behind with a gentle side glow. SUBJECT: several zucchini brownies arranged closely on a rustic wooden board, the front piece topped with a light dusting of powdered sugar and a small fresh mint leaf, the rest fading into warm bokeh. DETAILS: intense glossy shine on the chocolate crust, deep amber caramelization on edges, natural crumbs scattered around. STYLE: ultra-photorealistic professional food photography with deep golden-amber warm tones, rich saturated chocolate colors, shallow macro depth of field; vertical 2:3. AVOID: no text, hands, people, or artificial effects."
+    },
+    "description": "These zucchini brownies are surprisingly moist and fudgy without any flour. I love how the zucchini adds natural moisture without a veggie taste. Perfect for a healthier dessert or snack anytime!",
+    "hashtags": "#zucchinibrownies #noflourbaking #easybrownies",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Do These Zucchini Brownies Stay So Moist Without Flour?",
+            "description": "Discover the secret ingredient that keeps these brownies rich and fudgy without any flour. Perfect for a guilt-free treat that feels indulgent. Save this for your next baking day! 🍫 #zucchinibrownies #healthyrecipes #easybaking"
+        },
+        {
+            "title": "The One Trick That Makes Zucchini Brownies No Flour Foolproof",
+            "description": "I’ll share the simple step that guarantees moist, fudgy zucchini brownies every time. No flour needed, just pure chocolatey goodness. Tap to get the full recipe! 🍫 #easybaking #noflourdessert #zucchinibrownies"
+        },
+        {
+            "title": "15-Minute Zucchini Brownies No Flour for Quick Sweet Fix",
+            "description": "Short on time? These zucchini brownies come together fast and bake up moist and fudgy without flour. Great for busy weeknights or last-minute dessert cravings. Save this recipe! 🍫 #quickdessert #zucchinibrownies #easybaking"
+        },
+        {
+            "title": "Still Using Flour? Try These Moist Zucchini Brownies Instead",
+            "description": "Tired of dry brownies? This no-flour zucchini brownie recipe is a game changer for moist, rich bites packed with chocolate flavor. Your family will thank you! Save for later 🍫 #zucchinibrownies #noflourbaking #familydessert"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 9,
+    "ingredients": [
+        "2 cups shredded zucchini, squeezed dry",
+        "1/2 cup unsweetened cocoa powder",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "3/4 cup brown sugar, packed",
+        "1/3 cup melted coconut oil or butter",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/2 cup dark chocolate chips (optional)"
+    ],
+    "yield": "Approximately 9 brownies",
+    "introduction": "I first stumbled upon zucchini brownies when I wanted a way to sneak veggies into desserts without sacrificing flavor. This recipe has become a favorite because it’s moist, fudgy, and totally flour-free—perfect for those avoiding gluten or just wanting a healthier treat. What sets these apart is squeezing the zucchini well to avoid sogginess and using just enough cocoa to keep them deeply chocolatey without bitterness. Plus, adding a touch of coconut oil gives them a rich texture that butter alone can’t match. I remember the first time I made these, I was worried the zucchini would make the brownies taste like vegetables, but nope! They came out so chocolatey and moist, my family couldn’t believe there was no flour at all. This recipe is simple enough for weeknight baking but special enough for company. Expect fudgy edges with a tender crumb, and a subtle freshness from the zucchini that keeps every bite from feeling heavy. If you’re looking for a comforting dessert that feels indulgent but sneaks in some veggies, this one’s for you.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by shredding your zucchini finely and then place it in a clean kitchen towel or cheesecloth. Squeeze out as much moisture as possible—this step is crucial to prevent the brownies from becoming too wet or cakey. The zucchini should feel damp but not dripping. Removing excess water ensures your brownies stay fudgy and hold together well instead of turning mushy.",
+            "timing": 10,
+            "doneness_cue": "Zucchini feels damp but no liquid pools when squeezed."
+        },
+        {
+            "step": 2,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease an 8x8 inch baking pan or line it with parchment paper. This ensures your brownies release easily without sticking. A well-prepped pan helps maintain the integrity of the brownies’ edges and bottom crust.",
+            "timing": 5,
+            "doneness_cue": "Oven reaches full temperature; pan surface is evenly greased or parchment fully covers."
+        },
+        {
+            "step": 3,
+            "instruction": "In a medium bowl, whisk together the cocoa powder, baking powder, salt, and brown sugar until evenly combined. Mixing the dry ingredients first helps distribute the leavening and cocoa evenly throughout the batter, preventing clumps and uneven texture.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients appear uniform with no lumps or streaks."
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate large bowl, beat the eggs with the melted coconut oil and vanilla extract until smooth. This wet mixture binds the ingredients and adds richness. Using melted oil instead of solid fat helps create a tender crumb and moist texture.",
+            "timing": 3,
+            "doneness_cue": "Egg mixture is homogeneous, slightly glossy, and fluid."
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually add the dry ingredients to the wet mixture, stirring gently until just combined. Avoid overmixing here to prevent tough brownies. The batter should be thick but spreadable, with the cocoa fully incorporated.",
+            "timing": 3,
+            "doneness_cue": "Batter is smooth, no streaks of dry flour or cocoa visible."
+        },
+        {
+            "step": 6,
+            "instruction": "Fold in the squeezed zucchini and chocolate chips if using. Incorporate the zucchini evenly to distribute moisture and flecks throughout the batter. The chocolate chips add extra melty pockets of chocolate that make each bite special.",
+            "timing": 2,
+            "doneness_cue": "Zucchini and chips are evenly dispersed without overmixing."
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into your prepared pan and smooth the top with a spatula. Even spreading ensures uniform baking and prevents thin edges from drying out. Tap the pan lightly on the counter to release any air bubbles.",
+            "timing": 3,
+            "doneness_cue": "Batter surface is flat and smooth with no large air pockets."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake for 25-30 minutes until a toothpick inserted near the center comes out with a few moist crumbs but no wet batter. Overbaking dries out the brownies, so watch closely starting at 25 minutes. The edges should look set and slightly pulled away from the pan.",
+            "timing": 30,
+            "doneness_cue": "Toothpick test shows moist crumbs but no raw batter; edges are firm."
+        },
+        {
+            "step": 9,
+            "instruction": "Allow the brownies to cool completely in the pan before slicing. Cooling lets the brownies set up and makes cutting easier without crumbling. For clean slices, use a sharp knife wiped between cuts.",
+            "timing": 20,
+            "doneness_cue": "Brownies feel firm to the touch and are cool to the surface."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Zucchini Brownie Recipe Succeeds",
+        "content": "<p>These zucchini brownies work because they cleverly balance moisture and structure without flour. The zucchini adds natural water and fiber, which keeps the brownies moist and tender. However, squeezing out excess moisture is key to avoid a soggy texture. The cocoa powder provides rich chocolate flavor and also acts as a dry ingredient to absorb some moisture, helping create the classic fudgy crumb.</p><p>The eggs serve as the main binder, giving the brownies structure and richness. Using melted coconut oil instead of butter adds a subtle sweetness and smooth mouthfeel, plus it stays liquid at room temperature which helps keep the brownies soft. The baking powder gives a slight lift, preventing the brownies from being too dense, but it’s used sparingly to maintain that fudgy texture.</p><p>Chocolate chips folded in add bursts of melty chocolate that contrast with the moist crumb, enhancing the indulgent experience. The combination of these ingredients, along with careful mixing to avoid overworking the batter, results in brownies that are chewy, moist, and deeply chocolatey without relying on traditional flour.</p><p>Overall, this recipe uses ingredient interactions and texture balancing to create a satisfying dessert that feels both indulgent and a bit healthier, perfect for anyone looking to enjoy brownies with a twist.</p>",
+        "ingredient_notes": {
+            "zucchini": "Choose fresh, firm zucchini without blemishes. The shredded zucchini adds moisture and fiber without a strong veggie flavor. Make sure to squeeze out excess water thoroughly to prevent sogginess. You can substitute yellow squash but flavor may vary slightly.",
+            "cocoa powder": "Use unsweetened natural cocoa powder for a deep chocolate flavor. Dutch-processed cocoa can be used but may alter leavening slightly. Cocoa also helps absorb moisture and gives the brownies their signature color and richness.",
+            "baking powder": "A small amount of baking powder provides a gentle lift to keep brownies tender but not cakey. Avoid using too much or the texture will become airy and lose fudginess.",
+            "eggs": "Eggs are essential for binding the batter and adding richness. Use large eggs at room temperature for best mixing and texture. They also help trap air for a slight rise.",
+            "coconut oil": "Melted coconut oil adds moisture and a subtle sweetness while keeping the crumb tender. You can substitute melted butter but the texture and flavor will be slightly different—coconut oil keeps brownies softer at room temperature."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze the zucchini thoroughly to remove excess moisture.",
+            "reason": "Excess water in zucchini can make brownies soggy and prevent them from setting properly. Removing moisture ensures a fudgy but firm texture that holds together well."
+        },
+        {
+            "tip": "Use room temperature eggs for easier mixing and better batter consistency.",
+            "reason": "Cold eggs can cause the melted oil to seize or clump, leading to uneven texture. Room temperature eggs blend smoothly, helping create a uniform batter."
+        },
+        {
+            "tip": "Don’t overmix the batter once you add the dry ingredients.",
+            "reason": "Overmixing develops gluten and can make brownies tough or cakey. Stir just until combined for a tender, fudgy crumb."
+        },
+        {
+            "tip": "Line your baking pan with parchment paper for easy removal.",
+            "reason": "Parchment prevents sticking and helps keep the edges intact when slicing, resulting in cleaner pieces and less waste."
+        },
+        {
+            "tip": "Check brownies a few minutes before the minimum bake time to avoid overbaking.",
+            "reason": "Oven temperatures vary, and overbaking dries out the brownies. A toothpick with moist crumbs signals perfect doneness."
+        },
+        {
+            "tip": "Add chocolate chips for extra melty pockets of chocolate.",
+            "reason": "Chocolate chips create delightful bursts of flavor and texture contrast, making the brownies feel more decadent."
+        },
+        {
+            "tip": "Cool brownies completely before slicing.",
+            "reason": "Cooling allows the brownies to firm up and slice cleanly without crumbling or sticking."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing enough moisture from zucchini",
+            "why_it_happens": "Many assume shredded zucchini won’t release much water or that it’s okay to keep it moist, leading to soggy brownies.",
+            "fix": "Use a clean towel or cheesecloth to press out as much liquid as possible. If needed, squeeze multiple times until no dripping occurs."
+        },
+        {
+            "mistake": "Overbaking the brownies",
+            "why_it_happens": "It’s tempting to bake until completely dry, but this removes moisture and makes brownies dry and crumbly.",
+            "fix": "Start checking at 25 minutes with a toothpick. Remove when moist crumbs cling to it, then cool completely."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Trying to get a perfectly smooth batter can lead to overmixing, which develops gluten and toughens the brownies.",
+            "fix": "Mix dry and wet ingredients just until combined. Small lumps or streaks are okay."
+        },
+        {
+            "mistake": "Using too much baking powder",
+            "why_it_happens": "Adding extra leavening to compensate for no flour can cause brownies to rise too much and collapse.",
+            "fix": "Stick to the recipe’s small amount of baking powder for a slight rise without cakiness."
+        },
+        {
+            "mistake": "Not greasing or lining the pan",
+            "why_it_happens": "Skipping this step causes sticking and makes brownies hard to remove intact.",
+            "fix": "Always grease well or use parchment paper for easy release."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegan Zucchini Brownies",
+            "description": "Replace eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg) and use coconut oil or vegan butter. The texture will be slightly denser but still moist and fudgy.",
+            "technical_note": "Flax eggs need a few minutes to gel before mixing, and baking time may increase by 3-5 minutes."
+        },
+        {
+            "name": "Nutty Zucchini Brownies",
+            "description": "Add 1/2 cup chopped walnuts or pecans to the batter for crunch and earthy flavor. Toast nuts beforehand for extra depth.",
+            "technical_note": "Fold nuts in last to avoid overmixing; baking time remains unchanged."
+        },
+        {
+            "name": "Spiced Zucchini Brownies",
+            "description": "Add 1/2 teaspoon cinnamon and a pinch of cayenne pepper for a warm, spicy twist that complements the chocolate beautifully.",
+            "technical_note": "Mix spices with dry ingredients to ensure even distribution."
+        },
+        {
+            "name": "Gluten-Free Flour Boost",
+            "description": "If you want a slightly cakier texture, add 1/4 cup almond flour or oat flour along with the cocoa powder. This adds structure without losing moisture.",
+            "technical_note": "Monitor baking time; may need an extra 2-3 minutes to set fully."
+        },
+        {
+            "name": "Chocolate Swirl Zucchini Brownies",
+            "description": "Before baking, swirl in 1/4 cup cream cheese mixed with a teaspoon of sugar for a marbled effect and tangy contrast.",
+            "technical_note": "Use a knife to swirl gently; bake as usual."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "190 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "22g",
+        "fat_grams": "10g",
+        "fiber_grams": "3g",
+        "sodium_mg": "110mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store baked zucchini brownies in an airtight container at room temperature for up to 2 days. Keep them away from direct sunlight or heat to maintain moisture and prevent drying out.",
+        "refrigerator": "Keep brownies in an airtight container in the fridge for up to 5 days. They may firm up and taste denser when cold; bring to room temperature before serving or warm briefly for a softer texture.",
+        "freezer": "Freeze brownies wrapped tightly in plastic wrap and placed in a freezer-safe container for up to 3 months. To thaw, leave in the fridge overnight or at room temperature for a few hours. Avoid microwaving frozen brownies directly to preserve texture.",
+        "reheating": "Warm brownies gently in a microwave for 15-20 seconds or in a low oven (300°F) for 5-7 minutes to restore softness. Adding a small dab of butter or a drizzle of milk before reheating can help maintain moisture.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it covered in the fridge. Bake fresh the next day for best texture. Alternatively, bake brownies fully and store cooled; they taste great reheated or cold."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this recipe?",
+            "answer": "Yes, but thaw and squeeze out all excess moisture very thoroughly before using. Frozen zucchini tends to hold more water, so extra squeezing is essential to avoid soggy brownies."
+        },
+        {
+            "question": "What if I don’t have coconut oil, can I use butter?",
+            "answer": "Butter works fine as a substitute, though the brownies may be slightly less tender and soft at room temperature. Melt the butter before mixing to match the recipe’s texture."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, this recipe is naturally gluten-free since it contains no flour. Just double-check your cocoa powder and any add-ins for gluten contamination if you have severe sensitivity."
+        },
+        {
+            "question": "How do I know when the brownies are done baking?",
+            "answer": "Start checking at 25 minutes with a toothpick. When it comes out with a few moist crumbs but no raw batter, the brownies are perfectly baked."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips?",
+            "answer": "Yes, nuts or chocolate chips are great additions. Add about 1/2 cup and fold in carefully to avoid overmixing."
+        },
+        {
+            "question": "Will these brownies taste like zucchini?",
+            "answer": "The zucchini flavor is very mild and mostly undetectable. It just keeps the brownies moist and tender."
+        },
+        {
+            "question": "Can I make these brownies vegan?",
+            "answer": "Yes, replace eggs with flax eggs (1 tbsp flaxseed + 3 tbsp water per egg) and use plant-based fats. Baking time might be a bit longer."
+        },
+        {
+            "question": "How should I store leftover brownies?",
+            "answer": "Keep brownies in a sealed container at room temperature for a couple of days or refrigerate for up to 5 days. They freeze well too."
+        }
+    ],
+    "conclusion": "I hope you enjoy these moist, fudgy zucchini brownies as much as my family does! Give them a try and let me know how they turn out—happy baking!",
+    "seo": {
+        "primary_keyword": "zucchini brownies recipe no flour",
+        "secondary_keywords": [
+            "no flour brownies",
+            "healthy zucchini brownies",
+            "how to make zucchini brownies",
+            "best zucchini brownies recipe",
+            "easy zucchini brownies"
+        ],
+        "internal_links": [
+            {
+                "text": "how to bake moist brownies",
+                "anchor": "moist-brownie-baking-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-29 23:28:29",
+        "title_seed": "Zucchini Brownies Recipe No Flour"
+    },
+    "author_id": "author_001",
+    "id": "post_1785367709_271",
+    "slug": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats",
+    "uniqueSlug": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_1.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_2.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_3.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_5.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Zucchini Brownies No Flour Foolproof"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_6.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Zucchini Brownies No Flour for Quick Sweet Fix"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_7.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Using Flour? Try These Moist Zucchini Brownies Instead"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_4.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Do These Zucchini Brownies Stay So Moist Without Flour?"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_9.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Do These Zucchini Brownies Stay So Moist Without Flour?"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_8.webp",
+            "relativePath": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Do These Zucchini Brownies Stay So Moist Without Flour?"
+        }
+    ],
+    "image": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images/easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats_pinrecipes_image_1.webp",
+    "image_dir": "easy-zucchini-brownies-recipe-no-flour-for-moist-and-fudgy-treats/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-30T01:00:29+01:00",
+    "updatedAt": "2026-07-30T01:00:29+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}

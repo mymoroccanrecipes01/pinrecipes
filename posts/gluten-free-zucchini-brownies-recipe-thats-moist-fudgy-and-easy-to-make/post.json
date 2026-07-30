@@ -1,0 +1,367 @@
+{
+    "title": "Gluten Free Zucchini Brownies Recipe That’s Moist, Fudgy, and Easy to Make",
+    "promptIMG": "Food photography: Gluten Free Zucchini Brownies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred home kitchen with a bright window casting natural daylight, subtle reflections on a clean countertop. SUBJECT: a generous stack of rich, fudgy gluten free zucchini brownies piled on a rustic ceramic plate, the front brownie sharply focused at a 30-degree angle revealing its moist, dense crumb and glossy chocolate top with a slight crackle texture, the rest fading softly into bokeh. DETAILS: deep chocolatey shine with a few flecks of green zucchini visible inside, a light dusting of powdered sugar on top, crumbs scattered naturally around the plate edge. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors that pop, shallow macro depth of field, vertical 2:3. AVOID: no text, logos, hands, or artificial lighting effects; no steam or smoke.",
+        "img2": "SCENE: soft, neutral marble background with warm daylight streaming through a nearby window, creating a bright, airy atmosphere. SUBJECT: a close-up reveal shot of a gluten free zucchini brownie cut in half, both halves facing the camera to showcase the moist, fudgy interior with visible strands of zucchini and melty chocolate chips slowly oozing out. DETAILS: glossy, wet crumb with contrast against the slightly crisp chocolate crust, crumbs naturally scattered below, a few chocolate chips melted on top adding to the indulgent look. STYLE: ultra-photorealistic professional food photography, bright daylight with rich warm highlights, highly saturated inviting colors, shallow depth of field, vertical 2:3. AVOID: no text, no people, no artificial effects.",
+        "img3": "SCENE: warm dark wood table softly blurred in the background with a gentle side glow highlighting the food. SUBJECT: several pieces of gluten free zucchini brownies arranged closely on a rustic wooden board, topped with a dusting of powdered sugar and a few scattered chocolate chips, accompanied by a small bowl of fresh raspberries for a pop of color. The front piece is sharply focused with a glossy, moist surface and rich chocolate sheen, the rest softly fading into warm bokeh. DETAILS: intense wet shine on the chocolate surface, deep amber caramelization on edges, natural crumbs scattered on the board. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm tones, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no steam or smoke."
+    },
+    "description": "These gluten free zucchini brownies are surprisingly moist and fudgy thanks to the zucchini's natural moisture and a rich chocolate base. I love how the veggies sneak in without overpowering the classic brownie flavor. Perfect for an easy dessert or snack anytime.",
+    "hashtags": "#glutenfreebrownies #zucchinibrownies #easybaking",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does This Gluten Free Zucchini Brownies Recipe Taste So Moist?",
+            "description": "Discover the secret ingredient that keeps these brownies fudgy and delicious every time. 🥒🍫 You won’t believe zucchini makes such a difference! Save this for your next baking day. #glutenfreebaking #brownies #easyrecipe"
+        },
+        {
+            "title": "The One Trick That Makes Gluten Free Zucchini Brownies Foolproof",
+            "description": "Want brownies that are moist, fudgy, and gluten free? This simple trick with shredded zucchini is a game changer for texture and flavor. 🍫✨ Tap to get the full recipe and bake with confidence! #glutenfree #brownies #bakingtips"
+        },
+        {
+            "title": "15-Minute Gluten Free Zucchini Brownies for Busy Weeknights",
+            "description": "Short on time but craving brownies? These gluten free zucchini brownies come together fast and bake up perfectly moist. A quick, healthy-ish treat for your family! 🍫⏰ Save this for dinner inspo. #quickdessert #glutenfree #weeknightbaking"
+        },
+        {
+            "title": "Still Making Dry Brownies? This Gluten Free Zucchini Recipe Fixes It",
+            "description": "Say goodbye to crumbly brownies! Adding zucchini keeps these gluten free brownies irresistibly moist and fudgy. Perfect for anyone struggling with dry baked goods. 🍫💚 Tap to learn how! #glutenfreebrownies #moistbrownies #easybaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 cup shredded zucchini, squeezed dry",
+        "3/4 cup gluten free all-purpose flour",
+        "1/2 cup unsweetened cocoa powder",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1/2 cup brown sugar, packed",
+        "1/4 cup vegetable oil",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/2 cup chocolate chips (optional)"
+    ],
+    "yield": "8 brownies",
+    "introduction": "I first tried making zucchini brownies years ago when I wanted a dessert that sneaked in some veggies without anyone noticing. My initial attempts were dry and crumbly, but after a bit of experimenting, I found the perfect balance of shredded zucchini and chocolate to keep them moist and fudgy. What makes this recipe stand out is squeezing out excess moisture from the zucchini and using a mix of cocoa and chocolate chips to deepen the flavor. These brownies aren’t just gluten free; they’re genuinely delicious with a rich chocolate taste and a tender crumb. I love making them for my family when I want a treat that feels a little healthier without sacrificing that classic brownie indulgence. Plus, they’re super simple to whip up on a weeknight or for a casual get-together. The zucchini adds moisture and a subtle texture that makes every bite feel special. I think you’ll find these brownies become a new favorite for gluten free baking!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by shredding your zucchini finely and then squeezing out as much moisture as possible using a clean kitchen towel or cheesecloth. This step is crucial because excess water can make the brownies soggy and prevent them from setting properly. Take your time here and press firmly — you want the zucchini as dry as you can get it without drying it out completely. This moisture control helps create that perfect fudgy texture we’re aiming for.",
+            "timing": 10,
+            "doneness_cue": "Zucchini should feel damp but not dripping wet when squeezed."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the gluten free flour, cocoa powder, baking powder, and salt. Mixing these dry ingredients first ensures even distribution of the leavening and cocoa, which helps the brownies rise slightly and develop a rich chocolate flavor. If you skip this step or mix too quickly later, you might end up with pockets of baking powder or flour in the batter.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients should be evenly combined with no clumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate large bowl, beat the eggs with the brown sugar until the mixture is smooth and slightly thickened. Then add the vegetable oil and vanilla extract, mixing until fully incorporated. This wet base provides moisture and richness. Be sure not to overbeat here, or you might incorporate too much air, which can dry out the brownies.",
+            "timing": 5,
+            "doneness_cue": "Mixture should be smooth, glossy, and homogeneous."
+        },
+        {
+            "step": 4,
+            "instruction": "Fold the dry ingredients gently into the wet mixture until just combined. Overmixing at this stage can toughen the brownies, so use a spatula and fold carefully. Then fold in the shredded zucchini and chocolate chips if using. The zucchini adds moisture and a subtle texture that keeps the brownies tender.",
+            "timing": 5,
+            "doneness_cue": "Batter should be thick and evenly mixed, no streaks of flour."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the batter into a greased or parchment-lined 8x8-inch baking pan, smoothing the top with a spatula for even baking. This helps ensure the brownies cook uniformly and develop a nice crust on top.",
+            "timing": 5,
+            "doneness_cue": "Batter evenly spread with no air pockets or lumps."
+        },
+        {
+            "step": 6,
+            "instruction": "Bake in a preheated 350°F (175°C) oven for about 25-30 minutes. Start checking at 25 minutes by inserting a toothpick in the center; it should come out with a few moist crumbs but not wet batter. Overbaking will dry out the brownies, so keep a close eye during the last few minutes.",
+            "timing": 30,
+            "doneness_cue": "Edges pulled away slightly from the pan and toothpick test passes."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove brownies from the oven and let them cool completely in the pan before slicing. Cooling allows the brownies to set and makes cutting easier without crumbling. If you try to cut them warm, they might fall apart.",
+            "timing": 30,
+            "doneness_cue": "Brownies are firm to the touch and cooled to room temperature."
+        },
+        {
+            "step": 8,
+            "instruction": "Once cooled, use a sharp knife to cut into 8 squares. For clean cuts, wipe the knife between slices. Serve plain or with a dusting of powdered sugar or a scoop of vanilla ice cream for an extra indulgent treat.",
+            "timing": 5,
+            "doneness_cue": "Squares cut cleanly with moist, fudgy interior visible."
+        },
+        {
+            "step": 9,
+            "instruction": "Store any leftovers in an airtight container at room temperature for up to 3 days or refrigerate for up to a week. These brownies also freeze well if wrapped tightly to preserve moisture and texture.",
+            "timing": 2,
+            "doneness_cue": "Stored brownies remain moist and flavorful when reheated gently."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Gluten Free Zucchini Brownies Recipe Succeeds",
+        "content": "<p>Gluten free baking can be tricky because gluten provides structure and elasticity to baked goods. In this recipe, the gluten free flour blend is balanced with moisture from zucchini and fat from oil to create a tender yet sturdy crumb. The zucchini’s natural water content helps keep the brownies moist without making them soggy because the excess moisture is squeezed out beforehand.</p><p>The cocoa powder adds intense chocolate flavor and helps dry out the batter slightly, balancing the wet ingredients. The baking powder acts as a leavening agent, giving the brownies a slight lift while maintaining a dense, fudgy texture. Too much leavening would make them cakey, which is not the goal here.</p><p>Mixing technique is important—overmixing develops tough textures even in gluten free batters. Folding the ingredients gently ensures the batter stays tender. The oil contributes to richness and a moist crumb, and the eggs bind everything together while adding structure. The chocolate chips melt during baking, creating pockets of gooey chocolate that elevate the indulgence factor.</p><p>Finally, allowing the brownies to cool completely before slicing ensures they set properly and hold their shape. This recipe balances moisture, structure, and flavor to deliver a fudgy, gluten free treat that’s both healthy and satisfying.</p>",
+        "ingredient_notes": {
+            "shredded zucchini": "Choose fresh, firm zucchini without blemishes. Shred finely and squeeze out excess water to prevent sogginess. Zucchini adds moisture and subtle texture without a strong vegetable taste, making it perfect for brownies.",
+            "gluten free all-purpose flour": "Use a blend that contains xanthan gum or guar gum for structure. Avoid single-ingredient flours like rice flour alone, which can cause dryness or crumbliness. A balanced blend mimics wheat flour’s properties best.",
+            "unsweetened cocoa powder": "Natural cocoa powder provides rich chocolate flavor and a slightly acidic note that balances sweetness. Dutch-processed cocoa can be used but may affect leavening slightly.",
+            "baking powder": "A small amount helps the brownies rise just enough to avoid being too dense or heavy. Too much causes a cakey texture, so precise measurement is key.",
+            "brown sugar": "Adds moisture and a deeper caramel flavor compared to white sugar. Helps keep the brownies soft and tender while enhancing chocolate notes.",
+            "vegetable oil": "Oil keeps the brownies moist and tender. Neutral oils like canola or sunflower work best; olive oil may impart unwanted flavor.",
+            "eggs": "Eggs provide structure and moisture. Use large eggs at room temperature for best incorporation. They also help bind the zucchini and flour together.",
+            "vanilla extract": "Enhances overall flavor and complements the chocolate. Pure vanilla extract is preferable for the best aroma.",
+            "chocolate chips": "Optional but recommended for pockets of melted chocolate throughout. Use semi-sweet or dark chips for balance."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze the zucchini well to remove excess moisture before adding it to the batter.",
+            "reason": "Removing extra water prevents the brownies from becoming too wet and ensures they bake evenly with a fudgy texture rather than a mushy one."
+        },
+        {
+            "tip": "Use a gluten free flour blend that contains a binding agent like xanthan gum.",
+            "reason": "This mimics the elasticity gluten provides, helping the brownies hold together without crumbling."
+        },
+        {
+            "tip": "Don’t overmix the batter once the dry ingredients are added.",
+            "reason": "Overmixing develops tough textures and can make gluten free baked goods dense and dry instead of tender."
+        },
+        {
+            "tip": "Let the brownies cool completely before slicing.",
+            "reason": "Cooling allows the structure to set, making it easier to cut clean squares without crumbling."
+        },
+        {
+            "tip": "Add chocolate chips for extra melty pockets of chocolate.",
+            "reason": "They create an indulgent texture contrast and boost the chocolate flavor."
+        },
+        {
+            "tip": "Use brown sugar instead of white sugar for added moisture and flavor depth.",
+            "reason": "Brown sugar contains molasses which helps keep baked goods moist and adds a rich caramel note."
+        },
+        {
+            "tip": "Bake at a moderate temperature (350°F) to avoid drying out the brownies.",
+            "reason": "Higher heat can cause the edges to overcook before the center sets, leading to uneven texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing zucchini enough",
+            "why_it_happens": "Many assume shredded zucchini is dry enough to add directly, but it holds a lot of water that can ruin texture.",
+            "fix": "Use a clean towel or cheesecloth to press and squeeze out as much liquid as possible before adding to the batter."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "In an attempt to combine ingredients thoroughly, some over-stir which develops tough textures.",
+            "fix": "Fold ingredients gently until just combined to keep the brownies tender and moist."
+        },
+        {
+            "mistake": "Using the wrong gluten free flour",
+            "why_it_happens": "Some use single flours that lack binding agents, causing crumbly results.",
+            "fix": "Choose a well-balanced gluten free blend with xanthan gum or add a binding agent separately."
+        },
+        {
+            "mistake": "Baking too long or at too high temperature",
+            "why_it_happens": "Trying to speed up baking or not checking can dry out brownies.",
+            "fix": "Bake at 350°F and start checking at 25 minutes. Remove when a toothpick shows moist crumbs."
+        },
+        {
+            "mistake": "Cutting brownies while warm",
+            "why_it_happens": "Impatience leads to crumbling and messy slices.",
+            "fix": "Let brownies cool completely to set before slicing."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegan Zucchini Brownies",
+            "description": "Replace eggs with flax eggs (1 tbsp flaxseed meal + 3 tbsp water per egg) and use coconut oil instead of vegetable oil. Expect a slightly denser texture but still moist and fudgy.",
+            "technical_note": "Flax eggs add binding but reduce rise slightly; baking time may need adjustment."
+        },
+        {
+            "name": "Nutty Zucchini Brownies",
+            "description": "Add 1/2 cup chopped walnuts or pecans for crunch and flavor depth. Toast nuts lightly before adding to enhance aroma and texture.",
+            "technical_note": "Nuts add texture contrast but can affect batter density; fold in gently."
+        },
+        {
+            "name": "Spiced Zucchini Brownies",
+            "description": "Add 1/2 teaspoon cinnamon and a pinch of cayenne pepper for warmth and subtle heat. This variation adds complexity and pairs well with chocolate.",
+            "technical_note": "Spices intensify flavor; adjust amounts to taste."
+        },
+        {
+            "name": "Peanut Butter Swirl Zucchini Brownies",
+            "description": "Drop dollops of peanut butter on top of batter and swirl gently before baking. Creates a creamy, nutty contrast to the fudgy chocolate brownies.",
+            "technical_note": "Swirling should be gentle to avoid overmixing batter."
+        },
+        {
+            "name": "Mini Zucchini Brownie Bites",
+            "description": "Bake the batter in a mini muffin tin for bite-sized treats. Reduce baking time to about 15-18 minutes and check frequently.",
+            "technical_note": "Smaller size cooks faster and can dry out quickly; watch closely."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "220 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "10g",
+        "fiber_grams": "3g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store brownies in an airtight container at room temperature for up to 3 days. Keep away from direct sunlight or heat to maintain moisture and prevent drying out.",
+        "refrigerator": "Keep brownies in a sealed container for up to one week. Refrigeration may slightly firm the texture; bring to room temperature before serving or warm gently in the microwave for a few seconds.",
+        "freezer": "Wrap brownies tightly in plastic wrap and place in a freezer-safe container or bag. Freeze for up to 3 months. Thaw overnight in the refrigerator or at room temperature. Reheat gently to restore softness.",
+        "reheating": "Warm brownies in the microwave for 10-15 seconds or in a low oven (300°F) for 5-7 minutes. Adding a small pat of butter or a splash of milk before reheating can help restore moisture.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and store it covered in the refrigerator. Bake fresh before serving for best texture. Alternatively, bake the brownies fully and freeze; thaw and reheat as needed."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular flour instead of gluten free flour?",
+            "answer": "Yes, you can substitute regular all-purpose flour for gluten free flour if you don’t need the recipe to be gluten free. The texture might be slightly different—usually a bit more elastic—but the brownies will still be delicious."
+        },
+        {
+            "question": "How do I know when the brownies are done baking?",
+            "answer": "Insert a toothpick into the center around 25 minutes. It should come out with moist crumbs but not wet batter. The edges will pull slightly away from the pan, and the top will have a slight crackle."
+        },
+        {
+            "question": "Can I freeze these brownies?",
+            "answer": "Absolutely! Wrap them tightly and freeze for up to 3 months. Thaw overnight in the fridge or at room temperature. Reheat gently to restore softness."
+        },
+        {
+            "question": "What if my zucchini is very watery?",
+            "answer": "Make sure to squeeze out excess moisture thoroughly using a towel or cheesecloth. If your zucchini is extra watery, you might want to use a bit less or add a tablespoon more flour to balance."
+        },
+        {
+            "question": "Can I make these brownies vegan?",
+            "answer": "Yes, you can swap eggs for flax eggs and use a plant-based oil. The texture will be slightly different but still moist and tasty."
+        },
+        {
+            "question": "Why do my brownies sometimes turn out dry?",
+            "answer": "Dry brownies often result from overbaking, not squeezing zucchini well, or overmixing the batter. Follow baking times carefully and handle the batter gently."
+        },
+        {
+            "question": "Can I add nuts or other mix-ins?",
+            "answer": "Yes! Chopped nuts, chocolate chips, or even dried fruit can be folded in for extra flavor and texture."
+        },
+        {
+            "question": "Is it necessary to use brown sugar?",
+            "answer": "Brown sugar adds moisture and a richer flavor, but you can substitute with white sugar if needed. The texture might be slightly less tender."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing these gluten free zucchini brownies as much as my family does. They’re a simple way to sneak in some veggies without sacrificing any chocolatey goodness!",
+    "seo": {
+        "primary_keyword": "gluten free zucchini brownies recipe",
+        "secondary_keywords": [
+            "easy gluten free brownies",
+            "healthy zucchini brownies",
+            "how to make gluten free zucchini brownies",
+            "best gluten free zucchini brownies recipe",
+            "easy zucchini brownies"
+        ],
+        "internal_links": [
+            {
+                "text": "gluten free chocolate chip cookies",
+                "anchor": "gluten-free-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-29 23:13:47",
+        "title_seed": "Gluten Free Zucchini Brownies Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1785366827_175",
+    "slug": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make",
+    "uniqueSlug": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_1.webp",
+            "filePath": "posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_1.webp",
+            "relativePath": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_2.webp",
+            "filePath": "posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_2.webp",
+            "relativePath": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_3.webp",
+            "filePath": "posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_3.webp",
+            "relativePath": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_8.webp",
+            "filePath": "posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_8.webp",
+            "relativePath": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Gluten Free Zucchini Brownies Recipe Taste So Moist?"
+        },
+        {
+            "fileName": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_9.webp",
+            "filePath": "posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_9.webp",
+            "relativePath": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Gluten Free Zucchini Brownies Recipe Taste So Moist?"
+        },
+        {
+            "fileName": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_7.webp",
+            "filePath": "posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_7.webp",
+            "relativePath": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Brownies? This Gluten Free Zucchini Recipe Fixes It"
+        },
+        {
+            "fileName": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_6.webp",
+            "filePath": "posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_6.webp",
+            "relativePath": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Gluten Free Zucchini Brownies for Busy Weeknights"
+        },
+        {
+            "fileName": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_4.webp",
+            "filePath": "posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_4.webp",
+            "relativePath": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Gluten Free Zucchini Brownies Recipe Taste So Moist?"
+        },
+        {
+            "fileName": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_5.webp",
+            "filePath": "posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_5.webp",
+            "relativePath": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Gluten Free Zucchini Brownies Foolproof"
+        }
+    ],
+    "image": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_1.webp",
+    "image_path": "posts/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images/gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make_pinrecipes_image_1.webp",
+    "image_dir": "gluten-free-zucchini-brownies-recipe-thats-moist-fudgy-and-easy-to-make/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-30T01:00:29+01:00",
+    "updatedAt": "2026-07-30T01:00:29+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}
