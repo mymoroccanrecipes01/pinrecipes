@@ -1,0 +1,363 @@
+{
+    "title": "Easy Refrigerator Pickles Recipe with Fresh Dill for Crisp, Tangy Flavor",
+    "promptIMG": "Food photography: Refrigerator Pickles Recipes Dill, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: A cozy home kitchen with soft daylight filtering through a window, blurred background featuring faint kitchen counters and utensils. SUBJECT: A large glass jar overflowing with vibrant green dill refrigerator pickles, the jar cropped slightly at the edges to focus on the glossy, crisp cucumber slices packed tightly inside. DETAILS: The pickles glisten with a wet, tangy shine, fresh dill sprigs and mustard seeds visible throughout, with a slight condensation on the glass indicating freshness. STYLE: Ultra-photorealistic food photography with bright, natural daylight and warm golden hues enhancing the fresh green colors. Shallow depth of field blurs the background softly. AVOID: No hands, text, logos, or artificial colors; no steam or smoke.",
+        "img2": "SCENE: Bright, airy kitchen counter with a soft marble backdrop and natural window light. SUBJECT: The reveal shot of refrigerator dill pickles — a half-opened jar with a fork lifting a glossy, juicy pickle slice, showing its moist, crisp texture and seeds. DETAILS: The pickle slice glistens wet with brine, fresh dill strands visible clinging to it, the jar rim and brine surface catching light beautifully. STYLE: Ultra-photorealistic, hyper-vivid colors with warm daylight enhancing the fresh green and yellow tones of the cucumbers and dill. Shallow macro depth of field focusing sharply on the pickle slice. AVOID: No hands or people, no text or logos, no dull or flat lighting.",
+        "img3": "SCENE: Warm, dark wood table softly blurred in the background with a cozy side glow. SUBJECT: Several small glass jars of dill refrigerator pickles arranged closely together, one jar open with a sprig of fresh dill resting on top, surrounded by scattered mustard seeds and a lemon wedge. DETAILS: The pickles shine with intense wet gloss, deep green hues, and golden brine reflecting the warm light. The fresh dill and lemon add a vibrant finishing touch. STYLE: Ultra-photorealistic professional food photography with rich golden-amber warmth and highly saturated colors. Shallow depth of field with the front jar razor-sharp. AVOID: No hands, text, logos, steam, or plastic textures."
+    },
+    "description": "These easy refrigerator dill pickles are my go-to when I want crisp, tangy pickles without the fuss of canning. The fresh dill and mustard seeds give them that classic flavor punch. Perfect for snacking or topping sandwiches!",
+    "hashtags": "#dillpickles #refrigeratorpickles #easyrecipes",
+    "board_name": "Easy Snack Ideas",
+    "pin_variations": [
+        {
+            "title": "Why Are Refrigerator Dill Pickles So Crispy and Flavorful?",
+            "description": "Discover the secret behind perfectly crisp refrigerator dill pickles that burst with flavor. Fresh dill and simple ingredients make all the difference! Save this for your next snack craving. #dillpickles #picklerecipe #snackideas"
+        },
+        {
+            "title": "The One Trick That Makes Refrigerator Dill Pickles Perfect Every Time",
+            "description": "Learn the simple trick that keeps your dill pickles crunchy and tangy without any canning. It’s easier than you think! Tap to get the full recipe and impress your family. #easyrecipes #dillpickles #homemadepickles"
+        },
+        {
+            "title": "Quick Refrigerator Dill Pickles Ready in Under 24 Hours",
+            "description": "Need pickles fast? These refrigerator dill pickles are ready to enjoy in less than a day, with a fresh, zesty kick. Perfect for last-minute gatherings or snacks. Save this recipe now! #quickrecipes #dillpickles #snacktime"
+        },
+        {
+            "title": "Still Buying Pickles? Make Your Own Refrigerator Dill Pickles Instead",
+            "description": "Skip the store-bought jars and make refrigerator dill pickles that are fresher and tastier. This easy recipe is a game changer for homemade pickles. Tap for the full details! #homemadepickles #dillpickles #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "4 cups thinly sliced cucumbers, preferably Kirby cucumbers",
+        "1 cup white vinegar",
+        "1 cup water",
+        "2 tablespoons kosher salt",
+        "1 tablespoon sugar",
+        "4 cloves garlic, smashed",
+        "2 tablespoons fresh dill sprigs",
+        "1 teaspoon mustard seeds",
+        "1/2 teaspoon black peppercorns",
+        "Optional: 1/2 teaspoon red pepper flakes"
+    ],
+    "yield": "Approximately 6 cups of pickles, about 6 servings",
+    "introduction": "I first fell in love with refrigerator dill pickles when I wanted a quick way to enjoy fresh pickles without the hassle of traditional canning. My family loves how crisp and tangy these turn out, and the fresh dill really makes the flavor pop. Unlike canned pickles, these don’t require boiling water baths or long waiting times — you just mix the brine, pack the cucumbers, and let them chill in the fridge. The magic is in using fresh dill and a balanced brine with just the right amount of salt and sugar to keep the cucumbers crunchy and flavorful. I also add garlic and mustard seeds for a little extra zing. After a day or two, they’re ready to snack on, and they stay crisp for weeks. Honestly, this recipe has become a staple in my kitchen — perfect for sandwiches, burgers, or just a salty, satisfying snack. I think you’ll love how simple and delicious these are!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing and slicing your cucumbers thinly but not too thin — about 1/4 inch thick works best to keep them crunchy. Using Kirby cucumbers is ideal because they have fewer seeds and a firmer texture. If you prefer, you can slice them into spears or rounds depending on your preference. Place the sliced cucumbers in a large mixing bowl while you prepare the brine.",
+            "timing": 10,
+            "doneness_cue": "Cucumbers are evenly sliced with no mushy spots"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium saucepan, combine the vinegar, water, kosher salt, and sugar. Heat gently over medium heat, stirring until the salt and sugar dissolve completely. This step is crucial because undissolved salt or sugar can lead to uneven flavor and texture. Once dissolved, remove the brine from heat and let it cool to room temperature before pouring over the cucumbers. Pouring hot brine can soften the cucumbers prematurely.",
+            "timing": 10,
+            "doneness_cue": "Brine is clear and fully dissolved, cooled to room temperature"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the smashed garlic cloves, fresh dill sprigs, mustard seeds, black peppercorns, and optional red pepper flakes into the mixing bowl with cucumbers. Toss gently to distribute the aromatics evenly. These ingredients infuse the pickles with their signature dill and spice flavors, so don’t skip them.",
+            "timing": 5,
+            "doneness_cue": "Aromatics are evenly mixed with cucumber slices"
+        },
+        {
+            "step": 4,
+            "instruction": "Transfer the cucumber mixture into clean glass jars or airtight containers. Pour the cooled brine over the cucumbers, making sure they are fully submerged to prevent spoilage. If needed, press down gently with a clean utensil to release air bubbles and ensure full brine coverage. Proper submersion is key to crisp, safe pickles.",
+            "timing": 10,
+            "doneness_cue": "Cucumbers fully submerged under brine with no floating pieces"
+        },
+        {
+            "step": 5,
+            "instruction": "Seal the jars tightly and place them in the refrigerator. Let the pickles sit for at least 24 hours before tasting to allow the flavors to meld. The longer they sit, the more flavorful they become. Refrigerator pickles do not require processing and will stay fresh for several weeks when kept cold.",
+            "timing": 1440,
+            "doneness_cue": "Pickles have developed a tangy aroma and bright green color"
+        },
+        {
+            "step": 6,
+            "instruction": "After 24 hours, check the pickles for flavor and texture. If you want them tangier, let them sit an extra day or two. Always use clean utensils when removing pickles to avoid contamination. These pickles are perfect for snacking, topping sandwiches, or serving alongside burgers and BBQ dishes.",
+            "timing": 5,
+            "doneness_cue": "Pickles taste balanced with a satisfying crunch"
+        },
+        {
+            "step": 7,
+            "instruction": "Keep the pickles refrigerated and consume within 3-4 weeks for best quality. Over time, the cucumbers may soften slightly but will remain delicious. If you notice any off smells or mold, discard immediately. Proper refrigeration is essential to maintain safety and texture.",
+            "timing": 5,
+            "doneness_cue": "Pickles remain firm and fresh-smelling"
+        },
+        {
+            "step": 8,
+            "instruction": "For an extra flavor boost, occasionally shake the jar gently to redistribute spices and brine. This helps maintain even flavor throughout the batch. Avoid opening the jar too frequently to preserve freshness and prevent spoilage.",
+            "timing": 2,
+            "doneness_cue": "Spices and brine evenly distributed after shaking"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve your refrigerator dill pickles chilled, straight from the jar. They pair beautifully with sandwiches, burgers, or as a crunchy snack on their own. You can also chop them up to add zest to potato salad or deviled eggs for a fresh twist.",
+            "timing": 5,
+            "doneness_cue": "Pickles are cold, crisp, and flavorful"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Refrigerator Dill Pickles Recipe Succeeds",
+        "content": "<p>Refrigerator pickles rely on a simple but effective brining process that preserves the cucumbers' natural crunch while infusing them with tangy, aromatic flavors. The key to success lies in the balance of salt, vinegar, and sugar in the brine. Salt draws moisture out of the cucumbers, helping them stay crisp and preventing spoilage, while vinegar adds acidity that acts as a natural preservative and delivers that classic pickle tang. Sugar balances the acidity and rounds out the flavor.</p><p>Fresh dill is essential for authentic flavor. Its delicate, herbaceous oils infuse the brine and cucumbers, creating the signature dill pickle taste. Mustard seeds and garlic add depth and complexity, making each bite flavorful and interesting. The use of whole spices rather than ground ensures a slow, gentle release of flavor over time.</p><p>Unlike traditional canned pickles, refrigerator pickles skip the heat processing step, preserving the cucumbers' crisp texture. The cold storage slows bacterial growth but does not sterilize the food, so cleanliness and full submersion in brine are critical. This method is perfect for quick pickles that develop flavor in a day or two and are best consumed within a few weeks.</p><p>Finally, slicing the cucumbers uniformly ensures even brining and consistent texture. Using Kirby cucumbers, known for their firmness and small seeds, further contributes to the ideal pickle crunch. This recipe’s success is all about balancing flavor, texture, and freshness through simple, thoughtful techniques.</p>",
+        "ingredient_notes": {
+            "Kirby Cucumbers": "Kirby cucumbers are the preferred choice for pickling because of their firm texture and small seeds, which help maintain crunchiness after soaking in brine. When buying, look for fresh, bright green cucumbers without soft spots or blemishes. Avoid slicing too thin to prevent sogginess. If unavailable, pickling cucumbers or English cucumbers can be a substitute, but texture may vary.",
+            "White Vinegar": "White vinegar provides the necessary acidity to preserve the cucumbers and develop the classic tangy flavor of pickles. It should be 5% acidity for proper preservation. Avoid flavored or malt vinegars as they alter taste and preservation. The vinegar’s sharpness balances the saltiness and sweetness in the brine.",
+            "Kosher Salt": "Kosher salt is ideal for pickling due to its purity and coarse grains, which dissolve evenly in the brine without additives that can cloud the liquid. Table salt often contains iodine and anti-caking agents that may affect flavor and appearance. Measuring by weight or volume carefully is important to maintain brine balance.",
+            "Fresh Dill": "Fresh dill sprigs are the star herb in dill pickles, imparting a bright, slightly citrusy aroma and flavor. Use fresh, vibrant green dill with intact feathery leaves for the best results. Dill seeds can be used as a substitute but provide a different, earthier flavor. Adding dill late in the process preserves its fresh notes.",
+            "Mustard Seeds": "Mustard seeds add a warm, slightly spicy undertone that complements the dill and garlic. Whole seeds release flavor slowly, infusing the brine without overpowering it. They also contribute to the traditional texture and appearance of classic dill pickles. Toasting the seeds lightly before adding can deepen flavor but is optional."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use fresh, firm cucumbers without blemishes for the best crunch.",
+            "reason": "Fresh cucumbers retain moisture and crispness better during pickling. Older or soft cucumbers will become mushy quickly, ruining texture. Selecting firm cucumbers ensures your pickles stay crunchy even after soaking in the brine."
+        },
+        {
+            "tip": "Dissolve salt and sugar fully in warm water before adding to cucumbers.",
+            "reason": "Undissolved salt or sugar can cause uneven seasoning and texture. Heating the brine helps dissolve these ingredients completely, ensuring the cucumbers absorb a balanced flavor and maintain crispness."
+        },
+        {
+            "tip": "Keep cucumbers fully submerged in brine using a weight or utensil.",
+            "reason": "Exposure to air can cause mold or spoilage. Submersion in brine creates an anaerobic environment that preserves the pickles and enhances flavor. Using a clean weight prevents floating pieces and ensures even pickling."
+        },
+        {
+            "tip": "Store pickles in the refrigerator and consume within 3-4 weeks.",
+            "reason": "Without heat processing, refrigerator pickles rely on cold storage to slow bacterial growth. Eating them within a month ensures freshness and safety. Over time, texture softens and flavor diminishes."
+        },
+        {
+            "tip": "Add garlic and mustard seeds for authentic dill pickle flavor complexity.",
+            "reason": "These aromatics add depth beyond just dill and vinegar, creating a layered flavor profile. Garlic provides savory notes while mustard seeds contribute warmth and slight spice, elevating the overall taste."
+        },
+        {
+            "tip": "Slice cucumbers uniformly for even brining and texture.",
+            "reason": "Uneven slices pickle at different rates, causing some pieces to be mushy while others remain firm. Consistent thickness ensures all pieces absorb the brine evenly and maintain a uniform crunch."
+        },
+        {
+            "tip": "Let pickles rest at least 24 hours before eating for best flavor.",
+            "reason": "The resting time allows flavors to meld and the cucumbers to soak up the brine fully. Eating too soon results in bland pickles with less developed taste and crunch."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using hot brine directly on cucumbers.",
+            "why_it_happens": "Some cooks pour the brine while still warm to speed up the process, not realizing it can soften the cucumbers prematurely.",
+            "fix": "Always allow the brine to cool to room temperature before pouring over cucumbers. This prevents the cucumbers from cooking and losing their crisp texture."
+        },
+        {
+            "mistake": "Not submerging cucumbers fully in brine.",
+            "why_it_happens": "Lack of a proper weight or tight packing causes cucumbers to float, exposing them to air.",
+            "fix": "Use a clean weight or utensil to press cucumbers down and keep them submerged. This prevents mold and uneven pickling."
+        },
+        {
+            "mistake": "Using table salt instead of kosher salt.",
+            "why_it_happens": "Table salt is more common and cooks may not know it affects flavor and clarity.",
+            "fix": "Use kosher salt without additives for better flavor and clear brine. Adjust quantity if substituting table salt as it is saltier by volume."
+        },
+        {
+            "mistake": "Slicing cucumbers too thin or unevenly.",
+            "why_it_happens": "Trying to speed up slicing or inconsistent knife skills lead to uneven pieces.",
+            "fix": "Slice cucumbers uniformly about 1/4 inch thick to ensure even texture and flavor absorption."
+        },
+        {
+            "mistake": "Not allowing enough resting time before tasting.",
+            "why_it_happens": "Impatience to try the pickles may cause premature tasting.",
+            "fix": "Wait at least 24 hours for flavors to develop fully. Longer resting improves flavor and crunch."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Refrigerator Dill Pickles",
+            "description": "Add 1/2 teaspoon of red pepper flakes or sliced jalapeños to the brine for a spicy kick. This variation adds heat without overpowering the classic dill flavor, perfect for those who like a little zing.",
+            "technical_note": "Spices infuse faster in refrigerator pickles, so start with less and adjust to taste after 24 hours."
+        },
+        {
+            "name": "Garlic Lover’s Dill Pickles",
+            "description": "Increase garlic cloves to 6 or 8 for a bolder, more pungent garlic flavor. Roasting the garlic beforehand can add a mellow sweetness. Great for garlic fans looking for extra depth.",
+            "technical_note": "Roasted garlic softens and sweetens, so it will mellow the brine’s sharpness slightly."
+        },
+        {
+            "name": "Bread and Butter Refrigerator Pickles",
+            "description": "Add sliced onions and increase sugar to 3 tablespoons for a sweeter, tangy pickle with a hint of onion flavor. This style is a crowd-pleaser and pairs well with sandwiches and burgers.",
+            "technical_note": "Sweet pickles require careful balancing of sugar and vinegar to avoid being overly sweet."
+        },
+        {
+            "name": "Herb-Infused Dill Pickles",
+            "description": "Add fresh herbs like thyme or tarragon along with dill for a unique herbal twist. This variation offers a more complex flavor profile and works well as a gourmet snack or appetizer.",
+            "technical_note": "Herbs infuse quickly in the cold brine, so add fresh herbs just before refrigerating."
+        },
+        {
+            "name": "Whole Cucumber Refrigerator Pickles",
+            "description": "Use small whole cucumbers instead of slices for traditional spear-style pickles. Adjust brine volume accordingly and allow longer resting time for full flavor absorption.",
+            "technical_note": "Whole pickles take longer to pickle, so wait 3-4 days before tasting."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "15 kcal",
+        "protein_grams": "0.5g",
+        "carbohydrates_grams": "3g",
+        "fat_grams": "0g",
+        "fiber_grams": "1g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Refrigerator pickles should not be kept at room temperature for more than 2 hours to avoid spoilage. Always keep them covered and refrigerated.",
+        "refrigerator": "Store pickles in airtight jars in the refrigerator for up to 3-4 weeks. Flavor and texture are best within the first two weeks. Pickles may soften slightly over time but remain safe to eat.",
+        "freezer": "Freezing is not recommended as it breaks down the cucumbers’ texture, resulting in mushy pickles. Instead, consume within the refrigerated timeframe.",
+        "reheating": "Pickles are best served cold or at room temperature. Avoid heating as it ruins the crisp texture and flavor.",
+        "make_ahead_strategy": "You can prepare the brine and slice cucumbers 1 day ahead, storing them separately. Combine and refrigerate when ready to pickle for best freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular cucumbers instead of Kirby cucumbers?",
+            "answer": "Yes, you can use regular cucumbers, but Kirby cucumbers are preferred because they have a firmer texture and fewer seeds, which help keep the pickles crisp. Regular cucumbers may result in softer pickles, especially if sliced thinly."
+        },
+        {
+            "question": "How long do refrigerator pickles last?",
+            "answer": "Refrigerator pickles typically last 3 to 4 weeks when stored properly in airtight containers in the fridge. Over time, they may soften but should remain safe to eat within this period. Always check for off smells or mold before consuming."
+        },
+        {
+            "question": "Why are my pickles not crunchy?",
+            "answer": "Pickles can lose crunch if the brine is too weak, the cucumbers were not fresh, or if hot brine was poured directly onto them. Using fresh cucumbers, a balanced brine, and cold brining helps maintain crispness. Also, ensure cucumbers are fully submerged to prevent spoilage."
+        },
+        {
+            "question": "Can I add sugar to make sweet pickles?",
+            "answer": "Absolutely! Adding sugar creates a sweeter pickle, like bread and butter style. Adjust the sugar amount to taste, but balance it with vinegar to maintain proper acidity for preservation and flavor."
+        },
+        {
+            "question": "Do I need to sterilize the jars for refrigerator pickles?",
+            "answer": "Sterilizing jars is not necessary for refrigerator pickles since they’re stored cold and consumed quickly. Just use clean jars and utensils to avoid contamination and spoilage."
+        },
+        {
+            "question": "Can I reuse the brine for another batch?",
+            "answer": "It’s best to make fresh brine for each batch to ensure proper acidity and salt balance. Reusing brine may lead to inconsistent flavor and texture and increase risk of spoilage."
+        },
+        {
+            "question": "How can I make my pickles spicier?",
+            "answer": "Add red pepper flakes, sliced jalapeños, or a few whole peppercorns to the brine. Start with small amounts and adjust after tasting to control heat level without overpowering the dill flavor."
+        },
+        {
+            "question": "Can I make refrigerator pickles without vinegar?",
+            "answer": "Vinegar is essential for safe pickling in this quick method as it provides acidity that preserves the cucumbers. Without vinegar, you’d need a fermentation process which requires different techniques and more time."
+        }
+    ],
+    "conclusion": "I hope you enjoy making these easy refrigerator dill pickles as much as my family does. They’re a simple, flavorful snack that adds a fresh crunch to any meal. Give them a try and let me know how yours turn out!",
+    "seo": {
+        "primary_keyword": "refrigerator pickles dill",
+        "secondary_keywords": [
+            "easy refrigerator pickles",
+            "homemade dill pickles",
+            "how to make refrigerator pickles",
+            "best refrigerator pickles recipe",
+            "quick dill pickles"
+        ],
+        "internal_links": [
+            {
+                "text": "easy homemade pickles",
+                "anchor": "easy-homemade-pickles"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230221_583",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-31 01:15:54",
+        "title_seed": "Refrigerator Pickles Recipes Dill"
+    },
+    "author_id": "author_001",
+    "id": "post_1785460554_956",
+    "slug": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor",
+    "uniqueSlug": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_1.webp",
+            "relativePath": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_2.webp",
+            "relativePath": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_3.webp",
+            "relativePath": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_9.webp",
+            "relativePath": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Are Refrigerator Dill Pickles So Crispy and Flavorful?"
+        },
+        {
+            "fileName": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_6.webp",
+            "relativePath": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "Quick Refrigerator Dill Pickles Ready in Under 24 Hours"
+        },
+        {
+            "fileName": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_5.webp",
+            "relativePath": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Refrigerator Dill Pickles Perfect Every Time"
+        },
+        {
+            "fileName": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_8.webp",
+            "relativePath": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Are Refrigerator Dill Pickles So Crispy and Flavorful?"
+        },
+        {
+            "fileName": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_7.webp",
+            "relativePath": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Buying Pickles? Make Your Own Refrigerator Dill Pickles Instead"
+        },
+        {
+            "fileName": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_4.webp",
+            "relativePath": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Are Refrigerator Dill Pickles So Crispy and Flavorful?"
+        }
+    ],
+    "image": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images/easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor_pinrecipes_image_1.webp",
+    "image_dir": "easy-refrigerator-pickles-recipe-with-fresh-dill-for-crisp-tangy-flavor/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-07-31T02:47:02+01:00",
+    "updatedAt": "2026-07-31T02:47:02+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}
