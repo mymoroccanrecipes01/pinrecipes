@@ -1,0 +1,364 @@
+{
+    "title": "Moist Chocolate Zucchini Cake Recipe With Chocolate Chips for Easy Baking",
+    "promptIMG": {
+        "img1": "SCENE: a softly blurred home kitchen with warm natural light streaming through a window, faint reflections on a clean countertop. SUBJECT: a generous slice of moist chocolate zucchini cake loaded with dark chocolate chips, resting on a rustic ceramic plate with a slightly glossy chocolate crumb visible, the front edge sharply in focus showing the tender crumb and melted chocolate chips, the rest softly fading into bokeh. DETAILS: rich, dark brown crumb with shiny melted chocolate chips studding the surface, a light dusting of powdered sugar on top, crumbs scattered naturally on the plate edges. STYLE: ultra-photorealistic professional food photography with bright daylight, warm golden tones, highly saturated rich chocolate hues, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no steam or smoke, no plastic textures, no watermarks or logos.",
+        "img2": "SCENE: soft bright daylight through a kitchen window with a light grey marble background softly blurred. SUBJECT: the reveal shot of the chocolate zucchini cake cut in half, both halves facing the camera, showing the moist, tender interior with gooey melted chocolate chips oozing slightly, crumb moist and dense with flecks of green zucchini visible. DETAILS: glossy, wet crumb with dark chocolate chips melting into the cake, edges caramelized with a slight shine, crumbs scattered naturally below. STYLE: ultra-photorealistic food photography, bright airy daylight, warm golden-amber glow, rich saturated chocolate and green hues, shallow macro depth of field, vertical 2:3. AVOID: no hands, no text, no logos, no dull colors.",
+        "img3": "SCENE: warm dark wood surface softly blurred behind with a single warm side glow highlighting the cake. SUBJECT: several thick slices of chocolate zucchini cake arranged close together on a rustic wooden board, topped with a few extra chocolate chips and a light dusting of powdered sugar, the front slice sharply in focus showing moist crumb and chocolate melting, the rest receding into a warm bokeh. DETAILS: intense glossy shine on chocolate chips, deep brown caramelized edges, natural crumbs scattered on the board. STYLE: ultra-photorealistic professional food photography with deep golden-amber warm tones, highly saturated rich chocolate colors, shallow macro depth of field, vertical 2:3. AVOID: no text, hands, logos, or steam."
+    },
+    "description": "This chocolate zucchini cake is the perfect way to sneak veggies into a rich dessert. The chocolate chips melt into every bite, making it irresistibly moist and flavorful. Great for afternoon treats or casual family dinners!",
+    "hashtags": "#chocolatezucchinicake #easybaking #moistcake",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does This Chocolate Zucchini Cake Stay So Moist?",
+            "description": "Ever wonder how to keep zucchini cake super moist without it being soggy? The secret’s in the fresh zucchini and melted chocolate chips! 🍫💚 Save this for your next baking day. #chocolatezucchinicake #moistcake #easybaking"
+        },
+        {
+            "title": "The One Trick That Makes Chocolate Zucchini Cake Foolproof",
+            "description": "Adding grated zucchini and chocolate chips creates a wonderfully tender cake every time. No dry slices here! Try this simple tip for your next bake. 🍰✨ Tap to get the full recipe. #easybaking #chocolatecake #zucchinirecipes"
+        },
+        {
+            "title": "15-Minute Prep Chocolate Zucchini Cake for Busy Weekends",
+            "description": "Pressed for time? This chocolate zucchini cake comes together in just 15 minutes of prep and bakes into a deliciously moist treat. Perfect for weekend baking sessions! 🍫⏰ Save this recipe now. #quickbaking #moistcake #zucchinicake"
+        },
+        {
+            "title": "Still Making Dry Zucchini Cake? This Chocolate Version Fixes It",
+            "description": "If your zucchini cakes turn out dry, you’ll love this chocolate chip version that stays moist and rich. It’s a family favorite that’s easy to make! 🍫💚 Tap for the recipe. #chocolatezucchinicake #moistcake #easybaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 40,
+    "servings": 8,
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1/2 cup unsweetened cocoa powder",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 cup granulated sugar",
+        "1/2 cup brown sugar, packed",
+        "1 cup vegetable oil",
+        "3 large eggs",
+        "2 teaspoons vanilla extract",
+        "2 cups grated zucchini, squeezed dry",
+        "1 cup semi-sweet chocolate chips"
+    ],
+    "yield": "One 9x13 inch cake, approximately 8 servings",
+    "introduction": "I first made this chocolate zucchini cake years ago when I needed a way to use up an overabundance of zucchini from my garden. I was skeptical about mixing veggies into a chocolate cake, but this recipe quickly became a household favorite. What sets this cake apart is the balance between the moist zucchini and the rich cocoa flavor, complemented perfectly by melty chocolate chips throughout. The trick I learned is to grate the zucchini finely and squeeze out excess moisture so the cake stays tender but not soggy. It’s a simple, no-fuss recipe that yields a cake with a tender crumb and a deep chocolate flavor, perfect for sharing with family or bringing to potlucks. Every bite feels indulgent but with a little veggie boost, which I love. It’s definitely a crowd-pleaser and easy enough for even beginner bakers to master.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Grease and flour a 9x13 inch baking pan or line it with parchment paper. This ensures your cake releases cleanly and bakes evenly without sticking. Proper pan preparation is key to a perfect cake texture and appearance.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan is fully greased and floured with no bare spots; oven is at temperature."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, cocoa powder, baking soda, baking powder, and salt. This dry mix forms the base of your cake and helps distribute the leavening agents evenly. Sifting or whisking removes lumps and aerates the mixture for a lighter crumb.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well combined and free of lumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat together the granulated sugar, brown sugar, and vegetable oil until combined. Add the eggs one at a time, beating well after each addition. Stir in vanilla extract. This wet mixture provides moisture and richness, and beating eggs properly helps with cake structure and tenderness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is smooth, glossy, and slightly thickened."
+        },
+        {
+            "step": 4,
+            "instruction": "Fold the dry ingredients into the wet mixture gently using a spatula. Avoid overmixing to keep the cake tender. Stop mixing as soon as no streaks of flour remain. Overmixing develops gluten which can make the cake tough.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is uniform in color and texture without visible flour."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the grated zucchini (make sure it’s squeezed dry to remove excess moisture) and fold it in gently. The zucchini adds moisture and texture without overpowering the chocolate flavor. Proper draining prevents sogginess.",
+            "timing": "3 minutes",
+            "doneness_cue": "Zucchini is evenly distributed throughout the batter."
+        },
+        {
+            "step": 6,
+            "instruction": "Fold in the chocolate chips evenly to distribute pockets of melted chocolate throughout the cake. This adds bursts of rich flavor and gooey texture when baked.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chocolate chips are scattered evenly, not clumped."
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into the prepared pan and smooth the top with a spatula. This ensures even baking and a nice flat surface for slicing.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter is evenly spread with no peaks or valleys."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake in the preheated oven for 35-40 minutes, or until a toothpick inserted in the center comes out with a few moist crumbs but no raw batter. Avoid overbaking to keep the cake moist.",
+            "timing": "35-40 minutes",
+            "doneness_cue": "Toothpick test passes; cake springs back lightly when pressed."
+        },
+        {
+            "step": 9,
+            "instruction": "Allow the cake to cool completely in the pan on a wire rack before slicing. Cooling lets the cake set and makes it easier to cut clean slices without crumbling.",
+            "timing": "30 minutes",
+            "doneness_cue": "Cake is completely cool to touch and firm."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Moist Chocolate Zucchini Cake",
+        "content": "<p>Chocolate zucchini cake is a wonderful example of balancing moisture and structure in baking. The grated zucchini adds natural moisture and fiber without overwhelming the chocolate flavor. It’s important to squeeze out excess liquid from the zucchini because too much moisture can make the cake dense and soggy rather than tender.</p><p>The combination of baking soda and baking powder provides the leavening necessary for a light crumb. Baking soda reacts with the acidic components like brown sugar and cocoa powder, creating carbon dioxide bubbles that help the cake rise. Baking powder adds additional lift to ensure a fluffy texture.</p><p>The vegetable oil keeps the cake moist and tender, unlike butter which can create a firmer crumb. Oil coats the flour proteins, limiting gluten development which keeps the cake soft. Beating the eggs into the sugar and oil mixture helps incorporate air and creates a stable batter that traps the leavening gases.</p><p>Finally, the chocolate chips melt during baking, creating pockets of gooey richness that contrast beautifully with the tender crumb. The cocoa powder provides the deep chocolate flavor, and the balance of sugars ensures the cake is sweet but not cloying.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a standard all-purpose flour with moderate protein content around 10-12%. This provides enough gluten to give structure without making the cake tough. Avoid bread flour, which is too strong and can dry out the cake.",
+            "cocoa powder": "Use unsweetened natural cocoa powder for a bright chocolate flavor. Dutch-processed cocoa is milder and darker but reacts differently with baking soda, so natural cocoa is preferred here for balanced leavening.",
+            "grated zucchini": "Fresh zucchini should be grated finely and squeezed to remove excess water. This prevents the cake from becoming too wet and ensures a tender crumb. The zucchini adds moisture and subtle veggie nutrition without altering flavor.",
+            "vegetable oil": "Neutral vegetable oil like canola or sunflower works best to keep the cake moist without adding flavor. Using butter instead can create a firmer texture and less moist crumb.",
+            "chocolate chips": "Semi-sweet chocolate chips add bursts of melted chocolate that complement the cocoa powder’s flavor. Use good quality chips that melt well but hold shape during mixing."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze the grated zucchini dry before adding it to the batter.",
+            "reason": "Excess moisture in zucchini can make your cake soggy and prevent it from baking properly. Removing water ensures the cake stays moist but not wet, and helps achieve the perfect crumb texture."
+        },
+        {
+            "tip": "Don’t overmix the batter once you add the flour.",
+            "reason": "Overmixing develops gluten which leads to a tough, chewy cake. Mix just until the dry ingredients are incorporated for a tender, soft crumb."
+        },
+        {
+            "tip": "Use room temperature eggs for better emulsification.",
+            "reason": "Room temperature eggs blend more easily with oil and sugar, creating a smooth batter that traps air and produces a lighter cake texture."
+        },
+        {
+            "tip": "Line your pan with parchment paper for easy removal.",
+            "reason": "Parchment paper prevents sticking and helps lift the cake out cleanly without breaking, especially important for moist cakes."
+        },
+        {
+            "tip": "Test for doneness with a toothpick inserted near the center.",
+            "reason": "Pulling the cake too early can lead to a gummy center, while overbaking dries it out. A few moist crumbs on the toothpick means it’s perfectly baked."
+        },
+        {
+            "tip": "Add a pinch of salt to balance sweetness and enhance chocolate flavor.",
+            "reason": "Salt rounds out the flavors and prevents the cake from tasting flat or overly sweet, making the chocolate taste richer."
+        },
+        {
+            "tip": "Cool the cake completely before slicing.",
+            "reason": "Cutting warm cake can cause it to crumble or stick. Cooling lets the crumb set for neat slices."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing zucchini enough",
+            "why_it_happens": "Many assume grated zucchini can be added directly, but it contains a lot of water that affects batter consistency.",
+            "fix": "Use a clean kitchen towel or cheesecloth to squeeze out as much moisture as possible before folding it into the batter."
+        },
+        {
+            "mistake": "Overmixing batter after adding flour",
+            "why_it_happens": "It’s tempting to mix thoroughly for evenness, but this develops gluten and toughens the cake.",
+            "fix": "Fold ingredients gently and stop mixing as soon as no streaks of flour remain."
+        },
+        {
+            "mistake": "Baking at too high or low temperature",
+            "why_it_happens": "Oven temperature varies and can cause uneven baking, dry edges, or undercooked centers.",
+            "fix": "Use an oven thermometer to confirm 350°F and bake for recommended time, checking doneness with a toothpick."
+        },
+        {
+            "mistake": "Skipping the leavening agents",
+            "why_it_happens": "Forgetting baking soda or powder results in a dense, heavy cake.",
+            "fix": "Measure carefully and mix dry ingredients well before combining with wet."
+        },
+        {
+            "mistake": "Using old or expired baking soda/powder",
+            "why_it_happens": "Leavening agents lose potency over time, reducing rise.",
+            "fix": "Test baking soda by adding a bit to vinegar to see if it bubbles; replace if inactive."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Walnut Chocolate Zucchini Cake",
+            "description": "Add 1 cup chopped walnuts to the batter for a crunchy texture and nutty flavor that pairs wonderfully with chocolate and zucchini.",
+            "technical_note": "Fold walnuts in with the chocolate chips to distribute evenly; watch for slightly longer baking time."
+        },
+        {
+            "name": "Gluten-Free Chocolate Zucchini Cake",
+            "description": "Substitute the all-purpose flour with a gluten-free flour blend that includes xanthan gum to maintain structure and moisture balance.",
+            "technical_note": "Gluten-free batters can be denser; avoid overmixing and check doneness carefully."
+        },
+        {
+            "name": "Vegan Chocolate Zucchini Cake",
+            "description": "Replace eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg) and use a plant-based oil and dairy-free chocolate chips for a vegan-friendly version.",
+            "technical_note": "Flax eggs add moisture but may slightly alter texture; bake until toothpick comes out clean."
+        },
+        {
+            "name": "Spiced Chocolate Zucchini Cake",
+            "description": "Add 1 tsp cinnamon and 1/4 tsp nutmeg to the dry ingredients for a warm, cozy flavor twist that complements the chocolate beautifully.",
+            "technical_note": "Spices intensify the aroma; ensure they are evenly mixed to avoid pockets of strong flavor."
+        },
+        {
+            "name": "Chocolate Zucchini Bundt Cake",
+            "description": "Bake the batter in a greased and floured bundt pan for an elegant presentation with the same moist, chocolatey goodness.",
+            "technical_note": "Increase baking time to 45-50 minutes; test doneness with a long skewer."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "16g",
+        "fiber_grams": "3g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and portion sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the cake covered loosely with foil or in an airtight container at room temperature for up to 2 days. This keeps the cake moist but avoid direct sunlight or heat which can dry it out.",
+        "refrigerator": "Keep the cake in an airtight container in the refrigerator for up to 5 days. The cake may firm up and lose some moisture; bring to room temperature before serving or warm gently in the microwave for 15-20 seconds.",
+        "freezer": "Wrap the cake tightly in plastic wrap and then foil to prevent freezer burn. Freeze for up to 3 months. Thaw overnight in the refrigerator and warm before serving to restore softness.",
+        "reheating": "Reheat slices gently in the microwave for 20-30 seconds or in a low oven (300°F) for 10 minutes covered with foil. Adding a small dab of butter or a splash of milk can refresh moisture.",
+        "make_ahead_strategy": "Prepare the batter up to 24 hours in advance and keep refrigerated. Bake fresh on the day you plan to serve for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen grated zucchini for this cake?",
+            "answer": "Yes, but make sure to thaw and squeeze out all excess moisture thoroughly before adding it to the batter. Frozen zucchini tends to hold more water, so extra draining is crucial to avoid a soggy cake."
+        },
+        {
+            "question": "What if I don’t have cocoa powder, can I use melted chocolate instead?",
+            "answer": "You can substitute melted unsweetened chocolate for cocoa powder, but reduce the fat in the recipe slightly to compensate. Melted chocolate adds richness but changes the texture and sweetness balance."
+        },
+        {
+            "question": "How do I know when the cake is done baking?",
+            "answer": "Avoid opening the oven too early to prevent collapse."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Yes, use a gluten-free flour blend that includes xanthan gum for structure. The texture may be slightly different, but it will still be delicious and moist."
+        },
+        {
+            "question": "Is this cake suitable for freezing?",
+            "answer": "Absolutely! Wrap it tightly to prevent freezer burn and thaw overnight in the fridge before reheating gently to restore moisture."
+        },
+        {
+            "question": "What’s the best way to grate zucchini for this recipe?",
+            "answer": "Use the fine side of a box grater or a food processor with a grating attachment. The zucchini should be grated finely to blend well into the batter without large chunks."
+        },
+        {
+            "question": "Can I substitute the vegetable oil with butter?",
+            "answer": "For best moistness, stick with oil."
+        },
+        {
+            "question": "How do I prevent the chocolate chips from sinking to the bottom?",
+            "answer": "Toss the chocolate chips in a little flour before folding them into the batter. This helps suspend them evenly throughout the cake."
+        }
+    ],
+    "conclusion": "I hope you enjoy this chocolate zucchini cake as much as my family does—it's a simple way to get a delicious, moist treat with a little veggie boost. Give it a try and let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "chocolate zucchini cake recipe",
+        "secondary_keywords": [
+            "moist chocolate zucchini cake",
+            "easy chocolate zucchini cake",
+            "how to make chocolate zucchini cake",
+            "best chocolate zucchini cake recipe",
+            "homemade chocolate zucchini cake"
+        ],
+        "internal_links": [
+            {
+                "text": "moist chocolate cake tips",
+                "anchor": "moist-chocolate-cake-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-07-31 23:20:34",
+        "title_seed": "Chocolate Zucchini Cake Recipe With Chocolate Chips"
+    },
+    "author_id": "author_001",
+    "id": "post_1785540034_850",
+    "slug": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking",
+    "uniqueSlug": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_1.webp",
+            "filePath": "posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_1.webp",
+            "relativePath": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_2.webp",
+            "filePath": "posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_2.webp",
+            "relativePath": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_3.webp",
+            "filePath": "posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_3.webp",
+            "relativePath": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_7.webp",
+            "filePath": "posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_7.webp",
+            "relativePath": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Zucchini Cake? This Chocolate Version Fixes It"
+        },
+        {
+            "fileName": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_5.webp",
+            "filePath": "posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_5.webp",
+            "relativePath": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Chocolate Zucchini Cake Foolproof"
+        },
+        {
+            "fileName": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_8.webp",
+            "filePath": "posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_8.webp",
+            "relativePath": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Chocolate Zucchini Cake Stay So Moist?"
+        },
+        {
+            "fileName": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_9.webp",
+            "filePath": "posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_9.webp",
+            "relativePath": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Chocolate Zucchini Cake Stay So Moist?"
+        },
+        {
+            "fileName": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_6.webp",
+            "filePath": "posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_6.webp",
+            "relativePath": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep Chocolate Zucchini Cake for Busy Weekends"
+        },
+        {
+            "fileName": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_4.webp",
+            "filePath": "posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_4.webp",
+            "relativePath": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Chocolate Zucchini Cake Stay So Moist?"
+        }
+    ],
+    "image": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_1.webp",
+    "image_path": "posts/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images/moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking_pinrecipes_image_1.webp",
+    "image_dir": "moist-chocolate-zucchini-cake-recipe-with-chocolate-chips-for-easy-baking/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-01T00:47:55+01:00",
+    "updatedAt": "2026-08-01T00:47:55+01:00",
+    "has_reel": true,
+    "has_fal_video": true
+}
