@@ -1,0 +1,29 @@
+{
+  "id": "rustic-kitchen",
+  "name": "Rustic Kitchen",
+  "description": "Warm farmhouse feel — parchment tones, hand-drawn accents, ornamental dividers.",
+  "version": "1.0",
+  "colors": {
+    "background": "#F7EFE1", "surface": "#FFF8EC",
+    "primary": "#7A3B1E", "secondary": "#B5502E", "accent": "#C98A2C",
+    "text_heading": "#4A2E1A", "text_body": "#4A3B2E", "text_muted": "#8A7863",
+    "border": "#E3D2B8", "divider": "#C98A2C"
+  },
+  "typography": {
+    "font_display": { "family": "Cabin Sketch", "weights": [400, 700] },
+    "font_heading": { "family": "Anton", "weights": [400] },
+    "font_body":    { "family": "Playfair Display", "weights": [400] },
+    "base_size_pt": 10.5, "h1_size_pt": 34, "h2_size_pt": 15, "h3_size_pt": 11.5,
+    "label_letter_spacing": "0.04em", "label_text_transform": "uppercase"
+  },
+  "spacing": { "unit_pt": 7, "section_gap_pt": 24, "content_padding_pt": 20, "card_gap_pt": 12 },
+  "page_style": {
+    "divider_style": "ornament", "corner_decoration": "corner-flourish",
+    "hero_image_treatment": "framed", "background_texture": "none"
+  },
+  "header": { "show_logo": false, "running_title_source": "recipe_title", "text_transform": "none", "show_rule": false },
+  "footer": { "show_page_number": true, "show_site_url": true, "text": "Homemade with love" },
+  "section_styles": { "ingredients_style": "striped-rows", "step_number_style": "circle-badge", "callout_style": "sticky-note" },
+  "cover": { "layout": "centered-framed", "title_position": "below-frame", "overlay_color": null },
+  "assets": { "logo_url": null, "background_texture_url": null, "corner_ornament_svg": null }
+}

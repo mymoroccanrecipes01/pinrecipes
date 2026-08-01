@@ -1,0 +1,29 @@
+{
+  "id": "colorful-pinterest",
+  "name": "Colorful Pinterest Style",
+  "description": "Bold and bright — Pinterest red, purple and teal accents, rounded playful type.",
+  "version": "1.0",
+  "colors": {
+    "background": "#FFFFFF", "surface": "#FDF2F8",
+    "primary": "#E60023", "secondary": "#7C3AED", "accent": "#14B8A6",
+    "text_heading": "#1F2937", "text_body": "#374151", "text_muted": "#9CA3AF",
+    "border": "#FCE7F3", "divider": "#F472B6"
+  },
+  "typography": {
+    "font_heading": { "family": "Changa", "weights": [400, 700] },
+    "font_body":    { "family": "Poppins", "weights": [400] },
+    "font_display": { "family": "Changa", "weights": [700] },
+    "base_size_pt": 10.5, "h1_size_pt": 31, "h2_size_pt": 16, "h3_size_pt": 12,
+    "label_letter_spacing": "0.06em", "label_text_transform": "uppercase"
+  },
+  "spacing": { "unit_pt": 6, "section_gap_pt": 26, "content_padding_pt": 18, "card_gap_pt": 11 },
+  "page_style": {
+    "divider_style": "dots", "corner_decoration": "none",
+    "hero_image_treatment": "rounded", "background_texture": "none"
+  },
+  "header": { "show_logo": false, "running_title_source": "recipe_title", "text_transform": "uppercase", "show_rule": false },
+  "footer": { "show_page_number": true, "show_site_url": true, "text": null },
+  "section_styles": { "ingredients_style": "checklist", "step_number_style": "circle-badge", "callout_style": "bordered-box" },
+  "cover": { "layout": "split-band", "title_position": "left", "overlay_color": null },
+  "assets": { "logo_url": null, "background_texture_url": null, "corner_ornament_svg": null }
+}

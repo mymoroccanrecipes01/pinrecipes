@@ -1,0 +1,29 @@
+{
+  "id": "modern-minimal",
+  "name": "Modern Minimal",
+  "description": "Clean editorial layout, generous white space, one confident accent color.",
+  "version": "1.0",
+  "colors": {
+    "background": "#FFFFFF", "surface": "#F6F6F4",
+    "primary": "#111827", "secondary": "#0D9488", "accent": "#0F766E",
+    "text_heading": "#111827", "text_body": "#374151", "text_muted": "#9CA3AF",
+    "border": "#E5E7EB", "divider": "#E5E7EB"
+  },
+  "typography": {
+    "font_heading": { "family": "General Sans", "weights": [500, 700] },
+    "font_body":    { "family": "Poppins", "weights": [400] },
+    "font_display": { "family": "General Sans", "weights": [700] },
+    "base_size_pt": 10.5, "h1_size_pt": 32, "h2_size_pt": 16, "h3_size_pt": 12,
+    "label_letter_spacing": "0.12em", "label_text_transform": "uppercase"
+  },
+  "spacing": { "unit_pt": 6, "section_gap_pt": 28, "content_padding_pt": 18, "card_gap_pt": 10 },
+  "page_style": {
+    "divider_style": "line", "corner_decoration": "none",
+    "hero_image_treatment": "full-bleed", "background_texture": "none"
+  },
+  "header": { "show_logo": false, "running_title_source": "recipe_title", "text_transform": "uppercase", "show_rule": true },
+  "footer": { "show_page_number": true, "show_site_url": true, "text": null },
+  "section_styles": { "ingredients_style": "checklist", "step_number_style": "large-numeral", "callout_style": "bordered-box" },
+  "cover": { "layout": "full-bleed-photo", "title_position": "bottom-band", "overlay_color": "rgba(17,24,39,0.55)" },
+  "assets": { "logo_url": null, "background_texture_url": null, "corner_ornament_svg": null }
+}

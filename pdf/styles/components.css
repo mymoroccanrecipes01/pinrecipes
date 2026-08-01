@@ -1,0 +1,239 @@
+/* pdf/styles/components.css — CSS de tous les composants + de CHAQUE valeur possible
+   des 8 flags de variante (voir ThemeLoader::pdf_theme_variant_classes). Un thème qui
+   réutilise ces valeurs ne touche jamais ce fichier. */
+
+/* ══════════════════════════ Cover ══════════════════════════ */
+.pdf-cover {
+  position: relative;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  overflow: hidden;
+  background: var(--pdf-color-primary, #111);
+  page-break-after: always;
+}
+.pdf-cover-image {
+  position: absolute;
+  inset: 0;
+  width: 100%; height: 100%;
+  object-fit: cover;
+}
+.pdf-cover-overlay {
+  position: absolute; inset: 0;
+  background: var(--pdf-cover-overlay-color, rgba(0,0,0,.5));
+}
+.pdf-cover-content {
+  position: relative;
+  z-index: 1;
+  padding: 32pt;
+  color: #fff;
+}
+.pdf-cover-title {
+  font-family: var(--pdf-font-display, var(--pdf-font-heading));
+  font-size: calc(var(--pdf-size-h1, 28pt) * 1.15);
+  color: #fff;
+  margin-bottom: 8pt;
+}
+.pdf-cover-subtitle {
+  font-size: 12pt;
+  opacity: .9;
+}
+
+/* cover.layout variants */
+.variant-cover-centered-framed .pdf-cover {
+  justify-content: center;
+  align-items: center;
+  background: var(--pdf-color-surface, #f5f5f5);
+}
+.variant-cover-centered-framed .pdf-cover-image {
+  position: static;
+  width: 70%; height: 55%;
+  margin: 0 auto;
+  border: 6pt solid var(--pdf-color-background, #fff);
+  box-shadow: 0 0 0 1px var(--pdf-color-border, #ddd);
+  object-fit: cover;
+}
+.variant-cover-centered-framed .pdf-cover-overlay { display: none; }
+.variant-cover-centered-framed .pdf-cover-content {
+  text-align: center;
+  color: var(--pdf-color-text-heading, #111);
+}
+.variant-cover-centered-framed .pdf-cover-title { color: var(--pdf-color-primary, #111); }
+
+.variant-cover-split-band .pdf-cover { flex-direction: row; align-items: stretch; }
+.variant-cover-split-band .pdf-cover-image { position: static; width: 55%; height: 100%; }
+.variant-cover-split-band .pdf-cover-overlay { display: none; }
+.variant-cover-split-band .pdf-cover-content {
+  width: 45%;
+  display: flex; flex-direction: column; justify-content: center;
+  background: var(--pdf-color-background, #fff);
+  color: var(--pdf-color-text-heading, #111);
+}
+.variant-cover-split-band .pdf-cover-title { color: var(--pdf-color-primary, #111); }
+
+/* ══════════════════════════ Recipe page ══════════════════════════ */
+.pdf-recipe {
+  page-break-before: always;
+  page-break-inside: auto;
+}
+.pdf-recipe-title { margin-bottom: 6pt; }
+.pdf-recipe-description {
+  color: var(--pdf-color-text-body, #333);
+  font-style: italic;
+  margin-bottom: var(--pdf-space-card-gap, 10pt);
+}
+
+/* ── Hero image treatment ── */
+.pdf-hero-wrap { margin-bottom: var(--pdf-space-section-gap, 24pt); }
+.pdf-hero-img { width: 100%; object-fit: cover; }
+
+.variant-hero-full-bleed .pdf-hero-img { height: 220pt; }
+.variant-hero-framed .pdf-hero-wrap { padding: 8pt; background: var(--pdf-color-surface, #f5f5f5); }
+.variant-hero-framed .pdf-hero-img { height: 200pt; border: 3pt solid var(--pdf-color-background, #fff); box-shadow: 0 0 0 1px var(--pdf-color-border, #ddd); }
+.variant-hero-rounded .pdf-hero-img { height: 200pt; border-radius: 14pt; }
+
+/* ── Meta badges (prep/cook/total/servings/difficulty) ── */
+.pdf-meta-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--pdf-space-card-gap, 10pt);
+  margin-bottom: var(--pdf-space-section-gap, 24pt);
+}
+.pdf-meta-badge {
+  flex: 1 1 auto;
+  min-width: 70pt;
+  text-align: center;
+  padding: 8pt 6pt;
+  background: var(--pdf-color-surface, #f5f5f5);
+  border-radius: 4pt;
+}
+.pdf-meta-badge-icon { font-size: 13pt; margin-bottom: 2pt; }
+.pdf-meta-badge-value { font-weight: 700; font-size: 11pt; color: var(--pdf-color-text-heading, #111); }
+.pdf-meta-badge-label {
+  font-size: 7.5pt;
+  letter-spacing: var(--pdf-label-letter-spacing, normal);
+  text-transform: var(--pdf-label-text-transform, uppercase);
+  color: var(--pdf-color-text-muted, #888);
+}
+
+/* ── Ingredients ── */
+.pdf-ingredients { display: flex; flex-direction: column; gap: 5pt; }
+.pdf-ingredient { display: flex; align-items: baseline; gap: 6pt; }
+
+.variant-ingredients-checklist .pdf-ingredient::before {
+  content: '☐'; color: var(--pdf-color-accent, #888); flex-shrink: 0;
+}
+.variant-ingredients-boxed .pdf-ingredients {
+  border: 1px solid var(--pdf-color-border, #ddd);
+  border-radius: 4pt;
+  padding: 10pt 12pt;
+}
+.variant-ingredients-boxed .pdf-ingredient::before { content: '•'; color: var(--pdf-color-accent, #888); }
+.variant-ingredients-striped-rows .pdf-ingredient {
+  padding: 4pt 6pt;
+}
+.variant-ingredients-striped-rows .pdf-ingredient:nth-child(odd) {
+  background: var(--pdf-color-surface, #f5f5f5);
+}
+.variant-ingredients-striped-rows .pdf-ingredient::before { content: '—'; color: var(--pdf-color-accent, #888); }
+
+/* ── Instructions ── */
+.pdf-instructions { display: flex; flex-direction: column; gap: var(--pdf-space-card-gap, 10pt); }
+.pdf-step { display: flex; gap: 10pt; align-items: flex-start; }
+.pdf-step-number {
+  flex-shrink: 0;
+  font-family: var(--pdf-font-heading, serif);
+  font-weight: 700;
+  color: var(--pdf-color-primary, #111);
+}
+.pdf-step-timing {
+  display: inline-block;
+  margin-left: 6pt;
+  font-size: 7.5pt;
+  color: var(--pdf-color-text-muted, #888);
+  white-space: nowrap;
+}
+
+.variant-steps-circle-badge .pdf-step-number {
+  width: 20pt; height: 20pt;
+  border-radius: 50%;
+  background: var(--pdf-color-primary, #111);
+  color: var(--pdf-color-background, #fff);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10pt;
+}
+.variant-steps-large-numeral .pdf-step-number {
+  font-size: 22pt;
+  line-height: 1;
+  width: 28pt;
+}
+.variant-steps-plain .pdf-step-number {
+  font-size: 10pt;
+}
+.variant-steps-plain .pdf-step-number::after { content: '.'; }
+
+/* ── Callouts (pro tips / storage tips) ── */
+.pdf-callout {
+  padding: 12pt 14pt;
+  border-radius: 4pt;
+  margin-bottom: var(--pdf-space-card-gap, 10pt);
+}
+.pdf-callout:last-child { margin-bottom: 0; }
+.pdf-callout-title {
+  font-weight: 700;
+  color: var(--pdf-color-primary, #111);
+  margin-bottom: 3pt;
+}
+.pdf-callout-body { color: var(--pdf-color-text-body, #333); font-size: 9.5pt; }
+
+.variant-callout-bordered-box .pdf-callout {
+  border: 1px solid var(--pdf-color-border, #ddd);
+  border-left: 3pt solid var(--pdf-color-accent, #888);
+  background: transparent;
+}
+.variant-callout-tinted-panel .pdf-callout {
+  background: var(--pdf-color-primary, #111);
+  color: var(--pdf-color-background, #fff);
+}
+.variant-callout-tinted-panel .pdf-callout-title { color: var(--pdf-color-accent, #c9a45c); }
+.variant-callout-tinted-panel .pdf-callout-body { color: var(--pdf-color-background, #fff); opacity: .9; }
+.variant-callout-sticky-note .pdf-callout {
+  background: var(--pdf-color-surface, #f5f5f5);
+  border-radius: 2pt;
+  box-shadow: 1pt 2pt 4pt rgba(0,0,0,.08);
+  transform: rotate(-0.4deg);
+}
+
+.pdf-callout-grid { display: flex; flex-direction: column; gap: var(--pdf-space-card-gap, 10pt); }
+
+/* ── Nutrition table ── */
+.pdf-nutrition {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8pt;
+}
+.pdf-nutrition-item {
+  text-align: center;
+  padding: 8pt 4pt;
+  background: var(--pdf-color-surface, #f5f5f5);
+  border-radius: 4pt;
+}
+.pdf-nutrition-value { font-weight: 700; color: var(--pdf-color-text-heading, #111); font-size: 11pt; }
+.pdf-nutrition-label {
+  font-size: 7pt;
+  text-transform: uppercase;
+  color: var(--pdf-color-text-muted, #888);
+}
+.pdf-nutrition-note { font-size: 7.5pt; color: var(--pdf-color-text-muted, #888); margin-top: 6pt; }
+
+/* ══════════════════════════ Back page ══════════════════════════ */
+.pdf-back-page {
+  height: 100%;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-align: center;
+  page-break-before: always;
+}
+.pdf-back-page-title { margin-bottom: 8pt; }
+.pdf-back-page-text { color: var(--pdf-color-text-body, #333); max-width: 320pt; margin-bottom: 16pt; }
+.pdf-qr { width: 90pt; height: 90pt; margin-top: 12pt; }

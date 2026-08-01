@@ -1,0 +1,29 @@
+{
+  "id": "elegant-cookbook",
+  "name": "Elegant Cookbook",
+  "description": "Charcoal and brass, refined serif type, thin gold hairlines — a high-end menu insert feel.",
+  "version": "1.0",
+  "colors": {
+    "background": "#FBF7F0", "surface": "#F3ECDD",
+    "primary": "#1C1C1C", "secondary": "#AD8A56", "accent": "#AD8A56",
+    "text_heading": "#1C1C1C", "text_body": "#3A3A3A", "text_muted": "#8A8478",
+    "border": "#E0D6C0", "divider": "#AD8A56"
+  },
+  "typography": {
+    "font_heading": { "family": "Playfair Display", "weights": [400, 700] },
+    "font_body":    { "family": "Poppins", "weights": [400] },
+    "font_display": { "family": "Playfair Display", "weights": [700] },
+    "base_size_pt": 10.5, "h1_size_pt": 33, "h2_size_pt": 15, "h3_size_pt": 11,
+    "label_letter_spacing": "0.18em", "label_text_transform": "uppercase"
+  },
+  "spacing": { "unit_pt": 6, "section_gap_pt": 30, "content_padding_pt": 22, "card_gap_pt": 10 },
+  "page_style": {
+    "divider_style": "line", "corner_decoration": "geometric-corner",
+    "hero_image_treatment": "framed", "background_texture": "none"
+  },
+  "header": { "show_logo": false, "running_title_source": "book_title", "text_transform": "uppercase", "show_rule": true },
+  "footer": { "show_page_number": true, "show_site_url": false, "text": null },
+  "section_styles": { "ingredients_style": "boxed", "step_number_style": "plain", "callout_style": "tinted-panel" },
+  "cover": { "layout": "centered-framed", "title_position": "below-frame", "overlay_color": null },
+  "assets": { "logo_url": null, "background_texture_url": null, "corner_ornament_svg": null }
+}

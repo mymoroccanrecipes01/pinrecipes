@@ -1,0 +1,53 @@
+/* pdf/styles/print.css — règles spécifiques à la pagination Paged.js (CSS Paged Media).
+   Le @page { size / margin / bleed } est injecté séparément par html-assembler.php
+   (dépend du choix A4/Letter fait à la génération, indépendant du thème — voir §5
+   du plan). Ici : uniquement les running headers/footers + réglages Paged.js. */
+
+/* En-tête/pied de page : opt-in via une page nommée sur .pdf-recipe uniquement — la
+   couverture et le dos (non nommés) n'ont donc par défaut aucun chrome, sans avoir à
+   "annuler" quoi que ce soit. */
+.pdf-recipe-title { string-set: pdf-running-title content(); }
+.pdf-recipe { page: pdf-content; }
+
+@page pdf-content {
+  @top-center {
+    content: string(pdf-running-title, first);
+    font-family: var(--pdf-font-body, sans-serif);
+    font-size: 8pt;
+    letter-spacing: var(--pdf-label-letter-spacing, normal);
+    text-transform: var(--pdf-header-text-transform, none);
+    color: var(--pdf-color-text-muted, #888);
+  }
+  @bottom-center {
+    content: counter(page);
+    font-family: var(--pdf-font-body, sans-serif);
+    font-size: 8pt;
+    color: var(--pdf-color-text-muted, #888);
+  }
+}
+
+.pdf-cover, .pdf-back-page {
+  page-break-inside: avoid;
+}
+
+/* ── Table des matières (bundle uniquement, Stage 4) ── */
+.pdf-toc-entry {
+  display: flex;
+  align-items: baseline;
+  gap: 6pt;
+  padding: 4pt 0;
+}
+.pdf-toc-entry-title { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.pdf-toc-entry-leader {
+  flex: 1;
+  border-bottom: 1px dotted var(--pdf-color-border, #ddd);
+  margin: 0 4pt;
+  height: 0.7em;
+}
+.pdf-toc-entry-page::after {
+  content: target-counter(attr(href), page);
+  font-weight: 700;
+  color: var(--pdf-color-primary, #111);
+}
+.pdf-toc { page: pdf-content; }
+.pdf-toc-title { margin-bottom: var(--pdf-space-section-gap, 24pt); }
