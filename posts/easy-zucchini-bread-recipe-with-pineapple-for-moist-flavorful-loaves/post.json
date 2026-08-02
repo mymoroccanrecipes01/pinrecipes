@@ -1,0 +1,365 @@
+{
+    "title": "Easy Zucchini Bread Recipe With Pineapple for Moist, Flavorful Loaves",
+    "promptIMG": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm morning light filtering through a window. SUBJECT: a rustic loaf of zucchini bread with pineapple resting on a wooden cutting board, the loaf slightly sliced to reveal moist crumb speckled with green zucchini bits and golden pineapple chunks. DETAILS: the crust is golden brown with a slight sheen, a light dusting of powdered sugar on top, crumbs scattered naturally around. STYLE: ultra-photorealistic food photography with warm, inviting tones and natural daylight, shallow depth of field emphasizing the texture of the bread. AVOID: no hands, no text, no logos, no steam or smoke, no plastic textures.",
+        "img2": "SCENE: bright, airy kitchen background with a soft marble countertop blurred behind. SUBJECT: a close-up of a thick slice of zucchini pineapple bread torn open, showcasing the moist interior with juicy pineapple pieces glistening and flecks of green zucchini visible. DETAILS: crumb looks tender and slightly dense, the crust edges caramelized with a warm golden color, a few crumbs scattered below. STYLE: hyper-realistic professional food photography with natural daylight, rich warm tones, shallow macro depth of field focusing on the oozing pineapple and moist crumb. AVOID: no hands, no text, no watermarks, no dull colors.",
+        "img3": "SCENE: warm dark wood surface softly blurred behind with a warm side glow highlighting the food. SUBJECT: several slices of zucchini pineapple bread stacked neatly on a vintage ceramic plate with a small bowl of softened butter alongside. DETAILS: glossy shine on the butter, the bread slices show moist crumb and golden crust edges, a light sprinkle of powdered sugar drifting into the creases. STYLE: ultra-photorealistic professional food photography with deep golden-amber warmth, rich saturated appetizing colors, shallow depth of field. AVOID: no people, no text, no logos, no steam."
+    },
+    "description": "This zucchini bread with pineapple is my go-to when I want something moist and flavorful without fuss. The pineapple adds a subtle sweetness and keeps it wonderfully tender. Perfect for breakfast or an afternoon snack!",
+    "hashtags": "#ZucchiniBread #EasyBaking #MoistBread",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does This Zucchini Bread With Pineapple Stay So Moist?",
+            "description": "Discover the secret ingredient that keeps this zucchini bread incredibly moist and flavorful every time. 🍍 Perfect for your next baking session! Save this for your weekend baking plans. #ZucchiniBread #BakingTips #MoistBread"
+        },
+        {
+            "title": "The One Trick That Makes Zucchini Pineapple Bread Foolproof",
+            "description": "I’ve found a simple trick that guarantees a tender, moist zucchini bread with pineapple every time. It’s easier than you think! Tap to get the full recipe and impress your family. #EasyBaking #ZucchiniBread #Homemade"
+        },
+        {
+            "title": "30-Minute Zucchini Bread With Pineapple for Busy Mornings",
+            "description": "Need a quick and delicious breakfast? This zucchini bread with pineapple is ready in about 30 minutes and full of flavor. 🍍 Save this recipe for your busy mornings! #QuickBaking #ZucchiniBread #BreakfastIdeas"
+        },
+        {
+            "title": "Zucchini Bread With Pineapple vs Classic: Which Is Better?",
+            "description": "Wondering if adding pineapple to zucchini bread makes a difference? I tried both and here’s why the pineapple version wins for moistness and taste. Save this for your next bake! #ZucchiniBread #PineappleBread #BakingComparison"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 45,
+    "servings": 8,
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1 cup granulated sugar",
+        "1/2 cup brown sugar, packed",
+        "2 large eggs",
+        "1/2 cup vegetable oil",
+        "1 teaspoon vanilla extract",
+        "1 1/2 cups grated zucchini (about 1 medium zucchini)",
+        "1 cup crushed pineapple, drained",
+        "1/2 cup chopped walnuts (optional)"
+    ],
+    "yield": "One 9x5 inch loaf, 8 servings",
+    "introduction": "I first made this zucchini bread with pineapple when I wanted a twist on the classic recipe my mom used to bake. The pineapple adds such a lovely moistness and subtle sweetness that really lifts the bread beyond the usual. Over time, I tweaked the balance of spices and sugars to get it just right—enough cinnamon and nutmeg to warm the flavors without overpowering the fresh zucchini and pineapple. What really makes this recipe stand out is the way the pineapple keeps the crumb tender and juicy, even days later. I’ve found that draining the pineapple well is key so it doesn’t make the batter too wet but still adds that wonderful tropical note. This bread is perfect for breakfast, a snack with afternoon tea, or even a light dessert with a smear of butter or cream cheese. It’s simple enough for a beginner baker but delicious enough to impress guests. I love how it combines familiar comfort food vibes with a little unexpected fruity twist. Plus, it’s a great way to sneak some veggies into a sweet treat!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x5 inch loaf pan. In a large bowl, whisk together the flour, baking soda, baking powder, salt, cinnamon, and nutmeg. This dry mix ensures your spices and leavening agents are evenly distributed, which helps the bread rise uniformly and develop balanced flavor without pockets of baking soda or clumps of spices.",
+            "timing": 10,
+            "doneness_cue": "Dry ingredients are fully combined with no lumps or streaks."
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, beat the granulated sugar, brown sugar, eggs, vegetable oil, and vanilla extract until smooth and creamy. This wet mixture provides moisture and sweetness; beating the eggs well incorporates air for a lighter crumb. Using both sugars adds depth of flavor and moisture retention.",
+            "timing": 5,
+            "doneness_cue": "Mixture is smooth, pale, and slightly thickened."
+        },
+        {
+            "step": 3,
+            "instruction": "Fold the grated zucchini and well-drained crushed pineapple into the wet ingredients. It’s important to squeeze out excess juice from the pineapple to prevent the batter from becoming too wet, which could lead to a dense loaf. The zucchini adds moisture and texture while the pineapple offers natural sweetness and juiciness.",
+            "timing": 5,
+            "doneness_cue": "Zucchini and pineapple are evenly mixed without large clumps."
+        },
+        {
+            "step": 4,
+            "instruction": "Slowly add the dry ingredients into the wet mixture, folding gently until just combined. Avoid overmixing here; overworking the batter can develop gluten and make the bread tough rather than tender. The batter should be thick but moist, with no visible flour pockets.",
+            "timing": 5,
+            "doneness_cue": "Batter is smooth and thick with no dry flour visible."
+        },
+        {
+            "step": 5,
+            "instruction": "If using, fold in the chopped walnuts for a bit of crunch and nutty flavor. Walnuts complement the sweetness and add texture contrast but are optional if you want a nut-free loaf.",
+            "timing": 2,
+            "doneness_cue": "Nuts are evenly dispersed throughout the batter."
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. This helps the bread bake evenly and look neat once sliced. Tap the pan gently on the counter to release any large air bubbles.",
+            "timing": 3,
+            "doneness_cue": "Batter surface is level and smooth."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake in the preheated oven for 45-50 minutes. Start checking at 45 minutes by inserting a toothpick into the center; it should come out clean or with just a few moist crumbs. Baking too long can dry out the bread, so keep an eye on it near the end.",
+            "timing": 45,
+            "doneness_cue": "Toothpick inserted in center comes out clean or with moist crumbs."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the loaf from the oven and let it cool in the pan for 10 minutes before transferring to a wire rack. Cooling in the pan allows the bread to set so it doesn’t break apart when removed, while the wire rack prevents sogginess by letting air circulate around the loaf.",
+            "timing": 15,
+            "doneness_cue": "Loaf is firm enough to handle without breaking."
+        },
+        {
+            "step": 9,
+            "instruction": "Once completely cool, slice and serve. This bread tastes great plain, with butter, or cream cheese. Storing it wrapped tightly keeps it moist for several days.",
+            "timing": 0,
+            "doneness_cue": "Slices hold shape and show moist crumb with visible zucchini and pineapple."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Zucchini Bread With Pineapple Is So Moist and Flavorful",
+        "content": "<p>This zucchini bread recipe succeeds because it balances moisture and structure carefully. The grated zucchini naturally contains water, which hydrates the batter and keeps the crumb tender. However, too much moisture can make the bread dense or gummy, so it’s important to squeeze excess liquid from the zucchini before mixing.</p><p>The addition of crushed pineapple is the secret to extra juiciness and subtle sweetness. Pineapple’s natural sugars caramelize during baking, contributing to a golden crust and rich flavor. Draining the pineapple well prevents the batter from becoming overly wet, which could compromise the rise and texture.</p><p>Using both baking soda and baking powder ensures a good rise. Baking soda reacts with the acidic pineapple juice, producing carbon dioxide bubbles that lighten the crumb. Meanwhile, baking powder provides additional leavening to keep the bread fluffy.</p><p>Mixing techniques also matter: beating the wet ingredients well incorporates air, while folding in dry ingredients gently avoids overdeveloping gluten, which keeps the texture tender rather than tough. The combination of spices like cinnamon and nutmeg adds warmth and depth without overpowering the fresh flavors of zucchini and pineapple.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "All-purpose flour provides the right balance of protein to create structure without making the bread too dense. It’s versatile and widely available, making it perfect for this recipe. Avoid using cake flour, which lacks enough protein, or bread flour, which can result in a tougher texture.",
+            "grated zucchini": "Fresh zucchini should be grated finely and squeezed to remove excess moisture. This prevents the bread from becoming soggy while still adding natural moisture and a subtle vegetable flavor. Using young, firm zucchini with thin skin ensures tenderness and avoids bitterness.",
+            "crushed pineapple": "Use canned crushed pineapple packed in juice, not syrup, for natural sweetness without extra sugar. Drain it well to avoid excess liquid in the batter. The pineapple adds moisture, sweetness, and a tropical note that complements the spices.",
+            "baking soda": "Baking soda is a base that reacts with the acidic pineapple juice to create carbon dioxide bubbles, helping the bread rise. Using the right amount is crucial; too much can cause a soapy taste, too little results in a dense loaf.",
+            "cinnamon and nutmeg": "These warm spices add depth and a comforting aroma to the bread. Freshly ground spices provide the best flavor. They balance the sweetness and enhance the natural flavors of the zucchini and pineapple without overpowering them."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always drain the pineapple thoroughly before adding it to the batter.",
+            "reason": "Excess pineapple juice can make the batter too wet, causing the bread to be dense or underbaked in the center. Draining ensures the right moisture balance for a tender yet well-structured crumb."
+        },
+        {
+            "tip": "Squeeze the grated zucchini in a clean kitchen towel to remove extra water.",
+            "reason": "Zucchini contains a lot of water that can weigh down the batter. Removing excess moisture prevents sogginess and helps the bread bake evenly with a moist but not gummy texture."
+        },
+        {
+            "tip": "Use room-temperature eggs and oil for better batter emulsification.",
+            "reason": "Cold ingredients can cause the batter to curdle or mix unevenly, affecting texture. Room-temperature eggs and oil blend smoothly, trapping air and resulting in a lighter, more tender bread."
+        },
+        {
+            "tip": "Fold dry ingredients gently into the wet mixture without overmixing.",
+            "reason": "Overmixing develops gluten, which makes the bread tough and chewy. Gentle folding keeps the crumb tender and soft, preserving the delicate texture."
+        },
+        {
+            "tip": "Check the bread starting at 45 minutes with a toothpick to avoid overbaking.",
+            "reason": "Ovens vary, and overbaking dries out the bread. Testing early ensures you catch the perfect moment when the loaf is fully cooked but still moist."
+        },
+        {
+            "tip": "Let the bread cool in the pan for 10 minutes before removing.",
+            "reason": "This resting period allows the bread to set, reducing the risk of it breaking apart when transferred to a cooling rack."
+        },
+        {
+            "tip": "Add chopped nuts like walnuts for texture, but it’s optional.",
+            "reason": "Nuts add a pleasant crunch and contrast to the moist crumb. However, they can be omitted for a nut-free version or if you prefer a smoother texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not draining zucchini or pineapple enough",
+            "why_it_happens": "Many assume all moisture is needed for moistness, but too much liquid can make the bread gummy or dense.",
+            "fix": "Squeeze grated zucchini in a towel and drain pineapple well to remove excess water, ensuring the batter is thick but moist."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "It’s tempting to mix thoroughly, but this activates gluten and toughens the bread.",
+            "fix": "Fold dry ingredients gently into wet just until combined; a few streaks of flour are okay."
+        },
+        {
+            "mistake": "Using pineapple packed in syrup",
+            "why_it_happens": "Syrup adds extra sugar and moisture, altering texture and sweetness balance.",
+            "fix": "Choose pineapple packed in juice and drain well before adding."
+        },
+        {
+            "mistake": "Not testing doneness early",
+            "why_it_happens": "Baking times vary, and waiting too long can dry out the bread.",
+            "fix": "Start checking with a toothpick at 45 minutes to catch perfect doneness."
+        },
+        {
+            "mistake": "Skipping spices",
+            "why_it_happens": "Some skip cinnamon and nutmeg to keep it simple, but this reduces flavor complexity.",
+            "fix": "Add the recommended spices to enhance warmth and balance sweetness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Zucchini Pineapple Bread",
+            "description": "Swap the all-purpose flour for a gluten-free blend designed for baking. Add an extra egg or a tablespoon of flaxseed meal mixed with water to help bind. Expect a slightly denser texture but still moist and delicious.",
+            "technical_note": "Gluten-free flours absorb moisture differently, so monitor batter consistency and bake time closely."
+        },
+        {
+            "name": "Vegan Zucchini Pineapple Bread",
+            "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed mixed with 3 tablespoons water per egg) and use a neutral oil like canola. Use plant-based yogurt or applesauce for extra moisture if desired.",
+            "technical_note": "Vegan substitutions may alter texture slightly; ensure flax eggs are well combined and let batter rest 5 minutes before baking."
+        },
+        {
+            "name": "Add Coconut and Raisins",
+            "description": "Stir in 1/2 cup shredded unsweetened coconut and 1/3 cup raisins for a tropical twist. These add chewiness and extra flavor complexity that pairs beautifully with pineapple.",
+            "technical_note": "Add these mix-ins with the nuts step to distribute evenly."
+        },
+        {
+            "name": "Spiced Zucchini Pineapple Bread with Ginger",
+            "description": "Include 1/2 teaspoon ground ginger and a pinch of cloves along with the cinnamon and nutmeg for a spicier, warming flavor profile. Great for fall and winter baking.",
+            "technical_note": "Adjust spices carefully to avoid overpowering the delicate pineapple flavor."
+        },
+        {
+            "name": "Mini Muffin Version",
+            "description": "Pour batter into a greased mini muffin tin and bake at 350°F for 15-20 minutes. These bite-sized treats are perfect for snacks or lunchboxes.",
+            "technical_note": "Check doneness early as smaller portions bake faster; toothpick should come out clean."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "42g",
+        "fat_grams": "10g",
+        "fiber_grams": "3g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store zucchini pineapple bread wrapped tightly in plastic wrap or in an airtight container at room temperature for up to 2 days. Keep away from direct sunlight or heat to prevent drying out.",
+        "refrigerator": "Keep wrapped in an airtight container or plastic wrap in the fridge for up to 5 days. The cooler temperature slows spoilage but can dry the bread slightly. Bring to room temperature or warm briefly before serving for best texture.",
+        "freezer": "Wrap the cooled loaf tightly in plastic wrap and then foil or place in a freezer-safe bag. Freeze for up to 3 months. Thaw overnight in the refrigerator or at room temperature. Reheat slices gently in a toaster oven or microwave to restore softness.",
+        "reheating": "Warm slices in a toaster oven or microwave for 15-20 seconds to revive moistness. Avoid overheating as it can dry the bread. Adding a small pat of butter or cream cheese when serving enhances flavor and texture.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it covered in the fridge. Stir gently before baking. Alternatively, bake the loaf and freeze it; thaw and reheat as needed. This makes it great for busy mornings or last-minute guests."
+    },
+    "faq": [
+        {
+            "question": "Can I use zucchini that hasn’t been grated finely?",
+            "answer": "It’s best to grate zucchini finely to ensure it integrates well into the batter and bakes evenly. Larger chunks can create uneven texture and moisture pockets, leading to inconsistent baking. Fine grating also helps the zucchini’s moisture distribute throughout the bread."
+        },
+        {
+            "question": "What if I don’t have pineapple on hand?",
+            "answer": "You can omit pineapple, but the bread will be less moist and sweet. Alternatively, substitute with an equal amount of applesauce or mashed banana to add moisture and natural sweetness, though the flavor profile will change slightly."
+        },
+        {
+            "question": "How do I prevent the bread from sinking in the middle?",
+            "answer": "This usually happens if the batter is too wet or underbaked. Make sure to measure ingredients accurately, drain pineapple and zucchini well, and bake until a toothpick comes out clean. Avoid opening the oven door frequently during baking, which can cause temperature drops."
+        },
+        {
+            "question": "Can I make this bread gluten-free?",
+            "answer": "Yes, use a gluten-free all-purpose flour blend that includes xanthan gum or another binder. You might need to adjust baking time and moisture slightly. Adding an extra egg or flaxseed meal can help with structure."
+        },
+        {
+            "question": "Is it okay to add nuts or dried fruit?",
+            "answer": "Absolutely! Chopped walnuts, pecans, or dried fruit like raisins or cranberries add great texture and flavor. Fold them in gently after combining wet and dry ingredients to distribute evenly."
+        },
+        {
+            "question": "Why does my bread sometimes come out dry?",
+            "answer": "Dry bread can result from overbaking, too much flour, or not enough moisture. Make sure to measure flour correctly by spooning it into the cup and leveling off, not scooping. Also, check baking time carefully and don’t overbake."
+        },
+        {
+            "question": "Can I double this recipe to make two loaves?",
+            "answer": "Yes, doubling works well. Use two loaf pans and bake simultaneously or one after the other. Baking time may increase slightly if pans are crowded in the oven, so test doneness with a toothpick."
+        },
+        {
+            "question": "What’s the best way to store leftover bread?",
+            "answer": "Wrap leftover bread tightly in plastic wrap or store in an airtight container at room temperature for 2 days or in the fridge for up to 5 days. For longer storage, freeze slices individually wrapped."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and sharing this zucchini bread with pineapple as much as my family does. It’s simple, comforting, and just a little special. Let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "zucchini bread recipe with pineapple",
+        "secondary_keywords": [
+            "moist zucchini bread recipe",
+            "easy pineapple zucchini bread",
+            "how to make zucchini pineapple bread",
+            "best zucchini bread recipe",
+            "easy zucchini bread"
+        ],
+        "internal_links": [
+            {
+                "text": "classic zucchini bread recipe",
+                "anchor": "classic-zucchini-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-02 23:16:03",
+        "title_seed": "Zucchini Bread Recipe With Pineapple"
+    },
+    "author_id": "author_001",
+    "id": "post_1785712563_601",
+    "slug": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves",
+    "uniqueSlug": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_2.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_3.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_6.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "30-Minute Zucchini Bread With Pineapple for Busy Mornings"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_9.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Zucchini Bread With Pineapple Stay So Moist?"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_4.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Zucchini Bread With Pineapple Stay So Moist?"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_8.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Zucchini Bread With Pineapple Stay So Moist?"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_7.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Zucchini Bread With Pineapple vs Classic: Which Is Better?"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_5.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Zucchini Pineapple Bread Foolproof"
+        }
+    ],
+    "image": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+    "image_dir": "easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-03T00:32:22+01:00",
+    "updatedAt": "2026-08-03T00:32:22+01:00",
+    "has_reel": true
+}
