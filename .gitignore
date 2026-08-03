@@ -29,6 +29,7 @@ rss/
 # Config files containing API keys — MUST NOT be committed
 site-config.json
 ads-config.json
+pdf/etsy-config.json
 
 # Editor / tool config
 .claude/

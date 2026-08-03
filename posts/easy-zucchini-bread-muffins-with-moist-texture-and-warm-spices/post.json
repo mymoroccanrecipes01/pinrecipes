@@ -1,0 +1,364 @@
+{
+    "title": "Easy Zucchini Bread Muffins with Moist Texture and Warm Spices",
+    "promptIMG": "Food photography: Easy Zucchini Bread Muffins, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred home kitchen with warm daylight filtering through a window, faint reflections on a clean countertop. SUBJECT: a generous pile of golden-brown zucchini bread muffins in a rustic ceramic bowl, filling most of the frame with the bowl edges cropped out. The front muffin is sharply focused at a 30-degree angle, showing its moist crumb and lightly crisped top with a sprinkle of cinnamon sugar. DETAILS: warm golden crust with natural cracks, visible flecks of green zucchini strands, a light dusting of cinnamon sugar settling into the nooks. STYLE: ultra-photorealistic professional food photography, bright airy daylight with deep golden warmth, rich saturated colors that pop — hyper-vivid recipe pin style, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no steam or smoke, no CGI or plastic textures.",
+        "img2": "SCENE: a soft light background of warm wood tones blurred gently, with bright daylight from a nearby window. SUBJECT: the reveal shot of a zucchini bread muffin cut in half, both halves facing the camera to showcase the moist interior with tender crumb and visible zucchini strands. The interior glistens slightly with natural moisture and flecks of cinnamon and nutmeg are visible. DETAILS: the edges are caramelized golden-brown with a slight shine, crumbs scattered naturally below, the torn crumb texture looks soft and inviting. STYLE: ultra-photorealistic professional food photography, bright and airy with golden-amber tones, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no dull colors or flat lighting.",
+        "img3": "SCENE: warm dark wood surface softly blurred in the background with a warm side glow highlighting the scene. SUBJECT: several zucchini bread muffins arranged closely in a rustic ceramic dish, topped with a light sprinkle of cinnamon sugar. Accompanied by a small bowl of honey butter to the side, the front muffin sharply focused with a glistening finish on the crust. DETAILS: deep golden caramelization on the muffin tops, the honey butter has a glossy sheen, natural crumbs scattered around the plate. STYLE: ultra-photorealistic professional food photography, rich golden-amber warm color grade, highly saturated appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no dim lighting or CGI effects."
+    },
+    "description": "These easy zucchini bread muffins are perfectly moist and lightly spiced, making them a favorite for breakfast or an afternoon snack. The secret is using fresh zucchini and warming spices like cinnamon and nutmeg. I love baking these when I want something simple but satisfying.",
+    "hashtags": "#zucchinibreadmuffins #easybaking #moistmuffins",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Are These Easy Zucchini Bread Muffins So Moist Every Time?",
+            "description": "Discover the secret to perfectly moist zucchini bread muffins that stay soft for days. This recipe uses fresh zucchini and just the right spices. Save this for your next baking day! #zucchinibread #bakingtips #moistmuffins"
+        },
+        {
+            "title": "The One Trick That Makes Easy Zucchini Bread Muffins Irresistible",
+            "description": "A simple step transforms these muffins into a moist, flavorful treat with a tender crumb. Plus, the warm cinnamon and nutmeg make them cozy and comforting. Tap to get the full recipe! #easybaking #zucchinibread #comfortfood"
+        },
+        {
+            "title": "15-Minute Prep Easy Zucchini Bread Muffins for Busy Mornings",
+            "description": "Whip up these delicious zucchini muffins in just 15 minutes of prep time. Perfect for a quick breakfast or snack that your family will love. Save this recipe for busy days! #quickbaking #zucchinibread #breakfastideas"
+        },
+        {
+            "title": "Still Making Dry Muffins? This Easy Zucchini Bread Fixes It",
+            "description": "Say goodbye to dry muffins with this easy zucchini bread recipe that’s moist and tender every time. The fresh zucchini adds natural moisture and flavor. Try it tonight! #moistmuffins #easyrecipes #zucchinibread"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 12,
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "2 large eggs",
+        "1 cup granulated sugar",
+        "1/2 cup vegetable oil",
+        "1 teaspoon vanilla extract",
+        "1 1/2 cups grated zucchini (about 1 medium zucchini)",
+        "1/2 cup chopped walnuts or pecans (optional)"
+    ],
+    "yield": "Approximately 12 muffins",
+    "introduction": "I first made these zucchini bread muffins years ago when I had a surplus of zucchini from my garden and wanted a quick way to use it up. What I love about this version is how simple it is—no fancy ingredients, just straightforward pantry staples and fresh zucchini. The trick I learned early on was to grate the zucchini finely and squeeze out excess moisture to keep the muffins moist but not soggy. Adding warming spices like cinnamon and nutmeg gives these muffins a cozy flavor that feels like a hug in every bite. They bake up with a lightly crisp top and a tender crumb inside, perfect for breakfast, a snack, or even a light dessert. My family loves them fresh out of the oven but they also keep well for several days, making them great for busy mornings. I think these muffins strike the perfect balance between healthy and indulgent, especially with a little butter spread on top. If you’ve never baked with zucchini before, this is a great place to start!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and line a 12-cup muffin tin with paper liners or grease it lightly. This step ensures your muffins bake evenly and don’t stick. A well-preheated oven is crucial for proper rise and texture, so don’t skip this. Prepare your zucchini by grating it finely and then gently squeezing out excess moisture using a clean kitchen towel or paper towels. Removing extra water prevents soggy muffins and helps maintain a tender crumb.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully preheated and zucchini prepared with minimal moisture"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the flour, baking soda, baking powder, salt, cinnamon, and nutmeg. Mixing the dry ingredients first ensures even distribution of the leavening agents and spices, which helps the muffins rise uniformly and develop consistent flavor. Avoid overmixing later to keep the muffins tender.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients fully combined with no clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, beat the eggs with the sugar until combined, then whisk in the vegetable oil and vanilla extract. This wet mixture provides moisture and richness. The oil keeps the muffins tender and the eggs help bind everything together. Make sure the eggs are at room temperature for better incorporation.",
+            "timing": "5 minutes",
+            "doneness_cue": "Wet ingredients are smooth and slightly thickened"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the wet ingredients to the dry ingredients and stir gently with a spatula until just combined. The batter should look lumpy but without streaks of flour. Overmixing develops gluten and leads to tough muffins, so mix just until you can’t see flour anymore.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter is uniform with small lumps, no dry flour visible"
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the grated zucchini and nuts (if using) carefully. The zucchini adds moisture and subtle flavor, while nuts add crunch and texture. Be gentle to avoid overworking the batter.",
+            "timing": "2 minutes",
+            "doneness_cue": "Zucchini evenly distributed and nuts visible throughout batter"
+        },
+        {
+            "step": 6,
+            "instruction": "Spoon the batter evenly into the prepared muffin tin, filling each cup about 3/4 full. This helps the muffins rise nicely without spilling over. You can use an ice cream scoop for consistent portions.",
+            "timing": "5 minutes",
+            "doneness_cue": "All muffin cups filled evenly with batter"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake in the preheated oven for 25-30 minutes. Start checking at 25 minutes by inserting a toothpick in the center of a muffin; it should come out clean or with a few moist crumbs. Baking too long will dry them out, so keep a close eye near the end.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Golden brown tops, toothpick inserted comes out clean"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the muffins from the oven and let them cool in the tin for 5 minutes. This resting time helps them set and makes them easier to remove without breaking. Then transfer to a wire rack to cool completely to prevent sogginess from trapped steam.",
+            "timing": "10 minutes",
+            "doneness_cue": "Muffins slightly cooled and firm to the touch"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm or at room temperature, optionally with a pat of butter or honey. These muffins store well in an airtight container for several days and can be reheated gently. Enjoy as a wholesome breakfast or snack that’s quick and satisfying.",
+            "timing": "0 minutes",
+            "doneness_cue": "Muffins ready to eat, moist and tender inside"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Zucchini Bread Muffin Recipe Works So Well",
+        "content": "<p>These zucchini bread muffins succeed because they balance moisture, texture, and flavor perfectly. The grated zucchini provides natural moisture without making the batter too wet, especially when excess water is squeezed out before mixing. This prevents sogginess and creates a tender crumb structure that’s moist but not dense.</p><p>The combination of baking soda and baking powder ensures a good rise. Baking soda reacts with the acidic components in the batter, like the cinnamon and nutmeg, producing carbon dioxide bubbles that lighten the crumb. Baking powder adds additional leavening to keep the muffins fluffy and soft.</p><p>Using vegetable oil instead of butter helps retain moisture longer because oil remains liquid at room temperature, which keeps the muffins tender and soft even after cooling. Eggs provide structure and help bind the ingredients, while also contributing richness.</p><p>Finally, the warm spices like cinnamon and nutmeg add depth and a comforting aroma that complements the mild zucchini flavor. The gentle mixing technique avoids developing too much gluten, which would make the muffins tough. Altogether, these factors create a perfectly balanced muffin that’s moist, flavorful, and tender.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good quality all-purpose flour for the right balance of protein to create structure without toughness. Avoid bread flour, which has too much gluten and would make the muffins chewy. Sifting is optional but helps incorporate air.",
+            "grated zucchini": "Use fresh medium zucchini, grated finely. Squeeze out excess moisture to prevent soggy muffins. The zucchini adds moisture and subtle flavor but should not overpower the batter. Using organic zucchini is a nice touch but not required.",
+            "vegetable oil": "Using neutral vegetable oil keeps the muffins moist longer than butter because oil stays liquid at room temperature. Avoid using olive oil as it can impart a strong flavor. Canola or sunflower oil works well.",
+            "baking soda and baking powder": "Both leaveners are used to achieve the right rise. Baking soda reacts with acidic ingredients, while baking powder provides additional lift. Using fresh leaveners is important for proper rise.",
+            "cinnamon and nutmeg": "Freshly ground spices add warmth and complexity. Cinnamon is the dominant spice, while nutmeg adds subtle depth. Using pre-ground spices is fine but fresh ground will enhance flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Squeeze excess water from grated zucchini before adding to batter.",
+            "reason": "Removing excess moisture prevents the muffins from becoming soggy and helps maintain a tender crumb. Too much water dilutes the batter, affecting texture and baking time."
+        },
+        {
+            "tip": "Use an ice cream scoop to portion batter evenly into muffin cups.",
+            "reason": "Consistent portions ensure even baking and uniform muffin size. Uneven portions can lead to some muffins undercooked or overbaked."
+        },
+        {
+            "tip": "Don’t overmix the batter after combining wet and dry ingredients.",
+            "reason": "Overmixing develops gluten in the flour, resulting in tough, dense muffins. Stir just until combined for a tender crumb."
+        },
+        {
+            "tip": "Check muffins at 25 minutes with a toothpick to avoid overbaking.",
+            "reason": "Baking too long dries out muffins. Toothpick test helps catch them at perfect doneness with moist crumb."
+        },
+        {
+            "tip": "Let muffins cool in the pan briefly before transferring to a wire rack.",
+            "reason": "Cooling in the pan allows muffins to set and prevents them from breaking apart. Moving them too soon can cause crumbling."
+        },
+        {
+            "tip": "Add chopped nuts for crunch and extra flavor if desired.",
+            "reason": "Nuts provide textural contrast and complement the soft crumb. They also add healthy fats and nutrients."
+        },
+        {
+            "tip": "Use room temperature eggs for better mixing and batter consistency.",
+            "reason": "Room temperature eggs blend more easily with other ingredients, resulting in a smoother batter and better rise."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not removing excess moisture from zucchini",
+            "why_it_happens": "Many assume grated zucchini can be added straight without squeezing, leading to overly wet batter and soggy muffins.",
+            "fix": "After grating, wrap zucchini in a clean towel and squeeze firmly to remove water. This keeps the batter balanced and muffins tender."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "In an effort to combine ingredients thoroughly, some mix too long, developing gluten.",
+            "fix": "Mix only until dry ingredients are moistened. Lumps are okay. This keeps muffins light and tender."
+        },
+        {
+            "mistake": "Using expired baking soda or baking powder",
+            "why_it_happens": "Old leaveners lose potency, causing flat, dense muffins.",
+            "fix": "Test baking soda by adding a drop of vinegar (should fizz). Replace if no reaction. Use fresh baking powder for best rise."
+        },
+        {
+            "mistake": "Baking at wrong temperature",
+            "why_it_happens": "Oven temperatures vary; baking too hot or cold affects rise and texture.",
+            "fix": "Use an oven thermometer to ensure 350°F. Adjust rack position to middle for even heat."
+        },
+        {
+            "mistake": "Filling muffin cups unevenly",
+            "why_it_happens": "Freehand scooping can lead to uneven muffins with different baking times.",
+            "fix": "Use a scoop or spoon to fill cups evenly, about 3/4 full each."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Zucchini Muffins",
+            "description": "Swap all-purpose flour with a gluten-free blend. Add 1/2 teaspoon xanthan gum if your blend doesn’t include it to help with structure. Expect a slightly denser texture but still moist and flavorful.",
+            "technical_note": "Gluten-free flours absorb moisture differently; you may need to adjust liquid slightly and avoid overmixing."
+        },
+        {
+            "name": "Vegan Zucchini Muffins",
+            "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use coconut oil instead of vegetable oil. These muffins will be slightly denser but still delicious and moist.",
+            "technical_note": "Flax eggs add binding but don’t provide as much lift as eggs, so muffins may be less airy."
+        },
+        {
+            "name": "Add Chocolate Chips",
+            "description": "Fold in 1/2 cup semi-sweet chocolate chips with the zucchini for a sweeter twist. The chocolate melts into every bite, making these muffins a treat for kids and adults alike.",
+            "technical_note": "Chocolate chips add moisture and sweetness; reduce sugar slightly if desired."
+        },
+        {
+            "name": "Spiced Zucchini Muffins with Ginger and Cloves",
+            "description": "Add 1/2 teaspoon ground ginger and a pinch of ground cloves to the spice mix for a more complex flavor profile. These spices pair beautifully with zucchini and warm cinnamon.",
+            "technical_note": "Adjust spices to taste; these stronger spices can overpower if used excessively."
+        },
+        {
+            "name": "Lemon Zucchini Muffins",
+            "description": "Add 1 tablespoon lemon zest and 2 tablespoons lemon juice to the wet ingredients for a bright, citrusy flavor that complements the zucchini’s mildness perfectly.",
+            "technical_note": "Lemon juice adds acidity; make sure to balance with baking soda for proper rise."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "7g",
+        "fiber_grams": "2g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store muffins in an airtight container at room temperature for up to 2 days. Keep them away from direct sunlight or heat to prevent drying out.",
+        "refrigerator": "Refrigerate in an airtight container for up to 5 days. Muffins may firm up slightly but will remain moist. Serve cold or warm gently before eating.",
+        "freezer": "Freeze muffins individually wrapped in plastic wrap and placed in a freezer bag for up to 3 months. Thaw at room temperature or warm in the microwave before serving.",
+        "reheating": "Reheat muffins in a microwave for 15-20 seconds or in a 300°F oven for 5-7 minutes. Adding a small pat of butter or a splash of milk before reheating can help restore moisture.",
+        "make_ahead_strategy": "You can grate the zucchini and prepare the dry ingredients 1-2 days ahead. Store grated zucchini wrapped tightly in the fridge. Mix batter and bake fresh on the day of serving for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for these muffins?",
+            "answer": "Yes, but thaw and drain the zucchini very well before using to avoid excess moisture that can make muffins soggy. Press out as much water as possible with a towel."
+        },
+        {
+            "question": "What if I don’t have baking powder?",
+            "answer": "You can substitute baking powder with a mix of baking soda and cream of tartar, but it’s best to use fresh baking powder for consistent rise and texture."
+        },
+        {
+            "question": "Can I make these muffins without nuts?",
+            "answer": "Absolutely! Nuts are optional and can be omitted if you prefer a nut-free version or have allergies. The muffins will still be moist and flavorful."
+        },
+        {
+            "question": "Can I substitute whole wheat flour for all-purpose?",
+            "answer": "You can substitute half the flour with whole wheat for a nuttier flavor and more fiber. Using all whole wheat may make muffins denser, so adjust liquids slightly."
+        },
+        {
+            "question": "How long do zucchini bread muffins keep fresh?",
+            "answer": "At room temperature, they stay fresh for 2 days. Refrigerated, they last up to 5 days. For longer storage, freeze them wrapped well for up to 3 months."
+        },
+        {
+            "question": "Can I make mini muffins with this recipe?",
+            "answer": "Yes, just reduce baking time to about 15-18 minutes and watch closely to avoid overbaking. Mini muffins are great for bite-sized snacks."
+        },
+        {
+            "question": "Why are my muffins dense and heavy?",
+            "answer": "Common causes include overmixing the batter, using too much flour, or old baking soda/powder. Measure ingredients carefully and mix gently."
+        },
+        {
+            "question": "Can I add other vegetables or fruits?",
+            "answer": "You can add grated carrots or apples for variation, but adjust moisture levels accordingly. These additions change texture and sweetness slightly."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and sharing these easy zucchini bread muffins as much as my family does. They’re simple, comforting, and perfect any time of day—give them a try and let me know how they turn out!",
+    "seo": {
+        "primary_keyword": "easy zucchini bread muffins",
+        "secondary_keywords": [
+            "moist zucchini muffins",
+            "healthy zucchini bread muffins",
+            "how to make zucchini bread muffins",
+            "best zucchini bread muffins recipe",
+            "easy zucchini muffins"
+        ],
+        "internal_links": [
+            {
+                "text": "moist banana bread recipe",
+                "anchor": "moist-banana-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-03 23:13:38",
+        "title_seed": "Easy Zucchini Bread Muffins"
+    },
+    "author_id": "author_001",
+    "id": "post_1785798818_959",
+    "slug": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices",
+    "uniqueSlug": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_1.webp",
+            "relativePath": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_2.webp",
+            "relativePath": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_3.webp",
+            "relativePath": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_6.webp",
+            "relativePath": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep Easy Zucchini Bread Muffins for Busy Mornings"
+        },
+        {
+            "fileName": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_7.webp",
+            "relativePath": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Muffins? This Easy Zucchini Bread Fixes It"
+        },
+        {
+            "fileName": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_8.webp",
+            "relativePath": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Are These Easy Zucchini Bread Muffins So Moist Every Time?"
+        },
+        {
+            "fileName": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_4.webp",
+            "relativePath": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Are These Easy Zucchini Bread Muffins So Moist Every Time?"
+        },
+        {
+            "fileName": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_5.webp",
+            "relativePath": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Easy Zucchini Bread Muffins Irresistible"
+        },
+        {
+            "fileName": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_9.webp",
+            "relativePath": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Are These Easy Zucchini Bread Muffins So Moist Every Time?"
+        }
+    ],
+    "image": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_1.webp",
+    "image_dir": "easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-04T00:30:37+01:00",
+    "updatedAt": "2026-08-04T00:30:37+01:00",
+    "has_reel": true
+}

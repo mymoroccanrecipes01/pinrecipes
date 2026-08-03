@@ -237,3 +237,10 @@
 .pdf-back-page-title { margin-bottom: 8pt; }
 .pdf-back-page-text { color: var(--pdf-color-text-body, #333); max-width: 320pt; margin-bottom: 16pt; }
 .pdf-qr { width: 90pt; height: 90pt; margin-top: 12pt; }
+.pdf-qr-url {
+  margin-top: 6pt;
+  font-size: 9pt;
+  font-weight: 600;
+  color: var(--pdf-color-primary, #111);
+  letter-spacing: .01em;
+}
