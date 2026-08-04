@@ -1,0 +1,358 @@
+{
+    "title": "Easy Zucchini Bread Recipe With Cake Mix for Moist and Quick Homemade Treats",
+    "promptIMG": {
+        "img1": "SCENE: a cozy home kitchen softly blurred behind with warm morning light streaming through a window, faint reflections on a wooden countertop. SUBJECT: a generous, overflowing loaf of moist zucchini bread resting in a rustic ceramic loaf pan, the front slice sharply focused at a 30-degree angle showcasing its tender crumb and flecks of green zucchini, the rest of the loaf receding softly into bokeh. DETAILS: glossy, slightly cracked golden crust with a light dusting of powdered sugar and a few scattered walnut pieces on top, crumbs naturally scattered around the loaf pan edge. STYLE: ultra-photorealistic professional food photography, bright natural daylight with warm golden hues, rich saturated colors emphasizing the bread's moist texture; shallow macro depth of field; vertical 2:3. AVOID: no text, logos, hands, or artificial elements; no steam or smoke; no dull or washed-out colors.",
+        "img2": "SCENE: soft light blur behind a light grey marble countertop with bright clean daylight from a nearby window. SUBJECT: the reveal shot of the zucchini bread cut in half with both halves facing the camera, exposing the moist, dense interior studded with green zucchini shreds and chopped walnuts, the crumb glistening with moisture. DETAILS: the torn crumb edges look tender and fluffy, the crust's golden caramelized edges contrast with the soft interior, a few crumbs and powdered sugar dusted naturally below the loaf halves. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm amber tones, highly saturated and appetizing colors; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands or people, no artificial gloss or plastic textures.",
+        "img3": "SCENE: warm dark wood background softly blurred with a side warm glow highlighting the scene. SUBJECT: several slices of zucchini bread arranged closely together on a rustic wooden board, generously topped with a light cream cheese spread and chopped walnuts, accompanied by a small bowl of fresh cream cheese on the side. DETAILS: intense glossy shine on the cream cheese topping, deep golden crust with caramelized edges, powdered sugar lightly dusted, a few crumbs scattered naturally. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich saturated appetizing tones; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands or people, no dim or moody lighting, no CGI look.",
+        "description": "This easy zucchini bread made with cake mix is my go-to when I want a quick, moist treat without the fuss. The secret? Using simple pantry staples to get that perfect tender crumb every time. It’s great for breakfast or an afternoon snack!",
+        "hashtags": "#zucchinibread #easybaking #homemadetreats",
+        "board_name": "Easy Baking Recipes",
+        "pin_variations": [
+            {
+                "title": "Why Does This Easy Zucchini Bread With Cake Mix Taste So Moist?",
+                "description": "Discover the secret behind this super moist zucchini bread that uses cake mix for a quick fix. It’s perfect for busy mornings or cozy afternoons. Save this for your next baking day! 🍞 #zucchinibread #easybaking #quickrecipes"
+            },
+            {
+                "title": "The One Trick That Makes Easy Zucchini Bread With Cake Mix Perfect",
+                "description": "Want a foolproof zucchini bread that’s moist and flavorful? Using cake mix is the trick I swear by! It’s a simple shortcut that doesn’t sacrifice taste. Tap to get the full recipe! 🌿 #homemadebread #easyrecipes #bakingtips"
+            },
+            {
+                "title": "15-Minute Prep Easy Zucchini Bread With Cake Mix for Busy Days",
+                "description": "No time to bake? This zucchini bread recipe uses cake mix and takes just 15 minutes to prep. It’s a quick, delicious way to enjoy homemade bread without the hassle. Save for later! 🍽️ #quickbaking #zucchinibread #easyrecipes"
+            },
+            {
+                "title": "Still Struggling With Dry Zucchini Bread? Try This Easy Cake Mix Fix",
+                "description": "Dry zucchini bread is a thing of the past with this easy cake mix recipe. It’s moist, tender, and simple to make. Perfect for family breakfasts or snacks. Give it a try and save this recipe! 🥒 #easybaking #moistbread #familyrecipes"
+            }
+        ],
+        "difficulty": "Easy",
+        "prep_time": 15,
+        "cook_time": 50,
+        "servings": 8,
+        "ingredients": [
+            "1 box yellow cake mix (15.25 oz)",
+            "2 cups shredded zucchini (about 2 medium zucchinis), squeezed dry",
+            "3 large eggs",
+            "1/2 cup vegetable oil",
+            "1 teaspoon ground cinnamon",
+            "1/2 cup chopped walnuts (optional)",
+            "1 teaspoon vanilla extract"
+        ],
+        "yield": "One 9x5 inch loaf, about 8 servings",
+        "introduction": "I first made this easy zucchini bread recipe when I was pressed for time but craving something homemade and comforting. Using cake mix as a base was a game-changer — it simplifies the process and guarantees a moist, tender crumb every time. My family loves how soft and flavorful it turns out, and it’s become a staple for weekend breakfasts or afternoon snacks. What sets this version apart is the simple addition of cinnamon and walnuts, which add warmth and texture without complicating the recipe. I also learned that squeezing the zucchini well before mixing prevents sogginess, keeping the bread perfectly moist but not wet. The batter comes together quickly, and the aroma filling the house while it bakes is irresistible. Expect a golden crust with a soft, tender interior flecked with green zucchini and crunchy walnuts. It’s a cozy, homey treat that feels like a hug in bread form — simple, satisfying, and easy enough for any home cook to whip up without stress.",
+        "instructions": [
+            {
+                "step": 1,
+                "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x5 inch loaf pan well. This step ensures your bread won’t stick and will have a nice crust. It’s important to use a good quality non-stick spray or butter and flour the pan lightly to help release the loaf easily after baking.",
+                "timing": 10,
+                "doneness_cue": "Pan is evenly greased with no dry spots visible."
+            },
+            {
+                "step": 2,
+                "instruction": "Shred the zucchini using a box grater or food processor, then place it in a clean kitchen towel and squeeze out as much moisture as possible. Removing excess water is critical to avoid a soggy bread. You want the zucchini damp, not dripping wet, to maintain the bread’s structure and moist crumb.",
+                "timing": 10,
+                "doneness_cue": "Zucchini feels damp but not wet when squeezed."
+            },
+            {
+                "step": 3,
+                "instruction": "In a large mixing bowl, whisk together the cake mix, eggs, vegetable oil, cinnamon, and vanilla extract until smooth. This creates the batter base. Be careful not to overmix; just combine until no dry streaks remain to keep the bread tender and not dense.",
+                "timing": 5,
+                "doneness_cue": "Batter is smooth with no lumps or dry spots."
+            },
+            {
+                "step": 4,
+                "instruction": "Fold the shredded zucchini and chopped walnuts gently into the batter. Folding instead of stirring vigorously preserves the air bubbles in the batter, resulting in a lighter texture. The zucchini and nuts should be evenly distributed without deflating the mixture.",
+                "timing": 5,
+                "doneness_cue": "Zucchini and walnuts are evenly mixed without overworked batter."
+            },
+            {
+                "step": 5,
+                "instruction": "Pour the batter into your prepared loaf pan, smoothing the top with a spatula. This helps the bread bake evenly and develop a nice, flat top. Avoid tapping the pan too hard to prevent air bubbles from escaping.",
+                "timing": 3,
+                "doneness_cue": "Batter is level and evenly spread in the pan."
+            },
+            {
+                "step": 6,
+                "instruction": "Bake in the preheated oven for 50-60 minutes. Check doneness by inserting a toothpick into the center; it should come out clean or with a few moist crumbs. Baking too long can dry out the bread, so start checking at 50 minutes.",
+                "timing": 50,
+                "doneness_cue": "Toothpick inserted in center comes out clean or with moist crumbs."
+            },
+            {
+                "step": 7,
+                "instruction": "Remove the bread from the oven and let it cool in the pan for 15 minutes. Cooling in the pan helps the bread set and makes it easier to remove without breaking. This resting period also allows the flavors to meld.",
+                "timing": 15,
+                "doneness_cue": "Bread feels firm to the touch but slightly warm."
+            },
+            {
+                "step": 8,
+                "instruction": "Carefully invert the bread onto a wire rack to cool completely. Cooling on a rack prevents condensation from making the crust soggy. Letting it cool fully also makes slicing cleaner and preserves the moist texture inside.",
+                "timing": 30,
+                "doneness_cue": "Bread is completely cool and crust feels firm."
+            },
+            {
+                "step": 9,
+                "instruction": "Slice and serve plain or topped with cream cheese spread. The cream cheese adds a luscious tang that complements the sweet zucchini bread perfectly. Store any leftovers wrapped tightly to keep moist.",
+                "timing": 5,
+                "doneness_cue": "Slices hold shape cleanly without crumbling."
+            }
+        ],
+        "why_this_recipe_works": {
+            "section": "Understanding Why This Zucchini Bread Recipe Succeeds",
+            "content": "<p>This zucchini bread recipe succeeds because it balances moisture and structure using cake mix as a base. Cake mix contains leavening agents and sugar, which help create a tender crumb and golden crust without needing to measure multiple ingredients. The vegetable oil adds fat that keeps the bread moist, while eggs bind the ingredients and provide richness.</p><p>Shredded zucchini contributes moisture and subtle flavor but must be squeezed dry to avoid sogginess. The Maillard reaction during baking caramelizes the sugars in the batter and zucchini, creating a golden crust with rich flavor. Cinnamon adds warmth and depth, complementing the natural sweetness.</p><p>Folding in walnuts adds texture without deflating the batter, preserving its lightness. Baking at 350°F allows even cooking; too high a temperature would dry the bread, while too low would cause underbaking. Cooling in the pan then on a rack prevents condensation and keeps the crust crisp.</p><p>Overall, this recipe’s success lies in using a convenient cake mix base combined with fresh zucchini and simple techniques that ensure moist, flavorful bread every time.</p>",
+            "ingredient_notes": {
+                "yellow cake mix": "Choose a high-quality yellow cake mix without pudding mix or additional flavorings for the best neutral base. The pre-measured leavening agents and sugar simplify the recipe and ensure consistent results. Avoid mixes with extra chocolate or fruit flavors to keep the zucchini bread classic.",
+                "zucchini": "Use fresh, medium-sized zucchinis that are firm and unblemished. Shred finely and squeeze out excess water to prevent the bread from becoming soggy. The zucchini adds moisture and a subtle vegetable flavor without overpowering the bread.",
+                "eggs": "Large eggs provide structure and richness. They help bind the batter and contribute to the bread’s tender crumb. Using room temperature eggs helps them incorporate more evenly, improving texture.",
+                "vegetable oil": "Neutral vegetable oil keeps the bread moist without adding strong flavor. It contributes to a tender crumb and helps the bread stay fresh longer compared to butter-based recipes.",
+                "cinnamon": "Ground cinnamon adds warm spice notes that complement the zucchini’s mild flavor. Use fresh cinnamon for the best aroma and flavor impact. It also enhances the bread’s color and overall appeal."
+            }
+        },
+        "pro_tips": [
+            {
+                "tip": "Squeeze the shredded zucchini thoroughly before adding it to the batter.",
+                "reason": "Excess moisture from zucchini can make the bread dense and soggy. By squeezing out water, you maintain a moist but structured crumb, ensuring the bread bakes evenly and holds together well."
+            },
+            {
+                "tip": "Don’t overmix the batter once you add the zucchini and nuts.",
+                "reason": "Overmixing develops gluten in the flour, which can make the bread tough and chewy instead of tender. Gently folding ingredients preserves air bubbles, resulting in a lighter texture."
+            },
+            {
+                "tip": "Use a toothpick to test doneness starting at 50 minutes of baking.",
+                "reason": "Baking time can vary with ovens and moisture content. Checking early prevents overbaking, which dries out the bread, while ensuring it’s fully cooked through."
+            },
+            {
+                "tip": "Cool the bread in the pan for 15 minutes before removing it.",
+                "reason": "This resting period helps the bread set, reducing the risk of breaking or crumbling when transferring to a cooling rack. It also lets residual heat complete the cooking gently."
+            },
+            {
+                "tip": "Add chopped walnuts for extra texture and nutty flavor.",
+                "reason": "Walnuts complement the moist zucchini and cinnamon notes with crunch, making the bread more interesting. Toasting the nuts lightly before adding can enhance their flavor even more."
+            },
+            {
+                "tip": "Use room temperature eggs and oil for better batter consistency.",
+                "reason": "Cold ingredients can cause the batter to seize or mix unevenly, leading to inconsistent texture. Room temperature components blend smoothly, improving crumb uniformity."
+            },
+            {
+                "tip": "Store leftover bread wrapped tightly at room temperature or refrigerated.",
+                "reason": "Proper storage preserves moisture and flavor. Wrapping prevents drying out, and refrigeration extends shelf life without compromising texture."
+            }
+        ],
+        "common_mistakes_to_avoid": [
+            {
+                "mistake": "Not squeezing zucchini enough",
+                "why_it_happens": "Many assume shredded zucchini can be added directly, but it often holds a lot of water that affects batter consistency.",
+                "fix": "Use a clean towel or cheesecloth to press out excess moisture thoroughly before mixing. This keeps the bread from becoming soggy and dense."
+            },
+            {
+                "mistake": "Overmixing the batter",
+                "why_it_happens": "Eager cooks often stir vigorously to combine ingredients, thinking it improves texture.",
+                "fix": "Mix just until ingredients are combined, especially after adding zucchini and nuts, to avoid tough bread from gluten development."
+            },
+            {
+                "mistake": "Baking at too high a temperature",
+                "why_it_happens": "Setting oven too hot to speed up baking can cause crust to burn before interior cooks.",
+                "fix": "Bake at 350°F and check doneness with a toothpick starting at 50 minutes to ensure even cooking."
+            },
+            {
+                "mistake": "Removing bread from pan too soon",
+                "why_it_happens": "Impatience leads to handling bread while still hot and fragile.",
+                "fix": "Let bread cool in pan for at least 15 minutes to set crumb before transferring to a rack."
+            },
+            {
+                "mistake": "Using flavored or pudding cake mix",
+                "why_it_happens": "Some mixes add flavors or ingredients that alter texture and taste unexpectedly.",
+                "fix": "Stick to plain yellow cake mix for best neutral base and consistent results."
+            }
+        ],
+        "variations": [
+            {
+                "name": "Gluten-Free Zucchini Bread",
+                "description": "Swap the yellow cake mix with a gluten-free cake mix blend. Ensure the blend contains xanthan gum for structure. The texture will be slightly denser but still moist and flavorful.",
+                "technical_note": "Gluten-free mixes absorb moisture differently; you may need to reduce zucchini slightly to maintain proper batter consistency."
+            },
+            {
+                "name": "Chocolate Chip Zucchini Bread",
+                "description": "Add 1/2 cup mini chocolate chips to the batter for a sweet twist. The chocolate pairs beautifully with the cinnamon and zucchini, making it a kid-friendly favorite.",
+                "technical_note": "Fold chips gently to avoid melting into the batter and altering texture."
+            },
+            {
+                "name": "Vegan Zucchini Bread",
+                "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use vegetable oil as usual. Use a vegan cake mix if possible. This keeps the bread moist and tender.",
+                "technical_note": "Flax eggs need time to gel; mix flaxseed and water 5 minutes before adding to batter."
+            },
+            {
+                "name": "Spiced Zucchini Bread",
+                "description": "Add 1/2 teaspoon ground nutmeg and 1/4 teaspoon ground cloves along with cinnamon for a deeper spice flavor. This is perfect for fall and holiday seasons.",
+                "technical_note": "Spices intensify during baking; use sparingly to avoid overpowering the zucchini flavor."
+            },
+            {
+                "name": "Lemon Zucchini Bread",
+                "description": "Add 1 tablespoon lemon zest and 2 tablespoons lemon juice to the batter for a fresh citrus note. This brightens the flavor and pairs well with a light glaze.",
+                "technical_note": "Reduce vanilla extract slightly to balance the lemon flavor."
+            }
+        ],
+        "nutrition": {
+            "calories_per_serving": "280 kcal",
+            "protein_grams": "4g",
+            "carbohydrates_grams": "35g",
+            "fat_grams": "14g",
+            "fiber_grams": "2g",
+            "sodium_mg": "220mg",
+            "note": "Nutritional values are estimates and may vary based on specific ingredients and portion sizes."
+        },
+        "storage_and_reheating": {
+            "room_temperature": "Store zucchini bread wrapped tightly in plastic wrap or in an airtight container at room temperature for up to 2 days. Avoid leaving it uncovered to prevent drying out. Best eaten within this time for optimal freshness.",
+            "refrigerator": "Keep zucchini bread in an airtight container or wrapped tightly in the refrigerator for up to 5 days. Bread may firm up when chilled; warm slices slightly before serving to restore softness.",
+            "freezer": "Freeze zucchini bread wrapped tightly in plastic wrap and then foil or in a freezer-safe bag for up to 3 months. Thaw overnight in the refrigerator or at room temperature. Reheat gently in the oven to refresh texture.",
+            "reheating": "Reheat slices in a toaster oven or conventional oven at 300°F for 5-7 minutes until warmed through. Avoid microwaving too long as it can make the bread rubbery. Adding a light spread of butter before warming enhances flavor.",
+            "make_ahead_strategy": "You can prepare the batter a day ahead and store it covered in the refrigerator. Bring to room temperature before baking. Alternatively, bake the bread fully and freeze slices for quick future servings."
+        },
+        "faq": [
+            {
+                "question": "Can I use frozen shredded zucchini for this recipe?",
+                "answer": "Yes, but thaw and squeeze out all excess moisture thoroughly before adding it to the batter. Frozen zucchini contains more water, so proper draining is essential to avoid a soggy bread."
+            },
+            {
+                "question": "What if I don’t have cake mix? Can I make this from scratch?",
+                "answer": "You can substitute with a homemade mix of flour, sugar, baking powder, and salt, but it requires precise measuring and balancing leavening agents. Cake mix simplifies this and guarantees consistent results, especially for beginners."
+            },
+            {
+                "question": "How do I prevent the bread from sinking in the middle?",
+                "answer": "Make sure not to overmix the batter and bake at the correct temperature. Underbaking or too much moisture can cause the center to collapse. Use a toothpick to check doneness before removing from the oven."
+            },
+            {
+                "question": "Can I add other mix-ins like raisins or nuts?",
+                "answer": "Absolutely! Raisins, chopped nuts, or even chocolate chips work well. Fold them in gently to avoid deflating the batter and adjust baking time slightly if needed."
+            },
+            {
+                "question": "Is this recipe suitable for meal prep or freezing?",
+                "answer": "Yes, zucchini bread freezes well. Wrap tightly and freeze for up to 3 months. Thaw overnight and reheat gently. It’s a great make-ahead snack or breakfast option."
+            },
+            {
+                "question": "Why is my zucchini bread dry or crumbly?",
+                "answer": "This usually happens if the zucchini wasn’t squeezed well or the bread was overbaked. Make sure to remove excess moisture and check the bread a few minutes before the recommended baking time."
+            },
+            {
+                "question": "Can I use whole wheat cake mix?",
+                "answer": "You can try whole wheat cake mix, but expect a denser texture and nuttier flavor. It may require slightly more moisture or a longer baking time."
+            },
+            {
+                "question": "What’s the best way to shred zucchini?",
+                "answer": "A box grater works great for shredding zucchini evenly. For faster prep, a food processor with a shredding blade is handy. Just be sure to squeeze out excess water regardless of method."
+            }
+        ],
+        "conclusion": "I hope you enjoy this easy zucchini bread recipe as much as my family does. It’s a simple, comforting treat that’s perfect anytime. Give it a try and let me know how it turns out!",
+        "seo": {
+            "primary_keyword": "easy zucchini bread recipe with cake mix",
+            "secondary_keywords": [
+                "moist zucchini bread recipe",
+                "quick zucchini bread with cake mix",
+                "how to make zucchini bread with cake mix",
+                "best zucchini bread recipe",
+                "easy zucchini bread"
+            ],
+            "internal_links": [
+                {
+                    "text": "moist banana bread recipe",
+                    "anchor": "moist-banana-bread"
+                }
+            ],
+            "focus_keyword_density": "1.2%",
+            "reading_level": "8th grade",
+            "word_count_total": "approximately 5200 words"
+        },
+        "category_id": "cat_1761230294_638"
+    },
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-04 23:10:28",
+        "title_seed": "Easy Zucchini Bread Recipe With Cake Mix"
+    },
+    "author_id": "author_001",
+    "id": "post_1785885028_327",
+    "slug": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats",
+    "uniqueSlug": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_1.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_2.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_3.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_4.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Easy Zucchini Bread Recipe With Cake Mix for Moist and Quick Homemade Treats"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_5.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "Easy Zucchini Bread Recipe With Cake Mix for Moist and Quick Homemade Treats"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_8.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Easy Zucchini Bread Recipe With Cake Mix for Moist and Quick Homemade Treats"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_9.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Easy Zucchini Bread Recipe With Cake Mix for Moist and Quick Homemade Treats"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_7.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Easy Zucchini Bread Recipe With Cake Mix for Moist and Quick Homemade Treats"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_6.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "Easy Zucchini Bread Recipe With Cake Mix for Moist and Quick Homemade Treats"
+        }
+    ],
+    "image": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images/easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats_pinrecipes_image_1.webp",
+    "image_dir": "easy-zucchini-bread-recipe-with-cake-mix-for-moist-and-quick-homemade-treats/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-05T00:38:58+01:00",
+    "updatedAt": "2026-08-05T00:38:58+01:00",
+    "has_reel": true
+}

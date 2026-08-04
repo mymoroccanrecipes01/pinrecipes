@@ -1,0 +1,367 @@
+{
+    "title": "Healthy Lemon Zucchini Bread Recipe That’s Moist, Zesty, and Easy to Make",
+    "promptIMG": "Food photography: Lemon Zucchini Bread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen with soft natural daylight filtering through a window, warm wood counters slightly blurred in the background. SUBJECT: a generous loaf of lemon zucchini bread resting on a rustic wooden cutting board, the crust golden brown with a slight sheen from a light glaze, the loaf filling 95% of the frame with the front corner sharply in focus showing the tender crumb and flecks of green zucchini and lemon zest. DETAILS: glossy lemon glaze dripping lightly down the sides, a few scattered lemon zest curls on top, crumbs scattered naturally around the board. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors that highlight the moist texture and fresh ingredients, shallow depth of field; vertical 2:3. AVOID: no text, no hands, no people, no steam or smoke, no artificial colors or over-smoothing.",
+        "img2": "SCENE: soft marble countertop with diffused daylight from a nearby window, neutral and bright background. SUBJECT: the lemon zucchini bread sliced in half and stacked slightly offset to reveal the moist interior filled with shredded zucchini and specks of lemon zest, the crumb glistening with moisture. DETAILS: the interior shows a tender, dense texture with pockets of juicy zucchini, a thin glossy lemon glaze on top reflecting light, crumbs naturally scattered below the slices. STYLE: ultra-photorealistic professional food photography, bright natural light with warm highlights enhancing the moist crumb and fresh lemon colors, shallow macro depth of field; vertical 2:3. AVOID: no hands, no text, no logos, no artificial colors, no steam.",
+        "img3": "SCENE: warm dark wood table softly blurred in the background with a gentle side glow creating a cozy ambiance. SUBJECT: several slices of lemon zucchini bread arranged neatly on a vintage ceramic plate with a small bowl of lemon glaze on the side and a few fresh lemon slices and zucchini ribbons as garnish, the front slice sharply focused showing the moist crumb and glossy glaze. DETAILS: intense wet shine on the glaze, golden crust with caramelized edges, crumbs and zest scattered naturally on the plate. STYLE: ultra-photorealistic professional food photography, warm golden-amber color grading, rich saturated tones that emphasize freshness and moisture, shallow depth of field; vertical 2:3. AVOID: no hands, no text, no watermarks, no steam or smoke, no artificial elements."
+    },
+    "description": "This lemon zucchini bread is a fresh twist on a classic, packed with juicy zucchini and bright lemon zest for a healthy, moist loaf. It’s perfect for breakfast or an afternoon snack. I love how the lemon glaze adds a tangy finish!",
+    "hashtags": "#lemonzucchinibread #healthybread #easybaking",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does This Lemon Zucchini Bread Stay So Moist and Healthy?",
+            "description": "Discover the secret behind this moist lemon zucchini bread that’s both healthy and delicious 🍋🥒. It’s a perfect balance of fresh flavors and tender crumb. Save this recipe for your next baking day! #lemonbread #healthyrecipes #bakingtips"
+        },
+        {
+            "title": "The One Trick That Makes Lemon Zucchini Bread So Moist Every Time",
+            "description": "Want a lemon zucchini bread that’s irresistibly moist and healthy? The key is in the fresh zucchini and lemon zest combo! This easy recipe is a keeper 🍞🍋. Tap to get the full steps! #moistbread #healthybaking #zucchinibread"
+        },
+        {
+            "title": "15-Minute Prep Lemon Zucchini Bread for Busy Weeknight Baking",
+            "description": "Short on time? This lemon zucchini bread comes together with just 15 minutes of prep and bakes into a fresh, healthy treat. Perfect for busy days when you want something homemade! 🍋🥒 #quickbaking #healthybread #weeknightbaking"
+        },
+        {
+            "title": "Still Buying Store Bread? Try This Healthy Lemon Zucchini Bread Instead",
+            "description": "Skip the store-bought stuff and make this healthy lemon zucchini bread at home. It’s moist, flavorful, and packed with real ingredients. Your family will love it! 🍞💚 Save this for your next bake day! #homemadebread #healthyrecipes #familyfriendly"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1 cup granulated sugar",
+        "2 large eggs",
+        "1/3 cup vegetable oil",
+        "1/4 cup plain Greek yogurt",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon lemon zest (about 1 lemon)",
+        "2 tablespoons fresh lemon juice",
+        "1 1/2 cups grated zucchini (about 1 medium zucchini), squeezed dry",
+        "1/2 cup chopped walnuts (optional)",
+        "For glaze: 1/2 cup powdered sugar mixed with 1 tablespoon lemon juice"
+    ],
+    "yield": "One 9x5 inch loaf, 8 servings",
+    "introduction": "I first made this lemon zucchini bread a few years ago when I wanted a healthier alternative to my usual sweet breads. I was tired of dense, dry loaves and wanted something bright and fresh that my family would enjoy without the guilt. What makes this recipe special is the combination of fresh lemon zest and juice paired with shredded zucchini, which keeps the bread incredibly moist without adding extra fat. Plus, a touch of Greek yogurt adds tenderness and a subtle tang. I also learned that squeezing the zucchini well before adding it prevents the bread from becoming soggy, which was a game changer for me. The lemon glaze on top adds just the right amount of zing and sweetness to finish it off. This bread is perfect for breakfast, a snack with tea, or even a light dessert. It’s easy enough for beginners but flavorful enough to impress guests. I hope you enjoy baking and sharing this loaf as much as my family does!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Grease and flour a 9x5 inch loaf pan or line it with parchment paper. This ensures your bread releases easily after baking. Proper oven temperature is key to even baking and a golden crust, so use an oven thermometer if you can to avoid hot spots or undercooking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Oven preheated fully; pan prepared and ready"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking soda, baking powder, salt, and cinnamon. This dry mix creates the structure for the bread and evenly distributes the leavening agents, which help the bread rise. Mixing the dry ingredients separately prevents overmixing later when combined with wet ingredients.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients fully blended with no lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the sugar and eggs until pale and slightly thickened, about 2-3 minutes. This aerates the mixture, helping create a lighter crumb. Then whisk in the oil, Greek yogurt, vanilla extract, lemon zest, and lemon juice until smooth and fully combined. The yogurt adds moisture and tenderness, while lemon zest and juice provide fresh flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Wet mixture smooth, glossy, and fragrant with lemon"
+        },
+        {
+            "step": 4,
+            "instruction": "Fold the dry ingredients into the wet ingredients gently using a spatula. Mix just until combined with no visible flour. Overmixing develops gluten, which can make the bread tough. It’s okay if the batter looks a bit lumpy.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter thick and slightly lumpy, no dry flour patches"
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the grated zucchini and walnuts (if using). Be sure the zucchini is well squeezed to remove excess moisture, which prevents a soggy bread. The zucchini adds moisture and subtle sweetness, while walnuts add texture and flavor.",
+            "timing": "3 minutes",
+            "doneness_cue": "Zucchini and nuts evenly distributed in the batter"
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. This creates an even surface for uniform baking and a neat final loaf shape.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter level and evenly spread in the pan"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake in the preheated oven for 50-60 minutes, or until a toothpick inserted in the center comes out clean or with moist crumbs. Avoid opening the oven door too early to prevent the bread from collapsing. The bread should have a golden brown crust and spring back slightly when pressed.",
+            "timing": "50-60 minutes",
+            "doneness_cue": "Golden crust, toothpick mostly clean, bread springs back"
+        },
+        {
+            "step": 8,
+            "instruction": "Let the bread cool in the pan for 10-15 minutes, then transfer to a wire rack to cool completely. Cooling in the pan lets the bread set, while removing it prevents sogginess from trapped steam.",
+            "timing": "15 minutes",
+            "doneness_cue": "Bread firm enough to remove without breaking"
+        },
+        {
+            "step": 9,
+            "instruction": "Mix the powdered sugar and lemon juice to make the glaze. Drizzle over the cooled bread. The glaze adds a bright, sweet finish and enhances the lemon flavor. Let it set for 10 minutes before slicing.",
+            "timing": "10 minutes",
+            "doneness_cue": "Glaze set with a shiny finish on the loaf"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Lemon Zucchini Bread Is So Moist and Flavorful",
+        "content": "<p>This lemon zucchini bread achieves its moist texture and bright flavor through a careful balance of ingredients and technique. The shredded zucchini is the star ingredient, adding natural moisture and subtle sweetness without overpowering the bread. Squeezing out excess water from the zucchini is critical; too much moisture would make the bread soggy and dense. The lemon zest and juice provide fresh acidity that brightens the flavor and balances the sweetness, making the bread taste vibrant rather than heavy.</p><p>Using a combination of vegetable oil and Greek yogurt adds richness and tenderness. Oil keeps the crumb moist and soft, while yogurt contributes a slight tang and helps tenderize the gluten, resulting in a finer texture. The baking soda and baking powder work together to provide lift and a light crumb; baking soda neutralizes the acidity from the lemon and yogurt, allowing the bread to rise properly.</p><p>Mixing the dry and wet ingredients separately before combining prevents overworking the batter, which can develop gluten and make the bread tough. Folding the zucchini and nuts in gently preserves the batter’s lightness. Finally, the lemon glaze adds a glossy finish and an extra punch of citrus that complements the bread’s moist crumb perfectly.</p><p>All these elements combined create a healthy, moist, and flavorful bread that feels indulgent but is packed with fresh, wholesome ingredients—perfect for any time of day.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "All-purpose flour provides the structure for the bread. When purchasing, look for a fresh bag with no clumps or off smells. It’s versatile and works well for quick breads by forming the gluten network that traps air bubbles during baking. Avoid using self-rising flour as it contains leavening agents that could throw off the balance.",
+            "baking soda": "Baking soda acts as a leavening agent that reacts with acidic ingredients like lemon juice and yogurt to produce carbon dioxide bubbles. This reaction helps the bread rise and creates a tender crumb. Be sure to measure accurately, as too much can cause a metallic taste or soapy texture.",
+            "grated zucchini": "Fresh zucchini adds moisture and subtle sweetness. Choose firm, medium-sized zucchini with smooth skin. Grate it finely and squeeze out excess water using a clean kitchen towel or cheesecloth to avoid soggy bread. The zucchini’s water content hydrates the batter naturally without needing extra liquid.",
+            "lemon zest and juice": "Fresh lemon zest and juice provide bright citrus flavor and acidity that balance the sweetness and richness of the bread. Use unwaxed lemons and zest finely to release oils. The acidity also activates the baking soda, aiding leavening. Avoid bottled lemon juice as it lacks freshness and complexity.",
+            "Greek yogurt": "Greek yogurt adds moisture and a slight tang, tenderizing the crumb and improving texture. It also contributes protein and richness without excess fat. Use plain, full-fat or low-fat yogurt for best results. Avoid flavored yogurts which add unwanted sweetness or flavors."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze the grated zucchini to remove excess moisture before adding it to the batter.",
+            "reason": "Removing excess water from zucchini prevents the bread from becoming soggy or dense. The moisture content in zucchini is high, and if not drained well, it can throw off the batter’s consistency and baking time."
+        },
+        {
+            "tip": "Use fresh lemon zest and juice rather than bottled for the best citrus flavor.",
+            "reason": "Fresh lemon zest contains essential oils that provide a bright, aromatic flavor that bottled juice lacks. The acidity also helps activate baking soda, improving the bread’s rise and crumb."
+        },
+        {
+            "tip": "Mix dry and wet ingredients separately before combining to avoid overmixing.",
+            "reason": "Overmixing develops gluten in the flour, which can make the bread tough and chewy instead of tender. Separately mixing ensures even distribution and a lighter crumb."
+        },
+        {
+            "tip": "Let the bread cool completely before glazing to prevent the glaze from melting off.",
+            "reason": "Applying glaze to warm bread causes it to run off, losing the glossy finish and lemon punch. Cooling lets the bread set and allows the glaze to adhere properly."
+        },
+        {
+            "tip": "Use a toothpick to test doneness instead of relying solely on baking time.",
+            "reason": "Ovens vary, so checking with a toothpick ensures the bread is baked through without drying out. Insert it into the center; if it comes out clean or with moist crumbs, it’s done."
+        },
+        {
+            "tip": "Add chopped walnuts or pecans for extra texture and flavor if desired.",
+            "reason": "Nuts add crunch and a toasty flavor contrast to the moist, tender bread. They also boost nutritional value with healthy fats and protein."
+        },
+        {
+            "tip": "Store leftover bread wrapped tightly at room temperature for up to 3 days.",
+            "reason": "Proper storage keeps the bread moist and fresh. Wrapping prevents air exposure, which causes drying and staling."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing the zucchini enough before adding it to the batter.",
+            "why_it_happens": "Many cooks overlook this step thinking the zucchini’s moisture won’t affect the bread, but excess water leads to a soggy texture and longer baking times.",
+            "fix": "After grating, place the zucchini in a clean kitchen towel and twist firmly to squeeze out as much liquid as possible. This step ensures the batter has the right consistency and the bread bakes evenly."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour.",
+            "why_it_happens": "It’s tempting to mix thoroughly to avoid lumps, but overmixing develops gluten, making the bread tough instead of tender.",
+            "fix": "Mix just until the dry ingredients are incorporated. It’s okay if the batter looks slightly lumpy. Use a gentle folding motion rather than vigorous stirring."
+        },
+        {
+            "mistake": "Using bottled lemon juice instead of fresh.",
+            "why_it_happens": "Bottled lemon juice is convenient but lacks the fresh oils and bright flavor of fresh lemons, resulting in a less vibrant bread.",
+            "fix": "Always zest and juice fresh lemons for the best flavor and proper chemical reaction with baking soda."
+        },
+        {
+            "mistake": "Not testing the bread for doneness before removing from the oven.",
+            "why_it_happens": "Relying only on time can lead to underbaked or overbaked bread due to oven variations.",
+            "fix": "Insert a toothpick into the center near the end of baking. If it comes out clean or with moist crumbs, the bread is done. If wet batter sticks, bake a few minutes longer."
+        },
+        {
+            "mistake": "Applying glaze while the bread is still warm.",
+            "why_it_happens": "Warm bread causes the glaze to melt and run off, losing its shiny finish and flavor impact.",
+            "fix": "Allow the bread to cool completely on a wire rack before drizzling the lemon glaze for the best texture and appearance."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Lemon Zucchini Bread",
+            "description": "Swap the all-purpose flour for a gluten-free blend that includes xanthan gum. This keeps the bread tender and moist while making it safe for gluten-sensitive eaters. Expect a slightly denser crumb but the same fresh lemon flavor.",
+            "technical_note": "Gluten-free flours absorb more moisture, so you may need to reduce the yogurt slightly or add an extra egg for structure."
+        },
+        {
+            "name": "Vegan Lemon Zucchini Bread",
+            "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use a plant-based yogurt and oil. This version is dairy-free and egg-free but still moist and flavorful with the same lemon zing.",
+            "technical_note": "Flax eggs add binding but less lift, so the bread may be slightly denser and require careful folding to maintain airiness."
+        },
+        {
+            "name": "Lemon Poppy Seed Zucchini Bread",
+            "description": "Add 2 tablespoons of poppy seeds to the batter for a delightful crunch and nutty flavor that pairs beautifully with lemon and zucchini. This variation adds texture and a classic flavor twist.",
+            "technical_note": "Poppy seeds don’t affect baking time but add a visual appeal and subtle nutty taste."
+        },
+        {
+            "name": "Spiced Lemon Zucchini Bread",
+            "description": "Enhance the cinnamon with 1/2 teaspoon ground nutmeg and 1/4 teaspoon ground cloves for a warm, cozy flavor profile. This variation is perfect for cooler months and holiday baking.",
+            "technical_note": "Spices intensify the aroma but don’t alter baking time or texture."
+        },
+        {
+            "name": "Lemon Zucchini Muffins",
+            "description": "Divide the batter into a greased or lined muffin tin for 12-14 muffins. Bake at 350°F for 20-25 minutes until golden and a toothpick comes out clean. Great for portion control and quick snacks.",
+            "technical_note": "Muffins bake faster due to smaller size; watch carefully to avoid overbaking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "8g",
+        "fiber_grams": "2g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the lemon zucchini bread wrapped tightly in plastic wrap or in an airtight container at room temperature for up to 3 days. This keeps it moist and fresh. Avoid leaving it uncovered as it will dry out quickly.",
+        "refrigerator": "You can refrigerate the bread wrapped in plastic or stored in an airtight container for up to 5 days. The cooler temperature slows spoilage but may dry the bread slightly; bring to room temperature or warm gently before serving.",
+        "freezer": "Freeze the bread tightly wrapped in plastic wrap and then foil or in a freezer-safe container for up to 3 months. To thaw, leave at room temperature for several hours or overnight. Avoid microwaving frozen bread directly to prevent sogginess.",
+        "reheating": "Reheat slices in a toaster oven or conventional oven at 300°F for 5-7 minutes until warm. You can add a light brush of butter or a quick drizzle of honey for extra moisture. Avoid microwaving as it can make the bread rubbery.",
+        "make_ahead_strategy": "You can grate the zucchini and prepare the dry ingredients up to 2 days ahead, storing them separately in airtight containers. Mix and bake the bread fresh on the day you plan to serve for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use yellow squash instead of zucchini?",
+            "answer": "Yes, yellow squash works similarly to zucchini in this recipe. It has a comparable moisture content and mild flavor. Just grate and squeeze out excess moisture the same way. The bread will have a slightly different color but similar texture and taste."
+        },
+        {
+            "question": "How do I prevent the bread from being too dense?",
+            "answer": "To avoid dense bread, be sure not to overmix the batter once the flour is added. Also, squeeze out excess moisture from the zucchini to maintain the right batter consistency. Using fresh baking powder and soda ensures proper rise."
+        },
+        {
+            "question": "Can I make this bread gluten-free?",
+            "answer": "Absolutely! Use a gluten-free flour blend that includes xanthan gum for structure. You may need to adjust moisture slightly by reducing yogurt or adding an extra egg. Expect a slightly denser texture but still delicious."
+        },
+        {
+            "question": "What’s the best way to store leftover bread?",
+            "answer": "Wrap leftover bread tightly in plastic wrap or store in an airtight container at room temperature for up to 3 days. For longer storage, refrigerate up to 5 days or freeze up to 3 months, thawing before serving."
+        },
+        {
+            "question": "Can I omit the nuts?",
+            "answer": "Yes, nuts are optional and can be left out if you prefer a nut-free bread or have allergies. The bread will still be moist and flavorful without them."
+        },
+        {
+            "question": "Why is the bread not rising properly?",
+            "answer": "This can happen if your baking soda or powder is old and inactive. Make sure to use fresh leavening agents. Also, avoid overmixing which can deflate the batter and prevent proper rise."
+        },
+        {
+            "question": "Can I add other spices?",
+            "answer": "Definitely! Cinnamon is classic, but you can add nutmeg, cloves, or ginger for a warm spice profile. Just add about 1/4 to 1/2 teaspoon of each to suit your taste."
+        },
+        {
+            "question": "How do I know when the bread is done?",
+            "answer": "Insert a toothpick into the center; it should come out clean or with moist crumbs but no wet batter. The crust should be golden brown and the bread should spring back when pressed lightly."
+        }
+    ],
+    "conclusion": "I hope you enjoy this healthy lemon zucchini bread as much as my family does. It’s such a simple way to brighten your day with fresh flavors and wholesome ingredients. Happy baking!",
+    "seo": {
+        "primary_keyword": "lemon zucchini bread recipe healthy",
+        "secondary_keywords": [
+            "healthy zucchini bread",
+            "lemon zucchini bread recipe",
+            "how to make lemon zucchini bread",
+            "best healthy zucchini bread recipe",
+            "easy lemon zucchini bread"
+        ],
+        "internal_links": [
+            {
+                "text": "moist banana bread recipe",
+                "anchor": "moist-banana-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-04 23:13:44",
+        "title_seed": "Lemon Zucchini Bread Recipe Healthy"
+    },
+    "author_id": "author_001",
+    "id": "post_1785885224_150",
+    "slug": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make",
+    "uniqueSlug": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_1.webp",
+            "filePath": "posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_1.webp",
+            "relativePath": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_2.webp",
+            "filePath": "posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_2.webp",
+            "relativePath": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_3.webp",
+            "filePath": "posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_3.webp",
+            "relativePath": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_7.webp",
+            "filePath": "posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_7.webp",
+            "relativePath": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Buying Store Bread? Try This Healthy Lemon Zucchini Bread Instead"
+        },
+        {
+            "fileName": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_6.webp",
+            "filePath": "posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_6.webp",
+            "relativePath": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep Lemon Zucchini Bread for Busy Weeknight Baking"
+        },
+        {
+            "fileName": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_5.webp",
+            "filePath": "posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_5.webp",
+            "relativePath": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Lemon Zucchini Bread So Moist Every Time"
+        },
+        {
+            "fileName": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_9.webp",
+            "filePath": "posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_9.webp",
+            "relativePath": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Lemon Zucchini Bread Stay So Moist and Healthy?"
+        },
+        {
+            "fileName": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_8.webp",
+            "filePath": "posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_8.webp",
+            "relativePath": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Lemon Zucchini Bread Stay So Moist and Healthy?"
+        },
+        {
+            "fileName": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_4.webp",
+            "filePath": "posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_4.webp",
+            "relativePath": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Lemon Zucchini Bread Stay So Moist and Healthy?"
+        }
+    ],
+    "image": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_1.webp",
+    "image_path": "posts/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images/healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make_pinrecipes_image_1.webp",
+    "image_dir": "healthy-lemon-zucchini-bread-recipe-thats-moist-zesty-and-easy-to-make/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-05T00:38:58+01:00",
+    "updatedAt": "2026-08-05T00:38:58+01:00",
+    "has_reel": true
+}

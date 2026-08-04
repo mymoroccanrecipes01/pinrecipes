@@ -1,0 +1,371 @@
+{
+    "title": "Easy Chocolate Chip Zucchini Bread Mini Loaves for a Moist Homemade Treat",
+    "promptIMG": "Food photography: Chocolate Chip Zucchini Bread Mini Loaves, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a warmly lit home kitchen with soft daylight filtering through a window, faintly blurred counters and utensils in the background. SUBJECT: a rustic ceramic loaf pan filled with golden-brown chocolate chip zucchini bread mini loaves, stacked slightly unevenly to show their homemade charm. The front loaf is sharply focused at a 30-degree angle, revealing a slightly cracked crust with glossy melted chocolate chips peeking through. DETAILS: the loaves have a deep golden caramelized crust with specks of green from the zucchini and dark chocolate chips scattered generously. A light dusting of powdered sugar settles naturally on top, with crumbs scattered around the pan edges. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, vibrant and inviting colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands or people, no steam or smoke, no plastic textures or CGI effect.",
+        "img2": "SCENE: soft natural light from a bright window illuminating a smooth marble countertop softly blurred in the background. SUBJECT: a single chocolate chip zucchini bread mini loaf cut in half and stacked, the moist interior exposed with chocolate chips melting and glistening, strands of shredded zucchini visible in the crumb. The cut surface fills 90% of the frame, razor-sharp focus on the moist crumb and gooey chocolate. DETAILS: the interior is glossy and tender, with a warm amber hue contrasting the darker chocolate. Crumbs and a few stray chocolate chips rest naturally below the loaf halves. STYLE: ultra-photorealistic professional food photography, bright and warm golden daylight, rich saturated colors with a cozy inviting feel, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands or people, no steam, no artificial lighting or dull colors.",
+        "img3": "SCENE: dark warm wood table softly blurred behind with a gentle warm side glow highlighting the food. SUBJECT: several chocolate chip zucchini bread mini loaves arranged closely in a rustic wooden box with a small bowl of melted chocolate chips beside them. The front loaf is sharply focused with a glossy chocolate chip topping, the rest receding into a warm bokeh. DETAILS: intense wet shiny chocolate chips on top, deep caramelized crust edges, a light dusting of powdered sugar drifting into the crevices. A few crumbs and chocolate chips are scattered naturally on the wood surface. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich saturated glowing appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands or people, no dim lighting or shadows, no plastic or CGI effects."
+    },
+    "description": "These chocolate chip zucchini bread mini loaves are the perfect moist and tender treat with a delightful chocolate twist. The shredded zucchini keeps them super soft, and the melty chocolate chips add a sweet surprise in every bite. Great for breakfast or an afternoon snack!",
+    "hashtags": "#zucchinibread #chocolatechipbread #easybaking",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Homemade Chocolate Chip Zucchini Bread Taste So Moist?",
+            "description": "Discover the secret behind the incredibly moist texture in these mini loaves. It's all about the fresh zucchini and careful mixing! 🍫🥒 Save this for your next baking day. #zucchinibread #homemadebaking #chocolatechip"
+        },
+        {
+            "title": "The One Trick That Makes Chocolate Chip Zucchini Bread Mini Loaves Perfect Every Time",
+            "description": "Want perfectly tender zucchini bread with gooey chocolate chips? This simple tip will change your baking game forever! 🍞✨ Tap to get the full recipe and impress your family. #easybaking #zucchinibread #chocolatechip"
+        },
+        {
+            "title": "15-Minute Prep for Moist Chocolate Chip Zucchini Bread Mini Loaves",
+            "description": "Short on time? These mini loaves come together quickly with simple ingredients and bake into a moist, delicious treat. Perfect for busy mornings or snacks! ⏰🍫 Save this recipe now. #quickbaking #zucchinibread #familyfriendly"
+        },
+        {
+            "title": "Still Struggling With Dry Zucchini Bread? Try These Chocolate Chip Mini Loaves",
+            "description": "Dry zucchini bread is a thing of the past! These chocolate chip mini loaves stay moist and flavorful thanks to a few easy baking secrets. 🍫🥒 Give them a try and taste the difference. #moistbread #zucchinibread #bakingtips"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 40,
+    "servings": 8,
+    "ingredients": [
+        "1 ½ cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "½ teaspoon baking powder",
+        "½ teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "2 large eggs",
+        "½ cup vegetable oil",
+        "¾ cup granulated sugar",
+        "1 teaspoon vanilla extract",
+        "1 ½ cups shredded zucchini (about 1 medium zucchini)",
+        "¾ cup semi-sweet chocolate chips"
+    ],
+    "yield": "Approximately 8 mini loaves",
+    "introduction": "I first made these chocolate chip zucchini bread mini loaves a few summers ago when my garden was overflowing with zucchini. I wanted a way to use up the bounty without making the usual big loaf, so I tried mini loaves instead. The result was a moist, tender bread with a lovely chocolate surprise in every bite. What sets this recipe apart is the balance of moisture from the shredded zucchini and the sweet melty chocolate chips that make it irresistible. I also like to keep the mixing gentle to avoid a tough crumb, which I learned after a few failed attempts. These mini loaves bake evenly and are perfect for sharing or freezing for later. They have a golden crust with a soft, tender interior that’s packed with flavor. My family loves them for breakfast or a quick snack, and they’re a great way to sneak in some veggies without anyone noticing. I think you’ll love how simple and satisfying this recipe is!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease or line a mini loaf pan with parchment paper. This step ensures your loaves release easily after baking without sticking. Properly preparing your pan helps maintain the loaf’s shape and prevents the crust from tearing when removing from the pan.",
+            "timing": 10,
+            "doneness_cue": "Oven fully preheated and loaf pan lightly greased or lined."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking soda, baking powder, salt, and cinnamon. This dry mix provides the structure and leavening for the bread. Mixing these ingredients thoroughly ensures even distribution, which helps the bread rise evenly and develop a balanced flavor.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are well combined with no lumps or streaks."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the eggs with the sugar until well combined but not overly fluffy. Add the vegetable oil and vanilla extract, mixing gently to combine. This wet mixture adds moisture and richness to the bread. Overbeating eggs can incorporate too much air, leading to a crumbly texture, so mix just until blended.",
+            "timing": 5,
+            "doneness_cue": "Wet ingredients are homogenous and glossy without foam."
+        },
+        {
+            "step": 4,
+            "instruction": "Fold the shredded zucchini into the wet ingredients, distributing it evenly. The zucchini adds moisture and subtle veggie flavor without overpowering the bread. Make sure the zucchini is well drained to avoid excess water, which can make the bread soggy.",
+            "timing": 3,
+            "doneness_cue": "Zucchini strands are evenly mixed with no large clumps."
+        },
+        {
+            "step": 5,
+            "instruction": "Slowly add the dry ingredients to the wet mixture, folding gently with a spatula until just combined. Avoid overmixing here to keep the bread tender and soft. Overmixing develops gluten and can make the bread tough and dense.",
+            "timing": 3,
+            "doneness_cue": "Batter is uniform with no visible pockets of flour."
+        },
+        {
+            "step": 6,
+            "instruction": "Fold in the chocolate chips carefully, distributing them evenly without breaking them up. The chocolate chips melt during baking to create gooey pockets of sweetness. Using good-quality chips helps maintain their shape and texture.",
+            "timing": 2,
+            "doneness_cue": "Chocolate chips are evenly scattered throughout the batter."
+        },
+        {
+            "step": 7,
+            "instruction": "Spoon the batter into the prepared mini loaf pans, filling each about ¾ full to allow room for rising. This prevents overflow and ensures even baking. Level the tops gently with a spatula for a nice, uniform crust.",
+            "timing": 3,
+            "doneness_cue": "Loaf pans are evenly filled with smooth batter surfaces."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake in the preheated oven for 35-40 minutes or until a toothpick inserted in the center comes out clean or with a few moist crumbs. Avoid opening the oven door too early to prevent the loaves from collapsing. The baking time may vary slightly depending on your oven and pan size.",
+            "timing": 40,
+            "doneness_cue": "Loaves are golden brown with a firm crust and clean toothpick test."
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the mini loaves from the oven and let them cool in the pan for 10 minutes before transferring to a wire rack to cool completely. This resting period allows the bread to set and prevents it from breaking apart. Cooling on a rack keeps the crust crisp rather than soggy.",
+            "timing": 15,
+            "doneness_cue": "Loaves are cool enough to handle and maintain shape when lifted."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Chocolate Chip Zucchini Bread Is So Moist and Tender",
+        "content": "<p>The key to this recipe’s success lies in the balance of moisture from the shredded zucchini and the gentle mixing technique. Zucchini contains a high water content, which naturally keeps the bread moist without making it soggy. By shredding the zucchini finely and draining any excess moisture, the bread gains tenderness while maintaining structure.</p><p>The combination of baking soda and baking powder provides the right lift. Baking soda reacts with the acidity in the batter, while baking powder adds additional leavening, creating a light crumb. The cinnamon adds warmth and depth of flavor, complementing the chocolate chips beautifully.</p><p>Using vegetable oil instead of butter helps keep the bread soft and moist for longer, as oil remains liquid at room temperature. The gentle folding technique minimizes gluten development, preventing the bread from becoming tough or dense. The chocolate chips melt during baking, creating pockets of gooey sweetness that contrast with the tender crumb.</p><p>Finally, baking in mini loaf pans ensures even heat distribution, allowing the bread to bake through without drying out. The smaller size also makes portioning easy and perfect for sharing or freezing.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a standard all-purpose flour with moderate protein content (around 10-11%) to provide enough gluten for structure without making the bread tough. Avoid bread flour which is too strong and could yield a dense texture. Sifting is optional but helps incorporate air for a lighter crumb.",
+            "baking soda": "This alkaline leavening agent reacts with acidic ingredients in the batter, such as the zucchini’s natural acids, to produce carbon dioxide bubbles that help the bread rise. Use fresh baking soda as expired powder can result in flat or dense bread.",
+            "shredded zucchini": "Use fresh, medium-sized zucchini and shred it finely to integrate seamlessly into the batter. Drain any excess moisture by pressing the shredded zucchini in a clean kitchen towel to prevent sogginess. This ingredient adds natural moisture and subtle vegetable flavor.",
+            "vegetable oil": "Oil keeps the bread moist and tender because it remains liquid at room temperature, unlike butter which solidifies. Neutral oils like canola or sunflower work best to avoid overpowering flavors. Avoid olive oil which can be too strong.",
+            "chocolate chips": "Semi-sweet chocolate chips provide a nice balance of sweetness and richness. Use good-quality chips so they hold shape during baking but melt just enough to create gooey pockets. Avoid chips with stabilizers that prevent melting."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Drain shredded zucchini well before adding to the batter.",
+            "reason": "Excess moisture from zucchini can make the bread soggy and prevent it from setting properly. Pressing the shredded zucchini in a clean towel removes water, ensuring the right texture and preventing a gummy crumb."
+        },
+        {
+            "tip": "Fold the batter gently to avoid overmixing.",
+            "reason": "Overmixing develops gluten which toughens the bread. Folding just until combined keeps the crumb tender and moist, resulting in a soft, fluffy loaf rather than dense and chewy."
+        },
+        {
+            "tip": "Use mini loaf pans for even baking and portion control.",
+            "reason": "Mini loaves bake more evenly and faster than a large loaf, reducing the risk of undercooked centers or dried edges. They also make serving easier and allow you to freeze individual portions."
+        },
+        {
+            "tip": "Check the bread at 35 minutes with a toothpick test.",
+            "reason": "Ovens vary, so start checking early to avoid overbaking. A clean toothpick or one with moist crumbs signals perfect doneness, ensuring the bread is moist inside and not dry."
+        },
+        {
+            "tip": "Let the loaves cool completely on a wire rack before slicing.",
+            "reason": "Cooling allows the bread to set and prevents it from crumbling apart. A wire rack keeps the crust crisp by allowing air circulation, avoiding sogginess from trapped steam."
+        },
+        {
+            "tip": "Use fresh baking soda for best rise.",
+            "reason": "Old or expired baking soda loses potency, resulting in flat or dense bread. Fresh leavening ensures a light, airy crumb with good volume."
+        },
+        {
+            "tip": "Add extra cinnamon or nuts for variation.",
+            "reason": "Cinnamon enhances warmth and depth of flavor, while nuts add crunch and texture. These additions personalize the bread and make it even more satisfying."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not draining zucchini well enough",
+            "why_it_happens": "Many cooks assume shredded zucchini can be added directly, unaware that its water content can make the batter too wet.",
+            "fix": "After shredding, wrap the zucchini in a clean kitchen towel and squeeze firmly to remove excess water. This step prevents soggy bread and helps it bake evenly."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "It’s tempting to mix thoroughly to avoid lumps, but this develops gluten and toughens the bread.",
+            "fix": "Use a spatula to fold ingredients gently just until combined. Stop mixing as soon as no dry flour remains for a tender crumb."
+        },
+        {
+            "mistake": "Using expired baking soda",
+            "why_it_happens": "Baking soda loses effectiveness over time, especially if stored improperly.",
+            "fix": "Test baking soda by adding a small amount to vinegar; it should fizz immediately. Replace if no reaction occurs to ensure proper rise."
+        },
+        {
+            "mistake": "Filling loaf pans too full",
+            "why_it_happens": "Overfilled pans cause batter to spill over or bake unevenly.",
+            "fix": "Fill pans only about ¾ full to allow room for the bread to rise and bake properly without mess."
+        },
+        {
+            "mistake": "Cutting the bread before it cools",
+            "why_it_happens": "Slicing hot bread can cause it to crumble and lose shape.",
+            "fix": "Allow loaves to cool completely on a wire rack to firm up before slicing for clean, intact pieces."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Chocolate Chip Zucchini Bread",
+            "description": "Add ½ cup chopped walnuts or pecans to the batter along with the chocolate chips for added crunch and flavor. The nuts complement the sweetness and add texture, making the bread more substantial.",
+            "technical_note": "Fold nuts in gently with the chocolate chips to distribute evenly. Toasting nuts lightly beforehand enhances their flavor."
+        },
+        {
+            "name": "Gluten-Free Chocolate Chip Zucchini Bread",
+            "description": "Replace all-purpose flour with a gluten-free blend designed for baking. This makes the bread suitable for gluten-sensitive diets while maintaining moistness and flavor.",
+            "technical_note": "Add ¼ teaspoon xanthan gum if your blend does not contain it to help with structure and binding."
+        },
+        {
+            "name": "Spiced Chocolate Chip Zucchini Bread",
+            "description": "Boost the warm spices by adding ¼ teaspoon nutmeg and ¼ teaspoon ground ginger along with the cinnamon for a more aromatic loaf perfect for fall.",
+            "technical_note": "Adjust spices to taste but avoid overpowering the chocolate and zucchini flavors."
+        },
+        {
+            "name": "Vegan Chocolate Chip Zucchini Bread",
+            "description": "Use flax eggs (1 tablespoon ground flaxseed mixed with 3 tablespoons water per egg) and replace vegetable oil with melted coconut oil. Use dairy-free chocolate chips to keep it fully vegan.",
+            "technical_note": "Allow flax eggs to thicken before mixing. Baking time may vary slightly; check doneness with a toothpick."
+        },
+        {
+            "name": "Lemon Zucchini Bread with White Chocolate Chips",
+            "description": "Add 1 tablespoon lemon zest to the batter and swap semi-sweet chips for white chocolate. The citrus brightens the flavor and pairs beautifully with the mild zucchini.",
+            "technical_note": "Be careful not to add too much zest to avoid bitterness. Fold zest and chips gently."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "10g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store cooled mini loaves in an airtight container at room temperature for up to 2 days. Keep them away from direct sunlight or heat to prevent drying out. They stay moist and fresh for snacking within this timeframe.",
+        "refrigerator": "Place loaves in an airtight container and refrigerate for up to 5 days. The bread may firm up slightly when chilled; bring to room temperature before serving for best texture.",
+        "freezer": "Wrap each mini loaf tightly in plastic wrap and then foil to prevent freezer burn. Freeze for up to 3 months. Thaw overnight in the fridge or at room temperature. Reheat gently in a low oven to restore freshness.",
+        "reheating": "Warm mini loaves in a 300°F oven for 8-10 minutes or microwave for 15-20 seconds. Adding a small pat of butter or a splash of milk can help restore moisture. Avoid overheating which can dry the bread.",
+        "make_ahead_strategy": "You can prepare the batter and refrigerate it in a sealed container for up to 24 hours before baking. This allows flavors to meld and is convenient for busy schedules. Bake fresh for best texture and rise."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this recipe?",
+            "answer": "Yes, but make sure to thaw and drain the zucchini thoroughly before adding it to the batter. Frozen zucchini contains more water, so draining well is essential to avoid soggy bread."
+        },
+        {
+            "question": "Why is my zucchini bread dry?",
+            "answer": "Dry bread usually results from overbaking or using too much flour. Make sure to measure flour correctly by spooning it into the cup and leveling off. Also, check doneness early and avoid baking beyond the recommended time."
+        },
+        {
+            "question": "Can I substitute chocolate chips with nuts?",
+            "answer": "Absolutely! Nuts add great texture and flavor. You can replace all or part of the chocolate chips with chopped walnuts, pecans, or almonds. Toasting nuts beforehand enhances their taste."
+        },
+        {
+            "question": "How do I store leftover zucchini bread?",
+            "answer": "Store cooled bread in an airtight container at room temperature for a couple of days or refrigerate for up to 5 days. For longer storage, freeze wrapped tightly for up to 3 months."
+        },
+        {
+            "question": "Can I make this bread gluten-free?",
+            "answer": "Yes, use a gluten-free all-purpose flour blend that includes xanthan gum for structure. Expect a slightly different texture but still moist and delicious."
+        },
+        {
+            "question": "Is it necessary to peel the zucchini?",
+            "answer": "No, the skin is thin and adds color and nutrients. Just wash the zucchini well before shredding."
+        },
+        {
+            "question": "What’s the best way to shred zucchini?",
+            "answer": "Use a box grater or a food processor with a shredding attachment for even strands. Avoid shredding too coarsely as it can affect texture."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes, substitute eggs with flax or chia eggs and use dairy-free chocolate chips. Replace oil with melted coconut oil for best results."
+        },
+        {
+            "question": "Why do my chocolate chips sink to the bottom?",
+            "answer": "Toss chocolate chips in a little flour before folding into the batter to help suspend them evenly during baking."
+        },
+        {
+            "question": "Can I bake this in a regular loaf pan instead of mini loaves?",
+            "answer": "Yes, but increase baking time to about 50-60 minutes and test doneness with a toothpick. The texture will be similar but the larger loaf takes longer to cook through."
+        }
+    ],
+    "conclusion": "I hope you enjoy making these chocolate chip zucchini bread mini loaves as much as my family does. They’re simple, delicious, and perfect for any time you want a moist, comforting treat. Let me know how they turn out!",
+    "seo": {
+        "primary_keyword": "chocolate chip zucchini bread mini loaves",
+        "secondary_keywords": [
+            "easy zucchini bread recipe",
+            "moist zucchini bread with chocolate chips",
+            "how to make zucchini bread mini loaves",
+            "best chocolate chip zucchini bread recipe",
+            "easy chocolate chip zucchini bread"
+        ],
+        "internal_links": [
+            {
+                "text": "Classic Banana Bread Recipe",
+                "anchor": "classic-banana-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-04 23:16:42",
+        "title_seed": "Chocolate Chip Zucchini Bread Mini Loaves"
+    },
+    "author_id": "author_001",
+    "id": "post_1785885402_578",
+    "slug": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat",
+    "uniqueSlug": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_1.webp",
+            "relativePath": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_2.webp",
+            "relativePath": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_3.webp",
+            "relativePath": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_7.webp",
+            "relativePath": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Struggling With Dry Zucchini Bread? Try These Chocolate Chip Mini Loaves"
+        },
+        {
+            "fileName": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_6.webp",
+            "relativePath": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep for Moist Chocolate Chip Zucchini Bread Mini Loaves"
+        },
+        {
+            "fileName": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_5.webp",
+            "relativePath": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Chocolate Chip Zucchini Bread Mini Loaves Perfect Every Time"
+        },
+        {
+            "fileName": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_9.webp",
+            "relativePath": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Homemade Chocolate Chip Zucchini Bread Taste So Moist?"
+        },
+        {
+            "fileName": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_8.webp",
+            "relativePath": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Homemade Chocolate Chip Zucchini Bread Taste So Moist?"
+        },
+        {
+            "fileName": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_4.webp",
+            "relativePath": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Homemade Chocolate Chip Zucchini Bread Taste So Moist?"
+        }
+    ],
+    "image": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images/easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat_pinrecipes_image_1.webp",
+    "image_dir": "easy-chocolate-chip-zucchini-bread-mini-loaves-for-a-moist-homemade-treat/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-05T00:38:58+01:00",
+    "updatedAt": "2026-08-05T00:38:58+01:00",
+    "has_reel": true
+}
