@@ -1,0 +1,363 @@
+{
+    "title": "Easy Lemon Zucchini Bread With Sour Cream for Moist, Flavorful Loaves",
+    "promptIMG": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm natural daylight streaming through a window, faint reflections on a wooden countertop. SUBJECT: a rustic ceramic loaf pan overflowing with freshly baked lemon zucchini bread, the top golden-brown with a slightly cracked crust revealing moist crumb beneath; the front edge sharply focused at a 30-degree angle showcasing the speckled zucchini and lemon zest throughout. DETAILS: glossy sheen from a light sugar glaze drizzled over the loaf with tiny pools glistening in the sunlight, scattered lemon zest and a light dusting of powdered sugar settling naturally into the cracks; crumbs scattered on the wooden surface. STYLE: ultra-photorealistic professional food photography with warm, inviting golden tones and rich saturated colors, shallow depth of field emphasizing the texture of the bread; vertical 2:3. AVOID: no text, no hands, no people, no logos, no steam or smoke, no dull or flat colors.",
+        "img2": "SCENE: soft blurred background of light grey marble countertop with bright natural daylight from a nearby window. SUBJECT: the lemon zucchini bread sliced in half and stacked, revealing the moist interior with visible flecks of zucchini and lemon zest, the crumb glistening slightly from the sour cream moisture; the torn crumb texture is sharp and fills 90% of the frame. DETAILS: the exposed crumb shows pockets of steam and a glossy, tender texture contrasting with the crust; a thin drizzle of lemon glaze dripping down the edge adds indulgence; crumbs scattered below the slices. STYLE: ultra-photorealistic, warm natural lighting with rich saturated colors, shallow depth of field highlighting the moist crumb and glossy glaze; vertical 2:3. AVOID: no hands, no text, no logos, no artificial colors, no steam or smoke.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with a single warm side glow casting golden highlights. SUBJECT: several slices of lemon zucchini bread arranged overlapping on a rustic wooden board next to a small bowl of sour cream and a lemon wedge; the front slice sharply focused with a glossy lemon glaze and visible zucchini flecks, the rest fading into warm bokeh. DETAILS: intense glossy shine on the glaze, natural crumbs scattered on the board, fresh lemon zest sprinkled on top, the sour cream bowl showing creamy texture. STYLE: ultra-photorealistic professional food photography with deep golden-amber warmth and rich saturated tones, shallow macro depth of field; vertical 2:3. AVOID: no hands, no text, no logos, no steam or smoke, no dull colors."
+    },
+    "description": "This lemon zucchini bread with sour cream is the perfect quick bread for spring and summer. The sour cream keeps it incredibly moist, while fresh lemon zest adds a bright zing. Great for breakfast or an afternoon snack!",
+    "hashtags": "#lemonzucchinibread #easybaking #moistbread",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Lemon Zucchini Bread With Sour Cream Taste So Moist?",
+            "description": "Discover the secret ingredient that keeps this lemon zucchini bread incredibly moist and tender every time 🍋💛. It’s easier than you think! Save this for your next baking day and enjoy the fresh flavors. #lemonbread #zucchinibread #easybaking"
+        },
+        {
+            "title": "The One Trick That Makes Lemon Zucchini Bread With Sour Cream Perfect",
+            "description": "Want bakery-quality lemon zucchini bread at home? The sour cream addition is the game-changer for texture and flavor. Try this simple tip and impress your family with every slice 🍞✨. Tap for the full recipe! #moistbread #homemadebaking #lemonzucchini"
+        },
+        {
+            "title": "15-Minute Prep Lemon Zucchini Bread With Sour Cream for Busy Bakers",
+            "description": "Pressed for time? This lemon zucchini bread recipe comes together quickly and delivers moist, flavorful results thanks to sour cream. Perfect for busy mornings or last-minute guests 🍋⏰. Save this recipe for easy baking! #quickbread #easyrecipes #zucchinibread"
+        },
+        {
+            "title": "Still Making Dry Zucchini Bread? This Lemon Version With Sour Cream Fixes It",
+            "description": "Dry zucchini bread is a common problem, but adding sour cream and fresh lemon zest transforms it into a moist, flavorful treat. Give this recipe a try and never look back! 🍞💚 Save it for your next bake day. #moistbread #lemonzucchini #bakingtips"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1 tablespoon lemon zest (about 1 large lemon)",
+        "1 cup granulated sugar",
+        "1/2 cup vegetable oil",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 cup sour cream",
+        "1 1/2 cups grated zucchini (about 1 medium zucchini)",
+        "2 tablespoons fresh lemon juice"
+    ],
+    "yield": "One 9x5 inch loaf, 8 servings",
+    "introduction": "I first stumbled upon this lemon zucchini bread recipe years ago when I wanted a fresh twist on traditional zucchini bread. My family loves zucchini bread, but I always found some versions a bit dry or heavy. Adding sour cream was a game changer—it keeps the bread incredibly moist and tender without weighing it down. The fresh lemon zest and juice add a bright, lively flavor that balances the subtle earthiness of the zucchini. What I love about this recipe is how simple it is—no fancy ingredients or complicated steps, just straightforward baking that yields a loaf full of flavor and perfect texture. I usually grate the zucchini finely and squeeze out excess moisture to avoid sogginess, which helps the bread hold its shape beautifully. Baking it low and slow ensures a golden crust and moist crumb inside. Every time I bring this bread to a family gathering or serve it for breakfast, it disappears fast. It's one of those recipes that feels like a cozy hug in loaf form and works great for sharing or keeping all to yourself!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x5 inch loaf pan or line it with parchment paper. This step ensures your bread won't stick and will bake evenly. Using parchment paper also makes for easy removal and cleanup. Make sure the oven is fully preheated before baking to get a nice rise and golden crust.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven is fully preheated and loaf pan is prepared without any sticking spots."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking soda, baking powder, salt, and lemon zest. Combining these dry ingredients well distributes the leavening agents evenly, which is essential for a uniform rise and crumb texture. The lemon zest in the dry mix helps release its oils gradually during baking, infusing the bread with bright citrus flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are fully combined with no clumps or uneven patches of baking soda."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the sugar, oil, eggs, and vanilla extract until smooth and creamy. This mixture forms the base of your batter and helps incorporate air for a lighter texture. Beating well ensures the sugar dissolves and the eggs emulsify with the oil, which contributes to a tender crumb.",
+            "timing": "3-5 minutes",
+            "doneness_cue": "Mixture is smooth, pale, and slightly thickened."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the sour cream and lemon juice to the wet mixture and stir gently until combined. The sour cream adds moisture and a slight tang that balances the sweetness, while the lemon juice brightens the flavor. Mixing gently here prevents overworking the batter, which could make the bread dense.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter is homogenous with no streaks of sour cream or lemon juice."
+        },
+        {
+            "step": 5,
+            "instruction": "Fold the dry ingredients into the wet ingredients carefully, mixing just until no flour streaks remain. Overmixing can develop gluten and make the bread tough, so be gentle and stop as soon as combined. The batter should be thick but pourable.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth with no visible flour pockets but not overly mixed."
+        },
+        {
+            "step": 6,
+            "instruction": "Grate the zucchini finely, then place it in a clean kitchen towel and squeeze out excess moisture. This step prevents the bread from becoming soggy while keeping the zucchini’s fresh flavor and texture. Fold the zucchini into the batter evenly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Zucchini is evenly distributed without clumps or watery spots."
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into the prepared loaf pan and spread it evenly. Tap the pan gently on the counter to release any large air bubbles. This helps the bread bake evenly and prevents large holes inside.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter is level and smooth on top with no large air pockets."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake for 50-60 minutes, or until a toothpick inserted into the center comes out clean or with a few moist crumbs. Baking low and slow allows the loaf to cook through without drying out. If the top browns too quickly, tent with foil halfway through baking.",
+            "timing": "50-60 minutes",
+            "doneness_cue": "Loaf is golden brown on top and toothpick test is clean."
+        },
+        {
+            "step": 9,
+            "instruction": "Let the bread cool in the pan for 15 minutes, then transfer to a wire rack to cool completely. Cooling allows the crumb to set and prevents it from becoming gummy. Once cooled, you can optionally drizzle a simple lemon glaze for extra brightness.",
+            "timing": "30 minutes",
+            "doneness_cue": "Bread is fully cooled and firm enough to slice cleanly."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Lemon Zucchini Bread Stays So Moist and Flavorful",
+        "content": "<p>The key to this lemon zucchini bread's moist texture is the combination of sour cream and fresh zucchini. Sour cream adds fat and acidity, which tenderizes the gluten in the flour, resulting in a softer crumb. It also adds moisture without making the batter too wet or dense, which can happen if you rely solely on oil or butter. The acidity from the sour cream also reacts with the baking soda to create a light, airy rise.</p><p>Fresh zucchini contributes moisture and a subtle earthy flavor. The technique of squeezing out excess water from the grated zucchini prevents the bread from becoming soggy, ensuring the crumb remains tender but not wet. The lemon zest and juice add bright citrus notes that cut through the richness, balancing the flavors perfectly.</p><p>The baking temperature and time are carefully chosen to allow the loaf to cook through evenly without drying out the edges. Baking at 350°F (175°C) ensures a golden crust while maintaining a moist interior. The use of both baking soda and baking powder gives the bread a balanced rise, combining immediate leavening with sustained lift.</p><p>Finally, gentle mixing prevents overdeveloping gluten, which could make the bread tough. Folding ingredients just until combined keeps the crumb light and tender. These deliberate choices in ingredients and technique come together to create a loaf that's moist, flavorful, and perfectly textured every time.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "All-purpose flour provides the right balance of protein for structure without making the bread too dense. It’s versatile and widely available, making it ideal for quick breads. Using cake flour would produce a softer crumb but less structure, while bread flour might make it chewy.",
+            "sour cream": "Sour cream adds moisture, fat, and acidity, which tenderizes the crumb and enhances flavor. It also reacts with baking soda to help the bread rise. Use full-fat sour cream for best results; low-fat versions may yield a drier texture.",
+            "zucchini": "Fresh zucchini should be grated finely and excess water squeezed out to avoid sogginess. The zucchini adds natural moisture and subtle sweetness. Using frozen zucchini is possible but requires thorough thawing and draining.",
+            "lemon zest and juice": "Fresh lemon zest contains essential oils that provide bright, aromatic flavor, while lemon juice adds acidity that balances sweetness. Avoid bottled lemon juice for best freshness and flavor.",
+            "baking soda and baking powder": "Baking soda reacts with the acidity from sour cream and lemon juice to create immediate lift, while baking powder provides a slower, sustained rise. The combination ensures a light, tender crumb."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze excess moisture from grated zucchini before adding to the batter.",
+            "reason": "Removing excess water prevents the bread from becoming soggy and ensures the crumb has the right texture. Too much moisture can cause the bread to collapse or bake unevenly."
+        },
+        {
+            "tip": "Use fresh lemon zest and juice rather than bottled for the best flavor.",
+            "reason": "Fresh lemon zest contains aromatic oils that give a bright, fresh flavor that bottled juice lacks. The acidity in fresh lemon juice also reacts better with baking soda to leaven the bread."
+        },
+        {
+            "tip": "Mix the batter just until the dry ingredients are incorporated.",
+            "reason": "Overmixing develops gluten, which can make the bread tough and dense. Gentle folding keeps the crumb tender and light."
+        },
+        {
+            "tip": "Bake the bread in the center of the oven for even heat distribution.",
+            "reason": "Placing the loaf in the center rack ensures even baking, preventing the edges from overcooking while the center remains underdone."
+        },
+        {
+            "tip": "Tent the bread with foil if it browns too quickly during baking.",
+            "reason": "Foil protects the crust from burning while allowing the interior to finish baking, ensuring a moist crumb without a burnt top."
+        },
+        {
+            "tip": "Allow the bread to cool completely before slicing.",
+            "reason": "Cooling lets the crumb set firmly, making slicing cleaner and preventing the bread from crumbling or becoming gummy."
+        },
+        {
+            "tip": "Use a serrated knife to slice the bread gently.",
+            "reason": "A serrated knife cuts through the crust without compressing the soft crumb, preserving the bread's texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing out zucchini moisture",
+            "why_it_happens": "Many cooks underestimate how much water zucchini holds, leading to soggy batter and dense bread.",
+            "fix": "Grate zucchini finely, then wrap in a clean towel and squeeze firmly to remove as much liquid as possible before folding into the batter."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "In a rush, it’s tempting to mix thoroughly, but this develops gluten and toughens the bread.",
+            "fix": "Mix just until the flour disappears; it’s okay if the batter looks slightly lumpy."
+        },
+        {
+            "mistake": "Using old baking soda or powder",
+            "why_it_happens": "Expired leavening agents lose potency, resulting in flat or dense bread.",
+            "fix": "Test baking soda by mixing a small amount with vinegar—if it bubbles vigorously, it’s fresh. Replace old baking powder every 6 months."
+        },
+        {
+            "mistake": "Baking at too high a temperature",
+            "why_it_happens": "Higher temps brown the crust before the inside cooks through.",
+            "fix": "Bake at 350°F (175°C) and tent with foil if browning too fast."
+        },
+        {
+            "mistake": "Not allowing bread to cool before slicing",
+            "why_it_happens": "Hot bread is fragile and can crumble or tear.",
+            "fix": "Cool in pan 15 minutes, then on wire rack completely before slicing."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Lemon Zucchini Bread",
+            "description": "Swap all-purpose flour for a gluten-free blend designed for baking. The texture will be slightly different—more crumbly but still moist thanks to the sour cream and zucchini. Add 1/2 teaspoon xanthan gum if your blend doesn’t contain it to help bind.",
+            "technical_note": "Gluten-free flours absorb moisture differently; you may need to adjust sour cream slightly to keep batter consistency."
+        },
+        {
+            "name": "Lemon Poppy Seed Zucchini Bread",
+            "description": "Add 2 tablespoons of poppy seeds to the batter for a delightful crunch and subtle nutty flavor. This variation pairs beautifully with the lemon and adds visual interest.",
+            "technical_note": "Fold poppy seeds in with the zucchini to distribute evenly without overmixing."
+        },
+        {
+            "name": "Honey-Sweetened Lemon Zucchini Bread",
+            "description": "Replace granulated sugar with 3/4 cup honey for a natural sweetness and moist crumb. Reduce the oil by 1-2 tablespoons to compensate for honey’s liquid content.",
+            "technical_note": "Honey browns faster; check bread a few minutes earlier to prevent overbaking."
+        },
+        {
+            "name": "Lemon Walnut Zucchini Bread",
+            "description": "Stir in 1/2 cup chopped toasted walnuts for added texture and a nutty depth that complements the lemon and zucchini perfectly.",
+            "technical_note": "Add nuts last to avoid overmixing and distribute evenly."
+        },
+        {
+            "name": "Vegan Lemon Zucchini Bread",
+            "description": "Use flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and substitute sour cream with vegan yogurt. The texture will be slightly denser but still moist and flavorful.",
+            "technical_note": "Allow flax eggs to gel fully before mixing; baking times may increase slightly."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "12g",
+        "fiber_grams": "2g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the cooled lemon zucchini bread wrapped tightly in plastic wrap or in an airtight container at room temperature for up to 2 days. Avoid leaving it uncovered to prevent drying out.",
+        "refrigerator": "Keep wrapped in an airtight container in the fridge for up to 5 days. The bread may firm up and lose some moisture, so warming slices slightly before serving helps restore softness.",
+        "freezer": "Wrap the loaf tightly in plastic wrap and then foil, or slice and freeze in individual portions in airtight bags for up to 3 months. Thaw overnight in the fridge or at room temperature before reheating.",
+        "reheating": "Warm slices gently in the microwave for 15-20 seconds or in a toaster oven at 300°F for 5-7 minutes. Avoid overheating which can dry out the bread. Adding a small pat of butter or a light drizzle of honey enhances flavor and moisture.",
+        "make_ahead_strategy": "You can grate the zucchini and prepare the batter 1 day ahead, storing the batter covered in the fridge. Bake fresh the next day for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this recipe?",
+            "answer": "Yes, but be sure to thaw it completely and squeeze out as much water as possible before adding to the batter. Excess moisture can make the bread soggy and affect baking."
+        },
+        {
+            "question": "Why is my zucchini bread dry?",
+            "answer": "Dry bread often results from overbaking, not enough fat or moisture, or overmixing the batter. Make sure to measure ingredients carefully, don’t overmix, and check the bread a few minutes before the recommended baking time."
+        },
+        {
+            "question": "Can I substitute sour cream with yogurt?",
+            "answer": "Yes, plain full-fat yogurt can be used as a substitute for sour cream in equal amounts. It provides similar moisture and acidity, keeping the bread tender."
+        },
+        {
+            "question": "How do I know when the bread is done?",
+            "answer": "Insert a toothpick into the center; it should come out clean or with a few moist crumbs but no wet batter. The top should be golden brown and spring back lightly when pressed."
+        },
+        {
+            "question": "Can I make this bread dairy-free?",
+            "answer": "Yes, substitute sour cream with a dairy-free yogurt or coconut cream and use a plant-based oil. The texture may vary slightly but will still be delicious."
+        },
+        {
+            "question": "What’s the best way to store leftover zucchini bread?",
+            "answer": "Wrap tightly in plastic wrap or place in an airtight container at room temperature for 2 days, or refrigerate for up to 5 days. For longer storage, freeze slices wrapped individually."
+        },
+        {
+            "question": "Can I add nuts or seeds to this bread?",
+            "answer": "Absolutely! Chopped walnuts, pecans, or poppy seeds add great texture and flavor. Fold them in gently at the end of mixing to avoid overworking the batter."
+        },
+        {
+            "question": "Is it necessary to zest the lemon, or can I just use juice?",
+            "answer": "Zest contains essential oils that provide bright citrus aroma and flavor you won’t get from juice alone. For best flavor, use both zest and juice."
+        }
+    ],
+    "conclusion": "I hope you try this lemon zucchini bread with sour cream soon—it’s become a favorite in my kitchen for good reason! Let me know how it turns out and if you add your own twist.",
+    "seo": {
+        "primary_keyword": "lemon zucchini bread with sour cream",
+        "secondary_keywords": [
+            "moist zucchini bread recipe",
+            "easy lemon zucchini bread",
+            "how to make zucchini bread with sour cream",
+            "best lemon zucchini bread recipe",
+            "quick zucchini bread recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "moist zucchini bread tips",
+                "anchor": "moist-zucchini-bread-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-05 23:10:22",
+        "title_seed": "Lemon Zucchini Bread With Sour Cream"
+    },
+    "author_id": "author_001",
+    "id": "post_1785971422_121",
+    "slug": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves",
+    "uniqueSlug": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_2.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_3.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_4.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Lemon Zucchini Bread With Sour Cream Taste So Moist?"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_5.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Lemon Zucchini Bread With Sour Cream Perfect"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_8.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Lemon Zucchini Bread With Sour Cream Taste So Moist?"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_7.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Zucchini Bread? This Lemon Version With Sour Cream Fixes It"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_9.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Lemon Zucchini Bread With Sour Cream Taste So Moist?"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_6.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep Lemon Zucchini Bread With Sour Cream for Busy Bakers"
+        }
+    ],
+    "image": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images/easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+    "image_dir": "easy-lemon-zucchini-bread-with-sour-cream-for-moist-flavorful-loaves/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-06T00:31:52+01:00",
+    "updatedAt": "2026-08-06T00:31:52+01:00",
+    "has_reel": true
+}
