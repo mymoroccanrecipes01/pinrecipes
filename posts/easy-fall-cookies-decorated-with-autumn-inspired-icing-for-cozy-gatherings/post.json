@@ -1,0 +1,101 @@
+{
+    "title": "Easy Fall Cookies Decorated with Autumn-Inspired Icing for Cozy Gatherings",
+    "promptIMG": "Food photography: Fall Cookies Decorated, a rustic wooden plate piled with golden-brown sugar cookies shaped like leaves and pumpkins, topped with vibrant orange, red, and yellow icing details, natural soft window light illuminating the warm tones, kitchen counter softly blurred in the background, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred behind with a bright window casting gentle daylight, faint reflections on a wooden countertop. SUBJECT: an abundant stack of fall-themed sugar cookies shaped like leaves, pumpkins, and acorns, arranged on a rustic wooden plate filling most of the frame, front cookie sharply focused at a slight angle showcasing its smooth icing with intricate autumn designs in warm orange, red, and yellow hues, the rest fading softly into bokeh. DETAILS: glossy, smooth icing with slight shine, natural cookie texture visible around edges, small sprinkles of cinnamon sugar dusting the plate edges, crumbs scattered naturally. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors that pop, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no artificial lighting or over-smoothing, no steam or smoke.",
+        "img2": "SCENE: soft light blur behind with a marble-toned countertop and bright window daylight filtering in. SUBJECT: a close-up reveal shot of a single fall cookie cut in half, exposing a moist, tender crumb contrasted with the thick, glossy icing slowly melting at the edges, the two halves stacked slightly offset to show the interior texture and the vibrant autumn-colored icing on top. DETAILS: the crumb looks soft and slightly crumbly with a warm golden color, icing glistens with a wet shine, detailed leaf and pumpkin patterns visible, a light dusting of powdered sugar scattered below. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden-amber tones, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no dull or flat lighting, no CGI effects.",
+        "img3": "SCENE: warm dark wood tones softly blurred behind with a single warm side glow creating a cozy ambiance. SUBJECT: several decorated fall cookies arranged closely on a wooden board, topped generously with autumn-themed icing designs featuring swirling leaves and tiny dots of icing mimicking acorns, accompanied by a small bowl of cinnamon sugar for dipping. The front cookie is razor-sharp with a glossy shine on the icing, the rest softly fading into warm bokeh. DETAILS: intense wet glossy shine on icing surfaces, deep amber caramelized cookie edges, a light sprinkle of cinnamon sugar dusting the board and cookie creases, natural crumbs scattered around. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grading, rich saturated appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no washed-out colors, no artificial lighting."
+    },
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-06 23:12:17",
+        "title_seed": "Fall Cookies Decorated"
+    },
+    "author_id": "author_001",
+    "id": "post_1786057937_845",
+    "slug": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings",
+    "uniqueSlug": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_1.webp",
+            "relativePath": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_2.webp",
+            "relativePath": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_3.webp",
+            "relativePath": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_7.webp",
+            "relativePath": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Easy Fall Cookies Decorated with Autumn-Inspired Icing for Cozy Gatherings"
+        },
+        {
+            "fileName": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_4.webp",
+            "relativePath": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Easy Fall Cookies Decorated with Autumn-Inspired Icing for Cozy Gatherings"
+        },
+        {
+            "fileName": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_5.webp",
+            "relativePath": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "Easy Fall Cookies Decorated with Autumn-Inspired Icing for Cozy Gatherings"
+        },
+        {
+            "fileName": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_8.webp",
+            "relativePath": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Easy Fall Cookies Decorated with Autumn-Inspired Icing for Cozy Gatherings"
+        },
+        {
+            "fileName": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_6.webp",
+            "relativePath": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "Easy Fall Cookies Decorated with Autumn-Inspired Icing for Cozy Gatherings"
+        },
+        {
+            "fileName": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_9.webp",
+            "relativePath": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Easy Fall Cookies Decorated with Autumn-Inspired Icing for Cozy Gatherings"
+        }
+    ],
+    "image": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images/easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings_pinrecipes_image_1.webp",
+    "image_dir": "easy-fall-cookies-decorated-with-autumn-inspired-icing-for-cozy-gatherings/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-07T00:34:30+01:00",
+    "updatedAt": "2026-08-07T00:34:30+01:00",
+    "has_reel": true
+}

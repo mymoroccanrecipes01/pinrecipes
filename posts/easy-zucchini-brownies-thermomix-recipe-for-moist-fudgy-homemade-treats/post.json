@@ -1,0 +1,362 @@
+{
+    "title": "Easy Zucchini Brownies Thermomix Recipe for Moist, Fudgy, Homemade Treats",
+    "promptIMG": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm natural daylight filtering through a window, faint reflections on a wooden countertop. SUBJECT: a generous stack of rich, fudgy zucchini brownies in a rustic ceramic baking dish, the front piece sharply focused at a 30-degree angle showing the moist crumb and glossy chocolate surface with slight cracks, the rest softly fading into bokeh. DETAILS: deep chocolate glaze with a shiny, slightly cracked top, flecks of green zucchini visible in the crumb, a light dusting of powdered sugar and a few chocolate chips scattered on top. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated chocolate browns and fresh green hues, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no steam, no plastic textures, no over-smoothing.",
+        "img2": "SCENE: soft natural light from a nearby window casting gentle shadows on a marble-toned surface, blurred background. SUBJECT: the reveal shot of zucchini brownies cut in half with both halves facing the camera, showing the moist, dense interior with chocolate chips melting slightly and strands of zucchini visible, the gooey chocolate center slowly oozing as if just pulled apart. DETAILS: glossy, wet crumb with a rich chocolate sheen, caramelized edges with a slight shine, crumbs naturally scattered below, a few chocolate chips nestled in the interior. STYLE: ultra-photorealistic professional food photography, bright daylight with warm amber highlights, rich saturated colors; shallow macro depth of field; vertical 2:3. AVOID: no text, no people, no steam, no dull colors.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with a gentle side glow highlighting textures. SUBJECT: several pieces of zucchini brownies arranged close together in a rustic ceramic dish, topped with a light dusting of powdered sugar and a few scattered chopped walnuts, with a small bowl of fresh raspberries beside the dish as an accompaniment. DETAILS: intense glossy shine on the chocolate surface, deep caramelized edges, natural crumbs scattered on the plate, fresh vibrant red raspberries adding color contrast. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich saturated appetizing tones; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no logos, no steam."
+    },
+    "description": "These zucchini brownies made in the Thermomix are surprisingly moist and fudgy, thanks to the hidden zucchini that adds natural moisture without overpowering the chocolate flavor. Perfect for an easy homemade dessert or a sweet snack anytime!",
+    "hashtags": "#zucchinibrownies #thermomixrecipes #easybaking",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Zucchini Make These Thermomix Brownies So Moist?",
+            "description": "Discover the secret ingredient that transforms these brownies into a fudgy delight! 🥒🍫 Perfect for sneaking veggies into dessert. Save this for your next baking day! #zucchinibrownies #thermomixbaking #moistbrownies"
+        },
+        {
+            "title": "The One Trick to Perfect Zucchini Brownies in Your Thermomix",
+            "description": "This simple Thermomix technique guarantees moist, rich brownies every time. No more dry desserts! Tap to get the full recipe and impress your family. #easybaking #zucchinibrownies #thermomixrecipes"
+        },
+        {
+            "title": "15-Minute Prep Zucchini Brownies for Quick Homemade Treats",
+            "description": "Whip up these delicious zucchini brownies fast with your Thermomix. Perfect for busy days when you want a homemade sweet fix! 🍫✨ Save this recipe for later. #quickdesserts #zucchinibrownies #thermomixbaking"
+        },
+        {
+            "title": "Still Making Dry Brownies? Try This Zucchini Thermomix Recipe",
+            "description": "Say goodbye to crumbly brownies! These zucchini brownies come out moist and fudgy every time thanks to the Thermomix magic. Try it tonight! #moistbrownies #zucchinibrownies #thermomixrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "200 grams zucchini, grated and squeezed dry",
+        "150 grams dark chocolate, chopped",
+        "100 grams unsalted butter",
+        "200 grams granulated sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "100 grams all-purpose flour",
+        "30 grams cocoa powder",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "Optional: 50 grams chopped walnuts or chocolate chips"
+    ],
+    "yield": "Approximately 8 servings",
+    "introduction": "I first stumbled upon zucchini brownies years ago when trying to find a way to sneak veggies into desserts for my kids. At first, I was skeptical—how could a vegetable possibly make brownies taste better? But after a few tries, especially using my Thermomix for easy mixing and perfect texture, I was hooked. This recipe is moist, fudgy, and just the right balance of chocolatey goodness with a subtle hint of zucchini that no one will suspect. The Thermomix does a fantastic job blending everything smoothly, so you get a consistent batter that bakes up beautifully every time. I also learned that squeezing out the excess moisture from the zucchini is key to avoid soggy brownies. These brownies are perfect for family gatherings or just a cozy night in. I love that they feel indulgent but have a little veggie boost too. Plus, the recipe is so simple and quick, it’s become a go-to for me whenever I want a reliable, delicious treat without fuss.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 175°C (350°F) and line a square baking pan with parchment paper to prevent sticking. This step ensures even baking and easy cleanup. If you skip the parchment, brownies might stick and break apart when removing.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully preheated and pan prepared with parchment paper smoothly fitted inside."
+        },
+        {
+            "step": 2,
+            "instruction": "Grate the zucchini finely and then place it in a clean kitchen towel or cheesecloth. Squeeze firmly to remove as much moisture as possible. This is crucial because excess water can make your brownies soggy and affect the baking time.",
+            "timing": "5 minutes",
+            "doneness_cue": "Zucchini feels damp but not dripping wet; about half the original moisture is removed."
+        },
+        {
+            "step": 3,
+            "instruction": "Melt the butter and chopped dark chocolate together in the Thermomix at 50°C for 3 minutes on speed 2. This gentle melting prevents burning the chocolate and ensures a smooth, glossy mixture that forms the base of your brownies.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture is fully melted, smooth, and shiny without lumps."
+        },
+        {
+            "step": 4,
+            "instruction": "Add sugar to the chocolate and butter mixture and mix for 30 seconds on speed 3 until combined. This step helps dissolve the sugar slightly, giving your brownies a better texture and sweetness distribution.",
+            "timing": "30 seconds",
+            "doneness_cue": "Sugar is incorporated evenly, mixture looks glossy."
+        },
+        {
+            "step": 5,
+            "instruction": "Add eggs one at a time through the lid opening while mixing on speed 4 for 20 seconds each, then add vanilla extract and mix for another 10 seconds. Adding eggs slowly helps emulsify the batter, creating a rich and tender crumb.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter is smooth, thick, and slightly glossy."
+        },
+        {
+            "step": 6,
+            "instruction": "In a separate bowl, sift together the flour, cocoa powder, baking powder, and salt. Sifting aerates the dry ingredients and removes lumps, which results in a lighter, more even texture in your brownies.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry mixture is light, lump-free, and well combined."
+        },
+        {
+            "step": 7,
+            "instruction": "Add the dry ingredients to the Thermomix bowl and mix on speed 3 for 15 seconds. Then fold in the grated zucchini and optional walnuts or chocolate chips with a spatula. Overmixing can develop gluten and make brownies tough, so short mixing and gentle folding preserve a tender texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter is thick, uniform, with visible zucchini strands and mix-ins evenly distributed."
+        },
+        {
+            "step": 8,
+            "instruction": "Pour the batter into the prepared pan and smooth the top with a spatula. Even spreading ensures uniform baking and a pretty final appearance. Tap the pan gently on the counter to release any air bubbles.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter surface is level and smooth, no large air pockets."
+        },
+        {
+            "step": 9,
+            "instruction": "Bake in the preheated oven for 25-30 minutes. Start checking at 25 minutes by inserting a toothpick in the center; it should come out with a few moist crumbs but no raw batter. Overbaking will dry out the brownies, so watch carefully.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Edges are set and shiny; center is moist but not wet; toothpick test passes."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Zucchini Brownies Turn Out Perfect Every Time",
+        "content": "<p>The secret to these zucchini brownies' success lies in balancing moisture and structure. Zucchini adds natural moisture and a subtle earthiness that enhances the chocolate flavor without making the brownies taste like vegetables. The key is squeezing out excess water from the zucchini to avoid a soggy texture. This ensures the brownies remain dense and fudgy rather than cake-like or wet.</p><p>Using the Thermomix to melt the chocolate and butter together gently at a controlled temperature prevents scorching and creates a smooth, glossy base that helps bind the batter. Incorporating eggs gradually emulsifies the mixture, trapping air and providing lift, while folding in dry ingredients briefly keeps the crumb tender by limiting gluten development.</p><p>The cocoa powder and dark chocolate provide deep chocolate flavor and contribute to the rich color and fudginess. Baking powder is used sparingly to give just enough rise without making the brownies cakey. The baking time is carefully timed to achieve a moist center with set edges, a hallmark of perfect brownies.</p><p>Optional mix-ins like walnuts add texture and a nutty contrast, while the vanilla extract rounds out flavors. Overall, this recipe combines careful moisture control, gentle mixing, and precise baking to deliver consistently delicious zucchini brownies that feel indulgent yet slightly healthier.</p>",
+        "ingredient_notes": {
+            "zucchini": "Choose fresh, medium-sized zucchinis with firm skin and no soft spots. The zucchini’s moisture content can vary, so always squeeze out excess water after grating to maintain the right batter consistency. Zucchini adds moisture and subtle flavor without overpowering the chocolate.",
+            "dark chocolate": "Use good quality dark chocolate with at least 60-70% cocoa for rich flavor and smooth melting. The chocolate provides depth and fudginess. Avoid low-quality chocolate that may become grainy or bitter when melted.",
+            "butter": "Unsalted butter is preferred for control over salt content. Butter adds richness and helps create a tender crumb. Melting it gently with chocolate ensures even distribution without separation.",
+            "granulated sugar": "Regular granulated sugar dissolves well in the warm chocolate mixture, helping to create a smooth batter and balanced sweetness. Avoid coarse sugars that don’t dissolve fully.",
+            "all-purpose flour": "All-purpose flour provides the structure needed to hold the brownies together. Sifting the flour with cocoa powder prevents lumps and aerates the mixture for a lighter texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze the zucchini thoroughly to remove excess moisture before adding to the batter.",
+            "reason": "Excess water in the zucchini can make brownies soggy and alter baking time. Removing moisture ensures a fudgy but set texture rather than a wet, underbaked one."
+        },
+        {
+            "tip": "Melt chocolate and butter gently at low temperature in the Thermomix to avoid burning.",
+            "reason": "Chocolate burns easily if overheated, which creates a bitter taste and grainy texture. Slow melting preserves smoothness and flavor."
+        },
+        {
+            "tip": "Fold in dry ingredients and zucchini gently to avoid overmixing.",
+            "reason": "Overmixing develops gluten, resulting in tough brownies. Gentle folding keeps the crumb tender and moist."
+        },
+        {
+            "tip": "Check brownies a few minutes before the minimum baking time to avoid overbaking.",
+            "reason": "Brownies continue cooking after removal from the oven; pulling them out when just set keeps them moist and fudgy."
+        },
+        {
+            "tip": "Use parchment paper to line the baking pan for easy removal.",
+            "reason": "This prevents sticking and helps keep the edges intact when lifting brownies out."
+        },
+        {
+            "tip": "Add a pinch of salt to enhance chocolate flavor.",
+            "reason": "Salt balances sweetness and deepens chocolate notes, making the brownies taste richer."
+        },
+        {
+            "tip": "Let brownies cool completely before cutting.",
+            "reason": "Cooling allows the structure to set, preventing crumbly or falling apart slices."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not removing enough moisture from zucchini",
+            "why_it_happens": "Many assume the zucchini’s moisture won’t affect the batter, but it can cause soggy brownies that don’t bake properly.",
+            "fix": "After grating, use a clean towel or cheesecloth to squeeze out as much water as possible. This step is crucial for the right texture."
+        },
+        {
+            "mistake": "Overbaking the brownies",
+            "why_it_happens": "It’s tempting to bake until a toothpick comes out fully clean, but that dries them out.",
+            "fix": "Remove brownies when toothpick has moist crumbs attached. They will firm up as they cool."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour",
+            "why_it_happens": "Mixing too long develops gluten, making brownies tough.",
+            "fix": "Mix just until dry ingredients are incorporated, then fold in zucchini gently."
+        },
+        {
+            "mistake": "Melting chocolate at too high a temperature",
+            "why_it_happens": "Rushing the melting step can scorch chocolate, ruining flavor and texture.",
+            "fix": "Melt chocolate and butter slowly at low temperature, stirring frequently."
+        },
+        {
+            "mistake": "Using low-quality chocolate",
+            "why_it_happens": "Poor chocolate can taste bitter or waxy and won’t melt smoothly.",
+            "fix": "Choose good quality dark chocolate with a high cocoa percentage for best results."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nut-Free Zucchini Brownies",
+            "description": "Simply omit walnuts or any nuts from the recipe to make it nut-free. You can add extra chocolate chips or dried fruit for texture instead. The brownies stay just as moist and fudgy without nuts.",
+            "technical_note": "No changes in baking time needed; just fold in alternate mix-ins gently."
+        },
+        {
+            "name": "Vegan Zucchini Brownies",
+            "description": "Replace eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg) and use dairy-free butter or coconut oil. Use dairy-free dark chocolate to keep it fully vegan. The texture will be slightly different but still delicious.",
+            "technical_note": "Baking time may increase by a few minutes; watch for doneness."
+        },
+        {
+            "name": "Spiced Zucchini Brownies",
+            "description": "Add 1 tsp cinnamon and a pinch of nutmeg to the dry ingredients for a warm, cozy twist. This adds subtle spice notes that complement the chocolate and zucchini beautifully.",
+            "technical_note": "No baking time adjustment needed; mix spices with flour before adding."
+        },
+        {
+            "name": "Gluten-Free Zucchini Brownies",
+            "description": "Swap all-purpose flour for a gluten-free flour blend with xanthan gum. This allows those with gluten sensitivities to enjoy the brownies without sacrificing texture.",
+            "technical_note": "Baking time may vary slightly; check with toothpick test."
+        },
+        {
+            "name": "Peanut Butter Swirl Zucchini Brownies",
+            "description": "Before baking, dollop peanut butter on top of the batter and swirl gently with a knife. This adds a rich, nutty layer that pairs wonderfully with chocolate and zucchini.",
+            "technical_note": "Swirling should be gentle to avoid overmixing the batter."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "14g",
+        "fiber_grams": "3g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store leftover zucchini brownies in an airtight container at room temperature for up to 2 days. Keep them away from direct sunlight or heat to maintain moisture and texture.",
+        "refrigerator": "Refrigerate brownies in an airtight container for up to 5 days. They may firm up in the fridge; bring to room temperature before serving or warm briefly in the microwave for a softer texture.",
+        "freezer": "Freeze brownies wrapped tightly in plastic wrap and placed in a freezer-safe bag for up to 3 months. Thaw overnight in the refrigerator or at room temperature. Reheat gently to restore softness.",
+        "reheating": "Warm brownies in the microwave for 15-20 seconds or in a low oven (150°C/300°F) for 5-7 minutes. Adding a small dab of butter or a few chocolate chips on top before warming can enhance moistness.",
+        "make_ahead_strategy": "You can prepare the batter 1 day ahead and keep it covered in the refrigerator. Bring to room temperature before baking. Brownies can also be baked in advance and stored as described."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this recipe?",
+            "answer": "Frozen zucchini can be used if fully thawed and squeezed dry, but fresh zucchini is preferred for best texture. Frozen zucchini often contains more water, so extra squeezing is essential to avoid soggy brownies."
+        },
+        {
+            "question": "How do I know when the brownies are done baking?",
+            "answer": "Insert a toothpick into the center around 25 minutes. It should come out with moist crumbs but no wet batter. The edges will be set and shiny. Overbaking will dry them out, so watch closely."
+        },
+        {
+            "question": "Can I substitute the butter with oil?",
+            "answer": "You can replace butter with an equal amount of neutral oil like vegetable or canola oil. This will change the flavor slightly and may make the brownies a bit denser, but they will still be moist."
+        },
+        {
+            "question": "What if I don’t have a Thermomix?",
+            "answer": "You can melt chocolate and butter in a microwave or double boiler, then mix ingredients by hand or with a mixer. Just be careful not to overmix once dry ingredients are added."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips?",
+            "answer": "Absolutely! Fold in chopped walnuts, pecans, or chocolate chips for extra texture and flavor. Add about 50 grams to the batter before baking."
+        },
+        {
+            "question": "How do I store leftover zucchini brownies?",
+            "answer": "Store in an airtight container at room temperature for 2 days or in the fridge for up to 5 days. For longer storage, freeze them wrapped tightly for up to 3 months."
+        },
+        {
+            "question": "Can I make these brownies vegan?",
+            "answer": "Yes! Substitute eggs with flax eggs and use dairy-free butter and chocolate. Baking time may vary slightly, so check doneness carefully."
+        },
+        {
+            "question": "Will the zucchini flavor be noticeable?",
+            "answer": "No, the zucchini adds moisture and a subtle earthiness but does not taste like vegetables. It’s a great way to sneak in extra greens without affecting the chocolatey flavor."
+        }
+    ],
+    "conclusion": "I hope you enjoy making these zucchini brownies as much as I do! They’re a perfect blend of healthy and indulgent—please share how yours turn out.",
+    "seo": {
+        "primary_keyword": "zucchini brownies thermomix",
+        "secondary_keywords": [
+            "easy zucchini brownies",
+            "moist zucchini brownies",
+            "how to make zucchini brownies thermomix",
+            "best zucchini brownies recipe",
+            "homemade zucchini brownies"
+        ],
+        "internal_links": [
+            {
+                "text": "Thermomix Chocolate Cake Recipe",
+                "anchor": "thermomix-chocolate-cake"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-06 23:18:55",
+        "title_seed": "Zucchini Brownies Thermomix"
+    },
+    "author_id": "author_001",
+    "id": "post_1786058335_726",
+    "slug": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats",
+    "uniqueSlug": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_1.webp",
+            "relativePath": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_2.webp",
+            "relativePath": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_3.webp",
+            "relativePath": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_7.webp",
+            "relativePath": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Brownies? Try This Zucchini Thermomix Recipe"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_4.webp",
+            "relativePath": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Zucchini Make These Thermomix Brownies So Moist?"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_9.webp",
+            "relativePath": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Zucchini Make These Thermomix Brownies So Moist?"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_8.webp",
+            "relativePath": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Zucchini Make These Thermomix Brownies So Moist?"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_5.webp",
+            "relativePath": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick to Perfect Zucchini Brownies in Your Thermomix"
+        },
+        {
+            "fileName": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_6.webp",
+            "relativePath": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep Zucchini Brownies for Quick Homemade Treats"
+        }
+    ],
+    "image": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images/easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats_pinrecipes_image_1.webp",
+    "image_dir": "easy-zucchini-brownies-thermomix-recipe-for-moist-fudgy-homemade-treats/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-07T00:34:30+01:00",
+    "updatedAt": "2026-08-07T00:34:30+01:00",
+    "has_reel": true
+}
