@@ -1,0 +1,363 @@
+{
+    "title": "Easy Fall Dinner Ideas for Kids That Are Cozy, Healthy, and Delicious",
+    "promptIMG": "Food photography: fall dinner ideas for kids, colorful plates with roasted veggies, cozy warm lighting, kitchen counter setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred home kitchen with warm daylight filtering through a window, faint reflections on a wooden countertop. SUBJECT: a generous serving of a colorful fall dinner for kids on a child-friendly ceramic plate, overflowing with roasted sweet potatoes, tender turkey meatballs glazed with a shiny sauce, and bright green steamed broccoli. The front portion is sharply focused at a 30-degree angle showing the textures of the crispy sweet potato edges and juicy meatballs, with the rest fading softly into bokeh. DETAILS: caramelized edges on the sweet potatoes with a wet glossy glaze on the meatballs, sprinkled with finely chopped parsley, crumbs scattered naturally on the plate. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors that pop with natural vibrancy, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no artificial lighting, no dull colors or plastic textures.",
+        "img2": "SCENE: a soft light blur background of a warm wood surface with bright daylight from a nearby window. SUBJECT: the reveal shot of the fall dinner for kids showing the interior of a halved turkey meatball with juicy, tender texture glistening, placed next to a scoop of mashed sweet potatoes with a melting pat of butter slowly oozing. The opened meatball fills 90% of the frame, razor sharp at the center with visible herbs and moist crumb. DETAILS: glossy sauce coating the meatball, caramelized edges of the sweet potatoes, crumbs and a light sprinkle of parsley on the surface. STYLE: ultra-photorealistic professional food photography, bright daylight with warm golden-amber hues, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no artificial elements, no dull colors.",
+        "img3": "SCENE: warm dark wood tones softly blurred with a single warm side glow highlighting the food. SUBJECT: several servings of the fall dinner for kids arranged on a rustic ceramic platter with roasted sweet potatoes, turkey meatballs topped with parsley, and steamed broccoli florets. The front piece is razor-sharp with a glistening sauce and buttery shine, the rest recedes into warm bokeh. DETAILS: deep amber caramelization on the sweet potatoes, wet glossy shine on the meatballs, a few crumbs scattered naturally, fresh herb sprinkles drifting into crevices. STYLE: ultra-photorealistic professional food photography, rich golden-amber warm color grading, highly saturated appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no dull colors."
+    },
+    "description": "This cozy fall dinner for kids is packed with healthy veggies and juicy turkey meatballs that even picky eaters love. The secret is roasting the sweet potatoes until crispy while keeping the meatballs tender. Perfect for chilly evenings!",
+    "hashtags": "#falldinnerforkids #familydinner #healthykidsmeals",
+    "board_name": "Comfort Food Dinners",
+    "pin_variations": [
+        {
+            "title": "Why Do Kids Love These Easy Fall Dinner Ideas So Much?",
+            "description": "Discover the secret behind these kid-friendly fall meals that combine cozy flavors with healthy ingredients. 🥔🍗 Perfect for busy parents looking for quick, nutritious dinners. Save this for your next family meal! #falldinnerforkids #easymeals #familydinner"
+        },
+        {
+            "title": "The One Trick That Makes Fall Dinner Ideas for Kids Irresistible",
+            "description": "A simple roasting technique gives these fall dinners a crispy, flavorful edge kids can’t resist. 🍠 Try it tonight for a cozy, healthy meal everyone will enjoy. Tap to get the full recipe! #healthykidsmeals #falldinnerforkids #comfortfood"
+        },
+        {
+            "title": "15-Minute Fall Dinner Ideas for Kids on Busy Weeknights",
+            "description": "Short on time? These quick fall dinners come together fast without sacrificing flavor or nutrition. 🥦 Perfect for hectic evenings when your family needs a warm, wholesome meal. Save this recipe now! #easymeals #falldinnerforkids #familydinner"
+        },
+        {
+            "title": "Still Struggling with Kid-Friendly Fall Dinners? Try This!",
+            "description": "Tired of picky eaters turning up their noses? This fall dinner recipe is a game changer with juicy turkey meatballs and sweet roasted veggies. 🍽️ Your kids will actually ask for seconds! Save for dinner inspiration. #falldinnerforkids #familyfriendly #healthykids"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb ground turkey",
+        "1 cup finely grated carrot",
+        "1/4 cup finely chopped onion",
+        "1/2 cup breadcrumbs",
+        "1 large egg",
+        "2 tsp olive oil",
+        "2 large sweet potatoes, peeled and cubed",
+        "1 head broccoli, cut into florets",
+        "Salt and pepper to taste",
+        "1/2 tsp garlic powder",
+        "Fresh parsley for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first started making this fall dinner for my kids a few years ago when I wanted something warm, comforting, and healthy for chilly nights. My kids can be picky, so I needed a meal that was both nutritious and easy to eat. This recipe combines juicy turkey meatballs with sweet roasted potatoes and simple steamed broccoli — all kid-approved! What makes this version special is roasting the sweet potatoes until they get those crispy edges while keeping the meatballs tender and flavorful. I also add grated carrot right into the meatballs for a subtle sweetness and extra nutrients. Plus, the garlic powder adds just enough cozy flavor without overpowering the dish. It’s a simple weeknight dinner that feels homemade and wholesome but comes together quickly. Whenever I serve this, my kids always ask for seconds, and I love that it’s packed with good-for-them ingredients. It’s a recipe I keep coming back to when I want a fuss-free, comforting fall meal that the whole family enjoys.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 400°F (200°C). Toss the cubed sweet potatoes with 1 teaspoon of olive oil, salt, pepper, and a pinch of garlic powder. Spread them evenly on a baking sheet lined with parchment paper. Roasting at this high temperature caramelizes the natural sugars in the sweet potatoes, giving them crispy edges and a tender inside. Make sure the cubes are in a single layer to roast evenly. This step usually takes about 25-30 minutes. Keep an eye on them so they don’t burn, and flip halfway through for even color.",
+            "timing": 30,
+            "doneness_cue": "Sweet potatoes should be golden brown on edges and soft inside when pierced with a fork."
+        },
+        {
+            "step": 2,
+            "instruction": "While the sweet potatoes roast, prepare the turkey meatballs. In a large bowl, combine the ground turkey, grated carrot, chopped onion, breadcrumbs, egg, 1 teaspoon olive oil, salt, pepper, and garlic powder. Mix gently but thoroughly until all ingredients are evenly incorporated. Avoid overmixing to keep the meatballs tender. Form the mixture into small 1-inch meatballs and place them on a separate baking sheet lined with parchment paper. These will cook quickly and stay juicy inside.",
+            "timing": 15,
+            "doneness_cue": "Meatballs should be firm but springy to the touch and reach an internal temperature of 165°F (74°C) when done."
+        },
+        {
+            "step": 3,
+            "instruction": "Place the meatballs in the oven alongside the sweet potatoes for about 15-20 minutes. Check halfway through and turn the meatballs to brown evenly. Keeping the oven temperature consistent ensures the meatballs cook through without drying out. The timing overlaps perfectly with the sweet potatoes finishing up.",
+            "timing": 20,
+            "doneness_cue": "Meatballs are cooked through when no longer pink inside and juices run clear."
+        },
+        {
+            "step": 4,
+            "instruction": "While the meatballs and sweet potatoes finish roasting, steam the broccoli florets. Bring about an inch of water to a boil in a pot with a steamer basket. Place the broccoli in the basket, cover, and steam for 4-5 minutes until bright green and just tender. Steaming preserves the vibrant color and nutrients while keeping the broccoli crisp-tender — perfect for kids.",
+            "timing": 5,
+            "doneness_cue": "Broccoli should be bright green and easily pierced with a fork but not mushy."
+        },
+        {
+            "step": 5,
+            "instruction": "Once everything is cooked, arrange the roasted sweet potatoes, turkey meatballs, and steamed broccoli on plates. Garnish with freshly chopped parsley for a pop of color and fresh flavor. The parsley adds a subtle brightness that complements the savory meatballs and sweet potatoes.",
+            "timing": 5,
+            "doneness_cue": "Plates should look colorful and inviting with a nice balance of textures."
+        },
+        {
+            "step": 6,
+            "instruction": "If desired, drizzle a small amount of olive oil or a light honey mustard sauce over the meatballs to add moisture and a touch of sweetness. This extra step can help picky eaters enjoy the meatballs even more. Just a little goes a long way to enhance flavor without overpowering.",
+            "timing": 2,
+            "doneness_cue": "Sauce should lightly coat the meatballs without pooling on the plate."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the meal warm. This dish pairs well with a simple fruit salad or applesauce for a balanced fall dinner. The combination of textures — crispy sweet potatoes, juicy meatballs, and tender broccoli — makes it appealing for kids and adults alike.",
+            "timing": 0,
+            "doneness_cue": "All components should be warm and freshly cooked for best taste."
+        },
+        {
+            "step": 8,
+            "instruction": "Clean up any spills or crumbs immediately to keep your kitchen tidy and safe. Leftover sweet potatoes and meatballs reheat well in the oven or microwave, making this a great meal prep option for busy weeknights.",
+            "timing": 0,
+            "doneness_cue": "Kitchen should be clean and organized after cooking."
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your cozy fall dinner with your family! Encourage kids to try a bit of everything and talk about the seasonal flavors. Making mealtime fun and relaxed helps build healthy eating habits.",
+            "timing": 0,
+            "doneness_cue": "Family members enjoying their meal with smiles and satisfaction."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Fall Dinner Works So Well for Kids",
+        "content": "<p>This recipe succeeds because it balances flavor, texture, and nutrition in a way that appeals to children’s palates. Roasting sweet potatoes at a high temperature triggers the Maillard reaction, which caramelizes the natural sugars and creates crispy, flavorful edges. This contrast between crispy exterior and soft interior makes the sweet potatoes more interesting and enjoyable to eat.</p><p>The turkey meatballs stay juicy because the recipe includes grated carrot and onion, which add moisture and subtle sweetness. The breadcrumbs and egg bind the mixture without making it dense. Cooking the meatballs at a steady oven temperature ensures they cook evenly and reach a safe internal temperature without drying out.</p><p>Steaming broccoli preserves its bright green color and nutrients while keeping it tender-crisp, which is generally more appealing to kids than mushy vegetables. The gentle steaming also helps retain the vegetable’s natural sweetness and crunch.</p><p>The addition of fresh parsley and a light glaze or drizzle adds layers of flavor and visual appeal, encouraging kids to try everything on their plate. The combination of these cooking techniques and ingredient choices creates a meal that’s both comforting and nutritious, perfect for busy families during the fall season.</p>",
+        "ingredient_notes": {
+            "ground turkey": "Choose lean ground turkey with about 93% lean meat for the best balance of moisture and flavor. Too lean can dry out, while fattier blends add juiciness but more calories. Ground turkey is mild, making it a kid-friendly protein that easily takes on added flavors.",
+            "sweet potatoes": "Select firm, unblemished sweet potatoes with smooth skin. Their natural sweetness intensifies when roasted, and their dense texture crisps nicely on the edges. Avoid overly large potatoes, which can be watery and take longer to cook evenly.",
+            "carrot": "Grated carrot adds moisture and subtle sweetness to the meatballs, helping keep them tender. Fresh, crisp carrots are best; avoid pre-shredded or wet-pack carrots that can add excess moisture and affect texture.",
+            "breadcrumbs": "Use plain, dry breadcrumbs to bind the meatballs without adding flavor that competes with the other ingredients. Fresh breadcrumbs can be used but may require adjusting the egg quantity for moisture balance.",
+            "broccoli": "Fresh broccoli with firm stalks and vibrant green florets is ideal. Steaming preserves nutrients and texture better than boiling, which can make it soggy and less appealing to kids."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the baking sheet when roasting sweet potatoes.",
+            "reason": "Overcrowding traps steam and prevents the potatoes from crisping properly. Spreading them out allows hot air to circulate, ensuring caramelization and crispy edges instead of soggy pieces."
+        },
+        {
+            "tip": "Mix turkey meatball ingredients gently but thoroughly.",
+            "reason": "Overmixing can develop the proteins too much, resulting in tough meatballs. Gentle mixing keeps the texture light and tender while ensuring all ingredients are evenly distributed."
+        },
+        {
+            "tip": "Use a meat thermometer to check meatball doneness.",
+            "reason": "Ground turkey must reach 165°F internally for safety. A thermometer prevents overcooking, which dries out the meatballs, and ensures juicy, perfectly cooked results."
+        },
+        {
+            "tip": "Steam broccoli just until bright green and tender-crisp.",
+            "reason": "Overcooking broccoli makes it mushy and dulls the flavor. Steaming preserves color, nutrients, and texture, making it more appealing, especially to kids sensitive to texture."
+        },
+        {
+            "tip": "Add a small pat of butter or drizzle of olive oil on sweet potatoes after roasting.",
+            "reason": "This adds richness and helps balance the natural sweetness with savory notes, enhancing flavor and mouthfeel, making the dish more satisfying."
+        },
+        {
+            "tip": "Prepare the meatball mixture ahead and refrigerate for 30 minutes before baking.",
+            "reason": "Chilling helps the meatballs hold their shape better during cooking and allows flavors to meld, resulting in a tastier and more cohesive texture."
+        },
+        {
+            "tip": "Garnish with fresh herbs like parsley for color and brightness.",
+            "reason": "Fresh herbs add visual appeal and a mild fresh flavor that complements the savory meatballs and sweet potatoes, encouraging kids to try more of their meal."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcrowding the baking sheet",
+            "why_it_happens": "Sometimes cooks try to save time by fitting all sweet potatoes or meatballs on one sheet, not realizing this traps steam and prevents proper roasting.",
+            "fix": "Use two baking sheets if needed, spreading pieces out so hot air circulates. This ensures caramelization and crispiness instead of steaming."
+        },
+        {
+            "mistake": "Overmixing the meatball mixture",
+            "why_it_happens": "In an effort to fully combine ingredients, some mix too vigorously, which tightens the proteins and makes meatballs tough.",
+            "fix": "Mix just until ingredients are combined. Use a gentle folding motion to keep the texture light and tender."
+        },
+        {
+            "mistake": "Cooking meatballs at too high temperature",
+            "why_it_happens": "Some believe higher heat cooks faster, but it can dry out the meatballs before they cook through.",
+            "fix": "Bake at a moderate 400°F to allow even cooking and juicy results. Use a thermometer to check doneness."
+        },
+        {
+            "mistake": "Boiling broccoli instead of steaming",
+            "why_it_happens": "Boiling is often quicker but can make broccoli mushy and dull in color, which kids dislike.",
+            "fix": "Steam broccoli just until tender-crisp to preserve bright color, nutrients, and texture."
+        },
+        {
+            "mistake": "Not seasoning the meatballs properly",
+            "why_it_happens": "Some shy away from seasoning thinking kids won’t like it, resulting in bland meatballs.",
+            "fix": "Use mild seasonings like garlic powder, salt, and pepper to enhance flavor without overpowering, making the dish more enjoyable."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Cheesy Turkey Meatballs",
+            "description": "Add 1/4 cup shredded mild cheddar or mozzarella cheese into the meatball mixture before baking. This gives a gooey, cheesy center that kids love and adds richness to the dish.",
+            "technical_note": "Cheese can make meatballs softer; avoid overmixing and bake until cheese melts but meatballs remain firm."
+        },
+        {
+            "name": "Sweet Potato Mash Instead of Roasted Cubes",
+            "description": "For a softer texture, boil sweet potatoes and mash with a little butter and cinnamon. This variation is great for younger kids who prefer smooth textures.",
+            "technical_note": "Boil until very tender and mash well; avoid over-sweetening to keep balance with savory meatballs."
+        },
+        {
+            "name": "Add Applesauce as a Side",
+            "description": "Serve the meal with a small bowl of unsweetened applesauce to add a fruity, fresh contrast. This can encourage kids to try new flavors alongside familiar ones.",
+            "technical_note": "Choose unsweetened applesauce to avoid excess sugar; serve chilled or room temperature."
+        },
+        {
+            "name": "Use Ground Chicken Instead of Turkey",
+            "description": "Swap ground turkey for ground chicken for a slightly different flavor profile. Chicken tends to be a bit milder and can be a nice alternative for variety.",
+            "technical_note": "Ground chicken may be leaner; consider adding a bit more grated carrot or a splash of olive oil to maintain moisture."
+        },
+        {
+            "name": "Add Finely Chopped Spinach to Meatballs",
+            "description": "Mix in a handful of finely chopped fresh spinach to boost the veggie content without changing flavor much. It adds color and nutrients subtly.",
+            "technical_note": "Squeeze excess moisture from spinach before adding to prevent soggy meatballs."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "14g",
+        "fiber_grams": "6g",
+        "sodium_mg": "480mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This meal can safely sit at room temperature for up to 2 hours if covered loosely. Avoid leaving it out longer to prevent bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The flavors meld nicely overnight, but broccoli may soften. Reheat gently before serving.",
+        "freezer": "Freeze meatballs and roasted sweet potatoes separately in airtight containers or freezer bags for up to 3 months. Thaw overnight in the fridge before reheating to maintain texture.",
+        "reheating": "Reheat meatballs and sweet potatoes in a 350°F oven for 10-15 minutes until warmed through. Avoid microwaving broccoli as it can become mushy; instead, steam fresh or reheat gently on stovetop.",
+        "make_ahead_strategy": "Prepare meatball mixture a day ahead and refrigerate. Roast sweet potatoes and steam broccoli fresh on the day for best texture. This saves time and keeps veggies vibrant."
+    },
+    "faq": [
+        {
+            "question": "Can I make these meatballs gluten-free?",
+            "answer": "Absolutely! Substitute regular breadcrumbs with gluten-free breadcrumbs or crushed gluten-free crackers. Make sure all other ingredients are gluten-free certified. The texture might be slightly different but still delicious."
+        },
+        {
+            "question": "What if my kids don’t like broccoli?",
+            "answer": "Try swapping broccoli for other mild veggies like steamed green beans or peas. You can also finely chop broccoli and mix it into the meatballs for a hidden veggie boost."
+        },
+        {
+            "question": "Can I use frozen sweet potatoes?",
+            "answer": "Yes, but thaw and pat dry before roasting to prevent sogginess. Frozen sweet potatoes may roast faster, so watch closely to avoid burning."
+        },
+        {
+            "question": "How can I make this recipe spicier?",
+            "answer": "Add a pinch of mild paprika or a dash of cayenne to the meatball mixture. Be cautious with spice levels for kids and adjust gradually."
+        },
+        {
+            "question": "Can I cook the meatballs on the stovetop instead of baking?",
+            "answer": "Yes, pan-fry meatballs in a little oil over medium heat until browned and cooked through. This gives a different texture but still tasty results."
+        },
+        {
+            "question": "Is it okay to freeze the whole meal together?",
+            "answer": "It’s best to freeze components separately to maintain texture. Broccoli especially can become mushy if frozen and reheated with other items."
+        },
+        {
+            "question": "What’s a good dipping sauce for kids?",
+            "answer": "Try mild honey mustard, ketchup, or a yogurt-based ranch dip. These familiar flavors encourage kids to enjoy the meatballs more."
+        },
+        {
+            "question": "Can I substitute ground beef for turkey?",
+            "answer": "Yes, ground beef works well but may be higher in fat. Choose lean beef to keep the dish balanced and adjust cooking times slightly."
+        }
+    ],
+    "conclusion": "I hope you and your family enjoy this cozy fall dinner as much as mine does. It’s simple, wholesome, and perfect for busy weeknights. Be sure to share how it turns out!",
+    "seo": {
+        "primary_keyword": "fall dinner ideas for kids",
+        "secondary_keywords": [
+            "easy fall dinner recipes",
+            "healthy kids dinner ideas",
+            "how to make fall dinner for kids",
+            "best fall dinner ideas for kids",
+            "easy fall dinner ideas"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy weeknight dinners",
+                "anchor": "healthy-weeknight-dinners"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "5200"
+    },
+    "category_id": "cat_1761230383_494",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-08 23:14:41",
+        "title_seed": "Fall Dinner Ideas For Kids"
+    },
+    "author_id": "author_001",
+    "id": "post_1786230881_862",
+    "slug": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious",
+    "uniqueSlug": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_1.webp",
+            "relativePath": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_2.webp",
+            "relativePath": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_3.webp",
+            "relativePath": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_7.webp",
+            "relativePath": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Struggling with Kid-Friendly Fall Dinners? Try This!"
+        },
+        {
+            "fileName": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_6.webp",
+            "relativePath": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Fall Dinner Ideas for Kids on Busy Weeknights"
+        },
+        {
+            "fileName": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_8.webp",
+            "relativePath": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Do Kids Love These Easy Fall Dinner Ideas So Much?"
+        },
+        {
+            "fileName": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_4.webp",
+            "relativePath": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Do Kids Love These Easy Fall Dinner Ideas So Much?"
+        },
+        {
+            "fileName": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_9.webp",
+            "relativePath": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Do Kids Love These Easy Fall Dinner Ideas So Much?"
+        },
+        {
+            "fileName": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_5.webp",
+            "relativePath": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Fall Dinner Ideas for Kids Irresistible"
+        }
+    ],
+    "image": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_1.webp",
+    "image_dir": "easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-09T00:25:36+01:00",
+    "updatedAt": "2026-08-09T00:25:36+01:00",
+    "has_reel": true
+}

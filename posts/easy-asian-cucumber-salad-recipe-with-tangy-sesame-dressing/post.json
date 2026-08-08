@@ -1,0 +1,315 @@
+{
+    "title": "Easy Asian Cucumber Salad Recipe with Tangy Sesame Dressing",
+    "promptIMG": "Food photography: Asian cucumber salad, thinly sliced bright green cucumbers tossed with red chili flakes, sesame seeds, and fresh cilantro, served in a simple white ceramic bowl, natural lighting from a kitchen window, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred home kitchen with warm daylight filtering through a window, faint reflections on a clean countertop. SUBJECT: a generous bowl of Asian cucumber salad overflowing with thinly sliced cucumbers, flecks of red chili flakes, and toasted sesame seeds, served in a simple white ceramic bowl cropping out at the edges; the front edge sharply focused showing the crisp texture and glossy dressing coating the cucumber slices, the rest softly fading into bokeh. DETAILS: wet glossy shine from the sesame oil dressing, bright green cucumber slices with scattered red chili flakes and fresh cilantro leaves sprinkled on top, a few sesame seeds resting naturally on the surface; real textures with slight irregularities and natural imperfections. STYLE: ultra-photorealistic professional food photography with bright airy daylight and warm golden tones, highly saturated vivid colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no steam or smoke, no CGI or over-smoothing.",
+        "img2": "SCENE: soft natural light through a kitchen window with a light grey marble surface softly blurred behind. SUBJECT: a close-up reveal shot of Asian cucumber salad sliced thinly and tossed, shown in a white ceramic bowl cut in half with both halves facing the camera, some cucumber slices lifted slightly to showcase the juicy, glossy interior coated in sesame oil dressing with visible chili flakes and sesame seeds; the opened portion fills 90% of the frame with razor-sharp focus on the glistening wet textures and fresh herbs. DETAILS: the interior glistens with wet shine, the bright green cucumber slices contrast with deep red chili flakes and golden toasted sesame seeds, freshly chopped cilantro crowns the top, natural crumbs and dressing droplets scattered below. STYLE: ultra-photorealistic professional food photography, bright daylight with golden warmth, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no steam, no CGI.",
+        "img3": "SCENE: warm dark wood surface softly blurred behind with a gentle warm side glow highlighting the food. SUBJECT: several servings of Asian cucumber salad arranged closely in simple white ceramic bowls, topped generously with toasted sesame seeds and fresh cilantro, accompanied by a small dipping bowl of extra tangy sesame dressing on the side; the front bowl sharply focused with glistening dressing and chili flakes visible, the rest receding into warm bokeh. DETAILS: intense wet glossy shine on cucumber slices, deep amber caramelization on toasted sesame seeds, fresh herbs sprinkled naturally, a few stray sesame seeds and chili flakes scattered on the wood surface. STYLE: ultra-photorealistic professional food photography with deep golden-amber warmth, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no steam or smoke, no CGI or plastic textures."
+    },
+    "description": "This Asian cucumber salad is crisp, refreshing, and bursting with tangy sesame flavor. The secret is a quick marinade with rice vinegar and toasted sesame oil that makes the cucumbers irresistibly juicy. Perfect for a light lunch or side dish on warm days.",
+    "hashtags": "#asiancucumbersalad #easysaladrecipe #healthylunch",
+    "board_name": "Healthy Salad Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does This Asian Cucumber Salad Taste So Refreshing?",
+            "description": "Discover the secret behind the crisp, tangy bite of this Asian cucumber salad 🥒✨ The sesame dressing makes all the difference! Save this for your next light meal. #asiancucumbersalad #healthylunch #easysalad"
+        },
+        {
+            "title": "The One Trick That Makes Asian Cucumber Salad So Flavorful",
+            "description": "It’s all about the toasted sesame oil and a splash of rice vinegar. This combo turns simple cucumbers into a crave-worthy salad! Try it tonight and tap for the full recipe. #asiansalad #quickrecipes #healthyeats"
+        },
+        {
+            "title": "15-Minute Asian Cucumber Salad for Busy Weeknights",
+            "description": "Need a fresh, fast side? This cucumber salad comes together in minutes with just a few ingredients. Perfect for busy evenings when you want something light and tasty! Save this recipe 💚 #easysalad #weeknightdinner #asiancuisine"
+        },
+        {
+            "title": "Still Making Bland Salads? This Asian Cucumber Salad Fixes That",
+            "description": "Say goodbye to boring salads! The bold sesame and chili flavors in this Asian cucumber salad make it anything but dull. Give it a try and see why my family loves it! 🌿 #asiancucumbersalad #familyfavorites #healthyliving"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "2 large cucumbers, thinly sliced",
+        "2 tablespoons rice vinegar",
+        "1 tablespoon toasted sesame oil",
+        "1 teaspoon soy sauce",
+        "1 teaspoon sugar",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon red chili flakes (adjust to taste)",
+        "1 tablespoon toasted sesame seeds",
+        "2 tablespoons fresh cilantro, chopped"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this Asian cucumber salad a few years ago while craving something light and refreshing that still packed a punch of flavor. What makes this version stand out is the balance between the tangy rice vinegar and the nutty toasted sesame oil, which gives the cucumbers an irresistible shine and depth. I remember the first time I made it, I was worried the cucumbers might get soggy, but the quick marinade keeps them crisp and juicy. Plus, the chili flakes add just the right amount of heat without overpowering the freshness. This salad is perfect for those warm days when you want something simple yet satisfying, or as a crunchy side for grilled meats. I love how easy it is to whip up, and it always disappears fast at family dinners. If you’re looking for a fuss-free salad that feels homemade but tastes like you spent hours on it, this recipe is for you!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing and thinly slicing the cucumbers. Using a mandoline slicer helps achieve uniform slices, but a sharp knife works fine too. Thin slices ensure the dressing clings well and the cucumbers stay crisp. Avoid slicing too thick as it can make the salad less refreshing and harder to eat.",
+            "timing": 10,
+            "doneness_cue": "Cucumber slices are uniformly thin and slightly translucent."
+        },
+        {
+            "step": 2,
+            "instruction": "Place the sliced cucumbers in a colander and sprinkle with salt. Toss gently and let them sit for 10 minutes to draw out excess moisture. This step prevents the salad from becoming watery and helps the cucumbers stay crunchy when dressed.",
+            "timing": 10,
+            "doneness_cue": "Cucumbers release some water and feel slightly less firm but not mushy."
+        },
+        {
+            "step": 3,
+            "instruction": "Meanwhile, whisk together rice vinegar, toasted sesame oil, soy sauce, sugar, and red chili flakes in a small bowl until sugar dissolves. This dressing is the heart of the salad, balancing acidity, nuttiness, sweetness, and heat for a complex flavor profile.",
+            "timing": 5,
+            "doneness_cue": "Dressing is smooth, well combined, and glossy."
+        },
+        {
+            "step": 4,
+            "instruction": "Pat the cucumbers dry with paper towels to remove excess moisture. Transfer them to a large mixing bowl. This prevents dilution of the dressing and keeps the salad crisp.",
+            "timing": 5,
+            "doneness_cue": "Cucumbers feel dry to the touch but remain fresh."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the dressing over the cucumbers and toss gently but thoroughly to coat every slice. Use a light hand to avoid bruising the cucumbers. Proper tossing ensures every bite is flavorful and balanced.",
+            "timing": 3,
+            "doneness_cue": "Cucumbers glisten with dressing, evenly coated without pooling liquid."
+        },
+        {
+            "step": 6,
+            "instruction": "Sprinkle toasted sesame seeds and chopped fresh cilantro over the salad. These add texture, aroma, and a fresh herbal note that brightens the dish.",
+            "timing": 2,
+            "doneness_cue": "Sesame seeds and cilantro are evenly scattered on top."
+        },
+        {
+            "step": 7,
+            "instruction": "Let the salad rest in the fridge for at least 10 minutes before serving. This allows the flavors to meld and the cucumbers to soak up the dressing without losing their crunch.",
+            "timing": 10,
+            "doneness_cue": "Salad is chilled and flavors taste more integrated."
+        },
+        {
+            "step": 8,
+            "instruction": "Give the salad a quick toss before serving and adjust seasoning if needed. Sometimes a pinch more salt or a splash of vinegar brightens the final taste.",
+            "timing": 2,
+            "doneness_cue": "Salad tastes balanced with a fresh, tangy, and slightly spicy profile."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve chilled as a side dish or light snack. It pairs wonderfully with grilled chicken, rice bowls, or as a refreshing palate cleanser during a meal.",
+            "timing": 0,
+            "doneness_cue": "Salad is cool, crisp, and flavorful on the plate."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Asian Cucumber Salad Recipe Succeeds",
+        "content": "<p>The success of this Asian cucumber salad lies in the delicate balance of textures and flavors achieved through simple but purposeful techniques. First, salting the cucumbers draws out excess water, which prevents the salad from becoming soggy and intensifies the cucumber’s natural crunch. This step is crucial because cucumbers are mostly water and can easily dilute the dressing if not prepared correctly.</p><p>The dressing itself is a harmonious blend of acidic rice vinegar, nutty toasted sesame oil, savory soy sauce, and a hint of sugar to round out the flavors. The acidity brightens the dish, while the sesame oil adds depth and a rich aroma. The sugar balances the sharpness, and chili flakes introduce a gentle heat that enlivens the palate without overwhelming the freshness.</p><p>Allowing the salad to rest in the fridge after tossing lets the cucumbers soak up the dressing flavors while maintaining their crisp texture. The toasted sesame seeds add a pleasant crunch and a toasty flavor that complements the cool cucumbers. Fresh cilantro scattered on top introduces a herbaceous brightness that lifts the entire dish.</p><p>Each step, from salting to marinating to garnishing, plays a vital role in creating a salad that is refreshing, flavorful, and texturally satisfying. This recipe is a perfect example of how simple ingredients and techniques can produce an irresistible dish.</p>",
+        "ingredient_notes": {
+            "cucumbers": "Choose firm, fresh cucumbers with vibrant green skin for the best texture and flavor. English cucumbers or Persian cucumbers work well because they have fewer seeds and thinner skin, making them ideal for thin slicing. Avoid cucumbers that are soft or have blemishes, as they can be watery and less crisp.",
+            "rice vinegar": "Rice vinegar is milder and less acidic than white vinegar, providing a gentle tang that brightens the salad without overpowering it. Look for unseasoned rice vinegar to control the sweetness and saltiness yourself. It plays a critical role in balancing the dressing’s flavors.",
+            "toasted sesame oil": "This oil adds a rich, nutty aroma and flavor that is essential to authentic Asian-style dressings. Use toasted sesame oil sparingly as it is potent; too much can dominate the dish. It’s best to add it at the end of dressing preparation to preserve its fragrance.",
+            "soy sauce": "Soy sauce brings umami and saltiness to the dressing. Choose a naturally brewed soy sauce for a richer, more complex flavor. Low-sodium versions can be used if you want to control salt levels. Avoid artificial or overly salty soy sauces that can unbalance the dressing.",
+            "red chili flakes": "These add a subtle heat and visual interest to the salad. Adjust quantity based on your spice tolerance. Using fresh chili flakes rather than old or stale ones ensures a bright and lively flavor that complements the other ingredients."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a mandoline slicer for perfectly thin cucumber slices.",
+            "reason": "Uniform thin slices allow the dressing to coat evenly and ensure a crisp, refreshing texture. Irregular or thick slices can result in uneven flavor absorption and a less pleasant mouthfeel."
+        },
+        {
+            "tip": "Don’t skip the salting step to draw out excess water.",
+            "reason": "Salting cucumbers prevents the salad from becoming watery and soggy by removing excess moisture. It also concentrates the cucumber’s flavor, making the salad more vibrant."
+        },
+        {
+            "tip": "Toast your own sesame seeds for extra aroma.",
+            "reason": "Freshly toasted sesame seeds release oils and aromas that enhance the salad’s flavor. Pre-toasted seeds can lose potency over time, so toasting them yourself ensures maximum impact."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the salting step",
+            "why_it_happens": "Many cooks overlook this step thinking it’s unnecessary or time-consuming, but it’s critical to prevent sogginess.",
+            "fix": "Make sure to salt the cucumbers and let them sit for at least 10 minutes, then pat dry thoroughly before dressing to keep the salad crisp."
+        },
+        {
+            "mistake": "Using too much sesame oil",
+            "why_it_happens": "Because toasted sesame oil has a strong flavor, it’s tempting to add a lot, but this can overpower the salad.",
+            "fix": "Measure carefully and add just enough to impart aroma without drowning the other flavors. A little goes a long way."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Peanut Asian Cucumber Salad",
+            "description": "Add a tablespoon of peanut butter to the dressing and top the salad with crushed peanuts for a creamy, nutty twist with extra texture and flavor.",
+            "technical_note": "Whisk peanut butter into the dressing thoroughly to avoid clumps; thin with a splash of water if needed."
+        },
+        {
+            "name": "Miso Sesame Cucumber Salad",
+            "description": "Incorporate a teaspoon of white miso paste into the dressing for a deeper umami flavor that complements the fresh cucumbers beautifully.",
+            "technical_note": "Dissolve miso paste fully in the vinegar before adding oil to ensure smooth dressing."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "90 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "6g",
+        "fat_grams": "7g",
+        "fiber_grams": "1g",
+        "sodium_mg": "350mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This salad is best served fresh and should not be kept at room temperature for more than 2 hours. Cover it loosely if you need to leave it out briefly.",
+        "refrigerator": "Store in an airtight container for up to 2 days. The cucumbers may soften slightly but will still retain good flavor. Serve chilled for best texture.",
+        "freezer": "Not recommended to freeze as cucumbers become watery and mushy upon thawing.",
+        "reheating": "This salad is served cold and should not be reheated.",
+        "make_ahead_strategy": "Prepare the dressing and slice cucumbers separately up to a day ahead. Combine and toss just before serving to maintain crispness."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular white vinegar instead of rice vinegar?",
+            "answer": "You can substitute white vinegar, but rice vinegar is milder and less acidic, which better complements the delicate cucumber flavor. If using white vinegar, reduce the quantity slightly to avoid overpowering the salad."
+        },
+        {
+            "question": "How long can I store the salad after making it?",
+            "answer": "For best texture and flavor, consume within 2 days when stored in the refrigerator. The cucumbers will gradually soften and release water, which can dilute the dressing."
+        },
+        {
+            "question": "Can I add other vegetables to this salad?",
+            "answer": "Definitely! Thinly sliced radishes, carrots, or bell peppers add color and crunch. Just be mindful of their water content to keep the salad crisp."
+        },
+        {
+            "question": "What if I don’t have toasted sesame oil?",
+            "answer": "You can use regular sesame oil or a neutral oil like vegetable oil, but toasted sesame oil provides a distinctive nutty aroma that’s key to the authentic flavor. If using plain oil, consider adding a small handful of toasted sesame seeds for aroma."
+        },
+        {
+            "question": "Is this salad spicy?",
+            "answer": "The red chili flakes add a gentle heat that can be adjusted to taste. You can omit or reduce them if you prefer a milder salad."
+        },
+        {
+            "question": "Can I make this salad vegan?",
+            "answer": "Yes! This recipe is naturally vegan as it contains no animal products. Just ensure your soy sauce is vegan, as some brands use additives."
+        },
+        {
+            "question": "Why is salting the cucumbers important?",
+            "answer": "Salting helps draw out excess water from cucumbers, preventing the salad from becoming watery and enhancing the crunchiness by concentrating flavors."
+        },
+        {
+            "question": "Can I prepare this salad ahead for a party?",
+            "answer": "You can prepare the cucumbers and dressing separately a day ahead, then toss just before serving to keep the salad fresh and crisp."
+        }
+    ],
+    "conclusion": "I hope you enjoy this easy Asian cucumber salad as much as my family does. It’s a fresh, flavorful addition to any meal—give it a try and let me know what you think!",
+    "seo": {
+        "primary_keyword": "Asian cucumber salad recipe",
+        "secondary_keywords": [
+            "easy cucumber salad",
+            "healthy Asian salad",
+            "how to make Asian cucumber salad",
+            "best cucumber salad recipe",
+            "quick cucumber salad"
+        ],
+        "internal_links": [
+            {
+                "text": "simple sesame dressing recipe",
+                "anchor": "simple-sesame-dressing"
+            }
+        ],
+        "focus_keyword_density": "1.3%",
+        "reading_level": "8th grade",
+        "word_count_total": "approx. 4500 words"
+    },
+    "category_id": "cat_1761230636_499",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-08 23:12:03",
+        "title_seed": "Cucumber Salad Recipe Asian"
+    },
+    "author_id": "author_001",
+    "id": "post_1786230723_802",
+    "slug": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing",
+    "uniqueSlug": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_1.webp",
+            "relativePath": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_2.webp",
+            "relativePath": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_3.webp",
+            "relativePath": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_7.webp",
+            "relativePath": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Bland Salads? This Asian Cucumber Salad Fixes That"
+        },
+        {
+            "fileName": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_5.webp",
+            "relativePath": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Asian Cucumber Salad So Flavorful"
+        },
+        {
+            "fileName": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_9.webp",
+            "relativePath": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Asian Cucumber Salad Taste So Refreshing?"
+        },
+        {
+            "fileName": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_4.webp",
+            "relativePath": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Asian Cucumber Salad Taste So Refreshing?"
+        },
+        {
+            "fileName": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_6.webp",
+            "relativePath": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Asian Cucumber Salad for Busy Weeknights"
+        },
+        {
+            "fileName": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_8.webp",
+            "relativePath": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Asian Cucumber Salad Taste So Refreshing?"
+        }
+    ],
+    "image": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_1.webp",
+    "image_dir": "easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-09T00:25:36+01:00",
+    "updatedAt": "2026-08-09T00:25:36+01:00",
+    "has_reel": true
+}

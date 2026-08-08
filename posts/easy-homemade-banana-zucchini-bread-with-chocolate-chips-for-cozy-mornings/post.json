@@ -1,0 +1,369 @@
+{
+    "title": "Easy Homemade Banana Zucchini Bread with Chocolate Chips for Cozy Mornings",
+    "promptIMG": "Food photography: Banana Zucchini Bread Chocolate, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred home kitchen with warm natural daylight coming through a window, faint reflections on a wooden countertop. SUBJECT: a generous loaf of banana zucchini bread studded with dark chocolate chips, resting on a rustic ceramic bread board, the front edge sharply focused at a slight angle showing the moist crumb texture and glossy chocolate chips, the rest softly fading into bokeh. DETAILS: the top crust is golden brown with a slight crackle, chocolate chips glistening with a wet shine, a light dusting of powdered sugar scattered over the loaf edges, crumbs scattered naturally on the board. STYLE: ultra-photorealistic professional food photography, bright and airy with warm golden hues, rich saturated colors to emphasize the moist crumb and chocolate gloss, shallow depth of field, vertical 2:3. AVOID: no text, logos, watermarks, hands, or people; no dull or washed-out colors; no steam or smoke.",
+        "img2": "SCENE: soft daylight filtering through a bright window with a blurred marble countertop background. SUBJECT: the banana zucchini bread cut in half and stacked slightly askew to reveal the moist interior filled with flecks of green zucchini and melted dark chocolate chips slowly oozing, the crumb moist and tender with a golden caramelized crust edge. DETAILS: the exposed crumb glistens with moisture, chocolate chips partially melted and stringy, natural crumbs scattered below, the top crust visible with a golden sheen. STYLE: ultra-photorealistic professional food photography, bright and warm daylight, rich saturated colors highlighting the moist crumb and chocolate shine, shallow macro depth of field, vertical 2:3. AVOID: no hands, no text, no logos, no pale colors, no CGI.",
+        "img3": "SCENE: warm dark wooden table softly blurred with a side warm glow highlighting the scene. SUBJECT: several thick slices of banana zucchini chocolate bread arranged on a vintage ceramic plate with a small bowl of softened butter and a drizzle of honey on the side, the front slice sharply focused with chocolate chips glistening and a light dusting of powdered sugar, the rest of the slices receding into warm bokeh. DETAILS: intense glossy shine on chocolate chips, deep golden caramelized edges, butter melting slightly on the side, crumbs scattered naturally on the plate. STYLE: ultra-photorealistic professional food photography, rich golden-amber tones, highly saturated glowing colors, shallow depth of field, vertical 2:3. AVOID: no hands, no text, no logos, no dull colors."
+    },
+    "description": "This banana zucchini bread with chocolate chips is a moist, flavorful twist on a classic. The zucchini adds a subtle freshness while the chocolate makes it irresistibly cozy. Perfect for breakfast or an afternoon treat!",
+    "hashtags": "#bananazucchinibread #homemadebread #comfortfood",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Banana Zucchini Bread Taste Better with Chocolate Chips?",
+            "description": "Discover the secret ingredient that makes this banana zucchini bread extra moist and flavorful. 🍫 Perfect for cozy mornings or quick snacks. Save this for your next baking day! #bananazucchinibread #chocolatechipbread #easybaking"
+        },
+        {
+            "title": "The One Trick That Makes Banana Zucchini Bread Moist Every Time",
+            "description": "Learn the simple technique that keeps your banana zucchini bread tender and rich with chocolate chips in every bite. 🍌🥒 Tap to get the full recipe and bake like a pro! #moistbread #bananazucchini #homemade"
+        },
+        {
+            "title": "15-Minute Prep Banana Zucchini Bread with Chocolate Chips",
+            "description": "Busy day? This banana zucchini bread comes together fast with minimal prep and maximum flavor. Chocolate chips add that perfect indulgence. 🍫 Save this recipe for your next quick bake! #quickbread #easyrecipes #bananazucchini"
+        },
+        {
+            "title": "Still Making Dry Zucchini Bread? This Chocolate Version Fixes It",
+            "description": "Say goodbye to dry zucchini bread! This recipe uses ripe bananas and melty chocolate chips for a moist, delicious loaf every time. 🍌🍫 Save it for your next baking session! #moistbread #bananazucchini #chocolatechipbread"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
+    "ingredients": [
+        "1 cup ripe mashed bananas (about 2-3 bananas)",
+        "1 cup grated zucchini, squeezed dry",
+        "1/2 cup unsalted butter, melted and cooled",
+        "3/4 cup granulated sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 1/2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon ground cinnamon",
+        "1 cup semi-sweet chocolate chips"
+    ],
+    "yield": "One 9x5 inch loaf, approximately 8 servings",
+    "introduction": "I first tried adding zucchini to banana bread a few years ago when I wanted to sneak some veggies into a sweet treat for my family. The result was surprisingly delicious—moist, tender, and with a subtle fresh flavor that balanced the sweetness of ripe bananas perfectly. Adding chocolate chips was my way of making it feel like a real indulgence without being too heavy. What sets this recipe apart is the technique of squeezing the grated zucchini dry to avoid sogginess and folding in the chocolate chips gently so they don’t all sink to the bottom. The finished loaf has a beautiful golden crust, moist crumb, and pockets of melted chocolate that make every bite feel special. It’s perfect for breakfast, snack time, or even a cozy dessert. I love that it feels like a classic banana bread but with a little twist that keeps everyone asking for more. Plus, it’s easy enough to whip up on a weekend morning or whenever you have some ripe bananas and zucchini on hand.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x5-inch loaf pan. This step ensures even baking and prevents sticking. Using the right temperature is crucial because too hot will brown the crust too fast, leaving the inside undercooked, and too low will dry out the bread. Greasing the pan thoroughly or lining it with parchment paper helps the loaf release easily after baking, preserving the crust's texture.",
+            "timing": 10,
+            "doneness_cue": "Oven preheated and pan fully greased or lined, ready for batter."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, mix the melted butter and sugar until combined. Then whisk in the eggs one at a time, followed by the vanilla extract. This step creates a smooth, slightly thick batter base. Be careful not to overbeat here because you want to keep the batter tender. The sugar dissolving into the butter also helps the bread stay moist.",
+            "timing": 5,
+            "doneness_cue": "Smooth, glossy mixture with no lumps, eggs fully incorporated."
+        },
+        {
+            "step": 3,
+            "instruction": "Grate the zucchini finely, then place it in a clean kitchen towel and squeeze out as much moisture as possible. This prevents the bread from becoming soggy and helps maintain a tender crumb. Too much liquid in the batter will affect texture and baking time, so this step is essential.",
+            "timing": 5,
+            "doneness_cue": "Zucchini is damp but not dripping, about 1/3 cup squeezed out."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the mashed bananas and squeezed zucchini to the wet mixture and stir gently to combine. The bananas add natural sweetness and moisture, while the zucchini contributes a subtle freshness. Mixing gently preserves the batter’s lightness and prevents toughness.",
+            "timing": 3,
+            "doneness_cue": "Evenly combined batter with visible flecks of zucchini and banana."
+        },
+        {
+            "step": 5,
+            "instruction": "In a separate bowl, sift together the flour, baking soda, salt, and cinnamon. Sifting aerates the flour and evenly distributes the leavening agents and spices, ensuring consistent rise and flavor throughout the bread.",
+            "timing": 3,
+            "doneness_cue": "Light, fluffy dry mixture with no lumps."
+        },
+        {
+            "step": 6,
+            "instruction": "Gradually fold the dry ingredients into the wet mixture until just combined. Avoid overmixing, which can develop gluten and make the bread dense. The batter will be thick and slightly lumpy, which is perfect for a tender crumb.",
+            "timing": 4,
+            "doneness_cue": "No visible flour streaks but batter is not overly smooth."
+        },
+        {
+            "step": 7,
+            "instruction": "Fold in the chocolate chips gently so they are evenly distributed but don’t sink to the bottom. Using semi-sweet chocolate chips adds a nice balance to the sweetness without overpowering the bread. Make sure to coat chips lightly in flour before folding if your batter is very wet to prevent sinking.",
+            "timing": 2,
+            "doneness_cue": "Chocolate chips scattered throughout the batter."
+        },
+        {
+            "step": 8,
+            "instruction": "Pour the batter into the prepared loaf pan, smoothing the top with a spatula. This ensures even baking and an attractive crust. Tap the pan gently on the counter to release any air bubbles that could create holes in the crumb.",
+            "timing": 3,
+            "doneness_cue": "Batter evenly spread with a smooth surface, no air pockets."
+        },
+        {
+            "step": 9,
+            "instruction": "Bake in the preheated oven for 50-60 minutes or until a toothpick inserted in the center comes out clean or with a few moist crumbs. Avoid opening the oven door frequently to prevent temperature drops that affect rising. The crust should be golden brown and slightly firm to the touch.",
+            "timing": 50,
+            "doneness_cue": "Golden brown crust, toothpick mostly clean, fragrant aroma."
+        },
+        {
+            "step": 10,
+            "instruction": "Let the bread cool in the pan for 15 minutes before transferring to a wire rack to cool completely. Cooling in the pan helps the loaf set, preventing it from falling apart. Once on the rack, air circulation prevents sogginess and preserves the crust texture.",
+            "timing": 20,
+            "doneness_cue": "Loaf firm to touch and cool enough to slice without crumbling."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Banana Zucchini Bread Recipe Succeeds",
+        "content": "<p>This banana zucchini bread recipe balances moisture and texture by carefully controlling the liquid content and mixing techniques. The key is squeezing the grated zucchini dry, which removes excess water that would otherwise make the bread gummy or dense. The ripe bananas contribute natural sweetness and moisture, which works in tandem with the zucchini's subtle freshness.</p><p>The use of melted butter instead of oil adds richness and helps the sugar dissolve properly, creating a tender crumb. Eggs provide structure and leavening, but gentle mixing preserves the bread’s lightness. The baking soda reacts with the acidity of the bananas to create lift and a soft crumb.</p><p>Chocolate chips add bursts of sweetness and a melty texture that contrasts beautifully with the tender bread. Folding them in gently prevents them from sinking and ensures they are evenly dispersed. The addition of cinnamon enhances the flavor complexity without overpowering the natural ingredients.</p><p>Finally, baking at 350°F allows the loaf to cook through evenly, developing a golden crust that seals in moisture while the interior stays soft and tender. Letting the bread cool properly prevents it from crumbling and maintains its structure.</p>",
+        "ingredient_notes": {
+            "ripe bananas": "Look for bananas with brown spots as they are sweeter and more flavorful. Their natural sugars enhance moisture and tenderness in the bread. Overripe bananas break down easily, blending smoothly into the batter for even texture.",
+            "zucchini": "Choose medium-sized zucchini that are firm and fresh. Grate finely and squeeze out excess water to avoid soggy bread. The zucchini adds moisture and a subtle vegetal note without overwhelming the banana flavor.",
+            "unsalted butter": "Using unsalted butter lets you control the saltiness in the bread. Melted butter integrates well with sugar, creating a rich and tender crumb. Avoid substituting with margarine for best flavor.",
+            "all-purpose flour": "Standard all-purpose flour provides the right balance of protein for structure without making the bread tough. Measuring by weight or spooning flour lightly into the cup avoids dense results from overpacking.",
+            "chocolate chips": "Semi-sweet chocolate chips offer a perfect balance of sweetness and bitterness that complements the banana and zucchini. Coating them lightly in flour before folding helps prevent sinking in wet batter."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Squeeze the zucchini thoroughly to remove excess moisture.",
+            "reason": "Excess water in grated zucchini can make the bread soggy and prevent it from rising properly. Removing moisture ensures a tender crumb and prevents a gummy texture."
+        },
+        {
+            "tip": "Use ripe bananas with brown spots for maximum sweetness and flavor.",
+            "reason": "Ripe bananas are sweeter and softer, which helps create a moist, flavorful bread. Under-ripe bananas can result in a bland, dry loaf."
+        },
+        {
+            "tip": "Fold the chocolate chips gently into the batter to avoid sinking.",
+            "reason": "Overmixing or adding chips too early can cause them to sink to the bottom. Gently folding keeps them evenly distributed for consistent chocolate pockets."
+        },
+        {
+            "tip": "Avoid overmixing the batter when combining wet and dry ingredients.",
+            "reason": "Overmixing develops gluten which makes the bread tough and dense. Mixing until just combined keeps the crumb tender and light."
+        },
+        {
+            "tip": "Let the bread cool in the pan before transferring to a wire rack.",
+            "reason": "Cooling in the pan allows the loaf to set and prevents it from falling apart. Moving it too soon can cause crumbling."
+        },
+        {
+            "tip": "Use a toothpick to test doneness starting at 50 minutes.",
+            "reason": "Ovens vary, so checking early prevents overbaking. The toothpick should come out mostly clean with a few moist crumbs for perfect texture."
+        },
+        {
+            "tip": "Line your loaf pan with parchment paper for easy removal.",
+            "reason": "Parchment paper helps lift the bread out cleanly without damaging the crust, preserving its texture and appearance."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing the zucchini enough",
+            "why_it_happens": "Many assume grated zucchini can be added as-is, but it contains a lot of water.",
+            "fix": "Wrap grated zucchini in a clean towel and squeeze firmly to remove excess liquid before adding to batter. This prevents sogginess and dense texture."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "It’s tempting to mix thoroughly to combine ingredients, but this develops gluten.",
+            "fix": "Mix wet and dry ingredients just until combined. A few lumps are okay. This keeps the bread tender and prevents toughness."
+        },
+        {
+            "mistake": "Using underripe bananas",
+            "why_it_happens": "Sometimes cooks use bananas that are too firm and not sweet enough.",
+            "fix": "Use bananas with brown spots or that are very soft for best sweetness and moistness in the bread."
+        },
+        {
+            "mistake": "Chocolate chips sinking to the bottom",
+            "why_it_happens": "Adding chips too early or mixing batter too thin causes sinking.",
+            "fix": "Fold chips in last and coat them lightly with flour to help suspend them in the batter."
+        },
+        {
+            "mistake": "Not testing the bread for doneness",
+            "why_it_happens": "Relying on baking time alone can result in under- or overbaked bread.",
+            "fix": "Insert a toothpick into the center starting at 50 minutes. It should come out clean or with a few moist crumbs."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Walnut Banana Zucchini Bread",
+            "description": "Add 1/2 cup chopped walnuts for crunch and nutty flavor. Toast them lightly before folding in to enhance aroma. This adds texture contrast and a richer taste.",
+            "technical_note": "Fold nuts in with the chocolate chips gently to avoid breaking them up and ensure even distribution."
+        },
+        {
+            "name": "Gluten-Free Banana Zucchini Bread",
+            "description": "Substitute all-purpose flour with a gluten-free blend that includes xanthan gum. The texture will be slightly different but still moist and delicious.",
+            "technical_note": "Increase baking time slightly and check doneness carefully as gluten-free flours bake differently."
+        },
+        {
+            "name": "Vegan Banana Zucchini Bread",
+            "description": "Replace eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg) and use coconut oil instead of butter. The bread remains moist and flavorful with subtle coconut notes.",
+            "technical_note": "Allow flax eggs to gel fully before mixing and bake at the same temperature."
+        },
+        {
+            "name": "Spiced Banana Zucchini Bread",
+            "description": "Add 1/2 tsp ground nutmeg and 1/4 tsp ground cloves along with cinnamon for a warm, spicy flavor perfect for fall. This variation adds complexity and aroma.",
+            "technical_note": "Mix spices with the dry ingredients for even flavor distribution."
+        },
+        {
+            "name": "Chocolate Swirl Banana Zucchini Bread",
+            "description": "Melt half the chocolate chips and swirl into the batter before baking for a marbled chocolate effect. This makes the bread visually impressive and extra chocolaty.",
+            "technical_note": "Pour half the batter, add melted chocolate, then top with remaining batter and swirl gently with a knife."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "12g",
+        "fiber_grams": "3g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the banana zucchini bread covered loosely with foil or in a bread box at room temperature for up to 2 days. Avoid airtight containers at room temp as they can trap moisture and soften the crust.",
+        "refrigerator": "Keep in an airtight container or wrapped tightly in plastic wrap for up to 5 days. The bread may firm up slightly but reheating gently restores softness. Serve chilled or warmed.",
+        "freezer": "Wrap tightly in plastic wrap and then foil to freeze for up to 3 months. Thaw overnight in the refrigerator or at room temperature. Reheat slices in a toaster oven or microwave for best texture.",
+        "reheating": "Warm slices in a toaster oven at 325°F for 5-7 minutes or microwave for 20-30 seconds. Adding a small pat of butter before reheating enhances moisture and flavor. Avoid overheating which can dry the bread.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it refrigerated in a sealed bowl. Stir gently before baking. This allows flavors to meld and saves time on baking day."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this bread?",
+            "answer": "Yes, but thaw and squeeze out all excess moisture thoroughly before using. Frozen zucchini holds more water, so removing moisture is essential to prevent sogginess."
+        },
+        {
+            "question": "What if I don’t have chocolate chips?",
+            "answer": "You can omit them or substitute with chopped nuts, raisins, or dried cranberries. Each adds a different texture and flavor, but chocolate chips add a nice melty sweetness."
+        },
+        {
+            "question": "Can I make this bread gluten-free?",
+            "answer": "Absolutely. Use a gluten-free all-purpose flour blend with xanthan gum. Baking time may be slightly longer, and texture will be a bit different but still delicious."
+        },
+        {
+            "question": "How ripe should the bananas be?",
+            "answer": "The best bananas are very ripe with brown spots or fully brown skins. They are sweeter and softer, which improves the bread’s flavor and moisture."
+        },
+        {
+            "question": "Why is my bread dense or heavy?",
+            "answer": "Common causes include overmixing the batter, not squeezing zucchini dry, or using underripe bananas. Mix gently and remove excess zucchini moisture for a lighter loaf."
+        },
+        {
+            "question": "Can I freeze the baked bread?",
+            "answer": "Yes, wrap the cooled bread tightly and freeze for up to 3 months. Thaw in the fridge or at room temperature before reheating for best texture."
+        },
+        {
+            "question": "What’s the best way to store leftover bread?",
+            "answer": "Store at room temperature for 2 days in a bread box or loosely covered. For longer storage, refrigerate or freeze as described to maintain freshness."
+        },
+        {
+            "question": "Can I add other spices or flavors?",
+            "answer": "Yes, cinnamon is classic but you can add nutmeg, cloves, or vanilla extract to customize the flavor profile to your liking."
+        }
+    ],
+    "conclusion": "Give this banana zucchini chocolate bread a try — it’s a cozy, moist treat that’s easy to make and loved by my whole family. I hope you enjoy it as much as we do!",
+    "seo": {
+        "primary_keyword": "banana zucchini bread chocolate",
+        "secondary_keywords": [
+            "banana zucchini bread recipe",
+            "easy banana zucchini bread",
+            "how to make banana zucchini bread",
+            "best banana zucchini bread recipe",
+            "homemade banana zucchini bread"
+        ],
+        "internal_links": [
+            {
+                "text": "moist banana bread recipe",
+                "anchor": "moist-banana-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-08 23:06:42",
+        "title_seed": "Banana Zucchini Bread Chocolate"
+    },
+    "author_id": "author_001",
+    "id": "post_1786230402_643",
+    "slug": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings",
+    "uniqueSlug": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_6.webp",
+            "relativePath": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep Banana Zucchini Bread with Chocolate Chips"
+        },
+        {
+            "fileName": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_8.webp",
+            "relativePath": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Banana Zucchini Bread Taste Better with Chocolate Chips?"
+        },
+        {
+            "fileName": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_5.webp",
+            "relativePath": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Banana Zucchini Bread Moist Every Time"
+        },
+        {
+            "fileName": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_9.webp",
+            "relativePath": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Banana Zucchini Bread Taste Better with Chocolate Chips?"
+        },
+        {
+            "fileName": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_7.webp",
+            "relativePath": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Zucchini Bread? This Chocolate Version Fixes It"
+        },
+        {
+            "fileName": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_4.webp",
+            "relativePath": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Banana Zucchini Bread Taste Better with Chocolate Chips?"
+        }
+    ],
+    "image": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images/easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings_pinrecipes_image_1.webp",
+    "image_dir": "easy-homemade-banana-zucchini-bread-with-chocolate-chips-for-cozy-mornings/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-09T00:25:36+01:00",
+    "updatedAt": "2026-08-09T00:25:36+01:00",
+    "has_reel": true
+}
