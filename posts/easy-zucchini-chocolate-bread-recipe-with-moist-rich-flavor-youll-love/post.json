@@ -1,0 +1,367 @@
+{
+    "title": "Easy Zucchini Chocolate Bread Recipe with Moist, Rich Flavor You'll Love",
+    "promptIMG": "Food photography: Zucchini Chocolate Bread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred behind, with a bright window casting soft daylight and faint reflections on a wooden counter. SUBJECT: a generous loaf of zucchini chocolate bread resting on a rustic wooden board, the front slice angled to reveal its moist crumb dotted with dark chocolate chunks and flecks of green zucchini, the crust golden brown with a slight sheen. DETAILS: glossy chocolate chips glistening on the surface, a light dusting of powdered sugar settling into the bread's ridges, natural crumbs scattered around the board. STYLE: ultra-photorealistic professional food photography with bright airy daylight and warm golden tones, richly saturated colors that highlight the bread's texture; shallow macro depth of field; vertical 2:3. AVOID: no text, logos, hands, or artificial lighting effects; no steam or smoke.",
+        "img2": "SCENE: soft natural light filtering through a nearby window, with a light marble countertop softly blurred in the background. SUBJECT: the reveal shot of zucchini chocolate bread, cut in half with both halves facing the camera, showcasing the moist interior filled with melted chocolate chips and flecks of tender zucchini strands. DETAILS: the oozing melted chocolate frozen mid-pull, the crumb moist and glossy with a rich chocolate hue contrasted by the pale green flecks, crumbs scattered naturally beneath. STYLE: ultra-photorealistic food photography, bright daylight with warm amber highlights, hyper-vivid colors emphasizing the bread's moist texture; shallow depth of field; vertical 2:3. AVOID: no text, hands, or artificial props.",
+        "img3": "SCENE: warm dark wood tones softly blurred behind with a single warm side glow highlighting the scene. SUBJECT: several thick slices of zucchini chocolate bread arranged closely on a vintage ceramic plate, topped with a light dusting of powdered sugar and a few extra chocolate chips scattered around. DETAILS: deep glossy shine on the chocolate chips, moist crumb edges catching the warm light, powdered sugar settling naturally into crevices; a small bowl of fresh berries accompanies the plate. STYLE: ultra-photorealistic professional food photography with rich golden-amber warmth and highly saturated appetizing tones; shallow macro depth of field; vertical 2:3. AVOID: no text, logos, hands, or dim lighting."
+    },
+    "description": "This zucchini chocolate bread is the perfect blend of moist, rich chocolate and tender zucchini strands. I love how the chocolate melts into every bite, making it a cozy treat for breakfast or snack time. Quick to whip up and always a hit!",
+    "hashtags": "#zucchinichocolatebread #easybaking #homemadebread",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does This Zucchini Chocolate Bread Stay So Moist?",
+            "description": "Ever wonder how some zucchini breads stay super moist and flavorful? This recipe's secret ingredient and baking method lock in all that goodness. Perfect for a cozy breakfast or afternoon snack. Save this for your next bake! #zucchinibread #chocolatebread #easyrecipes"
+        },
+        {
+            "title": "The One Trick That Makes Zucchini Chocolate Bread Irresistible",
+            "description": "This simple tip takes zucchini chocolate bread from good to unforgettable—melting chocolate chunks and shredded zucchini combine for perfect texture. You'll want to bake this again and again! Tap to get the full recipe. #homemadebaking #zucchinibread #chocolate"
+        },
+        {
+            "title": "15-Minute Prep Zucchini Chocolate Bread for Busy Mornings",
+            "description": "Short on time? This zucchini chocolate bread comes together quickly with easy steps and simple ingredients. You'll love how moist and flavorful it turns out every time. Perfect for busy mornings or last-minute guests! Save it now. #quickbaking #zucchinibread #easybreakfast"
+        },
+        {
+            "title": "Still Making Dry Zucchini Bread? This Chocolate Version Fixes It",
+            "description": "Dry zucchini bread is the worst, right? This recipe solves that with melty chocolate and a moist crumb that stays fresh. Your family will thank you! Try it for your next baking day. Tap for the recipe. #moistbread #zucchinichocolate #bakingtips"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
+    "ingredients": [
+        "1 ½ cups all-purpose flour",
+        "½ cup unsweetened cocoa powder",
+        "1 tsp baking soda",
+        "½ tsp baking powder",
+        "½ tsp salt",
+        "1 cup granulated sugar",
+        "2 large eggs",
+        "½ cup vegetable oil",
+        "1 tsp vanilla extract",
+        "1 ½ cups grated zucchini (about 1 medium zucchini), squeezed to remove excess moisture",
+        "¾ cup semi-sweet chocolate chips"
+    ],
+    "yield": "One 9x5 inch loaf, 8 servings",
+    "introduction": "I first made this zucchini chocolate bread when I wanted to sneak some veggies into a sweet treat my family would actually enjoy. Traditional zucchini bread is lovely, but adding cocoa powder and chocolate chips takes it to a whole new level of deliciousness. What makes this version stand out is how moist and tender it stays, thanks to squeezing out just enough moisture from the zucchini and using oil instead of butter. The melty chocolate chips throughout add pockets of gooey richness that everyone loves. I've learned that not overmixing the batter keeps the crumb soft and prevents it from getting dense. When it comes out of the oven, the bread has a deep chocolate aroma with flecks of green zucchini peeking through. It’s perfect for breakfast with a cup of coffee or as a comforting afternoon snack. My family always asks for seconds, and it’s become a go-to recipe when I want something quick, easy, and a little healthier without sacrificing flavor. I hope you enjoy it as much as we do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x5 inch loaf pan. This step ensures your bread won't stick and bakes evenly. While the oven heats, grate the zucchini and squeeze it in a clean kitchen towel to remove excess moisture. Removing too much water prevents the bread from becoming soggy but keeps enough to maintain moistness. Avoid skipping this step to get the perfect texture.",
+            "timing": 15,
+            "doneness_cue": "Oven fully preheated, zucchini feels damp but not dripping."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the flour, cocoa powder, baking soda, baking powder, and salt. Mixing the dry ingredients first helps distribute the leavening agents evenly, which is key for a uniform rise. Be sure to sift or whisk well to avoid lumps, especially with the cocoa powder.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are evenly combined with no clumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, beat the sugar and eggs until combined, then add the oil and vanilla extract. Mixing these wet ingredients thoroughly helps incorporate air and creates a smooth base. Using oil instead of butter keeps the bread moist longer. Don't overbeat here; just combine until smooth.",
+            "timing": 5,
+            "doneness_cue": "Wet mixture is smooth and slightly glossy."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the wet ingredients to the dry ingredients and fold gently using a spatula. Avoid overmixing to prevent a tough bread texture. The batter should be thick but moist, with streaks of flour disappearing as you fold. This gentle mixing helps keep the crumb tender.",
+            "timing": 3,
+            "doneness_cue": "Batter is mostly uniform with no large flour pockets."
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the grated zucchini and chocolate chips evenly throughout the batter. The zucchini adds moisture and subtle texture while the chocolate chips create rich pockets of melted chocolate. Distribute them well to ensure every slice has a bit of both.",
+            "timing": 2,
+            "doneness_cue": "Zucchini and chocolate chips are evenly incorporated."
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. This helps the bread bake evenly and develop a nice crust. Tap the pan gently on the counter to release any air bubbles trapped inside.",
+            "timing": 2,
+            "doneness_cue": "Batter is level and smooth on top."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake for 50-55 minutes or until a toothpick inserted in the center comes out with a few moist crumbs but no wet batter. Baking time can vary depending on your oven, so start checking around 45 minutes. Avoid opening the oven door too often to maintain steady heat.",
+            "timing": 50,
+            "doneness_cue": "Toothpick test shows moist crumbs but no raw batter."
+        },
+        {
+            "step": 8,
+            "instruction": "Allow the bread to cool in the pan for 10 minutes before transferring it to a wire rack to cool completely. Cooling in the pan too long can cause sogginess, while cooling on a rack prevents condensation and keeps the crust crisp.",
+            "timing": 15,
+            "doneness_cue": "Bread feels firm to the touch and no longer steaming."
+        },
+        {
+            "step": 9,
+            "instruction": "Once cooled, slice the bread with a serrated knife for clean cuts. Serve plain or with a smear of butter or cream cheese. This bread freezes well, so wrap tightly to enjoy later. Enjoy your moist, chocolatey zucchini bread fresh or reheated gently.",
+            "timing": 5,
+            "doneness_cue": "Slices hold together cleanly with visible chocolate chips."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Zucchini Chocolate Bread Stays Moist and Flavorful",
+        "content": "<p>This zucchini chocolate bread recipe succeeds because it balances moisture, texture, and flavor through careful ingredient choices and technique. First, the grated zucchini adds natural moisture and subtle sweetness without overpowering the bread. By squeezing out excess water, the bread avoids becoming soggy while maintaining a tender crumb. This step is crucial because zucchini contains a lot of water that can weigh down the batter if not properly drained.</p><p>The use of vegetable oil instead of butter helps keep the bread moist for longer periods. Oil coats flour proteins differently than butter, preventing them from drying out as quickly. This results in a softer, more tender crumb that stays fresh several days after baking. The cocoa powder adds a rich chocolate flavor and contributes to the bread's deep color, but it also slightly alters the batter's acidity, which interacts with the baking soda and baking powder to yield a perfect rise.</p><p>Chocolate chips scattered throughout the batter melt during baking, creating pockets of gooey richness that contrast beautifully with the soft crumb and flecks of zucchini. Folding the wet and dry ingredients gently prevents overdeveloping gluten, which would make the bread tough. The batter's thickness and moisture content are carefully balanced to ensure a moist yet structured loaf that slices cleanly.</p><p>Finally, the baking time and temperature are optimized to cook the bread evenly without drying out the edges. Cooling the loaf on a wire rack prevents condensation from softening the crust, preserving a slight crispness that complements the tender interior. These combined factors make this zucchini chocolate bread irresistibly moist, flavorful, and satisfying.</p>",
+        "ingredient_notes": {
+            "zucchini": "When selecting zucchini, choose medium-sized ones that are firm and free from soft spots or blemishes. Medium zucchinis have the right moisture content and flavor balance. Grate the zucchini finely and squeeze out excess water using a clean towel to prevent the bread from becoming too wet, but don't remove all moisture as it contributes to the bread's tenderness.",
+            "cocoa powder": "Use unsweetened natural cocoa powder for a deep chocolate flavor and rich color. Avoid Dutch-processed unless the recipe specifies, as it reacts differently with leavening agents. Cocoa powder also slightly acidifies the batter, which helps activate baking soda for a good rise.",
+            "vegetable oil": "Vegetable oil keeps the bread moist longer than butter due to its liquid state at room temperature. It coats flour proteins differently, resulting in a tender crumb. Neutral oils like canola or sunflower work well too. Avoid olive oil as it can impart an unwanted flavor.",
+            "baking soda and baking powder": "The combination of baking soda and baking powder ensures proper leavening. Baking soda reacts with the acidic cocoa powder and zucchini to create lift, while baking powder provides additional rise and helps the bread maintain structure. Using both balances the bread’s texture and crumb.",
+            "chocolate chips": "Semi-sweet chocolate chips are ideal for adding sweet pockets without overpowering the bread. They melt during baking, creating gooey spots that contrast with the tender crumb. For best results, fold them in gently and distribute evenly to avoid clumping."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze excess moisture from the zucchini before adding it to the batter.",
+            "reason": "Zucchini holds a lot of water, which can make your bread soggy if not removed. Squeezing out moisture ensures the bread stays moist but not wet, leading to a tender crumb without collapsing during baking."
+        },
+        {
+            "tip": "Use a serrated knife to slice the bread after it has cooled completely.",
+            "reason": "A serrated knife cuts through the soft crumb and chocolate chips cleanly without squashing the loaf. Cutting while warm can cause the bread to crumble or stick, so patience is key for neat slices."
+        },
+        {
+            "tip": "Do not overmix the batter once wet and dry ingredients are combined.",
+            "reason": "Overmixing develops gluten in the flour, making the bread tough and dense. Folding gently just until incorporated preserves a tender, moist crumb with a soft texture."
+        },
+        {
+            "tip": "Use room temperature eggs and oil for better batter consistency.",
+            "reason": "Room temperature ingredients blend more smoothly, creating a uniform batter that traps air effectively. This leads to better rise and a lighter texture in the final bread."
+        },
+        {
+            "tip": "Check the bread with a toothpick starting at 45 minutes to avoid overbaking.",
+            "reason": "Baking times vary by oven, and overbaking dries out the bread. Testing early prevents a dry loaf while ensuring it’s fully cooked through."
+        },
+        {
+            "tip": "Cool the bread on a wire rack to keep the crust crisp.",
+            "reason": "Cooling in the pan traps steam and causes sogginess. A wire rack allows air circulation, preserving a slight crust that contrasts nicely with the soft interior."
+        },
+        {
+            "tip": "Store leftover bread wrapped tightly in plastic or foil at room temperature.",
+            "reason": "Proper storage keeps the bread moist and fresh for several days. Wrapping prevents it from drying out or absorbing odors from other foods."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not removing enough moisture from zucchini",
+            "why_it_happens": "Many cooks underestimate how much water zucchini releases, assuming the grated vegetable won't affect texture much.",
+            "fix": "Squeeze the grated zucchini firmly in a clean towel before adding it to the batter. This prevents excess water from making the bread soggy and ensures a moist but firm crumb."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "In a rush, it's tempting to mix everything vigorously, but this develops gluten, resulting in a tough texture.",
+            "fix": "Fold ingredients gently until just combined. Stop mixing as soon as the dry ingredients disappear to keep the bread tender."
+        },
+        {
+            "mistake": "Using the wrong cocoa powder",
+            "why_it_happens": "Some recipes call for natural cocoa powder, but using Dutch-processed can affect rise and flavor.",
+            "fix": "Use unsweetened natural cocoa powder to ensure proper chemical reactions with baking soda and achieve the intended chocolate flavor."
+        },
+        {
+            "mistake": "Baking at too high a temperature",
+            "why_it_happens": "Higher temps can brown the crust too fast while leaving the center undercooked.",
+            "fix": "Bake at 350°F (175°C) and test with a toothpick starting at 45 minutes to ensure even cooking."
+        },
+        {
+            "mistake": "Cutting the bread too soon",
+            "why_it_happens": "Slicing while warm causes the crumb to crumble and lose shape.",
+            "fix": "Allow the bread to cool completely on a wire rack before slicing for clean, intact pieces."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Walnut Zucchini Chocolate Bread",
+            "description": "Add ½ cup chopped walnuts for a crunchy texture and nutty flavor that pairs beautifully with chocolate and zucchini. Toast the nuts lightly before folding them in for extra aroma.",
+            "technical_note": "Fold walnuts in with the chocolate chips in the final mixing step to distribute evenly without breaking them down."
+        },
+        {
+            "name": "Gluten-Free Zucchini Chocolate Bread",
+            "description": "Replace all-purpose flour with a gluten-free blend that includes xanthan gum. The bread will be slightly denser but still moist and delicious. Make sure your baking powder is gluten-free.",
+            "technical_note": "Check the batter consistency; gluten-free flours may need a slight adjustment in liquid or baking time."
+        },
+        {
+            "name": "Vegan Zucchini Chocolate Bread",
+            "description": "Substitute eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg) and use coconut oil instead of vegetable oil. Use dairy-free chocolate chips to keep it vegan-friendly.",
+            "technical_note": "Flax eggs require a few minutes to thicken before adding; the texture will be slightly different but still moist."
+        },
+        {
+            "name": "Spiced Zucchini Chocolate Bread",
+            "description": "Add 1 tsp cinnamon and ¼ tsp nutmeg to the dry ingredients for a warm, cozy flavor twist. This variation is perfect for fall and winter mornings.",
+            "technical_note": "Mix spices thoroughly with the dry ingredients to ensure even flavor distribution."
+        },
+        {
+            "name": "Zucchini Chocolate Banana Bread",
+            "description": "Add 1 ripe mashed banana to the wet ingredients for extra sweetness and moistness. This version has a richer flavor and softer crumb.",
+            "technical_note": "Reduce sugar slightly if using very ripe bananas to avoid overly sweet bread."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "12g",
+        "fiber_grams": "4g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the zucchini chocolate bread wrapped tightly in plastic wrap or in an airtight container at room temperature for up to 3 days. Keep it away from direct sunlight or heat sources to prevent drying out.",
+        "refrigerator": "You can refrigerate the bread for up to 5 days in an airtight container. The bread may firm up and lose some moisture, so bring it to room temperature or warm gently before serving for best texture.",
+        "freezer": "Freeze the bread wrapped tightly in plastic wrap and then foil or in a freezer-safe bag for up to 3 months. To thaw, leave it overnight in the fridge or at room temperature for a few hours. Reheat gently to restore softness.",
+        "reheating": "Reheat slices in a microwave for 15-20 seconds or in a toaster oven at 300°F for 5 minutes. Adding a small pat of butter or a splash of milk can help restore moisture. Avoid overheating to prevent drying.",
+        "make_ahead_strategy": "You can grate zucchini and prepare the dry ingredients a day ahead, storing them separately in airtight containers. Mix and bake the day you plan to serve for the freshest bread. The baked loaf can also be made a day ahead and wrapped tightly."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this bread?",
+            "answer": "Yes, but thaw and squeeze out all excess moisture thoroughly before using. Frozen zucchini tends to release more water, so proper draining is essential to avoid a soggy loaf."
+        },
+        {
+            "question": "Can I substitute the all-purpose flour with whole wheat flour?",
+            "answer": "You can substitute up to half with whole wheat flour for a nuttier flavor and more fiber. Keep in mind the bread may be denser and require slightly more liquid or baking time."
+        },
+        {
+            "question": "What if I don’t have cocoa powder?",
+            "answer": "Without cocoa powder, this becomes a classic zucchini bread rather than chocolate. You can omit it, but the flavor and color will change significantly."
+        },
+        {
+            "question": "How do I know when the bread is fully baked?",
+            "answer": "Insert a toothpick in the center; it should come out with a few moist crumbs but no wet batter. The bread should also spring back lightly when pressed on top."
+        },
+        {
+            "question": "Can I make muffins instead of a loaf?",
+            "answer": "Absolutely! Divide the batter into a greased or lined muffin tin and bake at 350°F for 20-25 minutes. Check doneness with a toothpick."
+        },
+        {
+            "question": "Is this recipe suitable for kids?",
+            "answer": "Yes, kids love the chocolate and moist texture. It’s a great way to sneak in veggies with a sweet treat."
+        },
+        {
+            "question": "Can I add nuts or dried fruit?",
+            "answer": "Yes, chopped nuts or dried fruit can be folded in with the zucchini and chocolate chips for extra texture and flavor."
+        },
+        {
+            "question": "What’s the best way to store leftover bread?",
+            "answer": "Wrap tightly in plastic wrap or store in an airtight container at room temperature for a few days. For longer storage, freeze as described."
+        }
+    ],
+    "conclusion": "I hope you enjoy this zucchini chocolate bread as much as my family does. It’s a simple, delicious way to add a little veggie goodness to your baking. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "zucchini chocolate bread recipe",
+        "secondary_keywords": [
+            "easy zucchini chocolate bread",
+            "homemade zucchini bread with chocolate",
+            "how to make zucchini chocolate bread",
+            "best zucchini chocolate bread recipe",
+            "moist zucchini chocolate bread"
+        ],
+        "internal_links": [
+            {
+                "text": "classic zucchini bread recipe",
+                "anchor": "classic-zucchini-bread"
+            },
+            {
+                "text": "tips for moist quick breads",
+                "anchor": "moist-quick-breads-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-09 23:09:11",
+        "title_seed": "Zucchini Chocolate Bread Recipetin Eats"
+    },
+    "author_id": "author_001",
+    "id": "post_1786316951_953",
+    "slug": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love",
+    "uniqueSlug": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_6.webp",
+            "relativePath": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep Zucchini Chocolate Bread for Busy Mornings"
+        },
+        {
+            "fileName": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_4.webp",
+            "relativePath": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Zucchini Chocolate Bread Stay So Moist?"
+        },
+        {
+            "fileName": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_7.webp",
+            "relativePath": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Zucchini Bread? This Chocolate Version Fixes It"
+        },
+        {
+            "fileName": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_5.webp",
+            "relativePath": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Zucchini Chocolate Bread Irresistible"
+        },
+        {
+            "fileName": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_8.webp",
+            "relativePath": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Zucchini Chocolate Bread Stay So Moist?"
+        },
+        {
+            "fileName": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_9.webp",
+            "relativePath": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Zucchini Chocolate Bread Stay So Moist?"
+        }
+    ],
+    "image": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images/easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love_pinrecipes_image_1.webp",
+    "image_dir": "easy-zucchini-chocolate-bread-recipe-with-moist-rich-flavor-youll-love/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-10T00:29:43+01:00",
+    "updatedAt": "2026-08-10T00:29:43+01:00",
+    "has_reel": true
+}
