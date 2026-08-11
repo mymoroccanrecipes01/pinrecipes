@@ -1,0 +1,319 @@
+{
+    "title": "Easy Homemade Chocolate Chip Zucchini Muffins That Stay Moist and Delicious",
+    "promptIMG": "Food photography: Chocolate Chip Zucchini Muffins, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm daylight filtering through a window. SUBJECT: a generous stack of homemade chocolate chip zucchini muffins piled high on a rustic ceramic plate, the top muffin front and center at a 30-degree angle showing its moist crumb speckled with dark chocolate chips and flecks of green zucchini, the rest softly fading into a warm bokeh. DETAILS: the muffins have a golden-brown crust with a slight sheen from natural sugars, chocolate chips glistening, and a light dusting of powdered sugar on top. STYLE: ultra-photorealistic professional food photography, bright and warm daylight with rich saturated tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no artificial lighting, no steam or smoke, no plastic textures.",
+        "img2": "SCENE: soft natural light coming from a nearby window with a warm wooden countertop blurred behind. SUBJECT: a close-up reveal shot of a chocolate chip zucchini muffin torn open, halves facing the camera, showing the moist, tender crumb with visible shreds of green zucchini and melted chocolate chips oozing slightly. DETAILS: the interior crumb is moist and glossy, contrasting with the golden crust edges, crumbs scattered naturally below the halves. STYLE: ultra-photorealistic professional food photography, warm daylight with glowing amber highlights, shallow macro depth of field, vertical 2:3. AVOID: no hands or utensils, no text or logos, no dull colors or CGI.",
+        "img3": "SCENE: a warm dark wood table softly blurred in the background with a single warm side glow highlighting the food. SUBJECT: several chocolate chip zucchini muffins arranged closely on a vintage ceramic plate, the front muffin topped with a light dusting of powdered sugar and a few chocolate chips scattered around, the rest receding into a warm bokeh. DETAILS: muffins have a glossy golden crust with visible chocolate chips and flecks of zucchini, intense wet shine on chocolate chips, crumbs scattered naturally. STYLE: ultra-photorealistic professional food photography with deep golden-amber warm tones, shallow macro depth of field, vertical 2:3. AVOID: no hands, no text, no logos, no steam or smoke."
+    },
+    "description": "These chocolate chip zucchini muffins are the perfect way to sneak veggies into a sweet treat. They stay moist thanks to fresh zucchini and have melty chocolate chips throughout. Great for breakfast or an afternoon snack!",
+    "hashtags": "#chocolatechipmuffins #zucchinibaking #easymuffins",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Do These Chocolate Chip Zucchini Muffins Stay So Moist?",
+            "description": "Ever wonder the secret to super moist zucchini muffins? It’s all about how the zucchini is prepared and the right balance of ingredients. Try this recipe for a soft, chocolatey treat that’s perfect for any time! Save this for your next baking day 🍫🥒 #moistmuffins #zucchinibaking"
+        },
+        {
+            "title": "The One Trick That Makes Chocolate Chip Zucchini Muffins Perfect Every Time",
+            "description": "Want muffins that are fluffy and moist with melty chocolate chips in every bite? This simple trick with how you fold in the zucchini makes all the difference. Give it a go and impress your family! Tap to get the full recipe 🍪 #bakingtips #chocolatechipmuffins"
+        },
+        {
+            "title": "15-Minute Prep Chocolate Chip Zucchini Muffins for Busy Mornings",
+            "description": "Short on time but want a homemade muffin? These chocolate chip zucchini muffins come together in just 15 minutes of prep and bake into a delicious, healthy-ish breakfast or snack. Perfect for busy mornings! Save this recipe now ⏰ #quickbaking #zucchinimuffins"
+        },
+        {
+            "title": "Still Making Dry Muffins? This Chocolate Chip Zucchini Recipe Fixes It",
+            "description": "Dry muffins are the worst! My go-to chocolate chip zucchini muffin recipe stays moist and tender thanks to fresh zucchini and a few baking secrets. Your family will thank you for this one! Try it out and see the difference 🍫 #moistmuffins #homemadebaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 12,
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/4 teaspoon ground nutmeg",
+        "1/2 cup unsalted butter, melted and cooled",
+        "1/2 cup granulated sugar",
+        "1/2 cup brown sugar, packed",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 1/2 cups grated zucchini (about 1 medium zucchini), excess moisture squeezed out",
+        "1 cup semisweet chocolate chips"
+    ],
+    "yield": "Approximately 12 standard-sized muffins",
+    "introduction": "I first made these chocolate chip zucchini muffins on a whim when I had a surplus of zucchini from my garden and a craving for something sweet but not too heavy. I wasn’t expecting much, but they turned out so moist and delicious that they quickly became a family favorite. What makes this version stand out is the balance between the fresh zucchini’s moisture and the melty chocolate chips that add just the right amount of sweetness without overpowering the subtle veggie flavor. I’ve found that squeezing out the extra moisture from the zucchini before mixing it in is key to keeping the muffins from becoming soggy. Plus, a touch of cinnamon and nutmeg adds a cozy warmth that makes these muffins perfect for breakfast or an afternoon snack. They’re simple to make, don’t require any fancy ingredients, and even my pickiest eaters love them. I think you’ll appreciate how easy they come together and how satisfying they are to bite into — tender crumb, gooey chocolate, and just a hint of fresh zucchini. It’s a little comfort food with a healthy twist, and I love sharing it with friends and family.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and line a muffin tin with paper liners or grease it well. This ensures your muffins don’t stick and come out cleanly. Getting the oven hot before you start mixing means the muffins bake evenly and rise properly.",
+            "timing": 10,
+            "doneness_cue": "Oven is fully preheated and muffin tin prepared"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the flour, baking powder, baking soda, salt, cinnamon, and nutmeg. Mixing the dry ingredients first helps distribute the leavening agents evenly, which leads to a consistent rise and flavor throughout the muffins.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are evenly combined with no clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, combine the melted butter with both sugars until smooth. Then beat in the eggs one at a time, followed by the vanilla extract. This wet mixture should be creamy and well combined. The melted butter adds richness and moisture, while the sugars and eggs help with structure and tenderness.",
+            "timing": 5,
+            "doneness_cue": "Wet ingredients are smooth and glossy with no lumps"
+        },
+        {
+            "step": 4,
+            "instruction": "Grate the zucchini finely and then place it in a clean kitchen towel or cheesecloth. Squeeze out as much excess moisture as possible. This step is crucial to prevent the muffins from becoming soggy and ensures the texture stays light and tender.",
+            "timing": 7,
+            "doneness_cue": "Zucchini is moist but not dripping wet"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the dry ingredients to the wet ingredients in two batches, folding gently after each addition. Avoid overmixing to keep the muffins tender and avoid a tough crumb. Stop mixing when you see no more streaks of flour.",
+            "timing": 5,
+            "doneness_cue": "Batter is smooth with no visible flour but not overly mixed"
+        },
+        {
+            "step": 6,
+            "instruction": "Fold in the grated zucchini and chocolate chips gently until evenly distributed. The zucchini adds moisture and subtle flavor, while the chocolate chips provide pockets of melty sweetness in every bite.",
+            "timing": 3,
+            "doneness_cue": "Zucchini and chocolate chips are evenly mixed throughout the batter"
+        },
+        {
+            "step": 7,
+            "instruction": "Spoon the batter evenly into the prepared muffin tin, filling each cup about 3/4 full. This helps the muffins rise nicely without spilling over. Using an ice cream scoop can make this easier and more uniform.",
+            "timing": 5,
+            "doneness_cue": "All muffin cups are evenly filled with batter"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the muffins for 25-30 minutes until golden brown and a toothpick inserted into the center comes out clean or with just a few moist crumbs. Avoid opening the oven door too early to prevent the muffins from collapsing.",
+            "timing": 30,
+            "doneness_cue": "Muffins have a golden crust and pass the toothpick test"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the muffins cool in the tin for 5-10 minutes before transferring to a wire rack to cool completely. This resting time lets the structure set so they don’t fall apart when you remove them.",
+            "timing": 10,
+            "doneness_cue": "Muffins are firm enough to handle without crumbling"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Chocolate Chip Zucchini Muffin Recipe Succeeds",
+        "content": "<p>The secret to these chocolate chip zucchini muffins lies in balancing moisture and structure. Fresh zucchini naturally contains a lot of water, which can make baked goods soggy if not handled correctly. By grating the zucchini finely and squeezing out excess moisture, the recipe ensures the muffins stay tender without becoming wet or dense.</p><p>The combination of baking powder and baking soda provides the right lift. Baking powder reacts with moisture and heat to create carbon dioxide bubbles that help the muffins rise, while baking soda neutralizes the acidity from the brown sugar and zucchini, enhancing browning and flavor. This duo creates a light crumb with a golden crust.</p><p>Using melted butter instead of oil adds richness and a slight caramel flavor that complements the chocolate chips and spices. The sugars (both brown and granulated) contribute to tenderness and moisture retention, while also helping the muffins brown beautifully in the oven.</p><p>Finally, folding the wet and dry ingredients carefully prevents overdeveloping gluten, which would make the muffins tough. The gentle folding keeps the crumb soft and delicate, while the chocolate chips melt during baking, creating pockets of gooey sweetness that contrast wonderfully with the subtle veggie flavor.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "All-purpose flour is the best choice for these muffins because it has a moderate protein content that provides enough gluten structure to hold the muffins together while still allowing tenderness. Avoid using cake flour, which is too soft, or bread flour, which is too strong and can make muffins chewy.",
+            "baking powder and baking soda": "Baking powder and baking soda work together to leaven the muffins. Baking powder contains both acid and base and reacts when wet and heated, while baking soda requires an acid to activate. Using both ensures a good rise and helps balance the pH for better color and flavor development.",
+            "zucchini": "Choose fresh, firm zucchini with smooth skin. Grate it finely and squeeze out excess moisture to prevent soggy muffins. The zucchini adds moisture and a subtle earthiness that pairs well with chocolate, making the muffins healthier without overpowering sweetness.",
+            "chocolate chips": "Semisweet chocolate chips are ideal for melting pockets of sweetness throughout the muffins. Avoid using chips that are too large or too small; standard size works best to distribute evenly and melt just right during baking.",
+            "butter": "Using melted unsalted butter adds a rich flavor and helps keep the muffins moist. Butter also contributes to a tender crumb and helps create a golden-brown crust. Make sure the butter is cooled before mixing to avoid cooking the eggs prematurely."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Squeeze the zucchini thoroughly to remove excess water before adding to the batter.",
+            "reason": "Excess moisture from zucchini can result in soggy muffins with a gummy texture. Removing the water ensures the muffins remain light and tender while still benefiting from the zucchini's moisture and flavor."
+        },
+        {
+            "tip": "Use room temperature eggs and butter to ensure even mixing.",
+            "reason": "Cold ingredients can cause the batter to curdle or mix unevenly, which affects texture and rise. Room temperature ingredients blend more smoothly, resulting in a uniform batter and better muffin texture."
+        },
+        {
+            "tip": "Do not overmix the batter once flour is added; fold gently until just combined.",
+            "reason": "Overmixing develops gluten, which can make muffins tough and dense. Gentle folding keeps the crumb tender and soft, which is especially important in zucchini muffins that should be moist but light."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing out enough moisture from the zucchini",
+            "why_it_happens": "Many assume grated zucchini can be added directly without draining, thinking the batter will absorb the water. This leads to soggy, underbaked muffins.",
+            "fix": "After grating, place zucchini in a clean towel and wring out as much water as possible. This prevents excess moisture from disrupting the muffin structure."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour",
+            "why_it_happens": "It’s tempting to mix thoroughly to combine ingredients, but this activates gluten excessively.",
+            "fix": "Mix just until no streaks of flour remain. A few lumps are okay. This keeps muffins tender and prevents toughness."
+        },
+        {
+            "mistake": "Baking at too high a temperature",
+            "why_it_happens": "Some cooks crank the oven up to speed baking, but this can cause muffins to brown too fast on the outside while remaining raw inside.",
+            "fix": "Stick to 350°F (175°C) for even baking. This temperature allows muffins to cook through without burning."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Version",
+            "description": "Swap all-purpose flour for a gluten-free blend made for baking. You might need to add a teaspoon of xanthan gum if your blend doesn’t include it to help with structure. The muffins will be just as moist and delicious but safe for gluten-sensitive eaters.",
+            "technical_note": "Gluten-free flours absorb moisture differently, so check the batter consistency and add a splash of milk if too thick."
+        },
+        {
+            "name": "Vegan Chocolate Chip Zucchini Muffins",
+            "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use coconut oil instead of butter. Use dairy-free chocolate chips. The texture will be slightly denser but still moist and satisfying.",
+            "technical_note": "Let the flax eggs sit for 5 minutes before mixing to thicken properly, which helps bind the batter."
+        },
+        {
+            "name": "Add Nuts for Crunch",
+            "description": "Fold in 1/2 cup chopped walnuts or pecans for added texture and flavor. Nuts complement the chocolate and zucchini beautifully and add a nice crunch to each bite.",
+            "technical_note": "Toast the nuts lightly before adding to enhance their flavor."
+        }
+    ],
+    "storage_and_reheating": {
+        "room_temperature": "Store muffins in an airtight container at room temperature for up to 2 days. Keep them away from direct sunlight or heat to maintain moisture and prevent drying out.",
+        "refrigerator": "You can refrigerate muffins for up to 5 days in an airtight container. They may firm up slightly when chilled, so allow them to come to room temperature or warm briefly before serving for the best texture.",
+        "freezer": "Freeze muffins individually wrapped in plastic wrap and placed in a freezer-safe bag for up to 3 months. Thaw at room temperature or warm gently in the microwave to restore softness.",
+        "reheating": "Reheat muffins in a microwave for 15-20 seconds or in a 325°F oven for 5-7 minutes. Adding a small dab of butter or a splash of milk before warming can help restore moisture.",
+        "make_ahead_strategy": "You can grate and squeeze the zucchini a day ahead and store it in the fridge. Also, prepare the dry ingredients in advance. Mix everything and bake fresh on the day you want to serve for the best flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini instead of fresh?",
+            "answer": "You can use frozen zucchini, but make sure to thaw it completely and squeeze out all excess water before adding it to the batter. Frozen zucchini tends to hold more water, so removing moisture is critical to avoid soggy muffins."
+        },
+        {
+            "question": "Why do my muffins turn out dense instead of light?",
+            "answer": "Dense muffins often result from overmixing the batter or not using enough leavening agents. Mix just until combined and ensure your baking powder and soda are fresh for proper rise."
+        },
+        {
+            "question": "Can I substitute oil for butter in this recipe?",
+            "answer": "Yes, you can substitute an equal amount of neutral oil like vegetable or canola oil. The texture will be moist but slightly less rich in flavor compared to butter."
+        },
+        {
+            "question": "How do I prevent chocolate chips from sinking to the bottom?",
+            "answer": "Toss chocolate chips lightly in flour before folding them into the batter. This helps suspend them evenly throughout the muffins during baking."
+        },
+        {
+            "question": "Can I make these muffins gluten-free?",
+            "answer": "Absolutely. Use a gluten-free flour blend designed for baking and consider adding xanthan gum if your blend lacks it. Adjust liquid as needed for batter consistency."
+        },
+        {
+            "question": "How long do these muffins keep fresh?",
+            "answer": "At room temperature, they stay fresh for about 2 days, refrigerated up to 5 days, and frozen for up to 3 months. Proper storage in airtight containers is key."
+        },
+        {
+            "question": "Can I add other mix-ins besides chocolate chips?",
+            "answer": "Yes, nuts like walnuts or pecans, dried fruit, or even shredded coconut work well. Just fold them in gently to avoid overmixing."
+        },
+        {
+            "question": "Is it necessary to peel the zucchini?",
+            "answer": "No, the skin is thin and adds color and nutrients. Just wash thoroughly before grating."
+        }
+    ],
+    "conclusion": "I hope you enjoy these chocolate chip zucchini muffins as much as my family does. They’re easy to make, moist, and a perfect way to add a little veggie goodness to your baking. Give them a try and let me know how they turn out!",
+    "seo": {
+        "primary_keyword": "chocolate chip zucchini muffins",
+        "secondary_keywords": [
+            "zucchini muffins recipe",
+            "how to make zucchini muffins",
+            "best chocolate chip zucchini muffins",
+            "easy zucchini muffins"
+        ],
+        "internal_links": [
+            {
+                "text": "moist banana bread recipe",
+                "anchor": "moist-banana-bread-recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-11 23:20:48",
+        "title_seed": "Chocolate Chip Zucchini Muffins"
+    },
+    "author_id": "author_001",
+    "id": "post_1786490448_210",
+    "slug": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious",
+    "uniqueSlug": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_5.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Chocolate Chip Zucchini Muffins Perfect Every Time"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_9.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Do These Chocolate Chip Zucchini Muffins Stay So Moist?"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_6.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep Chocolate Chip Zucchini Muffins for Busy Mornings"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_4.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Do These Chocolate Chip Zucchini Muffins Stay So Moist?"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_7.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Making Dry Muffins? This Chocolate Chip Zucchini Recipe Fixes It"
+        },
+        {
+            "fileName": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_8.webp",
+            "relativePath": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Do These Chocolate Chip Zucchini Muffins Stay So Moist?"
+        }
+    ],
+    "image": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images/easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious_pinrecipes_image_1.webp",
+    "image_dir": "easy-homemade-chocolate-chip-zucchini-muffins-that-stay-moist-and-delicious/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-12T00:37:43+01:00",
+    "updatedAt": "2026-08-12T00:37:43+01:00",
+    "has_reel": true
+}

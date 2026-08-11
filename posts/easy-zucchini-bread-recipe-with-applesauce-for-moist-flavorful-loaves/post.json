@@ -1,0 +1,365 @@
+{
+    "title": "Easy Zucchini Bread Recipe With Applesauce for Moist, Flavorful Loaves",
+    "promptIMG": "Food photography: Zucchini Bread with Applesauce, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: A softly blurred home kitchen with natural daylight streaming through a bright window, faint reflections on a clean countertop, no identifiable objects in focus. SUBJECT: A generous stack of thick slices of zucchini bread with applesauce in a rustic ceramic loaf pan, filling most of the frame with the front slice sharply focused at a slight angle showcasing its moist crumb studded with green zucchini flecks and warm brown crust. DETAILS: The crust has a golden caramelized sheen with a light dusting of powdered sugar, crumbs scattered naturally around the edges, and a subtle glossy shine on the applesauce swirled into the batter. STYLE: Ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors emphasizing the bread’s texture and moisture, shallow macro depth of field; vertical 2:3. AVOID: no text, no logos, no hands or people, no steam or smoke, no plastic or over-smoothed textures.",
+        "img2": "SCENE: Soft, diffused daylight through a bright window with a marble-toned background softly blurred. SUBJECT: The reveal shot of the zucchini bread with applesauce, cut in half with both halves facing the camera, showing the moist interior crumb with visible green zucchini strands and pockets of tender applesauce. The torn crumb glistens with moisture, and the crust edges have a deep caramel amber color. DETAILS: The interior is glossy and wet-looking, contrasting with the crisp crust, crumbs scattered naturally on the surface below, and a light dusting of powdered sugar on top. STYLE: Ultra-photorealistic professional food photography, bright airy daylight with warm golden hues, richly saturated appetizing colors, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands or people, no dull colors or CGI effects, no steam or smoke.",
+        "img3": "SCENE: Warm dark wood surface softly blurred with a side warm glow, creating a cozy atmosphere. SUBJECT: Several slices of zucchini bread with applesauce arranged closely in a rustic ceramic loaf pan alongside a small bowl of fresh applesauce and a sprig of fresh mint for garnish. The front slice is sharply focused with a glossy finish and light powdered sugar dusting, the rest receding into warm bokeh. DETAILS: Intense wet glossy shine on the applesauce topping and the moist bread crumb, deep golden caramelized crust edges, a few crumbs scattered naturally on the wooden surface. STYLE: Ultra-photorealistic professional food photography, warm golden-amber color grading, richly saturated glowing appetizing tones, shallow macro depth of field; vertical 2:3. AVOID: no text, no logos, no hands or people, no dull or washed-out colors, no steam or smoke."
+    },
+    "description": "This zucchini bread with applesauce is a moist, flavorful twist on a classic favorite. The applesauce keeps it tender without extra oil, making it perfect for a cozy afternoon snack or breakfast treat. You'll love how easy it is to whip up!",
+    "hashtags": "#zucchinibread #easybaking #moistbread",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does This Zucchini Bread With Applesauce Stay So Moist?",
+            "description": "Discover the secret ingredient that keeps this zucchini bread irresistibly moist and tender every time. 🍞🍏 Save this recipe for your next baking day! #zucchinibread #applesauce #easybaking"
+        },
+        {
+            "title": "The One Trick That Makes Zucchini Bread With Applesauce Foolproof",
+            "description": "A simple swap with applesauce makes this zucchini bread fail-proof and super moist. You'll never bake it any other way! 🍏✨ Tap for the full recipe. #easybaking #moistbread #zucchinibread"
+        },
+        {
+            "title": "15-Minute Prep Zucchini Bread With Applesauce for Busy Bakers",
+            "description": "Whip up this delicious zucchini bread with applesauce in just 15 minutes of prep! Perfect for busy mornings or last-minute guests. 🍞⏰ Save it now! #quickbaking #zucchinibread #applesauce"
+        },
+        {
+            "title": "Zucchini Bread With Applesauce vs Traditional Loaf - Which Is Better?",
+            "description": "We compare classic zucchini bread to the applesauce version—spoiler, it’s moister and healthier! 🍏🍞 Try it yourself and see which wins. Save for later! #zucchinibread #healthyrecipes #bakingtips"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
+    "ingredients": [
+        "2 cups grated zucchini, squeezed dry",
+        "1 cup unsweetened applesauce",
+        "1 1/2 cups all-purpose flour",
+        "1/2 cup brown sugar, packed",
+        "1/4 cup granulated sugar",
+        "1/4 cup vegetable oil",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/4 teaspoon ground nutmeg"
+    ],
+    "yield": "One 9x5 inch loaf, approximately 8 servings",
+    "introduction": "I first made this zucchini bread with applesauce when I wanted a lighter, less oily version of my usual loaf. Using applesauce instead of extra oil was a game changer — it keeps the bread moist and tender without the heaviness. My family loves this version because it’s not overly sweet but still packed with cozy fall flavors like cinnamon and nutmeg. The grated zucchini adds a subtle freshness and the applesauce adds natural sweetness and moisture, making it perfect for breakfast or an afternoon snack with tea. I also learned that squeezing the zucchini dry before mixing is key to preventing sogginess. This recipe is straightforward and forgiving, great for anyone who wants a simple, comforting loaf that’s a bit healthier but still delicious. The finished bread is golden brown with a tender, moist crumb and just the right hint of spice. It’s become a favorite in my home, especially when zucchini is in season and I want to use it up in a tasty way. If you’re looking for an easy, homemade zucchini bread that’s a little different, this recipe is a winner.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x5 inch loaf pan with butter or non-stick spray. This step ensures your bread won’t stick and bakes evenly. Preheating the oven early allows it to reach the perfect temperature by the time your batter is ready, which helps the bread rise properly and develop a nice crust.",
+            "timing": 10,
+            "doneness_cue": "Oven is fully preheated to 350°F; pan is evenly greased with no dry spots."
+        },
+        {
+            "step": 2,
+            "instruction": "Grate the zucchini using the large holes of a box grater, then place it in a clean kitchen towel and squeeze out as much moisture as possible. Removing excess water is crucial to avoid a soggy loaf and helps the bread hold its structure while baking.",
+            "timing": 10,
+            "doneness_cue": "Zucchini feels damp but not dripping wet; about 1 cup of squeezed zucchini remains."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large mixing bowl, whisk together the eggs, applesauce, oil, brown sugar, granulated sugar, and vanilla extract until smooth and well combined. This creates your wet base and dissolves the sugars, which helps with even sweetness and moisture distribution.",
+            "timing": 5,
+            "doneness_cue": "Mixture is smooth, glossy, and homogenous with no lumps."
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, sift together the flour, baking soda, baking powder, salt, cinnamon, and nutmeg. Sifting aerates the flour and evenly distributes the leavening agents and spices, which ensures a light texture and balanced flavor throughout the bread.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are fully combined and light, no clumps of flour or spices."
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually add the dry ingredients to the wet mixture, folding gently with a spatula just until combined. Overmixing can develop gluten and make the bread tough, so mix until you no longer see dry flour but don’t overwork it.",
+            "timing": 5,
+            "doneness_cue": "Batter is thick, slightly lumpy, and homogenous with no visible flour patches."
+        },
+        {
+            "step": 6,
+            "instruction": "Fold in the grated zucchini carefully, distributing it evenly without breaking down the batter. This adds moisture and texture, and folding gently keeps the batter light and airy.",
+            "timing": 3,
+            "doneness_cue": "Zucchini is evenly dispersed throughout the batter without clumps."
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. This helps the bread bake evenly and develop a smooth golden crust.",
+            "timing": 2,
+            "doneness_cue": "Batter fills the pan evenly with a smooth surface, no air pockets."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake for 50-60 minutes, checking at 50 minutes by inserting a toothpick into the center. If it comes out clean or with a few moist crumbs, the bread is done. Baking time can vary based on oven and moisture content, so watch closely to avoid drying out.",
+            "timing": 50,
+            "doneness_cue": "Toothpick inserted comes out clean or with a few moist crumbs, crust is golden brown."
+        },
+        {
+            "step": 9,
+            "instruction": "Allow the bread to cool in the pan for 10 minutes, then transfer to a wire rack to cool completely. Cooling lets the crumb set and prevents the bread from becoming gummy when sliced.",
+            "timing": 15,
+            "doneness_cue": "Bread is firm to the touch and cool enough to slice without crumbling."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Zucchini Bread With Applesauce Is So Moist and Tender",
+        "content": "<p>Using applesauce in place of some or all of the oil in this zucchini bread recipe is the key to its moist and tender texture. Applesauce adds natural sweetness and moisture without the heaviness of oil, which keeps the crumb light and fluffy. The pectin in applesauce also helps bind the ingredients, improving the bread’s structure.</p><p>Grating and squeezing the zucchini removes excess water that would otherwise make the bread soggy or dense. This step is crucial because zucchini is naturally high in moisture, and controlling that moisture balance ensures the bread bakes evenly with a tender crumb.</p><p>The combination of baking soda and baking powder provides the right leavening balance. Baking soda reacts with the acidic applesauce and brown sugar to create carbon dioxide bubbles that lighten the batter, while baking powder offers additional lift for a soft texture. This dual leavening prevents the bread from being too dense or heavy.</p><p>Finally, the gentle folding technique minimizes gluten development. Overmixing flour activates gluten, which can make quick breads tough. Folding just until combined maintains a tender crumb and lets the zucchini strands remain visible, adding texture and moisture pockets throughout the loaf.</p>",
+        "ingredient_notes": {
+            "applesauce": "Choose unsweetened applesauce to control the sweetness and moisture level in the bread. It replaces some oil, making the loaf lighter and healthier while adding natural sugars and pectin that improve texture and binding. Avoid sweetened varieties to prevent an overly sweet or wet batter.",
+            "zucchini": "Use fresh, medium-sized zucchini with firm skin and no soft spots. Grate it finely and squeeze out excess moisture to prevent sogginess. The zucchini adds moisture and subtle flavor without overpowering the spices. You can substitute yellow squash if desired, but the texture and flavor will vary slightly.",
+            "flour": "All-purpose flour provides the right balance of protein for structure without making the bread tough. Sifting the flour with leavening agents ensures even distribution and aeration, which helps the bread rise properly and have a light crumb.",
+            "baking soda and baking powder": "Baking soda reacts with the acidic applesauce and brown sugar to create lift, while baking powder adds extra rising power. Using both ensures the bread rises well and has a tender crumb. Using too much baking soda can cause a metallic taste, so precise measurement is important.",
+            "spices (cinnamon and nutmeg)": "Freshly ground cinnamon and nutmeg add warm, cozy flavor that complements the zucchini and applesauce perfectly. These spices enhance the bread’s aroma and depth without overpowering the natural sweetness. Adjust amounts to taste but avoid omitting for best results."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze the grated zucchini to remove excess water before adding it to the batter.",
+            "reason": "Zucchini contains a lot of moisture which can make the bread soggy or dense if not removed. Squeezing it ensures the batter has the right moisture balance, resulting in a tender but well-structured loaf."
+        },
+        {
+            "tip": "Use unsweetened applesauce instead of sweetened to control the bread’s sweetness and moisture.",
+            "reason": "Sweetened applesauce can add too much sugar and liquid, which may affect the bread’s texture and baking time. Unsweetened applesauce gives natural sweetness and moisture without overpowering the other flavors."
+        },
+        {
+            "tip": "Do not overmix the batter once you add the flour mixture.",
+            "reason": "Overmixing develops gluten in the flour, which makes the bread tough and chewy rather than soft and tender. Mixing just until combined keeps the crumb light and moist."
+        },
+        {
+            "tip": "Check the bread with a toothpick starting at 50 minutes to avoid overbaking.",
+            "reason": "Baking times vary by oven and moisture content. Checking early helps prevent drying out the bread, keeping it moist and tender inside with a golden crust outside."
+        },
+        {
+            "tip": "Let the bread cool completely before slicing.",
+            "reason": "Cooling allows the crumb to set and prevents the bread from crumbling or becoming gummy when cut. It also enhances the flavor as the spices and moisture distribute evenly."
+        },
+        {
+            "tip": "Use a light hand when folding in the zucchini to keep the batter airy.",
+            "reason": "Gentle folding preserves air bubbles in the batter, which helps the bread rise and keeps the texture light. Rough mixing deflates the batter and can make the loaf dense."
+        },
+        {
+            "tip": "Add a sprinkle of chopped nuts or raisins for extra texture if desired.",
+            "reason": "While optional, nuts or raisins add pleasant texture contrast and bursts of flavor. They also absorb some moisture, which can slightly alter baking time."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing the zucchini enough",
+            "why_it_happens": "Many assume grated zucchini can be added directly, but its high water content can make the batter too wet.",
+            "fix": "After grating, wrap zucchini in a clean towel and squeeze firmly to remove excess liquid, ensuring the batter isn’t overly moist and the bread bakes properly."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Eager cooks often mix until perfectly smooth, not realizing this activates gluten.",
+            "fix": "Mix just until dry ingredients are moistened. Slight lumps are fine. This keeps the bread tender instead of tough."
+        },
+        {
+            "mistake": "Skipping preheating the oven",
+            "why_it_happens": "Sometimes overlooked in a rush, leading to uneven baking.",
+            "fix": "Always preheat fully before baking to ensure the bread rises correctly and develops a golden crust."
+        },
+        {
+            "mistake": "Using sweetened applesauce",
+            "why_it_happens": "Assuming all applesauce varieties work the same.",
+            "fix": "Use unsweetened applesauce to control sugar levels and moisture, preventing overly sweet or soggy bread."
+        },
+        {
+            "mistake": "Not testing doneness with a toothpick",
+            "why_it_happens": "Relying solely on baking time can lead to under- or overbaking.",
+            "fix": "Insert a toothpick near the end of baking; it should come out clean or with a few moist crumbs for perfect doneness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Nuts and Raisins",
+            "description": "Fold in 1/2 cup chopped walnuts or pecans and 1/3 cup raisins to the batter for extra texture and flavor. These add crunch and bursts of sweetness, making the bread more festive and hearty.",
+            "technical_note": "Adding nuts and raisins may increase baking time by 5-7 minutes; test doneness accordingly."
+        },
+        {
+            "name": "Gluten-Free Version",
+            "description": "Substitute the all-purpose flour with a gluten-free baking blend that includes xanthan gum. This makes the bread suitable for gluten-sensitive diets while maintaining a tender crumb.",
+            "technical_note": "Gluten-free flours absorb more moisture; you may need to slightly reduce applesauce or add an extra egg for structure."
+        },
+        {
+            "name": "Spiced Up with Ginger and Cloves",
+            "description": "Add 1/2 teaspoon ground ginger and 1/4 teaspoon ground cloves to the spice mix for a warmer, more complex flavor profile perfect for fall and winter.",
+            "technical_note": "Adjust spices to taste; these stronger flavors complement but can overpower if too much is used."
+        },
+        {
+            "name": "Vegan Adaptation",
+            "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed mixed with 3 tablespoons water per egg) and use coconut oil instead of vegetable oil for a vegan-friendly loaf.",
+            "technical_note": "Flax eggs can make the bread slightly denser; ensure thorough mixing and do not overbake."
+        },
+        {
+            "name": "Add Citrus Zest",
+            "description": "Stir in 1 teaspoon of lemon or orange zest to the batter for a fresh, bright note that balances the sweetness and spices.",
+            "technical_note": "Use fresh zest for best flavor; avoid adding juice which can alter batter moisture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "5g",
+        "fiber_grams": "2g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the zucchini bread covered loosely with foil or a clean towel at room temperature for up to 2 days. Avoid airtight containers at room temp as they can trap moisture and make the crust soggy.",
+        "refrigerator": "Keep the bread in an airtight container or wrapped tightly in plastic wrap in the fridge for up to 5 days. The bread may firm up and the crust soften; warm slices briefly in the microwave or oven before serving.",
+        "freezer": "Wrap the cooled loaf tightly in plastic wrap and then foil, or slice and freeze individual portions in airtight bags for up to 3 months. Thaw at room temperature or warm gently in the oven to restore freshness.",
+        "reheating": "Reheat slices in a toaster oven or conventional oven at 325°F for 5-7 minutes for a crisp crust and warm crumb. Avoid microwaving too long as it can make the bread gummy.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it covered in the fridge. Bake fresh the next day for best rise and texture. Alternatively, bake the loaf and freeze it; thaw before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this bread?",
+            "answer": "Frozen zucchini can be used if thoroughly thawed and squeezed dry. However, it often has more water content than fresh, so make sure to press out as much moisture as possible to prevent a soggy loaf."
+        },
+        {
+            "question": "What if I don’t have applesauce? Can I substitute it?",
+            "answer": "You can substitute applesauce with mashed banana or pumpkin puree for similar moisture and sweetness. Keep in mind these will change the flavor slightly and may affect baking time."
+        },
+        {
+            "question": "How do I know when the bread is fully baked?",
+            "answer": "Insert a toothpick into the center. If it comes out clean or with a few moist crumbs, the bread is done. The crust should be golden brown and spring back lightly when pressed."
+        },
+        {
+            "question": "Can I make this bread gluten-free?",
+            "answer": "Yes, using a gluten-free baking flour blend that includes xanthan gum works well. You may need to adjust moisture slightly and expect a denser texture."
+        },
+        {
+            "question": "Why does my zucchini bread sometimes turn out dry?",
+            "answer": "Dry bread often results from overbaking or not enough moisture in the batter. Make sure to measure ingredients accurately, don’t overbake, and use applesauce to keep it moist."
+        },
+        {
+            "question": "Can I add nuts or dried fruit?",
+            "answer": "Absolutely! Chopped walnuts, pecans, or raisins add great texture and flavor. Fold them in gently before baking and adjust baking time slightly if needed."
+        },
+        {
+            "question": "Is it necessary to preheat the oven?",
+            "answer": "Yes, preheating ensures even baking and proper rise. Starting in a cold oven can lead to dense, unevenly baked bread."
+        },
+        {
+            "question": "How long does zucchini bread keep fresh?",
+            "answer": "At room temperature, it stays fresh for 2 days. Refrigerated in an airtight container, it lasts up to 5 days. For longer storage, freeze for up to 3 months."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this zucchini bread with applesauce as much as I do. It’s a simple, comforting treat that feels like a hug in every bite. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "zucchini bread recipe with applesauce",
+        "secondary_keywords": [
+            "easy zucchini bread recipe",
+            "moist zucchini bread",
+            "how to make zucchini bread",
+            "best zucchini bread recipe",
+            "healthy zucchini bread"
+        ],
+        "internal_links": [
+            {
+                "text": "classic banana bread recipe",
+                "anchor": "classic-banana-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-11 23:13:31",
+        "title_seed": "Zucchini Bread Recipe With Applesauce"
+    },
+    "author_id": "author_001",
+    "id": "post_1786490011_880",
+    "slug": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves",
+    "uniqueSlug": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_2.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_3.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_8.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Zucchini Bread With Applesauce Stay So Moist?"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_6.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Prep Zucchini Bread With Applesauce for Busy Bakers"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_4.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Zucchini Bread With Applesauce Stay So Moist?"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_7.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Zucchini Bread With Applesauce vs Traditional Loaf - Which Is Better?"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_5.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Zucchini Bread With Applesauce Foolproof"
+        },
+        {
+            "fileName": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_9.webp",
+            "relativePath": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Zucchini Bread With Applesauce Stay So Moist?"
+        }
+    ],
+    "image": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves_pinrecipes_image_1.webp",
+    "image_dir": "easy-zucchini-bread-recipe-with-applesauce-for-moist-flavorful-loaves/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-12T00:37:43+01:00",
+    "updatedAt": "2026-08-12T00:37:43+01:00",
+    "has_reel": true
+}
