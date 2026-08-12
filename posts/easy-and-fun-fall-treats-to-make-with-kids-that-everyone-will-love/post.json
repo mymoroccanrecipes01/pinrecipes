@@ -1,0 +1,364 @@
+{
+    "title": "Easy and Fun Fall Treats to Make with Kids That Everyone Will Love",
+    "promptIMG": "Food photography: fall treats to make with kids, assorted colorful autumn-themed cookies and snacks arranged on a rustic wooden board, natural lighting from a kitchen window, documentary style, realistic warm tones and textures --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm daylight streaming in through a window, faint reflections on the countertop. SUBJECT: a generous, overflowing assortment of colorful fall-themed cookies and snacks arranged on a rustic wooden board, filling 95% of the frame with edges cropping out; front cookie sharply focused at a 30-degree angle showing its crisp edges and autumn leaf shapes with vibrant orange and red icing, the rest softly fading into bokeh. DETAILS: glossy icing with natural shine, sprinkled cinnamon sugar dusting, tiny edible decorations like candy acorns and pumpkin seeds scattered naturally; textures show slight crumb and icing thickness. STYLE: ultra-photorealistic professional food photography with bright, warm golden-amber daylight, rich saturated colors that pop, shallow macro depth of field vertical 2:3. AVOID: no text, no hands, no people, no logos, no steam or smoke, no dull or flat colors.",
+        "img2": "SCENE: soft light blur background of a light grey marble countertop, bright natural daylight from a nearby window. SUBJECT: a close-up reveal shot of a freshly baked fall cookie cut in half, both halves facing the camera, showing a moist, tender crumb with specks of cinnamon and pumpkin puree; glossy orange icing slowly dripping down the side frozen mid-drip, highlighting the gooey texture inside. DETAILS: strong contrast between the moist interior and the crisp golden-brown edges, light dusting of powdered sugar on the surface, crumbs scattered naturally below the cookie halves. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors, shallow macro depth of field vertical 2:3. AVOID: no text, no hands or people, no logos or watermarks, no CGI or plastic textures, no steam.",
+        "img3": "SCENE: warm dark wood tones softly blurred behind with a single warm side glow highlighting the scene, creating a cozy autumn atmosphere. SUBJECT: several fall-themed cookies and treats arranged closely together on a rustic wooden board, garnished with small cinnamon sticks and a few fresh cranberries; front cookie razor-sharp with glossy icing and tiny candy acorn decorations, others receding softly into warm bokeh. DETAILS: intense wet glossy shine on icing surfaces, deep golden-brown caramelized edges, light powdered sugar dusting drifting into creases, a few crumbs scattered naturally on the board. STYLE: ultra-photorealistic professional food photography with deep golden-amber warm color grading, highly saturated appetizing tones, shallow macro depth of field vertical 2:3. AVOID: no text, no hands or people, no logos, no dim or moody lighting, no CGI or over-smoothing."
+    },
+    "description": "These easy fall treats are perfect for making with kids on crisp autumn afternoons. With simple ingredients and fun shapes, they’re a cozy way to celebrate the season together. Great for after school or weekend baking fun!",
+    "hashtags": "#falltreats #kidfriendlybaking #easyrecipes",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Do Kids Love Making These Easy Fall Treats Together?",
+            "description": "Discover the magic behind these simple fall treats that kids adore baking and decorating. 🍁 Perfect for cozy afternoons and creating sweet memories. Save this for your next family baking day! #fallbaking #kidfriendlyrecipes #familyfun"
+        },
+        {
+            "title": "The One Trick That Makes Fall Treats with Kids Foolproof Every Time",
+            "description": "Learn the secret to hassle-free fall treats that turn out perfect every time, even with little helpers in the kitchen. 🍂 Easy steps and delicious results! Tap to get the full recipe. #easybaking #fallrecipes #kidfriendly"
+        },
+        {
+            "title": "15-Minute Fall Treats to Make with Kids for Busy Weekends",
+            "description": "Short on time? These quick fall treats are ready in 15 minutes and fun to make with kids. 🍪 Cozy, simple, and delicious! Perfect for busy weekends. Save this recipe for later! #quickrecipes #falltreats #kidfriendly"
+        },
+        {
+            "title": "Still Searching for Kid-Friendly Fall Treats? Try These Easy Recipes",
+            "description": "If you’re looking for fall treats that are easy and fun for kids to make, these recipes are just what you need. 🍁 Simple ingredients, big smiles. Tap to get started! #kidfriendlybaking #fallsnacks #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1/4 teaspoon salt",
+        "1/2 cup unsalted butter, softened",
+        "1 cup granulated sugar",
+        "1 large egg",
+        "1/2 cup canned pumpkin puree",
+        "1 teaspoon vanilla extract",
+        "For icing: 1 cup powdered sugar, 2 tablespoons milk, food coloring (orange, red, yellow)"
+    ],
+    "yield": "Approximately 24 cookies, 8 servings",
+    "introduction": "I’ve always loved baking with my kids during the fall—it’s such a cozy way to welcome the season and make memories. This recipe for fall treats to make with kids has been a family favorite for years. What makes it special is how simple the dough is to mix and roll out, plus the fun of cutting out autumn shapes like leaves and pumpkins. I remember the first time my youngest decorated the cookies with bright orange icing—it was a messy but joyful moment that made me realize how much these little traditions mean. The trick I learned is to chill the dough well before rolling; it keeps the cookies from spreading too much and helps them hold their shapes perfectly. These treats bake up soft with a hint of warm spices, and the icing adds a sweet, colorful finish that kids love. Whether you’re baking after school or on a lazy weekend morning, these fall treats are easy, fun, and delicious enough to share with friends and family. I hope you enjoy making them as much as we do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by whisking together the flour, baking powder, baking soda, cinnamon, nutmeg, and salt in a medium bowl. This dry mix ensures the spices are evenly distributed and the leavening agents are well combined, which helps the cookies rise just right and have a balanced flavor. Mixing the dry ingredients separately prevents clumps and guarantees a smooth dough texture later. Set aside while you prepare the wet ingredients.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are evenly mixed with no lumps or streaks."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, cream the softened butter and sugar together using a hand mixer or stand mixer on medium speed. This process incorporates air into the mixture, making the cookies light and tender. Beat until the mixture is pale and fluffy, about 3-4 minutes. Add the egg, pumpkin puree, and vanilla extract, then mix until fully combined. The pumpkin adds moisture and a subtle autumn flavor, keeping the cookies soft.",
+            "timing": "7 minutes",
+            "doneness_cue": "Mixture is smooth, creamy, and homogenous with no visible butter or sugar granules."
+        },
+        {
+            "step": 3,
+            "instruction": "Gradually add the dry ingredient mixture into the wet ingredients, mixing on low speed to avoid overworking the dough. Overmixing can develop gluten and make cookies tough. Mix just until the flour disappears and the dough forms a cohesive ball. If the dough feels sticky, chill it in the refrigerator for 30 minutes to make rolling easier and to help the cookies hold their shape during baking.",
+            "timing": "5 minutes plus 30 minutes chilling",
+            "doneness_cue": "Dough is smooth, slightly firm but pliable, and holds together well."
+        },
+        {
+            "step": 4,
+            "instruction": "Preheat your oven to 350°F (175°C) and line baking sheets with parchment paper. Lightly flour your work surface and roll out the dough to about 1/4 inch thickness. Using fall-themed cookie cutters (leaves, pumpkins, acorns), cut out shapes and place them 1 inch apart on the baking sheets. Rolling evenly ensures uniform baking and prevents some cookies from burning while others remain underdone.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cookies are evenly cut with clean edges and spaced properly on the sheet."
+        },
+        {
+            "step": 5,
+            "instruction": "Bake the cookies for 10-12 minutes or until the edges are just set and lightly golden. Avoid overbaking to keep them soft and tender inside. You’ll notice a subtle aroma of cinnamon and pumpkin filling your kitchen. Remove from the oven and let the cookies cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely.",
+            "timing": "12 minutes baking plus 5 minutes cooling",
+            "doneness_cue": "Edges are slightly golden but centers remain soft; cookies are firm enough to move without breaking."
+        },
+        {
+            "step": 6,
+            "instruction": "While cookies cool, prepare the icing by whisking powdered sugar with milk and a few drops of food coloring until smooth and glossy. Adjust the consistency by adding more milk to thin or more sugar to thicken. This icing is perfect for decorating and dries to a shiny finish that kids love to customize with sprinkles or edible decorations.",
+            "timing": "5 minutes",
+            "doneness_cue": "Icing is smooth, shiny, and coats the back of a spoon without running off quickly."
+        },
+        {
+            "step": 7,
+            "instruction": "Once cookies are completely cool, spread or pipe the icing onto the tops. Get creative with colors and patterns—this is the fun part for kids! Let the icing set at room temperature for at least 30 minutes before stacking or storing to prevent smudging.",
+            "timing": "15 minutes decorating plus 30 minutes setting",
+            "doneness_cue": "Icing is dry to the touch and holds shape without sticking."
+        },
+        {
+            "step": 8,
+            "instruction": "Store the decorated cookies in an airtight container at room temperature for up to 3 days. Layer with parchment paper between to avoid sticking. These cookies are best enjoyed within a few days to keep them soft and fresh.",
+            "timing": "N/A",
+            "doneness_cue": "Cookies remain soft and flavorful when stored properly."
+        },
+        {
+            "step": 9,
+            "instruction": "For extra fun, invite kids to help with mixing, rolling, cutting, and decorating. It’s a great way to teach basic baking skills and enjoy quality time together. Plus, the joy on their faces when they see their creations is priceless!",
+            "timing": "N/A",
+            "doneness_cue": "Kids engaged and proud of their cookie creations."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind Perfect Kid-Friendly Fall Treats",
+        "content": "<p>This recipe balances moisture and structure perfectly to create soft, tender cookies that hold their shape well, which is essential when kids are involved in cutting and decorating. The combination of baking powder and baking soda provides a gentle leavening effect. Baking powder releases carbon dioxide slowly during baking, giving the cookies a light texture, while baking soda reacts immediately with the acidic pumpkin puree, helping the cookies rise and brown evenly.</p><p>The inclusion of pumpkin puree adds moisture and natural sweetness, which keeps the cookies soft and flavorful without needing too much fat. It also contributes to the tender crumb by interfering with gluten formation. The spices—cinnamon and nutmeg—are classic fall flavors that enhance the sensory experience without overpowering the cookie's sweetness.</p><p>Chilling the dough before rolling is a crucial step. It firms up the butter and allows the flour to hydrate fully, which prevents the cookies from spreading too much during baking. This results in crisp edges with a soft center, a texture that kids and adults alike enjoy. The icing’s powdered sugar and milk mixture creates a glossy, sweet finish that dries to a firm texture, perfect for decorating and stacking.</p><p>Overall, this recipe is designed to be forgiving and straightforward, making it ideal for baking with kids. Each ingredient and technique was chosen to ensure consistent, delicious results with minimal fuss, so you can focus on the fun of baking together.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a standard all-purpose flour for this recipe as it provides the right balance of protein to develop enough gluten for structure without making the cookies tough. Avoid bread flour as it’s too strong and can yield chewy cookies. Sifting the flour before use helps prevent lumps and ensures even mixing.",
+            "baking powder": "Use fresh baking powder to ensure proper leavening. It contains both fast- and slow-acting components that help the cookies rise gently during baking, creating a tender texture. Old or expired baking powder can lead to flat, dense cookies.",
+            "baking soda": "Baking soda reacts with the acidity in the pumpkin puree to create carbon dioxide bubbles that lighten the dough. Measuring accurately is important because too much can cause a metallic taste, while too little results in dense cookies.",
+            "pumpkin puree": "Use pure canned pumpkin, not pumpkin pie filling, which contains added spices and sugars. Pumpkin puree adds moisture and a subtle earthy sweetness, contributing to the soft crumb and classic fall flavor. Fresh pumpkin can be used if cooked and pureed well.",
+            "unsalted butter": "Butter provides richness and flavor while contributing to the cookie’s tender texture. Using unsalted butter lets you control the salt level precisely. Softened butter creams better with sugar, trapping air that helps leaven the cookies."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Chill the dough for at least 30 minutes before rolling.",
+            "reason": "Chilling firms the butter and hydrates the flour, which prevents the cookies from spreading too much in the oven. This step helps the cookies maintain their festive shapes and develop crisp edges with a tender center."
+        },
+        {
+            "tip": "Use parchment paper on baking sheets.",
+            "reason": "Parchment prevents sticking and promotes even baking by insulating the cookie bottoms. It also makes cleanup easier, which is great when baking with kids."
+        },
+        {
+            "tip": "Don’t overmix the dough once you add the flour.",
+            "reason": "Overmixing develops gluten, which can make cookies tough and chewy instead of soft and tender. Mix just until the flour is incorporated to keep the texture light."
+        },
+        {
+            "tip": "Let cookies cool completely before icing.",
+            "reason": "Icing melts and slides off warm cookies. Cooling ensures a smooth, glossy finish that sets well, perfect for decorating and stacking."
+        },
+        {
+            "tip": "Use gel food coloring for vibrant icing colors.",
+            "reason": "Gel colors are more concentrated and won’t thin out the icing like liquid colors can. This keeps the icing consistency perfect for decorating."
+        },
+        {
+            "tip": "Add a pinch of salt to the icing.",
+            "reason": "A little salt balances the sweetness and enhances the icing flavor, making it taste less cloying and more complex."
+        },
+        {
+            "tip": "Involve kids in decorating with sprinkles and edible decorations.",
+            "reason": "It makes baking fun and creative. Plus, kids are more likely to enjoy treats they helped make!"
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Rolling the dough too thin",
+            "why_it_happens": "Sometimes, in an effort to speed up baking, dough is rolled too thin which causes cookies to bake too quickly and become crisp or burnt.",
+            "fix": "Aim for about 1/4 inch thickness. This ensures the cookies bake evenly with a soft center and crisp edges. Use a ruler or rolling pin guides if you have them."
+        },
+        {
+            "mistake": "Skipping chilling the dough",
+            "why_it_happens": "Impatience or lack of time leads some to bake immediately, but warm dough spreads too much and loses shape.",
+            "fix": "Plan ahead and chill the dough for at least 30 minutes. This step is essential for maintaining the cookie shapes and texture."
+        },
+        {
+            "mistake": "Overbaking the cookies",
+            "why_it_happens": "Cookies continue to cook slightly after removal, so leaving them in too long results in dry, hard treats.",
+            "fix": "Remove cookies when edges are set and just starting to brown. Let them cool on the pan for a few minutes to finish cooking gently."
+        },
+        {
+            "mistake": "Using pumpkin pie filling instead of puree",
+            "why_it_happens": "Some confuse canned pumpkin pie filling with puree, but the filling contains added sugars and spices that alter texture and flavor.",
+            "fix": "Use pure pumpkin puree only to control sweetness and spice levels yourself."
+        },
+        {
+            "mistake": "Applying icing to warm cookies",
+            "why_it_happens": "Icing melts and runs off if cookies are warm, ruining the decoration.",
+            "fix": "Always wait until cookies are completely cool before decorating."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Fall Cookies",
+            "description": "Swap all-purpose flour for a gluten-free blend designed for baking. Add 1/4 teaspoon xanthan gum if your blend doesn’t include it to help with structure. Expect a slightly different texture but still soft and delicious.",
+            "technical_note": "Gluten-free dough may be more fragile; chill well and handle gently when rolling and cutting."
+        },
+        {
+            "name": "Vegan Pumpkin Cookies",
+            "description": "Replace butter with coconut oil or vegan margarine and use a flax egg (1 tablespoon ground flaxseed + 3 tablespoons water) instead of a chicken egg. These changes keep the cookies moist and flavorful without animal products.",
+            "technical_note": "Vegan dough may be softer; chilling is even more important to maintain shape."
+        },
+        {
+            "name": "Spiced Maple Icing",
+            "description": "Add 1/2 teaspoon maple extract and a pinch of cinnamon to the icing for a richer fall flavor. This pairs beautifully with the pumpkin spice cookies and adds complexity.",
+            "technical_note": "Adjust milk quantity in icing to maintain proper consistency after adding extracts."
+        },
+        {
+            "name": "Chocolate-Dipped Fall Cookies",
+            "description": "Dip half of each cooled cookie in melted dark or milk chocolate and let set on parchment paper. Adds a decadent touch kids will love, perfect for special occasions.",
+            "technical_note": "Use tempered chocolate or add a little coconut oil to melted chocolate for a smooth finish."
+        },
+        {
+            "name": "Pumpkin Chocolate Chip Cookies",
+            "description": "Fold 1/2 cup mini chocolate chips into the dough before chilling. The chocolate adds a melty surprise inside each cookie, enhancing the pumpkin spice flavor.",
+            "technical_note": "Chill dough well as the chips can make it softer and harder to cut shapes."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "230 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "9g",
+        "fiber_grams": "2g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Keep cookies in an airtight container at room temperature for up to 3 days. Avoid humid environments which can make cookies soggy. Layer with parchment paper to prevent sticking.",
+        "refrigerator": "Store decorated cookies in an airtight container in the fridge for up to 5 days. They may firm up slightly; bring to room temperature before serving for best texture.",
+        "freezer": "Freeze undecorated cookies in a single layer on a baking sheet, then transfer to a freezer-safe container or bag for up to 3 months. Thaw at room temperature before icing or serving.",
+        "reheating": "Cookies are best enjoyed at room temperature. If desired, warm gently in a 300°F oven for 5 minutes to refresh softness. Avoid microwaving decorated cookies to prevent melting icing.",
+        "make_ahead_strategy": "Prepare and chill the dough 1-2 days ahead. Roll and cut shapes just before baking. Cookies can be baked and cooled in advance, then iced on the day of serving for freshest results."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh pumpkin instead of canned puree?",
+            "answer": "Yes, you can roast and puree fresh pumpkin, but make sure it’s cooked until very soft and drained well to avoid excess moisture. This helps maintain the dough consistency and baking results similar to canned pumpkin."
+        },
+        {
+            "question": "What if my dough is too sticky to roll out?",
+            "answer": "Chill the dough longer to firm up the butter and hydrate the flour. If still sticky, lightly flour your work surface and rolling pin, but avoid adding too much flour as it can make cookies dry."
+        },
+        {
+            "question": "Can I make these cookies without icing?",
+            "answer": "Absolutely! The cookies are delicious on their own with warm spices and pumpkin flavor. Icing is optional and mainly for decoration and added sweetness."
+        },
+        {
+            "question": "How do I keep the cookies soft longer?",
+            "answer": "Store them in an airtight container with a slice of bread inside; the bread helps retain moisture and keeps cookies soft. Avoid refrigeration as it can dry them out."
+        },
+        {
+            "question": "Can I freeze decorated cookies?",
+            "answer": "It’s best to freeze cookies before icing. Decorated cookies can be frozen if the icing is fully set and hardened, but texture and decoration quality may suffer slightly."
+        },
+        {
+            "question": "What’s the best way to involve kids in this recipe?",
+            "answer": "Kids love helping with mixing, rolling, cutting shapes, and decorating. Give them small tasks like sprinkling cinnamon or choosing icing colors to keep them engaged and make baking fun."
+        },
+        {
+            "question": "Can I substitute the spices with pumpkin pie spice?",
+            "answer": "Yes, you can use pumpkin pie spice instead of individual cinnamon and nutmeg. Use about 1 1/4 teaspoons to match the flavor profile."
+        },
+        {
+            "question": "Why are my cookies spreading too much?",
+            "answer": "This usually happens if the dough is too warm or you skipped chilling. Make sure to chill the dough well and avoid overworking it. Also, check your baking powder and soda freshness."
+        }
+    ],
+    "conclusion": "I hope you and your family enjoy these fall treats as much as mine do. They’re simple, fun, and bring a little cozy magic to any autumn day. Happy baking!",
+    "seo": {
+        "primary_keyword": "fall treats to make with kids",
+        "secondary_keywords": [
+            "easy fall treats",
+            "kid-friendly fall recipes",
+            "how to make fall treats with kids",
+            "best fall cookie recipes",
+            "easy fall baking recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "easy pumpkin spice cookies",
+                "anchor": "easy-pumpkin-spice-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-12 23:15:37",
+        "title_seed": "Fall Treats To Make With Kids"
+    },
+    "author_id": "author_001",
+    "id": "post_1786576537_310",
+    "slug": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love",
+    "uniqueSlug": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_4.webp",
+            "relativePath": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Do Kids Love Making These Easy Fall Treats Together?"
+        },
+        {
+            "fileName": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_6.webp",
+            "relativePath": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Fall Treats to Make with Kids for Busy Weekends"
+        },
+        {
+            "fileName": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_7.webp",
+            "relativePath": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Searching for Kid-Friendly Fall Treats? Try These Easy Recipes"
+        },
+        {
+            "fileName": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_5.webp",
+            "relativePath": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Fall Treats with Kids Foolproof Every Time"
+        },
+        {
+            "fileName": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_9.webp",
+            "relativePath": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Do Kids Love Making These Easy Fall Treats Together?"
+        },
+        {
+            "fileName": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_8.webp",
+            "relativePath": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Do Kids Love Making These Easy Fall Treats Together?"
+        }
+    ],
+    "image": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_1.webp",
+    "image_dir": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-13T00:38:13+01:00",
+    "updatedAt": "2026-08-13T00:38:13+01:00",
+    "has_reel": true
+}

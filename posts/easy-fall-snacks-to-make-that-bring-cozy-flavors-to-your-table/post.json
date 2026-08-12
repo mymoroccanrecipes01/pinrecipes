@@ -1,0 +1,360 @@
+{
+    "title": "Easy Fall Snacks To Make That Bring Cozy Flavors To Your Table",
+    "promptIMG": {
+        "img1": "SCENE: a warmly lit home kitchen with soft autumn daylight filtering through a window, faintly blurred background with rustic wooden counters and cozy decor. SUBJECT: a wooden serving board overflowing with an assortment of fall snacks including roasted spiced pumpkin seeds, cinnamon-dusted apple chips, and small bowls of creamy caramel dip, the front snack sharply focused showing the crunchy texture and golden caramel sheen. DETAILS: warm amber and cinnamon tones highlight the natural textures, with a light dusting of cinnamon and nutmeg on the snacks, scattered crumbs and seeds add authenticity. STYLE: ultra-photorealistic professional food photography with rich saturated colors and soft depth of field, vertical 2:3. AVOID: no hands, text, or logos; no steam or smoke; natural, inviting look.",
+        "img2": "SCENE: bright natural light from a large window softly illuminating a smooth light wood surface, subtle blurred background of kitchen elements. SUBJECT: close-up reveal shot of a torn apple chip with visible cinnamon sugar crystals, a small pool of glossy caramel dip next to it with a chip dipped halfway, showing sticky, molten caramel dripping slowly. DETAILS: the caramel’s glossy amber color contrasts with the crisp, slightly rough apple chip surface, cinnamon speckles are vivid, crumbs scattered naturally. STYLE: hyper-realistic food photography, warm daylight, shallow depth of field, vertical 2:3. AVOID: no people, no text, no artificial colors, no plastic textures.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with a gentle side glow casting warm shadows, evoking cozy autumn evenings. SUBJECT: a close cluster of small bowls filled with various fall snacks: roasted pumpkin seeds with rosemary sprigs, cinnamon apple chips stacked high, and a bowl of creamy caramel dip topped with a sprinkle of sea salt. DETAILS: intense wet shine on caramel, crisp textures on seeds and chips, natural crumbs and herb sprigs scattered around. STYLE: ultra-photorealistic with golden warm tones and rich saturation, shallow macro depth of field, vertical 2:3. AVOID: no hands or text, no steam, no dull colors."
+    },
+    "description": "These fall snacks are my go-to when I want cozy flavors without fuss. The mix of spiced pumpkin seeds and sweet apple chips with caramel dip is simple but so comforting. Perfect for afternoon treats or casual get-togethers!",
+    "hashtags": "#fallsnacks #easysnacks #cozyfood",
+    "board_name": "Easy Snack Ideas",
+    "pin_variations": [
+        {
+            "title": "Why Do These Fall Snacks Taste So Cozy and Irresistible?",
+            "description": "Discover the secret behind these simple fall snacks that fill your kitchen with warm spices and sweet caramel. Perfect for cozy afternoons or sharing with friends. Save this for your next snack craving! 🍁 #fallsnacks #comfortfood #easysnacks"
+        },
+        {
+            "title": "The One Trick That Makes Fall Snacks Extra Crunchy and Flavorful",
+            "description": "I learned a little trick that makes pumpkin seeds and apple chips perfectly crunchy every time. It’s all about the spice blend and roasting time. Try it and your fall snacks will be unforgettable! 🍏 #snackideas #fallflavors #easyrecipes"
+        },
+        {
+            "title": "15-Minute Fall Snacks To Make When You’re Short on Time",
+            "description": "Pressed for time but want cozy fall flavors? These snacks come together fast and taste like you spent hours prepping. Great for busy days or last-minute guests. Tap to get the full recipe! 🍂 #quickrecipes #fallsnacks #easysnacks"
+        },
+        {
+            "title": "Still Buying Store-Bought? These Homemade Fall Snacks Beat Them All",
+            "description": "Skip the packaged stuff and make these homemade fall snacks that are crunchy, spiced just right, and paired with creamy caramel dip. Your family will thank you! Save this for your next snack session. 🍁 #homemadesnacks #fallflavors #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 cup raw pumpkin seeds",
+        "1 tsp olive oil",
+        "1 tsp ground cinnamon",
+        "1/2 tsp ground nutmeg",
+        "1/2 tsp sea salt",
+        "2 medium apples, thinly sliced",
+        "1 tbsp granulated sugar",
+        "1/2 cup caramel sauce (store-bought or homemade)",
+        "Optional: pinch of rosemary for roasting seeds"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I’ve always loved fall for the cozy, comforting snacks that come with it. This mix of roasted pumpkin seeds and cinnamon apple chips dipped in caramel is a favorite in my house. The first time I made these, I was craving something warm and crunchy but didn’t want to spend hours in the kitchen. What sets this recipe apart is the perfect balance of spices on the seeds and the quick oven-drying technique for the apple slices, which gives them that satisfying crispness without turning into mush. Plus, pairing everything with a creamy caramel dip adds just the right touch of indulgence without being overwhelming. I remember the first batch I made was a little too soft on the apples, so I adjusted the baking time to get that perfect crunch. Now, it’s become a go-to snack for chilly afternoons or casual gatherings with friends. The sweet and savory flavors feel like a warm hug on a plate, and it’s so simple to prepare that even a beginner can pull it off. If you love easy, flavorful snacks that bring the essence of fall right to your table, this recipe is for you!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 300°F (150°C). Toss the pumpkin seeds with olive oil, cinnamon, nutmeg, sea salt, and optional rosemary. Spread them in a single layer on a baking sheet lined with parchment paper. Roast for 20-25 minutes, stirring halfway through, until seeds are golden and fragrant. This slow roasting draws out their natural oils and crisps them up without burning. Watch closely towards the end to avoid over-toasting, which can make seeds bitter.",
+            "timing": 25,
+            "doneness_cue": "Seeds are golden brown with a toasted aroma and a satisfying crunch when cooled."
+        },
+        {
+            "step": 2,
+            "instruction": "While seeds roast, prepare the apple chips. Thinly slice apples using a mandoline or sharp knife. Lay slices on a parchment-lined baking sheet in a single layer. Sprinkle lightly with granulated sugar for a touch of sweetness and to help caramelize. Bake at 225°F (110°C) for 45-60 minutes, flipping halfway, until slices are dry and crisp but not browned. This low-and-slow method dehydrates the apples gently, preserving sweetness and crisp texture. Avoid higher heat to prevent sogginess or burning.",
+            "timing": 60,
+            "doneness_cue": "Apple slices feel dry and brittle, easily snapping when bent."
+        },
+        {
+            "step": 3,
+            "instruction": "Remove both pumpkin seeds and apple chips from the oven and let them cool completely on the baking sheets. Cooling is essential as it allows the snacks to firm up and develop their final crispness. If you try to eat them warm, they may seem soft or chewy but will harden as they cool.",
+            "timing": 15,
+            "doneness_cue": "Snacks are firm and crunchy to the touch at room temperature."
+        },
+        {
+            "step": 4,
+            "instruction": "Transfer the roasted pumpkin seeds and apple chips to serving bowls. Pour caramel sauce into a small bowl for dipping. If your caramel is too thick, warm it slightly to achieve a smooth, dippable consistency. This adds a luscious, creamy contrast to the crunchy snacks.",
+            "timing": 5,
+            "doneness_cue": "Caramel is glossy and flows easily when dipped."
+        },
+        {
+            "step": 5,
+            "instruction": "Serve the snacks immediately or store them in airtight containers once fully cooled. This ensures they remain crispy and fresh. Pair with a warm drink like spiced tea or cider for a perfect fall treat.",
+            "timing": 0,
+            "doneness_cue": "Snacks retain crisp texture and caramel remains smooth."
+        },
+        {
+            "step": 6,
+            "instruction": "For added flavor, sprinkle a pinch of flaky sea salt over the caramel dip before serving. This balances the sweetness and enhances the overall taste experience. Salted caramel is a classic pairing that never disappoints.",
+            "timing": 1,
+            "doneness_cue": "Salt crystals are visible on caramel surface, enhancing aroma."
+        },
+        {
+            "step": 7,
+            "instruction": "If you want a savory twist, toss some of the roasted pumpkin seeds with smoked paprika or chili powder before roasting. This variation adds a smoky depth and a little heat, perfect for those who prefer savory snacks over sweet.",
+            "timing": 0,
+            "doneness_cue": "Seeds have a rich color and aromatic smoky scent."
+        },
+        {
+            "step": 8,
+            "instruction": "To make homemade caramel sauce, gently melt 1 cup sugar in a heavy-bottomed pan over medium heat until it turns amber. Carefully add 6 tablespoons butter and 1/2 cup heavy cream, stirring constantly until smooth. Cool slightly before serving. This fresh caramel has a richer flavor than store-bought.",
+            "timing": 15,
+            "doneness_cue": "Caramel is thick, glossy, and smooth without graininess."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up by wiping down your baking sheets promptly to prevent sticky residue buildup. Proper cleanup helps maintain your equipment and keeps your kitchen tidy for your next snack adventure.",
+            "timing": 5,
+            "doneness_cue": "Baking sheets are free of caramel or seed residue."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Fall Snack Recipe Delivers Perfect Texture and Flavor",
+        "content": "<p>This recipe succeeds because it balances moisture removal with flavor development. Roasting pumpkin seeds at a low temperature allows the natural oils to surface and toast slowly, creating a crunchy texture without burning. The spices adhere to the seeds because the light coating of olive oil acts as a binder, ensuring every bite is flavorful.</p><p>For the apple chips, slow baking at a low temperature dehydrates the fruit gently, preserving natural sweetness and preventing sogginess. The sugar sprinkled on top caramelizes lightly, adding a subtle crunch and enhanced flavor. Flipping the slices halfway ensures even drying and prevents curling or burning.</p><p>The caramel dip complements the snacks by adding a creamy, sweet contrast to the dry, crunchy textures. Its glossy appearance and smooth consistency come from careful melting and emulsification of butter and cream with sugar, which also adds richness. This interplay of textures and flavors makes the snack irresistible.</p><p>Overall, the recipe’s success lies in careful temperature control, timing, and seasoning balance, which create a snack that’s both simple and deeply satisfying.</p>",
+        "ingredient_notes": {
+            "pumpkin seeds": "Look for raw, unshelled pumpkin seeds for roasting. Raw seeds toast evenly and absorb spices better than pre-roasted ones. Avoid pre-salted or flavored seeds as they can throw off the seasoning balance. Store seeds in a cool, dry place to maintain freshness.",
+            "apples": "Choose firm, tart apples like Granny Smith or Honeycrisp for apple chips. Their firmness helps them hold shape during slow baking, and tartness balances the sweetness of sugar and caramel. Avoid very juicy or soft varieties as they may become chewy rather than crisp.",
+            "cinnamon": "Use ground cinnamon fresh from a sealed container for maximum aroma and flavor. Cinnamon adds warm, sweet-spicy notes that enhance both pumpkin seeds and apple chips. Avoid cinnamon blends with added sugar or fillers.",
+            "caramel sauce": "A high-quality caramel sauce or homemade caramel made with butter and cream provides richness and a creamy texture that contrasts the crunchy snacks. Homemade caramel lets you control sweetness and saltiness for a perfect dip consistency.",
+            "olive oil": "Use a mild extra virgin olive oil to coat seeds before roasting. It helps spices stick and promotes even roasting without overpowering flavor. Avoid strong or peppery olive oils that can clash with the spices."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a mandoline slicer for uniformly thin apple slices.",
+            "reason": "Uniform thickness ensures even dehydration during baking. If slices vary in thickness, thinner ones may burn while thicker slices remain chewy. A mandoline creates consistent slices that crisp up perfectly."
+        },
+        {
+            "tip": "Stir pumpkin seeds halfway through roasting.",
+            "reason": "Turning seeds promotes even browning and prevents burning on one side. Seeds that roast unevenly can develop bitter spots or remain undercooked, affecting texture and flavor."
+        },
+        {
+            "tip": "Cool snacks completely before storing.",
+            "reason": "Warm snacks retain moisture, which can cause them to become soggy in storage. Cooling allows them to firm up and maintain crispness when stored in airtight containers."
+        },
+        {
+            "tip": "Add a pinch of flaky sea salt to caramel dip before serving.",
+            "reason": "Salt enhances the caramel’s sweetness and adds a pleasant contrast, making the dip more complex and balanced. It also helps cut through the richness."
+        },
+        {
+            "tip": "Avoid overcrowding baking sheets.",
+            "reason": "Overcrowding traps moisture and prevents proper air circulation, leading to uneven roasting or drying. Spread snacks in a single layer for best results."
+        },
+        {
+            "tip": "Store apple chips and pumpkin seeds separately.",
+            "reason": "Different moisture levels can cause cross-contamination in storage, making one snack soggy. Keeping them separate preserves their individual textures."
+        },
+        {
+            "tip": "Use parchment paper to prevent sticking and ease cleanup.",
+            "reason": "Parchment creates a non-stick surface that helps snacks release easily and prevents caramel or oils from sticking to the pan, preserving texture and simplifying cleaning."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Baking apple slices at too high a temperature.",
+            "why_it_happens": "Many assume a higher temperature will speed up drying, but it actually causes uneven cooking and burning.",
+            "fix": "Bake at low temperature (225°F/110°C) for a longer time, flipping halfway. This gently dehydrates the slices, producing crisp chips without burning or browning."
+        },
+        {
+            "mistake": "Skipping the cooling step before storing snacks.",
+            "why_it_happens": "In a rush, cooks might store snacks immediately, trapping residual heat and moisture.",
+            "fix": "Let snacks cool fully on the baking sheet before transferring to containers to maintain crispness and prevent sogginess."
+        },
+        {
+            "mistake": "Using pre-roasted or salted pumpkin seeds.",
+            "why_it_happens": "Convenience leads to grabbing pre-packaged seeds, but these don’t roast evenly or absorb spices well.",
+            "fix": "Always start with raw seeds for best flavor and texture control."
+        },
+        {
+            "mistake": "Applying too much sugar on apple slices.",
+            "why_it_happens": "Trying to make chips sweeter can lead to sticky, overly caramelized slices.",
+            "fix": "Use a light dusting of sugar; the natural apple sweetness plus caramel dip provide enough sweetness."
+        },
+        {
+            "mistake": "Not stirring pumpkin seeds during roasting.",
+            "why_it_happens": "Forgetting to stir results in uneven roasting and burnt spots.",
+            "fix": "Set a timer to stir seeds halfway through roasting for even color and crunch."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Savory Spiced Pumpkin Seeds",
+            "description": "Swap cinnamon and nutmeg for smoked paprika, garlic powder, and cayenne pepper. Roast seeds as usual for a smoky, spicy snack that pairs well with cheese or beer. This variation offers a bold alternative to sweet fall flavors.",
+            "technical_note": "Adjust roasting time slightly if using stronger spices to avoid burning; watch closely in the last 5 minutes."
+        },
+        {
+            "name": "Maple Glazed Apple Chips",
+            "description": "Brush apple slices lightly with pure maple syrup before baking instead of sugar. This adds a richer sweetness and subtle maple flavor. The chips will caramelize slightly differently, yielding a deeper amber color and nuanced taste.",
+            "technical_note": "Maple syrup can make slices stickier; use less and flip carefully during baking."
+        },
+        {
+            "name": "No-Bake Caramel Dip",
+            "description": "Mix softened cream cheese with store-bought caramel sauce and a pinch of salt for a quick, creamy dip without cooking. This version is tangier and thicker, perfect for dipping crunchy snacks.",
+            "technical_note": "Chill dip before serving to firm up texture."
+        },
+        {
+            "name": "Add Dried Cranberries",
+            "description": "Toss dried cranberries with roasted pumpkin seeds for a tart, chewy contrast. The cranberries add color and a festive touch, making the snack mix more vibrant and flavorful.",
+            "technical_note": "Add cranberries after roasting to avoid burning."
+        },
+        {
+            "name": "Pumpkin Spice Apple Chips",
+            "description": "Sprinkle apple slices with a pumpkin spice blend before baking for a seasonal twist. This adds warm, aromatic notes that enhance the cozy fall vibe of the snack.",
+            "technical_note": "Use sparingly to avoid overpowering the natural apple flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "9g",
+        "fiber_grams": "4g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store snacks in airtight containers at room temperature for up to 2 days. Keep away from humidity to prevent sogginess. Cover well to maintain crispness.",
+        "refrigerator": "If you prefer, you can refrigerate the caramel dip for up to 5 days in a sealed container. Note that refrigerated caramel may thicken; warm slightly before serving.",
+        "freezer": "Pumpkin seeds and apple chips do not freeze well as freezing can introduce moisture and soften the texture. It’s best to prepare fresh or store at room temperature.",
+        "reheating": "No reheating needed. If apple chips soften, re-crisp them in a 250°F oven for 5-7 minutes, watching carefully to prevent burning.",
+        "make_ahead_strategy": "Roast pumpkin seeds and bake apple chips 1-2 days ahead. Store separately in airtight containers. Prepare caramel dip the day of serving or use store-bought for convenience."
+    },
+    "faq": [
+        {
+            "question": "Can I use other types of seeds instead of pumpkin seeds?",
+            "answer": "Yes, you can substitute sunflower seeds or pepitas. Adjust roasting time as smaller seeds may cook faster. Keep an eye on them to avoid burning."
+        },
+        {
+            "question": "How thin should I slice the apples for chips?",
+            "answer": "Aim for slices about 1/8 inch thick for even dehydration. Thicker slices may stay chewy, while thinner ones crisp up nicely and bake evenly."
+        },
+        {
+            "question": "Can I make the caramel dip vegan?",
+            "answer": "Absolutely! Use coconut cream and vegan butter substitutes, and a plant-based caramel sauce. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "What’s the best way to store leftover snacks?",
+            "answer": "Store pumpkin seeds and apple chips separately in airtight containers at room temperature. Avoid moisture and heat to maintain crunchiness."
+        },
+        {
+            "question": "Can I add other spices to the pumpkin seeds?",
+            "answer": "Yes, spices like cumin, chili powder, or smoked paprika work well for savory variations. Adjust quantities to taste and roast as directed."
+        },
+        {
+            "question": "How long do the apple chips keep their crispness?",
+            "answer": "For best texture, consume within a few days."
+        },
+        {
+            "question": "Is it necessary to flip the apple slices halfway through baking?",
+            "answer": "Yes, flipping ensures even drying and prevents one side from becoming too brown or soggy. It helps achieve uniform crispness."
+        },
+        {
+            "question": "Can I use frozen apples for the chips?",
+            "answer": "Frozen apples release extra moisture and won’t dry properly, resulting in soggy chips. Always use fresh apples for best results."
+        }
+    ],
+    "conclusion": "I hope you enjoy making these fall snacks as much as I do! They’re simple, cozy, and perfect for sharing. Let me know how yours turn out!",
+    "seo": {
+        "primary_keyword": "fall snacks to make",
+        "secondary_keywords": [
+            "easy fall snacks",
+            "homemade fall snacks",
+            "how to make fall snacks",
+            "best fall snack recipes",
+            "easy snack recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "cozy autumn snack ideas",
+                "anchor": "cozy-autumn-snacks"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230221_583",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-12 23:10:58",
+        "title_seed": "Fall Snacks To Make"
+    },
+    "author_id": "author_001",
+    "id": "post_1786576258_559",
+    "slug": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table",
+    "uniqueSlug": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_1.webp",
+            "relativePath": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_2.webp",
+            "relativePath": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_3.webp",
+            "relativePath": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_7.webp",
+            "relativePath": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Still Buying Store-Bought? These Homemade Fall Snacks Beat Them All"
+        },
+        {
+            "fileName": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_5.webp",
+            "relativePath": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Fall Snacks Extra Crunchy and Flavorful"
+        },
+        {
+            "fileName": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_4.webp",
+            "relativePath": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Do These Fall Snacks Taste So Cozy and Irresistible?"
+        },
+        {
+            "fileName": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_8.webp",
+            "relativePath": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Do These Fall Snacks Taste So Cozy and Irresistible?"
+        },
+        {
+            "fileName": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_9.webp",
+            "relativePath": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Do These Fall Snacks Taste So Cozy and Irresistible?"
+        },
+        {
+            "fileName": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_6.webp",
+            "relativePath": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Fall Snacks To Make When You’re Short on Time"
+        }
+    ],
+    "image": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images/easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table_pinrecipes_image_1.webp",
+    "image_dir": "easy-fall-snacks-to-make-that-bring-cozy-flavors-to-your-table/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-13T00:38:13+01:00",
+    "updatedAt": "2026-08-13T00:38:13+01:00",
+    "has_reel": true
+}

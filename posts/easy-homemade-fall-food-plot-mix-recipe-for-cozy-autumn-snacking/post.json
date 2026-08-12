@@ -1,0 +1,325 @@
+{
+    "title": "Easy Homemade Fall Food Plot Mix Recipe for Cozy Autumn Snacking",
+    "promptIMG": "Food photography: Fall Food Plot Mix, rustic wooden bowl overflowing with a colorful mix of roasted nuts, seeds, dried cranberries, and pumpkin seeds, natural lighting from a kitchen window casting soft shadows, documentary style, realistic warm autumn colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred behind with warm daylight streaming through a window, faint reflections on a wooden countertop. SUBJECT: a rustic wooden bowl brimming with Fall Food Plot Mix, overflowing with roasted almonds, pecans, pumpkin seeds, dried cranberries, and sunflower seeds. The front portion sharply focused at a 30-degree angle showing the glossy roasted nuts and the vibrant red cranberries, the rest fading softly into bokeh. DETAILS: deep golden-brown roasted nuts with a subtle sheen, bright red dried cranberries scattered throughout, natural textures with some crumbs and seed fragments on the bowl edge. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated autumn colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no people, no dull colors, no steam or smoke.",
+        "img2": "SCENE: soft light blur behind a warm wood surface with bright daylight from a nearby window. SUBJECT: the reveal shot of Fall Food Plot Mix with a wooden scoop partially buried in the mix, lifting a generous portion showing the glossy roasted nuts, pumpkin seeds, and dried cranberries glistening in the light. DETAILS: the scoop’s contents glisten with a light coating of oil, the mix’s textures and colors sharply contrasted against the rustic wood, crumbs and small seeds scattered naturally around the scoop. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden hues, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no people, no dull colors, no artificial lighting.",
+        "img3": "SCENE: warm dark wood tones softly blurred behind with a gentle side glow highlighting textures. SUBJECT: several small bowls arranged close together filled with Fall Food Plot Mix and its natural accompaniments like a small bowl of fresh apple slices and a cup of herbal tea. The front bowl sharply focused, showing the glossy roasted nuts, pumpkin seeds, and dried cranberries, the rest fading into warm bokeh. DETAILS: intense wet glossy shine on nuts and seeds, deep amber caramelization, a light dusting of cinnamon powder on top, crumbs and seed bits scattered on the surface. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich saturated glowing autumn tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no people, no dull colors, no plastic textures."
+    },
+    "description": "This Fall Food Plot Mix is a simple, cozy snack perfect for autumn afternoons. Loaded with roasted nuts, pumpkin seeds, and sweet dried cranberries, it’s a delightful balance of crunchy and chewy. I love making a big batch to keep on hand for quick energy boosts or casual gatherings.",
+    "hashtags": "#FallFoodPlotMix #AutumnSnacks #HomemadeSnackMix",
+    "board_name": "Easy Snack Ideas",
+    "pin_variations": [
+        {
+            "title": "Why Does This Fall Food Plot Mix Taste So Addictive?",
+            "description": "Discover the secret behind the perfect balance of sweet and savory in this Fall Food Plot Mix 🍂. It’s the ideal snack to keep you cozy all season long. Save this for your next snack craving! #FallFoodPlotMix #AutumnSnacks #SnackTime"
+        },
+        {
+            "title": "The One Trick That Makes Fall Food Plot Mix So Crunchy",
+            "description": "Want a snack mix that stays crunchy and fresh? The roasting technique in this Fall Food Plot Mix is the game-changer! Try it out and enjoy a delicious crunch every time. Tap to get the full recipe! #SnackMix #FallRecipes #EasySnacks"
+        },
+        {
+            "title": "10-Minute Fall Food Plot Mix for Busy Weeknights",
+            "description": "Need a quick, wholesome snack? This Fall Food Plot Mix comes together in just 10 minutes and is packed with flavor and texture. Perfect for busy evenings or on-the-go munching. Save this for dinner inspo! #EasySnackIdeas #FallFoodPlotMix #QuickSnacks"
+        },
+        {
+            "title": "Homemade vs Store-Bought Fall Food Plot Mix – Which Is Better?",
+            "description": "I compared homemade Fall Food Plot Mix to store-bought versions, and the homemade wins every time for freshness and flavor. See why making your own is worth it! Tap for the recipe. #HomemadeSnacks #FallFoodPlotMix #HealthySnacking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 6,
+    "ingredients": [
+        "1 cup raw almonds",
+        "1 cup raw pecans",
+        "1/2 cup pumpkin seeds (pepitas)",
+        "1/2 cup sunflower seeds",
+        "1/2 cup dried cranberries",
+        "2 tablespoons maple syrup",
+        "1 tablespoon coconut oil",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon sea salt"
+    ],
+    "yield": "Approximately 6 cups, 6 servings",
+    "introduction": "I stumbled upon the idea for this Fall Food Plot Mix when I wanted a snack that felt seasonal but was still simple to throw together. It’s a little different from your typical trail mix because of the maple syrup and cinnamon glaze that lightly coats the nuts and seeds, giving it that cozy autumn vibe. I’ve made this mix several times now, and it’s become a staple for my family during the fall months. The trick I learned was to roast the nuts and seeds gently with the syrup and oil, which caramelizes them just enough without making them sticky or burnt. This gives the mix a perfect balance of crunch and chewiness with bursts of sweetness from the cranberries. It’s great for afternoon snacking, packing in lunches, or even sprinkling over oatmeal for a little extra texture. Plus, it keeps well in an airtight container, so I like making a big batch to enjoy throughout the week. The finished mix looks vibrant and inviting with those deep amber roasted nuts and bright red cranberries, and it smells like fall in your kitchen. Honestly, it’s become one of those little treats that make the season feel special.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 325°F (160°C). In a large mixing bowl, combine the almonds, pecans, pumpkin seeds, and sunflower seeds. Toss them together to mix evenly. This step is important because roasting the nuts and seeds together ensures they cook uniformly and develop a balanced flavor. Avoid overcrowding the baking sheet later to prevent steaming instead of roasting.",
+            "timing": 10,
+            "doneness_cue": "Nuts and seeds should appear dry but start to show a light golden-brown color on the edges."
+        },
+        {
+            "step": 2,
+            "instruction": "In a small saucepan over low heat, melt the coconut oil and stir in the maple syrup, ground cinnamon, and sea salt until well combined. This warm glaze will coat the nuts and seeds, adding flavor and helping them caramelize during roasting. Don’t rush this step; low heat prevents burning the syrup and keeps the flavors bright.",
+            "timing": 5,
+            "doneness_cue": "The mixture should be smooth, glossy, and aromatic without bubbling aggressively."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the warm maple syrup mixture over the nuts and seeds in the bowl. Use a spatula or wooden spoon to toss everything together, ensuring every piece is lightly coated. This even coating is key for consistent flavor and a beautiful golden finish once roasted.",
+            "timing": 5,
+            "doneness_cue": "All nuts and seeds should have a thin, shiny glaze without clumps."
+        },
+        {
+            "step": 4,
+            "instruction": "Spread the coated nuts and seeds evenly on a parchment-lined baking sheet in a single layer. This prevents clumping and promotes even roasting. If they’re piled up, some pieces may stay soggy while others burn.",
+            "timing": 3,
+            "doneness_cue": "The nuts and seeds should be arranged with space between them, not overlapping."
+        },
+        {
+            "step": 5,
+            "instruction": "Place the baking sheet in the preheated oven and roast for 12-15 minutes, stirring halfway through. This helps the mixture roast evenly and prevents burning. Watch closely during the last few minutes as nuts can go from toasted to burnt quickly.",
+            "timing": 15,
+            "doneness_cue": "Nuts and seeds should be golden brown with a fragrant toasted aroma."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the baking sheet from the oven and let the mixture cool completely on the pan. Cooling is crucial because the glaze will harden slightly, giving the mix its signature crunch. Don’t skip this step or the mix will feel sticky.",
+            "timing": 20,
+            "doneness_cue": "The mixture should be cool to the touch and dry rather than tacky."
+        },
+        {
+            "step": 7,
+            "instruction": "Once cool, transfer the mix to a large bowl and stir in the dried cranberries. Adding the cranberries after roasting keeps them chewy and fresh-tasting, providing a sweet contrast to the crunchy nuts.",
+            "timing": 2,
+            "doneness_cue": "Cranberries are evenly distributed without being crushed."
+        },
+        {
+            "step": 8,
+            "instruction": "Store the Fall Food Plot Mix in an airtight container at room temperature. This keeps the mix fresh and crunchy for up to two weeks. You can also portion it into snack bags for easy grab-and-go treats.",
+            "timing": 1,
+            "doneness_cue": "Container is sealed tightly, and mix is dry and crisp."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the mix as a snack on its own, or sprinkle over yogurt, oatmeal, or salads for added texture and flavor. It’s versatile and adds a cozy autumn touch to many dishes.",
+            "timing": 1,
+            "doneness_cue": "Mix is fresh, crunchy, and flavorful when eaten."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Fall Food Plot Mix Is So Irresistible",
+        "content": "<p>Roasting nuts and seeds at a moderate temperature allows the natural oils to release slowly, enhancing their flavor without burning them. This gentle heat encourages the Maillard reaction, which creates those deep caramelized notes that give the mix its warm, toasty aroma and rich taste. The addition of a maple syrup and coconut oil glaze not only adds sweetness and richness but also helps the nuts and seeds develop a shiny, appetizing coating that locks in flavor and crunch.</p><p>The cinnamon and sea salt work together to balance the sweetness and add depth, making the mix taste more complex and satisfying. Cinnamon also has natural antioxidant properties, making this snack a bit healthier. Adding dried cranberries after roasting preserves their chewy texture and bright flavor, providing a contrast to the crunchy roasted elements.</p><p>The key to success is the timing and temperature during roasting. Too hot or too long, and the nuts burn; too low or too short, and they remain bland and soft. Stirring halfway ensures even roasting and prevents hot spots. Cooling on the baking sheet allows the glaze to set properly, giving the mix a pleasant crunch rather than a sticky mess.</p><p>Overall, this recipe balances texture, flavor, and aroma to create a snack mix that feels homemade, wholesome, and perfectly suited to fall. The simple ingredients and straightforward technique make it accessible for home cooks while delivering a delicious, satisfying result.</p>",
+        "ingredient_notes": {
+            "almonds": "Choose raw, whole almonds with a fresh, nutty aroma for the best flavor. Raw nuts roast evenly and develop a rich taste without added oils. Avoid pre-roasted or salted almonds, as they can overpower the delicate maple glaze and throw off the balance of flavors in the mix.",
+            "pecans": "Raw pecans add a buttery richness and softer texture compared to almonds. Their natural sweetness complements the maple syrup glaze well. Look for fresh pecans without any musty or rancid smell, and store them in a cool place to maintain freshness before roasting.",
+            "pumpkin seeds": "Also known as pepitas, pumpkin seeds bring a subtle crunch and a slightly nutty flavor. Raw, hulled pumpkin seeds roast nicely and absorb the glaze well. Avoid salted or flavored seeds to keep the mix balanced and allow the maple-cinnamon coating to shine.",
+            "maple syrup": "Pure maple syrup is preferred for its complex sweetness and natural flavor that pairs beautifully with nuts and spices. It caramelizes during roasting, creating a glossy, flavorful coating. Avoid imitation syrups with high fructose corn syrup, as they lack depth and can burn easily.",
+            "coconut oil": "Coconut oil adds a mild tropical note and helps the glaze adhere to the nuts and seeds. Its high smoke point makes it suitable for roasting without breaking down. Use refined coconut oil for a neutral taste or virgin for a slight coconut flavor, depending on preference."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use parchment paper on your baking sheet to prevent sticking and make cleanup easier.",
+            "reason": "Parchment paper creates a non-stick surface that helps the roasted nuts and seeds release easily once cooled. It also prevents direct contact with the pan, reducing the risk of burning the glaze and making cleanup quick and hassle-free."
+        },
+        {
+            "tip": "Stir the nuts and seeds halfway through roasting to ensure even browning.",
+            "reason": "Roasting in a single layer without stirring can cause uneven cooking, with some pieces burning while others remain underdone. Stirring redistributes the mix so all pieces get equal heat exposure, resulting in a uniform golden color and balanced flavor."
+        },
+        {
+            "tip": "Cool the mix completely on the baking sheet before adding dried fruit.",
+            "reason": "Adding dried fruit before the mix cools can cause it to become sticky or soggy from residual heat and moisture. Cooling allows the glaze to set and the mix to crisp up properly, preserving the dried fruit’s chewy texture and preventing clumping."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Roasting at too high a temperature",
+            "why_it_happens": "Many cooks think higher heat means faster roasting, but nuts and seeds can burn quickly at high temperatures, ruining their flavor and texture.",
+            "fix": "Roast at a moderate temperature, around 325°F (160°C), and keep an eye on the mix, stirring halfway through. This allows gentle caramelization without burning."
+        },
+        {
+            "mistake": "Skipping the glaze coating",
+            "why_it_happens": "Some may omit the maple syrup and oil to save time or calories, but this step is crucial for flavor and texture.",
+            "fix": "Always coat the nuts and seeds with the glaze before roasting. It enhances flavor, adds a delicious sheen, and helps the mix stick together lightly."
+        },
+        {
+            "mistake": "Adding dried fruit before roasting",
+            "why_it_happens": "People might add dried cranberries or raisins with the nuts to roast everything together, thinking it saves time.",
+            "fix": "Add dried fruit only after roasting and cooling to keep it chewy and fresh, avoiding a sticky or burnt texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Fall Food Plot Mix",
+            "description": "Add 1/2 teaspoon cayenne pepper and 1 teaspoon smoked paprika to the glaze for a warm, spicy kick that complements the sweetness. This variation adds complexity and a little heat, perfect for those who like a snack with a bit of a bite.",
+            "technical_note": "Be careful not to overdo the cayenne; start with a small amount and adjust to taste to avoid overpowering the nuts."
+        },
+        {
+            "name": "Chocolate Drizzled Mix",
+            "description": "After roasting and cooling, drizzle melted dark chocolate over the mix and let it set. This adds a rich chocolatey layer that pairs wonderfully with the nuts and cranberries, turning the mix into a decadent treat.",
+            "technical_note": "Use good-quality dark chocolate and allow the mix to cool completely before drizzling to prevent melting or clumping."
+        },
+        {
+            "name": "Vegan Maple-Pumpkin Spice Mix",
+            "description": "Use vegan-friendly maple syrup and coconut oil, and add pumpkin pie spice to the glaze for a true autumn flavor profile. This keeps the mix plant-based and seasonally festive.",
+            "technical_note": "Pumpkin pie spice blends cinnamon, nutmeg, ginger, and cloves; adjust amounts to your taste preference."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "8g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "26g",
+        "fiber_grams": "4g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the Fall Food Plot Mix in an airtight container at room temperature for up to two weeks. Keep it in a cool, dry place away from direct sunlight to maintain freshness and crunch.",
+        "refrigerator": "Refrigeration is not necessary but can extend freshness up to three weeks. The mix may harden slightly when cold; bring to room temperature before serving for best texture.",
+        "freezer": "Freeze the mix in a sealed freezer-safe container or bag for up to three months. Thaw at room temperature before serving to restore texture and flavor.",
+        "reheating": "No reheating needed. If you prefer a warm snack, briefly toast the mix in a dry skillet over low heat for 2-3 minutes, stirring constantly to avoid burning.",
+        "make_ahead_strategy": "Prepare the mix completely up to two weeks in advance and store airtight. Add dried cranberries just before serving to keep them fresh and chewy."
+    },
+    "faq": [
+        {
+            "question": "Can I use roasted nuts instead of raw nuts?",
+            "answer": "Using pre-roasted nuts is possible but not ideal because they may burn during roasting with the glaze. Raw nuts roast evenly with the syrup and oil, developing a fresh, balanced flavor. If using roasted nuts, reduce oven time and temperature slightly and watch closely."
+        },
+        {
+            "question": "How can I make this mix nut-free?",
+            "answer": "To make a nut-free version, substitute nuts with extra pumpkin seeds, sunflower seeds, and roasted chickpeas. The roasting and glaze process remains the same, and the mix will still have great crunch and flavor."
+        },
+        {
+            "question": "Will this mix stay crunchy over time?",
+            "answer": "Yes, if stored properly in an airtight container at room temperature. Make sure the mix is completely cooled before storing to prevent moisture buildup, which can cause sogginess."
+        },
+        {
+            "question": "Can I add other dried fruits?",
+            "answer": "Absolutely! Feel free to add dried cherries, blueberries, or raisins after roasting and cooling. Just add them last to keep their texture intact and prevent burning."
+        },
+        {
+            "question": "Is coconut oil necessary?",
+            "answer": "Coconut oil helps the glaze adhere and adds a subtle flavor, but you can substitute with a neutral oil like avocado or light olive oil. Avoid oils with low smoke points to prevent burning during roasting."
+        },
+        {
+            "question": "Can I make this mix gluten-free?",
+            "answer": "Yes, this recipe is naturally gluten-free as long as you use certified gluten-free ingredients, especially for dried fruit and seeds, which can sometimes be cross-contaminated."
+        },
+        {
+            "question": "How long does the roasting process take?",
+            "answer": "Roasting takes about 12-15 minutes at 325°F (160°C), stirring halfway to ensure even browning. Keep an eye on the mix during the last few minutes to prevent burning."
+        },
+        {
+            "question": "Can I prepare this mix without an oven?",
+            "answer": "You can toast the nuts and seeds in a dry skillet over medium-low heat, stirring frequently. This method requires close attention to avoid burning and may take a bit longer than oven roasting."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and snacking on this Fall Food Plot Mix as much as my family does. It’s a simple, cozy treat that brings a little autumn magic to your day. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "Fall Food Plot Mix",
+        "secondary_keywords": [
+            "homemade fall snack mix",
+            "easy fall snack recipe",
+            "how to make food plot mix",
+            "best fall snack mix recipe",
+            "healthy fall snack ideas"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade trail mix recipe",
+                "anchor": "homemade-trail-mix"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approx. 5200 words"
+    },
+    "category_id": "cat_1761230221_583",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-12 23:17:57",
+        "title_seed": "Fall Food Plot Mix"
+    },
+    "author_id": "author_001",
+    "id": "post_1786576677_555",
+    "slug": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking",
+    "uniqueSlug": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_6.webp",
+            "filePath": "posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_6.webp",
+            "relativePath": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "10-Minute Fall Food Plot Mix for Busy Weeknights"
+        },
+        {
+            "fileName": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_9.webp",
+            "relativePath": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does This Fall Food Plot Mix Taste So Addictive?"
+        },
+        {
+            "fileName": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_7.webp",
+            "filePath": "posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_7.webp",
+            "relativePath": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Homemade vs Store-Bought Fall Food Plot Mix – Which Is Better?"
+        },
+        {
+            "fileName": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_5.webp",
+            "filePath": "posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_5.webp",
+            "relativePath": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Fall Food Plot Mix So Crunchy"
+        },
+        {
+            "fileName": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_4.webp",
+            "filePath": "posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_4.webp",
+            "relativePath": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does This Fall Food Plot Mix Taste So Addictive?"
+        },
+        {
+            "fileName": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_8.webp",
+            "relativePath": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does This Fall Food Plot Mix Taste So Addictive?"
+        }
+    ],
+    "image": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images/easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking_pinrecipes_image_1.webp",
+    "image_dir": "easy-homemade-fall-food-plot-mix-recipe-for-cozy-autumn-snacking/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-13T00:38:13+01:00",
+    "updatedAt": "2026-08-13T00:38:13+01:00",
+    "has_reel": true
+}
