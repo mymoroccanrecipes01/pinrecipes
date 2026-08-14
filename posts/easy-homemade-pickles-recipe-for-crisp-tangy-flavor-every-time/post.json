@@ -302,6 +302,19 @@
             "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-homemade-pickles-recipe-for-crisp-tangy-flavor-every-time/images/easy-homemade-pickles-recipe-for-crisp-tangy-flavor-every-time_pinrecipes_image_5.webp",
             "type": "template",
             "title": "The One Trick That Makes Easy Pickles Perfectly Crisp Every Time"
+        },
+        {
+            "fileName": "easy-homemade-pickles-recipe-for-crisp-tangy-flavor-every-time_pinrecipes_image_11.webp",
+            "filePath": "posts/easy-homemade-pickles-recipe-for-crisp-tangy-flavor-every-time/images/easy-homemade-pickles-recipe-for-crisp-tangy-flavor-every-time_pinrecipes_image_11.webp",
+            "relativePath": "easy-homemade-pickles-recipe-for-crisp-tangy-flavor-every-time/images/easy-homemade-pickles-recipe-for-crisp-tangy-flavor-every-time_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Easy Crisp Pickles Recipe with Tangy Garlic Dill Flavor",
+            "description": "Make quick and crunchy homemade pickles with a simple garlic dill brine. Perfect for snacking or adding a fresh tangy crunch to your sandwiches every time.",
+            "board_override": "Canning",
+            "source_keyword": "Pickles Recipe for Crisp",
+            "reference_pin": "https://www.pinterest.com/pin/423760646213693051/",
+            "reference_saves": 9
         }
     ],
     "image": "easy-homemade-pickles-recipe-for-crisp-tangy-flavor-every-time_pinrecipes_image_1.webp",
@@ -311,5 +324,6 @@
     "has_rich_structure": true,
     "createdAt": "2026-08-13T00:38:13+01:00",
     "updatedAt": "2026-08-13T00:38:13+01:00",
-    "has_reel": true
+    "has_reel": true,
+    "pinterest_source_keyword": "Pickles Recipe for Crisp"
 }

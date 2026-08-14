@@ -354,6 +354,18 @@
             "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-baked-zucchini-recipes-vegetarian-lovers-will-adore-for-simple-dinners/images/easy-baked-zucchini-recipes-vegetarian-lovers-will-adore-for-simple-dinners_pinrecipes_image_7.webp",
             "type": "template",
             "title": "Still Making Soggy Zucchini? This Baked Recipe Fixes It Every Time"
+        },
+        {
+            "fileName": "easy-baked-zucchini-recipes-vegetarian-lovers-will-adore-for-simple-dinners_pinrecipes_image_11.webp",
+            "filePath": "posts/easy-baked-zucchini-recipes-vegetarian-lovers-will-adore-for-simple-dinners/images/easy-baked-zucchini-recipes-vegetarian-lovers-will-adore-for-simple-dinners_pinrecipes_image_11.webp",
+            "relativePath": "easy-baked-zucchini-recipes-vegetarian-lovers-will-adore-for-simple-dinners/images/easy-baked-zucchini-recipes-vegetarian-lovers-will-adore-for-simple-dinners_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Italian-inspired Zucchini Garlic Bites: A Flavorful Twist for Snacks & More!",
+            "description": "This baked zucchini recipe is a vegetarian favorite that’s both simple and delicious. I love how the crispy breadcrumb topping pairs with tender zucchini slices. It’s perfect for a cozy weeknight dinner or an easy side dish when you want something fresh and satisfying.",
+            "board_override": "Zucchini Recipes Vegetarian",
+            "source_keyword": "zucchini Recipes Vegetarian",
+            "reference_pin": "https://www.pinterest.com/pin/281543726776948/"
         }
     ],
     "image": "easy-baked-zucchini-recipes-vegetarian-lovers-will-adore-for-simple-dinners_pinrecipes_image_1.webp",
@@ -363,5 +375,6 @@
     "has_rich_structure": true,
     "createdAt": "2026-08-13T00:38:13+01:00",
     "updatedAt": "2026-08-13T00:38:13+01:00",
-    "has_reel": true
+    "has_reel": true,
+    "pinterest_source_keyword": "zucchini Recipes Vegetarian"
 }

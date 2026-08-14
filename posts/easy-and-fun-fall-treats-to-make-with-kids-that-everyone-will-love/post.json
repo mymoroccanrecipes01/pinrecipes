@@ -351,6 +351,19 @@
             "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_8.webp",
             "type": "recipe_card",
             "title": "Why Do Kids Love Making These Easy Fall Treats Together?"
+        },
+        {
+            "fileName": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_11.webp",
+            "filePath": "posts/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_11.webp",
+            "relativePath": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love/images/easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Easy Fun Fall Treats to Make with Kids for Cozy Autumn Baking",
+            "description": "Create simple and delicious fall treats with your kids using easy ingredients and fun shapes. Perfect for crisp autumn afternoons and family baking time that everyone will enjoy.",
+            "board_override": "sweets",
+            "source_keyword": "Fun Fall Treats to Make with Kids",
+            "reference_pin": "https://www.pinterest.com/pin/281543726866287/",
+            "reference_saves": 262
         }
     ],
     "image": "easy-and-fun-fall-treats-to-make-with-kids-that-everyone-will-love_pinrecipes_image_1.webp",
@@ -360,5 +373,6 @@
     "has_rich_structure": true,
     "createdAt": "2026-08-13T00:38:13+01:00",
     "updatedAt": "2026-08-13T00:38:13+01:00",
-    "has_reel": true
+    "has_reel": true,
+    "pinterest_source_keyword": "Fun Fall Treats to Make with Kids"
 }
