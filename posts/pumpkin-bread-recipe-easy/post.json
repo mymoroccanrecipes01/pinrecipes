@@ -1,0 +1,434 @@
+{
+    "title": "Perfect Easy Pumpkin Bread Recipe for Cozy Fall Mornings",
+    "promptIMG": "Food photography: Cinnamon Sugar Pumpkin Bread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred cozy home kitchen with warm natural daylight filtering through a window, faint reflections on the wooden countertop. SUBJECT: a generous loaf of cinnamon sugar pumpkin bread resting on a rustic wooden cutting board, the front corner sharply focused showing the moist crumb texture and golden-brown crust dusted lightly with cinnamon sugar crystals, the rest of the loaf receding into a soft bokeh. DETAILS: the crust glistens with a subtle sugary glaze, cracks revealing tender interior, a sprinkle of cinnamon powder on top, crumbs scattered naturally around the board. STYLE: ultra-photorealistic professional food photography with bright airy daylight and warm golden hues, rich saturated colors highlighting the bread’s texture and color, shallow depth of field, vertical 2:3. AVOID: no text, no hands, no artificial lighting, no steam or smoke, no plastic textures.",
+        "img2": "SCENE: soft, diffused natural light from a large window with a pale marble countertop softly blurred in the background. SUBJECT: the reveal shot of the pumpkin bread cut in half with both halves facing the camera, showing the moist, dense crumb flecked with cinnamon and sugar swirls, the interior glistening with moisture and a few visible sugar crystals melting into the bread. DETAILS: the cut edges have a glossy sheen, the crust’s golden caramelized edges frame the soft inside, a light dusting of cinnamon sugar on top, crumbs lightly scattered on the surface below. STYLE: ultra-photorealistic professional food photography, bright daylight with warm amber tones, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no shadows, no artificial elements.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with a warm side glow highlighting textures. SUBJECT: several thick slices of pumpkin bread arranged close together on a vintage ceramic plate, topped with a pat of melting butter slowly oozing down the sides, a small bowl of cinnamon sugar nearby as an accompaniment, the front slice sharply focused with the rest softly fading into warm bokeh. DETAILS: intense glossy shine on butter and sugar crystals, deep amber caramelization on crust edges, crumbs scattered naturally on the plate, a sprinkle of cinnamon dust settling into the creases. STYLE: ultra-photorealistic professional food photography with deep golden-amber warmth, rich saturated appetizing colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no plastic textures, no steam."
+    },
+    "description": "This easy pumpkin bread recipe is my go-to for cozy fall mornings. It’s moist with just the right cinnamon sugar sweetness and super simple to whip up. Perfect for breakfast or an afternoon snack with coffee!",
+    "hashtags": "#pumpkinbread #easybaking #fallrecipes",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does This Easy Pumpkin Bread Taste So Moist and Flavorful?",
+            "description": "Discover the secret behind this irresistibly moist pumpkin bread that’s packed with cinnamon sugar goodness. It’s simple to make and perfect for cozy mornings. Save this recipe for your next baking day! 🎃🍞 #pumpkinbread #fallbaking #easyrecipes"
+        },
+        {
+            "title": "The One Trick That Makes This Pumpkin Bread Recipe Easy and Delicious",
+            "description": "Want pumpkin bread that’s moist and full of flavor without fuss? This easy recipe uses a simple cinnamon sugar topping that seals in moisture and adds a perfect crunch. Tap to get the full recipe and bake it today! 🍂✨ #easybaking #pumpkinbread #comfortfood"
+        },
+        {
+            "title": "15-Minute Pumpkin Bread Prep for Busy Fall Weeknights",
+            "description": "Short on time but craving homemade pumpkin bread? Prep this easy recipe in just 15 minutes and let the oven do the rest. It’s a cozy treat that’s perfect for busy evenings. Save it now for your next quick bake! 🎃🍁 #pumpkinbreadrecipe #quickbaking #fallcomfortfood"
+        },
+        {
+            "title": "Still Making Dry Pumpkin Bread? This Easy Recipe Fixes It Every Time",
+            "description": "If your pumpkin bread turns out dry, try this foolproof easy recipe with a cinnamon sugar twist that keeps it moist and flavorful. My family can’t get enough! Save this for your next baking session. 🍞🔥 #moistpumpkinbread #easyrecipes #fallbaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 60,
+    "servings": 8,
+    "ingredients": [
+        "1 3/4 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "2 teaspoons ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1/4 teaspoon ground cloves",
+        "1/2 cup unsalted butter, softened",
+        "1 cup granulated sugar",
+        "1/2 cup brown sugar, packed",
+        "2 large eggs",
+        "1 cup canned pumpkin puree",
+        "1/4 cup buttermilk",
+        "1 teaspoon vanilla extract",
+        "For topping: 2 tablespoons granulated sugar mixed with 1 teaspoon cinnamon"
+    ],
+    "yield": "One 9x5 inch loaf, 8 servings",
+    "introduction": "I’ve been making pumpkin bread every fall for years, but this easy pumpkin bread recipe quickly became my favorite. The first time I tried it, I was surprised by how moist and flavorful it turned out, especially compared to other pumpkin breads I’d made before. What makes this recipe stand out is the cinnamon sugar topping that caramelizes on the crust, giving it a delightful sweet crunch that pairs perfectly with the soft, spiced crumb inside. I love how simple the ingredients are and how quickly it comes together — no fancy techniques or weird ingredients, just classic flavors that remind me of cozy family mornings. One trick I learned is to use buttermilk instead of regular milk; it adds a subtle tang and helps keep the bread tender. Another is not to overmix the batter, which keeps the texture light and fluffy. When it’s done, the loaf has a beautiful golden crust with just the right amount of spice, making it a perfect treat to enjoy with a cup of coffee or tea. I usually bake it on a weekend morning and slice it for breakfast throughout the week. It’s a recipe I always come back to when I want something comforting but fuss-free.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Grease a 9x5 inch loaf pan with butter or nonstick spray and lightly dust it with flour to ensure the bread releases easily after baking. This preparation is crucial because it prevents sticking, which can ruin the loaf’s shape and texture. Set the pan aside while you prepare the batter.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan is evenly greased with no visible dry spots, lightly dusted with flour."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking soda, salt, cinnamon, nutmeg, and cloves. This dry mix ensures the spices and leavening agents are evenly distributed, which is key to consistent flavor and proper rise. Mixing the spices with the flour prevents clumps and uneven seasoning in the bread.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well combined with no lumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the softened butter with both sugars until light and fluffy using a hand mixer or stand mixer. This aeration step is important because it incorporates air, helping the bread rise and giving it a tender crumb. Scrape down the bowl as needed to ensure even mixing.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Butter and sugars form a pale, creamy mixture with a fluffy texture."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the eggs one at a time to the butter-sugar mixture, beating well after each addition. This gradual incorporation helps emulsify the batter, preventing it from curdling and ensuring a smooth texture. Don’t rush this step; well-beaten eggs are essential for structure.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth and glossy with no streaks of egg white visible."
+        },
+        {
+            "step": 5,
+            "instruction": "Mix in the pumpkin puree, buttermilk, and vanilla extract until just combined. The pumpkin adds moisture and flavor, while the buttermilk tenderizes the crumb and adds a slight tang. Mixing gently here prevents overworking the gluten, which would make the bread tough.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Wet ingredients are uniformly blended with no large lumps of pumpkin."
+        },
+        {
+            "step": 6,
+            "instruction": "Gradually fold the dry ingredients into the wet mixture using a spatula. Fold gently until just combined; overmixing can develop gluten and make the bread dense. You want to see a few streaks of flour still, but no large pockets of dry ingredients.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Batter is thick and uniform with no dry flour patches."
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. Even the surface to ensure the bread bakes uniformly and rises evenly. This step sets the stage for a beautiful loaf with a nicely domed top.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter evenly spread with a smooth surface."
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle the cinnamon sugar mixture evenly over the top of the batter. This topping caramelizes during baking, creating a sweet, crunchy crust that contrasts with the soft bread inside. Don’t skip this — it’s the signature touch of the recipe.",
+            "timing": "1 minute",
+            "doneness_cue": "Topping is evenly distributed and lightly covering the surface."
+        },
+        {
+            "step": 9,
+            "instruction": "Bake in the preheated oven for 55-65 minutes, or until a toothpick inserted into the center comes out clean or with a few moist crumbs. Avoid opening the oven door too early to prevent the bread from collapsing. The baking time ensures the loaf is cooked through but remains moist.",
+            "timing": "55-65 minutes",
+            "doneness_cue": "Loaf is golden brown, toothpick comes out mostly clean, edges pull slightly away from pan."
+        },
+        {
+            "step": 10,
+            "instruction": "Let the pumpkin bread cool in the pan for 10 minutes, then transfer to a wire rack to cool completely. Cooling allows the bread to set and prevents it from becoming soggy. Slice only when fully cool for clean cuts and best texture.",
+            "timing": "30 minutes",
+            "doneness_cue": "Loaf is firm to the touch and cool enough to slice without crumbling."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Pumpkin Bread Recipe Succeeds",
+        "content": "<p>This pumpkin bread recipe balances moisture, spice, and texture through a combination of carefully chosen ingredients and techniques. The use of buttermilk is a key factor—it introduces acidity that tenderizes the gluten in the flour, resulting in a soft, moist crumb. Buttermilk also reacts with baking soda to create carbon dioxide bubbles, helping the bread rise evenly and develop a light texture despite the dense pumpkin puree.</p><p>The cinnamon sugar topping is more than decorative; it caramelizes during baking, forming a crunchy, sweet crust that contrasts beautifully with the soft interior. This textural contrast elevates the eating experience and adds a cozy warmth that’s perfect for fall. The spices—cinnamon, nutmeg, and cloves—are balanced to enhance the pumpkin’s natural sweetness without overpowering it.</p><p>Mixing technique is crucial here. Creaming the butter and sugars incorporates air, which lightens the batter and improves rise. Adding eggs gradually ensures a stable emulsion, preventing the batter from curdling. Folding in the dry ingredients gently avoids overdeveloping gluten, which would make the bread tough. The baking temperature and time are calibrated to allow the loaf to cook through fully while maintaining moisture, with the edges caramelizing nicely for flavor and appearance.</p><p>Overall, this recipe works because it respects the chemistry of baking and the role each ingredient plays, delivering a pumpkin bread that’s moist, flavorful, and has that perfect crumb-to-crust ratio that keeps you coming back for more.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "All-purpose flour provides the right balance of protein to create structure without making the bread too dense. Look for bleached or unbleached varieties, both work well. Avoid using cake flour as it lacks enough protein, which can cause the bread to be too crumbly. Sift or whisk the flour with spices to ensure even distribution and prevent lumps.",
+            "baking soda": "Baking soda is the leavening agent that reacts with the acidity in buttermilk and pumpkin to produce carbon dioxide bubbles, helping the bread rise. It's important to measure accurately as too much can cause a bitter taste, and too little will result in a dense loaf. Fresh baking soda ensures maximum rise.",
+            "pumpkin puree": "Use pure canned pumpkin puree, not pumpkin pie filling which contains added sugars and spices. Pure pumpkin provides moisture, flavor, and nutrients. If using fresh pumpkin, roast and puree it until smooth, but canned is more convenient and consistent. Avoid watery pumpkin purees that can thin the batter.",
+            "buttermilk": "Buttermilk adds acidity that tenderizes gluten and reacts with baking soda to create lift. It also contributes a subtle tang that balances the sweetness. If you don’t have buttermilk, mix 1 tablespoon lemon juice or vinegar with milk and let it sit for 5 minutes as a substitute. Avoid skipping this ingredient for best texture.",
+            "cinnamon sugar topping": "The cinnamon sugar topping is a simple mixture of granulated sugar and cinnamon sprinkled on top before baking. It caramelizes in the oven, creating a sweet, crunchy crust that contrasts with the soft bread inside. This small addition makes a big difference in flavor and texture, so don’t omit it."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature ingredients for easier mixing and better texture.",
+            "reason": "Room temperature butter and eggs blend more smoothly with other ingredients, creating a uniform batter. Cold ingredients can cause the batter to curdle or mix unevenly, affecting rise and crumb structure."
+        },
+        {
+            "tip": "Don’t overmix the batter once the dry ingredients are added.",
+            "reason": "Overmixing develops gluten in the flour, which can make the bread tough and dense instead of tender and moist. Fold gently until just combined for best results."
+        },
+        {
+            "tip": "Let the bread cool completely before slicing.",
+            "reason": "Cooling allows the bread to set and prevents it from crumbling or becoming gummy when sliced. Warm bread is more fragile and can tear easily."
+        },
+        {
+            "tip": "Use fresh baking soda for optimal rise.",
+            "reason": "Baking soda loses potency over time, which can result in a flat, dense loaf. Test freshness by dropping a small amount in vinegar; it should bubble vigorously."
+        },
+        {
+            "tip": "Sprinkle cinnamon sugar evenly and generously on top.",
+            "reason": "This topping caramelizes to create a crunchy, flavorful crust that elevates the bread. Uneven or light sprinkling reduces this effect."
+        },
+        {
+            "tip": "Use a toothpick to test doneness instead of relying solely on baking time.",
+            "reason": "Ovens vary, so the toothpick test ensures the bread is fully baked without overcooking, which dries it out."
+        },
+        {
+            "tip": "Line your loaf pan with parchment paper for easy removal.",
+            "reason": "Parchment provides a nonstick surface and makes it easier to lift the bread out without damage, especially if you don’t have a well-greased pan."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many home cooks think mixing longer will make the batter smoother, but it actually develops gluten, causing a dense, tough bread.",
+            "fix": "Mix dry ingredients into wet just until combined, with no visible streaks of flour. Use gentle folding motions and avoid beating after adding flour."
+        },
+        {
+            "mistake": "Using pumpkin pie filling instead of puree",
+            "why_it_happens": "Pie filling is sweeter and spiced, which can throw off the recipe’s balance and texture.",
+            "fix": "Always use pure pumpkin puree for consistent moisture and flavor. If using fresh pumpkin, roast and puree it yourself without added sugar or spices."
+        },
+        {
+            "mistake": "Not greasing the pan properly",
+            "why_it_happens": "Skipping this step causes the bread to stick, making removal difficult and damaging the loaf.",
+            "fix": "Grease the pan thoroughly with butter or nonstick spray and lightly dust with flour or use parchment paper for easy release."
+        },
+        {
+            "mistake": "Baking at the wrong temperature",
+            "why_it_happens": "Oven temperatures vary and some cooks don’t preheat properly, causing uneven baking or undercooked centers.",
+            "fix": "Preheat oven fully to 350°F and use an oven thermometer to verify. Avoid opening the oven door early to maintain consistent heat."
+        },
+        {
+            "mistake": "Cutting the bread before it cools",
+            "why_it_happens": "Impatience leads to slicing warm bread, which can crumble or become gummy.",
+            "fix": "Allow the loaf to cool at least 30 minutes on a wire rack before slicing for clean cuts and best texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Walnut Pumpkin Bread",
+            "description": "Add 1/2 cup chopped walnuts to the batter for a crunchy texture and nutty flavor that complements the pumpkin and spices beautifully.",
+            "technical_note": "Fold walnuts into the batter gently after combining wet and dry ingredients to avoid overmixing."
+        },
+        {
+            "name": "Pumpkin Chocolate Chip Bread",
+            "description": "Mix in 3/4 cup semi-sweet chocolate chips for a sweet surprise in every bite. The chocolate pairs wonderfully with the warm spices.",
+            "technical_note": "Toss chocolate chips in a little flour before folding in to prevent sinking."
+        },
+        {
+            "name": "Gluten-Free Pumpkin Bread",
+            "description": "Use a gluten-free all-purpose flour blend in place of regular flour. The texture will be slightly different but still moist and flavorful.",
+            "technical_note": "Add 1/4 teaspoon xanthan gum if your blend doesn’t contain it to help with structure."
+        },
+        {
+            "name": "Vegan Pumpkin Bread",
+            "description": "Replace eggs with flax eggs (2 tablespoons ground flaxseed + 6 tablespoons water) and use a plant-based butter substitute to make this recipe vegan-friendly.",
+            "technical_note": "Let flax eggs sit for 5 minutes to thicken before adding to the batter."
+        },
+        {
+            "name": "Spiced Pumpkin Cranberry Bread",
+            "description": "Add 1/2 cup dried cranberries and increase cinnamon to 2 1/2 teaspoons for a tart and spicy twist that’s perfect for the holidays.",
+            "technical_note": "Soak cranberries in warm water for 10 minutes and drain before adding to keep them plump."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "12g",
+        "fiber_grams": "3g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pumpkin bread can be safely kept at room temperature for up to 2 days if wrapped tightly in plastic wrap or stored in an airtight container. This prevents it from drying out and keeps it fresh for snacking.",
+        "refrigerator": "Store leftover pumpkin bread in an airtight container or wrapped in foil in the refrigerator for up to 5 days. The cooler temperature slows spoilage but can dry the bread slightly, so reheat gently before serving.",
+        "freezer": "Freeze pumpkin bread wrapped tightly in plastic wrap and then in foil or a freezer bag for up to 3 months. Thaw overnight in the refrigerator or at room temperature. Freezing preserves moisture and flavor well.",
+        "reheating": "Reheat slices in a toaster oven or microwave for 20-30 seconds until warm. Adding a small pat of butter before warming can enhance moisture and flavor. Avoid overheating, which can dry out the bread.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it covered in the refrigerator. Bring to room temperature before baking to ensure even cooking. Alternatively, bake the bread and freeze slices for quick breakfasts or snacks."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh pumpkin instead of canned pumpkin puree?",
+            "answer": "Yes, you can use fresh pumpkin, but it requires roasting and pureeing first. Choose a sugar pumpkin or pie pumpkin, roast until soft, then puree until smooth. Fresh pumpkin has more water content, so you may need to reduce other liquids slightly to maintain the right batter consistency."
+        },
+        {
+            "question": "What if I don’t have buttermilk?",
+            "answer": "You can make a buttermilk substitute by adding 1 tablespoon of lemon juice or white vinegar to 1 cup of milk and letting it sit for 5 minutes. This acidic milk mimics buttermilk’s tenderizing effect and reacts with baking soda for proper rise."
+        },
+        {
+            "question": "How do I know when the pumpkin bread is done baking?",
+            "answer": "Insert a toothpick into the center of the loaf. If it comes out clean or with a few moist crumbs (not wet batter), the bread is done. The edges should pull away slightly from the pan, and the top should be golden brown."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, substitute the all-purpose flour with a gluten-free flour blend that includes xanthan gum for structure. The texture will be slightly different but still delicious. Don’t overmix to avoid a gummy texture."
+        },
+        {
+            "question": "Why is my pumpkin bread dry?",
+            "answer": "Dryness often results from overbaking or overmixing. Make sure to bake only until a toothpick comes out clean, and mix the batter gently. Using fresh pumpkin puree and buttermilk also helps keep the bread moist."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips?",
+            "answer": "Absolutely! Fold in 1/2 cup chopped nuts like walnuts or pecans, or 3/4 cup chocolate chips for extra flavor and texture. Toss them in a little flour before adding to prevent sinking."
+        },
+        {
+            "question": "How should I store leftover pumpkin bread?",
+            "answer": "Store leftovers tightly wrapped in plastic wrap or in an airtight container at room temperature for up to 2 days, or in the refrigerator for up to 5 days. For longer storage, freeze slices individually wrapped."
+        },
+        {
+            "question": "Can I make this pumpkin bread vegan?",
+            "answer": "Yes, replace eggs with flax eggs (2 tablespoons ground flaxseed mixed with 6 tablespoons water) and use a plant-based butter substitute. Let the flax eggs thicken before mixing them in."
+        }
+    ],
+    "conclusion": "I hope you enjoy this easy pumpkin bread as much as my family does. It’s a simple recipe that brings cozy fall flavors to your kitchen—give it a try and share how it turns out!",
+    "seo": {
+        "primary_keyword": "pumpkin bread recipe easy",
+        "secondary_keywords": [
+            "easy pumpkin bread",
+            "homemade pumpkin bread",
+            "best pumpkin bread recipe",
+            "how to make pumpkin bread",
+            "simple pumpkin bread recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "Classic Cinnamon Sugar Muffins",
+                "anchor": "cinnamon-sugar-muffins"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-16 17:32:35",
+        "title_seed": "pumpkin bread recipe easy"
+    },
+    "author_id": "author_001",
+    "id": "post_1786897955_344",
+    "slug": "pumpkin-bread-recipe-easy",
+    "uniqueSlug": "pumpkin-bread-recipe-easy",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_1.webp",
+            "filePath": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_1.webp",
+            "relativePath": "pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_2.webp",
+            "filePath": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_2.webp",
+            "relativePath": "pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_3.webp",
+            "filePath": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_3.webp",
+            "relativePath": "pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_11.webp",
+            "filePath": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_11.webp",
+            "relativePath": "pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Easy Moist Pumpkin Bread with Warm Spices",
+            "description": "Discover the ultimate easy pumpkin bread recipe that’s moist and packed with cozy fall spices. Perfect for a quick breakfast or snack, this homemade pumpkin bread is simple to bake and irresistibly delicious.",
+            "board_override": "baking",
+            "source_keyword": "pumpkin bread recipe easy",
+            "reference_pin": "https://www.pinterest.com/pin/156711262029772704/",
+            "reference_saves": 16
+        },
+        {
+            "fileName": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_12.webp",
+            "filePath": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_12.webp",
+            "relativePath": "pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Easy Pumpkin Bread Recipe – Moist, Spiced & Perfect for Fall Baking",
+            "description": "Discover this simple pumpkin bread recipe that's moist, flavorful, and perfect for beginners. Made with pantry staples and warm fall spices, it’s an ideal treat for breakfast or a cozy snack all season long.",
+            "board_override": "ALPACA-lunch",
+            "source_keyword": "pumpkin bread recipe easy",
+            "reference_pin": "https://www.pinterest.com/pin/167688786129380435/",
+            "reference_saves": 2
+        },
+        {
+            "fileName": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_13.webp",
+            "filePath": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_13.webp",
+            "relativePath": "pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "Easy Pumpkin Bread Recipe with Simple Ingredients",
+            "description": "Discover this easy pumpkin bread recipe that combines basic pantry staples for a moist, flavorful loaf perfect for fall. Ready in under an hour, it’s a quick and delicious treat ideal for breakfast or snacks any time you crave cozy pumpkin goodness.",
+            "board_override": "Breads",
+            "source_keyword": "pumpkin bread recipe easy",
+            "reference_pin": "https://www.pinterest.com/pin/88383211434257798/",
+            "reference_saves": 2
+        },
+        {
+            "fileName": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_4.webp",
+            "filePath": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_4.webp",
+            "relativePath": "pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_4.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic",
+            "title": "Why Does This Easy Pumpkin Bread Taste So Moist and Flavorful?"
+        },
+        {
+            "fileName": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_5.webp",
+            "filePath": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_5.webp",
+            "relativePath": "pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_5.webp",
+            "order": 8,
+            "type": "template",
+            "template": "classic",
+            "title": "The One Trick That Makes This Pumpkin Bread Recipe Easy and Delicious"
+        },
+        {
+            "fileName": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_6.webp",
+            "filePath": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_6.webp",
+            "relativePath": "pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_6.webp",
+            "order": 9,
+            "type": "template",
+            "template": "classic",
+            "title": "15-Minute Pumpkin Bread Prep for Busy Fall Weeknights"
+        },
+        {
+            "fileName": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_7.webp",
+            "filePath": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_7.webp",
+            "relativePath": "pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_7.webp",
+            "order": 10,
+            "type": "template",
+            "template": "classic",
+            "title": "Still Making Dry Pumpkin Bread? This Easy Recipe Fixes It Every Time"
+        },
+        {
+            "fileName": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_8.webp",
+            "filePath": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_8.webp",
+            "relativePath": "pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_8.webp",
+            "order": 11,
+            "type": "recipe_card",
+            "template": "recipe_card",
+            "title": "Why Does This Easy Pumpkin Bread Taste So Moist and Flavorful?"
+        },
+        {
+            "fileName": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_9.webp",
+            "filePath": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_9.webp",
+            "relativePath": "pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_9.webp",
+            "order": 12,
+            "type": "overlay_list",
+            "template": "overlay_list",
+            "title": "Why Does This Easy Pumpkin Bread Taste So Moist and Flavorful?"
+        },
+        {
+            "fileName": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_10.webp",
+            "filePath": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_10.webp",
+            "relativePath": "pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_10.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_10.webp",
+            "order": 13,
+            "type": "etsy_pin",
+            "template": "classic",
+            "title": "Why Does This Easy Pumpkin Bread Taste So Moist and Flavorful?"
+        }
+    ],
+    "image": "pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_1.webp",
+    "image_path": "posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_1.webp",
+    "image_dir": "pumpkin-bread-recipe-easy/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-16T17:32:35+01:00",
+    "updatedAt": "2026-08-16T17:32:35+01:00",
+    "pinterest_source_keyword": "pumpkin bread recipe easy",
+    "has_reel": true
+}

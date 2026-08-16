@@ -1,0 +1,426 @@
+{
+    "title": "Easy Crock Pot Lasagna Soup Recipe for Cozy Family Dinners",
+    "promptIMG": "Food photography: crock pot lasagna soup, rustic ceramic bowl filled with rich tomato broth, layers of ground beef, noodles, melted mozzarella, and fresh basil garnish, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred home kitchen background with warm daylight filtering through a window, faint reflections on a wooden countertop. SUBJECT: a large rustic ceramic bowl overflowing with vibrant crock pot lasagna soup, showing a rich red tomato broth filled with tender noodles, browned ground beef, and melted mozzarella cheese bubbling on top. The front edge of the bowl is razor-sharp at a slight angle highlighting the creamy cheese texture and fresh green basil leaves sprinkled on top. DETAILS: glossy tomato broth with a slight oily sheen, cheese melting with a gooey texture, fresh herbs scattered naturally, crumbs of toasted bread beside the bowl. STYLE: ultra-photorealistic professional food photography, bright and warm daylight with golden hues, saturated colors emphasizing the rich reds and creamy whites, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no artificial colors, no steam or smoke, no logos or watermarks.",
+        "img2": "SCENE: soft natural light coming from a large window with a blurred marble countertop background in light grey tones. SUBJECT: the reveal shot of crock pot lasagna soup, showing a deep ceramic bowl cut in half by a large spoon mid-scoop, exposing the layers inside: juicy browned beef, soft pasta ribbons coated in thick tomato sauce, and a string of melted mozzarella cheese stretching from the spoon to the bowl. DETAILS: the interior glistens with moist sauce, cheese pull frozen mid-action, fresh basil leaves on top, natural crumbs on the bowl rim, the tomato broth’s glossy surface reflecting light. STYLE: ultra-photorealistic professional food photography, bright daylight with warm amber highlights, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no artificial effects, no steam or smoke, no watermarks.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with a side warm glow highlighting the food. SUBJECT: several servings of crock pot lasagna soup arranged in rustic ceramic bowls close together, topped generously with fresh torn basil and melted mozzarella, accompanied by a small plate of toasted garlic bread slices on the side. The front bowl sharply focused with cheese glistening and sauce dripping slightly over the edge. DETAILS: intense wet shine on the tomato broth and cheese, deep caramelized edges on the toasted bread, fresh herb sprinkles scattered naturally, crumbs on the wood surface. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm tones, highly saturated appetizing colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no steam, no artificial colors."
+    },
+    "description": "This crock pot lasagna soup is a warm hug in a bowl, perfect for chilly nights when you want comfort without fuss. The slow-cooked tomato broth blends with tender noodles and melty cheese for a cozy, family-friendly meal.",
+    "hashtags": "#lasagnasoup #crockpotrecipes #comfortfood",
+    "board_name": "Cozy Soup Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Crock Pot Lasagna Soup Taste So Much Better Than Regular?",
+            "description": "Discover the secret to this rich, slow-cooked lasagna soup that’s bursting with flavor and melt-in-your-mouth cheese. Perfect for a cozy dinner that feels homemade. Save this for your next meal! #lasagnasoup #slowcookermeals #familydinner"
+        },
+        {
+            "title": "The One Trick That Makes Crock Pot Lasagna Soup Foolproof",
+            "description": "Want a lasagna soup that’s always perfectly balanced? This easy crock pot recipe uses a simple layering technique that locks in flavor and keeps noodles tender. Tap to get the full recipe! #easyrecipes #lasagnasoup #comfortfood"
+        },
+        {
+            "title": "30-Minute Prep Crock Pot Lasagna Soup for Busy Weeknights",
+            "description": "Short on time but craving comfort? Prep this hearty lasagna soup in just 30 minutes and let your crock pot do the rest. A family favorite that’s easy and delicious! Save for dinner inspiration. #weeknightdinner #lasagnasoup #crockpotrecipes"
+        },
+        {
+            "title": "Crock Pot vs Stovetop Lasagna Soup - Which Wins on Flavor?",
+            "description": "Curious whether slow cooking or stovetop makes better lasagna soup? We put both to the test and the crock pot’s slow-simmered richness wins hands down. Try this cozy recipe tonight! #lasagnasoup #slowcookerrecipes #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 30,
+    "cook_time": 240,
+    "servings": 6,
+    "ingredients": [
+        "1 pound ground beef, browned and drained",
+        "1 medium onion, finely chopped",
+        "3 cloves garlic, minced",
+        "1 (28-ounce) can crushed tomatoes",
+        "4 cups beef broth",
+        "1 (6-ounce) can tomato paste",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried oregano",
+        "Salt and pepper to taste",
+        "8 ounces lasagna noodles, broken into bite-sized pieces",
+        "2 cups shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "Fresh basil leaves, for garnish"
+    ],
+    "yield": "Approximately 6 cups, 6 servings",
+    "introduction": "I first stumbled upon this crock pot lasagna soup recipe on a chilly fall evening when I wanted all the comforting flavors of lasagna but without the fuss of layering and baking. What I love about this version is how the slow cooker gently melds the tomato broth, herbs, and beef into a rich, flavorful base while the noodles soften perfectly without turning mushy. The secret is adding the noodles later in the cooking process, so they don’t overcook. Plus, topping it off with a blend of mozzarella and Parmesan cheese gives it that irresistible gooey, cheesy finish that my family absolutely adores. Over time, I tweaked the seasoning and broth amounts to get the perfect balance of hearty and bright flavors. When this soup is ready, it’s like a warm hug in a bowl—rich, cozy, and filling, perfect for weeknight dinners or when you want something special with minimal effort. I think you’ll find it’s a wonderful way to enjoy lasagna in a new, easy-to-make way that still feels like a special meal at home.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by browning the ground beef in a large skillet over medium heat until fully cooked and no longer pink. Break it up into small pieces as it cooks to ensure even browning. Drain excess fat to keep the soup from becoming greasy. Browning the beef first develops deep, savory flavors through the Maillard reaction, which is essential for a rich broth base. Avoid rushing this step or using low heat, as that can cause the meat to steam rather than brown, resulting in less flavor.",
+            "timing": 10,
+            "doneness_cue": "Beef is evenly browned with no pink spots and has a slightly caramelized crust."
+        },
+        {
+            "step": 2,
+            "instruction": "Add chopped onions and minced garlic to the skillet with the beef and sauté for about 3-4 minutes until softened and fragrant. This step builds the aromatic foundation of the soup. Cooking the onions until translucent releases their natural sweetness and balances the acidity of the tomatoes later. Don’t let the garlic burn—it should be fragrant but not browned, or it will taste bitter.",
+            "timing": 4,
+            "doneness_cue": "Onions are translucent and soft; garlic aroma is noticeable but not burnt."
+        },
+        {
+            "step": 3,
+            "instruction": "Transfer the beef, onions, and garlic mixture into the crock pot. Add crushed tomatoes, tomato paste, beef broth, dried basil, oregano, salt, and pepper. Stir everything together to combine. The slow cooker will meld these flavors over several hours, creating a deep, harmonious tomato base. Be sure to season well here, as the long cooking time will mellow the herbs and spices.",
+            "timing": 5,
+            "doneness_cue": "Ingredients are evenly mixed with no clumps of tomato paste."
+        },
+        {
+            "step": 4,
+            "instruction": "Cover the crock pot and cook on low for 4 hours. This slow simmer allows the flavors to develop fully and the broth to thicken slightly. Resist the urge to lift the lid frequently, as this releases heat and extends cooking time. The slow heat also tenderizes the beef further and softens the onions into the broth.",
+            "timing": 240,
+            "doneness_cue": "Soup is bubbling gently and smells rich and savory."
+        },
+        {
+            "step": 5,
+            "instruction": "About 30 minutes before serving, add the broken lasagna noodles to the crock pot and stir gently. Cook uncovered for 20-30 minutes until noodles are tender but not mushy. Adding noodles late prevents them from overcooking and disintegrating in the soup. Stir occasionally to prevent noodles from sticking to the bottom.",
+            "timing": 30,
+            "doneness_cue": "Noodles are soft but still hold their shape."
+        },
+        {
+            "step": 6,
+            "instruction": "Once noodles are cooked, stir in half of the shredded mozzarella and all of the Parmesan cheese. The residual heat will melt the cheese into the soup, creating a creamy, cheesy texture. Stir gently to combine but avoid over-stirring, which can break noodles apart. This step adds richness and a luscious mouthfeel reminiscent of traditional lasagna.",
+            "timing": 5,
+            "doneness_cue": "Cheese is melted and evenly distributed throughout the soup."
+        },
+        {
+            "step": 7,
+            "instruction": "Taste the soup and adjust seasoning with additional salt and pepper if needed. Sometimes the slow cooking can mellow flavors, so a little extra seasoning brightens the dish. If the soup is too thick, add a splash of beef broth or water to loosen it to your preferred consistency.",
+            "timing": 3,
+            "doneness_cue": "Soup tastes balanced with no overpowering acidity or blandness."
+        },
+        {
+            "step": 8,
+            "instruction": "Ladle the soup into bowls and top each serving with the remaining shredded mozzarella and fresh basil leaves. The fresh basil adds a bright herbal note that complements the rich tomato and cheese flavors. Serving immediately ensures the cheese topping stays melty and visually appealing.",
+            "timing": 2,
+            "doneness_cue": "Cheese topping is visibly melted and basil is vibrant green."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the crock pot lasagna soup hot with toasted garlic bread or a simple green salad on the side for a complete meal. The bread is perfect for dipping into the flavorful broth and soaking up the cheesy goodness. Enjoy this cozy, satisfying dish with family or friends.",
+            "timing": 1,
+            "doneness_cue": "Soup is steaming hot and bread is golden and crisp."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Crock Pot Lasagna Soup Delivers Comfort and Flavor",
+        "content": "<p>This crock pot lasagna soup works so well because of the slow, gentle cooking process that allows flavors to meld deeply without overcooking the noodles. The key is layering ingredients thoughtfully and timing the addition of pasta to maintain texture. Browning the ground beef first triggers Maillard reactions, creating complex savory notes that enrich the broth. The slow simmer then extracts and blends these flavors with the acidity of crushed tomatoes and the warmth of dried herbs.</p><p>Adding the lasagna noodles late in the cooking process prevents them from becoming mushy, a common pitfall in soup recipes. This technique ensures the noodles retain a tender bite that mimics traditional baked lasagna layers. The cheeses—mozzarella and Parmesan—introduce creamy richness and umami, melting into the broth to thicken it slightly and add luscious mouthfeel.</p><p>Fresh basil added at the end cuts through the richness with a bright, herbal aroma that balances the dish. The slow cooker’s consistent low heat also tenderizes the beef and softens onions, which dissolve into the broth, creating a hearty, comforting texture. Overall, this recipe combines classic lasagna flavors with the convenience of a one-pot slow cooker meal, making it perfect for busy weeknights or cozy family dinners.</p>",
+        "ingredient_notes": {
+            "ground beef": "Choose 80/20 ground beef for a good balance of flavor and fat content. The fat helps keep the soup rich and tender, while leaner beef can dry out. Browning the beef before adding it to the crock pot enhances the overall depth of flavor through caramelization.",
+            "crushed tomatoes": "Opt for high-quality crushed tomatoes with no added sugar or preservatives for the freshest tomato flavor. This ingredient forms the base of the soup’s broth, so its quality directly impacts the final taste.",
+            "lasagna noodles": "Use regular dried lasagna noodles broken into bite-sized pieces. Adding them late in the cooking process prevents them from overcooking and turning mushy, preserving a pleasant texture similar to baked lasagna.",
+            "mozzarella cheese": "Fresh shredded mozzarella melts beautifully into the soup, creating a creamy texture and mild flavor. Avoid pre-shredded cheese with anti-caking agents, which can affect melting quality.",
+            "basil leaves": "Fresh basil added just before serving adds a bright, herbal note that balances the rich tomato and cheese flavors. Dried basil cannot replace fresh here as it lacks the vibrant aroma."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Brown the ground beef thoroughly before adding to the crock pot.",
+            "reason": "Browning triggers Maillard reactions that develop rich, savory flavors essential for a deep broth. Skipping this step results in a less flavorful soup."
+        },
+        {
+            "tip": "Add the noodles during the last 30 minutes of cooking.",
+            "reason": "This prevents noodles from becoming overly soft and mushy, ensuring they maintain a pleasant texture akin to traditional lasagna pasta."
+        },
+        {
+            "tip": "Use fresh mozzarella cheese instead of pre-shredded.",
+            "reason": "Fresh mozzarella melts more smoothly and creates a creamier texture, while pre-shredded cheese often contains additives that affect melting."
+        },
+        {
+            "tip": "Don’t lift the crock pot lid frequently during cooking.",
+            "reason": "Each time you lift the lid, heat escapes and extends cooking time, which can affect the final flavor and texture development."
+        },
+        {
+            "tip": "Season the soup well before slow cooking.",
+            "reason": "Herbs and salt mellow during long cooking, so starting with good seasoning ensures the final dish is flavorful and balanced."
+        },
+        {
+            "tip": "Serve with toasted garlic bread for dipping.",
+            "reason": "The crunchy bread contrasts the creamy soup and soaks up the flavorful broth, enhancing the overall meal experience."
+        },
+        {
+            "tip": "Add fresh basil just before serving.",
+            "reason": "Fresh basil adds a bright, fresh aroma and flavor that lifts the richness of the soup, which dried herbs cannot replicate."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding noodles too early.",
+            "why_it_happens": "Many cooks add pasta at the start to save time, assuming it will cook evenly with the rest of the soup.",
+            "fix": "Add noodles during the last 30 minutes of cooking to ensure they remain tender but not mushy. This timing preserves their texture and prevents them from breaking down."
+        },
+        {
+            "mistake": "Skipping browning the beef.",
+            "why_it_happens": "Some skip this step to save time or reduce cleanup, not realizing it affects flavor.",
+            "fix": "Always brown the beef first to develop deep, savory notes that enrich the soup base. It only takes 10 minutes but makes a big difference."
+        },
+        {
+            "mistake": "Using pre-shredded cheese.",
+            "why_it_happens": "Pre-shredded cheese is convenient but contains anti-caking agents.",
+            "fix": "Use freshly shredded mozzarella for better melting and creamier texture. It improves the soup’s mouthfeel significantly."
+        },
+        {
+            "mistake": "Over-seasoning at the start.",
+            "why_it_happens": "Adding too much salt or herbs early can lead to overpowering flavors after slow cooking.",
+            "fix": "Season moderately at first and adjust after cooking. The long simmer mellows flavors, so you can safely add more at the end."
+        },
+        {
+            "mistake": "Lifting the crock pot lid repeatedly.",
+            "why_it_happens": "Curiosity or impatience leads to frequent lid lifting.",
+            "fix": "Avoid opening the lid during cooking to maintain consistent temperature and cooking time, ensuring optimal flavor development."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Lasagna Soup",
+            "description": "Swap out ground beef for sautéed mushrooms and diced zucchini for a hearty vegetarian version. Use vegetable broth instead of beef broth. Expect a lighter but still flavorful soup with plenty of umami from the mushrooms.",
+            "technical_note": "Sauté vegetables until tender before adding to the crock pot to develop flavor, then proceed as usual."
+        },
+        {
+            "name": "Spicy Lasagna Soup",
+            "description": "Add red pepper flakes or a diced jalapeño when sautéing the onions and garlic for a spicy kick. This variation adds warmth and complexity without overpowering the classic flavors.",
+            "technical_note": "Adjust spice level to taste and add fresh herbs at the end to balance heat."
+        },
+        {
+            "name": "Creamy Lasagna Soup",
+            "description": "Stir in 1/2 cup of heavy cream or half-and-half just before serving for a richer, creamier texture. This variation feels indulgent and smooth, perfect for extra cozy nights.",
+            "technical_note": "Add cream off heat and stir gently to prevent curdling."
+        },
+        {
+            "name": "Slow Cooker Lasagna Soup with Italian Sausage",
+            "description": "Replace ground beef with Italian sausage for a more robust, spiced flavor. Remove casings before browning. This gives the soup a heartier, slightly spicy profile loved by sausage fans.",
+            "technical_note": "Brown sausage thoroughly and drain excess fat before adding to slow cooker."
+        },
+        {
+            "name": "Gluten-Free Lasagna Soup",
+            "description": "Use gluten-free lasagna noodles or substitute with gluten-free pasta shapes. Ensure broth and tomato products are gluten-free. This keeps the dish accessible without sacrificing flavor or texture.",
+            "technical_note": "Add gluten-free noodles late in cooking as usual; they may cook slightly faster, so watch closely."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This soup can safely sit out covered at room temperature for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate promptly. Cover with a lid or plastic wrap to prevent contamination.",
+        "refrigerator": "Store leftover soup in an airtight container for up to 4 days. The noodles may absorb more broth and soften further, so reheat gently and consider adding a splash of broth to loosen the texture before serving.",
+        "freezer": "Freeze soup in airtight containers or heavy-duty freezer bags for up to 3 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat soup on the stovetop over medium-low heat, stirring occasionally. Add a splash of broth or water if the soup is too thick. Avoid microwaving for long periods to prevent uneven heating and noodle overcooking.",
+        "make_ahead_strategy": "You can prepare the base soup up to 2 days ahead and refrigerate without adding noodles or cheese. Add the pasta and cheese just before reheating to keep noodles tender and cheese melty."
+    },
+    "faq": [
+        {
+            "question": "Can I make this lasagna soup without a crock pot?",
+            "answer": "Yes! You can make this recipe on the stovetop by simmering the beef, tomatoes, and broth in a large pot for about 45 minutes, then adding noodles and cooking until tender. The flavor won’t be quite as deep as slow-cooked, but it’s a great shortcut."
+        },
+        {
+            "question": "What if I don’t have lasagna noodles?",
+            "answer": "You can substitute broken spaghetti, penne, or any pasta you have on hand. Just adjust cooking time accordingly, as smaller pasta shapes usually cook faster."
+        },
+        {
+            "question": "How do I prevent the noodles from getting mushy?",
+            "answer": "Add the noodles during the last 20-30 minutes of cooking and avoid over-stirring. This keeps them tender but intact and prevents them from absorbing too much broth."
+        },
+        {
+            "question": "Can I freeze the soup with noodles in it?",
+            "answer": "It’s best to freeze the soup without noodles, as they tend to get mushy after freezing and reheating. Freeze the broth and beef mixture, then add fresh noodles when reheating."
+        },
+        {
+            "question": "What cheese works best for this soup?",
+            "answer": "Fresh shredded mozzarella and Parmesan are ideal. They melt smoothly and add authentic flavor. Avoid pre-shredded cheese with anti-caking agents, which can affect texture."
+        },
+        {
+            "question": "Can I make this soup vegetarian?",
+            "answer": "Absolutely! Replace ground beef with sautéed mushrooms and use vegetable broth. The mushrooms add umami and texture, making a satisfying vegetarian version."
+        },
+        {
+            "question": "How spicy is this recipe?",
+            "answer": "This recipe is mild and family-friendly. You can add red pepper flakes or jalapeños if you want a spicy kick."
+        },
+        {
+            "question": "Can I use fresh tomatoes instead of canned?",
+            "answer": "Yes, but you’ll need about 4 cups of peeled, chopped fresh tomatoes. Cook them down to a sauce consistency before adding to the crock pot for best results."
+        }
+    ],
+    "conclusion": "I hope you enjoy this easy crock pot lasagna soup as much as my family does. It’s a comforting, no-fuss way to get all the flavors of classic lasagna in a bowl. Let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "lasagna soup recipe crock pot",
+        "secondary_keywords": [
+            "easy lasagna soup",
+            "slow cooker lasagna soup",
+            "how to make lasagna soup",
+            "best crock pot lasagna soup recipe",
+            "easy crock pot soup recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "slow cooker beef stew",
+                "anchor": "slow-cooker-beef-stew"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230166_734",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-16 16:29:59",
+        "title_seed": "lasagna soup recipe crock pot"
+    },
+    "author_id": "author_001",
+    "id": "post_1786894199_656",
+    "slug": "lasagna-soup-recipe-crock-pot",
+    "uniqueSlug": "lasagna-soup-recipe-crock-pot",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "lasagna-soup-recipe-crock-pot_pinrecipes_image_1.webp",
+            "filePath": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_1.webp",
+            "relativePath": "lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-crock-pot_pinrecipes_image_2.webp",
+            "filePath": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_2.webp",
+            "relativePath": "lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-crock-pot_pinrecipes_image_3.webp",
+            "filePath": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_3.webp",
+            "relativePath": "lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-crock-pot_pinrecipes_image_4.webp",
+            "filePath": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_4.webp",
+            "relativePath": "lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic",
+            "title": "Why Does Crock Pot Lasagna Soup Taste So Much Better Than Regular?"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-crock-pot_pinrecipes_image_5.webp",
+            "filePath": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_5.webp",
+            "relativePath": "lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic",
+            "title": "The One Trick That Makes Crock Pot Lasagna Soup Foolproof"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-crock-pot_pinrecipes_image_6.webp",
+            "filePath": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_6.webp",
+            "relativePath": "lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic",
+            "title": "30-Minute Prep Crock Pot Lasagna Soup for Busy Weeknights"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-crock-pot_pinrecipes_image_7.webp",
+            "filePath": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_7.webp",
+            "relativePath": "lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic",
+            "title": "Crock Pot vs Stovetop Lasagna Soup - Which Wins on Flavor?"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-crock-pot_pinrecipes_image_8.webp",
+            "filePath": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_8.webp",
+            "relativePath": "lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card",
+            "title": "Why Does Crock Pot Lasagna Soup Taste So Much Better Than Regular?"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-crock-pot_pinrecipes_image_9.webp",
+            "filePath": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_9.webp",
+            "relativePath": "lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list",
+            "title": "Why Does Crock Pot Lasagna Soup Taste So Much Better Than Regular?"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-crock-pot_pinrecipes_image_10.webp",
+            "filePath": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_10.webp",
+            "relativePath": "lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_10.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_10.webp",
+            "order": 10,
+            "type": "etsy_pin",
+            "template": "classic",
+            "title": "Why Does Crock Pot Lasagna Soup Taste So Much Better Than Regular?"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-crock-pot_pinrecipes_image_11.webp",
+            "filePath": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_11.webp",
+            "relativePath": "lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_11.webp",
+            "order": 11,
+            "type": "trend_pin",
+            "title": "Cozy Crock Pot Lasagna Soup Recipe for Easy Family Dinners",
+            "description": "Enjoy a slow-cooked lasagna soup that warms the soul with tender noodles and melty cheese. Perfect for comfort on chilly nights without the fuss.",
+            "board_override": "Recipes to try",
+            "source_keyword": "lasagna soup recipe crock pot",
+            "reference_pin": "https://www.pinterest.com/pin/633387444762616/",
+            "reference_saves": 3
+        },
+        {
+            "fileName": "lasagna-soup-recipe-crock-pot_pinrecipes_image_12.webp",
+            "filePath": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_12.webp",
+            "relativePath": "lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_12.webp",
+            "order": 12,
+            "type": "trend_pin",
+            "title": "Easy Crock Pot Lasagna Soup Recipe for Cozy Family Comfort",
+            "description": "Warm up with this easy crock pot lasagna soup featuring slow-cooked tomato broth, tender noodles, and melty cheese. Perfect for cozy family dinners without the hassle.",
+            "board_override": "Crock pot",
+            "source_keyword": "lasagna soup recipe crock pot",
+            "reference_pin": "https://www.pinterest.com/pin/1125968743757704/",
+            "reference_saves": 11
+        },
+        {
+            "fileName": "lasagna-soup-recipe-crock-pot_pinrecipes_image_13.webp",
+            "filePath": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_13.webp",
+            "relativePath": "lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_13.webp",
+            "order": 13,
+            "type": "trend_pin",
+            "title": "Easy Crock Pot Lasagna Soup Recipe for Cozy Family Dinners",
+            "description": "Enjoy a warm bowl of lasagna soup made in the crock pot with tender noodles and melty cheese. This slow-cooked tomato broth recipe is perfect for comforting family meals on chilly nights.",
+            "board_override": "Food/Drinks",
+            "source_keyword": "lasagna soup recipe crock pot",
+            "reference_pin": "https://www.pinterest.com/pin/68749423388/",
+            "reference_saves": 5
+        }
+    ],
+    "image": "lasagna-soup-recipe-crock-pot_pinrecipes_image_1.webp",
+    "image_path": "posts/lasagna-soup-recipe-crock-pot/images/lasagna-soup-recipe-crock-pot_pinrecipes_image_1.webp",
+    "image_dir": "lasagna-soup-recipe-crock-pot/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-16T16:29:59+01:00",
+    "updatedAt": "2026-08-16T16:29:59+01:00",
+    "pinterest_source_keyword": "lasagna soup recipe crock pot"
+}

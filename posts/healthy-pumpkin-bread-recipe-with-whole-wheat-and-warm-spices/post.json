@@ -1,0 +1,406 @@
+{
+    "title": "Healthy Pumpkin Bread Recipe with Whole Wheat and Warm Spices",
+    "promptIMG": {
+        "img1": "SCENE: a cozy home kitchen with soft daylight filtering through a window, a rustic wooden countertop blurred in the background. SUBJECT: a generous loaf of healthy pumpkin bread resting on a wooden cutting board, the loaf filling 95% of the frame with the front edge sharply in focus showing a golden brown crust with visible specks of cinnamon and nutmeg, the rest gently fading into bokeh. DETAILS: the crust has a slight caramelized sheen with a sprinkle of oats on top, natural cracks revealing the moist texture beneath. STYLE: ultra-photorealistic professional food photography, warm natural light with rich autumnal tones, shallow depth of field, vertical 2:3. AVOID: no text, no hands, no people, no steam or smoke, no artificial colors.",
+        "img2": "SCENE: a soft marble countertop blurred softly behind with bright natural light from a nearby window. SUBJECT: the pumpkin bread cut in half with both halves facing the camera, revealing the moist, tender crumb flecked with pumpkin and warm spices, the interior glistening slightly to show moistness. DETAILS: a slice is torn open slightly to reveal the soft texture, with a few oats scattered at the base and a warm amber glow highlighting the crumb. STYLE: ultra-photorealistic food photography, bright airy daylight with golden warmth, shallow macro depth of field, vertical 2:3. AVOID: no hands, no text, no logos, no dull colors.",
+        "img3": "SCENE: warm dark wood surface softly blurred behind with a gentle side glow casting a cozy amber light. SUBJECT: several slices of healthy pumpkin bread stacked close together on a vintage ceramic plate, topped with a light dusting of powdered sugar and a few toasted pumpkin seeds scattered around. DETAILS: the slices show a moist crumb with visible spices and flecks of pumpkin, the powdered sugar melting slightly into the surface, crumbs naturally scattered. STYLE: ultra-photorealistic professional food photography, warm golden-amber tones, shallow depth of field, vertical 2:3. AVOID: no hands, no text, no logos, no artificial colors."
+    },
+    "description": "This healthy pumpkin bread is a cozy twist on a classic favorite, packed with whole wheat flour and warm spices. The pumpkin keeps it moist without extra fat, making it perfect for breakfast or an afternoon snack. You'll love the subtle sweetness and comforting aroma!",
+    "hashtags": "#pumpkinbread #healthybaking #fallrecipes",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Healthy Pumpkin Bread Taste So Moist and Flavorful?",
+            "description": "Discover the secret ingredient that keeps this pumpkin bread irresistibly moist and full of warm spice flavor. 🍂 Perfect for cozy mornings! Save this for your next baking day. #pumpkinbread #healthybaking #fallflavors"
+        },
+        {
+            "title": "The One Trick That Makes Healthy Pumpkin Bread Foolproof Every Time",
+            "description": "Learn the simple technique that guarantees moist, tender pumpkin bread without any fuss. 🎃 Great for beginners and busy bakers alike! Tap to get the full recipe. #easybaking #pumpkinbread #fallbaking"
+        },
+        {
+            "title": "30-Minute Healthy Pumpkin Bread for Quick Fall Breakfasts",
+            "description": "Need a fast and wholesome breakfast? This healthy pumpkin bread comes together quickly and fills your kitchen with cozy spice scents. 🍁 Save it for busy mornings! #quickrecipes #pumpkinbread #healthybaking"
+        },
+        {
+            "title": "Whole Wheat vs White Flour Pumpkin Bread – Which Is Healthier?",
+            "description": "Curious about how whole wheat pumpkin bread stacks up against the classic? This recipe uses wholesome ingredients without sacrificing flavor. 🍞 Try it and decide! #healthybaking #pumpkinbread #wholewheat"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
+    "ingredients": [
+        "1 3/4 cups whole wheat flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1/4 teaspoon ground cloves",
+        "1/2 cup brown sugar, packed",
+        "1/4 cup maple syrup",
+        "1/3 cup plain Greek yogurt",
+        "1/4 cup vegetable oil",
+        "2 large eggs",
+        "1 cup canned pumpkin puree",
+        "1 teaspoon vanilla extract",
+        "1/4 cup chopped walnuts or pecans (optional)"
+    ],
+    "yield": "One 9x5 inch loaf, 8 servings",
+    "introduction": "I first made this healthy pumpkin bread a few years ago when I wanted to enjoy all the cozy fall flavors without the guilt of heavy, sugary loaves. My family loves pumpkin bread, but I wanted a version that felt nourishing and still tasted indulgent. By swapping in whole wheat flour and using Greek yogurt for moisture instead of butter, this recipe hits that sweet spot. The warm spices—cinnamon, nutmeg, and a hint of cloves—make the kitchen smell like autumn magic. The trick I learned early on was not to overmix the batter; folding gently keeps the bread tender and moist. Plus, the pumpkin puree adds natural sweetness and a velvety texture that makes every slice feel like a hug. Whether you're serving this for breakfast with a cup of coffee or as an afternoon snack, it’s a comforting treat that’s both satisfying and wholesome. I’ve made this loaf countless times, and it’s become a fall staple in my house. It’s easy enough for beginners but special enough to impress guests. You’ll notice the perfect balance of spice and sweetness without any cloying heaviness. I hope you enjoy baking and sharing it as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x5 inch loaf pan or line it with parchment paper. This step ensures your bread doesn’t stick and bakes evenly. A well-prepared pan helps the crust develop a golden color without burning. Avoid skipping this to prevent frustration when removing the loaf after baking.",
+            "timing": 10,
+            "doneness_cue": "Oven is fully preheated and pan is evenly greased or lined."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the whole wheat flour, baking soda, baking powder, salt, cinnamon, nutmeg, and cloves. Combining these dry ingredients evenly distributes the leavening agents and spices, which is key for a uniform rise and balanced flavor. Sifting is optional but helps prevent lumps.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are fully combined with no visible clumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, whisk the brown sugar, maple syrup, Greek yogurt, vegetable oil, eggs, pumpkin puree, and vanilla extract until smooth. This wet mixture will provide moisture and sweetness while helping emulsify the batter. The Greek yogurt adds tenderness and a slight tang that balances the sweetness.",
+            "timing": 5,
+            "doneness_cue": "Wet ingredients are fully blended with a smooth, slightly thick consistency."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the wet ingredients to the dry ingredients and gently fold with a spatula until just combined. Be careful not to overmix; overworking the batter develops gluten, which can make the bread tough instead of tender. A few streaks of flour are okay.",
+            "timing": 3,
+            "doneness_cue": "Batter looks moist and thick with no large pockets of dry flour."
+        },
+        {
+            "step": 5,
+            "instruction": "If using, fold in the chopped nuts gently to add texture and a nutty flavor. Nuts also provide a nice contrast to the soft crumb of the bread. Don’t overmix at this stage to keep the batter light.",
+            "timing": 2,
+            "doneness_cue": "Nuts are evenly distributed without breaking down the batter."
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. This helps the bread bake evenly and develop a nice crust. Tap the pan lightly on the counter to release any large air bubbles.",
+            "timing": 2,
+            "doneness_cue": "Batter is level and fills the pan about 3/4 full."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake in the preheated oven for 50-60 minutes, or until a toothpick inserted into the center comes out clean or with just a few moist crumbs. Baking times can vary depending on your oven, so start checking around 50 minutes to avoid overbaking, which dries out the bread.",
+            "timing": 50,
+            "doneness_cue": "Golden brown crust with a toothpick test confirming doneness."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the bread from the oven and let it cool in the pan for 10 minutes. Cooling slightly helps the bread set so it slices cleanly without crumbling. Then transfer it to a wire rack to cool completely to prevent sogginess from trapped steam.",
+            "timing": 15,
+            "doneness_cue": "Bread is warm but firm enough to handle without breaking."
+        },
+        {
+            "step": 9,
+            "instruction": "Once cooled, slice and serve. This bread is delicious plain or with a smear of butter or cream cheese. Store leftovers wrapped tightly at room temperature or in the fridge for longer freshness.",
+            "timing": 5,
+            "doneness_cue": "Slices hold shape well and have a moist, tender crumb."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Healthy Pumpkin Bread Works So Well",
+        "content": "<p>This healthy pumpkin bread recipe strikes the perfect balance between moistness, flavor, and wholesome ingredients. Using whole wheat flour instead of all-purpose flour provides more fiber and nutrients, but the key is to mix gently to avoid developing too much gluten which can make the bread dense and tough. The pumpkin puree adds natural moisture and a subtle sweetness, which means less added sugar is needed. Greek yogurt contributes to a tender crumb and a slight tang that enhances the warm spices.</p><p>The combination of baking soda and baking powder ensures proper rise and light texture. Baking soda reacts with the acidic pumpkin and yogurt, creating carbon dioxide bubbles that help lift the batter. Meanwhile, baking powder adds extra leavening power for a balanced rise. The warm spices—cinnamon, nutmeg, and cloves—are carefully measured to provide aroma and depth without overpowering the pumpkin’s natural flavor.</p><p>Oil is used instead of butter to keep the bread moist and tender without heaviness, and the addition of maple syrup brings a natural, complex sweetness that pairs beautifully with the spices. Folding the batter gently and avoiding overmixing preserves the delicate crumb structure. Finally, baking at a moderate temperature allows the bread to cook evenly and develop a golden crust without drying out.</p><p>Altogether, these ingredient choices and techniques create a loaf that’s both nourishing and delicious, perfect for cozy breakfasts or snacks that satisfy without guilt.</p>",
+        "ingredient_notes": {
+            "whole wheat flour": "Choose finely ground whole wheat flour for a tender texture and mild flavor. It adds fiber and nutrients compared to all-purpose flour, but can make baked goods dense if overmixed. Sifting or mixing gently helps keep the bread light.",
+            "pumpkin puree": "Use canned 100% pure pumpkin puree, not pumpkin pie filling, for best flavor and moisture. It adds natural sweetness and moisture, which reduces the need for added fat and sugar, keeping the bread moist and tender.",
+            "Greek yogurt": "Plain Greek yogurt adds moisture and a slight tang that brightens the flavor. It also helps tenderize the crumb due to its acidity, which reacts with baking soda for leavening. Use full-fat or low-fat for best results.",
+            "baking soda and baking powder": "Baking soda reacts with acidic ingredients like pumpkin and yogurt to produce carbon dioxide, helping the bread rise. Baking powder provides additional leavening to ensure a light, airy texture. Using both balances rise and crumb structure.",
+            "maple syrup": "Maple syrup adds natural sweetness and a rich, complex flavor that complements the spices and pumpkin. It also contributes moisture, which helps keep the bread tender and flavorful without relying on refined sugars."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overmix the batter once wet and dry ingredients are combined.",
+            "reason": "Overmixing develops gluten in the whole wheat flour, which can make the bread tough and dense instead of tender and moist. Gently folding until just combined preserves a soft crumb."
+        },
+        {
+            "tip": "Use room temperature eggs and ingredients before mixing.",
+            "reason": "Room temperature ingredients blend more evenly, helping the batter emulsify properly. This results in a uniform texture and better rise, while cold ingredients can cause curdling or uneven baking."
+        },
+        {
+            "tip": "Check the bread early for doneness starting at 50 minutes.",
+            "reason": "Ovens vary, and overbaking dries out the bread. Using a toothpick test starting at 50 minutes prevents overcooking. The bread should be golden brown with a moist crumb."
+        },
+        {
+            "tip": "Let the bread cool completely before slicing.",
+            "reason": "Cooling allows the crumb to set and prevents crumbling. Warm bread is more fragile and can fall apart when sliced, so patience yields neater slices."
+        },
+        {
+            "tip": "Add chopped nuts for texture if desired.",
+            "reason": "Nuts add a pleasant crunch and nutty flavor that contrasts the soft crumb. Toasting them lightly before folding in enhances their aroma and flavor."
+        },
+        {
+            "tip": "Use canned pumpkin puree, not pumpkin pie filling.",
+            "reason": "Pumpkin pie filling contains added sugars and spices that can throw off the recipe’s balance. Pure pumpkin puree provides moisture and subtle flavor without extra sweetness."
+        },
+        {
+            "tip": "Grease or line your loaf pan well.",
+            "reason": "Properly preparing the pan prevents sticking and helps the bread release cleanly, preserving the crust and presentation."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many home cooks think mixing thoroughly ensures even distribution, but overmixing activates gluten in whole wheat flour, leading to a dense texture.",
+            "fix": "Fold wet and dry ingredients gently until just combined, stopping as soon as no large pockets of flour remain. This keeps the crumb tender and moist."
+        },
+        {
+            "mistake": "Using pumpkin pie filling instead of pure pumpkin",
+            "why_it_happens": "Pumpkin pie filling is often confused with pumpkin puree and contains added sugar and spices that affect the recipe’s balance.",
+            "fix": "Always use 100% pure canned pumpkin puree to control sweetness and spice levels accurately."
+        },
+        {
+            "mistake": "Not preheating the oven",
+            "why_it_happens": "Skipping preheating can cause uneven baking and poor rise since the batter starts cooking at a lower temperature.",
+            "fix": "Preheat the oven fully to 350°F before placing the bread inside to ensure consistent baking."
+        },
+        {
+            "mistake": "Skipping the cooling step before slicing",
+            "why_it_happens": "Slicing warm bread can cause it to crumble and fall apart because the crumb hasn’t set yet.",
+            "fix": "Allow the bread to cool completely on a wire rack for the best slicing results."
+        },
+        {
+            "mistake": "Baking too long",
+            "why_it_happens": "Leaving bread in the oven past doneness dries it out, resulting in a crumbly, less enjoyable texture.",
+            "fix": "Start checking for doneness at 50 minutes with a toothpick test and remove promptly when done."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Pumpkin Bread",
+            "description": "Replace whole wheat flour with a gluten-free all-purpose blend and add 1 teaspoon xanthan gum if not included. This keeps the bread moist and tender while accommodating gluten sensitivities.",
+            "technical_note": "Gluten-free flours absorb moisture differently, so batter consistency may vary; avoid overmixing and bake slightly longer if needed."
+        },
+        {
+            "name": "Vegan Pumpkin Bread",
+            "description": "Swap eggs for flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use coconut yogurt instead of Greek yogurt. Use maple syrup or agave for sweetness and vegetable oil or melted coconut oil.",
+            "technical_note": "Flax eggs provide binding but may slightly alter texture; bake as usual and test doneness early."
+        },
+        {
+            "name": "Spiced Pumpkin Nut Bread",
+            "description": "Add 1/2 teaspoon ground ginger and 1/4 teaspoon ground allspice for extra warmth. Fold in 1/2 cup toasted pecans or walnuts for crunch and flavor contrast.",
+            "technical_note": "Extra spices intensify flavor; toast nuts lightly to enhance aroma without overpowering the pumpkin."
+        },
+        {
+            "name": "Pumpkin Chocolate Chip Bread",
+            "description": "Fold 1/2 cup dark chocolate chips into the batter for a touch of sweetness and melty chocolate pockets throughout the loaf.",
+            "technical_note": "Chocolate chips add moisture and richness; avoid overmixing to prevent sinking."
+        },
+        {
+            "name": "Low-Sugar Pumpkin Bread",
+            "description": "Reduce brown sugar to 1/4 cup and omit maple syrup, relying on the natural sweetness of the pumpkin and spices. Add a splash of vanilla extract to enhance flavor.",
+            "technical_note": "Lower sugar affects tenderness; expect a denser texture and slightly less moist crumb."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "230 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "7g",
+        "fiber_grams": "4g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates based on standard ingredients and may vary with substitutions."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the pumpkin bread wrapped tightly in plastic wrap or in an airtight container at room temperature for up to 2 days. This keeps the crust from drying out while maintaining moistness inside.",
+        "refrigerator": "Keep in an airtight container in the refrigerator for up to 5 days. The bread may become firmer when chilled; bring to room temperature or warm slightly before serving for best texture.",
+        "freezer": "Wrap the loaf tightly in plastic wrap and then in foil or a freezer bag. Freeze for up to 3 months. Thaw overnight in the refrigerator or at room temperature before reheating.",
+        "reheating": "Warm slices gently in a toaster oven or microwave for 20-30 seconds. Add a light spread of butter or cream cheese if desired. Avoid overheating which can dry out the bread.",
+        "make_ahead_strategy": "Prepare the batter a day ahead and keep it covered in the fridge. Bake fresh the next day for best rise and texture. Alternatively, bake and freeze the loaf, then thaw and reheat when needed."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute all-purpose flour for whole wheat flour?",
+            "answer": "Yes, you can swap whole wheat flour for all-purpose flour for a lighter texture. However, whole wheat adds more fiber and a nuttier flavor. Using all-purpose may result in a softer crumb but less nutritional value."
+        },
+        {
+            "question": "What if I don’t have Greek yogurt?",
+            "answer": "You can substitute plain yogurt or sour cream in equal amounts. These provide similar moisture and acidity to react with baking soda. Avoid flavored or sweetened yogurts as they can alter flavor and texture."
+        },
+        {
+            "question": "How do I know when the pumpkin bread is fully baked?",
+            "answer": "Insert a toothpick into the center of the loaf. If it comes out clean or with just a few moist crumbs, the bread is done. The crust should be golden brown and spring back lightly when pressed."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips?",
+            "answer": "Absolutely! Fold in about 1/2 cup of chopped nuts or chocolate chips for added texture and flavor. Toast nuts lightly beforehand for extra aroma."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes, replace eggs with flax eggs and use a non-dairy yogurt alternative. Use vegetable or coconut oil and maple syrup for sweetness. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "How long does this pumpkin bread keep fresh?",
+            "answer": "At room temperature, it stays fresh for about 2 days. Refrigerated, it lasts up to 5 days. For longer storage, freeze for up to 3 months and thaw before serving."
+        },
+        {
+            "question": "What’s the best way to slice the bread?",
+            "answer": "Use a serrated bread knife and slice gently after the bread has completely cooled. This prevents crumbling and keeps slices neat."
+        },
+        {
+            "question": "Can I use fresh pumpkin instead of canned?",
+            "answer": "Yes, but fresh pumpkin needs to be cooked, pureed, and drained well to remove excess moisture. Canned pumpkin puree is more consistent and convenient for baking."
+        }
+    ],
+    "conclusion": "I hope you enjoy this healthy pumpkin bread as much as my family does! It’s a simple, cozy treat that’s perfect for fall mornings or anytime you want a wholesome snack. Let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "healthy pumpkin bread",
+        "secondary_keywords": [
+            "whole wheat pumpkin bread",
+            "easy healthy pumpkin bread",
+            "how to make pumpkin bread healthy",
+            "best healthy pumpkin bread recipe",
+            "healthy pumpkin bread with spices"
+        ],
+        "internal_links": [
+            {
+                "text": "whole wheat banana bread recipe",
+                "anchor": "whole-wheat-banana-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-16 23:07:29",
+        "title_seed": "Pumpkin Bread Healthy"
+    },
+    "author_id": "author_001",
+    "id": "post_1786921649_928",
+    "slug": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices",
+    "uniqueSlug": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_1.webp",
+            "filePath": "posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_1.webp",
+            "relativePath": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_2.webp",
+            "filePath": "posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_2.webp",
+            "relativePath": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_3.webp",
+            "filePath": "posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_3.webp",
+            "relativePath": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pumpkin-bread-healthy_pinrecipes_image_11.webp",
+            "filePath": "posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pumpkin-bread-healthy_pinrecipes_image_11.webp",
+            "relativePath": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pumpkin-bread-healthy_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Healthy Pumpkin Bread with Whole Wheat and Warm Spices - Moist & Flavorful",
+            "description": "Enjoy this cozy pumpkin bread made with whole wheat flour and fragrant spices. Moist and naturally sweet, it's perfect for a healthy breakfast or guilt-free snack any time of day.",
+            "board_override": "I'm a Fatty...",
+            "source_keyword": "pumpkin bread healthy",
+            "reference_pin": "https://www.pinterest.com/pin/29273466324974940/",
+            "reference_saves": 2
+        },
+        {
+            "fileName": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pumpkin-bread-healthy_pinrecipes_image_12.webp",
+            "filePath": "posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pumpkin-bread-healthy_pinrecipes_image_12.webp",
+            "relativePath": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pumpkin-bread-healthy_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Healthy Pumpkin Bread with Whole Wheat and Warm Spices for a Moist, Low-Fat Treat",
+            "description": "Enjoy this healthy pumpkin bread recipe made with whole wheat and cozy spices for a moist, flavorful snack or breakfast. Packed with natural pumpkin sweetness without added fat, it offers a comforting aroma and subtle sweetness perfect for any time of day.",
+            "board_override": "Healthy Breakfast Recipes",
+            "source_keyword": "pumpkin bread healthy",
+            "reference_pin": "https://www.pinterest.com/pin/638244578487429557/",
+            "reference_saves": 1
+        },
+        {
+            "fileName": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pumpkin-bread-healthy_pinrecipes_image_13.webp",
+            "filePath": "posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pumpkin-bread-healthy_pinrecipes_image_13.webp",
+            "relativePath": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pumpkin-bread-healthy_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "Moist Healthy Pumpkin Bread with Whole Wheat and Warm Spices",
+            "description": "Enjoy a cozy pumpkin bread packed with whole wheat and fragrant spices. Naturally moist and lightly sweetened, it's perfect for breakfast or a wholesome snack.",
+            "board_override": "Bakery",
+            "source_keyword": "pumpkin bread healthy",
+            "reference_pin": "https://www.pinterest.com/pin/211174978660228/",
+            "reference_saves": 21
+        },
+        {
+            "fileName": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_5.webp",
+            "filePath": "posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_5.webp",
+            "relativePath": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Healthy Pumpkin Bread Foolproof Every Time"
+        },
+        {
+            "fileName": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_7.webp",
+            "filePath": "posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_7.webp",
+            "relativePath": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Whole Wheat vs White Flour Pumpkin Bread – Which Is Healthier?"
+        },
+        {
+            "fileName": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_4.webp",
+            "filePath": "posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_4.webp",
+            "relativePath": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Does Healthy Pumpkin Bread Taste So Moist and Flavorful?"
+        },
+        {
+            "fileName": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_8.webp",
+            "filePath": "posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_8.webp",
+            "relativePath": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Does Healthy Pumpkin Bread Taste So Moist and Flavorful?"
+        },
+        {
+            "fileName": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_6.webp",
+            "filePath": "posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_6.webp",
+            "relativePath": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "30-Minute Healthy Pumpkin Bread for Quick Fall Breakfasts"
+        },
+        {
+            "fileName": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_9.webp",
+            "filePath": "posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_9.webp",
+            "relativePath": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Does Healthy Pumpkin Bread Taste So Moist and Flavorful?"
+        }
+    ],
+    "image": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_1.webp",
+    "image_path": "posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_1.webp",
+    "image_dir": "healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-17T00:15:51+01:00",
+    "updatedAt": "2026-08-17T00:15:51+01:00",
+    "pinterest_source_keyword": "pumpkin bread healthy",
+    "has_reel": true
+}

@@ -1,0 +1,424 @@
+{
+    "title": "Easy Lasagna Soup Recipe That Brings Cozy Comfort to Your Weeknight Table",
+    "promptIMG": {
+        "img1": "SCENE: a softly blurred home kitchen with warm natural daylight streaming through a window, subtle reflections on a clean countertop. SUBJECT: a large rustic ceramic bowl overflowing with steaming lasagna soup filled with broken lasagna noodles, rich red tomato broth, browned ground beef, and flecks of green basil, the front bowl edge sharply in focus showing the chunky texture of meat and noodles, the rest fading gently into bokeh. DETAILS: glossy sheen on the broth surface, melted mozzarella cheese sprinkled generously on top with a fresh basil leaf garnish, slight steam rising, natural crumbs of broken noodles on the bowl rim. STYLE: ultra-photorealistic food photography with warm golden tones and vibrant saturated colors, shallow depth of field, vertical 2:3. AVOID: no text, logos, people, hands, or artificial effects; no dull or flat lighting.",
+        "img2": "SCENE: bright airy kitchen setting with soft daylight through a window, neutral marble countertop blurred in background. SUBJECT: a close-up cut-away view of a ladle scooping lasagna soup from a pot, showing the thick tomato broth dripping off broken lasagna noodles, juicy browned ground beef, and creamy ricotta melting into the soup. DETAILS: the ladle is mid-scoop with cheese melting and broth glistening, fresh herbs sprinkled on top, sharp focus on the ladle contents with blurred pot in background. STYLE: ultra-photorealistic, vibrant warm colors, shallow macro depth of field, vertical 2:3. AVOID: no hands, text, or artificial enhancements.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with gentle side glow highlighting textures. SUBJECT: a cozy arrangement of several bowls filled with lasagna soup topped with melted mozzarella and fresh basil, placed alongside a rustic basket of crusty garlic bread slices. DETAILS: intense glossy shine on soup surface, bubbling cheese pull visible, crumbs of bread and herbs scattered naturally on the table, warm inviting amber color grading. STYLE: ultra-photorealistic professional food photography with rich saturated tones, shallow depth of field, vertical 2:3. AVOID: no people, hands, text, or logos."
+    },
+    "description": "This easy lasagna soup is like a warm hug in a bowl, packed with hearty ground beef, tender noodles, and creamy ricotta. I love how it all comes together quickly for a cozy weeknight meal that feels special without the fuss!",
+    "hashtags": "#lasagnasoup #easydinner #comfortfood",
+    "board_name": "Cozy Soup Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Restaurant Lasagna Soup Taste Better Than Yours?",
+            "description": "Discover the secret behind that rich, comforting flavor in restaurant-style lasagna soup. Hint: it’s all about layering the ingredients just right! Save this for your next cozy dinner night. 🍲 #lasagnasoup #comfortfood #easyrecipes"
+        },
+        {
+            "title": "The One Trick That Makes Easy Lasagna Soup Foolproof",
+            "description": "Want perfectly tender noodles and a rich broth every time? This simple trick will change your lasagna soup game forever. Tap to get the full recipe and impress your family tonight! 🍝 #easydinner #lasagnasoup #weeknightmeals"
+        },
+        {
+            "title": "15-Minute Easy Lasagna Soup for Busy Weeknights",
+            "description": "Short on time but craving comfort? This lasagna soup comes together fast and delivers big on flavor and warmth. Perfect for busy evenings when you want something hearty without the wait! ⏰ #quickdinner #lasagnasoup #comfortfood"
+        },
+        {
+            "title": "Still Making Dry Lasagna? This Soup Fixes It with Creamy Goodness",
+            "description": "Tired of dry lasagna? This soup version is juicy, cheesy, and full of cozy flavors that your whole family will love. It’s the perfect twist on a classic favorite. Save this recipe now! 🧀 #lasagnasoup #comfortfood #familydinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 pound ground beef, raw",
+        "1 medium onion, diced",
+        "2 cloves garlic, minced",
+        "1 can (28 ounces) crushed tomatoes",
+        "4 cups chicken broth",
+        "8 ounces lasagna noodles, broken into pieces",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried basil",
+        "Salt and pepper to taste",
+        "1 cup ricotta cheese",
+        "1 cup shredded mozzarella cheese",
+        "Fresh basil leaves for garnish"
+    ],
+    "yield": "4 generous servings",
+    "introduction": "I first stumbled upon this lasagna soup recipe on a chilly evening when I craved all the cozy flavors of lasagna but didn’t want to fuss with layers and baking. It’s become a quick favorite in my house because it captures everything I love about traditional lasagna — the meaty tomato sauce, tender noodles, and cheesy goodness — but in a warm, comforting soup form. What sets this version apart is the addition of creamy ricotta stirred in at the end, which gives it a luscious, velvety texture that feels indulgent but is so simple to make. I also like breaking the noodles into bite-sized pieces so they cook evenly and soak up all that flavorful broth. It’s perfect for busy weeknights when you want something hearty and satisfying without spending hours in the kitchen. The finished soup is rich and fragrant, with a beautiful balance of herbs and a fresh basil garnish that brightens every spoonful. Plus, it reheats beautifully, making it a great option for leftovers or meal prep. Honestly, it’s become my go-to comfort meal when I want something that feels a little special but is totally doable for any home cook.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by heating a large pot over medium heat. Add the ground beef along with the diced onion and minced garlic. Cook, stirring often, until the beef is nicely browned and the onions are soft and translucent. This step is crucial because browning the meat deeply develops flavor through the Maillard reaction, which you want to capture for that rich soup base. Be sure to break up the beef into small pieces as it cooks for even texture. Once browned, drain any excess fat to keep the soup from becoming greasy.",
+            "timing": 10,
+            "doneness_cue": "Beef is browned with no pink remaining, onions are soft and fragrant."
+        },
+        {
+            "step": 2,
+            "instruction": "Pour in the crushed tomatoes and chicken broth, then add the broken lasagna noodles, dried oregano, dried basil, salt, and pepper. Stir everything together and bring the mixture to a boil. Once boiling, reduce the heat to a gentle simmer and cook uncovered for about 20 minutes until the noodles are tender but not mushy. This slow simmer allows the flavors to meld beautifully while the noodles absorb the savory broth. Avoid rushing this step to prevent undercooked pasta or a watery soup.",
+            "timing": 20,
+            "doneness_cue": "Noodles are tender and broth has thickened slightly with rich color."
+        },
+        {
+            "step": 3,
+            "instruction": "Lower the heat and gently stir in the ricotta cheese until it’s warmed through and evenly distributed, adding a creamy richness to the soup. This finishing touch makes the soup feel indulgent without adding heaviness. Taste and adjust seasoning with salt and pepper if needed. Ladle the soup into bowls, then sprinkle shredded mozzarella on top so it melts slightly from the heat. Garnish with fresh basil leaves for a bright, herbal note that cuts through the richness.",
+            "timing": 5,
+            "doneness_cue": "Ricotta is smooth and incorporated; mozzarella is melted but not browned."
+        },
+        {
+            "step": 4,
+            "instruction": "Serve the soup hot with crusty garlic bread or a simple green salad on the side. The warm, cheesy, and hearty flavors make it a perfect comfort meal especially on cooler evenings. Leftovers can be stored and reheated, though the noodles may absorb more broth over time, so add extra broth or water when reheating to loosen the soup if needed.",
+            "timing": 0,
+            "doneness_cue": "Soup served steaming hot with melted cheese topping."
+        },
+        {
+            "step": 5,
+            "instruction": "If you want to prep ahead, you can brown the beef and cook the onions and garlic the day before, then refrigerate them. When ready to cook, just add the remaining ingredients and follow the simmering steps. This saves time on busy days while still delivering fresh flavor.",
+            "timing": 0,
+            "doneness_cue": "Beef mixture stored chilled and ready to combine with broth and noodles."
+        },
+        {
+            "step": 6,
+            "instruction": "For a vegetarian twist, swap the ground beef with cooked lentils or mushrooms and use vegetable broth. The mushrooms add a meaty texture and umami flavor that complements the tomato base well.",
+            "timing": 0,
+            "doneness_cue": "Soup base rich and hearty without meat."
+        },
+        {
+            "step": 7,
+            "instruction": "When breaking the lasagna noodles, try to keep pieces fairly uniform so they cook evenly. Smaller pieces cook faster and absorb more broth, which creates a thicker, more comforting texture.",
+            "timing": 0,
+            "doneness_cue": "Noodle pieces roughly the same size, about 1-2 inches each."
+        },
+        {
+            "step": 8,
+            "instruction": "Don’t skip draining the fat after browning the beef. Too much grease will make the soup heavy and oily. If you prefer, you can use lean ground beef or turkey to reduce fat content.",
+            "timing": 0,
+            "doneness_cue": "Excess fat removed, leaving a clean, flavorful base."
+        },
+        {
+            "step": 9,
+            "instruction": "Add fresh herbs like basil or parsley right before serving to keep their bright flavors and vibrant color intact. Adding them too early will cause them to wilt and lose flavor.",
+            "timing": 0,
+            "doneness_cue": "Herbs fresh and bright on top of the finished soup."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Cozy Lasagna Soup",
+        "content": "<p>This lasagna soup works because it combines classic lasagna ingredients in a way that maximizes flavor and comfort with minimal fuss. Browning the ground beef triggers the Maillard reaction, creating complex savory notes that form the flavor foundation. Cooking the onions and garlic alongside the beef allows their natural sweetness and pungency to infuse the base early on.</p><p>Adding crushed tomatoes and broth creates a rich, well-balanced liquid medium. The acidity of the tomatoes brightens the soup, while the broth adds depth and dilutes the tomato’s intensity just enough. Simmering the broken lasagna noodles in the broth allows them to absorb flavor while thickening the soup naturally as starches are released.</p><p>Stirring in ricotta at the end is a key technique that adds creamy richness without making the soup heavy or greasy. It emulsifies into the broth, softening the acidity and creating a velvety texture. The final melted mozzarella topping adds gooey, stretchy cheese that enhances the comforting lasagna experience in every spoonful.</p><p>Fresh herbs like basil added last provide a bright herbal contrast that balances the rich and savory components. Overall, this soup is a harmonious blend of textures and flavors that evoke the classic lasagna in a quicker, easier, and more spoonable form.</p>",
+        "ingredient_notes": {
+            "ground beef": "Choose 80/20 ground beef for the best balance of flavor and fat content. The fat helps develop richness and moisture during browning, but too much can make the soup greasy. If you prefer leaner options, ground turkey or chicken can be used but may require extra seasoning to boost flavor.",
+            "crushed tomatoes": "Use high-quality canned crushed tomatoes with no added sugar or preservatives for a bright, natural tomato flavor. The texture should be smooth but with some chunkiness to give the soup body. Avoid tomato sauces or purees as they may be too thick or sweet.",
+            "lasagna noodles": "Regular dried lasagna noodles work best when broken into pieces for even cooking. Avoid fresh noodles as they tend to get mushy quickly in soup. Breaking the noodles yourself ensures uniform size and prevents clumping.",
+            "ricotta cheese": "Whole milk ricotta adds creamy richness and a mild tang that balances the tomato acidity. Avoid low-fat ricotta as it can be grainy and less flavorful. Stirring ricotta in at the end prevents curdling and keeps the soup smooth.",
+            "mozzarella cheese": "Fresh shredded mozzarella melts beautifully on top, adding a stretchy, gooey texture that mimics baked lasagna. Pre-shredded cheese often contains anti-caking agents that can affect melting, so shred your own if possible."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Brown the beef thoroughly before adding liquids.",
+            "reason": "Browning beef creates complex flavor compounds through the Maillard reaction, which gives the soup its rich, savory base. If you skip this or don’t brown well, the soup will taste flat and lack depth."
+        },
+        {
+            "tip": "Break lasagna noodles into uniform pieces.",
+            "reason": "Uniform noodle pieces cook evenly and absorb broth consistently. If pieces vary too much, some will overcook and turn mushy while others remain underdone, affecting overall texture."
+        },
+        {
+            "tip": "Add ricotta cheese off heat at the end.",
+            "reason": "Adding ricotta off direct heat prevents it from curdling or separating, ensuring a smooth, creamy texture that enriches the broth without turning grainy."
+        },
+        {
+            "tip": "Simmer noodles gently without covering.",
+            "reason": "Simmering uncovered helps thicken the broth as starches release from the noodles. Covering traps steam and keeps broth thinner, which changes the soup’s consistency."
+        },
+        {
+            "tip": "Drain excess fat after browning beef.",
+            "reason": "Removing fat prevents the soup from becoming greasy and heavy, allowing the tomato and herb flavors to shine through more clearly."
+        },
+        {
+            "tip": "Use fresh basil as garnish just before serving.",
+            "reason": "Fresh basil adds a bright herbal note and vibrant color that balances the rich soup. Adding it too early causes wilting and loss of flavor."
+        },
+        {
+            "tip": "Serve with crusty garlic bread.",
+            "reason": "The crunchy bread contrasts the creamy soup and is perfect for dipping, enhancing the overall comforting meal experience."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the noodles until mushy.",
+            "why_it_happens": "Many cooks leave the noodles simmering too long, thinking it will deepen flavor, but pasta can quickly become soggy and fall apart.",
+            "fix": "Keep a close eye on the noodles and test frequently. Remove from heat as soon as they’re tender but still slightly firm to the bite (al dente). If reheating leftovers, add extra broth to loosen the noodles."
+        },
+        {
+            "mistake": "Skipping browning the beef.",
+            "why_it_happens": "To save time, some skip this step and add raw meat directly, resulting in bland flavor and poor texture.",
+            "fix": "Always brown the beef first to develop deep, savory flavors. It’s worth the extra 10 minutes and makes a big difference."
+        },
+        {
+            "mistake": "Adding ricotta too early.",
+            "why_it_happens": "Ricotta can curdle or separate if cooked at high heat for too long.",
+            "fix": "Stir ricotta in off the heat or at very low temperature just before serving to keep it creamy."
+        },
+        {
+            "mistake": "Using fresh lasagna noodles.",
+            "why_it_happens": "Fresh noodles tend to become mushy quickly in soup.",
+            "fix": "Use dried lasagna noodles broken into pieces for best texture."
+        },
+        {
+            "mistake": "Not seasoning properly.",
+            "why_it_happens": "Relying solely on canned tomatoes and broth can make soup bland.",
+            "fix": "Season with salt, pepper, and dried herbs during cooking and adjust at the end for balanced flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Lasagna Soup",
+            "description": "Replace ground beef with sautéed mushrooms and lentils for a hearty vegetarian version. Use vegetable broth and add extra herbs like thyme for depth. Expect a rich, earthy flavor with a similar comforting texture.",
+            "technical_note": "Simmer mushrooms until browned to develop umami; lentils should be cooked separately or pre-cooked to avoid mushiness."
+        },
+        {
+            "name": "Spicy Lasagna Soup",
+            "description": "Add crushed red pepper flakes or diced jalapeños with the garlic for a spicy kick. Top with pepper jack cheese instead of mozzarella for extra heat. This variation balances comforting flavors with a lively spice.",
+            "technical_note": "Adjust spice level gradually to avoid overpowering the tomato base."
+        },
+        {
+            "name": "Slow Cooker Lasagna Soup",
+            "description": "Brown beef and sauté aromatics first, then transfer all ingredients to a slow cooker. Cook on low for 4-6 hours, adding noodles in the last 30 minutes. This hands-off method develops deep flavors with minimal effort.",
+            "technical_note": "Add noodles late to prevent them from overcooking and turning mushy."
+        },
+        {
+            "name": "Creamy White Lasagna Soup",
+            "description": "Swap crushed tomatoes for a creamy béchamel base with spinach and chicken for a white lasagna twist. Use ricotta and mozzarella as usual. Expect a rich, velvety soup with a fresh green note.",
+            "technical_note": "Prepare béchamel separately and combine gently to avoid curdling."
+        },
+        {
+            "name": "Gluten-Free Lasagna Soup",
+            "description": "Use gluten-free lasagna noodles or substitute with broken rice noodles. Ensure broth and other ingredients are gluten-free. The texture will be slightly different but still delicious and comforting.",
+            "technical_note": "Cook gluten-free noodles separately to control doneness and prevent overcooking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Lasagna soup should not be left out at room temperature for more than 2 hours to avoid bacterial growth. Cover the pot or bowls loosely if serving buffet-style to keep it warm and protected.",
+        "refrigerator": "Store leftovers in an airtight container in the refrigerator for up to 3 days. The noodles will absorb more broth and thicken the soup; add a splash of broth or water when reheating to loosen the texture. Reheat gently on the stovetop or microwave until steaming hot.",
+        "freezer": "Freeze the soup in airtight containers for up to 2 months. It’s best to freeze the soup without adding cheese toppings. Thaw overnight in the refrigerator and reheat on the stove, adding extra broth to restore consistency.",
+        "reheating": "Reheat on medium-low heat on the stovetop, stirring occasionally to prevent sticking. Add a little broth or water if the soup is too thick. Avoid boiling after adding cheese to prevent separation. Microwave reheating is fine but stir halfway through for even warming.",
+        "make_ahead_strategy": "You can brown the beef and sauté onions and garlic 1-2 days ahead, then refrigerate. Assemble and cook the soup fresh when ready. Alternatively, prepare the entire soup except for the cheese toppings and refrigerate overnight, adding the cheeses just before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use ground turkey instead of beef?",
+            "answer": "Absolutely! Ground turkey is a leaner option and works well in this soup. Just be sure to season it well and brown it thoroughly to develop flavor. You might want to add a bit more olive oil or butter since turkey is leaner and can dry out."
+        },
+        {
+            "question": "What’s the best way to prevent noodles from getting mushy?",
+            "answer": "Use dried lasagna noodles broken into uniform pieces and simmer just until tender. Avoid overcooking by testing noodles frequently and removing the soup from heat as soon as they’re al dente. If reheating, add extra broth to loosen thickened noodles."
+        },
+        {
+            "question": "Can I make this soup vegetarian?",
+            "answer": "Yes! Swap the ground beef for sautéed mushrooms and/or cooked lentils, and use vegetable broth. The mushrooms add a meaty texture and umami flavor, making the soup hearty and satisfying without meat."
+        },
+        {
+            "question": "Is it okay to add ricotta cheese earlier in the cooking process?",
+            "answer": "It’s best to add ricotta at the end off the heat to prevent curdling and maintain a creamy texture. Adding it too early or cooking it at high heat can cause it to separate and become grainy."
+        },
+        {
+            "question": "Can I freeze lasagna soup?",
+            "answer": "Yes, you can freeze the soup without the cheese toppings for up to 2 months. Thaw it overnight in the fridge and reheat gently, adding broth if needed to restore texture. Cheese toppings are best added fresh after reheating."
+        },
+        {
+            "question": "What can I serve with lasagna soup?",
+            "answer": "Crusty garlic bread or a simple green salad pairs perfectly with this soup. The bread is great for dipping and adds a nice crunchy contrast to the creamy, hearty soup."
+        },
+        {
+            "question": "How do I store leftovers?",
+            "answer": "Store leftovers in an airtight container in the fridge for up to 3 days. The noodles will soak up broth and thicken the soup, so add a splash of broth or water when reheating to loosen it up."
+        },
+        {
+            "question": "Can I prepare any steps ahead of time?",
+            "answer": "Yes, you can brown the beef and sauté the aromatics up to 2 days in advance and refrigerate. Assemble and cook the soup fresh when ready to maintain the best texture and flavor."
+        }
+    ],
+    "conclusion": "Give this easy lasagna soup a try and enjoy all the cozy, cheesy comfort of lasagna in a simple bowl. I’d love to hear how it turns out for you—don’t forget to share your cozy dinner moments!",
+    "seo": {
+        "primary_keyword": "lasagna soup recipe easy",
+        "secondary_keywords": [
+            "easy lasagna soup",
+            "quick lasagna soup recipe",
+            "how to make lasagna soup",
+            "best lasagna soup recipe",
+            "easy lasagna soup dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight soups",
+                "anchor": "easy_weeknight_soups"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230166_734",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-16 16:25:41",
+        "title_seed": "lasagna soup recipe easy"
+    },
+    "author_id": "author_001",
+    "id": "post_1786893941_717",
+    "slug": "lasagna-soup-recipe-easy",
+    "uniqueSlug": "lasagna-soup-recipe-easy",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "lasagna-soup-recipe-easy_pinrecipes_image_1.webp",
+            "filePath": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_1.webp",
+            "relativePath": "lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-easy_pinrecipes_image_2.webp",
+            "filePath": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_2.webp",
+            "relativePath": "lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-easy_pinrecipes_image_3.webp",
+            "filePath": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_3.webp",
+            "relativePath": "lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-easy_pinrecipes_image_4.webp",
+            "filePath": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_4.webp",
+            "relativePath": "lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic",
+            "title": "Why Does Restaurant Lasagna Soup Taste Better Than Yours?"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-easy_pinrecipes_image_5.webp",
+            "filePath": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_5.webp",
+            "relativePath": "lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic",
+            "title": "The One Trick That Makes Easy Lasagna Soup Foolproof"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-easy_pinrecipes_image_6.webp",
+            "filePath": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_6.webp",
+            "relativePath": "lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic",
+            "title": "15-Minute Easy Lasagna Soup for Busy Weeknights"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-easy_pinrecipes_image_7.webp",
+            "filePath": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_7.webp",
+            "relativePath": "lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic",
+            "title": "Still Making Dry Lasagna? This Soup Fixes It with Creamy Goodness"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-easy_pinrecipes_image_8.webp",
+            "filePath": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_8.webp",
+            "relativePath": "lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card",
+            "title": "Why Does Restaurant Lasagna Soup Taste Better Than Yours?"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-easy_pinrecipes_image_9.webp",
+            "filePath": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_9.webp",
+            "relativePath": "lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list",
+            "title": "Why Does Restaurant Lasagna Soup Taste Better Than Yours?"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-easy_pinrecipes_image_10.webp",
+            "filePath": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_10.webp",
+            "relativePath": "lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_10.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_10.webp",
+            "order": 10,
+            "type": "etsy_pin",
+            "template": "classic",
+            "title": "Why Does Restaurant Lasagna Soup Taste Better Than Yours?"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-easy_pinrecipes_image_11.webp",
+            "filePath": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_11.webp",
+            "relativePath": "lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_11.webp",
+            "order": 11,
+            "type": "trend_pin",
+            "title": "Easy Lasagna Soup Recipe Ready in Minutes for Cozy Weeknight Comfort",
+            "description": "This easy lasagna soup is a warm hug in a bowl with savory ground beef, tender noodles, and creamy ricotta. Perfect for a quick, comforting meal that feels special every time. Whip it up fast and enjoy hearty cozy flavors tonight!",
+            "board_override": "Yums!",
+            "source_keyword": "lasagna soup recipe easy",
+            "reference_pin": "https://www.pinterest.com/pin/422281212924660/",
+            "reference_saves": 30
+        },
+        {
+            "fileName": "lasagna-soup-recipe-easy_pinrecipes_image_12.webp",
+            "filePath": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_12.webp",
+            "relativePath": "lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_12.webp",
+            "order": 12,
+            "type": "trend_pin",
+            "title": "Easy Lasagna Soup Recipe Loaded with Hearty Beef and Creamy Ricotta",
+            "description": "Discover this easy lasagna soup recipe that combines tender noodles, rich ground beef, and creamy ricotta for a comforting weeknight meal. Perfectly quick to make, it brings cozy Italian flavors to your table without the fuss.",
+            "board_override": "Soup recipes",
+            "source_keyword": "lasagna soup recipe easy",
+            "reference_pin": "https://www.pinterest.com/pin/14918242512584799/",
+            "reference_saves": 8
+        },
+        {
+            "fileName": "lasagna-soup-recipe-easy_pinrecipes_image_13.webp",
+            "filePath": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_13.webp",
+            "relativePath": "lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_13.webp",
+            "order": 13,
+            "type": "trend_pin",
+            "title": "Easy Lasagna Soup Recipe | Cozy Weeknight Comfort with Ground Beef and Ricotta",
+            "description": "Enjoy a warm, hearty bowl of lasagna soup loaded with tender noodles, savory ground beef, and creamy ricotta. Ready quickly, this easy lasagna soup recipe brings comfort and flavor to your busy weeknights.",
+            "board_override": "Sunday soup",
+            "source_keyword": "lasagna soup recipe easy",
+            "reference_pin": "https://www.pinterest.com/pin/132715520265543845/",
+            "reference_saves": 2
+        }
+    ],
+    "image": "lasagna-soup-recipe-easy_pinrecipes_image_1.webp",
+    "image_path": "posts/lasagna-soup-recipe-easy/images/lasagna-soup-recipe-easy_pinrecipes_image_1.webp",
+    "image_dir": "lasagna-soup-recipe-easy/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-16T16:25:41+01:00",
+    "updatedAt": "2026-08-16T16:25:41+01:00",
+    "pinterest_source_keyword": "lasagna soup recipe easy"
+}
