@@ -1,0 +1,368 @@
+{
+    "title": "Healthy Crockpot Lasagna Soup Recipe That’s Perfect for Cozy Weeknights",
+    "promptIMG": "Food photography: crockpot lasagna soup, hearty bowl filled with rich tomato broth, tender ground turkey, layers of softened lasagna noodles, fresh basil garnish, melted mozzarella cheese on top, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: softly blurred home kitchen background with warm natural daylight filtering through a window, faint reflections on a wooden countertop. SUBJECT: a large rustic ceramic bowl overflowing with steaming crockpot lasagna soup, showing vibrant red tomato broth with visible chunks of ground turkey, softened lasagna noodles swirling through, topped with a generous sprinkle of melted mozzarella and fresh green basil leaves. The bowl fills 95% of the frame with the front edge razor-sharp at a 30-degree angle revealing the glossy broth and tender noodles, the rest gently fading into soft bokeh. DETAILS: the broth glistens with a rich sheen, cheese melting slightly into the surface, fresh herbs scattered on top, natural crumb textures around the bowl edge. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors that pop, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no artificial lighting, no steam or smoke, no plastic textures.",
+        "img2": "SCENE: soft marble-toned countertop with gentle daylight streaming in from a nearby window, creating a bright and airy atmosphere. SUBJECT: a close-up reveal shot of crockpot lasagna soup, a spoon scooping up a hearty portion showing layers of tender lasagna noodles, juicy browned ground turkey, and thick tomato broth dripping off the spoon. The spoonful fills 90% of the frame with razor-sharp focus on the glistening textures of the noodles and meat, cheese strands melting and stretching slightly. DETAILS: vivid red broth with rich tomato flecks, glossy melted mozzarella strings, fresh basil flakes clinging to the spoon, natural crumbs and droplets below. STYLE: ultra-photorealistic professional food photography, bright daylight with warm golden hues, highly saturated appetizing colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no shadows, no artificial colors or smoothing, no steam.",
+        "img3": "SCENE: warm dark wood table softly blurred in the background with a single warm side glow highlighting the food. SUBJECT: several servings of crockpot lasagna soup arranged side by side in rustic ceramic bowls, each topped generously with melted mozzarella and fresh basil, accompanied by a small plate of crusty whole-grain bread slices for dipping. The front bowl is razor-sharp with the rest fading into warm bokeh. DETAILS: intense glossy shine on tomato broth surfaces, deep amber caramelized edges on browned turkey, herbs scattered lightly atop, crumbs and bread crumbs naturally scattered on the wooden surface. STYLE: ultra-photorealistic professional food photography, rich golden-amber warm color grading, highly saturated appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no steam, no plastic or CGI effects."
+    },
+    "description": "This healthy crockpot lasagna soup is a cozy, comforting bowl of Italian flavors without the fuss. Using lean ground turkey and whole wheat noodles keeps it light but satisfying. Perfect for chilly nights when you want something warm and simple.",
+    "hashtags": "#lasagnasoup #healthycomfortfood #crockpotrecipes",
+    "board_name": "Healthy Soup Ideas",
+    "pin_variations": [
+        {
+            "title": "Why Does Crockpot Lasagna Soup Taste So Comforting and Healthy?",
+            "description": "Discover the secret behind this hearty and healthy lasagna soup made easy in your crockpot. It’s packed with lean turkey and fresh herbs for a cozy meal 🍲. Save this for your next dinner! #lasagnasoup #healthyrecipes #comfortfood"
+        },
+        {
+            "title": "The One Trick That Makes Crockpot Lasagna Soup Healthy and Delicious",
+            "description": "I’ll share the simple swap that keeps this lasagna soup light but flavorful — lean turkey and whole wheat noodles! You’ll love how easy and nourishing it is 🥄. Tap to get the full recipe! #crockpotmeals #healthysoup #easyrecipes"
+        },
+        {
+            "title": "30-Minute Prep Crockpot Lasagna Soup for Busy Weeknights",
+            "description": "This healthy lasagna soup takes just 30 minutes prep before the crockpot does the work. Perfect for busy nights when you want comfort without the hassle 🍅. Save it for dinner inspiration! #weeknightdinner #easymeals #lasagnasoup"
+        },
+        {
+            "title": "Healthy Crockpot Lasagna Soup vs Traditional Lasagna – Which Wins?",
+            "description": "Looking for a lighter twist on classic lasagna? This crockpot soup version uses wholesome ingredients and still delivers big on flavor. Perfect for a cozy meal without the guilt! 🍽️ #healthycomfortfood #lasagnasoup #crockpotrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 30,
+    "cook_time": 240,
+    "servings": 6,
+    "ingredients": [
+        "1 lb lean ground turkey",
+        "1 small onion, finely chopped",
+        "3 cloves garlic, minced",
+        "1 (28 oz) can crushed tomatoes",
+        "4 cups low-sodium chicken broth",
+        "8 oz whole wheat lasagna noodles, broken into pieces",
+        "1 tsp dried basil",
+        "1 tsp dried oregano",
+        "1/2 tsp red pepper flakes (optional)",
+        "Salt and pepper to taste",
+        "1 cup part-skim shredded mozzarella cheese",
+        "1/4 cup grated Parmesan cheese",
+        "Fresh basil leaves for garnish"
+    ],
+    "yield": "Approximately 6 generous servings",
+    "introduction": "I first made this crockpot lasagna soup on a chilly fall evening when I was craving all the cozy flavors of lasagna but didn’t want to spend hours in the kitchen. This recipe quickly became a family favorite because it’s so simple to throw together and the slow cooker does all the work for you. What makes this version special is using lean ground turkey instead of beef, which keeps it lighter but still packed with flavor. Plus, breaking the lasagna noodles into bite-sized pieces means you get all the layers of pasta, meat, and cheese in every spoonful without the fuss of layering. I’ve found that letting it cook low and slow allows the broth to develop a rich tomato depth, while the herbs add that classic Italian aroma that fills the house. When it’s done, you get a bowlful of warm, hearty soup with tender noodles and gooey melted cheese that’s perfect for weeknight dinners or when you want something comforting but healthy. It’s one of those recipes that feels like a big hug in a bowl, and I love how easy it is to customize with extra veggies or spices if you like a little kick. If you haven’t tried lasagna soup yet, this crockpot version is a perfect place to start!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by browning the lean ground turkey in a large skillet over medium heat. Break it up with a spatula as it cooks to get small, even pieces. This step is important because it develops flavor through caramelization and ensures the turkey is fully cooked before adding it to the crockpot. Avoid rushing this step or stirring too often, as you want the meat to get a nice golden crust for added depth. Once browned and no longer pink, drain any excess fat and transfer the turkey to your crockpot.",
+            "timing": 10,
+            "doneness_cue": "Turkey is browned with no pink remaining and has a slightly crispy golden texture on some edges."
+        },
+        {
+            "step": 2,
+            "instruction": "In the same skillet, sauté the finely chopped onion and minced garlic over medium heat until softened and fragrant, about 3-4 minutes. This step builds the aromatic base of your soup and softens the vegetables to meld into the broth. If you skip this, the soup will lack depth of flavor. Once translucent and fragrant, add the onions and garlic to the crockpot with the turkey.",
+            "timing": 5,
+            "doneness_cue": "Onions are translucent and soft, garlic is fragrant but not browned or burnt."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the crushed tomatoes, chicken broth, dried basil, oregano, red pepper flakes (if using), salt, and pepper to the crockpot. Stir everything gently to combine. This mixture forms the flavorful broth that simmers with the meat and noodles. Be careful not to over-salt at this stage since the broth will reduce and concentrate flavors during cooking.",
+            "timing": 5,
+            "doneness_cue": "Ingredients are evenly combined with a vibrant red broth visible."
+        },
+        {
+            "step": 4,
+            "instruction": "Break the whole wheat lasagna noodles into bite-sized pieces (about 2-inch lengths) and add them to the crockpot. Stir gently to submerge the noodles in the broth. This technique ensures the noodles cook evenly and absorb the rich flavors of the soup. Avoid adding the noodles too early or they may become mushy; adding them now balances cooking time perfectly.",
+            "timing": 2,
+            "doneness_cue": "Noodles are fully submerged and evenly distributed throughout the broth."
+        },
+        {
+            "step": 5,
+            "instruction": "Cover the crockpot and cook on low for 4 hours. Cooking low and slow allows the flavors to meld deeply and the noodles to soften without turning to mush. Resist the urge to lift the lid frequently, as this releases heat and can extend cooking time.",
+            "timing": 240,
+            "doneness_cue": "Soup is bubbling gently, noodles are tender but intact, broth is thickened and flavorful."
+        },
+        {
+            "step": 6,
+            "instruction": "About 15 minutes before serving, stir in the shredded mozzarella and grated Parmesan cheese. The residual heat will melt the cheese into the soup, creating a creamy, cheesy finish. Stir gently to combine but avoid over-stirring to keep some cheesy strands intact. This step adds richness and that classic lasagna flavor without extra fuss.",
+            "timing": 15,
+            "doneness_cue": "Cheese is melted and stringy, soup has a creamy texture with visible cheese strands."
+        },
+        {
+            "step": 7,
+            "instruction": "Taste the soup and adjust seasoning with additional salt or pepper if needed. Fresh basil leaves can be torn and stirred in or used as a garnish for a fresh herbal note. This finishing touch brightens the flavors and adds authentic Italian aroma.",
+            "timing": 2,
+            "doneness_cue": "Soup is well-seasoned with balanced saltiness and fresh herb fragrance."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the soup hot in bowls with extra shredded mozzarella or Parmesan on top if desired. Pair with crusty whole-grain bread or a simple side salad for a complete meal. The contrast of the warm soup and crunchy bread makes it a satisfying dinner.",
+            "timing": 1,
+            "doneness_cue": "Soup is steaming hot with melted cheese topping and fresh basil garnish."
+        },
+        {
+            "step": 9,
+            "instruction": "Store leftovers in airtight containers in the refrigerator. When reheating, add a splash of broth or water to loosen the soup and warm gently on the stovetop or microwave to preserve texture and flavor.",
+            "timing": 1,
+            "doneness_cue": "Soup reheated evenly with no clumping or drying out."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Crockpot Lasagna Soup Is So Successful",
+        "content": "<p>This crockpot lasagna soup hits the perfect balance between hearty comfort and healthy simplicity by carefully combining ingredients and cooking techniques. Browning the lean ground turkey first is essential because it develops Maillard reactions — those delicious browning flavors that deepen the meat’s taste. This step also renders out excess fat, preventing the soup from becoming greasy while concentrating savory notes.</p><p>The slow cooking process allows the crushed tomatoes and broth to meld with the herbs and meat over several hours, which intensifies the soup’s flavor without needing extra salt or fat. The gentle simmer also softens the broken lasagna noodles perfectly, so they absorb the broth but don’t turn mushy, maintaining a pleasing texture.</p><p>Adding cheese at the end rather than the beginning is a key technique. This way, the mozzarella and Parmesan melt into the hot soup without overcooking, creating a creamy, stringy texture that mimics traditional lasagna’s cheesy layers. The fresh basil added last brightens the dish with a fresh herbal aroma, balancing the rich tomato and cheese flavors.</p><p>Choosing whole wheat noodles and lean turkey keeps the dish lighter and more nutritious than a classic lasagna, making it suitable for those seeking a healthy comfort meal. Overall, the recipe’s success lies in layering flavors and textures thoughtfully while using the slow cooker to simplify the process and maximize taste.</p>",
+        "ingredient_notes": {
+            "lean ground turkey": "Lean ground turkey is a great substitute for beef in this recipe, offering a lower-fat option that still provides plenty of protein. When buying, look for fresh turkey with a bright pink color and minimal liquid in the packaging. Turkey browns quickly and develops a mild flavor that pairs well with Italian herbs. Avoid pre-seasoned or processed turkey to control salt and additives. Browning it properly ensures a rich, savory base for the soup.",
+            "whole wheat lasagna noodles": "Whole wheat noodles add fiber and nutrients compared to traditional white pasta, making the soup healthier without sacrificing texture. When breaking the noodles into pieces, aim for uniform sizes so they cook evenly. Whole wheat pasta tends to absorb more liquid, so monitoring cooking time is important to prevent mushiness. If unavailable, regular lasagna noodles can be used but expect a slightly lighter nutritional profile.",
+            "crushed tomatoes": "Using high-quality crushed tomatoes is crucial for a rich, flavorful broth. Look for cans with no added sugar or preservatives for the best natural tomato flavor. The texture should be thick with visible tomato pieces, providing body to the soup. The acidity balances the richness of the cheese and meat, while the natural sweetness enhances overall taste.",
+            "mozzarella cheese": "Part-skim shredded mozzarella melts beautifully into the soup, creating that signature gooey texture without adding excessive fat. Freshly shredded cheese melts better than pre-shredded varieties, which often contain anti-caking agents. Adding it near the end of cooking preserves the cheese’s creamy texture and prevents it from becoming rubbery or oily.",
+            "fresh basil": "Fresh basil leaves add a bright, herbal note that lifts the entire dish. When selecting basil, choose vibrant green leaves free of blemishes or wilting. Adding basil at the end or as a garnish preserves its fresh aroma and flavor, which can be lost if cooked too long. It complements the tomato base perfectly and adds authentic Italian character."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Brown the turkey thoroughly before adding to the crockpot.",
+            "reason": "Browning develops rich flavor through Maillard reactions and reduces excess moisture. If skipped, the soup can taste bland and watery. Proper browning creates a savory base that enhances the entire dish."
+        },
+        {
+            "tip": "Break lasagna noodles into uniform pieces for even cooking.",
+            "reason": "Uniform noodle sizes ensure they cook at the same rate, preventing some pieces from being overcooked while others remain firm. This maintains a pleasant texture in the soup."
+        },
+        {
+            "tip": "Add cheese near the end of cooking to preserve meltiness.",
+            "reason": "Adding cheese too early can cause it to separate or become rubbery. Adding it last allows it to melt gently into the hot soup, creating a creamy, stringy texture."
+        },
+        {
+            "tip": "Use low-sodium broth to control salt levels.",
+            "reason": "Low-sodium broth lets you adjust seasoning precisely. Using regular broth can result in an overly salty soup, especially after slow cooking concentrates flavors."
+        },
+        {
+            "tip": "Don’t lift the crockpot lid frequently during cooking.",
+            "reason": "Each time the lid is lifted, heat escapes and extends cooking time. Keeping the lid closed ensures even temperature and proper noodle texture."
+        },
+        {
+            "tip": "Garnish with fresh basil just before serving.",
+            "reason": "Fresh basil adds a bright, aromatic finish that can be lost if cooked too long. Adding it last preserves its flavor and visual appeal."
+        },
+        {
+            "tip": "Serve with crusty whole-grain bread for added texture.",
+            "reason": "The bread provides a crunchy contrast to the creamy soup and is perfect for dipping, making the meal more satisfying."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding noodles too early causing mushy texture.",
+            "why_it_happens": "Some cooks add noodles at the start to save time, but prolonged cooking breaks down pasta starches, resulting in mushy noodles.",
+            "fix": "Add noodles about halfway through cooking or as directed to ensure they cook just until tender but retain structure."
+        },
+        {
+            "mistake": "Skipping browning the meat leading to bland flavor.",
+            "why_it_happens": "For convenience, some skip browning, not realizing it develops essential flavor compounds.",
+            "fix": "Always brown the turkey or meat first to build a deep, savory base."
+        },
+        {
+            "mistake": "Over-seasoning early causing salty soup.",
+            "why_it_happens": "Slow cooking concentrates salt and flavors, so seasoning too much at the start can overpower the dish.",
+            "fix": "Season lightly at the beginning and adjust after cooking to taste."
+        },
+        {
+            "mistake": "Using pre-shredded cheese that doesn’t melt well.",
+            "why_it_happens": "Pre-shredded cheese often contains additives that affect melting and texture.",
+            "fix": "Use freshly shredded mozzarella for best melting and creamy texture."
+        },
+        {
+            "mistake": "Lifting the crockpot lid frequently and extending cook time.",
+            "why_it_happens": "Curiosity or impatience causes lifting the lid, releasing heat and slowing cooking.",
+            "fix": "Keep lid closed during cooking to maintain steady temperature and proper noodle texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Crockpot Lasagna Soup",
+            "description": "Swap ground turkey for diced mushrooms and add chopped zucchini or bell peppers for a veggie-packed version. Use vegetable broth instead of chicken broth. Expect a lighter soup with earthy flavors and a hearty texture from the veggies.",
+            "technical_note": "Cooking time remains the same, but check vegetable tenderness before adding noodles to avoid overcooking."
+        },
+        {
+            "name": "Spicy Crockpot Lasagna Soup",
+            "description": "Add a diced jalapeño or increase red pepper flakes to give the soup a spicy kick. You can also stir in a dash of hot sauce before serving. This variation adds warmth and depth without overpowering the classic flavors.",
+            "technical_note": "Adjust spice level gradually and taste before serving to balance heat."
+        },
+        {
+            "name": "Gluten-Free Crockpot Lasagna Soup",
+            "description": "Use gluten-free lasagna noodles or broken gluten-free pasta to make this soup safe for gluten sensitivities. The rest of the recipe stays the same, delivering the same cozy flavors with a gluten-free twist.",
+            "technical_note": "Check cooking times on gluten-free noodles, as they may cook faster or require less time."
+        },
+        {
+            "name": "Cheesy Crockpot Lasagna Soup with Ricotta",
+            "description": "Stir in dollops of ricotta cheese just before serving for extra creaminess and richness. This adds a luscious texture reminiscent of traditional lasagna layers and a mild tangy flavor.",
+            "technical_note": "Add ricotta off heat to prevent curdling and gently fold it in."
+        },
+        {
+            "name": "Keto-Friendly Crockpot Lasagna Soup",
+            "description": "Replace lasagna noodles with thinly sliced zucchini or shirataki noodles to keep it low-carb. Use full-fat cheese and ground beef or turkey for a richer, keto-appropriate meal.",
+            "technical_note": "Reduce broth slightly to compensate for added moisture from vegetable noodles."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "30g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "12g",
+        "fiber_grams": "5g",
+        "sodium_mg": "520mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This soup should not be left at room temperature for more than 2 hours. Cover it loosely with foil or a lid if serving buffet style to keep it warm and prevent contamination.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 4 days. The noodles may absorb more broth and thicken the soup. Reheat gently with a splash of broth or water to loosen the consistency.",
+        "freezer": "Freeze the soup in airtight containers for up to 3 months. Avoid freezing with cheese added; instead, add cheese fresh when reheating. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over medium-low heat, stirring occasionally and adding broth as needed to maintain soupiness. Microwave reheating is fine but stir halfway through to heat evenly. Avoid overheating to prevent drying out or curdling cheese.",
+        "make_ahead_strategy": "You can brown the turkey and sauté onions and garlic 1-2 days ahead, then refrigerate. Assemble all ingredients in the crockpot on the day you want to cook. Add cheese at the end just before serving for best results."
+    },
+    "faq": [
+        {
+            "question": "Can I use ground beef instead of turkey?",
+            "answer": "Absolutely! Ground beef works well and adds a richer flavor. Choose lean beef to keep it from being too greasy. Brown it the same way before adding to the crockpot. Cooking times remain the same."
+        },
+        {
+            "question": "How do I prevent the noodles from getting mushy?",
+            "answer": "Break noodles into uniform pieces and add them halfway through the cooking time or as directed. Avoid adding noodles at the beginning, and don’t overcook. Using whole wheat noodles also helps maintain texture better than regular pasta."
+        },
+        {
+            "question": "Can I make this soup in an Instant Pot?",
+            "answer": "Yes, you can adapt this recipe for an Instant Pot by using the sauté function to brown meat and onions, then pressure cooking for about 8 minutes with noodles added last. Use quick-release to prevent overcooking noodles."
+        },
+        {
+            "question": "Is this soup freezer-friendly?",
+            "answer": "The soup freezes well if you omit the cheese before freezing. Freeze in airtight containers for up to 3 months. Thaw overnight in the fridge and add fresh cheese when reheating for best texture."
+        },
+        {
+            "question": "Can I add vegetables to this soup?",
+            "answer": "Definitely! Diced zucchini, bell peppers, or mushrooms work great. Add them with the broth and tomatoes so they cook through. Adjust cooking time slightly if adding denser vegetables."
+        },
+        {
+            "question": "What can I use if I don’t have whole wheat lasagna noodles?",
+            "answer": "Regular lasagna noodles or broken spaghetti work fine. Just watch cooking times closely, as regular pasta may cook faster and become mushy if left too long."
+        },
+        {
+            "question": "How do I make this soup spicier?",
+            "answer": "Add red pepper flakes, diced jalapeños, or a dash of hot sauce to taste. Start with small amounts and adjust gradually to avoid overpowering the dish."
+        },
+        {
+            "question": "Can I prepare this soup ahead of time?",
+            "answer": "Yes! You can brown the meat and sauté veggies a day ahead, then assemble and cook in the crockpot when ready. Add cheese just before serving for best melt and texture."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat gently on the stovetop over medium-low heat with a splash of broth or water to loosen the soup. Stir occasionally until heated through. Microwave reheating works too but stir halfway for even heating."
+        },
+        {
+            "question": "Can I make this recipe vegetarian?",
+            "answer": "Yes, substitute ground turkey with diced mushrooms or plant-based meat alternatives and use vegetable broth. The soup will still be flavorful and hearty."
+        }
+    ],
+    "conclusion": "I hope you enjoy this healthy crockpot lasagna soup as much as my family does. It’s an easy, comforting meal that’s perfect for busy nights or chilly days. Let me know how it turns out for you!",
+    "seo": {
+        "primary_keyword": "crockpot lasagna soup healthy",
+        "secondary_keywords": [
+            "healthy lasagna soup",
+            "easy crockpot lasagna soup",
+            "how to make lasagna soup",
+            "best healthy lasagna soup recipe",
+            "crockpot lasagna soup recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy slow cooker recipes",
+                "anchor": "healthy-slow-cooker-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230636_499",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-17 20:26:26",
+        "title_seed": "crockpot lasagna soup healthy"
+    },
+    "author_id": "author_001",
+    "id": "post_1786998386_932",
+    "slug": "crockpot-lasagna-soup-healthy",
+    "uniqueSlug": "crockpot-lasagna-soup-healthy",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_1.webp",
+            "filePath": "posts/crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_1.webp",
+            "relativePath": "crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_2.webp",
+            "filePath": "posts/crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_2.webp",
+            "relativePath": "crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_3.webp",
+            "filePath": "posts/crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_3.webp",
+            "relativePath": "crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_11.webp",
+            "filePath": "posts/crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_11.webp",
+            "relativePath": "crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Healthy Crockpot Lasagna Soup Recipe - Easy & Nourishing Comfort Food",
+            "description": "Enjoy a wholesome twist on classic lasagna with this healthy crockpot lasagna soup. Packed with nutritious ingredients and rich flavors, it's the perfect easy meal for busy days when you want comfort without the extra effort.",
+            "board_override": "Crockpot Lasagna Soup",
+            "source_keyword": "crockpot lasagna soup healthy",
+            "reference_pin": "https://www.pinterest.com/pin/1125968743757704/",
+            "reference_saves": 11,
+            "csv_exported": true
+        },
+        {
+            "fileName": "crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_12.webp",
+            "filePath": "posts/crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_12.webp",
+            "relativePath": "crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Healthy Crockpot Lasagna Soup Recipe",
+            "description": "Enjoy a nutritious twist on classic comfort food with this healthy crockpot lasagna soup. Packed with wholesome ingredients and rich flavors, it’s an easy, guilt-free meal your whole family will love.",
+            "board_override": "Crockpot Lasagna Soup",
+            "source_keyword": "crockpot lasagna soup healthy",
+            "reference_pin": "https://www.pinterest.com/pin/16607092373258884/",
+            "reference_saves": null,
+            "csv_exported": true
+        },
+        {
+            "fileName": "crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_13.webp",
+            "filePath": "posts/crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_13.webp",
+            "relativePath": "crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "Healthy Crockpot Lasagna Soup Recipe",
+            "description": "Enjoy a nutritious twist on classic lasagna with this healthy crockpot lasagna soup. Packed with wholesome ingredients and rich flavors, it’s an easy, comforting one-pot meal perfect for busy days.",
+            "board_override": "Crockpot Lasagna Soup",
+            "source_keyword": "crockpot lasagna soup healthy",
+            "reference_pin": "https://www.pinterest.com/pin/57139489018365951/",
+            "reference_saves": null,
+            "csv_exported": true
+        }
+    ],
+    "image": "crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_1.webp",
+    "image_path": "posts/crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_1.webp",
+    "image_dir": "crockpot-lasagna-soup-healthy/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-17T20:26:26+00:00",
+    "updatedAt": "2026-08-17T20:26:26+00:00",
+    "pinterest_source_keyword": "crockpot lasagna soup healthy",
+    "skip_classic_templates": true
+}
