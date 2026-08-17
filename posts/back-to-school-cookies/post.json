@@ -313,7 +313,8 @@
             "board_override": "Inspo",
             "source_keyword": "back to school cookies",
             "reference_pin": "https://www.pinterest.com/pin/4593108757805761920/",
-            "reference_saves": 1
+            "reference_saves": 1,
+            "csv_exported": true
         },
         {
             "fileName": "back-to-school-cookies_pinrecipes_image_13.webp",
@@ -326,7 +327,56 @@
             "board_override": "Back to School Cookies",
             "source_keyword": "back to school cookies",
             "reference_pin": "https://www.pinterest.com/pin/1147643917688230354/",
-            "reference_saves": null
+            "reference_saves": null,
+            "csv_exported": true
+        },
+        {
+            "fileName": "back-to-school-cookies_pinrecipes_image_5.webp",
+            "filePath": "posts/back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_5.webp",
+            "relativePath": "back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_5.webp",
+            "type": "template",
+            "title": "The One Trick That Makes Back to School Cookies Perfect Every Time"
+        },
+        {
+            "fileName": "back-to-school-cookies_pinrecipes_image_6.webp",
+            "filePath": "posts/back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_6.webp",
+            "relativePath": "back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_6.webp",
+            "type": "template",
+            "title": "15-Minute Back to School Cookies for Last-Minute Snack Prep"
+        },
+        {
+            "fileName": "back-to-school-cookies_pinrecipes_image_9.webp",
+            "filePath": "posts/back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_9.webp",
+            "relativePath": "back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "title": "Why Are These Back to School Cookies So Irresistibly Chewy?"
+        },
+        {
+            "fileName": "back-to-school-cookies_pinrecipes_image_8.webp",
+            "filePath": "posts/back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_8.webp",
+            "relativePath": "back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "title": "Why Are These Back to School Cookies So Irresistibly Chewy?"
+        },
+        {
+            "fileName": "back-to-school-cookies_pinrecipes_image_7.webp",
+            "filePath": "posts/back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_7.webp",
+            "relativePath": "back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_7.webp",
+            "type": "template",
+            "title": "Back to School Cookies vs Store-Bought: Which Tastes Better?"
+        },
+        {
+            "fileName": "back-to-school-cookies_pinrecipes_image_4.webp",
+            "filePath": "posts/back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_4.webp",
+            "relativePath": "back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/pinrecipes/posts/back-to-school-cookies/images/back-to-school-cookies_pinrecipes_image_4.webp",
+            "type": "template",
+            "title": "Why Are These Back to School Cookies So Irresistibly Chewy?"
         }
     ],
     "image": "back-to-school-cookies_pinrecipes_image_1.webp",
@@ -334,7 +384,8 @@
     "image_dir": "back-to-school-cookies/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-08-15T16:21:24+01:00",
-    "updatedAt": "2026-08-15T16:21:24+01:00",
-    "pinterest_source_keyword": "back to school cookies"
+    "createdAt": "2026-08-17T20:38:11+01:00",
+    "updatedAt": "2026-08-17T20:38:11+01:00",
+    "pinterest_source_keyword": "back to school cookies",
+    "has_reel": true
 }
