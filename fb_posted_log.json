@@ -12812,5 +12812,23 @@
         "video_id": "1052671197520904",
         "posted_at": "2026-08-17 01:05:07",
         "scheduled_ts": 1787021679
+    },
+    {
+        "slug": "back-to-school-cookies-recipes",
+        "photo_id": "122183528138878111",
+        "post_id": "690524007468825_122183528198878111",
+        "comment_id": "122183528198878111_2014227082548816",
+        "posted_at": "2026-08-17 20:38:35",
+        "scheduled_ts": 1787065200,
+        "source": "pipeline_crosspost"
+    },
+    {
+        "slug": "back-to-school-cookies",
+        "photo_id": "122183528126878111",
+        "post_id": "690524007468825_122183528192878111",
+        "comment_id": "122183528192878111_1064691632584304",
+        "posted_at": "2026-08-17 20:38:40",
+        "scheduled_ts": 1787065200,
+        "source": "pipeline_crosspost"
     }
 ]

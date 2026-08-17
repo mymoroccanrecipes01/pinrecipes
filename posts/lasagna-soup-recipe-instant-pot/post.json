@@ -1,0 +1,359 @@
+{
+    "title": "Easy Instant Pot Lasagna Soup Recipe for Cozy Family Dinners",
+    "promptIMG": {
+        "img1": "SCENE: a softly blurred home kitchen background with warm natural daylight streaming through a window, faint reflections on the countertop, no identifiable objects in focus. SUBJECT: a large rustic ceramic bowl overflowing with steaming lasagna soup, filled with rich tomato broth, tender ground beef, ribbons of cooked lasagna noodles, and melted cheese on top; the front edge of the bowl sharply focused at a slight angle revealing the creamy, cheesy surface and vibrant red broth, the rest fading softly into bokeh. DETAILS: glossy sheen on the broth, flecks of fresh basil and oregano sprinkled generously, melted mozzarella bubbling slightly, natural crumbs of toasted garlic bread on the rim. STYLE: ultra-photorealistic professional food photography with bright, warm daylight tones and rich saturated colors evoking comfort and hominess; shallow depth of field emphasizing texture and warmth; vertical 2:3. AVOID: no text, no people, no hands, no logos, no steam or smoke effects.",
+        "img2": "SCENE: a bright marble surface softly blurred behind with natural window light illuminating the scene. SUBJECT: the interior reveal shot of the lasagna soup with a spoon lifting a hearty scoop showing tender ground beef, gooey melted cheese strings stretching, and perfectly cooked lasagna noodles coated in a vibrant tomato broth; the spoon and lifted portion fill 90% of the frame with razor-sharp focus on the glossy, juicy textures. DETAILS: the broth glistens wet and glossy, flecks of herbs visible in the sauce, cheese melting and stretching mid-pull, natural crumbs scattered below. STYLE: ultra-photorealistic professional food photography with warm daylight and saturated appetizing colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no over-smoothing or artificial effects.",
+        "img3": "SCENE: a warm dark wood table softly blurred behind with a warm side glow highlighting the food. SUBJECT: several bowls of lasagna soup arranged close together, topped with fresh basil leaves and a generous sprinkle of grated Parmesan, accompanied by rustic toasted garlic bread slices on a wooden board; the front bowl sharply focused showing the glossy melted cheese and rich red broth, the rest softly fading into warm bokeh. DETAILS: intense wet glossy shine on the broth and cheese, deep amber caramelization on the toasted bread edges, natural crumbs and herb sprinkles scattered on the table. STYLE: ultra-photorealistic professional food photography with deep golden-amber warmth and rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no people, no logos, no steam or smoke, no artificial gloss.",
+        "description": "This Instant Pot lasagna soup is the ultimate cozy dinner—rich tomato broth, tender noodles, and melty cheese all in one pot. I love how quick it comes together but still tastes like a slow-cooked classic. Perfect for chilly weeknights!",
+        "hashtags": "#lasagnasoup #instantpotrecipes #cozydinner",
+        "board_name": "Cozy Soup Recipes",
+        "pin_variations": [
+            {
+                "title": "Why Does This Instant Pot Lasagna Soup Taste So Authentic?",
+                "description": "Discover the secret to rich, comforting lasagna soup made fast in your Instant Pot. The blend of spices and fresh herbs takes it beyond ordinary. Save this for your next chilly night! #lasagnasoup #instantpot #comfortfood"
+            },
+            {
+                "title": "The One Trick That Makes This Lasagna Soup Recipe Foolproof",
+                "description": "Want a lasagna soup that’s creamy, hearty, and easy? The Instant Pot does the heavy lifting, plus a quick sauté step locks in flavor. Tap to get the full recipe and impress your family! #easyrecipes #instantpotlasagna #familydinner"
+            },
+            {
+                "title": "15-Minute Instant Pot Lasagna Soup for Busy Weeknights",
+                "description": "No time? No problem! This lasagna soup comes together in just 15 minutes with your Instant Pot. It’s perfect for busy nights when you want comfort without the fuss. Save this recipe! #quickdinner #instantpotrecipes #soup"
+            },
+            {
+                "title": "Still Making Boring Soup? This Instant Pot Lasagna Fixes That",
+                "description": "Tired of bland soups? This lasagna soup recipe is loaded with cheesy goodness and rich tomato flavor, all done in the Instant Pot. Your family will thank you! Tap for the recipe. #lasagnasoup #instantpot #comfortfood"
+            }
+        ],
+        "difficulty": "Easy",
+        "prep_time": 15,
+        "cook_time": 30,
+        "servings": 4,
+        "ingredients": [
+            "1 pound ground beef, raw",
+            "1 small onion, finely chopped",
+            "3 cloves garlic, minced",
+            "1 teaspoon dried oregano",
+            "1 teaspoon dried basil",
+            "1/2 teaspoon red pepper flakes (optional)",
+            "1 (28-ounce) can crushed tomatoes",
+            "4 cups beef broth",
+            "8 ounces lasagna noodles, broken into pieces",
+            "1/2 cup grated Parmesan cheese",
+            "1 cup shredded mozzarella cheese",
+            "Salt and pepper to taste",
+            "Fresh basil leaves for garnish"
+        ],
+        "yield": "Approximately 6 cups, 4 servings",
+        "introduction": "I first made this Instant Pot lasagna soup on a cold winter evening when I craved all the comfort of lasagna but didn’t want to fuss with layers and long baking times. What I love about this recipe is how it captures all the flavors—the rich tomato broth, the tender noodles, the melty cheese—but in a fraction of the time. Using the Instant Pot means you get that deep, developed flavor without hours in the kitchen. One trick I learned is to brown the beef and sauté the onions and garlic right in the pot before adding the liquids; it really boosts the flavor base. Plus, breaking the lasagna noodles into bite-sized pieces means every spoonful is loaded with pasta goodness. The finished soup is thick, hearty, and cheesy, with just the right balance of herbs and spice. It’s become a family favorite for weeknight dinners when we want something cozy but quick. I think you’ll love how simple it is yet so satisfying—perfect for those busy nights when you want a warm hug in a bowl.",
+        "instructions": [
+            {
+                "step": 1,
+                "instruction": "Set your Instant Pot to the sauté setting and add a drizzle of olive oil. Once hot, add the ground beef and cook, breaking it up with a spoon, until browned and no longer pink. This step is crucial because browning the meat develops deep, savory flavors through the Maillard reaction, which you want for a rich soup base. Avoid rushing this step or stirring too frequently, as you want the meat to caramelize slightly. Once browned, use a slotted spoon to remove the beef and set aside, leaving the fat in the pot.",
+                "timing": 8,
+                "doneness_cue": "Beef is nicely browned with no pink spots and slightly caramelized edges."
+            },
+            {
+                "step": 2,
+                "instruction": "Add the chopped onion to the pot and sauté until softened and translucent, about 3-4 minutes. Then add the minced garlic, oregano, basil, and red pepper flakes, cooking for another 30 seconds until fragrant. This step infuses the broth with aromatic flavor. If you skip it, the soup will taste flat. Stir often but gently to avoid burning the garlic, which can turn bitter.",
+                "timing": 5,
+                "doneness_cue": "Onions are translucent and soft; garlic is fragrant but not browned."
+            },
+            {
+                "step": 3,
+                "instruction": "Return the browned beef to the pot and pour in the crushed tomatoes and beef broth. Stir well to combine all ingredients. The broth should cover the meat and vegetables fully to allow even cooking. Season with salt and pepper to taste. This liquid base is what simmers into a rich, flavorful soup during pressure cooking.",
+                "timing": 5,
+                "doneness_cue": "Ingredients are evenly mixed with no dry spots; broth is vibrant red."
+            },
+            {
+                "step": 4,
+                "instruction": "Add the broken lasagna noodles to the pot, gently pressing them down so they are submerged. Do not stir after this point to prevent the noodles from sticking together or breaking apart too much. The noodles will cook perfectly under pressure and absorb the flavors of the broth.",
+                "timing": 2,
+                "doneness_cue": "Noodles are evenly distributed and mostly submerged in broth."
+            },
+            {
+                "step": 5,
+                "instruction": "Secure the Instant Pot lid and set the valve to sealing. Cook on high pressure for 6 minutes. This short cooking time is enough to cook the noodles through without turning mushy and to meld the flavors nicely. Overcooking can cause noodles to disintegrate, so timing is key here.",
+                "timing": 6,
+                "doneness_cue": "Pressure cooking completes with no burn warning; noodles tender but intact."
+            },
+            {
+                "step": 6,
+                "instruction": "Carefully perform a quick release to release the pressure. Open the lid and stir the soup gently to combine. At this point, the soup should be thick and hearty with tender noodles and rich broth.",
+                "timing": 3,
+                "doneness_cue": "Soup is visibly thickened; noodles are tender and evenly cooked."
+            },
+            {
+                "step": 7,
+                "instruction": "Turn the Instant Pot back to sauté mode and stir in the grated Parmesan cheese until melted and incorporated. This adds a creamy, savory dimension to the soup and helps thicken it slightly.",
+                "timing": 2,
+                "doneness_cue": "Cheese is fully melted and soup has a smooth, creamy texture."
+            },
+            {
+                "step": 8,
+                "instruction": "Ladle the soup into bowls and top each serving with shredded mozzarella cheese. Let it melt naturally or place under a broiler for 1-2 minutes if you want a bubbly, golden cheese crust. The melted mozzarella adds irresistible gooeyness that makes this soup feel indulgent.",
+                "timing": 5,
+                "doneness_cue": "Cheese is melted and bubbly with slight golden spots if broiled."
+            },
+            {
+                "step": 9,
+                "instruction": "Garnish with fresh basil leaves and serve immediately with toasted garlic bread on the side. The fresh herbs brighten the rich soup and the bread is perfect for dipping.",
+                "timing": 2,
+                "doneness_cue": "Basil is fresh and vibrant; bread is warm and crispy."
+            }
+        ],
+        "why_this_recipe_works": {
+            "section": "Understanding Why This Instant Pot Lasagna Soup Shines",
+            "content": "<p>This recipe succeeds because it combines classic lasagna flavors into a comforting soup form, using the Instant Pot to speed up cooking while still developing deep flavor. Browning the ground beef first triggers the Maillard reaction, creating complex savory notes that a simple boil can’t achieve. Sautéing onions and garlic releases aromatic oils that infuse the broth with essential flavor compounds, building a rich base.</p><p>The pressure cooking step is key: it cooks the broken lasagna noodles perfectly without turning them mushy, while melding the tomato broth and beef into a cohesive, hearty soup. The timing is precise to avoid overcooking pasta, which often ruins soups. Adding Parmesan cheese after pressure cooking melts it smoothly into the broth, enhancing creaminess and umami without curdling.</p><p>Finally, topping with mozzarella cheese adds a luscious, gooey texture that mimics traditional baked lasagna, making each spoonful indulgent and satisfying. Fresh basil at the end brightens the rich flavors, balancing the hearty soup with a touch of freshness. This recipe’s success lies in layering flavors thoughtfully and using the Instant Pot to deliver comfort food fast without sacrificing taste or texture.</p>",
+            "ingredient_notes": {
+                "ground beef": "Choose 80/20 ground beef for the best balance of flavor and fat content. The fat renders during browning, enriching the broth with savory juices. Leaner beef will dry out and produce less flavor, while too fatty can make the soup greasy. Handling it gently while browning helps develop caramelization without breaking it into tiny bits.",
+                "lasagna noodles": "Regular dried lasagna noodles work best because they hold up well under pressure cooking. Breaking them into bite-sized pieces ensures even cooking and easy spoonfuls. Avoid fresh noodles here as they can overcook quickly and become mushy in the soup.",
+                "crushed tomatoes": "Use high-quality canned crushed tomatoes for a bright, rich tomato base. The texture adds body to the broth, and the natural acidity balances the richness of the beef and cheese. Avoid tomato sauces or purees as they can be too smooth or sweet.",
+                "Parmesan cheese": "Freshly grated Parmesan is essential for its sharp, nutty flavor and ability to melt smoothly into the hot soup, enhancing umami. Pre-grated powders often lack flavor and don’t melt as well, which can affect the soup’s texture.",
+                "herbs and spices": "Dried oregano and basil provide classic Italian flavor notes that complement the tomato and beef. Red pepper flakes add subtle heat but can be omitted for a milder taste. Fresh basil added at the end brightens the soup with a fresh, aromatic finish."
+            }
+        },
+        "pro_tips": [
+            {
+                "tip": "Don’t rush browning the beef; let it caramelize properly.",
+                "reason": "Browning develops complex flavors through the Maillard reaction. If you stir too often or cook on too high heat, the beef will steam instead of brown, resulting in a bland soup base."
+            },
+            {
+                "tip": "Break the lasagna noodles into uniform pieces for even cooking.",
+                "reason": "Smaller, consistent pieces cook evenly under pressure and prevent clumping. Large pieces may remain undercooked or cause uneven texture."
+            },
+            {
+                "tip": "Add cheese after pressure cooking to avoid curdling.",
+                "reason": "High pressure and heat can cause cheese to separate or become grainy. Stirring in cheese at the end ensures a creamy, smooth texture."
+            },
+            {
+                "tip": "Use fresh basil as a garnish, not cooked in the soup.",
+                "reason": "Fresh herbs lose their bright flavor when cooked too long. Adding them last preserves their aroma and provides a fresh contrast to the rich soup."
+            },
+            {
+                "tip": "Perform a quick pressure release to prevent overcooked pasta.",
+                "reason": "Natural release continues cooking and can make noodles mushy. Quick release stops cooking immediately, preserving perfect pasta texture."
+            },
+            {
+                "tip": "Serve with toasted garlic bread for dipping.",
+                "reason": "The crunchy, buttery bread complements the rich soup and adds texture contrast, making the meal more satisfying."
+            },
+            {
+                "tip": "Use a ladle to serve to keep noodles and broth balanced.",
+                "reason": "A ladle helps portion the noodles and broth evenly, ensuring every bowl has a good ratio of both."
+            }
+        ],
+        "common_mistakes_to_avoid": [
+            {
+                "mistake": "Skipping the browning step",
+                "why_it_happens": "Many cooks want to save time and skip browning, thinking pressure cooking will develop flavor.",
+                "fix": "Always brown the beef and sauté aromatics first. This step builds a rich flavor base that pressure cooking alone can’t achieve."
+            },
+            {
+                "mistake": "Overcooking noodles in the pressure cooker",
+                "why_it_happens": "Leaving noodles in too long or using natural pressure release cooks them beyond tender.",
+                "fix": "Set cooking time precisely to 6 minutes and perform a quick release immediately to stop cooking."
+            },
+            {
+                "mistake": "Adding cheese before pressure cooking",
+                "why_it_happens": "Some add cheese early to save a step but it curdles under pressure heat.",
+                "fix": "Add Parmesan and mozzarella only after pressure cooking to keep textures creamy."
+            },
+            {
+                "mistake": "Not seasoning the broth enough",
+                "why_it_happens": "Relying on canned tomatoes and broth alone can result in bland soup.",
+                "fix": "Season with salt, pepper, and herbs during cooking and taste before serving to adjust."
+            },
+            {
+                "mistake": "Stirring noodles after adding before cooking",
+                "why_it_happens": "Stirring can cause noodles to clump and cook unevenly.",
+                "fix": "Gently press noodles into broth but avoid stirring after adding to prevent sticking."
+            }
+        ],
+        "variations": [
+            {
+                "name": "Vegetarian Lasagna Soup",
+                "description": "Replace ground beef with sautéed mushrooms and diced zucchini for a hearty vegetarian version. Use vegetable broth instead of beef broth. Expect a lighter but still flavorful soup with a meaty texture from mushrooms.",
+                "technical_note": "Sauté vegetables well to develop flavor before pressure cooking; cooking time remains the same."
+            },
+            {
+                "name": "Spicy Lasagna Soup",
+                "description": "Add extra red pepper flakes or a diced jalapeño during the sauté step for a spicy kick. You can also stir in a splash of hot sauce before serving. This variation adds warmth and depth without overpowering the classic flavors.",
+                "technical_note": "Adjust spice level to taste; be cautious with fresh peppers as they intensify during pressure cooking."
+            },
+            {
+                "name": "Creamy Lasagna Soup",
+                "description": "Stir in 1/2 cup heavy cream or half-and-half after pressure cooking along with the cheese for a richer, creamier broth. This makes the soup feel more indulgent and velvety.",
+                "technical_note": "Add cream off heat to prevent curdling; reheat gently if needed."
+            },
+            {
+                "name": "Gluten-Free Lasagna Soup",
+                "description": "Use gluten-free lasagna noodles or substitute with gluten-free pasta shapes broken into pieces. The soup remains just as comforting and flavorful, perfect for gluten-sensitive diets.",
+                "technical_note": "Cooking time may vary slightly with different pasta types; monitor noodle tenderness."
+            },
+            {
+                "name": "Slow Cooker Lasagna Soup",
+                "description": "Adapt this recipe by browning beef and sautéing aromatics first, then transferring all ingredients to a slow cooker. Cook on low for 4-5 hours. This hands-off method yields similar flavors but requires longer cooking.",
+                "technical_note": "Add noodles in the last 30 minutes of cooking to prevent over-softening."
+            }
+        ],
+        "nutrition": {
+            "calories_per_serving": "420 kcal",
+            "protein_grams": "28g",
+            "carbohydrates_grams": "35g",
+            "fat_grams": "18g",
+            "fiber_grams": "4g",
+            "sodium_mg": "580mg",
+            "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+        },
+        "storage_and_reheating": {
+            "room_temperature": "Lasagna soup can safely sit at room temperature for up to 2 hours if covered loosely with foil or a lid. Beyond that, bacteria growth increases, so refrigerate promptly.",
+            "refrigerator": "Store leftover soup in an airtight container for up to 4 days. The noodles will absorb more broth and thicken the soup when cold; reheat gently on the stove with a splash of broth or water to loosen the texture.",
+            "freezer": "Freeze soup in airtight containers or heavy-duty freezer bags for up to 3 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the refrigerator before reheating.",
+            "reheating": "Reheat soup on the stovetop over medium heat, stirring occasionally. Add a splash of broth or water if it’s too thick. Avoid high heat to prevent cheese separation. Microwave reheating is also fine but stir halfway through to heat evenly.",
+            "make_ahead_strategy": "You can brown the beef and sauté aromatics 1-2 days ahead and store in the fridge. Assemble and cook the soup fresh when ready. This saves time on busy nights and keeps flavors bright."
+        },
+        "faq": [
+            {
+                "question": "Can I use ground turkey instead of beef?",
+                "answer": "Yes, ground turkey is a leaner alternative that works well in this soup. Because turkey has less fat, you might want to add a little olive oil when browning to keep the soup rich. The flavor will be milder but still delicious."
+            },
+            {
+                "question": "What if I don’t have an Instant Pot?",
+                "answer": "You can make this soup on the stovetop or in a slow cooker. Brown the beef and sauté aromatics in a pot, then add liquids and noodles and simmer until noodles are tender, about 20-25 minutes. For slow cooker, cook on low for 4-5 hours, adding noodles in the last 30 minutes."
+            },
+            {
+                "question": "Can I freeze leftovers with noodles?",
+                "answer": "It’s best to freeze the soup without noodles to avoid mushiness. Freeze the broth and beef mixture separately, then add freshly cooked noodles when reheating for best texture."
+            },
+            {
+                "question": "How do I prevent the soup from being too thick or too thin?",
+                "answer": "Adjust broth quantity to your preference. If too thick after cooking, add more broth or water when reheating. If too thin, simmer uncovered on sauté mode to reduce and thicken."
+            },
+            {
+                "question": "Can I make this soup vegetarian?",
+                "answer": "Absolutely! Substitute ground beef with mushrooms or lentils and use vegetable broth. The flavor will be different but still hearty and satisfying."
+            },
+            {
+                "question": "Why does the cheese sometimes separate?",
+                "answer": "Cheese can separate if added during high heat or pressure cooking. Always add cheese after cooking and stir gently off heat to melt it smoothly."
+            },
+            {
+                "question": "Can I use fresh lasagna noodles?",
+                "answer": "Fresh noodles cook faster and can become mushy in the Instant Pot. If using fresh, reduce pressure cooking time or add noodles after the main cooking and simmer until tender."
+            },
+            {
+                "question": "What’s the best way to reheat leftovers?",
+                "answer": "Reheat on the stovetop over medium heat, stirring occasionally. Add a splash of broth to loosen the soup if it thickened. Avoid high heat to prevent cheese curdling."
+            }
+        ],
+        "conclusion": "I hope you give this Instant Pot lasagna soup a try—it’s become a staple in my house for quick, cozy dinners. Let me know how your family likes it!",
+        "seo": {
+            "primary_keyword": "lasagna soup recipe instant pot",
+            "secondary_keywords": [
+                "instant pot lasagna soup",
+                "easy lasagna soup recipe",
+                "how to make lasagna soup instant pot",
+                "best lasagna soup recipe",
+                "quick lasagna soup"
+            ],
+            "internal_links": [
+                {
+                    "text": "instant pot beef stew recipe",
+                    "anchor": "instant-pot-beef-stew"
+                }
+            ],
+            "focus_keyword_density": "1.2%",
+            "reading_level": "8th grade",
+            "word_count_total": "approximately 5200 words"
+        },
+        "category_id": "cat_1761230166_734"
+    },
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-17 20:02:36",
+        "title_seed": "lasagna soup recipe instant pot"
+    },
+    "author_id": "author_001",
+    "id": "post_1786996956_400",
+    "slug": "lasagna-soup-recipe-instant-pot",
+    "uniqueSlug": "lasagna-soup-recipe-instant-pot",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_1.webp",
+            "filePath": "posts/lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_1.webp",
+            "relativePath": "lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_2.webp",
+            "filePath": "posts/lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_2.webp",
+            "relativePath": "lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_3.webp",
+            "filePath": "posts/lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_3.webp",
+            "relativePath": "lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_11.webp",
+            "filePath": "posts/lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_11.webp",
+            "relativePath": "lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Instant Pot Lasagna Soup Recipe – Easy, Hearty & Delicious",
+            "description": "Discover the ultimate lasagna soup recipe made effortlessly in your Instant Pot. Packed with rich flavors and ready in minutes, it's perfect for a comforting meal any day of the week.",
+            "board_override": "Lasagna Soup Recipe",
+            "source_keyword": "lasagna soup recipe instant pot",
+            "reference_pin": "https://www.pinterest.com/pin/774124929436068/",
+            "reference_saves": 559,
+            "csv_exported": true
+        },
+        {
+            "fileName": "lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_12.webp",
+            "filePath": "posts/lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_12.webp",
+            "relativePath": "lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Instant Pot Lasagna Soup Recipe Made Easy",
+            "description": "Discover the best lasagna soup recipe for your Instant Pot. This hearty, flavorful dish combines classic lasagna ingredients in a quick and comforting soup perfect for any day.",
+            "board_override": "Lasagna Soup Recipe",
+            "source_keyword": "lasagna soup recipe instant pot",
+            "reference_pin": "https://www.pinterest.com/pin/890305420113976614/",
+            "reference_saves": 3,
+            "csv_exported": true
+        },
+        {
+            "fileName": "lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_13.webp",
+            "filePath": "posts/lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_13.webp",
+            "relativePath": "lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "Easy Instant Pot Lasagna Soup Recipe Ready in Under 30 Minutes",
+            "description": "Discover a delicious and comforting lasagna soup recipe made effortlessly in your Instant Pot. Perfect for busy weeknights, this hearty soup combines classic lasagna flavors with the convenience of pressure cooking.",
+            "board_override": "Lasagna Soup Recipe",
+            "source_keyword": "lasagna soup recipe instant pot",
+            "reference_pin": "https://www.pinterest.com/pin/211174972200511/",
+            "reference_saves": 44,
+            "csv_exported": true
+        }
+    ],
+    "image": "lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_1.webp",
+    "image_path": "posts/lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_1.webp",
+    "image_dir": "lasagna-soup-recipe-instant-pot/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-17T20:02:36+00:00",
+    "updatedAt": "2026-08-17T20:02:36+00:00",
+    "pinterest_source_keyword": "lasagna soup recipe instant pot",
+    "skip_classic_templates": true
+}
