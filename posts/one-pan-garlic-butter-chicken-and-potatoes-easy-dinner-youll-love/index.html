@@ -544,7 +544,67 @@
             <div class="conclusion">
                 <p>Give this one pan garlic butter chicken and potatoes a try for an easy, flavorful dinner that your whole family will enjoy. I’d love to hear how it turns out!</p>
             </div>
-        </section>        <div class="ad-container ad-in-post">
+        </section>        <section class="story-section post-gallery-section" id="image-gallery">
+            <h2 class="story-headline">Gallery</h2>
+            <div class="pg-grid">
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_1.webp','Post image 1')">
+                    <img src="/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_1.webp" alt="Post image 1" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_2.webp','Post image 2')">
+                    <img src="/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_2.webp" alt="Post image 2" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_3.webp','Post image 3')">
+                    <img src="/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_3.webp" alt="Post image 3" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_4.webp','Post image 4')">
+                    <img src="/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_4.webp" alt="Post image 4" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_6.webp','Post image 5')">
+                    <img src="/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_6.webp" alt="Post image 5" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_9.webp','Post image 6')">
+                    <img src="/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_9.webp" alt="Post image 6" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_7.webp','Post image 7')">
+                    <img src="/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_7.webp" alt="Post image 7" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_8.webp','Post image 8')">
+                    <img src="/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_8.webp" alt="Post image 8" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_5.webp','Post image 9')">
+                    <img src="/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_5.webp" alt="Post image 9" loading="lazy">
+                </div>
+            </div>
+        </section>
+        <div class="pg-lightbox" id="pgLightbox" onclick="pgCloseLightbox()">
+            <img id="pgLightboxImg" src="" alt="">
+        </div>
+        <style>
+            .pg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin-top:20px}
+            .pg-item{position:relative;border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:0 4px 16px rgba(0,0,0,.08);transition:transform .25s ease,box-shadow .25s ease;aspect-ratio:3/4;background:#f8f9fa}
+            .pg-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+            .pg-item:hover{transform:translateY(-4px);box-shadow:0 10px 28px rgba(0,0,0,.16)}
+            .pg-item:hover img{transform:scale(1.06)}
+            .pg-lightbox{position:fixed;inset:0;background:rgba(15,15,20,.92);display:flex;align-items:center;justify-content:center;padding:32px;opacity:0;visibility:hidden;transition:opacity .25s ease;z-index:9999}
+            .pg-lightbox.active{opacity:1;visibility:visible}
+            .pg-lightbox img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5);cursor:zoom-out}
+            @media (max-width:600px){.pg-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}}
+        </style>
+        <script>
+            function pgOpenLightbox(src, alt) {
+                var lb = document.getElementById('pgLightbox');
+                var img = document.getElementById('pgLightboxImg');
+                img.src = src;
+                img.alt = alt;
+                lb.classList.add('active');
+            }
+            function pgCloseLightbox() {
+                document.getElementById('pgLightbox').classList.remove('active');
+            }
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') pgCloseLightbox();
+            });
+        </script>        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
@@ -559,6 +619,12 @@
             </style>
             <h2 class="story-headline">You Might Also Like</h2>
             <ul class="related-grid">
+                <li class="related-item">
+                    <a href="../../posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/" class="related-link">
+                        <img src="../../posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_pinrecipes_image_1.webp" alt="Easy Zucchini Casserole Recipes With Ground Beef for Cozy Family Dinners" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Zucchini Casserole Recipes With Ground Beef for Cozy Family Dinners</span>
+                    </a>
+                </li>
                 <li class="related-item">
                     <a href="../../posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/" class="related-link">
                         <img src="../../posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_1.webp" alt="Authentic Argentina Football Team Inspired Asado Recipe for Flavorful Family Dinners" loading="lazy" class="related-thumb">
@@ -587,12 +653,6 @@
                     <a href="../../posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/" class="related-link">
                         <img src="../../posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_pinrecipes_image_1.webp" alt="Desert Heat Recipe: Authentic Spicy Southwest Chili for Cozy Family Dinners" loading="lazy" class="related-thumb">
                         <span class="related-title">Desert Heat Recipe: Authentic Spicy Southwest Chili for Cozy Family Dinners</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/" class="related-link">
-                        <img src="../../posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_1.webp" alt="Crispy Carnitas Instant Pot Recipe for Juicy, Tender Pork Every Time" loading="lazy" class="related-thumb">
-                        <span class="related-title">Crispy Carnitas Instant Pot Recipe for Juicy, Tender Pork Every Time</span>
                     </a>
                 </li>
             </ul>

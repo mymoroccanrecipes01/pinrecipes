@@ -610,7 +610,67 @@
             <div class="conclusion">
                 <p>I hope you enjoy this fresh peach dessert as much as my family does. It’s simple, comforting, and perfect for sharing—give it a try and let me know how it turns out!</p>
             </div>
-        </section>        <div class="ad-container ad-in-post">
+        </section>        <section class="story-section post-gallery-section" id="image-gallery">
+            <h2 class="story-headline">Gallery</h2>
+            <div class="pg-grid">
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_1.webp','Post image 1')">
+                    <img src="/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_1.webp" alt="Post image 1" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_2.webp','Post image 2')">
+                    <img src="/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_2.webp" alt="Post image 2" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_3.webp','Post image 3')">
+                    <img src="/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_3.webp" alt="Post image 3" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_7.webp','Fresh Peach Dessert vs Peach Cobbler: Which Is Your Favorite?')">
+                    <img src="/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_7.webp" alt="Fresh Peach Dessert vs Peach Cobbler: Which Is Your Favorite?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_8.webp','Why Does Fresh Peach Dessert Taste Better Than Store-Bought?')">
+                    <img src="/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_8.webp" alt="Why Does Fresh Peach Dessert Taste Better Than Store-Bought?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_4.webp','Why Does Fresh Peach Dessert Taste Better Than Store-Bought?')">
+                    <img src="/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_4.webp" alt="Why Does Fresh Peach Dessert Taste Better Than Store-Bought?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_9.webp','Why Does Fresh Peach Dessert Taste Better Than Store-Bought?')">
+                    <img src="/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_9.webp" alt="Why Does Fresh Peach Dessert Taste Better Than Store-Bought?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_6.webp','15-Minute Fresh Peach Dessert for Busy Summer Evenings')">
+                    <img src="/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_6.webp" alt="15-Minute Fresh Peach Dessert for Busy Summer Evenings" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_5.webp','The One Trick That Makes Fresh Peach Desserts Irresistibly Juicy')">
+                    <img src="/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_5.webp" alt="The One Trick That Makes Fresh Peach Desserts Irresistibly Juicy" loading="lazy">
+                </div>
+            </div>
+        </section>
+        <div class="pg-lightbox" id="pgLightbox" onclick="pgCloseLightbox()">
+            <img id="pgLightboxImg" src="" alt="">
+        </div>
+        <style>
+            .pg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin-top:20px}
+            .pg-item{position:relative;border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:0 4px 16px rgba(0,0,0,.08);transition:transform .25s ease,box-shadow .25s ease;aspect-ratio:3/4;background:#f8f9fa}
+            .pg-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+            .pg-item:hover{transform:translateY(-4px);box-shadow:0 10px 28px rgba(0,0,0,.16)}
+            .pg-item:hover img{transform:scale(1.06)}
+            .pg-lightbox{position:fixed;inset:0;background:rgba(15,15,20,.92);display:flex;align-items:center;justify-content:center;padding:32px;opacity:0;visibility:hidden;transition:opacity .25s ease;z-index:9999}
+            .pg-lightbox.active{opacity:1;visibility:visible}
+            .pg-lightbox img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5);cursor:zoom-out}
+            @media (max-width:600px){.pg-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}}
+        </style>
+        <script>
+            function pgOpenLightbox(src, alt) {
+                var lb = document.getElementById('pgLightbox');
+                var img = document.getElementById('pgLightboxImg');
+                img.src = src;
+                img.alt = alt;
+                lb.classList.add('active');
+            }
+            function pgCloseLightbox() {
+                document.getElementById('pgLightbox').classList.remove('active');
+            }
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') pgCloseLightbox();
+            });
+        </script>        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
@@ -626,39 +686,39 @@
             <h2 class="story-headline">You Might Also Like</h2>
             <ul class="related-grid">
                 <li class="related-item">
-                    <a href="../../posts/easy-baked-corn-recipe-with-cream-cheese-for-a-creamy-comforting-side/" class="related-link">
-                        <img src="../../posts/easy-baked-corn-recipe-with-cream-cheese-for-a-creamy-comforting-side/images/easy-baked-corn-recipe-with-cream-cheese-for-a-creamy-comforting-side_pinrecipes_image_1.webp" alt="Easy Baked Corn Recipe With Cream Cheese for a Creamy, Comforting Side" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Baked Corn Recipe With Cream Cheese for a Creamy, Comforting Side</span>
+                    <a href="../../posts/pumpkin-bread/" class="related-link">
+                        <img src="../../posts/pumpkin-bread/images/pumpkin-bread_pumpkin-bread_pinrecipes_image_1.webp" alt="Perfect Fall Pumpkin Bread Recipe with Cinnamon Sugar Swirl for Cozy Mornings" loading="lazy" class="related-thumb">
+                        <span class="related-title">Perfect Fall Pumpkin Bread Recipe with Cinnamon Sugar Swirl for Cozy Mornings</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-homemade-peach-crumble-recipe-with-a-buttery-crisp-topping/" class="related-link">
-                        <img src="../../posts/easy-homemade-peach-crumble-recipe-with-a-buttery-crisp-topping/images/easy-homemade-peach-crumble-recipe-with-a-buttery-crisp-topping_pinrecipes_image_1.webp" alt="Easy Homemade Peach Crumble Recipe with a Buttery Crisp Topping" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Homemade Peach Crumble Recipe with a Buttery Crisp Topping</span>
+                    <a href="../../posts/pumpkin-bread-recipe-with-canned-pumpkin/" class="related-link">
+                        <img src="../../posts/pumpkin-bread-recipe-with-canned-pumpkin/images/pumpkin-bread-recipe-with-canned-pumpkin_pinrecipes_image_1.webp" alt="Perfect Fall Pumpkin Bread Recipe with Canned Pumpkin for Moist, Cozy Loaves" loading="lazy" class="related-thumb">
+                        <span class="related-title">Perfect Fall Pumpkin Bread Recipe with Canned Pumpkin for Moist, Cozy Loaves</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-homemade-peach-desserts-that-capture-summers-juiciest-flavors/" class="related-link">
-                        <img src="../../posts/easy-homemade-peach-desserts-that-capture-summers-juiciest-flavors/images/easy-homemade-peach-desserts-that-capture-summers-juiciest-flavors_pinrecipes_image_1.webp" alt="Easy Homemade Peach Desserts That Capture Summer’s Juiciest Flavors" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Homemade Peach Desserts That Capture Summer’s Juiciest Flavors</span>
+                    <a href="../../posts/best-fall-treats-to-buy-for-cozy-autumn-snacking-and-gifting/" class="related-link">
+                        <img src="../../posts/best-fall-treats-to-buy-for-cozy-autumn-snacking-and-gifting/images/best-fall-treats-to-buy-for-cozy-autumn-snacking-and-gifting_pinrecipes_image_1.webp" alt="Best Fall Treats To Buy for Cozy Autumn Snacking and Gifting" loading="lazy" class="related-thumb">
+                        <span class="related-title">Best Fall Treats To Buy for Cozy Autumn Snacking and Gifting</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-spiced-pear-dessert-recipes-that-bring-cozy-fall-flavors-to-your-table/" class="related-link">
-                        <img src="../../posts/easy-spiced-pear-dessert-recipes-that-bring-cozy-fall-flavors-to-your-table/images/easy-spiced-pear-dessert-recipes-that-bring-cozy-fall-flavors-to-your-table_pinrecipes_image_1.webp" alt="Easy Spiced Pear Dessert Recipes That Bring Cozy Fall Flavors to Your Table" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Spiced Pear Dessert Recipes That Bring Cozy Fall Flavors to Your Table</span>
+                    <a href="../../posts/fall-baking-championship-2025-irresistible-cozy-recipes-to-try-this-season/" class="related-link">
+                        <img src="../../posts/fall-baking-championship-2025-irresistible-cozy-recipes-to-try-this-season/images/fall-baking-championship-2025-irresistible-cozy-recipes-to-try-this-season_pinrecipes_image_1.webp" alt="Fall Baking Championship 2025: Irresistible Cozy Recipes to Try This Season" loading="lazy" class="related-thumb">
+                        <span class="related-title">Fall Baking Championship 2025: Irresistible Cozy Recipes to Try This Season</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-homemade-canning-peaches-recipe-for-fresh-juicy-summer-preserves/" class="related-link">
-                        <img src="../../posts/easy-homemade-canning-peaches-recipe-for-fresh-juicy-summer-preserves/images/easy-homemade-canning-peaches-recipe-for-fresh-juicy-summer-preserves_pinrecipes_image_1.webp" alt="Easy Homemade Canning Peaches Recipe for Fresh, Juicy Summer Preserves" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Homemade Canning Peaches Recipe for Fresh, Juicy Summer Preserves</span>
+                    <a href="../../posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/" class="related-link">
+                        <img src="../../posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_pinrecipes_image_1.webp" alt="Perfect Fall Recipes Dessert: Irresistible Spiced Apple Crisp with Oat Topping" loading="lazy" class="related-thumb">
+                        <span class="related-title">Perfect Fall Recipes Dessert: Irresistible Spiced Apple Crisp with Oat Topping</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-homemade-peach-jam-recipe-for-canning-that-tastes-like-summer-in-a-jar/" class="related-link">
-                        <img src="../../posts/easy-homemade-peach-jam-recipe-for-canning-that-tastes-like-summer-in-a-jar/images/easy-homemade-peach-jam-recipe-for-canning-that-tastes-like-summer-in-a-jar_pinrecipes_image_1.webp" alt="Easy Homemade Peach Jam Recipe for Canning That Tastes Like Summer in a Jar" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Homemade Peach Jam Recipe for Canning That Tastes Like Summer in a Jar</span>
+                    <a href="../../posts/easy-guide-to-freezing-corn-on-the-cob-whole-for-fresh-summer-flavor-anytime/" class="related-link">
+                        <img src="../../posts/easy-guide-to-freezing-corn-on-the-cob-whole-for-fresh-summer-flavor-anytime/images/easy-guide-to-freezing-corn-on-the-cob-whole-for-fresh-summer-flavor-anytime_pinrecipes_image_1.webp" alt="Easy Guide to Freezing Corn On The Cob Whole for Fresh Summer Flavor Anytime" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Guide to Freezing Corn On The Cob Whole for Fresh Summer Flavor Anytime</span>
                     </a>
                 </li>
             </ul>

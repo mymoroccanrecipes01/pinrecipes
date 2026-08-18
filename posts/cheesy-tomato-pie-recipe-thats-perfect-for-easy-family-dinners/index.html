@@ -612,7 +612,67 @@
             <div class="conclusion">
                 <p>I hope you enjoy making this cheesy tomato pie as much as my family does. It’s a simple, comforting dish that’s perfect for sharing—give it a try and let me know how it turns out!</p>
             </div>
-        </section>        <div class="ad-container ad-in-post">
+        </section>        <section class="story-section post-gallery-section" id="image-gallery">
+            <h2 class="story-headline">Gallery</h2>
+            <div class="pg-grid">
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_1.webp','Post image 1')">
+                    <img src="/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_1.webp" alt="Post image 1" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_2.webp','Post image 2')">
+                    <img src="/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_2.webp" alt="Post image 2" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_3.webp','Post image 3')">
+                    <img src="/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_3.webp" alt="Post image 3" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_7.webp','Are You Still Making Tomato Pie the Old-Fashioned Way?')">
+                    <img src="/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_7.webp" alt="Are You Still Making Tomato Pie the Old-Fashioned Way?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_5.webp','What&#039;s the Secret to Perfectly Crispy and Cheesy Tomato Pie?')">
+                    <img src="/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_5.webp" alt="What&#039;s the Secret to Perfectly Crispy and Cheesy Tomato Pie?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_8.webp','Why Does Your Tomato Pie Never Turn Out Perfectly Cheesy?')">
+                    <img src="/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_8.webp" alt="Why Does Your Tomato Pie Never Turn Out Perfectly Cheesy?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_4.webp','Why Does Your Tomato Pie Never Turn Out Perfectly Cheesy?')">
+                    <img src="/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_4.webp" alt="Why Does Your Tomato Pie Never Turn Out Perfectly Cheesy?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_9.webp','Why Does Your Tomato Pie Never Turn Out Perfectly Cheesy?')">
+                    <img src="/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_9.webp" alt="Why Does Your Tomato Pie Never Turn Out Perfectly Cheesy?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_6.webp','Baking vs No-Bake Tomato Pie — Which One Actually Wins?')">
+                    <img src="/posts/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners/images/cheesy-tomato-pie-recipe-thats-perfect-for-easy-family-dinners_pinrecipes_image_6.webp" alt="Baking vs No-Bake Tomato Pie — Which One Actually Wins?" loading="lazy">
+                </div>
+            </div>
+        </section>
+        <div class="pg-lightbox" id="pgLightbox" onclick="pgCloseLightbox()">
+            <img id="pgLightboxImg" src="" alt="">
+        </div>
+        <style>
+            .pg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin-top:20px}
+            .pg-item{position:relative;border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:0 4px 16px rgba(0,0,0,.08);transition:transform .25s ease,box-shadow .25s ease;aspect-ratio:3/4;background:#f8f9fa}
+            .pg-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+            .pg-item:hover{transform:translateY(-4px);box-shadow:0 10px 28px rgba(0,0,0,.16)}
+            .pg-item:hover img{transform:scale(1.06)}
+            .pg-lightbox{position:fixed;inset:0;background:rgba(15,15,20,.92);display:flex;align-items:center;justify-content:center;padding:32px;opacity:0;visibility:hidden;transition:opacity .25s ease;z-index:9999}
+            .pg-lightbox.active{opacity:1;visibility:visible}
+            .pg-lightbox img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5);cursor:zoom-out}
+            @media (max-width:600px){.pg-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}}
+        </style>
+        <script>
+            function pgOpenLightbox(src, alt) {
+                var lb = document.getElementById('pgLightbox');
+                var img = document.getElementById('pgLightboxImg');
+                img.src = src;
+                img.alt = alt;
+                lb.classList.add('active');
+            }
+            function pgCloseLightbox() {
+                document.getElementById('pgLightbox').classList.remove('active');
+            }
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') pgCloseLightbox();
+            });
+        </script>        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
@@ -628,39 +688,39 @@
             <h2 class="story-headline">You Might Also Like</h2>
             <ul class="related-grid">
                 <li class="related-item">
-                    <a href="../../posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/" class="related-link">
-                        <img src="../../posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_pinrecipes_image_1.webp" alt="Easy Lemon Zucchini Bread With Lemon Pudding for a Moist, Flavorful Treat" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Lemon Zucchini Bread With Lemon Pudding for a Moist, Flavorful Treat</span>
+                    <a href="../../posts/delightful-leo-birthday-cake-ideas-for-girls-that-spark-joy-and-creativity/" class="related-link">
+                        <img src="../../posts/delightful-leo-birthday-cake-ideas-for-girls-that-spark-joy-and-creativity/images/delightful-leo-birthday-cake-ideas-for-girls-that-spark-joy-and-creativity_pinrecipes_image_1.webp" alt="Delightful Leo Birthday Cake Ideas for Girls That Spark Joy and Creativity" loading="lazy" class="related-thumb">
+                        <span class="related-title">Delightful Leo Birthday Cake Ideas for Girls That Spark Joy and Creativity</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/" class="related-link">
-                        <img src="../../posts/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices/images/easy-zucchini-bread-muffins-with-moist-texture-and-warm-spices_pinrecipes_image_1.webp" alt="Easy Zucchini Bread Muffins with Moist Texture and Warm Spices" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Zucchini Bread Muffins with Moist Texture and Warm Spices</span>
+                    <a href="../../posts/easy-back-to-school-cake-pops-that-kids-will-love-to-make-and-eat/" class="related-link">
+                        <img src="../../posts/easy-back-to-school-cake-pops-that-kids-will-love-to-make-and-eat/images/easy-back-to-school-cake-pops-that-kids-will-love-to-make-and-eat_pinrecipes_image_1.webp" alt="Easy Back to School Cake Pops That Kids Will Love to Make and Eat" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Back to School Cake Pops That Kids Will Love to Make and Eat</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-lemon-zucchini-bread-with-cake-mix-for-moist-quick-bakes/" class="related-link">
-                        <img src="../../posts/easy-lemon-zucchini-bread-with-cake-mix-for-moist-quick-bakes/images/easy-lemon-zucchini-bread-with-cake-mix-for-moist-quick-bakes_pinrecipes_image_1.webp" alt="Easy Lemon Zucchini Bread With Cake Mix for Moist Quick Bakes" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Lemon Zucchini Bread With Cake Mix for Moist Quick Bakes</span>
+                    <a href="../../posts/easy-blueberry-zucchini-bread-with-frozen-blueberries-for-moist-flavorful-loaves/" class="related-link">
+                        <img src="../../posts/easy-blueberry-zucchini-bread-with-frozen-blueberries-for-moist-flavorful-loaves/images/easy-blueberry-zucchini-bread-with-frozen-blueberries-for-moist-flavorful-loaves_pinrecipes_image_1.webp" alt="Easy Blueberry Zucchini Bread With Frozen Blueberries for Moist, Flavorful Loaves" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Blueberry Zucchini Bread With Frozen Blueberries for Moist, Flavorful Loaves</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/" class="related-link">
-                        <img src="../../posts/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves/images/easy-zucchini-bread-recipe-with-pineapple-for-moist-flavorful-loaves_pinrecipes_image_1.webp" alt="Easy Zucchini Bread Recipe With Pineapple for Moist, Flavorful Loaves" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Zucchini Bread Recipe With Pineapple for Moist, Flavorful Loaves</span>
+                    <a href="../../posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/" class="related-link">
+                        <img src="../../posts/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices/images/healthy-pumpkin-bread-recipe-with-whole-wheat-and-warm-spices_pinrecipes_image_1.webp" alt="Healthy Pumpkin Bread Recipe with Whole Wheat and Warm Spices" loading="lazy" class="related-thumb">
+                        <span class="related-title">Healthy Pumpkin Bread Recipe with Whole Wheat and Warm Spices</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-zucchini-banana-bread-recipe-with-moist-texture-and-natural-sweetness/" class="related-link">
-                        <img src="../../posts/easy-zucchini-banana-bread-recipe-with-moist-texture-and-natural-sweetness/images/easy-zucchini-banana-bread-recipe-with-moist-texture-and-natural-sweetness_pinrecipes_image_1.webp" alt="Easy Zucchini Banana Bread Recipe with Moist Texture and Natural Sweetness" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Zucchini Banana Bread Recipe with Moist Texture and Natural Sweetness</span>
+                    <a href="../../posts/pumpkin-bread-recipe-easy/" class="related-link">
+                        <img src="../../posts/pumpkin-bread-recipe-easy/images/pumpkin-bread-recipe-easy_pumpkin-bread-recipe-easy_pinrecipes_image_1.webp" alt="Perfect Easy Pumpkin Bread Recipe for Cozy Fall Mornings" loading="lazy" class="related-thumb">
+                        <span class="related-title">Perfect Easy Pumpkin Bread Recipe for Cozy Fall Mornings</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-moist-zucchini-chocolate-cake-recipe-with-a-rich-cocoa-twist/" class="related-link">
-                        <img src="../../posts/easy-moist-zucchini-chocolate-cake-recipe-with-a-rich-cocoa-twist/images/easy-moist-zucchini-chocolate-cake-recipe-with-a-rich-cocoa-twist_pinrecipes_image_1.webp" alt="Easy Moist Zucchini Chocolate Cake Recipe with a Rich Cocoa Twist" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Moist Zucchini Chocolate Cake Recipe with a Rich Cocoa Twist</span>
+                    <a href="../../posts/zucchini-bars-with-cream-cheese-frosting/" class="related-link">
+                        <img src="../../posts/zucchini-bars-with-cream-cheese-frosting/images/zucchini-bars-with-cream-cheese-frosting_pinrecipes_image_1.webp" alt="Easy Zucchini Bars with Cream Cheese Frosting for a Moist, Delicious Treat" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Zucchini Bars with Cream Cheese Frosting for a Moist, Delicious Treat</span>
                     </a>
                 </li>
             </ul>

@@ -314,7 +314,52 @@
         </div>        <div class="post-image-container">
             <img src="/posts/delicious-protein-coffee-smoothie-for-a-healthy-boost/images/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_1.webp" alt="Post" class="post-main-image" fetchpriority="high">
             <button class="pinterest-pin-btn" onclick="window.open('https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fpinrecipes.lummyrecipes.com%2Fposts%2Fdelicious-protein-coffee-smoothie-for-a-healthy-boost%2F&media=https%3A%2F%2Fpinrecipes.lummyrecipes.com%2Fposts%2Fdelicious-protein-coffee-smoothie-for-a-healthy-boost%2Fimages%2Fdelicious-protein-coffee-smoothie-for-a-healthy-boost_image_1.webp&description=Delicious+Protein+Coffee+Smoothie+for+a+Healthy+Boost','_blank','width=750,height=550')"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg> Save</button>
-        </div><section class="story-section" id="tips"><p>When making this smoothie, remember to use chilled coffee for the best flavor. If you’re short on time, brew the coffee the night before and refrigerate it. Also, adding a pinch of cinnamon can enhance the flavor profile beautifully. Don&#039;t forget to blend long enough for a smooth texture!</p></section>        <div class="ad-container ad-in-post">
+        </div>        <section class="story-section post-gallery-section" id="image-gallery">
+            <h2 class="story-headline">Gallery</h2>
+            <div class="pg-grid">
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/delicious-protein-coffee-smoothie-for-a-healthy-boost/images/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_1.webp','Post image 1')">
+                    <img src="/posts/delicious-protein-coffee-smoothie-for-a-healthy-boost/images/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_1.webp" alt="Post image 1" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/delicious-protein-coffee-smoothie-for-a-healthy-boost/images/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_2.webp','Post image 2')">
+                    <img src="/posts/delicious-protein-coffee-smoothie-for-a-healthy-boost/images/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_2.webp" alt="Post image 2" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/delicious-protein-coffee-smoothie-for-a-healthy-boost/images/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_3.webp','Post image 3')">
+                    <img src="/posts/delicious-protein-coffee-smoothie-for-a-healthy-boost/images/delicious-protein-coffee-smoothie-for-a-healthy-boost_image_3.webp" alt="Post image 3" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/delicious-protein-coffee-smoothie-for-a-healthy-boost/images/delicious-protein-coffee-smoothie-for-a-healthy-boost_pinrecipes_image_4.webp','Post image 4')">
+                    <img src="/posts/delicious-protein-coffee-smoothie-for-a-healthy-boost/images/delicious-protein-coffee-smoothie-for-a-healthy-boost_pinrecipes_image_4.webp" alt="Post image 4" loading="lazy">
+                </div>
+            </div>
+        </section>
+        <div class="pg-lightbox" id="pgLightbox" onclick="pgCloseLightbox()">
+            <img id="pgLightboxImg" src="" alt="">
+        </div>
+        <style>
+            .pg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin-top:20px}
+            .pg-item{position:relative;border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:0 4px 16px rgba(0,0,0,.08);transition:transform .25s ease,box-shadow .25s ease;aspect-ratio:3/4;background:#f8f9fa}
+            .pg-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+            .pg-item:hover{transform:translateY(-4px);box-shadow:0 10px 28px rgba(0,0,0,.16)}
+            .pg-item:hover img{transform:scale(1.06)}
+            .pg-lightbox{position:fixed;inset:0;background:rgba(15,15,20,.92);display:flex;align-items:center;justify-content:center;padding:32px;opacity:0;visibility:hidden;transition:opacity .25s ease;z-index:9999}
+            .pg-lightbox.active{opacity:1;visibility:visible}
+            .pg-lightbox img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5);cursor:zoom-out}
+            @media (max-width:600px){.pg-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}}
+        </style>
+        <script>
+            function pgOpenLightbox(src, alt) {
+                var lb = document.getElementById('pgLightbox');
+                var img = document.getElementById('pgLightboxImg');
+                img.src = src;
+                img.alt = alt;
+                lb.classList.add('active');
+            }
+            function pgCloseLightbox() {
+                document.getElementById('pgLightbox').classList.remove('active');
+            }
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') pgCloseLightbox();
+            });
+        </script><section class="story-section" id="tips"><p>When making this smoothie, remember to use chilled coffee for the best flavor. If you’re short on time, brew the coffee the night before and refrigerate it. Also, adding a pinch of cinnamon can enhance the flavor profile beautifully. Don&#039;t forget to blend long enough for a smooth texture!</p></section>        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>

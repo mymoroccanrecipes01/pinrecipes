@@ -602,7 +602,73 @@
             <div class="conclusion">
                 <p>Give these spicy roasted cabbage wedges a try—you might just find your new favorite veggie side! I’d love to hear how they turn out for you.</p>
             </div>
-        </section>        <div class="ad-container ad-in-post">
+        </section>        <section class="story-section post-gallery-section" id="image-gallery">
+            <h2 class="story-headline">Gallery</h2>
+            <div class="pg-grid">
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_image_1.webp','Post image 1')">
+                    <img src="/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_image_1.webp" alt="Post image 1" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_image_2.webp','Post image 2')">
+                    <img src="/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_image_2.webp" alt="Post image 2" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_image_3.webp','Post image 3')">
+                    <img src="/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_image_3.webp" alt="Post image 3" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_1.webp','Post image 4')">
+                    <img src="/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_1.webp" alt="Post image 4" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_2.webp','Post image 5')">
+                    <img src="/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_2.webp" alt="Post image 5" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_3.webp','Post image 6')">
+                    <img src="/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_3.webp" alt="Post image 6" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_4.webp','Post image 7')">
+                    <img src="/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_4.webp" alt="Post image 7" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_1.webp','Post image 8')">
+                    <img src="/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_1.webp" alt="Post image 8" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_2.webp','Post image 9')">
+                    <img src="/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_2.webp" alt="Post image 9" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_3.webp','Post image 10')">
+                    <img src="/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_3.webp" alt="Post image 10" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_4.webp','Post image 11')">
+                    <img src="/posts/spicy-roasted-cabbage-wedges-with-golden-crispy-edges/images/spicy-roasted-cabbage-wedges-with-golden-crispy-edges_pinrecipes_image_4.webp" alt="Post image 11" loading="lazy">
+                </div>
+            </div>
+        </section>
+        <div class="pg-lightbox" id="pgLightbox" onclick="pgCloseLightbox()">
+            <img id="pgLightboxImg" src="" alt="">
+        </div>
+        <style>
+            .pg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin-top:20px}
+            .pg-item{position:relative;border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:0 4px 16px rgba(0,0,0,.08);transition:transform .25s ease,box-shadow .25s ease;aspect-ratio:3/4;background:#f8f9fa}
+            .pg-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+            .pg-item:hover{transform:translateY(-4px);box-shadow:0 10px 28px rgba(0,0,0,.16)}
+            .pg-item:hover img{transform:scale(1.06)}
+            .pg-lightbox{position:fixed;inset:0;background:rgba(15,15,20,.92);display:flex;align-items:center;justify-content:center;padding:32px;opacity:0;visibility:hidden;transition:opacity .25s ease;z-index:9999}
+            .pg-lightbox.active{opacity:1;visibility:visible}
+            .pg-lightbox img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5);cursor:zoom-out}
+            @media (max-width:600px){.pg-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}}
+        </style>
+        <script>
+            function pgOpenLightbox(src, alt) {
+                var lb = document.getElementById('pgLightbox');
+                var img = document.getElementById('pgLightboxImg');
+                img.src = src;
+                img.alt = alt;
+                lb.classList.add('active');
+            }
+            function pgCloseLightbox() {
+                document.getElementById('pgLightbox').classList.remove('active');
+            }
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') pgCloseLightbox();
+            });
+        </script>        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
@@ -618,39 +684,39 @@
             <h2 class="story-headline">You Might Also Like</h2>
             <ul class="related-grid">
                 <li class="related-item">
+                    <a href="../../posts/spaghetti-squash-recipes-feta/" class="related-link">
+                        <img src="../../posts/spaghetti-squash-recipes-feta/images/spaghetti-squash-recipes-feta_spaghetti-squash-recipes-feta_pinrecipes_image_1.webp" alt="Easy Baked Spaghetti Squash with Feta and Tomatoes for a Flavorful Weeknight Dinner" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Baked Spaghetti Squash with Feta and Tomatoes for a Flavorful Weeknight Dinner</span>
+                    </a>
+                </li>
+                <li class="related-item">
+                    <a href="../../posts/cozy-fall-dinner-ideas-vegetarian-style-with-roasted-root-vegetables-and-warm-spices/" class="related-link">
+                        <img src="../../posts/cozy-fall-dinner-ideas-vegetarian-style-with-roasted-root-vegetables-and-warm-spices/images/cozy-fall-dinner-ideas-vegetarian-style-with-roasted-root-vegetables-and-warm-spices_pinrecipes_image_1.webp" alt="Cozy Fall Dinner Ideas Vegetarian Style with Roasted Root Vegetables and Warm Spices" loading="lazy" class="related-thumb">
+                        <span class="related-title">Cozy Fall Dinner Ideas Vegetarian Style with Roasted Root Vegetables and Warm Spices</span>
+                    </a>
+                </li>
+                <li class="related-item">
+                    <a href="../../posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/" class="related-link">
+                        <img src="../../posts/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious/images/easy-fall-dinner-ideas-for-kids-that-are-cozy-healthy-and-delicious_pinrecipes_image_1.webp" alt="Easy Fall Dinner Ideas for Kids That Are Cozy, Healthy, and Delicious" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Fall Dinner Ideas for Kids That Are Cozy, Healthy, and Delicious</span>
+                    </a>
+                </li>
+                <li class="related-item">
+                    <a href="../../posts/easy-fall-dinner-ideas-kid-friendly-for-cozy-family-nights/" class="related-link">
+                        <img src="../../posts/easy-fall-dinner-ideas-kid-friendly-for-cozy-family-nights/images/easy-fall-dinner-ideas-kid-friendly-for-cozy-family-nights_pinrecipes_image_1.webp" alt="Easy Fall Dinner Ideas Kid Friendly for Cozy Family Nights" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Fall Dinner Ideas Kid Friendly for Cozy Family Nights</span>
+                    </a>
+                </li>
+                <li class="related-item">
+                    <a href="../../posts/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners/" class="related-link">
+                        <img src="../../posts/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners/images/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_1.webp" alt="Easy Homemade Recipes with Zucchini and Carrots for Healthy Family Dinners" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Homemade Recipes with Zucchini and Carrots for Healthy Family Dinners</span>
+                    </a>
+                </li>
+                <li class="related-item">
                     <a href="../../posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/" class="related-link">
                         <img src="../../posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_pinrecipes_image_1.webp" alt="Easy Homemade Cucumber Salsa for Tacos That Adds Fresh Crunch and Flavor" loading="lazy" class="related-thumb">
                         <span class="related-title">Easy Homemade Cucumber Salsa for Tacos That Adds Fresh Crunch and Flavor</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/easy-stuffed-banana-pepper-recipes-for-flavorful-family-dinners/" class="related-link">
-                        <img src="../../posts/easy-stuffed-banana-pepper-recipes-for-flavorful-family-dinners/images/easy-stuffed-banana-pepper-recipes-for-flavorful-family-dinners_pinrecipes_image_1.webp" alt="Easy Stuffed Banana Pepper Recipes for Flavorful Family Dinners" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Stuffed Banana Pepper Recipes for Flavorful Family Dinners</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/quick-zucchini-recipes-for-dinner-that-are-ready-in-under-30-minutes/" class="related-link">
-                        <img src="../../posts/quick-zucchini-recipes-for-dinner-that-are-ready-in-under-30-minutes/images/quick-zucchini-recipes-for-dinner-that-are-ready-in-under-30-minutes_pinrecipes_image_1.webp" alt="Quick Zucchini Recipes for Dinner That Are Ready in Under 30 Minutes" loading="lazy" class="related-thumb">
-                        <span class="related-title">Quick Zucchini Recipes for Dinner That Are Ready in Under 30 Minutes</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/" class="related-link">
-                        <img src="../../posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_pinrecipes_image_1.webp" alt="Easy Air Fryer Stir Fry Recipes With Noodles for Quick Weeknight Dinners" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Air Fryer Stir Fry Recipes With Noodles for Quick Weeknight Dinners</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/easy-stuffed-zucchini-recipe-with-savory-herb-and-cheese-filling/" class="related-link">
-                        <img src="../../posts/easy-stuffed-zucchini-recipe-with-savory-herb-and-cheese-filling/images/easy-stuffed-zucchini-recipe-with-savory-herb-and-cheese-filling_pinrecipes_image_1.webp" alt="Easy Stuffed Zucchini Recipe with Savory Herb and Cheese Filling" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Stuffed Zucchini Recipe with Savory Herb and Cheese Filling</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/" class="related-link">
-                        <img src="../../posts/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners/images/easy-stuffed-zucchini-recipes-with-savory-filling-for-family-dinners_pinrecipes_image_1.webp" alt="Easy Stuffed Zucchini Recipes with Savory Filling for Family Dinners" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Stuffed Zucchini Recipes with Savory Filling for Family Dinners</span>
                     </a>
                 </li>
             </ul>

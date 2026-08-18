@@ -641,7 +641,52 @@
             <div class="conclusion">
                 <p>&lt;p&gt;Mashed potatoes teach one of cooking&#039;s most valuable lessons: technique and understanding matter more than ingredients. Three pounds of russets, butter, and cream can produce either silky, creamy potatoes or gluey, dense potatoes depending entirely on your approach to handling the starch. Understanding that starch rupture creates glue—and learning how to minimize rupture through gentle handling and careful temperature management—transforms not just this recipe, but your approach to many other potato preparations.&lt;/p&gt;&lt;p&gt;I return to mashed potatoes throughout the year, not just at Thanksgiving, because they&#039;re humble enough to be everyday comfort food but sophisticated enough to teach real technique. Each batch teaches me something about the specific potatoes I&#039;m working with, the characteristics of my particular stove and oven, the humidity and temperature of my kitchen. If your batch doesn&#039;t turn out perfectly the first time, that failure contains information about your specific ingredients and equipment—information that makes the next batch better.&lt;/p&gt;&lt;p&gt;Brown butter elevates mashed potatoes from basic comfort food to something more memorable, but only if the brown butter is made correctly and handled gently. The nutty, toasty flavor compounds in brown butter are fragile; aggressive mixing or vigorous mashing destroys the delicate emulsion and creates graininess. Learning to work gently, to fold rather than stir, to respect the ingredients&#039; structure rather than forcing them to blend—these lessons transcend mashed potatoes and apply to countless other dishes.&lt;/p&gt;&lt;p&gt;If you make this recipe and discover something unexpected—a technique that works better for you, an observation about your particular potatoes&#039; behavior, a successful variation—I&#039;d genuinely welcome hearing about it. Cooking knowledge grows through shared observation and accumulated experience, not through posts alone. Your feedback helps others refine their technique and understanding.&lt;/p&gt;</p>
             </div>
-        </section>        <div class="ad-container ad-in-post">
+        </section>        <section class="story-section post-gallery-section" id="image-gallery">
+            <h2 class="story-headline">Gallery</h2>
+            <div class="pg-grid">
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast/images/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast_image_1.webp','Peeled russet potatoes cut into 1.5-inch cubes, ready for boiling in salted water')">
+                    <img src="/posts/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast/images/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast_image_1.webp" alt="Peeled russet potatoes cut into 1.5-inch cubes, ready for boiling in salted water" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast/images/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast_image_2.webp','Brown butter in saucepan showing deep golden-brown milk solids at bottom, nutty aroma visible')">
+                    <img src="/posts/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast/images/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast_image_2.webp" alt="Brown butter in saucepan showing deep golden-brown milk solids at bottom, nutty aroma visible" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast/images/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast_image_3.webp','Finished mashed potatoes showing silky, creamy texture with light golden color from brown butter, garnished with fresh chives')">
+                    <img src="/posts/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast/images/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast_image_3.webp" alt="Finished mashed potatoes showing silky, creamy texture with light golden color from brown butter, garnished with fresh chives" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast/images/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast_image_4.webp','Brown butter mashed potatoes served in white bowl on dining table, ready for serving')">
+                    <img src="/posts/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast/images/creamy-brown-butter-mashed-potatoes-for-thanksgiving-family-feast_image_4.webp" alt="Brown butter mashed potatoes served in white bowl on dining table, ready for serving" loading="lazy">
+                </div>
+            </div>
+        </section>
+        <div class="pg-lightbox" id="pgLightbox" onclick="pgCloseLightbox()">
+            <img id="pgLightboxImg" src="" alt="">
+        </div>
+        <style>
+            .pg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin-top:20px}
+            .pg-item{position:relative;border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:0 4px 16px rgba(0,0,0,.08);transition:transform .25s ease,box-shadow .25s ease;aspect-ratio:3/4;background:#f8f9fa}
+            .pg-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+            .pg-item:hover{transform:translateY(-4px);box-shadow:0 10px 28px rgba(0,0,0,.16)}
+            .pg-item:hover img{transform:scale(1.06)}
+            .pg-lightbox{position:fixed;inset:0;background:rgba(15,15,20,.92);display:flex;align-items:center;justify-content:center;padding:32px;opacity:0;visibility:hidden;transition:opacity .25s ease;z-index:9999}
+            .pg-lightbox.active{opacity:1;visibility:visible}
+            .pg-lightbox img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5);cursor:zoom-out}
+            @media (max-width:600px){.pg-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}}
+        </style>
+        <script>
+            function pgOpenLightbox(src, alt) {
+                var lb = document.getElementById('pgLightbox');
+                var img = document.getElementById('pgLightboxImg');
+                img.src = src;
+                img.alt = alt;
+                lb.classList.add('active');
+            }
+            function pgCloseLightbox() {
+                document.getElementById('pgLightbox').classList.remove('active');
+            }
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') pgCloseLightbox();
+            });
+        </script>        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
@@ -657,6 +702,30 @@
             <h2 class="story-headline">You Might Also Like</h2>
             <ul class="related-grid">
                 <li class="related-item">
+                    <a href="../../posts/crockpot-lasagna-soup-healthy/" class="related-link">
+                        <img src="../../posts/crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_1.webp" alt="Healthy Crockpot Lasagna Soup Recipe That’s Perfect for Cozy Weeknights" loading="lazy" class="related-thumb">
+                        <span class="related-title">Healthy Crockpot Lasagna Soup Recipe That’s Perfect for Cozy Weeknights</span>
+                    </a>
+                </li>
+                <li class="related-item">
+                    <a href="../../posts/spaghetti-squash-recipes-with-chicken/" class="related-link">
+                        <img src="../../posts/spaghetti-squash-recipes-with-chicken/images/spaghetti-squash-recipes-with-chicken_spaghetti-squash-recipes-with-chicken_pinrecipes_image_1.webp" alt="Easy Tuscan Spaghetti Squash Recipes with Chicken for Cozy Low Carb Dinners" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Tuscan Spaghetti Squash Recipes with Chicken for Cozy Low Carb Dinners</span>
+                    </a>
+                </li>
+                <li class="related-item">
+                    <a href="../../posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/" class="related-link">
+                        <img src="../../posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_1.webp" alt="Easy Asian Cucumber Salad Recipe with Tangy Sesame Dressing" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Asian Cucumber Salad Recipe with Tangy Sesame Dressing</span>
+                    </a>
+                </li>
+                <li class="related-item">
+                    <a href="../../posts/easy-homemade-cucumbers-and-onions-in-vinegar-no-sugar-recipe-for-refreshing-sides/" class="related-link">
+                        <img src="../../posts/easy-homemade-cucumbers-and-onions-in-vinegar-no-sugar-recipe-for-refreshing-sides/images/easy-homemade-cucumbers-and-onions-in-vinegar-no-sugar-recipe-for-refreshing-sides_pinrecipes_image_1.webp" alt="Easy Homemade Cucumbers and Onions in Vinegar No Sugar Recipe for Refreshing Sides" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Homemade Cucumbers and Onions in Vinegar No Sugar Recipe for Refreshing Sides</span>
+                    </a>
+                </li>
+                <li class="related-item">
                     <a href="../../posts/creamy-watermelon-smoothie-recipe-for-a-refreshing-and-healthy-summer-boost/" class="related-link">
                         <img src="../../posts/creamy-watermelon-smoothie-recipe-for-a-refreshing-and-healthy-summer-boost/images/creamy-watermelon-smoothie-recipe-for-a-refreshing-and-healthy-summer-boost_pinrecipes_image_1.webp" alt="Creamy Watermelon Smoothie Recipe for a Refreshing and Healthy Summer Boost" loading="lazy" class="related-thumb">
                         <span class="related-title">Creamy Watermelon Smoothie Recipe for a Refreshing and Healthy Summer Boost</span>
@@ -666,30 +735,6 @@
                     <a href="../../posts/easy-healthy-blueberry-recipes-for-quick-and-delicious-snacks/" class="related-link">
                         <img src="../../posts/easy-healthy-blueberry-recipes-for-quick-and-delicious-snacks/images/easy-healthy-blueberry-recipes-for-quick-and-delicious-snacks_pinrecipes_image_1.webp" alt="Easy Healthy Blueberry Recipes for Quick and Delicious Snacks" loading="lazy" class="related-thumb">
                         <span class="related-title">Easy Healthy Blueberry Recipes for Quick and Delicious Snacks</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/healthy-blueberry-recipes-for-weight-loss-that-actually-taste-amazing/" class="related-link">
-                        <img src="../../posts/healthy-blueberry-recipes-for-weight-loss-that-actually-taste-amazing/images/healthy-blueberry-recipes-for-weight-loss-that-actually-taste-amazing_pinrecipes_image_1.webp" alt="Healthy Blueberry Recipes for Weight Loss That Actually Taste Amazing" loading="lazy" class="related-thumb">
-                        <span class="related-title">Healthy Blueberry Recipes for Weight Loss That Actually Taste Amazing</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/" class="related-link">
-                        <img src="../../posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_pinrecipes_image_1.webp" alt="Healthy Blueberry Recipes Low Calorie for Delicious Guilt-Free Treats" loading="lazy" class="related-thumb">
-                        <span class="related-title">Healthy Blueberry Recipes Low Calorie for Delicious Guilt-Free Treats</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/healthy-blueberries-recipes-delicious-ideas-for-nutritious-snacks-and-desserts/" class="related-link">
-                        <img src="../../posts/healthy-blueberries-recipes-delicious-ideas-for-nutritious-snacks-and-desserts/images/healthy-blueberries-recipes-delicious-ideas-for-nutritious-snacks-and-desserts_pinrecipes_image_1.webp" alt="Healthy Blueberries Recipes: Delicious Ideas for Nutritious Snacks and Desserts" loading="lazy" class="related-thumb">
-                        <span class="related-title">Healthy Blueberries Recipes: Delicious Ideas for Nutritious Snacks and Desserts</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/simple-zucchini-recipes-for-diabetics-that-are-easy-and-delicious/" class="related-link">
-                        <img src="../../posts/simple-zucchini-recipes-for-diabetics-that-are-easy-and-delicious/images/simple-zucchini-recipes-for-diabetics-that-are-easy-and-delicious_pinrecipes_image_1.webp" alt="Simple Zucchini Recipes for Diabetics That Are Easy and Delicious" loading="lazy" class="related-thumb">
-                        <span class="related-title">Simple Zucchini Recipes for Diabetics That Are Easy and Delicious</span>
                     </a>
                 </li>
             </ul>

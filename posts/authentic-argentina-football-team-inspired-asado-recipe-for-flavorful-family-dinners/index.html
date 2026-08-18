@@ -610,7 +610,67 @@
             <div class="conclusion">
                 <p>I hope you enjoy this Argentina Football Team inspired Asado as much as my family does. It’s a delicious way to bring loved ones together around the grill. Let me know how it turns out!</p>
             </div>
-        </section>        <div class="ad-container ad-in-post">
+        </section>        <section class="story-section post-gallery-section" id="image-gallery">
+            <h2 class="story-headline">Gallery</h2>
+            <div class="pg-grid">
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_1.webp','Post image 1')">
+                    <img src="/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_1.webp" alt="Post image 1" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_2.webp','Post image 2')">
+                    <img src="/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_2.webp" alt="Post image 2" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_3.webp','Post image 3')">
+                    <img src="/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_3.webp" alt="Post image 3" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_8.webp','Why Does Argentina Football Team Asado Taste So Authentic?')">
+                    <img src="/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_8.webp" alt="Why Does Argentina Football Team Asado Taste So Authentic?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_9.webp','Why Does Argentina Football Team Asado Taste So Authentic?')">
+                    <img src="/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_9.webp" alt="Why Does Argentina Football Team Asado Taste So Authentic?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_5.webp','The One Trick That Makes Argentina Football Team Asado Juicy Every Time')">
+                    <img src="/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_5.webp" alt="The One Trick That Makes Argentina Football Team Asado Juicy Every Time" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_7.webp','Argentina Football Team Asado vs Traditional BBQ – Which Wins Flavor?')">
+                    <img src="/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_7.webp" alt="Argentina Football Team Asado vs Traditional BBQ – Which Wins Flavor?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_6.webp','30-Minute Argentina Football Team Asado for Busy Weekend Cookouts')">
+                    <img src="/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_6.webp" alt="30-Minute Argentina Football Team Asado for Busy Weekend Cookouts" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_4.webp','Why Does Argentina Football Team Asado Taste So Authentic?')">
+                    <img src="/posts/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners/images/authentic-argentina-football-team-inspired-asado-recipe-for-flavorful-family-dinners_pinrecipes_image_4.webp" alt="Why Does Argentina Football Team Asado Taste So Authentic?" loading="lazy">
+                </div>
+            </div>
+        </section>
+        <div class="pg-lightbox" id="pgLightbox" onclick="pgCloseLightbox()">
+            <img id="pgLightboxImg" src="" alt="">
+        </div>
+        <style>
+            .pg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin-top:20px}
+            .pg-item{position:relative;border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:0 4px 16px rgba(0,0,0,.08);transition:transform .25s ease,box-shadow .25s ease;aspect-ratio:3/4;background:#f8f9fa}
+            .pg-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+            .pg-item:hover{transform:translateY(-4px);box-shadow:0 10px 28px rgba(0,0,0,.16)}
+            .pg-item:hover img{transform:scale(1.06)}
+            .pg-lightbox{position:fixed;inset:0;background:rgba(15,15,20,.92);display:flex;align-items:center;justify-content:center;padding:32px;opacity:0;visibility:hidden;transition:opacity .25s ease;z-index:9999}
+            .pg-lightbox.active{opacity:1;visibility:visible}
+            .pg-lightbox img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5);cursor:zoom-out}
+            @media (max-width:600px){.pg-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}}
+        </style>
+        <script>
+            function pgOpenLightbox(src, alt) {
+                var lb = document.getElementById('pgLightbox');
+                var img = document.getElementById('pgLightboxImg');
+                img.src = src;
+                img.alt = alt;
+                lb.classList.add('active');
+            }
+            function pgCloseLightbox() {
+                document.getElementById('pgLightbox').classList.remove('active');
+            }
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') pgCloseLightbox();
+            });
+        </script>        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
@@ -625,6 +685,12 @@
             </style>
             <h2 class="story-headline">You Might Also Like</h2>
             <ul class="related-grid">
+                <li class="related-item">
+                    <a href="../../posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/" class="related-link">
+                        <img src="../../posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_pinrecipes_image_1.webp" alt="Easy Zucchini Casserole Recipes With Ground Beef for Cozy Family Dinners" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Zucchini Casserole Recipes With Ground Beef for Cozy Family Dinners</span>
+                    </a>
+                </li>
                 <li class="related-item">
                     <a href="../../posts/easy-zucchini-boat-recipes-with-ground-chicken-for-a-healthy-family-dinner/" class="related-link">
                         <img src="../../posts/easy-zucchini-boat-recipes-with-ground-chicken-for-a-healthy-family-dinner/images/easy-zucchini-boat-recipes-with-ground-chicken-for-a-healthy-family-dinner_pinrecipes_image_1.webp" alt="Easy Zucchini Boat Recipes with Ground Chicken for a Healthy Family Dinner" loading="lazy" class="related-thumb">
@@ -653,12 +719,6 @@
                     <a href="../../posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/" class="related-link">
                         <img src="../../posts/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time/images/crispy-carnitas-instant-pot-recipe-for-juicy-tender-pork-every-time_pinrecipes_image_1.webp" alt="Crispy Carnitas Instant Pot Recipe for Juicy, Tender Pork Every Time" loading="lazy" class="related-thumb">
                         <span class="related-title">Crispy Carnitas Instant Pot Recipe for Juicy, Tender Pork Every Time</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/easy-one-pot-air-fryer-chicken-recipes-for-quick-family-dinners/" class="related-link">
-                        <img src="../../posts/easy-one-pot-air-fryer-chicken-recipes-for-quick-family-dinners/images/easy-one-pot-air-fryer-chicken-recipes-for-quick-family-dinners_pinrecipes_image_1.webp" alt="Easy One Pot Air Fryer Chicken Recipes for Quick Family Dinners" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy One Pot Air Fryer Chicken Recipes for Quick Family Dinners</span>
                     </a>
                 </li>
             </ul>

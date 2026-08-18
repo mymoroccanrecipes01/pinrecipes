@@ -610,7 +610,67 @@
             <div class="conclusion">
                 <p>I hope you enjoy making and sharing this pepper soup as much as my family does. It’s simple, comforting, and full of flavor — perfect for any day you need a little warmth. Let me know how yours turns out!</p>
             </div>
-        </section>        <div class="ad-container ad-in-post">
+        </section>        <section class="story-section post-gallery-section" id="image-gallery">
+            <h2 class="story-headline">Gallery</h2>
+            <div class="pg-grid">
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_1.webp','Post image 1')">
+                    <img src="/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_1.webp" alt="Post image 1" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_2.webp','Post image 2')">
+                    <img src="/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_2.webp" alt="Post image 2" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_3.webp','Post image 3')">
+                    <img src="/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_3.webp" alt="Post image 3" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_8.webp','Why Does Your Pepper Soup Never Taste As Good As This?')">
+                    <img src="/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_8.webp" alt="Why Does Your Pepper Soup Never Taste As Good As This?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_6.webp','Fresh Peppers vs Dried Spices — Which One Actually Wins?')">
+                    <img src="/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_6.webp" alt="Fresh Peppers vs Dried Spices — Which One Actually Wins?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_5.webp','What&#039;s the Secret to Perfectly Spiced Pepper Soup?')">
+                    <img src="/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_5.webp" alt="What&#039;s the Secret to Perfectly Spiced Pepper Soup?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_7.webp','Are You Still Making Pepper Soup the Old-Fashioned Way?')">
+                    <img src="/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_7.webp" alt="Are You Still Making Pepper Soup the Old-Fashioned Way?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_4.webp','Why Does Your Pepper Soup Never Taste As Good As This?')">
+                    <img src="/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_4.webp" alt="Why Does Your Pepper Soup Never Taste As Good As This?" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_9.webp','Why Does Your Pepper Soup Never Taste As Good As This?')">
+                    <img src="/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_9.webp" alt="Why Does Your Pepper Soup Never Taste As Good As This?" loading="lazy">
+                </div>
+            </div>
+        </section>
+        <div class="pg-lightbox" id="pgLightbox" onclick="pgCloseLightbox()">
+            <img id="pgLightboxImg" src="" alt="">
+        </div>
+        <style>
+            .pg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin-top:20px}
+            .pg-item{position:relative;border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:0 4px 16px rgba(0,0,0,.08);transition:transform .25s ease,box-shadow .25s ease;aspect-ratio:3/4;background:#f8f9fa}
+            .pg-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+            .pg-item:hover{transform:translateY(-4px);box-shadow:0 10px 28px rgba(0,0,0,.16)}
+            .pg-item:hover img{transform:scale(1.06)}
+            .pg-lightbox{position:fixed;inset:0;background:rgba(15,15,20,.92);display:flex;align-items:center;justify-content:center;padding:32px;opacity:0;visibility:hidden;transition:opacity .25s ease;z-index:9999}
+            .pg-lightbox.active{opacity:1;visibility:visible}
+            .pg-lightbox img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5);cursor:zoom-out}
+            @media (max-width:600px){.pg-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}}
+        </style>
+        <script>
+            function pgOpenLightbox(src, alt) {
+                var lb = document.getElementById('pgLightbox');
+                var img = document.getElementById('pgLightboxImg');
+                img.src = src;
+                img.alt = alt;
+                lb.classList.add('active');
+            }
+            function pgCloseLightbox() {
+                document.getElementById('pgLightbox').classList.remove('active');
+            }
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') pgCloseLightbox();
+            });
+        </script>        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
@@ -626,39 +686,39 @@
             <h2 class="story-headline">You Might Also Like</h2>
             <ul class="related-grid">
                 <li class="related-item">
-                    <a href="../../posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/" class="related-link">
-                        <img src="../../posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_1.webp" alt="Easy Cheesy Tomato Soup Recipe for Cozy Weeknight Comfort" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Cheesy Tomato Soup Recipe for Cozy Weeknight Comfort</span>
+                    <a href="../../posts/lasagna-soup-vegetarian/" class="related-link">
+                        <img src="../../posts/lasagna-soup-vegetarian/images/lasagna-soup-vegetarian_lasagna-soup-vegetarian_pinrecipes_image_1.webp" alt="Cozy Vegetarian Lasagna Soup with Rich Tomato and Creamy Ricotta" loading="lazy" class="related-thumb">
+                        <span class="related-title">Cozy Vegetarian Lasagna Soup with Rich Tomato and Creamy Ricotta</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/" class="related-link">
-                        <img src="../../posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_1.webp" alt="Chicago Style Pizza Recipe: Deep Dish Delight You Can Make at Home" loading="lazy" class="related-thumb">
-                        <span class="related-title">Chicago Style Pizza Recipe: Deep Dish Delight You Can Make at Home</span>
+                    <a href="../../posts/lasagna-soup-recipe/" class="related-link">
+                        <img src="../../posts/lasagna-soup-recipe/images/lasagna-soup-recipe_lasagna-soup-recipe_pinrecipes_image_1.webp" alt="Easy Lasagna Soup Recipe with Creamy Ricotta and Melty Mozzarella for Cozy Nights" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Lasagna Soup Recipe with Creamy Ricotta and Melty Mozzarella for Cozy Nights</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/" class="related-link">
-                        <img src="../../posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_pinrecipes_image_1.webp" alt="Hearty Steak Soup Recipes That Feel Like a Warm Hug on a Cold Day" loading="lazy" class="related-thumb">
-                        <span class="related-title">Hearty Steak Soup Recipes That Feel Like a Warm Hug on a Cold Day</span>
+                    <a href="../../posts/lasagna-soup/" class="related-link">
+                        <img src="../../posts/lasagna-soup/images/lasagna-soup_lasagna-soup_pinrecipes_image_1.webp" alt="Easy One-Pot Lasagna Soup Recipe for Cozy Weeknight Dinners" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy One-Pot Lasagna Soup Recipe for Cozy Weeknight Dinners</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/classic-tomato-soup-recipe-that-warms-you-right-up/" class="related-link">
-                        <img src="../../posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_pinrecipes_image_1.webp" alt="Classic Tomato Soup Recipe That Warms You Right Up" loading="lazy" class="related-thumb">
-                        <span class="related-title">Classic Tomato Soup Recipe That Warms You Right Up</span>
+                    <a href="../../posts/lasagna-soup-recipe-tiktok/" class="related-link">
+                        <img src="../../posts/lasagna-soup-recipe-tiktok/images/lasagna-soup-recipe-tiktok_lasagna-soup-recipe-tiktok_pinrecipes_image_1.webp" alt="Easy Lasagna Soup Recipe TikTok Fans Can&#039;t Stop Making Tonight" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Lasagna Soup Recipe TikTok Fans Can&#039;t Stop Making Tonight</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/" class="related-link">
-                        <img src="../../posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_pinrecipes_image_1.webp" alt="Crispy Tofu Soup Recipe That Warms You Up and Satisfies Every Time" loading="lazy" class="related-thumb">
-                        <span class="related-title">Crispy Tofu Soup Recipe That Warms You Up and Satisfies Every Time</span>
+                    <a href="../../posts/easy-lasagna-soup-crockpot-recipe-for-cozy-family-dinners/" class="related-link">
+                        <img src="../../posts/easy-lasagna-soup-crockpot-recipe-for-cozy-family-dinners/images/easy-lasagna-soup-crockpot-recipe-for-cozy-family-dinners_pinrecipes_image_1.webp" alt="Easy Lasagna Soup Crockpot Recipe for Cozy Family Dinners" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Lasagna Soup Crockpot Recipe for Cozy Family Dinners</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/" class="related-link">
-                        <img src="../../posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_pinrecipes_image_1.webp" alt="Crispy Wonton Soup Recipe That Brings the Perfect Crunch to Your Bowl" loading="lazy" class="related-thumb">
-                        <span class="related-title">Crispy Wonton Soup Recipe That Brings the Perfect Crunch to Your Bowl</span>
+                    <a href="../../posts/lasagna-soup-recipe-australia-easy-comfort-food-with-classic-italian-flavors/" class="related-link">
+                        <img src="../../posts/lasagna-soup-recipe-australia-easy-comfort-food-with-classic-italian-flavors/images/lasagna-soup-recipe-australia-easy-comfort-food-with-classic-italian-flavors_pinrecipes_image_1.webp" alt="Lasagna Soup Recipe Australia: Easy Comfort Food with Classic Italian Flavors" loading="lazy" class="related-thumb">
+                        <span class="related-title">Lasagna Soup Recipe Australia: Easy Comfort Food with Classic Italian Flavors</span>
                     </a>
                 </li>
             </ul>

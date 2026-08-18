@@ -657,7 +657,52 @@
             <div class="conclusion">
                 <p>&lt;p&gt;Creamy one-pot chicken teaches fundamental cooking techniques that extend far beyond this single recipe. Understanding why searing creates flavor through the Maillard reaction, why gentle simmering preserves moisture in protein, and why room-temperature cream maintains emulsion stability—these lessons apply across countless other dishes. The specific ingredients change, but the underlying principles remain constant and transferable.&lt;/p&gt;&lt;p&gt;I return to this recipe repeatedly throughout the year because it strikes a genuine balance: simple enough for busy weeknights but sophisticated enough to teach real, applicable technique. Each time I make it, I notice something new about how my specific stove distributes heat, or how the particular cream brand I&#039;m using responds to temperature changes, or how subtle variations in broccoli cooking time affect the final sauce consistency. These observations accumulate into deeper understanding that makes every dish I cook more intentional and better controlled.&lt;/p&gt;&lt;p&gt;The distance between a mediocre version of this dish and an excellent one is not expensive ingredients or complicated technique—it&#039;s understanding. The searing step adds savory, complex flavor that transforms the taste profile. The room-temperature cream maintains silky texture rather than greasy separation. The gentle simmering preserves moisture in the chicken rather than squeezing it dry. The careful folding prevents emulsion breakdown. Each step serves a specific, non-negotiable purpose. Once you understand why that purpose matters, you can execute the recipe with genuine confidence, adjust it for your specific equipment and available ingredients, and troubleshoot effectively when something doesn&#039;t proceed as expected.&lt;/p&gt;&lt;p&gt;If you make this recipe and discover something unexpected—a technique that worked better for you, an observation about your kitchen&#039;s specific conditions, a successful variation you develop—I would genuinely appreciate hearing about it. Cooking knowledge grows through shared experience and accumulated observation, not through posts alone. Your feedback and experience helps others refine their technique and deepen their understanding.&lt;/p&gt;</p>
             </div>
-        </section>        <div class="ad-container ad-in-post">
+        </section>        <section class="story-section post-gallery-section" id="image-gallery">
+            <h2 class="story-headline">Gallery</h2>
+            <div class="pg-grid">
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_1.webp','Chicken breast cubes patted completely dry with paper towels, ready for searing in hot butter')">
+                    <img src="/posts/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_1.webp" alt="Chicken breast cubes patted completely dry with paper towels, ready for searing in hot butter" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_2.webp','Chicken pieces searing in hot pot showing deep golden-brown Maillard reaction crust developing on contact surface')">
+                    <img src="/posts/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_2.webp" alt="Chicken pieces searing in hot pot showing deep golden-brown Maillard reaction crust developing on contact surface" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_3.webp','Finished creamy one-pot chicken showing silky, evenly-colored sauce with tender cooked broccoli florets and opaque cooked chicken pieces')">
+                    <img src="/posts/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_image_3.webp" alt="Finished creamy one-pot chicken showing silky, evenly-colored sauce with tender cooked broccoli florets and opaque cooked chicken pieces" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_Lummyrecipes_image_4.webp','Creamy one-pot chicken served in rustic ceramic bowl with fresh parsley garnish, crusty bread visible on table beside bowl, ready for serving')">
+                    <img src="/posts/creamy-marry-me-chicken-for-family/images/creamy-marry-me-chicken-for-family_Lummyrecipes_image_4.webp" alt="Creamy one-pot chicken served in rustic ceramic bowl with fresh parsley garnish, crusty bread visible on table beside bowl, ready for serving" loading="lazy">
+                </div>
+            </div>
+        </section>
+        <div class="pg-lightbox" id="pgLightbox" onclick="pgCloseLightbox()">
+            <img id="pgLightboxImg" src="" alt="">
+        </div>
+        <style>
+            .pg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin-top:20px}
+            .pg-item{position:relative;border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:0 4px 16px rgba(0,0,0,.08);transition:transform .25s ease,box-shadow .25s ease;aspect-ratio:3/4;background:#f8f9fa}
+            .pg-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+            .pg-item:hover{transform:translateY(-4px);box-shadow:0 10px 28px rgba(0,0,0,.16)}
+            .pg-item:hover img{transform:scale(1.06)}
+            .pg-lightbox{position:fixed;inset:0;background:rgba(15,15,20,.92);display:flex;align-items:center;justify-content:center;padding:32px;opacity:0;visibility:hidden;transition:opacity .25s ease;z-index:9999}
+            .pg-lightbox.active{opacity:1;visibility:visible}
+            .pg-lightbox img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5);cursor:zoom-out}
+            @media (max-width:600px){.pg-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}}
+        </style>
+        <script>
+            function pgOpenLightbox(src, alt) {
+                var lb = document.getElementById('pgLightbox');
+                var img = document.getElementById('pgLightboxImg');
+                img.src = src;
+                img.alt = alt;
+                lb.classList.add('active');
+            }
+            function pgCloseLightbox() {
+                document.getElementById('pgLightbox').classList.remove('active');
+            }
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') pgCloseLightbox();
+            });
+        </script>        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>

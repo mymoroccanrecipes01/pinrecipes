@@ -612,7 +612,64 @@
             <div class="conclusion">
                 <p>I hope you enjoy making this one pot Instant Pot Indian recipe as much as I do. It’s a simple way to get big flavors on the table fast—let me know how yours turns out!</p>
             </div>
-        </section>        <div class="ad-container ad-in-post">
+        </section>        <section class="story-section post-gallery-section" id="image-gallery">
+            <h2 class="story-headline">Gallery</h2>
+            <div class="pg-grid">
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_1.webp','Post image 1')">
+                    <img src="/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_1.webp" alt="Post image 1" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_2.webp','Post image 2')">
+                    <img src="/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_2.webp" alt="Post image 2" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_3.webp','Post image 3')">
+                    <img src="/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_3.webp" alt="Post image 3" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_7.webp','Post image 4')">
+                    <img src="/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_7.webp" alt="Post image 4" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_8.webp','Post image 5')">
+                    <img src="/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_8.webp" alt="Post image 5" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_6.webp','Post image 6')">
+                    <img src="/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_6.webp" alt="Post image 6" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_4.webp','Post image 7')">
+                    <img src="/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_4.webp" alt="Post image 7" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_5.webp','Post image 8')">
+                    <img src="/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_5.webp" alt="Post image 8" loading="lazy">
+                </div>
+            </div>
+        </section>
+        <div class="pg-lightbox" id="pgLightbox" onclick="pgCloseLightbox()">
+            <img id="pgLightboxImg" src="" alt="">
+        </div>
+        <style>
+            .pg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin-top:20px}
+            .pg-item{position:relative;border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:0 4px 16px rgba(0,0,0,.08);transition:transform .25s ease,box-shadow .25s ease;aspect-ratio:3/4;background:#f8f9fa}
+            .pg-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+            .pg-item:hover{transform:translateY(-4px);box-shadow:0 10px 28px rgba(0,0,0,.16)}
+            .pg-item:hover img{transform:scale(1.06)}
+            .pg-lightbox{position:fixed;inset:0;background:rgba(15,15,20,.92);display:flex;align-items:center;justify-content:center;padding:32px;opacity:0;visibility:hidden;transition:opacity .25s ease;z-index:9999}
+            .pg-lightbox.active{opacity:1;visibility:visible}
+            .pg-lightbox img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5);cursor:zoom-out}
+            @media (max-width:600px){.pg-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}}
+        </style>
+        <script>
+            function pgOpenLightbox(src, alt) {
+                var lb = document.getElementById('pgLightbox');
+                var img = document.getElementById('pgLightboxImg');
+                img.src = src;
+                img.alt = alt;
+                lb.classList.add('active');
+            }
+            function pgCloseLightbox() {
+                document.getElementById('pgLightbox').classList.remove('active');
+            }
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') pgCloseLightbox();
+            });
+        </script>        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
@@ -646,21 +703,21 @@
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-homemade-pickled-banana-peppers-uk-style-for-tangy-flavor-boost/" class="related-link">
-                        <img src="../../posts/easy-homemade-pickled-banana-peppers-uk-style-for-tangy-flavor-boost/images/easy-homemade-pickled-banana-peppers-uk-style-for-tangy-flavor-boost_pinrecipes_image_1.webp" alt="Easy Homemade Pickled Banana Peppers Uk Style for Tangy Flavor Boost" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Homemade Pickled Banana Peppers Uk Style for Tangy Flavor Boost</span>
+                    <a href="../../posts/lasagna-soup-vegetarian/" class="related-link">
+                        <img src="../../posts/lasagna-soup-vegetarian/images/lasagna-soup-vegetarian_lasagna-soup-vegetarian_pinrecipes_image_1.webp" alt="Cozy Vegetarian Lasagna Soup with Rich Tomato and Creamy Ricotta" loading="lazy" class="related-thumb">
+                        <span class="related-title">Cozy Vegetarian Lasagna Soup with Rich Tomato and Creamy Ricotta</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/" class="related-link">
-                        <img src="../../posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_pinrecipes_image_1.webp" alt="Easy Lemon Zucchini Bread With Lemon Pudding for a Moist, Flavorful Treat" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Lemon Zucchini Bread With Lemon Pudding for a Moist, Flavorful Treat</span>
+                    <a href="../../posts/lasagna-soup-recipe/" class="related-link">
+                        <img src="../../posts/lasagna-soup-recipe/images/lasagna-soup-recipe_lasagna-soup-recipe_pinrecipes_image_1.webp" alt="Easy Lasagna Soup Recipe with Creamy Ricotta and Melty Mozzarella for Cozy Nights" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Lasagna Soup Recipe with Creamy Ricotta and Melty Mozzarella for Cozy Nights</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/easy-world-cup-snacks-from-tesco-for-ultimate-game-day-munchies/" class="related-link">
-                        <img src="../../posts/easy-world-cup-snacks-from-tesco-for-ultimate-game-day-munchies/images/easy-world-cup-snacks-from-tesco-for-ultimate-game-day-munchies_pinrecipes_image_1.webp" alt="Easy World Cup Snacks from Tesco for Ultimate Game Day Munchies" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy World Cup Snacks from Tesco for Ultimate Game Day Munchies</span>
+                    <a href="../../posts/delightful-leo-birthday-cake-ideas-for-girls-that-spark-joy-and-creativity/" class="related-link">
+                        <img src="../../posts/delightful-leo-birthday-cake-ideas-for-girls-that-spark-joy-and-creativity/images/delightful-leo-birthday-cake-ideas-for-girls-that-spark-joy-and-creativity_pinrecipes_image_1.webp" alt="Delightful Leo Birthday Cake Ideas for Girls That Spark Joy and Creativity" loading="lazy" class="related-thumb">
+                        <span class="related-title">Delightful Leo Birthday Cake Ideas for Girls That Spark Joy and Creativity</span>
                     </a>
                 </li>
             </ul>

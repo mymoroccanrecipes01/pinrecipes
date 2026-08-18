@@ -562,7 +562,52 @@
             <div class="conclusion">
                 <p>Searing shrimp properly comes down to understanding that this protein is delicate and cooks very quickly—the entire cooking window from raw to perfect is perhaps 4-5 minutes including resting time. The key principles I&#039;ve learned through dozens of batches—ensuring completely dry shrimp, using a single uncrowded layer, maintaining medium-high heat, and removing shrimp immediately when it reaches 140-145°F internal temperature—work consistently regardless of flavor direction. Whether you&#039;re making simple lemon-garlic shrimp or building toward one of the variations with wine, cream, or Asian flavors, the technique foundation remains identical. Once you&#039;ve mastered these fundamentals, you can confidently apply them to any seasoning or sauce you prefer. The technique is the skill; only the seasonings change.</p>
             </div>
-        </section>        <div class="ad-container ad-in-post">
+        </section>        <section class="story-section post-gallery-section" id="image-gallery">
+            <h2 class="story-headline">Gallery</h2>
+            <div class="pg-grid">
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_1.webp','Raw shrimp patted completely dry on paper towels, showing moisture removal technique before pan searing')">
+                    <img src="/posts/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_1.webp" alt="Raw shrimp patted completely dry on paper towels, showing moisture removal technique before pan searing" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_2.webp','Shrimp searing in hot olive oil with visible spacing between pieces, golden-brown sear developing on underside with steady sizzle')">
+                    <img src="/posts/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_2.webp" alt="Shrimp searing in hot olive oil with visible spacing between pieces, golden-brown sear developing on underside with steady sizzle" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_3.webp','Cooked shrimp with proper opacity, barely-visible translucence at center, pale golden sear on one side, sliced garlic added to pan')">
+                    <img src="/posts/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_3.webp" alt="Cooked shrimp with proper opacity, barely-visible translucence at center, pale golden sear on one side, sliced garlic added to pan" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_4.webp','Finished plated shrimp with lemon wedges, fresh parsley garnish, and pan sauce coating the pieces, ready to serve immediately')">
+                    <img src="/posts/comforting-southern-thanksgiving-shrimp-dish-for-family/images/comforting-southern-thanksgiving-shrimp-dish-for-family_image_4.webp" alt="Finished plated shrimp with lemon wedges, fresh parsley garnish, and pan sauce coating the pieces, ready to serve immediately" loading="lazy">
+                </div>
+            </div>
+        </section>
+        <div class="pg-lightbox" id="pgLightbox" onclick="pgCloseLightbox()">
+            <img id="pgLightboxImg" src="" alt="">
+        </div>
+        <style>
+            .pg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin-top:20px}
+            .pg-item{position:relative;border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:0 4px 16px rgba(0,0,0,.08);transition:transform .25s ease,box-shadow .25s ease;aspect-ratio:3/4;background:#f8f9fa}
+            .pg-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+            .pg-item:hover{transform:translateY(-4px);box-shadow:0 10px 28px rgba(0,0,0,.16)}
+            .pg-item:hover img{transform:scale(1.06)}
+            .pg-lightbox{position:fixed;inset:0;background:rgba(15,15,20,.92);display:flex;align-items:center;justify-content:center;padding:32px;opacity:0;visibility:hidden;transition:opacity .25s ease;z-index:9999}
+            .pg-lightbox.active{opacity:1;visibility:visible}
+            .pg-lightbox img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5);cursor:zoom-out}
+            @media (max-width:600px){.pg-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}}
+        </style>
+        <script>
+            function pgOpenLightbox(src, alt) {
+                var lb = document.getElementById('pgLightbox');
+                var img = document.getElementById('pgLightboxImg');
+                img.src = src;
+                img.alt = alt;
+                lb.classList.add('active');
+            }
+            function pgCloseLightbox() {
+                document.getElementById('pgLightbox').classList.remove('active');
+            }
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') pgCloseLightbox();
+            });
+        </script>        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>

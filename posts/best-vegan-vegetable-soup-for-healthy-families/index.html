@@ -606,7 +606,52 @@
             <div class="conclusion">
                 <p>This soup teaches that speed doesn&#039;t require sacrificing depth. Thirty minutes of intentional cooking—with proper technique, quality ingredients, and careful attention to timing—produces results that feel like much longer work. The foundations you learn here—layering aromatics, maintaining gentle heat, checking doneness precisely, adjusting seasoning thoughtfully—apply far beyond soup. These are fundamental cooking techniques that make you reliably successful in any kitchen. I hope you&#039;ll make this soup, experiment with variations, and find it becomes a regular fixture of your cooking rotation. I&#039;d genuinely appreciate hearing how it turns out for you or what variations you&#039;ve discovered work in your kitchen. Leave a comment and let me know.</p>
             </div>
-        </section>        <div class="ad-container ad-in-post">
+        </section>        <section class="story-section post-gallery-section" id="image-gallery">
+            <h2 class="story-headline">Gallery</h2>
+            <div class="pg-grid">
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_1.webp','Yellow onion pieces in hot olive oil showing translucent edges after 3 minutes of cooking, visible moisture pooling at pot bottom')">
+                    <img src="/posts/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_1.webp" alt="Yellow onion pieces in hot olive oil showing translucent edges after 3 minutes of cooking, visible moisture pooling at pot bottom" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_2.webp','Tomato paste being stirred into aromatics showing color change from bright red to deeper rust tone, caramelization in progress')">
+                    <img src="/posts/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_2.webp" alt="Tomato paste being stirred into aromatics showing color change from bright red to deeper rust tone, caramelization in progress" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_3.webp','Finished vegetable soup at gentle simmer showing clear golden broth with vibrant vegetables, small steady bubbles at surface')">
+                    <img src="/posts/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_3.webp" alt="Finished vegetable soup at gentle simmer showing clear golden broth with vibrant vegetables, small steady bubbles at surface" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_4.webp','Finished soup in white bowl, fresh parsley garnish on top, crusty bread visible beside bowl on rustic table, warm lighting')">
+                    <img src="/posts/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_4.webp" alt="Finished soup in white bowl, fresh parsley garnish on top, crusty bread visible beside bowl on rustic table, warm lighting" loading="lazy">
+                </div>
+            </div>
+        </section>
+        <div class="pg-lightbox" id="pgLightbox" onclick="pgCloseLightbox()">
+            <img id="pgLightboxImg" src="" alt="">
+        </div>
+        <style>
+            .pg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin-top:20px}
+            .pg-item{position:relative;border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:0 4px 16px rgba(0,0,0,.08);transition:transform .25s ease,box-shadow .25s ease;aspect-ratio:3/4;background:#f8f9fa}
+            .pg-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+            .pg-item:hover{transform:translateY(-4px);box-shadow:0 10px 28px rgba(0,0,0,.16)}
+            .pg-item:hover img{transform:scale(1.06)}
+            .pg-lightbox{position:fixed;inset:0;background:rgba(15,15,20,.92);display:flex;align-items:center;justify-content:center;padding:32px;opacity:0;visibility:hidden;transition:opacity .25s ease;z-index:9999}
+            .pg-lightbox.active{opacity:1;visibility:visible}
+            .pg-lightbox img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5);cursor:zoom-out}
+            @media (max-width:600px){.pg-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}}
+        </style>
+        <script>
+            function pgOpenLightbox(src, alt) {
+                var lb = document.getElementById('pgLightbox');
+                var img = document.getElementById('pgLightboxImg');
+                img.src = src;
+                img.alt = alt;
+                lb.classList.add('active');
+            }
+            function pgCloseLightbox() {
+                document.getElementById('pgLightbox').classList.remove('active');
+            }
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') pgCloseLightbox();
+            });
+        </script>        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
@@ -622,39 +667,39 @@
             <h2 class="story-headline">You Might Also Like</h2>
             <ul class="related-grid">
                 <li class="related-item">
-                    <a href="../../posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/" class="related-link">
-                        <img src="../../posts/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort/images/easy-cheesy-tomato-soup-recipe-for-cozy-weeknight-comfort_pinrecipes_image_1.webp" alt="Easy Cheesy Tomato Soup Recipe for Cozy Weeknight Comfort" loading="lazy" class="related-thumb">
-                        <span class="related-title">Easy Cheesy Tomato Soup Recipe for Cozy Weeknight Comfort</span>
+                    <a href="../../posts/lasagna-soup-vegetarian/" class="related-link">
+                        <img src="../../posts/lasagna-soup-vegetarian/images/lasagna-soup-vegetarian_lasagna-soup-vegetarian_pinrecipes_image_1.webp" alt="Cozy Vegetarian Lasagna Soup with Rich Tomato and Creamy Ricotta" loading="lazy" class="related-thumb">
+                        <span class="related-title">Cozy Vegetarian Lasagna Soup with Rich Tomato and Creamy Ricotta</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/" class="related-link">
-                        <img src="../../posts/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home/images/chicago-style-pizza-recipe-deep-dish-delight-you-can-make-at-home_pinrecipes_image_1.webp" alt="Chicago Style Pizza Recipe: Deep Dish Delight You Can Make at Home" loading="lazy" class="related-thumb">
-                        <span class="related-title">Chicago Style Pizza Recipe: Deep Dish Delight You Can Make at Home</span>
+                    <a href="../../posts/lasagna-soup-recipe/" class="related-link">
+                        <img src="../../posts/lasagna-soup-recipe/images/lasagna-soup-recipe_lasagna-soup-recipe_pinrecipes_image_1.webp" alt="Easy Lasagna Soup Recipe with Creamy Ricotta and Melty Mozzarella for Cozy Nights" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Lasagna Soup Recipe with Creamy Ricotta and Melty Mozzarella for Cozy Nights</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/" class="related-link">
-                        <img src="../../posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_pinrecipes_image_1.webp" alt="Hearty Steak Soup Recipes That Feel Like a Warm Hug on a Cold Day" loading="lazy" class="related-thumb">
-                        <span class="related-title">Hearty Steak Soup Recipes That Feel Like a Warm Hug on a Cold Day</span>
+                    <a href="../../posts/lasagna-soup/" class="related-link">
+                        <img src="../../posts/lasagna-soup/images/lasagna-soup_lasagna-soup_pinrecipes_image_1.webp" alt="Easy One-Pot Lasagna Soup Recipe for Cozy Weeknight Dinners" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy One-Pot Lasagna Soup Recipe for Cozy Weeknight Dinners</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/" class="related-link">
-                        <img src="../../posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_1.webp" alt="Pepper Soup Recipe That Warms You From the Inside Out" loading="lazy" class="related-thumb">
-                        <span class="related-title">Pepper Soup Recipe That Warms You From the Inside Out</span>
+                    <a href="../../posts/lasagna-soup-recipe-tiktok/" class="related-link">
+                        <img src="../../posts/lasagna-soup-recipe-tiktok/images/lasagna-soup-recipe-tiktok_lasagna-soup-recipe-tiktok_pinrecipes_image_1.webp" alt="Easy Lasagna Soup Recipe TikTok Fans Can&#039;t Stop Making Tonight" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Lasagna Soup Recipe TikTok Fans Can&#039;t Stop Making Tonight</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/classic-tomato-soup-recipe-that-warms-you-right-up/" class="related-link">
-                        <img src="../../posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_pinrecipes_image_1.webp" alt="Classic Tomato Soup Recipe That Warms You Right Up" loading="lazy" class="related-thumb">
-                        <span class="related-title">Classic Tomato Soup Recipe That Warms You Right Up</span>
+                    <a href="../../posts/easy-lasagna-soup-crockpot-recipe-for-cozy-family-dinners/" class="related-link">
+                        <img src="../../posts/easy-lasagna-soup-crockpot-recipe-for-cozy-family-dinners/images/easy-lasagna-soup-crockpot-recipe-for-cozy-family-dinners_pinrecipes_image_1.webp" alt="Easy Lasagna Soup Crockpot Recipe for Cozy Family Dinners" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Lasagna Soup Crockpot Recipe for Cozy Family Dinners</span>
                     </a>
                 </li>
                 <li class="related-item">
-                    <a href="../../posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/" class="related-link">
-                        <img src="../../posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_pinrecipes_image_1.webp" alt="Crispy Tofu Soup Recipe That Warms You Up and Satisfies Every Time" loading="lazy" class="related-thumb">
-                        <span class="related-title">Crispy Tofu Soup Recipe That Warms You Up and Satisfies Every Time</span>
+                    <a href="../../posts/lasagna-soup-recipe-australia-easy-comfort-food-with-classic-italian-flavors/" class="related-link">
+                        <img src="../../posts/lasagna-soup-recipe-australia-easy-comfort-food-with-classic-italian-flavors/images/lasagna-soup-recipe-australia-easy-comfort-food-with-classic-italian-flavors_pinrecipes_image_1.webp" alt="Lasagna Soup Recipe Australia: Easy Comfort Food with Classic Italian Flavors" loading="lazy" class="related-thumb">
+                        <span class="related-title">Lasagna Soup Recipe Australia: Easy Comfort Food with Classic Italian Flavors</span>
                     </a>
                 </li>
             </ul>

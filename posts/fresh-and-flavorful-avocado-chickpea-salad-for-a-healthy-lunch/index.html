@@ -601,7 +601,64 @@
             <div class="conclusion">
                 <p>Give this avocado chickpea salad a try for a fresh, healthy lunch that’s both easy and satisfying. I’d love to hear how you customize it—drop a comment with your favorite twists!</p>
             </div>
-        </section>        <div class="ad-container ad-in-post">
+        </section>        <section class="story-section post-gallery-section" id="image-gallery">
+            <h2 class="story-headline">Gallery</h2>
+            <div class="pg-grid">
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_image_1.webp','Post image 1')">
+                    <img src="/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_image_1.webp" alt="Post image 1" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_image_2.webp','Post image 2')">
+                    <img src="/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_image_2.webp" alt="Post image 2" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_image_3.webp','Post image 3')">
+                    <img src="/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_image_3.webp" alt="Post image 3" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_pinrecipes_image_4.webp','Post image 4')">
+                    <img src="/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_pinrecipes_image_4.webp" alt="Post image 4" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_pinrecipes_image_1.webp','Post image 5')">
+                    <img src="/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_pinrecipes_image_1.webp" alt="Post image 5" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_pinrecipes_image_2.webp','Post image 6')">
+                    <img src="/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_pinrecipes_image_2.webp" alt="Post image 6" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_pinrecipes_image_3.webp','Post image 7')">
+                    <img src="/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_pinrecipes_image_3.webp" alt="Post image 7" loading="lazy">
+                </div>
+                <div class="pg-item" onclick="pgOpenLightbox('/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_pinrecipes_image_4.webp','Post image 8')">
+                    <img src="/posts/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch/images/fresh-and-flavorful-avocado-chickpea-salad-for-a-healthy-lunch_pinrecipes_image_4.webp" alt="Post image 8" loading="lazy">
+                </div>
+            </div>
+        </section>
+        <div class="pg-lightbox" id="pgLightbox" onclick="pgCloseLightbox()">
+            <img id="pgLightboxImg" src="" alt="">
+        </div>
+        <style>
+            .pg-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin-top:20px}
+            .pg-item{position:relative;border-radius:12px;overflow:hidden;cursor:zoom-in;box-shadow:0 4px 16px rgba(0,0,0,.08);transition:transform .25s ease,box-shadow .25s ease;aspect-ratio:3/4;background:#f8f9fa}
+            .pg-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+            .pg-item:hover{transform:translateY(-4px);box-shadow:0 10px 28px rgba(0,0,0,.16)}
+            .pg-item:hover img{transform:scale(1.06)}
+            .pg-lightbox{position:fixed;inset:0;background:rgba(15,15,20,.92);display:flex;align-items:center;justify-content:center;padding:32px;opacity:0;visibility:hidden;transition:opacity .25s ease;z-index:9999}
+            .pg-lightbox.active{opacity:1;visibility:visible}
+            .pg-lightbox img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5);cursor:zoom-out}
+            @media (max-width:600px){.pg-grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}}
+        </style>
+        <script>
+            function pgOpenLightbox(src, alt) {
+                var lb = document.getElementById('pgLightbox');
+                var img = document.getElementById('pgLightboxImg');
+                img.src = src;
+                img.alt = alt;
+                lb.classList.add('active');
+            }
+            function pgCloseLightbox() {
+                document.getElementById('pgLightbox').classList.remove('active');
+            }
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') pgCloseLightbox();
+            });
+        </script>        <div class="ad-container ad-in-post">
             <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-client="ca-pub-3666818985097490" data-ad-slot="8684648378" data-ad-format="fluid" data-ad-layout="in-article"></ins>
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
@@ -617,6 +674,30 @@
             <h2 class="story-headline">You Might Also Like</h2>
             <ul class="related-grid">
                 <li class="related-item">
+                    <a href="../../posts/crockpot-lasagna-soup-healthy/" class="related-link">
+                        <img src="../../posts/crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_1.webp" alt="Healthy Crockpot Lasagna Soup Recipe That’s Perfect for Cozy Weeknights" loading="lazy" class="related-thumb">
+                        <span class="related-title">Healthy Crockpot Lasagna Soup Recipe That’s Perfect for Cozy Weeknights</span>
+                    </a>
+                </li>
+                <li class="related-item">
+                    <a href="../../posts/spaghetti-squash-recipes-with-chicken/" class="related-link">
+                        <img src="../../posts/spaghetti-squash-recipes-with-chicken/images/spaghetti-squash-recipes-with-chicken_spaghetti-squash-recipes-with-chicken_pinrecipes_image_1.webp" alt="Easy Tuscan Spaghetti Squash Recipes with Chicken for Cozy Low Carb Dinners" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Tuscan Spaghetti Squash Recipes with Chicken for Cozy Low Carb Dinners</span>
+                    </a>
+                </li>
+                <li class="related-item">
+                    <a href="../../posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/" class="related-link">
+                        <img src="../../posts/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing/images/easy-asian-cucumber-salad-recipe-with-tangy-sesame-dressing_pinrecipes_image_1.webp" alt="Easy Asian Cucumber Salad Recipe with Tangy Sesame Dressing" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Asian Cucumber Salad Recipe with Tangy Sesame Dressing</span>
+                    </a>
+                </li>
+                <li class="related-item">
+                    <a href="../../posts/easy-homemade-cucumbers-and-onions-in-vinegar-no-sugar-recipe-for-refreshing-sides/" class="related-link">
+                        <img src="../../posts/easy-homemade-cucumbers-and-onions-in-vinegar-no-sugar-recipe-for-refreshing-sides/images/easy-homemade-cucumbers-and-onions-in-vinegar-no-sugar-recipe-for-refreshing-sides_pinrecipes_image_1.webp" alt="Easy Homemade Cucumbers and Onions in Vinegar No Sugar Recipe for Refreshing Sides" loading="lazy" class="related-thumb">
+                        <span class="related-title">Easy Homemade Cucumbers and Onions in Vinegar No Sugar Recipe for Refreshing Sides</span>
+                    </a>
+                </li>
+                <li class="related-item">
                     <a href="../../posts/creamy-watermelon-smoothie-recipe-for-a-refreshing-and-healthy-summer-boost/" class="related-link">
                         <img src="../../posts/creamy-watermelon-smoothie-recipe-for-a-refreshing-and-healthy-summer-boost/images/creamy-watermelon-smoothie-recipe-for-a-refreshing-and-healthy-summer-boost_pinrecipes_image_1.webp" alt="Creamy Watermelon Smoothie Recipe for a Refreshing and Healthy Summer Boost" loading="lazy" class="related-thumb">
                         <span class="related-title">Creamy Watermelon Smoothie Recipe for a Refreshing and Healthy Summer Boost</span>
@@ -626,30 +707,6 @@
                     <a href="../../posts/easy-healthy-blueberry-recipes-for-quick-and-delicious-snacks/" class="related-link">
                         <img src="../../posts/easy-healthy-blueberry-recipes-for-quick-and-delicious-snacks/images/easy-healthy-blueberry-recipes-for-quick-and-delicious-snacks_pinrecipes_image_1.webp" alt="Easy Healthy Blueberry Recipes for Quick and Delicious Snacks" loading="lazy" class="related-thumb">
                         <span class="related-title">Easy Healthy Blueberry Recipes for Quick and Delicious Snacks</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/healthy-blueberry-recipes-for-weight-loss-that-actually-taste-amazing/" class="related-link">
-                        <img src="../../posts/healthy-blueberry-recipes-for-weight-loss-that-actually-taste-amazing/images/healthy-blueberry-recipes-for-weight-loss-that-actually-taste-amazing_pinrecipes_image_1.webp" alt="Healthy Blueberry Recipes for Weight Loss That Actually Taste Amazing" loading="lazy" class="related-thumb">
-                        <span class="related-title">Healthy Blueberry Recipes for Weight Loss That Actually Taste Amazing</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/" class="related-link">
-                        <img src="../../posts/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats/images/healthy-blueberry-recipes-low-calorie-for-delicious-guilt-free-treats_pinrecipes_image_1.webp" alt="Healthy Blueberry Recipes Low Calorie for Delicious Guilt-Free Treats" loading="lazy" class="related-thumb">
-                        <span class="related-title">Healthy Blueberry Recipes Low Calorie for Delicious Guilt-Free Treats</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/healthy-blueberries-recipes-delicious-ideas-for-nutritious-snacks-and-desserts/" class="related-link">
-                        <img src="../../posts/healthy-blueberries-recipes-delicious-ideas-for-nutritious-snacks-and-desserts/images/healthy-blueberries-recipes-delicious-ideas-for-nutritious-snacks-and-desserts_pinrecipes_image_1.webp" alt="Healthy Blueberries Recipes: Delicious Ideas for Nutritious Snacks and Desserts" loading="lazy" class="related-thumb">
-                        <span class="related-title">Healthy Blueberries Recipes: Delicious Ideas for Nutritious Snacks and Desserts</span>
-                    </a>
-                </li>
-                <li class="related-item">
-                    <a href="../../posts/simple-zucchini-recipes-for-diabetics-that-are-easy-and-delicious/" class="related-link">
-                        <img src="../../posts/simple-zucchini-recipes-for-diabetics-that-are-easy-and-delicious/images/simple-zucchini-recipes-for-diabetics-that-are-easy-and-delicious_pinrecipes_image_1.webp" alt="Simple Zucchini Recipes for Diabetics That Are Easy and Delicious" loading="lazy" class="related-thumb">
-                        <span class="related-title">Simple Zucchini Recipes for Diabetics That Are Easy and Delicious</span>
                     </a>
                 </li>
             </ul>
