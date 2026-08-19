@@ -317,7 +317,7 @@
             "source_keyword": "lasagna soup vegetarian",
             "reference_pin": "https://www.pinterest.com/pin/374643262779657099/",
             "reference_saves": 21,
-            "csv_exported": false
+            "csv_exported": true
         },
         {
             "fileName": "lasagna-soup-vegetarian_lasagna-soup-vegetarian_pinrecipes_image_12.webp",
@@ -331,7 +331,7 @@
             "source_keyword": "lasagna soup vegetarian",
             "reference_pin": "https://www.pinterest.com/pin/93027548551310979/",
             "reference_saves": 1,
-            "csv_exported": false
+            "csv_exported": true
         },
         {
             "fileName": "lasagna-soup-vegetarian_lasagna-soup-vegetarian_pinrecipes_image_13.webp",
@@ -345,7 +345,7 @@
             "source_keyword": "lasagna soup vegetarian",
             "reference_pin": "https://www.pinterest.com/pin/60165345018753924/",
             "reference_saves": 1,
-            "csv_exported": false
+            "csv_exported": true
         }
     ],
     "image": "lasagna-soup-vegetarian_lasagna-soup-vegetarian_pinrecipes_image_1.webp",
@@ -356,5 +356,7 @@
     "createdAt": "2026-08-17T23:08:56+00:00",
     "updatedAt": "2026-08-17T23:08:56+00:00",
     "pinterest_source_keyword": "lasagna soup vegetarian",
-    "skip_classic_templates": true
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
 }

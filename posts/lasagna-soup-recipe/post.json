@@ -316,7 +316,7 @@
             "source_keyword": "lasagna soup recipe",
             "reference_pin": "https://www.pinterest.com/pin/422281212924660/",
             "reference_saves": 31,
-            "csv_exported": false
+            "csv_exported": true
         },
         {
             "fileName": "lasagna-soup-recipe_lasagna-soup-recipe_pinrecipes_image_12.webp",
@@ -330,7 +330,7 @@
             "source_keyword": "lasagna soup recipe",
             "reference_pin": "https://www.pinterest.com/pin/99290366782675167/",
             "reference_saves": 2,
-            "csv_exported": false
+            "csv_exported": true
         },
         {
             "fileName": "lasagna-soup-recipe_lasagna-soup-recipe_pinrecipes_image_13.webp",
@@ -344,7 +344,7 @@
             "source_keyword": "lasagna soup recipe",
             "reference_pin": "https://www.pinterest.com/pin/1125968743757704/",
             "reference_saves": 11,
-            "csv_exported": false
+            "csv_exported": true
         }
     ],
     "image": "lasagna-soup-recipe_lasagna-soup-recipe_pinrecipes_image_1.webp",
@@ -355,5 +355,7 @@
     "createdAt": "2026-08-17T23:04:44+00:00",
     "updatedAt": "2026-08-17T23:04:44+00:00",
     "pinterest_source_keyword": "lasagna soup recipe",
-    "skip_classic_templates": true
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
 }

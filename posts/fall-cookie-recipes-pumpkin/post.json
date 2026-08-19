@@ -1,0 +1,366 @@
+{
+    "title": "Soft Pumpkin Cookies with Cream Cheese Frosting for Cozy Fall Baking",
+    "promptIMG": {
+        "img1": "SCENE: a warmly lit home kitchen with soft natural daylight filtering through a window, faint reflections on a wooden countertop blurred in the background. SUBJECT: a generous stack of soft pumpkin cookies piled high on a rustic ceramic plate, showing their tender golden-orange texture with delicate cracks on top, the cream cheese frosting thickly swirled on each cookie catching the light. DETAILS: the cookies have a moist, fluffy look with visible flecks of pumpkin spice and a glossy, creamy frosting finish, a light dusting of cinnamon powder sprinkled over, crumbs scattered naturally on the plate edges. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm amber tones, rich saturated colors highlighting the pumpkin orange and creamy white frosting, shallow macro depth of field, vertical 2:3. AVOID: no text, logos, hands, or people; no dull or flat colors; no steam or smoke.",
+        "img2": "SCENE: soft marble-toned background with bright, clean daylight streaming in from a nearby window. SUBJECT: a close-up reveal shot of a pumpkin cookie torn open to show the moist, tender crumb inside with a thick layer of cream cheese frosting oozing slightly from the center, the frosting’s creamy texture frozen mid-spread. DETAILS: the interior is glossy and moist with flecks of warm spices, the torn edges slightly crumbly, frosting crowned with a light cinnamon sprinkle, crumbs scattered gently below. STYLE: ultra-photorealistic professional food photography, bright daylight with warm golden hues, vivid saturated colors emphasizing the cookie’s orange and white frosting contrast, shallow macro depth of field, vertical 2:3. AVOID: no text, hands, or people; no flat or washed-out colors; no CGI or over-smoothing.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with a gentle side glow highlighting the food. SUBJECT: several pumpkin cookies arranged closely on a rustic wooden board, each topped with generous swirls of cream cheese frosting and a sprinkle of cinnamon, accompanied by a small bowl of extra frosting and a cinnamon stick resting nearby. DETAILS: intense wet glossy shine on frosting, deep amber caramelization on cookie edges, cinnamon dust settling into frosting creases, crumbs scattered naturally on the board. STYLE: ultra-photorealistic professional food photography, rich golden-amber warm color grade, highly saturated glowing appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, logos, hands, or people; no dull or flat colors; no steam or smoke."
+    },
+    "description": "These soft pumpkin cookies with rich cream cheese frosting are my go-to fall treat. The tender crumb and warm spices make them perfect for cozy afternoons or holiday dessert tables. You’ll love how easy they come together!",
+    "hashtags": "#PumpkinCookies #FallBaking #CreamCheeseFrosting",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Are These Soft Pumpkin Cookies the Ultimate Fall Treat?",
+            "description": "Discover the secret to these irresistibly soft pumpkin cookies topped with creamy frosting that melts in your mouth. Perfect for cozy fall days! 🍂 Save this for your next baking day. #PumpkinCookies #FallBaking #ComfortFood"
+        },
+        {
+            "title": "The One Trick That Makes Pumpkin Cookies Super Soft Every Time",
+            "description": "Want pumpkin cookies that are soft and fluffy? This simple tip guarantees moist, tender cookies with a luscious cream cheese frosting. 🎃 Tap to get the full recipe and impress your family! #PumpkinDesserts #EasyBaking #FallRecipes"
+        },
+        {
+            "title": "15-Minute Soft Pumpkin Cookies for Quick Fall Baking",
+            "description": "Pressed for time but craving fall flavors? These pumpkin cookies come together quickly with a creamy frosting finish. Perfect for busy weeknights or last-minute guests! 🍁 Save this recipe now. #QuickDesserts #PumpkinCookies #FallBaking"
+        },
+        {
+            "title": "Soft Pumpkin Cookies vs Classic Spice Cookies – Which Wins Your Heart?",
+            "description": "Love fall spices? See why these soft pumpkin cookies with cream cheese frosting might just beat your usual spice cookies. Rich, moist, and full of flavor! 🍂 Try them for your next dessert. #PumpkinCookies #FallTreats #BakingIdeas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 24,
+    "ingredients": [
+        "1 cup canned pumpkin puree",
+        "1/2 cup unsalted butter, softened",
+        "1 cup granulated sugar",
+        "1/2 cup brown sugar, packed",
+        "1 large egg",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1/4 teaspoon ground cloves",
+        "8 ounces cream cheese, softened",
+        "1/4 cup unsalted butter, softened (for frosting)",
+        "2 cups powdered sugar",
+        "1 teaspoon vanilla extract (for frosting)"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I first made these soft pumpkin cookies a few years ago when I wanted a cozy fall treat that felt homemade but didn’t take all day. What I love about this recipe is how tender and fluffy the cookies turn out, thanks to the pumpkin puree and a careful balance of spices. The cream cheese frosting is the perfect finishing touch, adding a rich, tangy sweetness that complements the warm spices beautifully. I’ve tried a few variations, but this one is my family’s favorite — they always ask for seconds! One trick that really makes a difference is beating the butter and sugars until fluffy before adding the pumpkin; it helps create that soft texture. When you bake these, expect a cookie that’s moist, tender, and full of autumn flavor, with a luscious frosting that melts in your mouth. They’re perfect for fall gatherings, holiday dessert tables, or just a comforting homemade treat on a chilly afternoon. I think you’ll find this recipe both approachable and rewarding, especially if you love classic fall flavors with a soft, comforting bite.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and line two baking sheets with parchment paper. This ensures your cookies bake evenly and don’t stick. Proper preheating is important to get the right texture and rise from the start, so don’t skip this step or rush it.",
+            "timing": 10,
+            "doneness_cue": "Oven fully preheated; baking sheets ready with parchment."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, beat together the softened butter, granulated sugar, and brown sugar until light and fluffy. This usually takes about 3-4 minutes with a hand or stand mixer. This step is key because it incorporates air into the dough, helping create a soft, tender cookie.",
+            "timing": 4,
+            "doneness_cue": "Mixture is pale, creamy, and slightly increased in volume."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the egg and vanilla extract to the butter-sugar mixture and beat until combined. Then mix in the pumpkin puree until fully incorporated. The pumpkin adds moisture and flavor, so make sure it’s well blended for even texture.",
+            "timing": 3,
+            "doneness_cue": "Batter is smooth and homogeneous with no streaks."
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, whisk together the flour, baking soda, baking powder, salt, cinnamon, nutmeg, and cloves. Sifting or whisking helps distribute the leavening agents and spices evenly, which is crucial for consistent flavor and rise.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are well combined with no clumps."
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually add the dry ingredients to the wet ingredients, mixing on low speed or stirring gently with a spatula. Avoid overmixing to keep the cookies tender and prevent a tough texture. Stop mixing as soon as the flour disappears.",
+            "timing": 3,
+            "doneness_cue": "Dough is uniform with no visible flour patches, slightly sticky."
+        },
+        {
+            "step": 6,
+            "instruction": "Scoop tablespoon-sized portions of dough onto the prepared baking sheets, spacing them about 2 inches apart to allow for spreading. Using a cookie scoop helps keep the size consistent, ensuring even baking.",
+            "timing": 5,
+            "doneness_cue": "Dough balls evenly spaced and rounded on the sheet."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the cookies for 12-15 minutes until the edges are set and lightly golden but the centers remain soft. Overbaking will dry them out, so start checking at 12 minutes. They should feel just firm enough to touch without sinking.",
+            "timing": 15,
+            "doneness_cue": "Edges are lightly golden; centers look set but soft."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the cookies from the oven and let them cool on the baking sheets for 5 minutes before transferring to a wire rack to cool completely. This resting time lets the cookies firm up and prevents breakage.",
+            "timing": 10,
+            "doneness_cue": "Cookies are cool enough to handle without breaking."
+        },
+        {
+            "step": 9,
+            "instruction": "To make the cream cheese frosting, beat together the softened cream cheese and butter until smooth and creamy. Gradually add the powdered sugar and vanilla extract, beating until fluffy. Frost the cooled cookies generously with a spoon or piping bag.",
+            "timing": 10,
+            "doneness_cue": "Frosting is smooth, fluffy, and easily spreadable."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Pumpkin Cookie Recipe Delivers Soft, Flavorful Results",
+        "content": "<p>These pumpkin cookies owe their soft, tender texture to a combination of well-balanced wet and dry ingredients and careful mixing techniques. The pumpkin puree adds moisture and natural sweetness, which keeps the cookies from drying out during baking. Additionally, beating the butter and sugars until fluffy incorporates air, which lightens the dough and helps create a delicate crumb.</p><p>The inclusion of both baking soda and baking powder ensures the cookies rise properly and develop a soft texture without becoming cakey or dense. The warm spices—cinnamon, nutmeg, and cloves—are evenly distributed through sifting, providing consistent autumnal flavor in every bite. Avoiding overmixing when combining wet and dry ingredients prevents gluten development, which can make cookies tough.</p><p>The cream cheese frosting adds a luscious, tangy contrast that complements the spices and pumpkin perfectly. Its smooth, creamy texture is achieved by beating the cream cheese and butter until silky before gradually adding powdered sugar, which keeps the frosting light and fluffy. Applying the frosting only after the cookies have cooled prevents melting and preserves its perfect consistency.</p><p>Overall, the recipe balances moisture, leavening, and spice to deliver cookies that are soft yet sturdy enough to hold their shape, with a rich, flavorful frosting that elevates the experience into a classic fall treat.</p>",
+        "ingredient_notes": {
+            "pumpkin puree": "Look for canned pumpkin puree labeled 100% pure pumpkin, not pumpkin pie filling which contains added sugars and spices. Pure pumpkin provides moisture and a subtle sweetness that keeps cookies tender. It’s important to use puree rather than fresh pumpkin as it has a consistent moisture level and texture, which ensures predictable results.",
+            "butter": "Use unsalted butter softened to room temperature for even creaming with sugars. Butter adds richness and flavor and helps create a tender crumb by coating flour proteins, limiting gluten development. Avoid melted butter here as it changes texture and spread.",
+            "all-purpose flour": "Standard all-purpose flour provides the right balance of protein for structure without making cookies tough. Measuring by spooning into the cup and leveling off prevents packing and too much flour, which can dry out cookies.",
+            "baking soda and baking powder": "Baking soda reacts with acidic pumpkin and brown sugar to help cookies rise and brown, while baking powder adds additional leavening for a soft, fluffy texture. Using both ensures the perfect balance of lift and tenderness.",
+            "cream cheese": "Full-fat cream cheese softened to room temperature is key for smooth, creamy frosting. It adds tang and richness that balances the sweetness of the cookies. Avoid low-fat varieties as they can be watery and affect texture.",
+            "spices": "Freshly ground cinnamon, nutmeg, and cloves provide warm, aromatic flavor. Using fresh spices rather than pre-mixed pumpkin spice allows you to control intensity and freshness, which makes a noticeable difference in the final taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Beat butter and sugars until fluffy before adding pumpkin.",
+            "reason": "This step incorporates air into the dough, which lightens the texture and helps the cookies rise properly. Skipping or rushing this step can lead to denser, less tender cookies."
+        },
+        {
+            "tip": "Sift dry spices with flour and leavening agents.",
+            "reason": "Sifting ensures even distribution of spices and leavening, preventing clumps that cause uneven flavor and texture. It also aerates the flour, contributing to a lighter cookie."
+        },
+        {
+            "tip": "Don’t overmix once flour is added.",
+            "reason": "Overmixing develops gluten, making cookies tough and chewy instead of soft and tender. Mix just until the flour disappears for the best texture."
+        },
+        {
+            "tip": "Use room temperature ingredients for smooth batter.",
+            "reason": "Room temperature butter, cream cheese, and eggs combine more easily, creating a uniform batter and frosting without lumps or separation."
+        },
+        {
+            "tip": "Cool cookies completely before frosting.",
+            "reason": "Frosting warm cookies causes it to melt and slide off, ruining the presentation and texture. Patience here ensures a beautiful, stable finish."
+        },
+        {
+            "tip": "Use a cookie scoop for consistent size.",
+            "reason": "Even-sized cookies bake uniformly, preventing some from burning while others remain undercooked."
+        },
+        {
+            "tip": "Store cookies in an airtight container with parchment layers.",
+            "reason": "This keeps cookies moist and prevents frosting from sticking together or melting, preserving texture and appearance."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using pumpkin pie filling instead of pure pumpkin puree.",
+            "why_it_happens": "Pumpkin pie filling is sometimes mistaken for pumpkin puree because it comes in a similar can and is labeled pumpkin. It contains added sugars and spices that can throw off the recipe balance.",
+            "fix": "Always use 100% pure pumpkin puree for baking. This ensures the right moisture and flavor without unexpected sweetness or spice. Check the label carefully before buying."
+        },
+        {
+            "mistake": "Overbaking cookies until they are hard.",
+            "why_it_happens": "It’s easy to leave cookies in the oven too long, especially if you like a golden look. However, pumpkin cookies are best soft and tender, which means removing them when edges are set but centers still soft.",
+            "fix": "Check cookies at the minimum bake time and remove as soon as edges set. They will continue to firm up on the baking sheet as they cool."
+        },
+        {
+            "mistake": "Mixing frosting onto warm cookies.",
+            "why_it_happens": "Impatience or not allowing cookies to cool fully leads to frosting melting and sliding off.",
+            "fix": "Wait until cookies are completely cooled on a wire rack before frosting to keep the frosting thick and stable."
+        },
+        {
+            "mistake": "Measuring flour incorrectly by packing it in the cup.",
+            "why_it_happens": "Scooping flour directly with a measuring cup compresses it, leading to too much flour and dry cookies.",
+            "fix": "Spoon flour into the measuring cup and level with a knife for accurate measurement and tender cookies."
+        },
+        {
+            "mistake": "Using cold butter or cream cheese.",
+            "why_it_happens": "Cold ingredients don’t incorporate well, causing lumps or uneven texture in dough and frosting.",
+            "fix": "Bring butter and cream cheese to room temperature before mixing for smooth, uniform results."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Pumpkin Cookies",
+            "description": "Swap all-purpose flour for a 1:1 gluten-free baking blend. Add 1/4 teaspoon xanthan gum if your blend lacks it. Expect a slightly different texture but still soft and flavorful cookies perfect for gluten-sensitive guests.",
+            "technical_note": "Gluten-free flour blends absorb moisture differently; you may need to adjust pumpkin puree slightly to keep dough moist."
+        },
+        {
+            "name": "Spiced Pumpkin Cookies with Chopped Pecans",
+            "description": "Add 1/2 cup chopped toasted pecans to the dough for a crunchy texture contrast and nutty flavor that complements the spices. This adds a delightful crunch and extra warmth to every bite.",
+            "technical_note": "Fold nuts gently into dough at the end to avoid overmixing."
+        },
+        {
+            "name": "Vegan Pumpkin Cookies",
+            "description": "Replace butter with vegan margarine and use a flax egg (1 tablespoon ground flaxseed + 3 tablespoons water) instead of a chicken egg. Use dairy-free cream cheese for frosting. The cookies remain soft with a slightly different but delicious flavor.",
+            "technical_note": "Flax eggs need a few minutes to gel before adding to batter; do not skip this step for proper binding."
+        },
+        {
+            "name": "Pumpkin Cookies with Maple Cream Cheese Frosting",
+            "description": "Swap vanilla in frosting for 2 tablespoons pure maple syrup for a rich, autumnal sweetness. This variation adds depth and a natural sweetness that pairs beautifully with pumpkin spices.",
+            "technical_note": "Reduce powdered sugar slightly if frosting becomes too runny with added syrup."
+        },
+        {
+            "name": "Pumpkin Cookies with White Chocolate Chips",
+            "description": "Fold 1 cup white chocolate chips into the dough before baking for pockets of sweet, creamy bites that contrast with the spicy pumpkin base. A crowd-pleaser variation for those who love a bit of extra indulgence.",
+            "technical_note": "Add chips last to avoid overmixing and melting."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "190 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "8g",
+        "fiber_grams": "1g",
+        "sodium_mg": "140mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cookies can be safely kept at room temperature in an airtight container for up to 2 days. Keep them away from direct sunlight or heat to prevent frosting from melting or cookies drying out.",
+        "refrigerator": "Store cookies in an airtight container layered with parchment paper in the fridge for up to 5 days. The frosting will firm up, and cookies may become slightly denser but remain delicious. Bring to room temperature before serving for best flavor.",
+        "freezer": "Freeze unfrosted cookies in a single layer on a baking sheet, then transfer to a freezer-safe bag or container for up to 3 months. Thaw overnight in the fridge or at room temperature. Frost after thawing for best results.",
+        "reheating": "Warm cookies gently in a 300°F oven for 5 minutes to refresh softness. Avoid microwaving with frosting as it may melt. Add a splash of milk to frosting if it becomes too thick when reheated.",
+        "make_ahead_strategy": "Bake cookies up to 2 days in advance and store unfrosted. Prepare frosting the day of serving and frost just before guests arrive to keep presentation fresh and frosting creamy."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh pumpkin instead of canned puree?",
+            "answer": "Yes, but fresh pumpkin should be cooked and pureed until smooth before using. It’s important to remove excess moisture by cooking down or draining to avoid soggy cookies. Canned pumpkin puree is more consistent and convenient."
+        },
+        {
+            "question": "How do I prevent cookies from spreading too much?",
+            "answer": "Make sure your butter is softened but not melted, and chill the dough for 30 minutes if it’s too warm. Also, avoid overmixing which can cause excess gluten formation and spreading."
+        },
+        {
+            "question": "Can I make these cookies gluten-free?",
+            "answer": "Absolutely! Use a 1:1 gluten-free baking flour blend and add xanthan gum if your blend doesn’t contain it. You may need to adjust moisture slightly, but the cookies will still be soft and tasty."
+        },
+        {
+            "question": "Why are my cookies dry or crumbly?",
+            "answer": "This often happens if too much flour is used or if cookies are overbaked. Measure flour carefully by spooning and leveling, and remove cookies from oven as soon as edges are set to avoid drying out."
+        },
+        {
+            "question": "How long can I store frosted cookies?",
+            "answer": "Frosted cookies keep well in the fridge for up to 5 days in an airtight container. Let them come to room temperature before eating for the best texture and flavor."
+        },
+        {
+            "question": "Can I freeze frosted cookies?",
+            "answer": "It’s best to freeze cookies unfrosted and add frosting after thawing. Frosting can become watery or separate if frozen and thawed."
+        },
+        {
+            "question": "What’s the best way to get soft cookies?",
+            "answer": "Use pumpkin puree for moisture, don’t overmix the dough, and bake just until edges set. Also, creaming butter and sugars well adds air that lightens texture."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips?",
+            "answer": "Yes! Fold in chopped nuts or chocolate chips at the end of mixing. This adds texture and flavor without changing the basic recipe."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and sharing these soft pumpkin cookies as much as my family does. They’re a cozy, delicious way to celebrate fall—let me know how your batch turns out!",
+    "seo": {
+        "primary_keyword": "fall cookie recipes pumpkin",
+        "secondary_keywords": [
+            "soft pumpkin cookies",
+            "pumpkin cookies with cream cheese frosting",
+            "how to make pumpkin cookies",
+            "best pumpkin cookie recipe",
+            "easy fall cookie recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "cream cheese frosting tips",
+                "anchor": "cream-cheese-frosting-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-19 14:19:58",
+        "title_seed": "fall cookie recipes pumpkin"
+    },
+    "author_id": "author_001",
+    "id": "post_1787149198_982",
+    "slug": "fall-cookie-recipes-pumpkin",
+    "uniqueSlug": "fall-cookie-recipes-pumpkin",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_1.webp",
+            "filePath": "posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_1.webp",
+            "relativePath": "fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_2.webp",
+            "filePath": "posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_2.webp",
+            "relativePath": "fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_3.webp",
+            "filePath": "posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_3.webp",
+            "relativePath": "fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_11.webp",
+            "filePath": "posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_11.webp",
+            "relativePath": "fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Easy Pumpkin Fall Cookies with Spiced Frosting | Ultimate Autumn Treat",
+            "description": "Enjoy the perfect fall cookie recipes pumpkin lovers crave with these soft, flavorful pumpkin cookies finished with a creamy spiced frosting. Ideal for cozy gatherings and seasonal baking, this simple recipe brings warm autumn spices and tender texture in every bite.",
+            "board_override": "Fall Cookie Recipes",
+            "source_keyword": "fall cookie recipes pumpkin",
+            "reference_pin": "https://www.pinterest.com/pin/609041549655230636/",
+            "reference_saves": 3,
+            "csv_exported": true
+        },
+        {
+            "fileName": "fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_12.webp",
+            "filePath": "posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_12.webp",
+            "relativePath": "fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Best Fall Pumpkin Cookie Recipes | Soft & Fluffy Autumn Treats | Easy Homemade Cookies",
+            "description": "Discover the best fall cookie recipes with pumpkin for soft, fluffy, and flavorful autumn treats. These easy homemade cookies blend real pumpkin puree with warm spices, perfect for holiday baking, cozy gatherings, or a sweet seasonal snack. Save this simple pumpkin cookie recipe to enjoy fall’s rich flavors every day",
+            "board_override": "Fall Cookie Recipes",
+            "source_keyword": "fall cookie recipes pumpkin",
+            "reference_pin": "https://www.pinterest.com/pin/63120832275951164/",
+            "reference_saves": 2,
+            "csv_exported": true
+        },
+        {
+            "fileName": "fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_13.webp",
+            "filePath": "posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_13.webp",
+            "relativePath": "fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "Ultimate Pumpkin Fall Cookies for Warm and Flavorful Autumn Treats",
+            "description": "Discover the best fall cookie recipes pumpkin lovers will adore with rich flavors and perfect texture. Ideal for cozy autumn gatherings, holiday baking, and seasonal dessert tables. Save this recipe to enjoy soft, spiced pumpkin cookies that capture the essence of fall.",
+            "board_override": "Fall Cookie Recipes",
+            "source_keyword": "fall cookie recipes pumpkin",
+            "reference_pin": "https://www.pinterest.com/pin/964262970255702421/",
+            "reference_saves": null,
+            "csv_exported": true
+        }
+    ],
+    "image": "fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_1.webp",
+    "image_path": "posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_1.webp",
+    "image_dir": "fall-cookie-recipes-pumpkin/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-19T14:19:58+00:00",
+    "updatedAt": "2026-08-19T14:19:58+00:00",
+    "pinterest_source_keyword": "fall cookie recipes pumpkin",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}
