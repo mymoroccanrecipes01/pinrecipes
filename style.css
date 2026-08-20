@@ -3081,5 +3081,86 @@ h2.story-headline::after { content: ''; position: absolute; bottom: -2px; left: 
 .conclusion p:last-child { margin: 0; }
 .back-to-top { position: fixed; bottom: 32px; right: 32px; width: 42px; height: 42px; background: #ff6d4d; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 18px; text-decoration: none; opacity: 0; pointer-events: none; transition: opacity .3s; box-shadow: 0 4px 12px rgba(255,109,77,.3); z-index: 99; }
 .back-to-top.show { opacity: 1; pointer-events: auto; }
+
+/* ── Homepage — Reader Favorites / Popular Categories / Latest by Category ────── */
+.best-posts, .popular-categories, .latest-by-category { padding: 50px 0; }
+.best-posts h2, .popular-categories h2 {
+    font-size: 28px; font-weight: bold; color: #333; margin-bottom: 28px; position: relative;
+}
+.best-posts h2::after, .popular-categories h2::after {
+    content: ''; position: absolute; right: 0; top: 50%; transform: translateY(-50%);
+    width: 20px; height: 20px; background: #ff6d4d; border-radius: 50%;
+}
+
+/* Card shared base */
+.hs-card {
+    display: flex; flex-direction: column; text-decoration: none; color: inherit;
+    background: #fff; border-radius: 12px; overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,.08); transition: transform .25s ease, box-shadow .25s ease;
+    flex: 0 0 auto;
+}
+.hs-card:hover { transform: translateY(-5px); box-shadow: 0 10px 28px rgba(0,0,0,.14); }
+.hs-card__img { position: relative; aspect-ratio: 4/3; overflow: hidden; }
+.hs-card__img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.hs-card__badge {
+    position: absolute; top: 10px; left: 10px; background: rgba(20,20,20,.78); color: #ffd166;
+    font-size: .78em; font-weight: 700; padding: 4px 9px; border-radius: 20px; letter-spacing: .2px;
+}
+.hs-card__badge small { color: #f1f1f1; font-weight: 500; margin-left: 2px; }
+.hs-card__body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 6px; }
+.hs-card__title { font-size: 1em; font-weight: 700; line-height: 1.3; color: #222; }
+.hs-card__desc { font-size: .84em; color: #666; line-height: 1.5; margin: 0; overflow: hidden; }
+
+/* Best posts — mobile: swipeable horizontal carousel; desktop: grid */
+.best-posts-row {
+    display: flex; gap: 16px; overflow-x: auto; padding: 4px 4px 14px;
+    scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;
+}
+.best-posts-row::-webkit-scrollbar { height: 6px; }
+.best-posts-row::-webkit-scrollbar-thumb { background: #ffd8cd; border-radius: 6px; }
+.hs-card--best { width: 74vw; max-width: 280px; scroll-snap-align: start; }
+@media (min-width: 768px) {
+    .best-posts-row {
+        display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        overflow-x: visible; padding: 0;
+    }
+    .hs-card--best { width: auto; max-width: none; }
+}
+
+/* Popular categories — richer card than the plain HOT CATEGORIES grid */
+.popular-categories-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; }
+.hs-cat-card {
+    display: flex; flex-direction: column; text-decoration: none; color: inherit;
+    background: #fff; border-radius: 12px; overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,.08); transition: transform .25s ease, box-shadow .25s ease;
+}
+.hs-cat-card:hover { transform: translateY(-5px); box-shadow: 0 10px 28px rgba(0,0,0,.14); }
+.hs-cat-card__img { position: relative; aspect-ratio: 16/9; background: #f1f1f1; }
+.hs-cat-card__img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.hs-cat-card__count {
+    position: absolute; bottom: 10px; left: 10px; background: rgba(255,109,77,.92); color: #fff;
+    font-size: .76em; font-weight: 700; padding: 4px 10px; border-radius: 20px;
+}
+.hs-cat-card__body { padding: 14px 16px 16px; }
+.hs-cat-card__body h3 { margin: 0 0 6px; font-size: 1.05em; color: #222; }
+.hs-cat-card__body p { margin: 0; font-size: .82em; color: #666; line-height: 1.5; }
+
+/* Latest by category — stacked groups with compact rows */
+.latest-by-category { background: #f8f9fa; }
+.hs-latest-group { margin-bottom: 34px; }
+.hs-latest-group:last-child { margin-bottom: 0; }
+.hs-latest-group__head { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 16px; gap: 12px; }
+.hs-latest-group__head h3 { font-size: 1.25em; color: #333; margin: 0; }
+.hs-latest-group__more { color: #ff6d4d; font-weight: 600; font-size: .88em; text-decoration: none; white-space: nowrap; }
+.hs-latest-group__more:hover { text-decoration: underline; }
+.hs-latest-group__row { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px; }
+.hs-card--compact .hs-card__body { padding: 10px 12px 12px; }
+.hs-card--compact .hs-card__title { font-size: .92em; }
+.hs-card--compact .hs-card__desc { display: none; }
+
+@media (max-width: 600px) {
+    .best-posts, .popular-categories, .latest-by-category { padding: 36px 0; }
+    .hs-latest-group__row { grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); }
+}
 .logo img { width: 13%; }
 @media (max-width: 640px) { .recipe-title { font-size: 1.55em; } section.recipe-detail { padding: 0 16px 40px; } .nutrition-grid { grid-template-columns: repeat(3, 1fr); } }

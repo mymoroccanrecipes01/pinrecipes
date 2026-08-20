@@ -239,6 +239,11 @@ window.initHomePageFeatures = function() {
     
     // Animation des cartes au scroll
     animateCardsOnScroll();
+
+    // Sections dynamiques (Best posts / Popular categories / Latest by category)
+    if (typeof window.initHomeSections === 'function') {
+        window.initHomeSections();
+    }
 };
 
 // Animer les cartes au scroll

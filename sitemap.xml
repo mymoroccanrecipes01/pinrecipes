@@ -4,7 +4,7 @@
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15760,7 +15760,7 @@
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/crockpot-lasagna-soup-healthy/</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -15787,6 +15787,12 @@
       <image:loc>https://pinrecipes.lummyrecipes.com/posts/crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_13.webp</image:loc>
       <image:title>Healthy Crockpot Lasagna Soup Recipe That’s Perfect for Cozy Weeknights</image:title>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_crockpot-lasagna-soup-healthy_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Healthy Crockpot Lasagna Soup Recipe That’s Perfect for Cozy Weeknights</video:title>
+      <video:description>This healthy crockpot lasagna soup is a cozy, comforting bowl of Italian flavors without the fuss. Using lean ground turkey and whole wheat noodles keeps it light but satisfying. Perfect for chilly nights when you want something warm and simple.</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/crockpot-lasagna-soup-healthy/images/crockpot-lasagna-soup-healthy_reel.mp4</video:content_loc>
+    </video:video>
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/crunchy-air-fryer-pasta-chips-that-make-snacking-fun-and-easy/</loc>
@@ -22572,6 +22578,42 @@
       <video:title>Easy Fall Dinner Ideas Kid Friendly for Cozy Family Nights</video:title>
       <video:description>This kid-friendly fall dinner is all about simple, cozy flavors that everyone loves. Tender roasted chicken with crispy skin pairs perfectly with sweet roasted potatoes and buttery green beans. Great for family dinners any chilly evening!</video:description>
       <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/easy-fall-dinner-ideas-kid-friendly-for-cozy-family-nights/images/easy-fall-dinner-ideas-kid-friendly-for-cozy-family-nights_reel.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/easy-fall-dinner-recipes-healthy/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/easy-fall-dinner-recipes-healthy/images/easy-fall-dinner-recipes-healthy_easy-fall-dinner-recipes-healthy_pinrecipes_image_1.webp</image:loc>
+      <image:title>Easy Fall Dinner Recipes Healthy: Creamy Pumpkin Spinach Lasagna You’ll Love</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/easy-fall-dinner-recipes-healthy/images/easy-fall-dinner-recipes-healthy_easy-fall-dinner-recipes-healthy_pinrecipes_image_2.webp</image:loc>
+      <image:title>Easy Fall Dinner Recipes Healthy: Creamy Pumpkin Spinach Lasagna You’ll Love</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/easy-fall-dinner-recipes-healthy/images/easy-fall-dinner-recipes-healthy_easy-fall-dinner-recipes-healthy_pinrecipes_image_3.webp</image:loc>
+      <image:title>Easy Fall Dinner Recipes Healthy: Creamy Pumpkin Spinach Lasagna You’ll Love</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/easy-fall-dinner-recipes-healthy/images/easy-fall-dinner-recipes-healthy_easy-fall-dinner-recipes-healthy_pinrecipes_image_11.webp</image:loc>
+      <image:title>Easy Fall Dinner Recipes Healthy: Creamy Pumpkin Spinach Lasagna You’ll Love</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/easy-fall-dinner-recipes-healthy/images/easy-fall-dinner-recipes-healthy_easy-fall-dinner-recipes-healthy_pinrecipes_image_12.webp</image:loc>
+      <image:title>Easy Fall Dinner Recipes Healthy: Creamy Pumpkin Spinach Lasagna You’ll Love</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/easy-fall-dinner-recipes-healthy/images/easy-fall-dinner-recipes-healthy_easy-fall-dinner-recipes-healthy_pinrecipes_image_13.webp</image:loc>
+      <image:title>Easy Fall Dinner Recipes Healthy: Creamy Pumpkin Spinach Lasagna You’ll Love</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/easy-fall-dinner-recipes-healthy/images/easy-fall-dinner-recipes-healthy_easy-fall-dinner-recipes-healthy_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Easy Fall Dinner Recipes Healthy: Creamy Pumpkin Spinach Lasagna You’ll Love</video:title>
+      <video:description>This creamy pumpkin spinach lasagna is my go-to for a cozy yet healthy fall dinner. The pumpkin adds a subtle sweetness that pairs beautifully with fresh spinach and creamy ricotta. Perfect for busy weeknights when you want something comforting but nourishing.</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/easy-fall-dinner-recipes-healthy/images/easy-fall-dinner-recipes-healthy_reel.mp4</video:content_loc>
     </video:video>
   </url>
   <url>
@@ -31645,6 +31687,42 @@
     </video:video>
   </url>
   <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/easy-simple-ideas-for-dinner/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_1.webp</image:loc>
+      <image:title>Easy Cheesy Ground Beef and Rice Casserole for Simple Weeknight Dinners</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_2.webp</image:loc>
+      <image:title>Easy Cheesy Ground Beef and Rice Casserole for Simple Weeknight Dinners</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_3.webp</image:loc>
+      <image:title>Easy Cheesy Ground Beef and Rice Casserole for Simple Weeknight Dinners</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_11.webp</image:loc>
+      <image:title>Easy Cheesy Ground Beef and Rice Casserole for Simple Weeknight Dinners</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_12.webp</image:loc>
+      <image:title>Easy Cheesy Ground Beef and Rice Casserole for Simple Weeknight Dinners</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_13.webp</image:loc>
+      <image:title>Easy Cheesy Ground Beef and Rice Casserole for Simple Weeknight Dinners</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Easy Cheesy Ground Beef and Rice Casserole for Simple Weeknight Dinners</video:title>
+      <video:description>This cheesy ground beef and rice casserole is my go-to for busy weeknights when I want something hearty but simple. The creamy cheese sauce and tender rice make it feel like comfort food without fuss. Perfect for family dinners!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_reel.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -35065,6 +35143,210 @@
     </video:video>
   </url>
   <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-allrecipes/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-allrecipes/images/fall-cookie-recipes-allrecipes_fall-cookie-recipes-allrecipes_pinrecipes_image_1.webp</image:loc>
+      <image:title>Cozy Fall Cookie Recipes Allrecipes: Warm Pumpkin, Maple &amp; Cinnamon Treats</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-allrecipes/images/fall-cookie-recipes-allrecipes_fall-cookie-recipes-allrecipes_pinrecipes_image_2.webp</image:loc>
+      <image:title>Cozy Fall Cookie Recipes Allrecipes: Warm Pumpkin, Maple &amp; Cinnamon Treats</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-allrecipes/images/fall-cookie-recipes-allrecipes_fall-cookie-recipes-allrecipes_pinrecipes_image_3.webp</image:loc>
+      <image:title>Cozy Fall Cookie Recipes Allrecipes: Warm Pumpkin, Maple &amp; Cinnamon Treats</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-allrecipes/images/fall-cookie-recipes-allrecipes_fall-cookie-recipes-allrecipes_pinrecipes_image_11.webp</image:loc>
+      <image:title>Cozy Fall Cookie Recipes Allrecipes: Warm Pumpkin, Maple &amp; Cinnamon Treats</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-allrecipes/images/fall-cookie-recipes-allrecipes_fall-cookie-recipes-allrecipes_pinrecipes_image_12.webp</image:loc>
+      <image:title>Cozy Fall Cookie Recipes Allrecipes: Warm Pumpkin, Maple &amp; Cinnamon Treats</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-allrecipes/images/fall-cookie-recipes-allrecipes_fall-cookie-recipes-allrecipes_pinrecipes_image_13.webp</image:loc>
+      <image:title>Cozy Fall Cookie Recipes Allrecipes: Warm Pumpkin, Maple &amp; Cinnamon Treats</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-allrecipes/images/fall-cookie-recipes-allrecipes_fall-cookie-recipes-allrecipes_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Cozy Fall Cookie Recipes Allrecipes: Warm Pumpkin, Maple &amp; Cinnamon Treats</video:title>
+      <video:description>These cozy fall cookie recipes from Allrecipes bring together the best of pumpkin, maple, and cinnamon flavors for a perfect autumn treat. I love how the warm spices and gooey caramel bits make every bite feel like a hug on a chilly day. Great for sharing at holiday gatherings or enjoying with a cup of tea.</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-allrecipes/images/fall-cookie-recipes-allrecipes_reel.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-for-kids/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-for-kids/images/fall-cookie-recipes-for-kids_fall-cookie-recipes-for-kids_pinrecipes_image_1.webp</image:loc>
+      <image:title>Easy Fall Cookie Recipes for Kids That Are Perfect for Halloween Baking Fun</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-for-kids/images/fall-cookie-recipes-for-kids_fall-cookie-recipes-for-kids_pinrecipes_image_2.webp</image:loc>
+      <image:title>Easy Fall Cookie Recipes for Kids That Are Perfect for Halloween Baking Fun</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-for-kids/images/fall-cookie-recipes-for-kids_fall-cookie-recipes-for-kids_pinrecipes_image_3.webp</image:loc>
+      <image:title>Easy Fall Cookie Recipes for Kids That Are Perfect for Halloween Baking Fun</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-for-kids/images/fall-cookie-recipes-for-kids_fall-cookie-recipes-for-kids_pinrecipes_image_11.webp</image:loc>
+      <image:title>Easy Fall Cookie Recipes for Kids That Are Perfect for Halloween Baking Fun</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-for-kids/images/fall-cookie-recipes-for-kids_fall-cookie-recipes-for-kids_pinrecipes_image_12.webp</image:loc>
+      <image:title>Easy Fall Cookie Recipes for Kids That Are Perfect for Halloween Baking Fun</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-for-kids/images/fall-cookie-recipes-for-kids_fall-cookie-recipes-for-kids_pinrecipes_image_13.webp</image:loc>
+      <image:title>Easy Fall Cookie Recipes for Kids That Are Perfect for Halloween Baking Fun</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-for-kids/images/fall-cookie-recipes-for-kids_fall-cookie-recipes-for-kids_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Easy Fall Cookie Recipes for Kids That Are Perfect for Halloween Baking Fun</video:title>
+      <video:description>These fall cookie recipes for kids are a fun way to celebrate Halloween with buttery, soft cookies shaped like pumpkins and ghosts. I love how the warm spices and creamy buttercream make them extra special. Perfect for baking with the little ones on a crisp autumn afternoon!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-for-kids/images/fall-cookie-recipes-for-kids_reel.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-healthy/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-healthy/images/fall-cookie-recipes-healthy_fall-cookie-recipes-healthy_pinrecipes_image_1.webp</image:loc>
+      <image:title>Healthy Fall Cookie Recipes with Warm Spices and Maple Sweetness</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-healthy/images/fall-cookie-recipes-healthy_fall-cookie-recipes-healthy_pinrecipes_image_2.webp</image:loc>
+      <image:title>Healthy Fall Cookie Recipes with Warm Spices and Maple Sweetness</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-healthy/images/fall-cookie-recipes-healthy_fall-cookie-recipes-healthy_pinrecipes_image_3.webp</image:loc>
+      <image:title>Healthy Fall Cookie Recipes with Warm Spices and Maple Sweetness</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-healthy/images/fall-cookie-recipes-healthy_fall-cookie-recipes-healthy_pinrecipes_image_11.webp</image:loc>
+      <image:title>Healthy Fall Cookie Recipes with Warm Spices and Maple Sweetness</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-healthy/images/fall-cookie-recipes-healthy_fall-cookie-recipes-healthy_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Healthy Fall Cookie Recipes with Warm Spices and Maple Sweetness</video:title>
+      <video:description>These healthy fall cookie recipes bring cozy warmth with maple syrup and chai spices, making them a perfect treat for autumn afternoons. Soft, chewy, and lightly sweetened, they're a wholesome snack you’ll want to bake again and again.</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-healthy/images/fall-cookie-recipes-healthy_reel.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-pumpkin/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_1.webp</image:loc>
+      <image:title>Soft Pumpkin Cookies with Cream Cheese Frosting for Cozy Fall Baking</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_2.webp</image:loc>
+      <image:title>Soft Pumpkin Cookies with Cream Cheese Frosting for Cozy Fall Baking</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_3.webp</image:loc>
+      <image:title>Soft Pumpkin Cookies with Cream Cheese Frosting for Cozy Fall Baking</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_11.webp</image:loc>
+      <image:title>Soft Pumpkin Cookies with Cream Cheese Frosting for Cozy Fall Baking</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_12.webp</image:loc>
+      <image:title>Soft Pumpkin Cookies with Cream Cheese Frosting for Cozy Fall Baking</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_13.webp</image:loc>
+      <image:title>Soft Pumpkin Cookies with Cream Cheese Frosting for Cozy Fall Baking</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_fall-cookie-recipes-pumpkin_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Soft Pumpkin Cookies with Cream Cheese Frosting for Cozy Fall Baking</video:title>
+      <video:description>These soft pumpkin cookies with rich cream cheese frosting are my go-to fall treat. The tender crumb and warm spices make them perfect for cozy afternoons or holiday dessert tables. You’ll love how easy they come together!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-pumpkin/images/fall-cookie-recipes-pumpkin_reel.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-without-pumpkin/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-without-pumpkin/images/fall-cookie-recipes-without-pumpkin_fall-cookie-recipes-without-pumpkin_pinrecipes_image_1.webp</image:loc>
+      <image:title>Irresistible Fall Cookie Recipes Without Pumpkin That Everyone Will Love</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-without-pumpkin/images/fall-cookie-recipes-without-pumpkin_fall-cookie-recipes-without-pumpkin_pinrecipes_image_2.webp</image:loc>
+      <image:title>Irresistible Fall Cookie Recipes Without Pumpkin That Everyone Will Love</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-without-pumpkin/images/fall-cookie-recipes-without-pumpkin_fall-cookie-recipes-without-pumpkin_pinrecipes_image_3.webp</image:loc>
+      <image:title>Irresistible Fall Cookie Recipes Without Pumpkin That Everyone Will Love</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-without-pumpkin/images/fall-cookie-recipes-without-pumpkin_fall-cookie-recipes-without-pumpkin_pinrecipes_image_11.webp</image:loc>
+      <image:title>Irresistible Fall Cookie Recipes Without Pumpkin That Everyone Will Love</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-without-pumpkin/images/fall-cookie-recipes-without-pumpkin_fall-cookie-recipes-without-pumpkin_pinrecipes_image_12.webp</image:loc>
+      <image:title>Irresistible Fall Cookie Recipes Without Pumpkin That Everyone Will Love</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-without-pumpkin/images/fall-cookie-recipes-without-pumpkin_fall-cookie-recipes-without-pumpkin_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Irresistible Fall Cookie Recipes Without Pumpkin That Everyone Will Love</video:title>
+      <video:description>These fall cookie recipes without pumpkin are my go-to when I want cozy, rich treats without the usual squash flavor. The salted brownie cookies have this perfect balance of fudgy and crackly with a sprinkle of sea salt that makes them addictive. Great for sharing at autumn gatherings or just with your afternoon coffee!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/fall-cookie-recipes-without-pumpkin/images/fall-cookie-recipes-without-pumpkin_reel.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/fall-dinner-ideas-for-two/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-dinner-ideas-for-two/images/fall-dinner-ideas-for-two_fall-dinner-ideas-for-two_pinrecipes_image_1.webp</image:loc>
+      <image:title>Cozy Fall Dinner Ideas for Two Featuring Creamy Roasted Apple Pumpkin Soup</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-dinner-ideas-for-two/images/fall-dinner-ideas-for-two_fall-dinner-ideas-for-two_pinrecipes_image_2.webp</image:loc>
+      <image:title>Cozy Fall Dinner Ideas for Two Featuring Creamy Roasted Apple Pumpkin Soup</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-dinner-ideas-for-two/images/fall-dinner-ideas-for-two_fall-dinner-ideas-for-two_pinrecipes_image_3.webp</image:loc>
+      <image:title>Cozy Fall Dinner Ideas for Two Featuring Creamy Roasted Apple Pumpkin Soup</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-dinner-ideas-for-two/images/fall-dinner-ideas-for-two_fall-dinner-ideas-for-two_pinrecipes_image_11.webp</image:loc>
+      <image:title>Cozy Fall Dinner Ideas for Two Featuring Creamy Roasted Apple Pumpkin Soup</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-dinner-ideas-for-two/images/fall-dinner-ideas-for-two_fall-dinner-ideas-for-two_pinrecipes_image_12.webp</image:loc>
+      <image:title>Cozy Fall Dinner Ideas for Two Featuring Creamy Roasted Apple Pumpkin Soup</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fall-dinner-ideas-for-two/images/fall-dinner-ideas-for-two_fall-dinner-ideas-for-two_pinrecipes_image_13.webp</image:loc>
+      <image:title>Cozy Fall Dinner Ideas for Two Featuring Creamy Roasted Apple Pumpkin Soup</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/fall-dinner-ideas-for-two/images/fall-dinner-ideas-for-two_fall-dinner-ideas-for-two_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Cozy Fall Dinner Ideas for Two Featuring Creamy Roasted Apple Pumpkin Soup</video:title>
+      <video:description>This creamy roasted apple pumpkin soup is the perfect cozy fall dinner for two. The blend of sweet caramelized apples with smoky paprika and rich pumpkin makes it irresistibly comforting. It’s quick to make and ideal for chilly evenings!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/fall-dinner-ideas-for-two/images/fall-dinner-ideas-for-two_reel.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/family-favorite-slow-cooker-corned-beef-and-cabbage-that-melts-in-your-mouth/</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -35993,6 +36275,114 @@
       <image:loc>https://pinrecipes.lummyrecipes.com/posts/festive-easter-lamb-cake-that-brings-joy-to-your-table/images/festive-easter-lamb-cake-that-brings-joy-to-your-table_pinrecipes_image_4.webp</image:loc>
       <image:title>Festive Easter Lamb Cake That Brings Joy to Your Table</image:title>
     </image:image>
+  </url>
+  <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe/images/fire-cider-recipe_fire-cider-recipe_pinrecipes_image_1.webp</image:loc>
+      <image:title>Homemade Fire Cider Recipe with Ginger, Garlic, and Apple Cider Vinegar for Natural Wellness</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe/images/fire-cider-recipe_fire-cider-recipe_pinrecipes_image_2.webp</image:loc>
+      <image:title>Homemade Fire Cider Recipe with Ginger, Garlic, and Apple Cider Vinegar for Natural Wellness</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe/images/fire-cider-recipe_fire-cider-recipe_pinrecipes_image_3.webp</image:loc>
+      <image:title>Homemade Fire Cider Recipe with Ginger, Garlic, and Apple Cider Vinegar for Natural Wellness</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe/images/fire-cider-recipe_fire-cider-recipe_pinrecipes_image_11.webp</image:loc>
+      <image:title>Homemade Fire Cider Recipe with Ginger, Garlic, and Apple Cider Vinegar for Natural Wellness</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe/images/fire-cider-recipe_fire-cider-recipe_pinrecipes_image_12.webp</image:loc>
+      <image:title>Homemade Fire Cider Recipe with Ginger, Garlic, and Apple Cider Vinegar for Natural Wellness</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe/images/fire-cider-recipe_fire-cider-recipe_pinrecipes_image_13.webp</image:loc>
+      <image:title>Homemade Fire Cider Recipe with Ginger, Garlic, and Apple Cider Vinegar for Natural Wellness</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe/images/fire-cider-recipe_fire-cider-recipe_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Homemade Fire Cider Recipe with Ginger, Garlic, and Apple Cider Vinegar for Natural Wellness</video:title>
+      <video:description>This homemade fire cider is a zesty herbal tonic that packs a punch with fresh ginger, garlic, and apple cider vinegar. It’s a simple natural remedy that’s perfect for boosting immunity during cold seasons or anytime you need a little extra wellness kick.</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe/images/fire-cider-recipe_reel.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-benefits/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-benefits/images/fire-cider-recipe-benefits_fire-cider-recipe-benefits_pinrecipes_image_1.webp</image:loc>
+      <image:title>Discover the Powerful Fire Cider Recipe Benefits for Natural Immunity Boosts</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-benefits/images/fire-cider-recipe-benefits_fire-cider-recipe-benefits_pinrecipes_image_2.webp</image:loc>
+      <image:title>Discover the Powerful Fire Cider Recipe Benefits for Natural Immunity Boosts</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-benefits/images/fire-cider-recipe-benefits_fire-cider-recipe-benefits_pinrecipes_image_3.webp</image:loc>
+      <image:title>Discover the Powerful Fire Cider Recipe Benefits for Natural Immunity Boosts</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-benefits/images/fire-cider-recipe-benefits_fire-cider-recipe-benefits_pinrecipes_image_11.webp</image:loc>
+      <image:title>Discover the Powerful Fire Cider Recipe Benefits for Natural Immunity Boosts</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-benefits/images/fire-cider-recipe-benefits_fire-cider-recipe-benefits_pinrecipes_image_12.webp</image:loc>
+      <image:title>Discover the Powerful Fire Cider Recipe Benefits for Natural Immunity Boosts</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-benefits/images/fire-cider-recipe-benefits_fire-cider-recipe-benefits_pinrecipes_image_13.webp</image:loc>
+      <image:title>Discover the Powerful Fire Cider Recipe Benefits for Natural Immunity Boosts</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-benefits/images/fire-cider-recipe-benefits_fire-cider-recipe-benefits_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Discover the Powerful Fire Cider Recipe Benefits for Natural Immunity Boosts</video:title>
+      <video:description>This fire cider recipe is a zesty herbal tonic packed with fresh ginger, garlic, and apple cider vinegar. It’s my go-to for a natural immunity boost during cold season. Just let it steep and enjoy a spoonful daily!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-benefits/images/fire-cider-recipe-benefits_reel.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-ingredients/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-ingredients/images/fire-cider-recipe-ingredients_fire-cider-recipe-ingredients_pinrecipes_image_1.webp</image:loc>
+      <image:title>Homemade Fire Cider Recipe Ingredients for a Bold Natural Wellness Tonic</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-ingredients/images/fire-cider-recipe-ingredients_fire-cider-recipe-ingredients_pinrecipes_image_2.webp</image:loc>
+      <image:title>Homemade Fire Cider Recipe Ingredients for a Bold Natural Wellness Tonic</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-ingredients/images/fire-cider-recipe-ingredients_fire-cider-recipe-ingredients_pinrecipes_image_3.webp</image:loc>
+      <image:title>Homemade Fire Cider Recipe Ingredients for a Bold Natural Wellness Tonic</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-ingredients/images/fire-cider-recipe-ingredients_fire-cider-recipe-ingredients_pinrecipes_image_11.webp</image:loc>
+      <image:title>Homemade Fire Cider Recipe Ingredients for a Bold Natural Wellness Tonic</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-ingredients/images/fire-cider-recipe-ingredients_fire-cider-recipe-ingredients_pinrecipes_image_12.webp</image:loc>
+      <image:title>Homemade Fire Cider Recipe Ingredients for a Bold Natural Wellness Tonic</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-ingredients/images/fire-cider-recipe-ingredients_fire-cider-recipe-ingredients_pinrecipes_image_13.webp</image:loc>
+      <image:title>Homemade Fire Cider Recipe Ingredients for a Bold Natural Wellness Tonic</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-ingredients/images/fire-cider-recipe-ingredients_fire-cider-recipe-ingredients_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Homemade Fire Cider Recipe Ingredients for a Bold Natural Wellness Tonic</video:title>
+      <video:description>This homemade fire cider recipe is a zesty herbal tonic packed with fresh ginger, garlic, hot peppers, and apple cider vinegar. It’s perfect for boosting immunity and adding a spicy kick to your day. I love making a batch every fall to keep on hand during cold season!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/fire-cider-recipe-ingredients/images/fire-cider-recipe-ingredients_reel.mp4</video:content_loc>
+    </video:video>
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/flourless-low-calorie-chocolate-avocado-brownies-with-sea-salt-that-actually-taste-amazing/</loc>
@@ -44406,7 +44796,7 @@
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup/</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -44433,10 +44823,16 @@
       <image:loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup/images/lasagna-soup_lasagna-soup_pinrecipes_image_13.webp</image:loc>
       <image:title>Easy One-Pot Lasagna Soup Recipe for Cozy Weeknight Dinners</image:title>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup/images/lasagna-soup_lasagna-soup_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Easy One-Pot Lasagna Soup Recipe for Cozy Weeknight Dinners</video:title>
+      <video:description>This one-pot lasagna soup is the perfect cozy dinner when you want all the flavors of classic lasagna without the fuss. It’s loaded with tender pasta, savory beef, and melty cheese, simmered in a rich tomato broth. Great for chilly nights or busy evenings!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup/images/lasagna-soup_reel.mp4</video:content_loc>
+    </video:video>
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-recipe/</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -44463,6 +44859,12 @@
       <image:loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-recipe/images/lasagna-soup-recipe_lasagna-soup-recipe_pinrecipes_image_13.webp</image:loc>
       <image:title>Easy Lasagna Soup Recipe with Creamy Ricotta and Melty Mozzarella for Cozy Nights</image:title>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-recipe/images/lasagna-soup-recipe_lasagna-soup-recipe_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Easy Lasagna Soup Recipe with Creamy Ricotta and Melty Mozzarella for Cozy Nights</video:title>
+      <video:description>This lasagna soup recipe is pure comfort in a bowl—rich tomato broth, tender noodles, and creamy ricotta come together in a cozy, easy-to-make meal. I love how the melty mozzarella on top adds that perfect cheesy finish. Great for chilly weeknights or anytime you crave classic Italian flavors.</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-recipe/images/lasagna-soup-recipe_reel.mp4</video:content_loc>
+    </video:video>
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-recipe-australia-easy-comfort-food-with-classic-italian-flavors/</loc>
@@ -44642,7 +45044,7 @@
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-recipe-instant-pot/</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -44669,10 +45071,16 @@
       <image:loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_13.webp</image:loc>
       <image:title>Easy Instant Pot Lasagna Soup Recipe for Cozy Family Dinners</image:title>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_lasagna-soup-recipe-instant-pot_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Easy Instant Pot Lasagna Soup Recipe for Cozy Family Dinners</video:title>
+      <video:description>Easy Instant Pot Lasagna Soup Recipe for Cozy Family Dinners</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-recipe-instant-pot/images/lasagna-soup-recipe-instant-pot_reel.mp4</video:content_loc>
+    </video:video>
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-recipe-tiktok/</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -44699,10 +45107,16 @@
       <image:loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-recipe-tiktok/images/lasagna-soup-recipe-tiktok_lasagna-soup-recipe-tiktok_pinrecipes_image_13.webp</image:loc>
       <image:title>Easy Lasagna Soup Recipe TikTok Fans Can't Stop Making Tonight</image:title>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-recipe-tiktok/images/lasagna-soup-recipe-tiktok_lasagna-soup-recipe-tiktok_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Easy Lasagna Soup Recipe TikTok Fans Can't Stop Making Tonight</video:title>
+      <video:description>This lasagna soup recipe TikTok made famous is a cozy, comforting twist on classic lasagna that’s surprisingly easy to whip up. The secret's in the creamy ricotta and fresh basil topping that brings it all together. Perfect for a chilly night dinner!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-recipe-tiktok/images/lasagna-soup-recipe-tiktok_reel.mp4</video:content_loc>
+    </video:video>
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-vegetarian/</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -44729,6 +45143,12 @@
       <image:loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-vegetarian/images/lasagna-soup-vegetarian_lasagna-soup-vegetarian_pinrecipes_image_13.webp</image:loc>
       <image:title>Cozy Vegetarian Lasagna Soup with Rich Tomato and Creamy Ricotta</image:title>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-vegetarian/images/lasagna-soup-vegetarian_lasagna-soup-vegetarian_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Cozy Vegetarian Lasagna Soup with Rich Tomato and Creamy Ricotta</video:title>
+      <video:description>This vegetarian lasagna soup is a comforting bowl of rich tomato broth, tender pasta, and creamy ricotta that feels like a warm hug on chilly nights. I love how the fresh basil adds a bright pop of flavor. Perfect for an easy weeknight dinner!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/lasagna-soup-vegetarian/images/lasagna-soup-vegetarian_reel.mp4</video:content_loc>
+    </video:video>
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/leftover-makeover-transforming-last-night-s-dinner-into-a-flavor-packed-new-meal/</loc>
@@ -48693,6 +49113,42 @@
     </image:image>
   </url>
   <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/non-alcoholic-mocktail-ingredients/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/non-alcoholic-mocktail-ingredients/images/non-alcoholic-mocktail-ingredients_non-alcoholic-mocktail-ingredients_pinrecipes_image_1.webp</image:loc>
+      <image:title>Easy Non Alcoholic Mocktail Ingredients for Refreshing Summer Drinks</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/non-alcoholic-mocktail-ingredients/images/non-alcoholic-mocktail-ingredients_non-alcoholic-mocktail-ingredients_pinrecipes_image_2.webp</image:loc>
+      <image:title>Easy Non Alcoholic Mocktail Ingredients for Refreshing Summer Drinks</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/non-alcoholic-mocktail-ingredients/images/non-alcoholic-mocktail-ingredients_non-alcoholic-mocktail-ingredients_pinrecipes_image_3.webp</image:loc>
+      <image:title>Easy Non Alcoholic Mocktail Ingredients for Refreshing Summer Drinks</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/non-alcoholic-mocktail-ingredients/images/non-alcoholic-mocktail-ingredients_non-alcoholic-mocktail-ingredients_pinrecipes_image_11.webp</image:loc>
+      <image:title>Easy Non Alcoholic Mocktail Ingredients for Refreshing Summer Drinks</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/non-alcoholic-mocktail-ingredients/images/non-alcoholic-mocktail-ingredients_non-alcoholic-mocktail-ingredients_pinrecipes_image_12.webp</image:loc>
+      <image:title>Easy Non Alcoholic Mocktail Ingredients for Refreshing Summer Drinks</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/non-alcoholic-mocktail-ingredients/images/non-alcoholic-mocktail-ingredients_non-alcoholic-mocktail-ingredients_pinrecipes_image_13.webp</image:loc>
+      <image:title>Easy Non Alcoholic Mocktail Ingredients for Refreshing Summer Drinks</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/non-alcoholic-mocktail-ingredients/images/non-alcoholic-mocktail-ingredients_non-alcoholic-mocktail-ingredients_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Easy Non Alcoholic Mocktail Ingredients for Refreshing Summer Drinks</video:title>
+      <video:description>Refreshing and easy non alcoholic mocktail ingredients that bring summer vibes to any gathering. I love using fresh citrus and sparkling water for a bubbly lift. Perfect for backyard BBQs or casual brunches with friends.</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/non-alcoholic-mocktail-ingredients/images/non-alcoholic-mocktail-ingredients_reel.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/one-bowl-banana-bread-recipe-no-mixer-needed/</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -51964,7 +52420,7 @@
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-bread/</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -51991,6 +52447,12 @@
       <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-bread/images/pumpkin-bread_pumpkin-bread_pinrecipes_image_13.webp</image:loc>
       <image:title>Perfect Fall Pumpkin Bread Recipe with Cinnamon Sugar Swirl for Cozy Mornings</image:title>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-bread/images/pumpkin-bread_pumpkin-bread_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Perfect Fall Pumpkin Bread Recipe with Cinnamon Sugar Swirl for Cozy Mornings</video:title>
+      <video:description>This pumpkin bread is pure autumn comfort with a moist crumb and a sweet cinnamon sugar swirl that makes every bite special. I love baking it for chilly mornings when a warm slice with butter hits just right. It’s perfect for sharing or keeping all to yourself!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-bread/images/pumpkin-bread_reel.mp4</video:content_loc>
+    </video:video>
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-bread-recipe-easy/</loc>
@@ -52113,6 +52575,102 @@
       <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-bread-recipe-with-canned-pumpkin/images/pumpkin-bread-recipe-with-canned-pumpkin_pinrecipes_image_13.webp</image:loc>
       <image:title>Perfect Fall Pumpkin Bread Recipe with Canned Pumpkin for Moist, Cozy Loaves</image:title>
     </image:image>
+  </url>
+  <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins/images/pumpkin-cream-cheese-muffins_pumpkin-cream-cheese-muffins_pinrecipes_image_1.webp</image:loc>
+      <image:title>Best Easy Moist Pumpkin Cream Cheese Muffins for Cozy Fall Mornings</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins/images/pumpkin-cream-cheese-muffins_pumpkin-cream-cheese-muffins_pinrecipes_image_2.webp</image:loc>
+      <image:title>Best Easy Moist Pumpkin Cream Cheese Muffins for Cozy Fall Mornings</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins/images/pumpkin-cream-cheese-muffins_pumpkin-cream-cheese-muffins_pinrecipes_image_3.webp</image:loc>
+      <image:title>Best Easy Moist Pumpkin Cream Cheese Muffins for Cozy Fall Mornings</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins/images/pumpkin-cream-cheese-muffins_pumpkin-cream-cheese-muffins_pinrecipes_image_11.webp</image:loc>
+      <image:title>Best Easy Moist Pumpkin Cream Cheese Muffins for Cozy Fall Mornings</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins/images/pumpkin-cream-cheese-muffins_pumpkin-cream-cheese-muffins_pinrecipes_image_12.webp</image:loc>
+      <image:title>Best Easy Moist Pumpkin Cream Cheese Muffins for Cozy Fall Mornings</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins/images/pumpkin-cream-cheese-muffins_pumpkin-cream-cheese-muffins_pinrecipes_image_13.webp</image:loc>
+      <image:title>Best Easy Moist Pumpkin Cream Cheese Muffins for Cozy Fall Mornings</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins/images/pumpkin-cream-cheese-muffins_pumpkin-cream-cheese-muffins_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Best Easy Moist Pumpkin Cream Cheese Muffins for Cozy Fall Mornings</video:title>
+      <video:description>These pumpkin cream cheese muffins are my go-to for a cozy fall breakfast. The soft, moist pumpkin crumb pairs perfectly with a sweet, creamy center that melts in your mouth. Great for a weekend treat or holiday brunch!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins/images/pumpkin-cream-cheese-muffins_reel.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-keto/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-keto/images/pumpkin-cream-cheese-muffins-keto_pumpkin-cream-cheese-muffins-keto_pinrecipes_image_11.webp</image:loc>
+      <image:title>Easy Keto Pumpkin Cream Cheese Muffins with a Moist Swirl Center</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-keto/images/pumpkin-cream-cheese-muffins-keto_pumpkin-cream-cheese-muffins-keto_pinrecipes_image_12.webp</image:loc>
+      <image:title>Easy Keto Pumpkin Cream Cheese Muffins with a Moist Swirl Center</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-keto/images/pumpkin-cream-cheese-muffins-keto_pumpkin-cream-cheese-muffins-keto_pinrecipes_image_13.webp</image:loc>
+      <image:title>Easy Keto Pumpkin Cream Cheese Muffins with a Moist Swirl Center</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-keto/images/pumpkin-cream-cheese-muffins-keto_pumpkin-cream-cheese-muffins-keto_pinrecipes_image_11.webp</video:thumbnail_loc>
+      <video:title>Easy Keto Pumpkin Cream Cheese Muffins with a Moist Swirl Center</video:title>
+      <video:description>Easy Keto Pumpkin Cream Cheese Muffins with a Moist Swirl Center</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-keto/images/pumpkin-cream-cheese-muffins-keto_reel.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-starbucks-copycat/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-starbucks-copycat/images/pumpkin-cream-cheese-muffins-starbucks-copycat_pumpkin-cream-cheese-muffins-starbucks-copycat_pinrecipes_image_1.webp</image:loc>
+      <image:title>Pumpkin Cream Cheese Muffins Starbucks Copycat Recipe for Perfect Fall Mornings</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-starbucks-copycat/images/pumpkin-cream-cheese-muffins-starbucks-copycat_pumpkin-cream-cheese-muffins-starbucks-copycat_pinrecipes_image_2.webp</image:loc>
+      <image:title>Pumpkin Cream Cheese Muffins Starbucks Copycat Recipe for Perfect Fall Mornings</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-starbucks-copycat/images/pumpkin-cream-cheese-muffins-starbucks-copycat_pumpkin-cream-cheese-muffins-starbucks-copycat_pinrecipes_image_3.webp</image:loc>
+      <image:title>Pumpkin Cream Cheese Muffins Starbucks Copycat Recipe for Perfect Fall Mornings</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-starbucks-copycat/images/pumpkin-cream-cheese-muffins-starbucks-copycat_pumpkin-cream-cheese-muffins-starbucks-copycat_pinrecipes_image_11.webp</image:loc>
+      <image:title>Pumpkin Cream Cheese Muffins Starbucks Copycat Recipe for Perfect Fall Mornings</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-starbucks-copycat/images/pumpkin-cream-cheese-muffins-starbucks-copycat_pumpkin-cream-cheese-muffins-starbucks-copycat_pinrecipes_image_12.webp</image:loc>
+      <image:title>Pumpkin Cream Cheese Muffins Starbucks Copycat Recipe for Perfect Fall Mornings</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-starbucks-copycat/images/pumpkin-cream-cheese-muffins-starbucks-copycat_pumpkin-cream-cheese-muffins-starbucks-copycat_pinrecipes_image_13.webp</image:loc>
+      <image:title>Pumpkin Cream Cheese Muffins Starbucks Copycat Recipe for Perfect Fall Mornings</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-starbucks-copycat/images/pumpkin-cream-cheese-muffins-starbucks-copycat_pumpkin-cream-cheese-muffins-starbucks-copycat_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Pumpkin Cream Cheese Muffins Starbucks Copycat Recipe for Perfect Fall Mornings</video:title>
+      <video:description>These pumpkin cream cheese muffins are my go-to cozy fall treat. The soft, spiced pumpkin crumb pairs perfectly with a luscious cream cheese center that melts in your mouth. Great for weekend breakfasts or afternoon coffee breaks!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/pumpkin-cream-cheese-muffins-starbucks-copycat/images/pumpkin-cream-cheese-muffins-starbucks-copycat_reel.mp4</video:content_loc>
+    </video:video>
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/</loc>
@@ -59530,7 +60088,7 @@
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/spaghetti-squash-recipes-feta/</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -59557,10 +60115,16 @@
       <image:loc>https://pinrecipes.lummyrecipes.com/posts/spaghetti-squash-recipes-feta/images/spaghetti-squash-recipes-feta_spaghetti-squash-recipes-feta_pinrecipes_image_13.webp</image:loc>
       <image:title>Easy Baked Spaghetti Squash with Feta and Tomatoes for a Flavorful Weeknight Dinner</image:title>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/spaghetti-squash-recipes-feta/images/spaghetti-squash-recipes-feta_spaghetti-squash-recipes-feta_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Easy Baked Spaghetti Squash with Feta and Tomatoes for a Flavorful Weeknight Dinner</video:title>
+      <video:description>This baked spaghetti squash with feta and roasted tomatoes is a simple, delicious weeknight dinner that’s bursting with flavor. The feta melts into a creamy sauce, while the balsamic glaze adds a perfect tangy sweetness. It’s a fresh, healthy twist that my family loves!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/spaghetti-squash-recipes-feta/images/spaghetti-squash-recipes-feta_reel.mp4</video:content_loc>
+    </video:video>
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/spaghetti-squash-recipes-with-chicken/</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -59587,6 +60151,12 @@
       <image:loc>https://pinrecipes.lummyrecipes.com/posts/spaghetti-squash-recipes-with-chicken/images/spaghetti-squash-recipes-with-chicken_spaghetti-squash-recipes-with-chicken_pinrecipes_image_13.webp</image:loc>
       <image:title>Easy Tuscan Spaghetti Squash Recipes with Chicken for Cozy Low Carb Dinners</image:title>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://pinrecipes.lummyrecipes.com/posts/spaghetti-squash-recipes-with-chicken/images/spaghetti-squash-recipes-with-chicken_spaghetti-squash-recipes-with-chicken_pinrecipes_image_1.webp</video:thumbnail_loc>
+      <video:title>Easy Tuscan Spaghetti Squash Recipes with Chicken for Cozy Low Carb Dinners</video:title>
+      <video:description>This Tuscan spaghetti squash with chicken is my go-to for a cozy, low carb dinner that feels indulgent without the guilt. The spaghetti squash strands soak up the creamy garlic sauce perfectly. Great for family dinners or meal prep!</video:description>
+      <video:content_loc>https://pinrecipes.lummyrecipes.com/posts/spaghetti-squash-recipes-with-chicken/images/spaghetti-squash-recipes-with-chicken_reel.mp4</video:content_loc>
+    </video:video>
   </url>
   <url>
     <loc>https://pinrecipes.lummyrecipes.com/posts/sparkling-pink-champagne-cocktails-for-a-romantic-evening/</loc>
