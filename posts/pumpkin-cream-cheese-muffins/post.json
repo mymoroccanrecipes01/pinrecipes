@@ -268,12 +268,12 @@
             "relativePath": "pumpkin-cream-cheese-muffins/images/pumpkin-cream-cheese-muffins_pumpkin-cream-cheese-muffins_pinrecipes_image_11.webp",
             "order": 4,
             "type": "trend_pin",
-            "title": "Moist & Fluffy Pumpkin Cream Cheese Muffins Recipe | Easy Fall Baking",
-            "description": "Discover the ultimate Pumpkin Cream Cheese Muffins that are moist, fluffy, and bursting with rich cream cheese swirls. Perfect for breakfast or a cozy dessert, this easy recipe brings classic fall flavors to your table. Bake these irresistible muffins today and enjoy a delicious seasonal treat!",
+            "title": "Best Moist Pumpkin Cream Cheese Muffins for Cozy Fall Breakfasts",
+            "description": "Enjoy soft, moist pumpkin muffins with a luscious cream cheese center that melts in your mouth. Perfect for a comforting weekend treat or festive holiday brunch.",
             "board_override": "Pumpkin Cream Cheese Muffins",
             "source_keyword": "pumpkin cream cheese muffins",
-            "reference_pin": "https://www.pinterest.com/pin/140806235319765/",
-            "reference_saves": 13,
+            "reference_pin": "https://www.pinterest.com/pin/3237030979236105/",
+            "reference_saves": 30,
             "csv_exported": true
         },
         {
@@ -282,12 +282,12 @@
             "relativePath": "pumpkin-cream-cheese-muffins/images/pumpkin-cream-cheese-muffins_pumpkin-cream-cheese-muffins_pinrecipes_image_12.webp",
             "order": 5,
             "type": "trend_pin",
-            "title": "Pumpkin Cream Cheese Muffins – Moist, Fluffy & Irresistibly Creamy Fall Delight",
-            "description": "Discover the perfect balance of spiced pumpkin and smooth cream cheese in these moist, fluffy muffins. Ideal for breakfast, brunch, or a cozy treat, this easy recipe delivers bakery-quality results right at home.",
+            "title": "Moist Pumpkin Cream Cheese Muffins Perfect for Cozy Fall Breakfasts",
+            "description": "Enjoy these soft, moist pumpkin cream cheese muffins with a rich, creamy center that melts in your mouth. Ideal for weekend treats or holiday brunches, they bring warm fall flavors to your table.",
             "board_override": "Pumpkin Cream Cheese Muffins",
             "source_keyword": "pumpkin cream cheese muffins",
-            "reference_pin": "https://www.pinterest.com/pin/48695239717034175/",
-            "reference_saves": 4,
+            "reference_pin": "https://www.pinterest.com/pin/140806235319765/",
+            "reference_saves": 13,
             "csv_exported": true
         },
         {
@@ -296,11 +296,11 @@
             "relativePath": "pumpkin-cream-cheese-muffins/images/pumpkin-cream-cheese-muffins_pumpkin-cream-cheese-muffins_pinrecipes_image_13.webp",
             "order": 6,
             "type": "trend_pin",
-            "title": "Best Pumpkin Cream Cheese Muffins Recipe with Soft Spiced Centers",
-            "description": "Enjoy moist pumpkin cream cheese muffins bursting with warm fall spices and a smooth creamy filling. This easy homemade recipe delivers bakery-quality muffins perfect for cozy autumn breakfasts or snacks.",
+            "title": "Best Easy Moist Pumpkin Cream Cheese Muffins with Sweet Creamy Center",
+            "description": "Enjoy these soft, moist pumpkin cream cheese muffins perfect for cozy fall mornings. Each bite reveals a luscious creamy center that melts in your mouth, ideal for weekend treats or holiday brunches.",
             "board_override": "Pumpkin Cream Cheese Muffins",
             "source_keyword": "pumpkin cream cheese muffins",
-            "reference_pin": "https://www.pinterest.com/pin/1688918607533411/",
+            "reference_pin": "https://www.pinterest.com/pin/48695239717034175/",
             "reference_saves": 4,
             "csv_exported": true
         }
@@ -315,5 +315,10 @@
     "pinterest_source_keyword": "pumpkin cream cheese muffins",
     "skip_classic_templates": true,
     "has_reel": true,
-    "video_csv_exported": true
+    "video_csv_exported": true,
+    "trend_pin_used_ids": [
+        "3237030979236105",
+        "140806235319765",
+        "48695239717034175"
+    ]
 }

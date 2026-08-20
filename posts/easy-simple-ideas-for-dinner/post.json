@@ -1,0 +1,369 @@
+{
+    "title": "Easy Cheesy Ground Beef and Rice Casserole for Simple Weeknight Dinners",
+    "promptIMG": "Food photography: cheesy ground beef and rice casserole, golden melted cheese topping, creamy sauce bubbling, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a bright home kitchen softly blurred behind with natural daylight streaming through a window, faint reflections on a clean countertop. SUBJECT: a generous, overflowing casserole dish filled with cheesy ground beef and rice casserole, the golden melted cheese bubbling and glistening on top, filling 95% of the frame with the front corner razor-sharp showing the crispy browned edges and creamy cheesy surface, the rest fading softly into bokeh. DETAILS: deep golden caramelized cheese with wet glossy shine, fresh parsley sprinkle on top, crumbs and natural irregularities on the ceramic dish, rich textures visible. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden-amber tones, highly saturated rich colors — the vivid, appetizing look of viral recipe pins, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands or people, no dull or flat colors, no CGI or plastic textures, no steam or smoke.",
+        "img2": "SCENE: soft light blur behind a warm wood surface, bright clean daylight from a nearby window. SUBJECT: the reveal shot of cheesy ground beef and rice casserole — a large serving spoon lifting a scoop to show the interior with tender rice grains, juicy seasoned ground beef, and gooey melted cheese stretching mid-air. DETAILS: the interior glistens with creamy sauce, the cheese pull frozen in place, browned crispy edges visible on the scoop, fresh herbs sprinkled on top, crumbs scattered naturally below. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden-amber glow, rich saturated appetizing colors — hyper-vivid viral recipe-pin style, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no dull colors, no over-smoothing or plastic look, no steam or smoke.",
+        "img3": "SCENE: warm dark wood tones softly blurred behind with a single warm side glow, creating a cozy atmosphere. SUBJECT: several pieces of cheesy ground beef and rice casserole arranged closely in a rustic ceramic baking dish with a side of freshly steamed green beans and a small bowl of sour cream, the front piece topped with a sprinkle of parsley and extra melted cheese, the rest receding into warm bokeh. DETAILS: intense wet glossy shine on the cheese surface, deep amber caramelized crust, natural crumbs and fresh herb flakes scattered on the plate, real textures captured in the moment. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grading, rich saturated glowing appetizing tones — the vivid look of viral recipe pins, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands or people, no dull or washed-out colors, no CGI or plastic textures, no steam."
+    },
+    "description": "This cheesy ground beef and rice casserole is my go-to for busy weeknights when I want something hearty but simple. The creamy cheese sauce and tender rice make it feel like comfort food without fuss. Perfect for family dinners!",
+    "hashtags": "#cheesycasserole #easyweeknightdinner #comfortfood",
+    "board_name": "Quick Weeknight Meals",
+    "pin_variations": [
+        {
+            "title": "Why Does This Cheesy Ground Beef Casserole Taste So Comforting?",
+            "description": "Discover the secret behind this creamy, cheesy casserole that feels like a warm hug after a long day. Ready in under an hour, it’s perfect for cozy dinners. Save this for dinner inspo! #cheesycasserole #easymeals #familydinner"
+        },
+        {
+            "title": "The One Trick That Makes This Ground Beef and Rice Casserole Irresistible",
+            "description": "A simple step transforms this casserole into a cheesy, juicy delight your family will ask for again and again. Quick to prep and easy to customize. Tap to get the full recipe! #comfortfood #easyrecipes #weeknightdinner"
+        },
+        {
+            "title": "30-Minute Cheesy Ground Beef and Rice Casserole for Busy Weeknights",
+            "description": "Need a fast, satisfying dinner? This casserole combines seasoned ground beef, tender rice, and gooey cheese in one dish. Perfect for feeding hungry families on hectic nights. Save this recipe! #quickdinner #easycasserole #familymeals"
+        },
+        {
+            "title": "Still Struggling with Dinner Ideas? Try This Easy Cheesy Casserole",
+            "description": "If weeknight dinners feel overwhelming, this casserole is your answer. Simple ingredients, minimal prep, and a creamy cheesy finish that everyone loves. Tap for the recipe! #easyweeknightdinner #comfortfood #cheesycasserole"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 pound ground beef, browned and drained",
+        "1 cup long grain white rice, rinsed",
+        "2 cups beef broth",
+        "1 cup shredded sharp cheddar cheese",
+        "1/2 cup sour cream",
+        "1 small onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "2 tablespoons olive oil",
+        "Fresh parsley, chopped for garnish"
+    ],
+    "yield": "4 hearty servings",
+    "introduction": "I first made this cheesy ground beef and rice casserole on a hectic weeknight when I needed dinner on the table fast but still wanted something comforting and filling. I’d tried casseroles before, but they often came out dry or bland. The trick I learned was to brown the beef with onions and garlic to build flavor, then cook the rice right in the beef broth with the meat juices so it soaks up all that savory goodness. Mixing in sour cream and sharp cheddar cheese at the end gives it a creamy, rich texture that feels indulgent but is still simple to make. What I love most is how this dish hits all the comfort food notes — cheesy, hearty, and satisfying — without a lot of fuss or fancy ingredients. It’s become a family favorite for busy nights when I want something warm and homemade without spending hours in the kitchen. The golden bubbly cheese crust on top is always a crowd-pleaser, and the casserole stays moist and tender inside. I think you’ll find this recipe easy to follow and the result deliciously comforting every time.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat olive oil in a large skillet over medium heat. Add the finely chopped onion and sauté until soft and translucent, about 3-4 minutes. Then add the minced garlic and cook for another minute until fragrant. This step builds the flavor base for the casserole by softening the onion and releasing garlic’s aroma without burning it, which can cause bitterness. Stir frequently and watch closely to avoid browning the garlic too much.",
+            "timing": 5,
+            "doneness_cue": "Onions should be translucent and soft, garlic fragrant but not browned."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the ground beef to the skillet, breaking it up with a wooden spoon. Cook until browned and no longer pink, about 7-8 minutes. Browning the beef develops rich flavors through the Maillard reaction, which adds depth to the casserole. Drain any excess fat to keep the dish from being greasy but retain enough to keep it moist. Season with smoked paprika, salt, and pepper while cooking for even flavor distribution.",
+            "timing": 8,
+            "doneness_cue": "Beef should be evenly browned with no pink spots, and spices fully incorporated."
+        },
+        {
+            "step": 3,
+            "instruction": "Stir the rinsed rice into the beef mixture, coating the grains with the flavorful juices. Pour in the beef broth and bring to a gentle boil. Lower the heat to a simmer and cover tightly. Cooking the rice directly in the broth allows it to absorb all the savory flavors from the beef and spices, making each grain tender and flavorful. Avoid lifting the lid too often to prevent steam from escaping, which can affect cooking time and rice texture.",
+            "timing": 18,
+            "doneness_cue": "Rice should be tender and liquid mostly absorbed when done."
+        },
+        {
+            "step": 4,
+            "instruction": "Preheat your oven to 375°F (190°C). Once the rice is cooked, remove the skillet from heat and stir in the sour cream and half of the shredded cheddar cheese. This step adds creaminess and richness, balancing the savory beef and rice. Mixing cheese into the hot mixture melts it smoothly, while sour cream adds tang and moisture. Stir gently to combine without breaking up the rice too much.",
+            "timing": 5,
+            "doneness_cue": "Mixture should be creamy and well combined with melted cheese."
+        },
+        {
+            "step": 5,
+            "instruction": "Transfer the mixture to a greased casserole dish and spread evenly. Sprinkle the remaining cheddar cheese on top to create a golden bubbly crust when baked. This topping gives the casserole an irresistible crispy, cheesy layer that contrasts with the creamy interior. Evenly distribute the cheese to ensure consistent browning.",
+            "timing": 3,
+            "doneness_cue": "Cheese layer evenly spread and ready for baking."
+        },
+        {
+            "step": 6,
+            "instruction": "Bake uncovered in the preheated oven for 12-15 minutes until the cheese is melted and bubbly with golden brown spots. Baking allows the flavors to meld and the top to develop a satisfying crust. Keep an eye on it towards the end to prevent burning.",
+            "timing": 15,
+            "doneness_cue": "Cheese should be melted, bubbly, and golden brown on top."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove from oven and let the casserole rest for 5 minutes before serving. Resting helps the casserole set so it holds together better when scooped, and the flavors settle. This also prevents burns from hot cheese and sauce.",
+            "timing": 5,
+            "doneness_cue": "Casserole slightly firmed up and easier to serve."
+        },
+        {
+            "step": 8,
+            "instruction": "Garnish with freshly chopped parsley for a pop of color and fresh herbal note. This brightens the dish visually and adds a subtle flavor contrast to the rich casserole.",
+            "timing": 2,
+            "doneness_cue": "Parsley evenly sprinkled and fresh-looking."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm with a side of steamed vegetables or a crisp salad to balance the richness. This meal is perfect for a cozy family dinner and pairs well with simple greens.",
+            "timing": 0,
+            "doneness_cue": "Dish plated and ready to enjoy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Cheesy Ground Beef and Rice Casserole Works",
+        "content": "<p>This casserole succeeds because it combines several cooking principles that maximize flavor and texture while keeping the process simple. First, browning the ground beef and sautéing onions and garlic creates complex, savory flavors through the Maillard reaction, which is essential for a rich base. Cooking the rice directly in beef broth allows it to absorb those flavors deeply, rather than being a bland side. The starches from the rice also help thicken the sauce, giving the casserole a creamy consistency without needing extra thickeners.</p><p>Adding sour cream and cheese at the end enriches the texture and adds tang and creaminess, balancing the savory meat and rice perfectly. The cheese topping, baked until bubbly and golden, creates a delightful contrast with the tender interior, adding a crispy, caramelized layer that makes each bite more interesting. Resting the casserole after baking lets it set, making it easier to serve and enhancing the melding of flavors.</p><p>Temperature control throughout is key: browning the beef on medium heat prevents toughness, simmering the rice gently ensures fluffy grains, and baking at the right temperature melts the cheese without drying out the dish. The seasoning with smoked paprika and salt enhances the umami and adds warmth, making the casserole feel comforting and satisfying.</p><p>Overall, the recipe balances moisture, richness, and texture through thoughtful ingredient combinations and cooking techniques, resulting in a hearty yet simple dinner that feels homemade and indulgent without complexity.</p>",
+        "ingredient_notes": {
+            "ground beef": "Choose 80/20 ground beef for a good balance of flavor and fat content. The fat helps keep the casserole moist and adds richness. Leaner beef can dry out the dish, so if using leaner meat, add a bit of olive oil during browning. Freshly ground beef or good-quality packaged beef works best for flavor.",
+            "long grain white rice": "Long grain white rice cooks up fluffy and separate, absorbing the beef broth well without becoming mushy. Rinsing the rice before cooking removes excess starch to prevent clumping. Avoid quick-cooking or instant rice as it won’t hold up well in the casserole.",
+            "beef broth": "Using a good-quality beef broth adds depth and savory flavor to the casserole. Homemade or low-sodium store-bought broth works well. The broth is essential for cooking the rice and infusing it with meaty flavor, so don’t substitute with water unless you add extra seasoning.",
+            "cheddar cheese": "Sharp cheddar cheese melts beautifully and adds a tangy, rich flavor that complements the beef. Avoid pre-shredded cheese with anti-caking agents as it can affect melting. Grate your own cheese for the best texture and melt.",
+            "sour cream": "Sour cream adds creaminess and a slight tang that balances the richness of the beef and cheese. It also helps keep the casserole moist. Full-fat sour cream works best for texture and flavor, though light versions can be used if preferred."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t skip rinsing the rice before cooking.",
+            "reason": "Rinsing removes excess surface starch, which prevents the rice from becoming gummy or clumping together. This ensures the rice cooks up fluffy and separate, which is important for the casserole’s texture."
+        },
+        {
+            "tip": "Brown the beef thoroughly but avoid overcooking.",
+            "reason": "Browning develops complex flavors through caramelization, but overcooking can dry out the meat and make it tough. Cook until just browned and no longer pink for juicy, flavorful beef."
+        },
+        {
+            "tip": "Use fresh grated cheese instead of pre-shredded.",
+            "reason": "Pre-shredded cheese often contains anti-caking agents that can affect how it melts, sometimes causing clumping or a grainy texture. Freshly grated cheese melts smoothly, giving a better gooey texture."
+        },
+        {
+            "tip": "Cover the rice while simmering without lifting the lid.",
+            "reason": "Keeping the lid on traps steam and heat evenly, ensuring the rice cooks properly and absorbs all the broth. Lifting the lid releases steam and can lead to uneven cooking or dry rice."
+        },
+        {
+            "tip": "Let the casserole rest before serving.",
+            "reason": "Resting allows the casserole to firm up slightly, making it easier to portion and serve. It also helps the flavors meld together, enhancing the overall taste."
+        },
+        {
+            "tip": "Season the beef mixture well with smoked paprika and salt.",
+            "reason": "Smoked paprika adds warmth and a subtle smoky depth that complements the beef, while salt enhances all the flavors. Proper seasoning is key to a balanced, flavorful casserole."
+        },
+        {
+            "tip": "Use a ceramic or glass baking dish for even baking.",
+            "reason": "Ceramic and glass dishes distribute heat evenly and retain it well, helping the casserole cook uniformly and develop a nicely browned cheese crust without burning."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the browning step for the beef.",
+            "why_it_happens": "Some cooks want to save time and skip browning, assuming the beef will cook fine in the casserole. They may underestimate how much flavor is developed through browning.",
+            "fix": "Always brown the beef with onions and garlic first to develop rich flavors and a better texture. Take your time to get a nice caramelized crust on the meat before adding rice and broth."
+        },
+        {
+            "mistake": "Using quick-cooking or instant rice.",
+            "why_it_happens": "Quick rice seems convenient but doesn’t hold up well when baked and mixed with other ingredients, often turning mushy.",
+            "fix": "Use regular long grain white rice and cook it properly in broth so it absorbs flavor and maintains texture. Rinse the rice before cooking to avoid stickiness."
+        },
+        {
+            "mistake": "Lifting the lid while the rice is simmering.",
+            "why_it_happens": "Curiosity or impatience leads cooks to check the rice too often, releasing steam and heat.",
+            "fix": "Keep the lid on during simmering to trap steam for even cooking. Only lift the lid when the cooking time is nearly complete to avoid drying out the rice."
+        },
+        {
+            "mistake": "Using pre-shredded cheese.",
+            "why_it_happens": "Pre-shredded cheese is convenient, but many don’t realize it melts differently due to additives.",
+            "fix": "Grate your own cheese for the best melt and texture. This makes the cheese topping gooey and smooth rather than clumpy or greasy."
+        },
+        {
+            "mistake": "Not letting the casserole rest before serving.",
+            "why_it_happens": "Eagerness to eat leads to serving immediately, making the casserole fall apart and be messier.",
+            "fix": "Allow the casserole to rest for 5 minutes after baking to firm up and let flavors meld. This makes serving neater and improves taste."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Jalapeño Cheesy Beef Casserole",
+            "description": "Add diced jalapeños or a dash of cayenne pepper to the beef mixture for a spicy kick. You can also top with pepper jack cheese instead of cheddar for extra heat. Expect a bolder flavor with a creamy, cheesy finish.",
+            "technical_note": "Adjust spice level carefully; too much heat can overpower the creamy cheese. Balance with sour cream to cool the heat."
+        },
+        {
+            "name": "Vegetable-Loaded Beef and Rice Casserole",
+            "description": "Incorporate diced bell peppers, corn, and peas into the beef and rice mixture for added color, nutrition, and texture. This makes the casserole more wholesome and vibrant without changing the core flavors.",
+            "technical_note": "Add vegetables during the beef browning step to soften them slightly before simmering rice."
+        },
+        {
+            "name": "Low-Carb Cauliflower Rice Casserole",
+            "description": "Swap white rice for riced cauliflower to reduce carbs and calories. The texture will be lighter, and the casserole less dense but still creamy and flavorful with cheese and beef.",
+            "technical_note": "Cauliflower rice cooks faster; add it towards the end of simmering to avoid overcooking and sogginess."
+        },
+        {
+            "name": "Slow Cooker Cheesy Beef and Rice Casserole",
+            "description": "Prepare all ingredients in a slow cooker and cook on low for 4 hours or high for 2 hours. This hands-off method yields tender beef and rice with melty cheese, perfect for busy days.",
+            "technical_note": "Add cheese and sour cream near the end to avoid overcooking dairy ingredients in the slow cooker."
+        },
+        {
+            "name": "Mushroom and Herb Beef Rice Casserole",
+            "description": "Add sautéed mushrooms and fresh herbs like thyme or rosemary to the beef mixture for an earthy, aromatic twist. This variation adds depth and a rustic feel to the classic casserole.",
+            "technical_note": "Sauté mushrooms separately to avoid excess moisture, then stir into the beef before adding rice."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "450 kcal",
+        "protein_grams": "30g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "20g",
+        "fiber_grams": "3g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and brands used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This casserole can safely sit at room temperature for up to 2 hours if covered loosely to prevent drying. Avoid leaving it out longer to reduce risk of bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container in the refrigerator for up to 4 days. The casserole will firm up and flavors deepen. Reheat gently to avoid drying out, adding a splash of broth or water if needed.",
+        "freezer": "Freeze the casserole in airtight containers or heavy-duty freezer bags for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat leftovers in the oven at 350°F covered with foil for 15-20 minutes until warmed through. Alternatively, microwave covered in short intervals, stirring halfway. Add a splash of broth or water if the casserole seems dry.",
+        "make_ahead_strategy": "You can prepare the beef and rice mixture a day ahead and refrigerate it before baking. Add cheese topping and bake just before serving for fresh melted cheese and bubbly crust."
+    },
+    "faq": [
+        {
+            "question": "Can I use brown rice instead of white rice?",
+            "answer": "Yes, but brown rice takes longer to cook and requires more liquid. If substituting, soak the brown rice beforehand and increase the broth amount. You may need to simmer longer before baking to ensure the rice is tender."
+        },
+        {
+            "question": "What can I substitute for sour cream?",
+            "answer": "You can use plain Greek yogurt as a healthier alternative or cream cheese for extra richness. Both add creaminess but may slightly alter the flavor. Avoid using milk alone as it won’t provide the same texture."
+        },
+        {
+            "question": "Can I make this casserole vegetarian?",
+            "answer": "Absolutely! Replace ground beef with cooked lentils, mushrooms, or plant-based meat alternatives. Use vegetable broth instead of beef broth and adjust seasonings accordingly for a delicious vegetarian version."
+        },
+        {
+            "question": "How do I prevent the casserole from being too watery?",
+            "answer": "Be sure to drain excess fat from the browned beef and measure the broth accurately. Also, avoid lifting the lid while simmering rice to prevent steam loss. If the mixture seems too wet before baking, cook uncovered a few extra minutes to reduce liquid."
+        },
+        {
+            "question": "Can I prepare this casserole in advance and freeze it?",
+            "answer": "Yes, assemble the casserole without baking, then freeze in an airtight container. When ready, thaw overnight in the fridge and bake as directed. Baking from frozen may require extra time to heat through."
+        },
+        {
+            "question": "What cheese works best for this casserole?",
+            "answer": "Sharp cheddar is classic for flavor and meltability. You can also mix in mozzarella for stretchiness or pepper jack for a spicy twist. Avoid processed cheeses that don’t melt well."
+        },
+        {
+            "question": "Is it okay to use canned onions or pre-chopped garlic?",
+            "answer": "Fresh onions and garlic provide the best flavor and texture. Pre-chopped or canned versions can work in a pinch but may be less aromatic and can add unwanted moisture or preservatives."
+        },
+        {
+            "question": "Can I add vegetables to this casserole?",
+            "answer": "Definitely! Diced bell peppers, corn, peas, or mushrooms are great additions. Add them during the browning step to soften, or stir in cooked vegetables before baking for extra nutrition and flavor."
+        },
+        {
+            "question": "How do I make this casserole spicier?",
+            "answer": "Add diced jalapeños, a pinch of cayenne pepper, or hot sauce to the beef mixture. Using pepper jack cheese instead of cheddar also adds heat. Adjust spice levels to your family’s taste."
+        },
+        {
+            "question": "What is the best way to reheat leftovers without drying them out?",
+            "answer": "Reheat covered in the oven at 350°F with a splash of broth or water to keep moisture. Microwaving in short intervals with a cover also works well. Avoid overheating to prevent drying."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this cheesy ground beef and rice casserole as much as my family does. It’s a simple, comforting dinner that’s perfect for busy nights. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "easy simple ideas for dinner",
+        "secondary_keywords": [
+            "easy cheesy casserole",
+            "ground beef rice casserole",
+            "how to make cheesy beef casserole",
+            "best cheesy casserole recipe",
+            "easy casserole dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "simple weeknight casseroles",
+                "anchor": "simple-weeknight-casseroles"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230383_494",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-20 12:39:26",
+        "title_seed": "easy simple ideas for dinner"
+    },
+    "author_id": "author_001",
+    "id": "post_1787229566_306",
+    "slug": "easy-simple-ideas-for-dinner",
+    "uniqueSlug": "easy-simple-ideas-for-dinner",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_1.webp",
+            "relativePath": "easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_2.webp",
+            "relativePath": "easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_3.webp",
+            "relativePath": "easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_11.webp",
+            "filePath": "posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_11.webp",
+            "relativePath": "easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Quick and Easy Dinner Ideas for Busy Weeknights",
+            "description": "Discover simple dinner recipes that save time without sacrificing flavor. Perfect for busy evenings, these easy ideas bring comfort and deliciousness to your table with minimal effort.",
+            "board_override": "Easy Fall Dinner Ideas",
+            "source_keyword": "easy simple ideas for dinner",
+            "reference_pin": "https://www.pinterest.com/pin/1688918607476136/",
+            "reference_saves": 56,
+            "csv_exported": true
+        },
+        {
+            "fileName": "easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_12.webp",
+            "filePath": "posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_12.webp",
+            "relativePath": "easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Quick and Easy Dinner Ideas for Busy Weeknights",
+            "description": "Discover simple and delicious dinner ideas that come together in minutes using everyday ingredients. Perfect for busy weeknights, these easy recipes offer comforting flavors without the hassle, making mealtime stress-free and enjoyable.",
+            "board_override": "Easy Fall Dinner Ideas",
+            "source_keyword": "easy simple ideas for dinner",
+            "reference_pin": "https://www.pinterest.com/pin/1125968743756237/",
+            "reference_saves": 63,
+            "csv_exported": true
+        },
+        {
+            "fileName": "easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_13.webp",
+            "filePath": "posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_13.webp",
+            "relativePath": "easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "50+ Easy Simple Ideas for Dinner Everyone Will Love Tonight",
+            "description": "Discover 50+ easy simple ideas for dinner that are quick, delicious, and perfect for any night of the week. These recipes make meal planning effortless and satisfying for the whole family.",
+            "board_override": "Easy Fall Dinner Ideas",
+            "source_keyword": "easy simple ideas for dinner",
+            "reference_pin": "https://www.pinterest.com/pin/5488830793422187/",
+            "reference_saves": 26,
+            "csv_exported": true
+        }
+    ],
+    "image": "easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-simple-ideas-for-dinner/images/easy-simple-ideas-for-dinner_easy-simple-ideas-for-dinner_pinrecipes_image_1.webp",
+    "image_dir": "easy-simple-ideas-for-dinner/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-20T12:39:26+00:00",
+    "updatedAt": "2026-08-20T12:39:26+00:00",
+    "pinterest_source_keyword": "easy simple ideas for dinner",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}
