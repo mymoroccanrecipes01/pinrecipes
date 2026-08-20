@@ -20,7 +20,7 @@
     }
 
     async function loadCategories() {
-        if (_cachedCats) return _cachedCats;
+        if (_cachedCats !== null) return _cachedCats;
         const idx = await fetchJSON('categories/index.json');
         const folders = (idx && idx.folders) || {};
         const slugs = Object.keys(folders);
@@ -40,7 +40,7 @@
     }
 
     async function loadPosts() {
-        if (_cachedPosts) return _cachedPosts;
+        if (_cachedPosts !== null) return _cachedPosts;
         const idx = await fetchJSON('posts/index.json');
         _cachedPosts = ((idx && idx.posts) || []).filter((p) => p.isOnline === true);
         return _cachedPosts;
