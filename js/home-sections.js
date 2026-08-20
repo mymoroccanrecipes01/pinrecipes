@@ -1,7 +1,7 @@
-// js/home-sections.js — Homepage-only sections: Best posts / Popular categories / Latest
-// by category. Independent from PostLoader (posts-categorys.js) — own fetches, own render
-// targets (#best-posts-row, #popular-categories-grid, #latest-by-category-groups), toggled
-// via globalThis.home* flags (config.js, generated from site-config.json by config-ui.php).
+// js/home-sections.js — Homepage-only sections: Best posts / Latest by category.
+// Independent from PostLoader (posts-categorys.js) — own fetches, own render targets
+// (#best-posts-row, #latest-by-category-groups), toggled via globalThis.home* flags
+// (config.js, generated from site-config.json by config-ui.php).
 (function () {
     let _cachedPosts = null;
     let _cachedCats  = null;
@@ -84,40 +84,6 @@
         row.innerHTML = best.map((p) => postCard(p, 'hs-card--best')).join('');
     }
 
-    async function renderPopularCategories() {
-        const section = document.getElementById('popular-categories-section');
-        const grid    = document.getElementById('popular-categories-grid');
-        if (!section || !grid) return;
-        if (!globalThis.homePopularCategoriesActive) { section.style.display = 'none'; return; }
-
-        const [posts, cats] = await Promise.all([loadPosts(), loadCategories()]);
-        const count  = globalThis.homePopularCategoriesCount || 6;
-        const counts = {};
-        posts.forEach((p) => {
-            if (p.category_id != null) counts[p.category_id] = (counts[p.category_id] || 0) + 1;
-        });
-        const ranked = cats
-            .map((c) => ({ ...c, count: counts[c.id] || 0 }))
-            .filter((c) => c.count > 0)
-            .sort((a, b) => b.count - a.count)
-            .slice(0, count);
-
-        if (ranked.length === 0) { section.style.display = 'none'; return; }
-        section.style.display = '';
-        grid.innerHTML = ranked.map((c) => `
-            <a class="hs-cat-card" href="?page=posts-category/${c.slug}" title="${c.name}">
-                <div class="hs-cat-card__img">
-                    <img src="${c.image || placeholderImg()}" alt="${c.name}" loading="lazy" decoding="async"
-                         onerror="this.src='${placeholderImg()}'">
-                    <span class="hs-cat-card__count">${c.count} recipe${c.count > 1 ? 's' : ''}</span>
-                </div>
-                <div class="hs-cat-card__body">
-                    <h3>${c.name}</h3>
-                    ${c.description ? `<p>${truncate(c.description, 80)}</p>` : ''}
-                </div>
-            </a>`).join('');
-    }
-
     async function renderLatestByCategory() {
         const section   = document.getElementById('latest-by-category-section');
         const container = document.getElementById('latest-by-category-groups');
@@ -149,7 +115,8 @@
                 <div class="hs-latest-group">
                     <div class="hs-latest-group__head">
                         <h3>${cat.name}</h3>
-                        <a href="?page=posts-category/${cat.slug}" class="hs-latest-group__more">See all →</a>
+                        <a href="?page=posts-category/${cat.slug}" class="hs-latest-group__more"
+                           onclick="window.location.href=this.href;return false;">See all →</a>
                     </div>
                     <div class="hs-latest-group__row">
                         ${catPosts.map((p) => postCard(p, 'hs-card--compact')).join('')}
@@ -159,7 +126,6 @@
     }
 
     window.initHomeSections = function () {
-        renderPopularCategories();
         renderBestPosts();
         renderLatestByCategory();
     };

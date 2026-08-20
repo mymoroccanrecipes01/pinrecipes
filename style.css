@@ -3082,12 +3082,12 @@ h2.story-headline::after { content: ''; position: absolute; bottom: -2px; left: 
 .back-to-top { position: fixed; bottom: 32px; right: 32px; width: 42px; height: 42px; background: #ff6d4d; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 18px; text-decoration: none; opacity: 0; pointer-events: none; transition: opacity .3s; box-shadow: 0 4px 12px rgba(255,109,77,.3); z-index: 99; }
 .back-to-top.show { opacity: 1; pointer-events: auto; }
 
-/* ── Homepage — Reader Favorites / Popular Categories / Latest by Category ────── */
-.best-posts, .popular-categories, .latest-by-category { padding: 50px 0; }
-.best-posts h2, .popular-categories h2 {
+/* ── Homepage — Reader Favorites / Latest by Category ──────────────────────────── */
+.best-posts, .latest-by-category { padding: 50px 0; }
+.best-posts h2 {
     font-size: 28px; font-weight: bold; color: #333; margin-bottom: 28px; position: relative;
 }
-.best-posts h2::after, .popular-categories h2::after {
+.best-posts h2::after {
     content: ''; position: absolute; right: 0; top: 50%; transform: translateY(-50%);
     width: 20px; height: 20px; background: #ff6d4d; border-radius: 50%;
 }
@@ -3127,24 +3127,6 @@ h2.story-headline::after { content: ''; position: absolute; bottom: -2px; left: 
     .hs-card--best { width: auto; max-width: none; }
 }
 
-/* Popular categories — richer card than the plain HOT CATEGORIES grid */
-.popular-categories-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; }
-.hs-cat-card {
-    display: flex; flex-direction: column; text-decoration: none; color: inherit;
-    background: #fff; border-radius: 12px; overflow: hidden;
-    box-shadow: 0 4px 15px rgba(0,0,0,.08); transition: transform .25s ease, box-shadow .25s ease;
-}
-.hs-cat-card:hover { transform: translateY(-5px); box-shadow: 0 10px 28px rgba(0,0,0,.14); }
-.hs-cat-card__img { position: relative; aspect-ratio: 16/9; background: #f1f1f1; }
-.hs-cat-card__img img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.hs-cat-card__count {
-    position: absolute; bottom: 10px; left: 10px; background: rgba(255,109,77,.92); color: #fff;
-    font-size: .76em; font-weight: 700; padding: 4px 10px; border-radius: 20px;
-}
-.hs-cat-card__body { padding: 14px 16px 16px; }
-.hs-cat-card__body h3 { margin: 0 0 6px; font-size: 1.05em; color: #222; }
-.hs-cat-card__body p { margin: 0; font-size: .82em; color: #666; line-height: 1.5; }
-
 /* Latest by category — stacked groups with compact rows */
 .latest-by-category { background: #f8f9fa; }
 .hs-latest-group { margin-bottom: 34px; }
@@ -3159,7 +3141,7 @@ h2.story-headline::after { content: ''; position: absolute; bottom: -2px; left: 
 .hs-card--compact .hs-card__desc { display: none; }
 
 @media (max-width: 600px) {
-    .best-posts, .popular-categories, .latest-by-category { padding: 36px 0; }
+    .best-posts, .latest-by-category { padding: 36px 0; }
     .hs-latest-group__row { grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); }
 }
 .logo img { width: 13%; }
