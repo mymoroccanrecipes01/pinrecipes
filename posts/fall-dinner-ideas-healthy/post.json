@@ -1,0 +1,361 @@
+{
+    "title": "Healthy Pumpkin Spinach Lasagna for Cozy Fall Dinner Ideas",
+    "promptIMG": "Food photography: Healthy Pumpkin Spinach Lasagna, creamy orange pumpkin filling layered with bright green spinach and melted cheese between tender pasta sheets, served in a rustic ceramic baking dish, natural lighting from a kitchen window, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred home kitchen with warm natural daylight streaming through a window, faint reflections on a wooden countertop. SUBJECT: a generous, overflowing ceramic baking dish filled with layers of pumpkin spinach lasagna, the top layer golden and bubbly with melted cheese, the front corner sharply in focus showing creamy orange pumpkin swirls, vibrant green spinach flecks, and tender pasta edges. DETAILS: glossy melted cheese with golden caramelized spots, a light sprinkle of fresh herbs on top, natural textures with slight bubbling and crust edges visible. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden hues, rich saturated colors highlighting the creamy pumpkin and green spinach contrast; shallow macro depth of field; vertical 2:3. AVOID: no text, logos, hands, or artificial effects; no steam or smoke.",
+        "img2": "SCENE: soft daylight filtering through a kitchen window with a neutral marble-toned background. SUBJECT: a close-up reveal shot of the pumpkin spinach lasagna, cut in half with both halves facing the camera, exposing creamy pumpkin and ricotta filling oozing slightly, tender pasta layers, and bright spinach leaves. DETAILS: the interior glistens with a creamy orange hue contrasted by fresh green spinach, edges caramelized to a golden brown, some cheese strings pulling apart, crumbs naturally scattered below. STYLE: ultra-photorealistic, bright airy daylight with warm golden tones, vivid and appetizing colors; shallow macro depth of field; vertical 2:3. AVOID: no text, logos, hands, or over-smoothing; no steam or smoke.",
+        "img3": "SCENE: warm dark wood surface softly blurred behind with a warm side glow creating a cozy atmosphere. SUBJECT: several square pieces of pumpkin spinach lasagna arranged closely on a rustic ceramic plate, topped with a fresh sprinkle of chopped parsley and a drizzle of olive oil, accompanied by a small bowl of mixed greens salad. DETAILS: intense glossy shine on the cheesy top layer, deep amber caramelization on edges, fresh herb flakes scattered naturally, crumbs on plate edges. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich saturated appetizing tones; shallow macro depth of field; vertical 2:3. AVOID: no text, logos, hands, or artificial props; no steam or smoke."
+    },
+    "description": "This healthy pumpkin spinach lasagna is my go-to fall dinner when I want something cozy but light. The creamy pumpkin and ricotta blend with fresh spinach makes it feel indulgent without the heaviness. It’s perfect for chilly evenings when you want comfort food that’s still nourishing.",
+    "hashtags": "#pumpkinlasagna #healthyfallrecipes #spinachlasagna",
+    "board_name": "Comfort Food Dinners",
+    "pin_variations": [
+        {
+            "title": "Why Does Healthy Pumpkin Spinach Lasagna Taste So Cozy?",
+            "description": "This lasagna blends creamy pumpkin and fresh spinach for a hearty fall meal that feels like a warm hug. You’ll love how simple ingredients come together for big flavor. Save this for your next cozy night in! #pumpkinlasagna #healthycomfortfood #fallrecipes"
+        },
+        {
+            "title": "The One Trick That Makes Pumpkin Spinach Lasagna Perfect Every Time",
+            "description": "Want creamy, flavorful layers without soggy noodles? The secret is roasting the pumpkin first for depth and drying spinach well. It’s foolproof and delicious. Tap to get the full recipe and wow your family! #healthyfalldinner #spinachlasagna #comfortfood"
+        },
+        {
+            "title": "30-Minute Healthy Pumpkin Spinach Lasagna for Busy Weeknights",
+            "description": "Pressed for time but want a comforting fall dinner? This quick pumpkin spinach lasagna comes together fast with simple prep and no heavy sauces. It’s a winner for busy evenings. Save this recipe for your next weeknight meal! #quickdinner #healthyfallrecipes #lasagna"
+        },
+        {
+            "title": "Healthy Pumpkin Spinach Lasagna vs Traditional – Which Wins?",
+            "description": "Looking for a lighter twist on classic lasagna? This pumpkin spinach version packs nutrients and cozy flavors without the heaviness. It’s a fresh way to enjoy a fall favorite. Try it and see which you prefer! #healthylasagna #fallmeals #comfortfooddinner"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 40,
+    "servings": 6,
+    "ingredients": [
+        "12 lasagna noodles, cooked and drained",
+        "2 cups pumpkin puree, roasted or canned",
+        "1 1/2 cups ricotta cheese",
+        "3 cups fresh spinach, roughly chopped",
+        "2 cups shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "2 cloves garlic, minced",
+        "1 small onion, finely chopped",
+        "1 teaspoon dried sage",
+        "1/2 teaspoon nutmeg",
+        "Salt and pepper to taste",
+        "2 tablespoons olive oil"
+    ],
+    "yield": "6 servings",
+    "introduction": "I first made this healthy pumpkin spinach lasagna when I wanted a comforting fall meal that felt cozy but wasn’t too heavy. Traditional lasagna is delicious but can be a bit rich, so I experimented by swapping in pumpkin puree and fresh spinach for a lighter, nutritious twist. The pumpkin adds a natural creaminess and subtle sweetness, while the spinach brings a fresh earthiness that balances the dish. One trick I learned is roasting the pumpkin beforehand to deepen its flavor and reduce moisture, which helps keep the lasagna from getting watery. Also, sautéing the spinach with garlic and onion adds a savory base that complements the pumpkin perfectly. When baked, the layers meld into a luscious, creamy casserole with golden bubbly cheese on top. It’s just the right kind of comfort food for chilly fall evenings, and my family loves how it feels indulgent without being heavy. I think this recipe works great for weekday dinners or even a casual weekend meal when you want something special but not complicated. Plus, it’s meatless and packed with veggies, so it feels wholesome and satisfying. I hope you enjoy making and sharing this as much as we do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by roasting the pumpkin if using fresh: peel, cube, and toss with a bit of olive oil, then roast at 400°F for about 25 minutes until tender and slightly caramelized. This step intensifies the pumpkin’s flavor and reduces excess moisture, which is key to a creamy but not watery lasagna. If using canned pumpkin, just measure it out and skip roasting. Let the pumpkin cool slightly before mixing.",
+            "timing": 25,
+            "doneness_cue": "Pumpkin cubes are soft and caramelized with golden edges."
+        },
+        {
+            "step": 2,
+            "instruction": "While the pumpkin roasts, cook the lasagna noodles according to package instructions until al dente. Drain and lay them flat on a sheet to prevent sticking. Properly cooked noodles are tender but still firm enough to hold the layers without falling apart.",
+            "timing": 10,
+            "doneness_cue": "Noodles are pliable, not mushy, and separate easily."
+        },
+        {
+            "step": 3,
+            "instruction": "In a skillet, heat olive oil over medium heat and sauté the chopped onion and minced garlic until translucent and fragrant, about 5 minutes. This builds a flavorful base for the spinach layer. Avoid browning the garlic too much to prevent bitterness.",
+            "timing": 5,
+            "doneness_cue": "Onions are soft and translucent; garlic is aromatic but not browned."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the chopped spinach to the skillet and cook until just wilted, about 3-4 minutes. Spinach releases water, so cook it down to avoid soggy layers. Season with salt, pepper, and dried sage. Remove from heat and let cool slightly.",
+            "timing": 4,
+            "doneness_cue": "Spinach is bright green and wilted but not mushy."
+        },
+        {
+            "step": 5,
+            "instruction": "In a mixing bowl, combine the roasted pumpkin puree with ricotta cheese, nutmeg, salt, and pepper. Stir until smooth and creamy. This mixture forms the rich, flavorful layer that keeps the lasagna moist and tender without heavy cream.",
+            "timing": 5,
+            "doneness_cue": "Mixture is smooth with no lumps, well-seasoned."
+        },
+        {
+            "step": 6,
+            "instruction": "Preheat the oven to 375°F. Lightly grease a 9x13 inch baking dish. Start layering: spread a thin layer of pumpkin mixture on the bottom, then a layer of noodles, followed by half the spinach mixture, a sprinkle of mozzarella, and repeat. Finish with a final noodle layer topped with pumpkin mixture and remaining mozzarella and Parmesan cheese.",
+            "timing": 10,
+            "doneness_cue": "Layers are even and cheese is sprinkled uniformly on top."
+        },
+        {
+            "step": 7,
+            "instruction": "Cover the baking dish tightly with foil and bake for 25 minutes. This allows the flavors to meld and the lasagna to heat through gently, preventing the top from over-browning while the interior cooks evenly.",
+            "timing": 25,
+            "doneness_cue": "Lasagna is bubbling around edges, heated through."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the foil and bake uncovered for an additional 10-15 minutes until the cheese on top is golden and bubbly. This final step adds a delicious caramelized crust and texture contrast.",
+            "timing": 15,
+            "doneness_cue": "Top cheese is browned and bubbly with crispy edges."
+        },
+        {
+            "step": 9,
+            "instruction": "Let the lasagna rest for 10 minutes before slicing. Resting helps the layers set so the pieces hold together better when served. It also allows flavors to settle and intensify.",
+            "timing": 10,
+            "doneness_cue": "Lasagna is firm enough to slice cleanly without falling apart."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Healthy Pumpkin Spinach Lasagna Works So Well",
+        "content": "<p>This recipe strikes the perfect balance between creamy indulgence and light, wholesome ingredients. Roasting the pumpkin first caramelizes natural sugars and reduces moisture, which concentrates flavor and prevents soggy layers. The pumpkin’s natural creaminess replaces heavier dairy, giving the filling a rich texture without excess fat. Mixing pumpkin with ricotta cheese creates a smooth, luscious layer that binds the spinach and noodles together beautifully.</p><p>Sautéing the spinach with garlic and onion does more than just add flavor—it removes excess water from the greens, which is crucial to prevent a watery lasagna. The sage and nutmeg add warm, earthy notes that complement the pumpkin’s sweetness and enhance the overall fall flavor profile.</p><p>The layering technique ensures even distribution of ingredients, which helps each bite have a perfect balance of creamy filling, tender pasta, and vibrant spinach. Baking covered first allows the lasagna to heat through gently, while finishing uncovered crisps the cheese topping and adds a satisfying texture contrast.</p><p>The resting step is essential for setting the layers, making slicing cleaner and presentation prettier. Altogether, these techniques and ingredient choices make this lasagna a comforting yet healthy fall dinner option that feels special but is easy enough for weeknights.</p>",
+        "ingredient_notes": {
+            "pumpkin puree": "Look for pure pumpkin puree with no added sugars or spices, ideally fresh roasted for best flavor. Pumpkin provides natural sweetness and moisture that creates a creamy texture without heavy cream. Using canned pumpkin is convenient, but roasting fresh cubes deepens the flavor and reduces excess water that can make the lasagna watery. Avoid pumpkin pie filling, which contains added sugar and spices.",
+            "ricotta cheese": "Ricotta adds a mild, creamy richness that balances the pumpkin’s sweetness. Choose whole milk ricotta for a silkier texture, or part-skim for a lighter option. Ricotta helps bind the filling and adds protein. Stir it well before mixing to avoid lumps and ensure smooth layering.",
+            "fresh spinach": "Fresh spinach should be bright green and crisp. Cooking it down removes excess water that could otherwise make the lasagna soggy. Wilted spinach blends well with the pumpkin and ricotta, providing a fresh, earthy counterpoint. Frozen spinach can be substituted but must be thoroughly thawed and squeezed dry to avoid excess moisture.",
+            "lasagna noodles": "Use no-boil or regular lasagna noodles cooked al dente. Overcooked noodles become mushy and ruin the texture. Laying cooked noodles flat prevents sticking and tearing. Properly cooked noodles absorb flavors while maintaining structure so the lasagna slices neatly.",
+            "cheeses (mozzarella and Parmesan)": "Mozzarella melts beautifully, creating gooey, stringy layers, while Parmesan adds salty, nutty depth and a golden crust when baked. Use freshly grated Parmesan for best flavor. These cheeses provide the appealing bubbly, caramelized topping that makes the dish feel indulgent."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Roast the pumpkin instead of steaming or boiling for deeper flavor.",
+            "reason": "Roasting caramelizes the natural sugars in pumpkin, enhancing its sweetness and adding complexity that steaming or boiling can’t achieve. It also reduces moisture content, which helps prevent a watery lasagna. Skipping this step can result in a bland filling with excess liquid."
+        },
+        {
+            "tip": "Sauté spinach with garlic and onion to remove excess water and build flavor.",
+            "reason": "Cooking spinach down before layering removes moisture that could make the lasagna soggy. The garlic and onion infuse the greens with savory notes, elevating the dish’s flavor profile. Adding raw spinach directly would release water during baking and dilute the creamy pumpkin layer."
+        },
+        {
+            "tip": "Let the lasagna rest before slicing to set the layers.",
+            "reason": "Resting allows the ingredients to firm up and the cheese to cool slightly, making the lasagna easier to cut neatly without falling apart. Serving immediately after baking often results in a runny, unstable dish that’s hard to plate attractively."
+        },
+        {
+            "tip": "Use whole milk ricotta for creamier texture; part-skim if you want lighter.",
+            "reason": "Whole milk ricotta contains more fat, which contributes to a silkier, richer filling that complements the pumpkin. Part-skim ricotta is lower in fat and calories but can be slightly drier. Both work well, but texture and mouthfeel differ slightly."
+        },
+        {
+            "tip": "Cook noodles al dente and lay flat to prevent sticking.",
+            "reason": "Overcooked noodles become mushy and tear easily, ruining the lasagna’s structure. Laying noodles flat after draining prevents them from sticking together and makes layering smoother. This step ensures each slice holds its shape well."
+        },
+        {
+            "tip": "Cover lasagna with foil during initial baking to prevent drying out.",
+            "reason": "Covering traps steam and gently cooks the lasagna through without over-browning the cheese. Removing the foil near the end allows the top to crisp and caramelize, creating a perfect texture contrast. Baking uncovered from the start risks burning the cheese before the interior is heated."
+        },
+        {
+            "tip": "Season each layer lightly to build balanced flavor throughout.",
+            "reason": "Adding salt and spices to both the pumpkin-ricotta mixture and the sautéed spinach ensures every bite is flavorful. Under-seasoning one component can leave the dish tasting flat or uneven. Layering seasoning creates a harmonious, well-rounded taste."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using pumpkin pie filling instead of pure pumpkin puree.",
+            "why_it_happens": "Many confuse canned pumpkin pie filling with plain pumpkin puree because they come in similar cans. Pie filling contains added sugar and spices that alter the flavor and texture.",
+            "fix": "Always check the label and use 100% pure pumpkin puree with no additives. This ensures the right natural sweetness and moisture balance for the lasagna."
+        },
+        {
+            "mistake": "Not cooking spinach before layering.",
+            "why_it_happens": "Some assume fresh spinach will cook sufficiently during baking, but it releases a lot of water that can make the dish watery.",
+            "fix": "Sauté spinach with garlic and onion until wilted and most moisture evaporates before adding to the lasagna. This prevents sogginess and adds flavor."
+        },
+        {
+            "mistake": "Overcooking lasagna noodles.",
+            "why_it_happens": "Trying to speed up prep by boiling noodles too long leads to mushy, fragile sheets.",
+            "fix": "Cook noodles al dente, then drain and lay flat to cool. This keeps them firm enough to hold layers and prevents tearing."
+        },
+        {
+            "mistake": "Skipping the resting step after baking.",
+            "why_it_happens": "Impatience to serve often causes slicing immediately after baking, resulting in a runny, unstable lasagna.",
+            "fix": "Let the lasagna rest 10 minutes to set layers and firm up. This makes slicing cleaner and presentation better."
+        },
+        {
+            "mistake": "Not roasting the pumpkin first.",
+            "why_it_happens": "Using raw or steamed pumpkin puree can lead to bland flavor and watery filling.",
+            "fix": "Roast pumpkin cubes before pureeing to concentrate flavor and reduce moisture, creating a richer filling."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegan Pumpkin Spinach Lasagna",
+            "description": "Replace ricotta and mozzarella with vegan cheese alternatives or cashew cream. Use nutritional yeast for a cheesy flavor. This keeps it plant-based while maintaining creamy texture and rich flavor.",
+            "technical_note": "Cashew cream requires soaking nuts ahead and blending until smooth. Vegan cheeses melt differently, so watch baking time to avoid drying out."
+        },
+        {
+            "name": "Add Mushrooms for Earthy Depth",
+            "description": "Sauté sliced cremini or button mushrooms with the spinach and garlic for a deeper umami flavor. Mushrooms add texture and richness to the filling.",
+            "technical_note": "Cook mushrooms until moisture evaporates to prevent watery layers. Adjust seasoning accordingly."
+        },
+        {
+            "name": "Gluten-Free Pumpkin Spinach Lasagna",
+            "description": "Use gluten-free lasagna noodles or thinly sliced zucchini strips as noodle substitutes. This keeps the dish accessible for gluten-sensitive eaters while preserving layering.",
+            "technical_note": "Zucchini releases water, so salt and drain slices well before layering to avoid sogginess."
+        },
+        {
+            "name": "Spicy Pumpkin Spinach Lasagna",
+            "description": "Add a pinch of cayenne or red pepper flakes to the pumpkin mixture for subtle heat. This adds warmth that complements the fall flavors nicely.",
+            "technical_note": "Start with a small amount and adjust to taste to avoid overpowering the dish."
+        },
+        {
+            "name": "Add Ground Turkey or Chicken",
+            "description": "For a protein boost, brown ground turkey or chicken with garlic and onions, then layer it with the pumpkin and spinach. This makes the lasagna heartier and more filling.",
+            "technical_note": "Drain excess fat from meat and season well. Adjust baking time slightly if adding extra moisture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "12g",
+        "fiber_grams": "6g",
+        "sodium_mg": "520mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pumpkin spinach lasagna can be safely kept at room temperature for up to 2 hours when covered loosely to prevent drying. Avoid leaving out longer to reduce bacterial growth risk.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 4 days. The flavors meld nicely overnight, but the texture may firm up. Reheat gently to maintain creaminess.",
+        "freezer": "Freeze portions in airtight containers or wrapped tightly in foil and plastic wrap for up to 3 months. Thaw overnight in the fridge before reheating to preserve texture.",
+        "reheating": "Reheat in a 350°F oven covered with foil for 15-20 minutes until warmed through, or microwave in short bursts with a splash of water or milk to maintain moisture. Avoid overheating to prevent drying.",
+        "make_ahead_strategy": "You can assemble the lasagna a day ahead, cover tightly, and refrigerate before baking. This allows flavors to develop and saves time on the day you plan to serve it."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen spinach instead of fresh?",
+            "answer": "Yes, but be sure to thaw it completely and squeeze out all excess water before cooking. Frozen spinach contains more moisture, which can make the lasagna watery if not drained well."
+        },
+        {
+            "question": "Is it okay to skip roasting the pumpkin?",
+            "answer": "You can skip roasting if using canned pumpkin puree, but roasting fresh pumpkin enhances flavor and reduces moisture, making your lasagna creamier and less watery."
+        },
+        {
+            "question": "Can I prepare this lasagna entirely ahead of time?",
+            "answer": "Absolutely! You can assemble it a day in advance, cover tightly, and refrigerate. Bake just before serving for best texture and flavor."
+        },
+        {
+            "question": "What can I substitute for ricotta cheese?",
+            "answer": "You can use cottage cheese blended smooth, cream cheese, or a vegan ricotta alternative for different textures and dietary needs."
+        },
+        {
+            "question": "How do I prevent the lasagna from being watery?",
+            "answer": "Make sure to roast pumpkin to reduce moisture, sauté spinach thoroughly to evaporate water, and cook noodles al dente. Also, avoid adding extra liquid to the filling."
+        },
+        {
+            "question": "Can I freeze leftover lasagna?",
+            "answer": "Yes, freeze in airtight containers for up to 3 months. Thaw overnight in the fridge before reheating gently to preserve texture."
+        },
+        {
+            "question": "What cheese works best for topping?",
+            "answer": "A mix of mozzarella for meltiness and Parmesan for flavor and browning works best. Freshly grated cheeses melt and brown more evenly."
+        },
+        {
+            "question": "Is this recipe suitable for meal prep?",
+            "answer": "Definitely! It reheats well and can be portioned for lunches or dinners throughout the week."
+        }
+    ],
+    "conclusion": "Give this healthy pumpkin spinach lasagna a try this fall — it’s cozy, comforting, and surprisingly light. I’d love to hear how your family enjoys it!",
+    "seo": {
+        "primary_keyword": "fall dinner ideas healthy",
+        "secondary_keywords": [
+            "healthy pumpkin lasagna",
+            "spinach pumpkin lasagna",
+            "how to make pumpkin spinach lasagna",
+            "best pumpkin lasagna recipe",
+            "easy healthy fall dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "How to Roast Pumpkin Perfectly",
+                "anchor": "roast-pumpkin-technique"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230383_494",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-21 14:27:16",
+        "title_seed": "fall dinner ideas healthy"
+    },
+    "author_id": "author_001",
+    "id": "post_1787322436_536",
+    "slug": "fall-dinner-ideas-healthy",
+    "uniqueSlug": "fall-dinner-ideas-healthy",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_1.webp",
+            "filePath": "posts/fall-dinner-ideas-healthy/images/fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_1.webp",
+            "relativePath": "fall-dinner-ideas-healthy/images/fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_2.webp",
+            "filePath": "posts/fall-dinner-ideas-healthy/images/fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_2.webp",
+            "relativePath": "fall-dinner-ideas-healthy/images/fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_3.webp",
+            "filePath": "posts/fall-dinner-ideas-healthy/images/fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_3.webp",
+            "relativePath": "fall-dinner-ideas-healthy/images/fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_11.webp",
+            "filePath": "posts/fall-dinner-ideas-healthy/images/fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_11.webp",
+            "relativePath": "fall-dinner-ideas-healthy/images/fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Nutritious Autumn Veggie Casserole - Easy Fall Dinner Ideas Healthy",
+            "description": "Wholesome autumn vegetable casserole perfect for a healthy fall dinner. Packed with seasonal produce and rich flavors, this easy recipe makes a satisfying meatless meal everyone will enjoy.",
+            "board_override": "Fall Dinner Ideas",
+            "source_keyword": "fall dinner ideas healthy",
+            "reference_pin": "https://www.pinterest.com/pin/4785143352420775/",
+            "reference_saves": 21,
+            "csv_exported": true
+        },
+        {
+            "fileName": "fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_12.webp",
+            "filePath": "posts/fall-dinner-ideas-healthy/images/fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_12.webp",
+            "relativePath": "fall-dinner-ideas-healthy/images/fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Wholesome Harvest Veggie Stir-Fry for Healthy Fall Dinners",
+            "description": "Enjoy a vibrant and nutritious veggie stir-fry perfect for fall dinner ideas healthy. Packed with seasonal vegetables and savory spices, this dish brings warmth and wellness to your autumn meals. Ideal for quick, wholesome dinners that satisfy and nourish.",
+            "board_override": "Fall Dinner Ideas",
+            "source_keyword": "fall dinner ideas healthy",
+            "reference_pin": "https://www.pinterest.com/pin/903112531589071540/",
+            "reference_saves": 3,
+            "csv_exported": true
+        },
+        {
+            "fileName": "fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_13.webp",
+            "filePath": "posts/fall-dinner-ideas-healthy/images/fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_13.webp",
+            "relativePath": "fall-dinner-ideas-healthy/images/fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "15 Easy Fall Dinner Ideas Healthy and Delicious for Busy Evenings",
+            "description": "Discover simple and healthy fall dinner ideas that bring warmth and nutrition to your table. Perfect for busy schedules, these recipes combine seasonal flavors with wholesome ingredients to keep your meals satisfying and stress-free. Save these easy dinner solutions for a cozy autumn full of health and taste.",
+            "board_override": "Fall Dinner Ideas",
+            "source_keyword": "fall dinner ideas healthy",
+            "reference_pin": "https://www.pinterest.com/pin/1122100063459259662/",
+            "reference_saves": null,
+            "csv_exported": true
+        }
+    ],
+    "image": "fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_1.webp",
+    "image_path": "posts/fall-dinner-ideas-healthy/images/fall-dinner-ideas-healthy_fall-dinner-ideas-healthy_pinrecipes_image_1.webp",
+    "image_dir": "fall-dinner-ideas-healthy/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-21T14:27:16+00:00",
+    "updatedAt": "2026-08-21T14:27:16+00:00",
+    "pinterest_source_keyword": "fall dinner ideas healthy",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}
