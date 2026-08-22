@@ -337,6 +337,48 @@
             "relativePath": "simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides/images/simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides_pinrecipes_image_5.webp",
             "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides/images/simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides_pinrecipes_image_5.webp",
             "type": "template"
+        },
+        {
+            "fileName": "simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides_asparagus-recipes-easy_pinrecipes_image_11.webp",
+            "filePath": "posts/simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides/images/simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides_asparagus-recipes-easy_pinrecipes_image_11.webp",
+            "relativePath": "simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides/images/simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides_asparagus-recipes-easy_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Easy Sheet Pan Asparagus Recipe with Garlic and Olive Oil",
+            "description": "Enjoy tender, naturally sweet roasted asparagus made simple on a sheet pan. Tossed with olive oil and garlic, this easy side is perfect for quick weeknight dinners or healthy snacks.",
+            "board_override": "Asparagus Recipes Easy",
+            "source_keyword": "asparagus recipes easy",
+            "reference_pin": "https://www.pinterest.com/pin/4855512095849666/",
+            "reference_saves": 11,
+            "csv_exported": true
+        },
+        {
+            "fileName": "simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides_asparagus-recipes-easy_pinrecipes_image_12.webp",
+            "filePath": "posts/simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides/images/simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides_asparagus-recipes-easy_pinrecipes_image_12.webp",
+            "relativePath": "simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides/images/simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides_asparagus-recipes-easy_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Easy Sheet Pan Asparagus Recipe 🌿 Quick, Flavorful Weeknight Side",
+            "description": "Enjoy tender asparagus roasted to perfection with olive oil and garlic. This simple sheet pan recipe highlights the veggie's natural sweetness and is perfect for quick, healthy meals.",
+            "board_override": "Asparagus Recipes Easy",
+            "source_keyword": "asparagus recipes easy",
+            "reference_pin": "https://www.pinterest.com/pin/16184879908548646/",
+            "reference_saves": 2,
+            "csv_exported": true
+        },
+        {
+            "fileName": "simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides_asparagus-recipes-easy_pinrecipes_image_13.webp",
+            "filePath": "posts/simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides/images/simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides_asparagus-recipes-easy_pinrecipes_image_13.webp",
+            "relativePath": "simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides/images/simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides_asparagus-recipes-easy_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "Easy Sheet Pan Asparagus with Garlic Olive Oil for Quick Healthy Sides",
+            "description": "Discover a simple and flavorful asparagus recipe perfect for busy weeknights. Roasted to highlight natural sweetness and tossed with olive oil and garlic, this easy side complements any meal or serves as a tasty snack.",
+            "board_override": "Asparagus Recipes Easy",
+            "source_keyword": "asparagus recipes easy",
+            "reference_pin": "https://www.pinterest.com/pin/1136033074786971403/",
+            "reference_saves": null,
+            "csv_exported": true
         }
     ],
     "image": "simple-and-flavorful-sheet-pan-asparagus-recipe-for-easy-weeknight-sides_pinrecipes_image_1.webp",
@@ -345,5 +387,11 @@
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2026-04-21T19:05:35+02:00",
-    "updatedAt": "2026-04-21T19:05:35+02:00"
+    "updatedAt": "2026-04-21T19:05:35+02:00",
+    "pinterest_source_keyword": "asparagus recipes easy",
+    "trend_pin_used_ids": [
+        "4855512095849666",
+        "16184879908548646",
+        "1136033074786971403"
+    ]
 }
