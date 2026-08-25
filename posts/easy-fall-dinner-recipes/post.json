@@ -1,0 +1,98 @@
+{
+    "title": "Easy Fall Dinner Recipes That Bring Cozy Comfort to Your Weeknight Table",
+    "promptIMG": "Food photography: easy fall dinner recipes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a warmly lit home kitchen softly blurred behind with a bright window casting natural daylight. SUBJECT: a generous, overflowing ceramic casserole dish filled with a layered autumn vegetable bake featuring roasted butternut squash, caramelized onions, and browned melted cheese on top. The front corner piece is razor-sharp at a 30-degree angle, showcasing the crispy golden edges and gooey cheese pull. DETAILS: deep caramelized glaze on squash, glossy melted cheese with herbs sprinkled, natural crumbs scattered on the dish edge. STYLE: ultra-photorealistic professional food photography with bright airy daylight and warm golden hues, rich saturated colors evoking fall warmth. AVOID: no text, no hands, no people, no dull or washed-out colors, no steam or smoke.",
+        "img2": "SCENE: soft light blur background of warm wood and marble tones with bright clean daylight. SUBJECT: the reveal shot of a hearty fall stew bowl cut open to show tender chunks of slow-cooked beef, glistening root vegetables, and rich gravy slowly dripping from a spoon resting mid-scoop. DETAILS: glossy wet interior with vibrant orange carrots and deep brown broth, fresh thyme garnish on top, crumbs and a light dusting of pepper scattered below. STYLE: ultra-photorealistic professional food photography with warm golden-amber tones, shallow macro depth of field, hyper-vivid colors. AVOID: no text, no hands, no people, no CGI or plastic textures.",
+        "img3": "SCENE: warm dark wood softly blurred behind with a single warm side glow highlighting the dish. SUBJECT: several slices of a rustic pumpkin and sage lasagna stacked close together on a wooden board, topped with melted mozzarella and fresh sage leaves. The front slice is razor-sharp with a generous cheese pull and visible layers of creamy pumpkin sauce and pasta. DETAILS: intense glossy shine on cheese, deep amber caramelization on edges, scattered sage leaves and a light dusting of nutmeg. STYLE: ultra-photorealistic professional food photography with deep golden-amber warmth, rich saturated tones, shallow macro depth of field. AVOID: no text, no hands, no people, no dull colors, no steam."
+    },
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-25 00:13:17",
+        "title_seed": "easy fall dinner recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1787616797_546",
+    "slug": "easy-fall-dinner-recipes",
+    "uniqueSlug": "easy-fall-dinner-recipes",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-fall-dinner-recipes/images/easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_1.webp",
+            "relativePath": "easy-fall-dinner-recipes/images/easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-fall-dinner-recipes/images/easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_2.webp",
+            "relativePath": "easy-fall-dinner-recipes/images/easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-fall-dinner-recipes/images/easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_3.webp",
+            "relativePath": "easy-fall-dinner-recipes/images/easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_11.webp",
+            "filePath": "posts/easy-fall-dinner-recipes/images/easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_11.webp",
+            "relativePath": "easy-fall-dinner-recipes/images/easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Delicious & Easy Fall Dinner Recipes for Cozy Weeknight Meals",
+            "description": "Discover simple and flavorful easy fall dinner recipes perfect for busy weeknights. From hearty soups to comforting casseroles, enjoy quick meals that celebrate seasonal flavors and warm up your evenings all autumn long.",
+            "board_override": "Easy Fall Dinner Ideas",
+            "source_keyword": "easy fall dinner recipes",
+            "reference_pin": "https://www.pinterest.com/pin/364721269847234493/",
+            "reference_saves": 2,
+            "csv_exported": true
+        },
+        {
+            "fileName": "easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_12.webp",
+            "filePath": "posts/easy-fall-dinner-recipes/images/easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_12.webp",
+            "relativePath": "easy-fall-dinner-recipes/images/easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "25 Easy Fall Dinner Recipes for Quick and Cozy Weeknight Meals",
+            "description": "Discover 25 easy fall dinner recipes perfect for busy evenings. These comforting, flavorful dishes make weeknight cooking simple and satisfying, ideal for the whole family during crisp autumn nights. Embrace seasonal ingredients with effortless recipes that bring warmth and taste to your table.",
+            "board_override": "Easy Fall Dinner Ideas",
+            "source_keyword": "easy fall dinner recipes",
+            "reference_pin": "https://www.pinterest.com/pin/303007881202714858/",
+            "reference_saves": 1,
+            "csv_exported": true
+        },
+        {
+            "fileName": "easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_13.webp",
+            "filePath": "posts/easy-fall-dinner-recipes/images/easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_13.webp",
+            "relativePath": "easy-fall-dinner-recipes/images/easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "30+ Easy Fall Dinner Recipes for Busy Families (quick, cozy & budget-friendly)",
+            "description": "Discover simple and delicious easy fall dinner recipes perfect for busy weeknights. These cozy autumn meals include one-pan dishes, hearty soups, and comforting casseroles that save time and money while satisfying the whole family.",
+            "board_override": "Easy Fall Dinner Ideas",
+            "source_keyword": "easy fall dinner recipes",
+            "reference_pin": "https://www.pinterest.com/pin/9570217954124291/",
+            "reference_saves": 2,
+            "csv_exported": true
+        }
+    ],
+    "image": "easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-fall-dinner-recipes/images/easy-fall-dinner-recipes_easy-fall-dinner-recipes_pinrecipes_image_1.webp",
+    "image_dir": "easy-fall-dinner-recipes/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-25T00:13:17+00:00",
+    "updatedAt": "2026-08-25T00:13:17+00:00",
+    "pinterest_source_keyword": "easy fall dinner recipes",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}
