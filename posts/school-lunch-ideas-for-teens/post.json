@@ -1,0 +1,359 @@
+{
+    "title": "Easy and Delicious School Lunch Ideas for Teens That Keep Them Full All Day",
+    "promptIMG": "Food photography: hearty teen school lunch spread including sandwiches, wraps, and colorful sides, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a bright, softly blurred home kitchen with morning daylight filtering through a window, faint reflections on a clean counter. SUBJECT: an abundant, overflowing lunchbox filled with a stacked turkey and cheese sandwich on whole grain bread, colorful veggie sticks on the side, and a small container of fresh berries. The front sandwich half is razor-sharp at a 30-degree angle showing the layers of moist turkey, melted cheese, and crisp lettuce, the rest softly fading into bokeh. DETAILS: the sandwich has a glossy, lightly toasted crust with a fresh herb sprinkle on the lettuce, natural crumb textures visible, and the berries glisten with dew. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, rich saturated colors — hyper-vivid viral recipe pin style, shallow macro depth of field, vertical 2:3. AVOID: no text, logos, or people, no steam or smoke, no dull colors or CGI look.",
+        "img2": "SCENE: soft light blur background of warm wood and marble tones, bright window daylight casting natural shadows. SUBJECT: the reveal shot of a whole wheat wrap cut in half with both halves stacked to show the moist interior filled with grilled chicken strips, creamy avocado slices, crisp romaine, and a drizzle of tangy dressing. The oozing avocado and glistening grilled chicken fill 90% of the frame, razor sharp at the exposed center. DETAILS: the wrap edges have a slight golden toast, the filling is glossy and fresh with vibrant greens and pinkish chicken, crumbs and dressing droplets scattered naturally below. STYLE: ultra-photorealistic, bright airy daylight with warm amber glow, rich saturated colors, hyper-vivid viral recipe look, shallow macro depth of field, vertical 2:3. AVOID: no hands, no text, no logos, no dull or flat colors.",
+        "img3": "SCENE: soft warm dark wood background with a single warm side glow highlighting the food, creating a cozy inviting atmosphere. SUBJECT: several lunch components arranged close together on a rustic ceramic plate including a cut turkey sandwich, a small bowl of carrot sticks with ranch dip, and a container of mixed berries. The front sandwich half is razor-sharp, generously topped with crisp lettuce and tomato slices, the rest receding into warm bokeh. DETAILS: intense wet glossy shine on the sandwich bread and fresh veggies, deep golden toast marks, natural crumbs scattered on the plate, fresh herb garnish lightly dusted. STYLE: ultra-photorealistic professional food photography with deep golden-amber warm color grading, rich saturated glowing appetizing tones, hyper-vivid viral recipe pin style, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no steam or smoke."
+    },
+    "description": "These school lunch ideas are perfect for busy teens who need a filling, balanced meal to power through their day. With simple sandwiches, wraps, and fresh sides, they’re easy to pack and loved by my kids. Great for quick prep and tasty lunches!",
+    "hashtags": "#schoollunchideas #teenlunches #easymeals",
+    "board_name": "Easy Lunch Ideas",
+    "pin_variations": [
+        {
+            "title": "Why Do These School Lunch Ideas for Teens Always Get Eaten First?",
+            "description": "Wondering what makes these teen school lunches so popular? It’s all about the fresh ingredients and easy prep that keep them craving more. Perfect for busy mornings! Save this for your next lunch plan. #schoollunchideas #teensnacks #easymeals"
+        },
+        {
+            "title": "The One Trick That Makes School Lunch Ideas for Teens So Tasty",
+            "description": "Adding a simple homemade dressing or fresh herbs can transform any teen lunchbox meal from boring to delicious. Try this tip and watch your teen’s lunchbox come home empty! Tap to get the full recipe. #schoollunchideas #lunchboxhacks #easyrecipes"
+        },
+        {
+            "title": "15-Minute School Lunch Ideas for Teens That Are Ready Fast",
+            "description": "Pressed for time? These school lunch ideas for teens come together in just 15 minutes with easy-to-find ingredients. Great for busy parents and hungry kids alike. Save this for dinner inspo! #quicklunch #schoollunchideas #easymeals"
+        },
+        {
+            "title": "Still Packing Boring Lunches? Try These School Lunch Ideas for Teens",
+            "description": "If your teen’s lunchbox is coming back untouched, it’s time for a change. These easy, flavorful lunch ideas keep teens satisfied and energized all afternoon. Tap for recipes your family will love! #schoollunchideas #teensnacks #familymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "8 slices whole grain bread, lightly toasted",
+        "8 oz sliced turkey breast",
+        "4 slices cheddar cheese",
+        "1 cup romaine lettuce, washed and dried",
+        "1 medium tomato, sliced",
+        "1 ripe avocado, sliced",
+        "1/2 cup carrot sticks",
+        "1/2 cup celery sticks",
+        "1/4 cup ranch dressing or hummus for dipping",
+        "1 cup mixed fresh berries (strawberries, blueberries, raspberries)"
+    ],
+    "yield": "4 packed lunches",
+    "introduction": "I remember when my oldest started high school, packing lunches felt like a daily challenge. Teens are hungry and picky, so I had to find easy, filling meals that wouldn’t get tossed. Over time, I learned that simple sandwiches with fresh ingredients and a few colorful sides kept my kids happy and energized all afternoon. This version uses whole grain bread for fiber, lean turkey for protein, and fresh veggies to add crunch and nutrition. I also love including a small container of berries for a sweet finish that’s still healthy. One trick I picked up is to lightly toast the bread so it holds up well without getting soggy by lunchtime. Plus, adding a creamy spread like ranch or hummus on the side makes the veggies more appealing. These lunches are quick to prepare in the morning or even the night before, which is a lifesaver on busy school days. When you open the lunchbox, you’ll see vibrant colors and layers of flavor that make these school lunches anything but boring. I hope your family enjoys these as much as mine does!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by lightly toasting the whole grain bread slices. Toasting not only adds a pleasant crunch but also helps the bread hold up better against moist ingredients like tomato and avocado. Avoid over-toasting as it can make the bread too dry and hard to bite. Once toasted, lay out four slices as the base for your sandwiches.",
+            "timing": 5,
+            "doneness_cue": "Bread should be golden brown but still soft enough to bite easily without crumbling."
+        },
+        {
+            "step": 2,
+            "instruction": "Layer each base slice with 2 ounces of sliced turkey breast, a slice of cheddar cheese, and fresh romaine lettuce leaves. Make sure the lettuce is dry to prevent sogginess. Add two slices of tomato and a few avocado slices for creaminess. The combination of protein, fat, and fiber keeps teens full longer.",
+            "timing": 5,
+            "doneness_cue": "Sandwich layers should be evenly distributed, fresh, and not overly stuffed to avoid spillage."
+        },
+        {
+            "step": 3,
+            "instruction": "Top each sandwich with the remaining bread slices to complete. Press gently to secure the layers but not so hard that the sandwich becomes squished. Cut each sandwich in half diagonally to make it easier to eat and visually appealing.",
+            "timing": 2,
+            "doneness_cue": "Sandwich halves should hold together well with visible layers and clean cut edges."
+        },
+        {
+            "step": 4,
+            "instruction": "Prepare veggie sticks by washing and peeling carrots and celery, then cutting them into finger-friendly sticks. Place them in a small container or sectioned lunchbox compartment with a side of ranch dressing or hummus for dipping. This adds a fresh crunch and a fun way to eat veggies.",
+            "timing": 5,
+            "doneness_cue": "Veggie sticks should be crisp, evenly sized, and fresh looking without any browning."
+        },
+        {
+            "step": 5,
+            "instruction": "Wash and dry mixed berries like strawberries, blueberries, and raspberries. Pack them in a small container or resealable bag to add a naturally sweet finish to the lunch. Berries are full of antioxidants and vitamins, making them a healthy treat.",
+            "timing": 3,
+            "doneness_cue": "Berries should be plump, vibrant, and free of mold or mushy spots."
+        },
+        {
+            "step": 6,
+            "instruction": "Assemble all components into a lunchbox or container with separate compartments to keep sandwiches, veggies, and fruit fresh and intact. If packing the night before, store the avocado slices with a light squeeze of lemon juice to prevent browning.",
+            "timing": 2,
+            "doneness_cue": "Lunchbox compartments should be neatly packed without ingredients mixing or getting soggy."
+        },
+        {
+            "step": 7,
+            "instruction": "For an extra touch, add a small note or fun sticker inside the lunchbox to brighten your teen’s day. Little gestures like this make lunchtime more enjoyable and show you care.",
+            "timing": 1,
+            "doneness_cue": "Note or sticker placed in an easily visible spot inside the lunchbox."
+        },
+        {
+            "step": 8,
+            "instruction": "Keep the lunchbox refrigerated until ready to go. If your teen’s school doesn’t have a fridge, pack an ice pack to keep the lunch cool and fresh until lunchtime.",
+            "timing": 1,
+            "doneness_cue": "Ice pack feels cold and sandwich ingredients remain fresh and safe to eat."
+        },
+        {
+            "step": 9,
+            "instruction": "Encourage your teen to drink plenty of water with their lunch to stay hydrated and help digestion. A reusable water bottle is a great addition to the lunch routine.",
+            "timing": 1,
+            "doneness_cue": "Water bottle filled and easily accessible in the lunch bag."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why These School Lunch Ideas Work So Well",
+        "content": "<p>The success of these school lunch ideas lies in balancing nutrition, flavor, and convenience. Whole grain bread provides complex carbohydrates and fiber, which slow digestion and keep teens feeling full longer. The lean turkey breast adds a good source of protein, essential for muscle repair and energy. Including fresh vegetables like lettuce and tomato contributes vitamins, minerals, and hydration, while avocado adds healthy fats that improve satiety and flavor.</p><p>Toasting the bread slightly is a subtle technique that prevents sogginess from moist ingredients. This is important because soggy sandwiches often become unappealing and messy, leading to wasted food. The layering order also matters: placing cheese between the turkey and bread creates a moisture barrier, helping maintain texture.</p><p>Separating components such as veggie sticks and fruit into compartments preserves their freshness and prevents flavors from mixing prematurely. Including a dip like ranch or hummus encourages vegetable consumption by adding a creamy, flavorful element that teens enjoy. This simple addition can make a big difference in acceptance of healthy sides.</p><p>Lastly, the visual appeal of vibrant colors and neat presentation plays a psychological role. Teens are more likely to eat a lunch that looks appetizing and thoughtfully prepared. The combination of textures—crisp veggies, creamy avocado, soft bread, and juicy fruit—adds interest and satisfaction to the meal.</p>",
+        "ingredient_notes": {
+            "whole grain bread": "Look for bread labeled 100% whole grain or whole wheat to ensure maximum fiber and nutrient content. Avoid overly processed breads with added sugars or preservatives. Whole grain bread adds a hearty texture and nutty flavor, plus it holds up well when lightly toasted. Toasting helps prevent sogginess when combined with moist sandwich fillings.",
+            "turkey breast": "Choose lean, low-sodium sliced turkey breast for a healthy protein source. Avoid deli meats with excessive additives or nitrates. Turkey provides essential amino acids and keeps teens energized. Using freshly sliced or high-quality packaged turkey ensures tenderness and flavor without excess salt.",
+            "cheddar cheese": "Sharp or mild cheddar works well, adding creamy richness and calcium. Cheese also helps create a moisture barrier between bread and wet ingredients, improving sandwich texture. Use slices that melt slightly if desired, but avoid overly processed cheese for best flavor.",
+            "avocado": "Select ripe but firm avocados that yield slightly to gentle pressure. Avocado adds healthy monounsaturated fats and a creamy texture that balances the sandwich. To prevent browning, add lemon juice and pack separately if preparing in advance. Avocado’s richness enhances flavor and satiety.",
+            "fresh vegetables": "Use crisp, fresh romaine lettuce and ripe tomatoes for freshness and crunch. Wash and dry thoroughly to avoid sogginess. Vegetables add vitamins, minerals, hydration, and a refreshing contrast to the protein and bread. Cutting vegetables into appealing shapes can encourage eating."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Lightly toast the bread before assembling sandwiches.",
+            "reason": "Toasting creates a sturdy base that resists moisture from fillings, keeping the sandwich from becoming soggy during the school day. It also adds a pleasant crunch and enhances flavor through Maillard browning reactions."
+        },
+        {
+            "tip": "Pack avocado slices separately with a squeeze of lemon juice.",
+            "reason": "Avocado oxidizes quickly and turns brown when exposed to air. Lemon juice’s acidity slows this process, preserving the fresh green color and flavor. Packing separately prevents the sandwich from looking unappetizing."
+        },
+        {
+            "tip": "Use compartmentalized lunchboxes to separate wet and dry ingredients.",
+            "reason": "Separating components like sandwiches, veggies, and fruit maintains texture and freshness. It prevents flavors from mixing and sogginess, making the lunch more enjoyable and visually appealing."
+        },
+        {
+            "tip": "Include a creamy dip for veggies to encourage eating.",
+            "reason": "Many teens find raw vegetables boring. A tasty dip like ranch or hummus adds flavor and moisture, making veggies more appealing and increasing the likelihood they’ll be eaten."
+        },
+        {
+            "tip": "Cut sandwiches diagonally for easier eating.",
+            "reason": "Diagonal cuts create more manageable sandwich halves that fit better in lunchboxes and are easier to hold and bite into, especially for teens on the go."
+        },
+        {
+            "tip": "Add a colorful fruit side to balance the meal.",
+            "reason": "Fruits provide natural sweetness and vitamins, making the lunch more balanced nutritionally and visually attractive. Berries are ideal due to their antioxidant content and ease of packing."
+        },
+        {
+            "tip": "Prepare lunches the night before to save morning time.",
+            "reason": "Assembling lunches in advance reduces morning stress and ensures ingredients have time to chill and meld flavors. Just add fresh ingredients like avocado last to keep them fresh."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Packing sandwiches too early without protection from moisture.",
+            "why_it_happens": "Many assume sandwiches will stay fresh all day without special care, leading to soggy bread and unappetizing lunches.",
+            "fix": "Toast bread lightly and use moisture barriers like cheese or lettuce. Pack moist ingredients separately if needed, and use compartmentalized containers to keep components dry."
+        },
+        {
+            "mistake": "Using wilted or soggy vegetables.",
+            "why_it_happens": "Vegetables not properly washed, dried, or stored lose their crispness quickly.",
+            "fix": "Wash and dry vegetables thoroughly. Store in airtight containers with paper towels to absorb excess moisture and keep veggies fresh and crisp."
+        },
+        {
+            "mistake": "Overstuffing sandwiches making them hard to eat.",
+            "why_it_happens": "Trying to add too many ingredients leads to messy, bulky sandwiches that fall apart.",
+            "fix": "Stick to moderate layers and avoid excess fillings. Cut sandwiches diagonally for easier handling and neat presentation."
+        },
+        {
+            "mistake": "Not including a drink or hydration option.",
+            "why_it_happens": "In the rush of packing, drinks are sometimes forgotten, leaving teens thirsty.",
+            "fix": "Always include a reusable water bottle or juice box to encourage hydration during the day."
+        },
+        {
+            "mistake": "Using low-quality or overly processed deli meats.",
+            "why_it_happens": "Convenience often leads to buying cheap deli meats that are high in sodium and preservatives.",
+            "fix": "Choose fresh, lean turkey breast with minimal additives to improve flavor and healthfulness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Wrap",
+            "description": "Swap turkey for grilled vegetables like zucchini, bell peppers, and mushrooms with a spread of hummus inside a whole wheat wrap. This variation adds fiber and plant-based protein while keeping the lunch colorful and satisfying.",
+            "technical_note": "Grill or roast vegetables ahead of time and cool before assembling to avoid sogginess. Wrap tightly to hold the filling."
+        },
+        {
+            "name": "Peanut Butter and Banana Sandwich",
+            "description": "For a quick vegetarian option, spread natural peanut butter on whole grain bread and add banana slices. This provides protein, healthy fats, and potassium for energy that lasts.",
+            "technical_note": "Use fresh bananas and pack separately if preparing early to prevent browning. Add a drizzle of honey for extra sweetness if desired."
+        },
+        {
+            "name": "Chicken Caesar Salad Wrap",
+            "description": "Combine grilled chicken, romaine lettuce, parmesan cheese, and Caesar dressing in a tortilla wrap. This offers a classic flavor with a handheld convenience perfect for teens who prefer salad flavors.",
+            "technical_note": "Use a light hand with dressing to prevent sogginess. Wrap tightly and refrigerate until serving."
+        },
+        {
+            "name": "Turkey and Cranberry Sandwich",
+            "description": "Add a smear of cranberry sauce to the turkey sandwich for a sweet-tart twist that’s perfect for seasonal lunches. This adds moisture and flavor contrast.",
+            "technical_note": "Spread cranberry sauce thinly to avoid overly wet bread. Pair with mild cheese like Swiss for balance."
+        },
+        {
+            "name": "Mediterranean Veggie Pita",
+            "description": "Fill pita pockets with hummus, cucumber, tomato, olives, and feta cheese for a fresh Mediterranean-inspired lunch. It’s light, flavorful, and packed with nutrients.",
+            "technical_note": "Toast pita lightly before filling to add structure. Keep wet ingredients separate until just before eating if possible."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "15g",
+        "fiber_grams": "7g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Lunches should not be left at room temperature for more than 2 hours to prevent spoilage. Use insulated lunch bags with ice packs to keep food safe during transport.",
+        "refrigerator": "Store prepared lunches in airtight containers in the refrigerator for up to 24 hours. Some ingredients like avocado may brown, so add those fresh if possible. Cold sandwiches can be enjoyed directly from the fridge.",
+        "freezer": "Freezing is not recommended for assembled sandwiches as bread texture suffers. However, cooked proteins or veggie components can be frozen separately for meal prep.",
+        "reheating": "These lunches are designed to be eaten cold or at room temperature. If desired, heat cooked proteins separately before assembling. Avoid microwaving sandwiches to prevent soggy bread.",
+        "make_ahead_strategy": "Prepare sandwich components and cut vegetables the night before, storing them separately to maintain freshness. Assemble sandwiches in the morning or just before packing to keep bread from becoming soggy."
+    },
+    "faq": [
+        {
+            "question": "Can I make these lunches the night before?",
+            "answer": "Yes! You can prepare most components the night before, especially sandwiches without avocado or tomato. Store ingredients separately and assemble in the morning to keep everything fresh and prevent sogginess."
+        },
+        {
+            "question": "What if my teen doesn’t like turkey?",
+            "answer": "You can substitute turkey with chicken breast, ham, or even vegetarian options like hummus or grilled veggies. The key is to include a good protein source to keep them satisfied."
+        },
+        {
+            "question": "How do I keep avocado from browning?",
+            "answer": "A light squeeze of lemon or lime juice on avocado slices slows oxidation and browning. Packing avocado separately and adding it just before eating also helps maintain its fresh color."
+        },
+        {
+            "question": "What are good alternatives to ranch dressing for dipping veggies?",
+            "answer": "Try hummus, yogurt-based dips, or a simple olive oil and lemon dressing. These options add flavor and moisture to veggies while being healthier alternatives."
+        },
+        {
+            "question": "Can these lunches be frozen?",
+            "answer": "Assembled sandwiches don’t freeze well because bread texture changes. However, cooked proteins or veggie fillings can be frozen and thawed before assembly to save prep time."
+        },
+        {
+            "question": "How can I make lunches more appealing to picky eaters?",
+            "answer": "Use colorful ingredients, fun shapes, and dips to make the lunch visually interesting and flavorful. Including familiar favorites alongside new items helps ease acceptance."
+        },
+        {
+            "question": "Are these lunches balanced nutritionally?",
+            "answer": "Yes, they include protein, healthy fats, fiber-rich carbs, and fresh fruits and vegetables. This balance provides sustained energy and essential nutrients for growing teens."
+        },
+        {
+            "question": "What if my teen has food allergies?",
+            "answer": "Customize the ingredients to avoid allergens. For example, substitute bread with gluten-free options or use seed butters instead of peanut butter. Always check ingredient labels carefully."
+        }
+    ],
+    "conclusion": "I hope these school lunch ideas make your mornings easier and your teen’s day tastier. Give them a try and let me know which ones your family loves best!",
+    "seo": {
+        "primary_keyword": "school lunch ideas for teens",
+        "secondary_keywords": [
+            "easy school lunches for teens",
+            "healthy teen lunch ideas",
+            "how to make school lunches for teens",
+            "best school lunch ideas for teens",
+            "easy school lunch recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "easy sandwich recipes",
+                "anchor": "easy-sandwich-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "5200"
+    },
+    "category_id": "cat_1761230221_583",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-08-30 00:08:41",
+        "title_seed": "school lunch ideas for teens"
+    },
+    "author_id": "author_001",
+    "id": "post_1788048521_915",
+    "slug": "school-lunch-ideas-for-teens",
+    "uniqueSlug": "school-lunch-ideas-for-teens",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_1.webp",
+            "filePath": "posts/school-lunch-ideas-for-teens/images/school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_1.webp",
+            "relativePath": "school-lunch-ideas-for-teens/images/school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_2.webp",
+            "filePath": "posts/school-lunch-ideas-for-teens/images/school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_2.webp",
+            "relativePath": "school-lunch-ideas-for-teens/images/school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_3.webp",
+            "filePath": "posts/school-lunch-ideas-for-teens/images/school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_3.webp",
+            "relativePath": "school-lunch-ideas-for-teens/images/school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_11.webp",
+            "filePath": "posts/school-lunch-ideas-for-teens/images/school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_11.webp",
+            "relativePath": "school-lunch-ideas-for-teens/images/school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Easy and Healthy School Lunch Ideas for Teens",
+            "description": "Discover easy and healthy school lunch ideas for teens that fuel their day. From nutritious wraps to protein-packed snacks, these meals keep teens energized and satisfied all afternoon.",
+            "board_override": "School Lunch Ideas For Teens",
+            "source_keyword": "school lunch ideas for teens",
+            "reference_pin": "https://www.pinterest.com/pin/211174979612408/",
+            "reference_saves": 5,
+            "csv_exported": true
+        },
+        {
+            "fileName": "school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_12.webp",
+            "filePath": "posts/school-lunch-ideas-for-teens/images/school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_12.webp",
+            "relativePath": "school-lunch-ideas-for-teens/images/school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "15 Easy and Nutritious School Lunch Ideas for Teens They’ll Love",
+            "description": "Looking for tasty and healthy school lunch ideas for teens? Discover simple recipes including wraps, protein-packed bowls, fresh salads, and quick meal-prep options that keep teens energized throughout the day.",
+            "board_override": "School Lunch Ideas For Teens",
+            "source_keyword": "school lunch ideas for teens",
+            "reference_pin": "https://www.pinterest.com/pin/127860076917765528/",
+            "reference_saves": 3,
+            "csv_exported": true
+        },
+        {
+            "fileName": "school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_13.webp",
+            "filePath": "posts/school-lunch-ideas-for-teens/images/school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_13.webp",
+            "relativePath": "school-lunch-ideas-for-teens/images/school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "Top 20 School Lunch Ideas for Teens That Are Easy and Delicious",
+            "description": "Discover 20 creative and tasty school lunch ideas perfect for teens who want variety and flavor. These quick-to-prepare meals make packing lunch hassle-free and exciting every day. Say goodbye to boring lunches and keep your teen energized and happy all week long.",
+            "board_override": "School Lunch Ideas For Teens",
+            "source_keyword": "school lunch ideas for teens",
+            "reference_pin": "https://www.pinterest.com/pin/6473993212917016/",
+            "reference_saves": 5,
+            "csv_exported": true
+        }
+    ],
+    "image": "school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_1.webp",
+    "image_path": "posts/school-lunch-ideas-for-teens/images/school-lunch-ideas-for-teens_school-lunch-ideas-for-teens_pinrecipes_image_1.webp",
+    "image_dir": "school-lunch-ideas-for-teens/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-08-30T00:08:41+00:00",
+    "updatedAt": "2026-08-30T00:08:41+00:00",
+    "pinterest_source_keyword": "school lunch ideas for teens",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}
