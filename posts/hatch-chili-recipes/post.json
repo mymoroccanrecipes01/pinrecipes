@@ -1,0 +1,299 @@
+{
+    "title": "Easy Hatch Chili Recipes for Flavorful Weeknight Dinners You'll Love",
+    "promptIMG": "Food photography: Hatch chili recipes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm natural daylight filtering through a window, faint reflections on a wooden countertop. SUBJECT: a generous overflowing plate of Hatch chili stuffed steak roll ups, the front roll sharply in focus at a 30-degree angle showing the charred green chilis and juicy beef spiraled with melted cheese, the rest softly fading into bokeh. DETAILS: glossy, caramelized edges on the steak, vibrant green Hatch chilis peeking through, a light sprinkle of fresh cilantro and coarse salt crystals on top; natural crumbs scattered around the plate. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden hues, rich saturated colors making the green chilis and beef glisten, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no artificial lighting or dull colors, no steam or smoke.",
+        "img2": "SCENE: soft light blur behind a marble-toned surface with bright clean daylight from a nearby window, airy atmosphere. SUBJECT: a close-up reveal shot of Hatch chili steak roll ups cut in half, both halves facing the camera showing the juicy, glistening interior with melted cheese oozing out and vibrant green Hatch chilis layered inside tender beef. DETAILS: moist, glossy meat with caramelized edges, the bright green chili flesh contrasts against the rich brown beef, scattered coarse salt and fresh herbs on the surface; crumbs and melted cheese strings visible. STYLE: ultra-photorealistic professional food photography, bright daylight with warm amber tones, rich saturated colors, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no artificial props, no dull or flat lighting.",
+        "img3": "SCENE: warm dark wood tones softly blurred behind with a gentle warm side glow creating a cozy feel. SUBJECT: several Hatch chili steak roll ups arranged closely on a rustic wooden board, topped with fresh cilantro and a drizzle of creamy sauce, accompanied by a small bowl of smoky salsa verde on the side. DETAILS: intense glossy shine on the steak roll surfaces, deep caramelized browning, vibrant green chilis visible, sauce pooling slightly around the edges, natural crumbs and herb sprinkles scattered. STYLE: ultra-photorealistic professional food photography, rich golden-amber warm color grade, highly saturated appetizing tones, shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no dim shadows, no artificial or plastic textures."
+    },
+    "description": "These Hatch chili recipes bring bold, smoky flavors right to your dinner table. The secret is roasting the chilis for that perfect char and combining them with juicy steak for a satisfying meal. Great for busy weeknights when you want something special!",
+    "hashtags": "#HatchChili #WeeknightDinner #EasyRecipes",
+    "board_name": "Easy Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Hatch Chili Make Weeknight Dinners So Flavorful?",
+            "description": "Discover the magic of Hatch chilis and why they transform simple steak roll ups into a savory delight. This recipe is perfect for adding bold flavor without extra fuss. Save this for your next dinner! 🌶️🥩 #HatchChili #EasyDinner #FlavorfulMeals"
+        },
+        {
+            "title": "The One Trick That Makes Hatch Chili Steak Roll Ups Perfect Every Time",
+            "description": "Want juicy, tender steak roll ups with smoky Hatch chili flavor? The secret is in roasting the chilis just right. Try this foolproof method tonight and impress your family! Tap for the full recipe. 🔥🍽️ #HatchChili #SteakRollUps #EasyRecipes"
+        },
+        {
+            "title": "15-Minute Hatch Chili Steak Roll Ups for Busy Weeknights",
+            "description": "Short on time but craving bold flavors? These Hatch chili steak roll ups come together quickly and deliver that smoky, juicy punch. Perfect for a fast, satisfying meal. Save this for dinner inspiration! ⏰🌶️ #QuickDinner #HatchChili #EasyMeals"
+        },
+        {
+            "title": "Still Making Dry Steak? This Hatch Chili Roll Up Fixes It Instantly",
+            "description": "Dry steak is a thing of the past with these Hatch chili roll ups. The chilis add moisture and smoky flavor that keeps every bite juicy. Try this comforting recipe tonight! Tap to get the full instructions. 🥩🔥 #HatchChili #JuicySteak #ComfortFood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb flank steak, thinly sliced",
+        "4-5 fresh Hatch green chilis, roasted, peeled, and sliced",
+        "1 cup shredded Monterey Jack cheese",
+        "2 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "Salt and freshly ground black pepper, to taste",
+        "Fresh cilantro, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first discovered Hatch chilis during a summer trip to New Mexico, and I was hooked by their smoky, slightly spicy flavor that’s unlike any other green chili. When I came home, I started experimenting with ways to bring that unique taste into my weeknight dinners. These Hatch chili steak roll ups quickly became a family favorite because they’re simple to make but packed with bold flavor. What sets this recipe apart is roasting the chilis to get that perfect char and then layering them inside tender flank steak with melty Monterey Jack cheese. The combination creates a juicy, flavorful bite every time. I love how the roasting brings out the natural sweetness and smoky notes of the chilis, which pairs perfectly with the beef. Plus, these roll ups cook quickly, making them a great choice for busy evenings when you want something a little special but don’t want to spend hours in the kitchen. Serve them with a fresh salad or simple rice to round out the meal. I think you’ll find this recipe hits that sweet spot between comfort food and exciting new flavors, and it’s always a hit when I make it for friends or family.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by roasting the Hatch chilis over an open flame or under a broiler until the skins are blistered and blackened. This step is crucial because it brings out the smoky flavor and makes peeling easier. After roasting, place the chilis in a sealed plastic bag or covered bowl for 10 minutes to steam, which loosens the skins. Then peel off the charred skin carefully, remove seeds if you prefer less heat, and slice the chilis into thin strips. This roasting and peeling process adds depth and complexity to the chilis, which is the flavor backbone of the dish.",
+            "timing": "15 minutes",
+            "doneness_cue": "Chili skins are blistered and easily peel away, revealing bright green flesh underneath."
+        },
+        {
+            "step": 2,
+            "instruction": "Next, prepare the flank steak by laying it flat and seasoning both sides well with salt, pepper, and minced garlic. This seasoning enhances the meat’s natural flavor and complements the smoky chilis. Lay the sliced Hatch chilis evenly over the steak, then sprinkle shredded Monterey Jack cheese on top. The cheese melts during cooking, binding the flavors and adding a creamy contrast. Roll the steak tightly from one end to the other, securing with toothpicks if needed. This rolling technique ensures even cooking and a beautiful presentation when sliced.",
+            "timing": "10 minutes",
+            "doneness_cue": "Steak is fully coated with seasoning and fillings, rolled tightly with no gaps."
+        },
+        {
+            "step": 3,
+            "instruction": "Heat olive oil in a large skillet over medium-high heat until shimmering. Carefully place the steak roll seam-side down to seal it and cook for 3-4 minutes until browned. This initial sear locks in juices and creates a caramelized crust that adds flavor. Then, turn the roll to brown all sides evenly. Proper searing is key to a juicy steak roll with a flavorful crust, so avoid moving it too much to allow good browning.",
+            "timing": "8 minutes",
+            "doneness_cue": "Steak roll has a deep golden-brown crust on all sides."
+        },
+        {
+            "step": 4,
+            "instruction": "Once seared, reduce heat to medium-low and cover the skillet. Let the steak roll cook through gently for about 10-12 minutes, turning occasionally to cook evenly. This slower cooking allows the cheese inside to melt perfectly and the steak to become tender without drying out. Covering traps moisture and heat, which helps the roll cook thoroughly while staying juicy.",
+            "timing": "12 minutes",
+            "doneness_cue": "Steak roll feels firm but tender, cheese melted inside, and no pink visible on the outside."
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the steak roll from the skillet and let it rest for 5 minutes before slicing. Resting is essential because it lets the juices redistribute throughout the meat, preventing them from spilling out when cut. Slice the roll into 1-inch thick rounds to reveal the beautiful layers of steak, Hatch chili, and melted cheese. Resting also makes slicing cleaner and the presentation more appealing.",
+            "timing": "5 minutes",
+            "doneness_cue": "Juices settle inside the steak, and slices hold their shape cleanly."
+        },
+        {
+            "step": 6,
+            "instruction": "Arrange the sliced Hatch chili steak rolls on a serving platter. Garnish with freshly chopped cilantro for a pop of color and fresh flavor. Optionally, drizzle with a little olive oil or a squeeze of lime to brighten the dish. Serve immediately while warm for the best texture and flavor experience.",
+            "timing": "2 minutes",
+            "doneness_cue": "Steak rolls glisten with garnish and look vibrant and appetizing."
+        },
+        {
+            "step": 7,
+            "instruction": "For a simple side, prepare rice or a green salad to balance the richness of the steak rolls. The mild sides allow the Hatch chili’s smoky heat and cheesy filling to shine. This pairing keeps the meal balanced and satisfying without overwhelming the palate.",
+            "timing": "Optional",
+            "doneness_cue": "Sides complement the main dish without overpowering flavors."
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to add extra spice, serve with a smoky salsa verde or hot sauce on the side. This lets each diner adjust the heat to their liking and adds another layer of flavor complexity. The salsa’s acidity cuts through the richness, making each bite more dynamic.",
+            "timing": "Optional",
+            "doneness_cue": "Salsa is vibrant and fresh, enhancing the dish’s flavor."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up the kitchen tools and store any leftovers properly. Leftover steak rolls can be refrigerated and reheated gently to preserve moisture. Proper storage prevents flavor loss and keeps the dish enjoyable for next-day meals.",
+            "timing": "5 minutes",
+            "doneness_cue": "Kitchen is tidy and leftovers stored in airtight containers."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Hatch Chili Recipe Delivers Bold Flavor and Perfect Texture",
+        "content": "<p>Roasting the Hatch chilis is the foundation of this recipe’s flavor success. The high heat chars the skin, creating complex smoky notes through the Maillard reaction, while the steaming step loosens the skin for easy removal without damaging the tender chili flesh inside. This process transforms the chilis from raw and grassy to rich and aromatic, which is essential for layering flavor in the steak roll ups.</p><p>The choice of flank steak also plays a critical role. This cut is thin and lean yet tender when cooked properly, making it ideal for rolling and stuffing. The initial sear at medium-high heat creates a flavorful crust through caramelization, which locks in the meat’s juices and provides a satisfying texture contrast to the tender interior. Covering the skillet during the gentle cooking phase traps steam, ensuring the steak cooks evenly and the cheese melts perfectly without drying out the meat.</p><p>The Monterey Jack cheese adds creamy richness that balances the smoky heat of the chilis. Its mild flavor and excellent melting qualities make it a perfect partner to the bold beef and Hatch chili flavors. The rolling technique ensures each slice has a harmonious blend of all these elements, creating a juicy, flavorful bite every time.</p><p>Finally, resting the steak roll after cooking is a vital step to redistribute the juices. Without resting, the meat fibers would release their moisture immediately upon slicing, resulting in a dry steak roll. This simple technique preserves tenderness and makes the dish look as good as it tastes.</p>",
+        "ingredient_notes": {
+            "Hatch green chilis": "When selecting Hatch chilis, look for firm, bright green pods without soft spots or wrinkles. Freshness is key to vibrant flavor and texture. Roasting enhances their smoky character, while peeling removes bitterness from the skin. If Hatch chilis aren't available, Anaheim peppers are a mild substitute but lack the signature smoky depth.",
+            "Flank steak": "Choose a fresh, well-marbled flank steak for tenderness and flavor. This cut is thin and ideal for rolling. Avoid overly thick or tough cuts which won't roll or cook evenly. Proper seasoning and searing are crucial to develop a flavorful crust that contrasts with the tender interior.",
+            "Monterey Jack cheese": "Monterey Jack melts beautifully and has a mild, creamy flavor that complements smoky chilis and beef without overpowering. Avoid pre-shredded cheese with additives that inhibit melting. Freshly shredded cheese ensures a smooth, gooey texture inside the rolls.",
+            "Olive oil": "Use a good-quality extra virgin olive oil for searing to add subtle fruity notes and promote even browning. Olive oil has a moderate smoke point, so monitor heat carefully to avoid burning. It also helps keep the steak moist during cooking.",
+            "Garlic": "Fresh minced garlic infuses the steak with aromatic depth. Avoid garlic powder here as fresh garlic provides a brighter, more complex flavor that enhances the overall dish without overpowering the Hatch chilis."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t skip the steaming step after roasting the chilis—it makes peeling so much easier.",
+            "reason": "Steaming traps heat and moisture, loosening the chili skins for effortless removal without damaging the flesh. Skipping this step can result in tough-to-peel skins and a bitter taste if burnt bits remain."
+        },
+        {
+            "tip": "Sear the steak roll seam-side down first to seal it well.",
+            "reason": "Placing the seam down ensures the roll stays tightly closed during cooking, preventing the filling from spilling out. This also creates a caramelized crust that adds flavor and texture."
+        },
+        {
+            "tip": "Let the steak roll rest before slicing.",
+            "reason": "Resting allows juices to redistribute evenly inside the meat. Cutting too soon causes the juices to run out, leaving the steak dry and less flavorful."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not roasting the chilis properly",
+            "why_it_happens": "Some cooks rush the roasting or skip it, thinking it’s optional.",
+            "fix": "Take your time to char the skins evenly under a broiler or open flame until blistered and blackened. Then steam and peel carefully. This step is essential for developing the smoky flavor that defines Hatch chili dishes."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Cheesy Hatch Chili and Bacon Roll Ups",
+            "description": "Add crisp cooked bacon strips inside the steak roll along with the Hatch chilis and cheese for an extra smoky, savory flavor. This variation adds a delightful crunch and richness that pairs beautifully with the smoky chilis.",
+            "technical_note": "Cook bacon until crisp before assembling. Adjust cooking time slightly to ensure bacon is heated through without overcooking the steak."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "5g",
+        "fat_grams": "28g",
+        "fiber_grams": "1g",
+        "sodium_mg": "480mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Hatch chili steak roll ups can safely sit out for up to 2 hours covered. Beyond that, bacteria can grow rapidly, so it’s best to refrigerate promptly after serving.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The flavors deepen but the steak may firm up slightly. Reheat gently to avoid drying out.",
+        "freezer": "Freeze cooked steak roll ups wrapped tightly in plastic wrap and foil for up to 2 months. Thaw overnight in the fridge before reheating to maintain texture.",
+        "reheating": "Reheat in a skillet over low heat with a splash of water or broth to keep moist, covered until warmed through. Avoid microwaving as it can dry out the steak and cheese.",
+        "make_ahead_strategy": "You can roast and peel the chilis 1-2 days ahead and store them in the fridge. Assemble the steak rolls on the day of cooking for best freshness and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use other types of peppers instead of Hatch chilis?",
+            "answer": "Yes, Anaheim or poblano peppers can be used as substitutes, but they have a milder flavor and less smoky depth. To mimic Hatch chilis’ unique taste, consider roasting the peppers thoroughly and adding a pinch of smoked paprika."
+        },
+        {
+            "question": "How do I know when the steak roll is cooked through?",
+            "answer": "The steak roll should feel firm but still tender when pressed gently. The cheese inside should be fully melted and the exterior browned evenly. Using a meat thermometer, aim for an internal temperature of 135°F for medium-rare or 145°F for medium."
+        },
+        {
+            "question": "Can I prepare this recipe ahead of time?",
+            "answer": "You can roast and peel the chilis a day ahead and keep them refrigerated. Assemble the steak rolls shortly before cooking to ensure the meat stays fresh and the cheese melts perfectly."
+        },
+        {
+            "question": "What sides pair well with Hatch chili steak roll ups?",
+            "answer": "Simple sides like steamed rice, roasted vegetables, or a fresh green salad complement the rich, smoky flavors nicely without overpowering the dish."
+        },
+        {
+            "question": "Is this recipe spicy?",
+            "answer": "Hatch chilis have a mild to medium heat level, but removing seeds can reduce spiciness. Adjust according to your heat preference by controlling the amount of chili or adding milder peppers."
+        },
+        {
+            "question": "Can I use a different cut of beef?",
+            "answer": "Flank steak is ideal for rolling due to its thinness and tenderness, but skirt steak can also work. Avoid thick or tough cuts that won’t roll or cook evenly."
+        },
+        {
+            "question": "How do I prevent the steak roll from falling apart?",
+            "answer": "Searing seam-side down first seals the roll tightly. Using toothpicks to secure it while cooking also helps keep everything together."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, this recipe is naturally gluten-free as long as you use gluten-free seasonings and avoid any sauces containing gluten."
+        }
+    ],
+    "conclusion": "I hope you enjoy making these Hatch chili steak roll ups as much as my family does. They’re an easy way to bring bold, smoky flavor to your dinner table. Let me know how they turn out!",
+    "seo": {
+        "primary_keyword": "hatch chili recipes",
+        "secondary_keywords": [
+            "easy hatch chili recipes",
+            "how to make hatch chili steak roll ups",
+            "best hatch chili recipe",
+            "quick hatch chili dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight steak recipes",
+                "anchor": "easy-weeknight-steak-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230383_494",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-09-02 00:05:01",
+        "title_seed": "hatch chili recipes"
+    },
+    "author_id": "author_001",
+    "id": "post_1788307501_827",
+    "slug": "hatch-chili-recipes",
+    "uniqueSlug": "hatch-chili-recipes",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_1.webp",
+            "filePath": "posts/hatch-chili-recipes/images/hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_1.webp",
+            "relativePath": "hatch-chili-recipes/images/hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_2.webp",
+            "filePath": "posts/hatch-chili-recipes/images/hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_2.webp",
+            "relativePath": "hatch-chili-recipes/images/hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_3.webp",
+            "filePath": "posts/hatch-chili-recipes/images/hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_3.webp",
+            "relativePath": "hatch-chili-recipes/images/hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_11.webp",
+            "filePath": "posts/hatch-chili-recipes/images/hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_11.webp",
+            "relativePath": "hatch-chili-recipes/images/hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Delicious Hatch Chili Recipes for Every Meal - Easy & Flavorful Ideas",
+            "description": "Explore our top hatch chili recipes perfect for adding bold, smoky flavors to your dishes. From appetizers to main courses, discover easy, mouthwatering meals featuring fresh hatch chilis.",
+            "board_override": "Hatch Chili Recipes",
+            "source_keyword": "hatch chili recipes",
+            "reference_pin": "https://www.pinterest.com/pin/492649955188014/",
+            "reference_saves": 17,
+            "csv_exported": true
+        },
+        {
+            "fileName": "hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_12.webp",
+            "filePath": "posts/hatch-chili-recipes/images/hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_12.webp",
+            "relativePath": "hatch-chili-recipes/images/hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Ultimate Hatch Chili Cheese Dip Recipe",
+            "description": "Discover the best hatch chili recipes with this creamy, cheesy dip packed with bold southwestern flavors. Perfect for parties or a cozy snack, this dip highlights the spicy kick of fresh hatch chilis.",
+            "board_override": "Hatch Chili Recipes",
+            "source_keyword": "hatch chili recipes",
+            "reference_pin": "https://www.pinterest.com/pin/7388786885576965/",
+            "reference_saves": 6,
+            "csv_exported": true
+        },
+        {
+            "fileName": "hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_13.webp",
+            "filePath": "posts/hatch-chili-recipes/images/hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_13.webp",
+            "relativePath": "hatch-chili-recipes/images/hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "Delicious Hatch Chili Recipes to Spice Up Your Dinner Tonight",
+            "description": "Discover easy and flavorful hatch chili recipes featuring roasted green chiles that bring bold Southwest taste to your table. Perfect for quick weeknight meals, cozy dinners, and meal prepping with a touch of smoky heat.",
+            "board_override": "Hatch Chili Recipes",
+            "source_keyword": "hatch chili recipes",
+            "reference_pin": "https://www.pinterest.com/pin/13792342604910298/",
+            "reference_saves": 1,
+            "csv_exported": true
+        }
+    ],
+    "image": "hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_1.webp",
+    "image_path": "posts/hatch-chili-recipes/images/hatch-chili-recipes_hatch-chili-recipes_pinrecipes_image_1.webp",
+    "image_dir": "hatch-chili-recipes/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-09-02T00:05:01+00:00",
+    "updatedAt": "2026-09-02T00:05:01+00:00",
+    "pinterest_source_keyword": "hatch chili recipes",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}
