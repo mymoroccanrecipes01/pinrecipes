@@ -1,0 +1,357 @@
+{
+    "title": "Easy Caramel Apple Crisp Recipe for Fall – Perfect Kids’ Dessert",
+    "promptIMG": "Food photography: caramel apple crisp, warm golden baked oat topping with cinnamon specks, juicy sliced apples peeking through, served in a rustic ceramic baking dish, natural sunlight streaming through a kitchen window, cozy home kitchen background, realistic colors, documentary style --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred cozy home kitchen with warm natural daylight filtering through a window, faint reflections on a wooden countertop. SUBJECT: a rustic ceramic baking dish overflowing with golden caramel apple crisp, the oat topping deeply caramelized with a glossy sheen, cinnamon flecks visible, the front corner sharply focused at a 30-degree angle showing the crisp texture and juicy apple slices underneath, the rest fading into a soft bokeh. DETAILS: warm amber caramel drizzled lightly on top, a sprinkle of cinnamon dust settling into the oats, crumbs scattered naturally around the dish edges, authentic textures with slight irregularities. STYLE: ultra-photorealistic food photography with bright, airy daylight and rich, saturated warm tones, shallow macro depth of field, vertical 2:3. AVOID: no text, logos, watermarks, hands, or artificial effects.",
+        "img2": "SCENE: bright, airy kitchen counter with a soft marble-toned background blurred out, natural daylight illuminating the scene. SUBJECT: a close-up reveal shot of the caramel apple crisp cut open, two halves facing the camera, showing juicy, tender apple slices glistening with caramel sauce, the oat topping torn open revealing moist, cinnamon-spiced interior. DETAILS: molten caramel slowly oozing from the center, the contrast between crispy golden topping and soft apple filling, crumbs scattered below naturally, real textures captured mid-action. STYLE: ultra-photorealistic food photography with warm golden-amber lighting, highly saturated inviting colors, shallow macro depth of field, vertical 2:3. AVOID: no hands, no text, no logos, no artificial gloss or steam.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with a single warm side glow highlighting the food. SUBJECT: several generous servings of caramel apple crisp arranged close together in rustic ceramic dishes, each topped with a drizzle of caramel sauce and a small scoop of melting vanilla ice cream, the front piece sharply focused with glossy shine on caramel and ice cream, the rest fading into warm bokeh. DETAILS: intense wet glossy shine on caramel, deep amber caramelization on oat topping, natural crumbs and cinnamon dust scattered around, authentic inviting textures. STYLE: ultra-photorealistic food photography with rich golden-amber warm tones, highly saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no people, no text, no watermarks, no plastic or CGI effects."
+    },
+    "description": "This easy caramel apple crisp is a fall favorite that kids adore. The sweet, cinnamon-spiced apples with a crunchy oat topping make it a cozy treat. Great for chilly evenings or holiday dessert time!",
+    "hashtags": "#applecrisp #falldesserts #kidfriendlyrecipes",
+    "board_name": "Seasonal Feasts",
+    "pin_variations": [
+        {
+            "title": "Why Does This Caramel Apple Crisp Taste So Cozy and Kid-Friendly?",
+            "description": "Discover the secret to this irresistibly cozy apple crisp that kids keep asking for! 🍎 Warm apples with a crunchy cinnamon oat topping make it perfect for fall. Save this for your next family dessert night! #applecrisp #falldesserts #kidfriendly"
+        },
+        {
+            "title": "The One Trick That Makes This Caramel Apple Crisp Perfect Every Time",
+            "description": "Want a foolproof fall dessert? The trick lies in the balance of tart apples and sweet caramel with a crunchy oat topping. 🍂 Your kids will love it! Tap to get the full recipe and impress your family. #caramelapplecrisp #easyfallrecipes #dessertideas"
+        },
+        {
+            "title": "15-Minute Prep Caramel Apple Crisp for Busy Weeknight Family Desserts",
+            "description": "Short on time but craving a cozy dessert? This caramel apple crisp comes together in 15 minutes and bakes into a warm, comforting treat your kids will adore. 🍎 Save this recipe for easy fall nights! #quickdessert #falldesserts #familyfriendly"
+        },
+        {
+            "title": "Still Making Dry Apple Desserts? This Caramel Apple Crisp Fixes It",
+            "description": "Dry apple desserts are a thing of the past! This caramel apple crisp stays juicy and tender with a crispy oat topping kids love. 🍏 Keep this recipe handy for your next fall gathering. #applecrisprecipe #kidapproved #fallbaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "6 medium tart apples, peeled, cored, and sliced",
+        "1 tablespoon lemon juice",
+        "1 teaspoon ground cinnamon",
+        "1/2 cup packed brown sugar",
+        "1/2 cup all-purpose flour",
+        "1 cup old-fashioned rolled oats",
+        "1/2 cup unsalted butter, melted",
+        "1/2 cup caramel sauce"
+    ],
+    "yield": "Approximately 6 cups, 6 servings",
+    "introduction": "I first made this caramel apple crisp on a crisp October afternoon when I wanted a simple dessert that my kids would love after school. What I found was a perfect balance of tart apples, warm cinnamon, and a buttery oat topping that crisps up beautifully in the oven. I think what sets this recipe apart is the quick prep and how the lemon juice keeps the apples bright and juicy instead of turning mushy or brown. Plus, adding caramel sauce at the end gives it a luscious, cozy feel that makes it feel extra special without extra fuss. I’ve tried other apple crisps, but this version always gets the biggest smiles around the table. It’s a warm, inviting dessert that’s easy enough for a weeknight yet comforting enough for holiday gatherings. The oat topping crisps up just right with a lovely caramelized edge, and the apples stay tender but not mushy. If you love classic fall flavors and want a kid-friendly dessert that’s quick and satisfying, this one’s a winner.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Toss the sliced apples in a large bowl with lemon juice and cinnamon. The lemon juice prevents browning and adds a subtle tartness that balances the sweetness. Make sure the apples are evenly coated to ensure every bite bursts with flavor. Avoid skipping this step because it keeps the fruit fresh and vibrant throughout baking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Apples are evenly coated with cinnamon and lemon juice, slightly glossy but not soggy."
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, mix the brown sugar, flour, and oats. Pour in the melted butter and stir until the mixture is crumbly but sticks together when pressed. This oat topping creates the signature crunchy texture and caramelizes beautifully in the oven. Don’t rush this step or add too much butter, or the topping will become greasy instead of crisp.",
+            "timing": "5 minutes",
+            "doneness_cue": "Topping is crumbly and moist enough to hold together when pressed, with no dry flour patches."
+        },
+        {
+            "step": 3,
+            "instruction": "Spread the apple mixture evenly in a greased 9x9 inch baking dish. Distribute the oat topping evenly over the apples, covering them completely. This layering ensures the apples cook evenly under the crisp oat crust. Avoid piling the topping too thickly or the apples won’t bubble through properly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Apples are level in the dish with an even layer of oat topping fully covering them."
+        },
+        {
+            "step": 4,
+            "instruction": "Bake uncovered in the preheated oven for 30 minutes. The apples should soften while the oat topping turns golden and crisp. Keep an eye on the edges to prevent burning. If the topping browns too quickly, loosely cover with foil for the last 10 minutes.",
+            "timing": "30 minutes",
+            "doneness_cue": "Topping is golden brown and crisp, apples are bubbling and tender when pierced with a fork."
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the crisp from the oven and let it cool for 10 minutes. Drizzle the caramel sauce generously over the top while still warm to allow it to soak slightly into the oat topping. This adds a luscious sweetness and sticky texture that kids love. Don’t skip the caramel drizzle; it transforms the dessert.",
+            "timing": "10 minutes",
+            "doneness_cue": "Caramel sauce glistens on top, slightly soaking into the topping but not making it soggy."
+        },
+        {
+            "step": 6,
+            "instruction": "Serve warm, optionally with a scoop of vanilla ice cream or whipped cream. The contrast of warm crisp and cold ice cream is irresistible. This dessert is best enjoyed fresh but can be reheated gently.",
+            "timing": "Serve immediately",
+            "doneness_cue": "Crisp is warm and bubbly, topping remains crunchy, ice cream starts to melt slightly."
+        },
+        {
+            "step": 7,
+            "instruction": "To prepare ahead, slice and toss apples with lemon juice and cinnamon, then store covered in the fridge for up to 24 hours. Mix the oat topping separately and keep chilled. Assemble and bake right before serving for best texture.",
+            "timing": "Prep ahead",
+            "doneness_cue": "Apples remain bright and topping stays crumbly after refrigeration."
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to make this gluten-free, swap regular oats for certified gluten-free oats and use a gluten-free flour blend. The texture remains just as delicious with these substitutions.",
+            "timing": "Adjust prep steps accordingly",
+            "doneness_cue": "Topping holds together and crisps up well with gluten-free ingredients."
+        },
+        {
+            "step": 9,
+            "instruction": "For a deeper flavor, add a pinch of nutmeg or ground ginger to the apple mixture. These warm spices complement the cinnamon and elevate the fall flavor profile without overpowering kids’ palates.",
+            "timing": "Add during apple toss",
+            "doneness_cue": "Spices are evenly distributed, aroma is warm and inviting."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Caramel Apple Crisp Is So Delicious and Kid-Friendly",
+        "content": "<p>The success of this caramel apple crisp lies in the balance of textures and flavors. The apples provide a tender, juicy base with natural sweetness and tartness, while the oat topping offers a crunchy, caramelized contrast that’s essential for that classic crisp experience. The lemon juice is a subtle but crucial ingredient that prevents the apples from browning and keeps their flavor fresh and bright throughout baking.</p><p>The oat topping’s crumbly texture is achieved by mixing melted butter with oats, brown sugar, and flour. The butter coats the oats and sugar, allowing them to caramelize and crisp up in the oven without becoming greasy or dense. This creates a satisfying crunch that contrasts beautifully with the soft apples underneath.</p><p>Caramel sauce drizzled on top adds a rich, buttery sweetness that enhances the overall flavor without overwhelming the natural apple taste. It also adds a sticky, glossy finish that kids find irresistible. Baking uncovered allows moisture to evaporate, helping the topping get crisp while the apples soften just right, bubbling gently beneath.</p><p>Altogether, these elements create a warm, comforting dessert that’s easy to prepare and perfect for family gatherings or weeknight treats. The simple ingredients and straightforward technique make it accessible for home cooks, while the flavor profile appeals broadly, especially to kids who enjoy sweet but balanced desserts.</p>",
+        "ingredient_notes": {
+            "apples": "Choose firm, tart apples like Granny Smith or Braeburn for this recipe. They hold their shape well during baking and provide a nice balance to the sweet topping. Avoid overly soft or sweet varieties as they can become mushy and overly sweet when baked.",
+            "lemon juice": "Fresh lemon juice prevents the apples from oxidizing and turning brown after slicing. It also adds a subtle brightness that balances the sweetness. Bottled lemon juice can be used in a pinch but fresh is preferred for best flavor.",
+            "cinnamon": "Ground cinnamon brings warm, familiar fall spice to the apple mixture. Use good quality cinnamon for the best aroma and flavor. It pairs perfectly with the apples and enhances the overall dessert experience.",
+            "oats": "Old-fashioned rolled oats are ideal for the topping because they provide a sturdy, chewy texture that crisps up nicely. Quick oats or instant oats can make the topping too soft or powdery.",
+            "butter": "Unsalted butter is best so you can control the salt level. Melted butter coats the oat mixture, helping it brown and crisp in the oven. Using cold or unmelted butter would create a different texture more like a crumble than a crisp."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use tart apples like Granny Smith for the best texture and flavor.",
+            "reason": "Tart apples hold their shape during baking and provide a nice balance to the sweet topping, preventing the dessert from becoming overly sweet or mushy."
+        },
+        {
+            "tip": "Don’t skip the lemon juice when tossing the apples.",
+            "reason": "It prevents the apples from browning and adds a bright note that balances the caramel and cinnamon, keeping the flavors fresh and vibrant."
+        },
+        {
+            "tip": "Evenly distribute the oat topping over the apples.",
+            "reason": "A uniform topping ensures consistent baking and crispness, preventing soggy spots or burnt edges."
+        },
+        {
+            "tip": "Add the caramel sauce after baking while the crisp is still warm.",
+            "reason": "This allows the caramel to soak slightly into the oat topping without making it soggy, enhancing flavor and texture."
+        },
+        {
+            "tip": "Serve the crisp warm with vanilla ice cream.",
+            "reason": "The contrast of hot crisp and cold ice cream creates a delightful sensory experience that kids especially enjoy."
+        },
+        {
+            "tip": "If topping browns too quickly, cover loosely with foil.",
+            "reason": "This prevents burning while allowing the apples to finish cooking through, preserving the perfect balance of textures."
+        },
+        {
+            "tip": "Use old-fashioned oats for the topping for the best texture.",
+            "reason": "They provide a sturdy, chewy texture that crisps well, unlike quick oats that can become mushy or powdery."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using overly sweet or soft apples",
+            "why_it_happens": "Many people choose sweet apples thinking it will make the dessert sweeter, but soft apples break down too much and lose texture during baking.",
+            "fix": "Use firm tart apples like Granny Smith or Braeburn to maintain structure and balance sweetness."
+        },
+        {
+            "mistake": "Skipping lemon juice on apples",
+            "why_it_happens": "People often overlook that sliced apples oxidize quickly and turn brown, affecting appearance and flavor.",
+            "fix": "Toss apples with fresh lemon juice immediately after slicing to keep them bright and fresh."
+        },
+        {
+            "mistake": "Uneven oat topping distribution",
+            "why_it_happens": "Rushing or not spreading the topping evenly leads to burnt edges or soggy spots.",
+            "fix": "Take a moment to spread the topping uniformly over the apples for consistent baking."
+        },
+        {
+            "mistake": "Adding caramel before baking",
+            "why_it_happens": "Some add caramel early thinking it will infuse flavor, but it makes the topping soggy and prevents crisping.",
+            "fix": "Add caramel sauce only after baking while the crisp is warm for best texture."
+        },
+        {
+            "mistake": "Overbaking the crisp",
+            "why_it_happens": "Leaving it too long in the oven dries out the apples and burns the topping.",
+            "fix": "Bake until topping is golden and apples are tender but still juicy, about 30 minutes, checking towards the end."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Pecan Caramel Apple Crisp",
+            "description": "Add 1/2 cup chopped pecans to the oat topping for a crunchy nutty twist. Pecans toast beautifully in the oven, adding extra texture and flavor kids love.",
+            "technical_note": "Mix nuts into the oat topping before spreading to ensure even toasting and distribution."
+        },
+        {
+            "name": "Spiced Pumpkin Apple Crisp",
+            "description": "Stir 1/4 cup pumpkin puree and 1/2 teaspoon pumpkin pie spice into the apple mixture for a seasonal flavor boost. This adds moisture and a subtle pumpkin flavor.",
+            "technical_note": "Reduce butter slightly in topping to compensate for added moisture from pumpkin."
+        },
+        {
+            "name": "Gluten-Free Caramel Apple Crisp",
+            "description": "Use certified gluten-free oats and a gluten-free flour blend in the topping. This keeps the crisp safe for gluten-sensitive eaters without sacrificing texture.",
+            "technical_note": "Ensure all ingredients are certified gluten-free to avoid cross-contamination."
+        },
+        {
+            "name": "Vegan Apple Crisp",
+            "description": "Swap butter for coconut oil and use maple syrup instead of caramel sauce for a vegan-friendly version. The coconut oil crisps the topping nicely with a subtle tropical note.",
+            "technical_note": "Use firm coconut oil to mimic butter’s texture in the topping."
+        },
+        {
+            "name": "Apple Berry Crisp",
+            "description": "Add 1 cup fresh or frozen berries (blueberries or raspberries) mixed with the apples for a colorful, fruity variation that kids enjoy.",
+            "technical_note": "Increase lemon juice slightly to balance berry sweetness and prevent browning."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "52g",
+        "fat_grams": "14g",
+        "fiber_grams": "5g",
+        "sodium_mg": "80mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The apple crisp can be safely kept covered at room temperature for up to 2 hours. Beyond that, it's best to refrigerate to maintain freshness and prevent spoilage.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 4 days. The crisp topping may soften slightly but reheating restores some crunch. Serve warm or cold as preferred.",
+        "freezer": "Freeze the crisp in a freezer-safe container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat individual portions in a 350°F oven for 10-15 minutes until warmed through and topping crisps up again. Avoid microwaving as it softens the topping too much.",
+        "make_ahead_strategy": "You can prep and toss the apples with lemon and cinnamon 1 day ahead, storing them covered in the fridge. Mix the oat topping separately and refrigerate. Assemble and bake just before serving for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen apples for this recipe?",
+            "answer": "Frozen apples can be used but they release more water, which may make the crisp soggy. If using frozen, thaw and drain excess liquid before baking to maintain the topping's crunch."
+        },
+        {
+            "question": "What if I don’t have caramel sauce?",
+            "answer": "You can skip the caramel or substitute with maple syrup or honey drizzle after baking. While caramel adds richness, these alternatives still provide sweetness and moisture."
+        },
+        {
+            "question": "Can I make this dessert vegan?",
+            "answer": "Yes, substitute butter with coconut oil and use a vegan caramel or maple syrup. The texture and flavor remain delicious with these swaps."
+        },
+        {
+            "question": "How do I keep the topping crunchy after storing leftovers?",
+            "answer": "Reheat leftovers in the oven rather than microwave. The dry heat crisps the oat topping back up, restoring its texture."
+        },
+        {
+            "question": "Can I prepare this dessert ahead of time?",
+            "answer": "Absolutely! Toss the apples with lemon and cinnamon and prepare the topping a day ahead. Store separately in the fridge and assemble just before baking."
+        },
+        {
+            "question": "Is it better to use tart or sweet apples?",
+            "answer": "Tart apples like Granny Smith hold their shape and balance the sweetness of the topping better than sweet varieties, which can become mushy."
+        },
+        {
+            "question": "Can I add nuts to the topping?",
+            "answer": "Yes, chopped nuts like pecans or walnuts add a nice crunch and flavor. Mix them into the oat topping before baking."
+        },
+        {
+            "question": "What is the best way to serve this dessert?",
+            "answer": "Serve warm with a scoop of vanilla ice cream or whipped cream for a classic comforting fall dessert experience."
+        }
+    ],
+    "conclusion": "I hope you enjoy this easy caramel apple crisp as much as my family does. It’s a cozy fall treat that’s simple to make and sure to please kids and adults alike. Give it a try and share your results!",
+    "seo": {
+        "primary_keyword": "fall dessert recipes for kids",
+        "secondary_keywords": [
+            "easy fall dessert recipes",
+            "caramel apple crisp recipe",
+            "how to make apple crisp",
+            "best apple crisp recipe",
+            "easy kid-friendly desserts"
+        ],
+        "internal_links": [
+            {
+                "text": "easy homemade caramel sauce",
+                "anchor": "homemade-caramel-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-09-03 00:05:01",
+        "title_seed": "fall dessert recipes for kids"
+    },
+    "author_id": "author_001",
+    "id": "post_1788393901_275",
+    "slug": "fall-dessert-recipes-for-kids",
+    "uniqueSlug": "fall-dessert-recipes-for-kids",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_1.webp",
+            "filePath": "posts/fall-dessert-recipes-for-kids/images/fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_1.webp",
+            "relativePath": "fall-dessert-recipes-for-kids/images/fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_2.webp",
+            "filePath": "posts/fall-dessert-recipes-for-kids/images/fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_2.webp",
+            "relativePath": "fall-dessert-recipes-for-kids/images/fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_3.webp",
+            "filePath": "posts/fall-dessert-recipes-for-kids/images/fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_3.webp",
+            "relativePath": "fall-dessert-recipes-for-kids/images/fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_11.webp",
+            "filePath": "posts/fall-dessert-recipes-for-kids/images/fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_11.webp",
+            "relativePath": "fall-dessert-recipes-for-kids/images/fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "🍁 Easy Pumpkin Spice Muffins for Kids This Fall",
+            "description": "Delight your little ones with soft, spiced pumpkin muffins packed with warm autumn flavors. These kid-friendly fall dessert recipes are perfect for school snacks or cozy family moments. Whip them up quickly and enjoy a tasty treat that celebrates the season.",
+            "board_override": "Fall Dessert Recipes",
+            "source_keyword": "fall dessert recipes for kids",
+            "reference_pin": "https://www.pinterest.com/pin/914862422371122/",
+            "reference_saves": 37,
+            "csv_exported": true
+        },
+        {
+            "fileName": "fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_12.webp",
+            "filePath": "posts/fall-dessert-recipes-for-kids/images/fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_12.webp",
+            "relativePath": "fall-dessert-recipes-for-kids/images/fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Easy Fall Dessert Recipes for Kids That Delight Every Time",
+            "description": "Discover simple and tasty fall dessert recipes for kids featuring seasonal flavors like cinnamon, pumpkin, and apples. These quick treats are perfect for family gatherings and after-school snacks, bringing cozy autumn vibes to your kitchen.",
+            "board_override": "Fall Dessert Recipes",
+            "source_keyword": "fall dessert recipes for kids",
+            "reference_pin": "https://www.pinterest.com/pin/140806235402185/",
+            "reference_saves": 3,
+            "csv_exported": true
+        },
+        {
+            "fileName": "fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_13.webp",
+            "filePath": "posts/fall-dessert-recipes-for-kids/images/fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_13.webp",
+            "relativePath": "fall-dessert-recipes-for-kids/images/fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "15 Easy Fall Dessert Recipes for Kids to Enjoy Making This Season",
+            "description": "Discover 15 easy fall dessert recipes for kids that turn baking into a fun family activity. From pumpkin delights to cozy autumn sweets, these treats are perfect for young chefs and seasonal celebrations.",
+            "board_override": "Fall Dessert Recipes",
+            "source_keyword": "fall dessert recipes for kids",
+            "reference_pin": "https://www.pinterest.com/pin/213709944814425996/",
+            "reference_saves": 1,
+            "csv_exported": true
+        }
+    ],
+    "image": "fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_1.webp",
+    "image_path": "posts/fall-dessert-recipes-for-kids/images/fall-dessert-recipes-for-kids_fall-dessert-recipes-for-kids_pinrecipes_image_1.webp",
+    "image_dir": "fall-dessert-recipes-for-kids/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-09-03T00:05:01+00:00",
+    "updatedAt": "2026-09-03T00:05:01+00:00",
+    "pinterest_source_keyword": "fall dessert recipes for kids",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}

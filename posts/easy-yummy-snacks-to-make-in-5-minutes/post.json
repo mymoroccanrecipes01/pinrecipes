@@ -1,0 +1,330 @@
+{
+    "title": "Easy Yummy Snacks to Make in 5 Minutes for Quick Family Treats",
+    "promptIMG": "Food photography: easy yummy snacks to make in 5 minutes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm natural daylight streaming through a window, faint reflections on a light wooden countertop. SUBJECT: a rustic ceramic bowl overflowing with a colorful mix of easy yummy snacks including crunchy roasted nuts, bright cherry tomatoes, crisp veggie sticks, and creamy dips, filling nearly the entire frame with the bowl edges cropped out. DETAILS: the snacks glisten with fresh moisture and light sheen from olive oil, sprinkled with fresh herbs and coarse sea salt, natural crumbs scattered on the surface below. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden hues, rich saturated colors to emphasize freshness and variety, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no artificial colors, no steam or smoke, no logos or watermarks.",
+        "img2": "SCENE: soft bright daylight filtering through a clean kitchen window with a marble-toned blurred background. SUBJECT: a close-up reveal shot of a small wooden board displaying half a pita bread stuffed with colorful hummus, sliced cucumber, and juicy red cherry tomatoes, a dollop of creamy dip slowly dripping down the side, the cut half facing the camera filling 90% of the frame. DETAILS: the interior textures glisten with moisture and fresh oils, the pita edges golden and lightly toasted, fresh herbs sprinkled on top, crumbs scattered naturally on the board. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden tones, hyper-vivid colors highlighting freshness, shallow macro depth of field, vertical 2:3. AVOID: no hands, no text, no logos, no artificial colors or CGI effects.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with a gentle side glow casting warm amber highlights. SUBJECT: several small bowls arranged closely together filled with easy yummy snacks such as mixed nuts, colorful veggie sticks, creamy dips, and fresh fruit slices, the front bowl sharply focused with a dollop of glossy dip topped with herbs, the rest fading into warm bokeh. DETAILS: intense wet glossy shine on dips, deep amber caramelization on roasted nuts, natural crumbs and herbs scattered around, real textures captured authentically. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grading, rich saturated appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no steam or smoke, no plastic textures."
+    },
+    "description": "These easy yummy snacks come together in just 5 minutes and are perfect for when you want something quick and tasty. I love mixing crunchy nuts with fresh veggies and creamy dips for a satisfying bite. Great for afternoon cravings or casual get-togethers!",
+    "hashtags": "#easysnacks #quickrecipes #familyfriendly",
+    "board_name": "Easy Snack Ideas",
+    "pin_variations": [
+        {
+            "title": "Why Are These Easy Yummy Snacks Perfect for Busy Days?",
+            "description": "Discover the secret to quick, delicious snacks that come together in 5 minutes or less. These combos are fresh, flavorful, and ready when you are. Save this for your next snack attack! 🥒🥜 #easysnacks #quickbites #snacktime"
+        },
+        {
+            "title": "The One Trick That Makes Easy Yummy Snacks So Irresistible",
+            "description": "It’s all about balancing crunchy, creamy, and fresh ingredients. This simple tip takes your 5-minute snacks from basic to wow-worthy. Tap to get the full recipe and impress your family! 🥕🍅 #snackideas #quickrecipes #familyfriendly"
+        },
+        {
+            "title": "5-Minute Easy Yummy Snacks for Busy Weeknight Cravings",
+            "description": "No time? No problem! Whip up these tasty snacks in a flash using everyday ingredients. Perfect for a quick fix after work or school. Save this for your next busy evening! 🥒🥜 #quickrecipes #easysnacks #weeknightdinner"
+        },
+        {
+            "title": "Still Struggling with Snack Ideas? Try These Easy Yummy Snacks",
+            "description": "If you’re tired of the same old snacks, this quick and tasty recipe is for you. Fresh, crunchy, and creamy all in one bite. Your family will thank you! Save this for dinner inspo. 🥕🍅 #snacktime #quickrecipes #familyfriendly"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "1 cup mixed roasted nuts (unsalted)",
+        "1 cup cherry tomatoes, halved",
+        "1 cup sliced cucumber sticks",
+        "1/2 cup hummus or creamy dip of choice",
+        "Fresh herbs (parsley or cilantro), chopped, for garnish",
+        "Sea salt and freshly ground black pepper, to taste",
+        "Olive oil, for drizzling"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I've always loved having quick snacks on hand, especially on busy afternoons when everyone's hungry but dinner is still a ways off. These easy yummy snacks came about from my need to throw something together fast with whatever I had around. What makes this recipe special is the balance of textures — crunchy nuts, crisp veggies, and creamy dips — that satisfy every craving without any fuss. I like to drizzle a little olive oil and sprinkle fresh herbs on top to elevate the flavors without adding complexity. It’s a simple combo that feels fresh and wholesome, perfect for sharing with family or enjoying solo. Over time, I found that keeping the ingredients ready in the fridge makes whipping up these snacks even faster. The result is a colorful, inviting snack plate that looks as good as it tastes, and it always disappears fast at our house!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by rinsing and slicing your fresh vegetables. Cherry tomatoes should be halved to release their juicy sweetness, and cucumbers cut into sticks for easy dipping. This prep is key because fresh, crisp veggies add a refreshing crunch that balances the creamy dip and nuts. Be sure to pat the veggies dry after washing to avoid watering down your dip.",
+            "timing": 5,
+            "doneness_cue": "Veggies should feel firm and fresh, not soggy or limp."
+        },
+        {
+            "step": 2,
+            "instruction": "Arrange the roasted nuts in a serving bowl. These nuts add a satisfying crunch and a rich, toasty flavor that complements the fresh veggies. Choose unsalted or lightly salted nuts to keep the flavor balanced. Avoid over-roasting nuts yourself as they can quickly turn bitter. If you want, drizzle a little olive oil over them to add a subtle gloss and richness.",
+            "timing": 2,
+            "doneness_cue": "Nuts should be golden brown with a slight sheen but not oily."
+        },
+        {
+            "step": 3,
+            "instruction": "Place your creamy dip—like hummus or a yogurt-based dip—in a small bowl or directly onto the serving plate. The dip is the glue that brings all the elements together, adding moisture and richness. If using store-bought dips, give them a quick stir and add a sprinkle of fresh herbs or a drizzle of olive oil on top to freshen the flavor.",
+            "timing": 1,
+            "doneness_cue": "Dip should be smooth and glossy with fresh herb garnish."
+        },
+        {
+            "step": 4,
+            "instruction": "Arrange the veggies around the nuts and dip attractively on a platter or in bowls. Presentation makes a big difference even in quick snacks. Grouping colors and textures makes the plate inviting and encourages everyone to dig in. Sprinkle a pinch of sea salt and freshly ground pepper over the veggies to enhance their natural flavors.",
+            "timing": 3,
+            "doneness_cue": "Snack platter looks colorful, fresh, and inviting."
+        },
+        {
+            "step": 5,
+            "instruction": "Drizzle a little extra virgin olive oil over the entire platter for a glossy finish and subtle fruity flavor. This step is optional but adds an extra layer of richness that makes the snack feel special. Use a light hand to avoid making the veggies soggy.",
+            "timing": 1,
+            "doneness_cue": "Olive oil is evenly distributed with a light shine but no pooling."
+        },
+        {
+            "step": 6,
+            "instruction": "Garnish with chopped fresh herbs like parsley or cilantro for a pop of color and fresh aroma. Herbs brighten the dish and add a fresh herbal note that complements the creamy and crunchy elements. Chop herbs finely so they distribute evenly.",
+            "timing": 1,
+            "doneness_cue": "Herbs look fresh and vibrant without wilting."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve immediately to enjoy the crunchy texture of the nuts and crispness of the veggies. If you need to prepare ahead, keep the components separate and assemble just before serving to maintain freshness. Avoid letting the dip sit too long with the veggies to prevent sogginess.",
+            "timing": 0,
+            "doneness_cue": "Snack platter looks fresh and appetizing when served."
+        },
+        {
+            "step": 8,
+            "instruction": "If desired, add a squeeze of fresh lemon juice over the veggies before serving for a bright, tangy note that lifts the flavors. This is especially nice if the dip is rich or if you want a more vibrant snack experience. Lemon juice also helps keep veggies crisp.",
+            "timing": 1,
+            "doneness_cue": "Veggies have a fresh, lightly tangy aroma."
+        },
+        {
+            "step": 9,
+            "instruction": "Pair your snack platter with a cold glass of iced tea or sparkling water for a refreshing complement. This turns a simple snack into a mini gathering that's perfect for afternoon breaks or light entertaining. The balance of textures and flavors makes it satisfying without being heavy.",
+            "timing": 0,
+            "doneness_cue": "Snack experience feels balanced and refreshing."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Snack Combo Succeeds",
+        "content": "<p>This snack recipe works because it combines contrasting textures and complementary flavors that satisfy multiple cravings at once. The crunchy roasted nuts provide a toasty, nutty base with a satisfying bite, while the fresh vegetables add moisture, crispness, and natural sweetness. Creamy dips like hummus or yogurt-based spreads introduce richness and smoothness that bind the other components together.</p><p>The balance of fat, fiber, and moisture makes this snack both filling and light, which is ideal for quick bites that don't spoil your appetite. Using fresh herbs and a drizzle of olive oil enhances aroma and mouthfeel, adding complexity without complicating the recipe. The quick assembly preserves the freshness and crunch of the ingredients, which is key to the snack's appeal.</p><p>Temperature and timing also play a role: serving the dip cool contrasts nicely with the room-temperature nuts and crisp veggies, creating a multi-sensory eating experience. The simplicity of ingredients means you can customize to taste and availability, making it a versatile go-to snack.</p><p>Overall, this recipe succeeds by focusing on freshness, texture contrast, and flavor balance, all achievable in just minutes with minimal prep.</p>",
+        "ingredient_notes": {
+            "mixed roasted nuts": "Choose unsalted or lightly salted mixed nuts such as almonds, cashews, and pecans. Roasted nuts add a rich, toasty flavor and crunchy texture that contrasts beautifully with fresh veggies. Avoid overly oily nuts as they can feel heavy and greasy. Store nuts in an airtight container to maintain freshness and crunch.",
+            "cherry tomatoes": "Look for firm, ripe cherry tomatoes with bright color and smooth skin. Their natural juiciness and slight sweetness add a refreshing pop to the snack. Halving them releases juices that mingle with dips and herbs, enhancing flavor. Avoid tomatoes that are soft or wrinkled as they won’t hold up well.",
+            "cucumber sticks": "Choose firm cucumbers with a fresh, crisp bite. Slicing into sticks makes them easy to dip and eat. Patting them dry after washing prevents watering down the dip. Cucumbers add a cool, hydrating element that balances the richness of nuts and dips.",
+            "hummus or creamy dip": "Hummus is a versatile, protein-rich dip that pairs well with nuts and veggies. Look for smooth, well-seasoned hummus or make your own for freshness. Creamy dips add moisture and richness, making the snack satisfying. Avoid dips with overly strong or artificial flavors that may overpower the other ingredients.",
+            "fresh herbs": "Parsley, cilantro, or basil add fresh herbal notes and vibrant color. Chop herbs finely to distribute flavor evenly. Fresh herbs brighten the dish and add a subtle aromatic complexity that lifts the overall snack experience.",
+            "olive oil": "A good quality extra virgin olive oil adds a fruity, slightly peppery richness and a glossy finish. Drizzling olive oil enhances mouthfeel and flavor without heaviness. Use sparingly to avoid sogginess.",
+            "sea salt and black pepper": "Seasoning with coarse sea salt and freshly ground black pepper enhances the natural flavors of the nuts and veggies. Salt draws out moisture and intensifies sweetness, while pepper adds subtle heat and complexity."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use fresh, firm vegetables and pat them dry after washing.",
+            "reason": "Removing excess moisture from veggies prevents your dip from becoming watery and keeps the overall snack texture crisp and fresh. Wet veggies can also cause dips to separate or lose their creamy consistency."
+        },
+        {
+            "tip": "Toast your nuts lightly if not already roasted.",
+            "reason": "Lightly toasting nuts enhances their natural oils and deepens flavor through Maillard reactions, adding a warm, toasty aroma and crunch that elevates the snack. Avoid burning as it creates bitterness."
+        },
+        {
+            "tip": "Add a drizzle of good quality olive oil just before serving.",
+            "reason": "Olive oil adds a silky mouthfeel and fruity notes that complement the nuts and veggies. Drizzling it last ensures it remains glossy and fresh, rather than soaking in and losing its flavor."
+        },
+        {
+            "tip": "Chop fresh herbs finely and sprinkle evenly.",
+            "reason": "Finely chopped herbs distribute flavor thoroughly and prevent overpowering bites. They add brightness and freshness that balance the richness of dips and nuts."
+        },
+        {
+            "tip": "Serve the dip chilled but the nuts and veggies at room temperature.",
+            "reason": "The contrast in temperature between cool dip and room-temp crunchy elements creates a more interesting and satisfying eating experience, stimulating the palate."
+        },
+        {
+            "tip": "Prepare components ahead and assemble just before serving.",
+            "reason": "Keeping ingredients separate until serving preserves textures and freshness, especially preventing veggies from wilting or dips from becoming watery."
+        },
+        {
+            "tip": "Use a variety of nut types for a more complex flavor profile.",
+            "reason": "Different nuts contribute unique textures and flavors, from creamy cashews to crunchy almonds, making the snack more interesting and satisfying."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using soggy or overripe vegetables",
+            "why_it_happens": "People often wash veggies but don't dry them well, or they use produce past its prime to save time.",
+            "fix": "Always pat vegetables dry thoroughly with a clean towel and select fresh, firm produce. This keeps the snack crisp and prevents watery dips."
+        },
+        {
+            "mistake": "Skipping the olive oil drizzle",
+            "why_it_happens": "Some think it’s an unnecessary step or adds too much fat.",
+            "fix": "A light drizzle of olive oil adds flavor and improves mouthfeel without heaviness. Use sparingly for best results."
+        },
+        {
+            "mistake": "Mixing everything too early",
+            "why_it_happens": "Trying to prepare snacks fully ahead can lead to sogginess.",
+            "fix": "Prepare components separately and assemble just before serving to maintain texture and freshness."
+        },
+        {
+            "mistake": "Using overly salty or oily nuts",
+            "why_it_happens": "Prepackaged nuts can be heavily salted or oily for preservation.",
+            "fix": "Choose unsalted or lightly salted nuts and roast your own if possible to control flavor and texture."
+        },
+        {
+            "mistake": "Not balancing flavors",
+            "why_it_happens": "Some snacks lack a balance of salty, fresh, and creamy components.",
+            "fix": "Include a variety of textures and flavors: salty nuts, fresh veggies, creamy dips, and fresh herbs for a harmonious snack."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Snack Mix",
+            "description": "Add a pinch of cayenne pepper or smoked paprika to the nuts and dip for a spicy kick. Swap cucumber for sliced bell peppers for a sweeter crunch. Expect a bolder flavor profile with a pleasant heat that wakes up the palate.",
+            "technical_note": "Adjust spice levels carefully to avoid overpowering the fresh elements; start with a light sprinkle and taste as you go."
+        },
+        {
+            "name": "Mediterranean Style",
+            "description": "Use olives, feta cheese cubes, and pita chips alongside the veggies and hummus. This variation adds salty and tangy notes that complement the creamy dip and crunchy nuts, creating a Mediterranean-inspired snack platter.",
+            "technical_note": "Keep feta chilled until serving to maintain its texture and prevent it from drying out."
+        },
+        {
+            "name": "Vegan Delight",
+            "description": "Use a plant-based creamy dip like cashew cheese or avocado spread. Include roasted chickpeas for extra protein and crunch. This version is fully vegan and still rich in texture and flavor.",
+            "technical_note": "Ensure dips are well blended for smoothness and adjust seasoning to balance the earthy flavors of chickpeas."
+        },
+        {
+            "name": "Sweet and Savory Mix",
+            "description": "Add dried cranberries or raisins to the nuts and veggies for a sweet contrast. Pair with a honey-sweetened yogurt dip to balance the savory elements. Expect a delightful mix of sweet, salty, and creamy flavors.",
+            "technical_note": "Use dried fruit sparingly to avoid overwhelming the savory components."
+        },
+        {
+            "name": "Kid-Friendly Version",
+            "description": "Include bite-sized cheese cubes, mild hummus, and colorful veggie sticks like carrots and celery. Mild flavors and familiar ingredients make this perfect for children’s snack time.",
+            "technical_note": "Cut veggies into manageable sizes for easy eating and avoid spicy dips."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "8g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "24g",
+        "fiber_grams": "5g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These snacks are best enjoyed fresh but can safely sit at room temperature for up to 2 hours if covered to prevent drying out.",
+        "refrigerator": "Store leftover components separately in airtight containers for up to 3 days. Note that vegetables may lose crispness and dips may thicken or separate when refrigerated; stir before serving.",
+        "freezer": "Not recommended to freeze these snacks as fresh vegetables and dips do not freeze well and will lose texture upon thawing.",
+        "reheating": "No reheating needed. If using warm dips, gently warm in the microwave for 15-20 seconds before serving.",
+        "make_ahead_strategy": "Prep and store chopped vegetables and nuts separately up to 1 day ahead. Assemble the snack platter just before serving to maintain freshness and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use other vegetables besides cucumbers and tomatoes?",
+            "answer": "Absolutely! Feel free to use bell peppers, carrot sticks, celery, or snap peas. Just make sure to choose fresh, crisp veggies and cut them into bite-sized pieces for easy dipping."
+        },
+        {
+            "question": "How do I keep the dip from getting watery?",
+            "answer": "Pat your vegetables dry before serving and avoid soaking the dip with wet veggies. Also, store dips in airtight containers and stir well before serving if separation occurs."
+        },
+        {
+            "question": "Can I make this snack vegan?",
+            "answer": "Yes! Use plant-based dips like cashew cheese or guacamole, and ensure your nuts and veggies are fresh. This snack is naturally vegan-friendly with simple swaps."
+        },
+        {
+            "question": "What if I don’t have roasted nuts on hand?",
+            "answer": "You can roast raw nuts quickly in a dry skillet over medium heat for 5-7 minutes, stirring frequently until golden and fragrant. Let them cool before serving."
+        },
+        {
+            "question": "How long can I store the prepared snack?",
+            "answer": "For best texture and flavor, assemble the snack just before serving. Leftover components can be stored separately in the fridge for 2-3 days but may lose freshness."
+        },
+        {
+            "question": "Can I add protein to make this a more filling snack?",
+            "answer": "Yes, adding boiled eggs, cheese cubes, or roasted chickpeas can boost protein content and make the snack more substantial."
+        },
+        {
+            "question": "Is this snack suitable for kids?",
+            "answer": "Definitely! Just choose mild dips and cut veggies into small, manageable pieces. Avoid spicy seasonings for younger children."
+        },
+        {
+            "question": "Can I prepare this snack ahead for a party?",
+            "answer": "You can prep ingredients separately a day ahead but assemble just before guests arrive to keep everything fresh and crisp."
+        }
+    ],
+    "conclusion": "I hope you enjoy these easy yummy snacks as much as my family does! They’re perfect for quick bites or casual gatherings. Let me know how yours turn out!",
+    "seo": {
+        "primary_keyword": "easy yummy snacks to make in 5 minutes",
+        "secondary_keywords": [
+            "quick snack recipes",
+            "healthy 5 minute snacks",
+            "how to make easy snacks",
+            "best quick snack ideas",
+            "easy snacks for family"
+        ],
+        "internal_links": [
+            {
+                "text": "quick healthy snack ideas",
+                "anchor": "quick_healthy_snack_ideas"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230221_583",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-09-03 00:07:36",
+        "title_seed": "easy yummy snacks to make in 5 minutes"
+    },
+    "author_id": "author_001",
+    "id": "post_1788394056_766",
+    "slug": "easy-yummy-snacks-to-make-in-5-minutes",
+    "uniqueSlug": "easy-yummy-snacks-to-make-in-5-minutes",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-yummy-snacks-to-make-in-5-minutes/images/easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_1.webp",
+            "relativePath": "easy-yummy-snacks-to-make-in-5-minutes/images/easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-yummy-snacks-to-make-in-5-minutes/images/easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_2.webp",
+            "relativePath": "easy-yummy-snacks-to-make-in-5-minutes/images/easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-yummy-snacks-to-make-in-5-minutes/images/easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_3.webp",
+            "relativePath": "easy-yummy-snacks-to-make-in-5-minutes/images/easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_11.webp",
+            "filePath": "posts/easy-yummy-snacks-to-make-in-5-minutes/images/easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_11.webp",
+            "relativePath": "easy-yummy-snacks-to-make-in-5-minutes/images/easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Quick and Tasty Snacks Ready in 5 Minutes",
+            "description": "Discover easy yummy snacks to make in 5 minutes that satisfy your cravings fast. Perfect for busy days or a quick treat anytime.",
+            "board_override": "Yummy Easy Snacks",
+            "source_keyword": "easy yummy snacks to make in 5 minutes",
+            "reference_pin": "https://www.pinterest.com/pin/173810866864745290/",
+            "reference_saves": 13,
+            "csv_exported": true
+        }
+    ],
+    "image": "easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_1.webp",
+    "image_path": "posts/easy-yummy-snacks-to-make-in-5-minutes/images/easy-yummy-snacks-to-make-in-5-minutes_easy-yummy-snacks-to-make-in-5-minutes_pinrecipes_image_1.webp",
+    "image_dir": "easy-yummy-snacks-to-make-in-5-minutes/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-09-03T00:07:36+00:00",
+    "updatedAt": "2026-09-03T00:07:36+00:00",
+    "pinterest_source_keyword": "easy yummy snacks to make in 5 minutes",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}
