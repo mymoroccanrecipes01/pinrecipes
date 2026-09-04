@@ -1,0 +1,354 @@
+{
+    "title": "Easy Homemade Pumpkin Cinnamon Rolls with Creamy Cinnamon Creamer Icing",
+    "promptIMG": {
+        "img1": "SCENE: a cozy home kitchen softly blurred in the background with warm natural light streaming through a window, faint reflections on a wooden countertop. SUBJECT: a generous pile of freshly baked pumpkin cinnamon rolls in a rustic ceramic baking dish, the front roll sharply focused at a 30-degree angle revealing its soft, fluffy layers swirled with cinnamon and brown sugar, topped with a glossy creamy cinnamon creamer icing dripping slightly down the sides; the rest of the rolls softly blurred into the background. DETAILS: rich caramelized edges, warm orange-brown pumpkin dough with visible cinnamon swirls, the icing sheen catching the light naturally, a sprinkle of cinnamon dusting on top. STYLE: ultra-photorealistic professional food photography, bright airy daylight with a golden warm glow, vibrant saturated colors that highlight the texture and warmth of the rolls; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no steam or smoke, no artificial or flat colors.",
+        "img2": "SCENE: soft natural light through a bright window with a light grey marble countertop softly blurred behind. SUBJECT: the reveal shot of a single pumpkin cinnamon roll cut in half with both halves facing the camera, showing the moist, tender crumb inside with gooey cinnamon sugar filling and the creamy cinnamon creamer icing oozing slowly over the torn edges. DETAILS: moist pumpkin dough with visible air pockets, glossy cinnamon sugar layers, thick creamy icing dripping in slow motion, crumbs scattered naturally on the marble surface. STYLE: ultra-photorealistic professional food photography, bright daylight with warm golden highlights, highly saturated and vivid colors emphasizing the texture and moisture; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no steam, no dull or flat colors.",
+        "img3": "SCENE: warm dark wood table softly blurred in the background with a gentle side glow highlighting the scene. SUBJECT: several pumpkin cinnamon rolls arranged closely in a rustic baking dish, topped generously with creamy cinnamon creamer icing and a light dusting of cinnamon, accompanied by a small vintage bowl of extra creamer icing on the side. DETAILS: intense glossy shine on the icing, deep amber caramelization on the edges, natural crumbs scattered around the dish, warm inviting colors. STYLE: ultra-photorealistic professional food photography, rich golden-amber warm color grading, highly saturated appetizing tones; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no steam, no plastic textures."
+    },
+    "description": "These pumpkin cinnamon rolls are soft, fluffy, and bursting with warm fall spices. The secret? A creamy cinnamon creamer icing that adds irresistible richness. Perfect for cozy fall mornings or holiday brunches!",
+    "hashtags": "#pumpkincinnamonrolls #fallbaking #homemadebreakfast",
+    "board_name": "Seasonal Feasts",
+    "pin_variations": [
+        {
+            "title": "Why Does This Pumpkin Cinnamon Rolls Creamer Recipe Taste So Irresistible?",
+            "description": "Discover the magic behind these pumpkin cinnamon rolls with creamy cinnamon creamer icing. It's all about the perfect balance of spices and that luscious drizzle. Save this for your next cozy breakfast! 🎃🍁 #pumpkincinnamonrolls #fallrecipes #breakfastideas"
+        },
+        {
+            "title": "The One Trick That Makes Pumpkin Cinnamon Rolls Creamer So Perfectly Soft",
+            "description": "Want irresistibly soft pumpkin cinnamon rolls every time? The secret's in the creamer icing and a little extra pumpkin puree. Try it for your next brunch and watch everyone ask for seconds! 🍂✨ #homemadebaking #pumpkinrecipes #cozybreakfast"
+        },
+        {
+            "title": "30-Minute Pumpkin Cinnamon Rolls Creamer Recipe for Busy Fall Mornings",
+            "description": "Short on time but craving comfort? These pumpkin cinnamon rolls with creamy cinnamon creamer icing come together quickly and taste like a dream. Perfect for busy mornings or weekend treats! 🕒🍂 #quickbreakfast #pumpkincinnamonrolls #fallbaking"
+        },
+        {
+            "title": "Pumpkin Cinnamon Rolls Creamer vs Traditional: Which Is Your Favorite?",
+            "description": "Love pumpkin spice but want something extra creamy? This pumpkin cinnamon rolls creamer recipe adds a luscious twist to the classic. Which one wins your heart? Try both and decide! 🎃❤️ #pumpkinrecipes #cinnamonrolls #homemadebaking"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "3 1/2 cups all-purpose flour, plus extra for dusting",
+        "1/2 cup warm whole milk (110°F)",
+        "1/2 cup pumpkin puree, fresh or canned",
+        "1/4 cup granulated sugar",
+        "1/4 cup unsalted butter, melted",
+        "1 large egg",
+        "2 1/4 teaspoons active dry yeast (1 packet)",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1/2 teaspoon ground ginger",
+        "1/4 teaspoon ground cloves",
+        "1 teaspoon salt",
+        "For the filling: 1/2 cup brown sugar, packed",
+        "2 tablespoons ground cinnamon",
+        "1/4 cup unsalted butter, softened",
+        "For the creamer icing: 4 oz cream cheese, softened",
+        "1/4 cup unsalted butter, softened",
+        "1 cup powdered sugar",
+        "2 tablespoons half-and-half or milk",
+        "1 teaspoon vanilla extract",
+        "1/2 teaspoon ground cinnamon"
+    ],
+    "yield": "Approximately 8 large pumpkin cinnamon rolls",
+    "introduction": "I've been making cinnamon rolls for years, but adding pumpkin puree to the dough is a game changer, especially in the fall. This recipe combines that cozy pumpkin flavor with warm spices and finishes with a creamy cinnamon creamer icing that’s just irresistible. The dough is soft and tender thanks to the pumpkin’s moisture, while the filling is a perfect balance of brown sugar and cinnamon. I love how the creamer icing adds a luscious, silky finish that melts into every swirl. One trick I learned is to let the dough rise in a warm spot, which helps develop the perfect fluffy texture. Another secret is using real pumpkin puree instead of pumpkin spice alone — it makes the rolls moist and rich without being overly sweet. These rolls are perfect for a weekend brunch or a special holiday breakfast. They look stunning too, with that glossy cinnamon creamer icing dripping down the sides. Honestly, once you try these, you’ll never go back to plain cinnamon rolls!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by activating the yeast: warm the milk to about 110°F, then sprinkle the yeast over it and let it sit for 5-10 minutes until foamy. This step is crucial because it confirms the yeast is alive and will help your dough rise properly. If the milk is too hot, it can kill the yeast, so use a thermometer or test with your finger to ensure it's just warm. A good foam means your dough will be light and airy.",
+            "timing": "10 minutes",
+            "doneness_cue": "Foamy, bubbly surface on the milk and yeast mixture"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, combine the flour, sugar, salt, cinnamon, nutmeg, ginger, and cloves. Add the pumpkin puree, melted butter, egg, and the yeast mixture. Mix until a sticky dough forms. Knead on a floured surface for about 8-10 minutes until smooth and elastic. Kneading develops gluten, which gives the rolls their structure and chewiness. Don’t rush this step; if the dough is too sticky, add flour a tablespoon at a time to avoid tough rolls.",
+            "timing": "15 minutes",
+            "doneness_cue": "Smooth, elastic dough that springs back when pressed"
+        },
+        {
+            "step": 3,
+            "instruction": "Place the dough in a lightly greased bowl, cover it with a damp cloth or plastic wrap, and let it rise in a warm spot for about 1 hour or until doubled in size. This fermentation step allows the yeast to produce gas, making the dough rise and develop flavor. Avoid cold drafts as they slow the process. If your kitchen is cool, preheat your oven to 200°F for 2 minutes, then turn it off and place the dough inside to rise.",
+            "timing": "60 minutes",
+            "doneness_cue": "Dough doubled in volume and slightly puffy"
+        },
+        {
+            "step": 4,
+            "instruction": "While the dough rises, prepare the filling by mixing the brown sugar and cinnamon in a bowl. Once the dough has risen, punch it down gently to release air, then roll it out on a floured surface into a 16x12-inch rectangle. Spread the softened butter evenly over the dough, then sprinkle the cinnamon sugar mixture on top. Rolling the dough evenly and spreading the filling ensures each roll has a balanced flavor and texture.",
+            "timing": "15 minutes",
+            "doneness_cue": "Evenly coated dough with visible cinnamon sugar layer"
+        },
+        {
+            "step": 5,
+            "instruction": "Starting from the long edge, roll the dough tightly into a log. Pinch the seam to seal it. Use a sharp knife or dental floss to cut the log into 8 equal rolls. Cutting with floss prevents squishing the dough. Place the rolls cut side up in a greased baking dish, leaving a little space to expand. Cover again and let rise for 30 minutes. This second rise is important for light, fluffy rolls.",
+            "timing": "30 minutes",
+            "doneness_cue": "Rolls puffed up and touching each other slightly"
+        },
+        {
+            "step": 6,
+            "instruction": "Preheat your oven to 350°F (175°C). Bake the rolls for 25-30 minutes until golden brown and cooked through. The pumpkin dough browns beautifully, and you’ll notice a warm pumpkin aroma. Avoid overbaking, which can dry them out. The rolls should feel soft but set to the touch.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Golden brown tops and firm but soft texture"
+        },
+        {
+            "step": 7,
+            "instruction": "While the rolls bake, prepare the creamer icing by beating together the softened cream cheese and butter until smooth. Gradually add powdered sugar, then stir in the half-and-half, vanilla extract, and cinnamon. The creamer icing should be thick but pourable, with a silky texture and warm spice notes. This icing adds richness and a creamy contrast to the spicy rolls.",
+            "timing": "10 minutes",
+            "doneness_cue": "Smooth, glossy icing with no lumps"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the rolls from the oven and let them cool for about 10 minutes. This resting time prevents the icing from melting off completely and allows the rolls to set slightly. Warm rolls are perfect for spreading the icing, as it melts just enough to seep into the swirls.",
+            "timing": "10 minutes",
+            "doneness_cue": "Slightly warm but not hot rolls"
+        },
+        {
+            "step": 9,
+            "instruction": "Generously spread or drizzle the cinnamon creamer icing over the warm pumpkin cinnamon rolls. Serve immediately for best texture and flavor. The creamy icing seeps into the rolls’ spirals, making each bite soft, sweet, and perfectly spiced. Store leftovers covered to maintain softness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Icing glossy and slightly melted into the rolls"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Pumpkin Cinnamon Rolls Creamer Recipe Succeeds",
+        "content": "<p>The success of these pumpkin cinnamon rolls lies in the balance of moisture, spice, and texture. Using pumpkin puree in the dough adds natural moisture and a tender crumb without making the dough sticky or heavy. The pumpkin’s natural sugars also contribute to the dough’s browning during baking, creating a beautiful golden crust. The combination of warm spices—cinnamon, nutmeg, ginger, and cloves—works harmoniously to evoke cozy fall flavors without overwhelming the palate.</p><p>The yeast fermentation process is essential here. Activating the yeast properly in warm milk ensures a good rise, while allowing the dough to rest twice gives the rolls their signature lightness and fluffy texture. Kneading develops gluten, which provides structure and chewiness, while careful handling prevents the dough from becoming tough.</p><p>The filling is simple but effective: brown sugar and cinnamon melt into a gooey, caramelized swirl that contrasts perfectly with the soft dough. The creamer icing, made from cream cheese and butter, adds a luscious, rich finish. Its creamy texture and mild sweetness balance the spices and pumpkin, making the rolls irresistibly moist and flavorful. The slight cinnamon in the icing ties everything together, enhancing the spice profile without overpowering.</p><p>Overall, the technique focuses on layering flavors and textures while maintaining a tender, moist roll that feels indulgent yet approachable. This recipe’s attention to yeast activation, dough hydration, and icing balance makes it stand out from standard cinnamon rolls.</p>",
+        "ingredient_notes": {
+            "pumpkin puree": "Look for pure pumpkin puree, not pumpkin pie filling, which contains added sugars and spices. The puree adds moisture and a subtle sweetness to the dough, contributing to its tender texture. Using fresh pumpkin can work but may require cooking and pureeing. The natural sugars in pumpkin also help with browning during baking.",
+            "active dry yeast": "Choose fresh, active dry yeast for reliable rising. Yeast is a living organism that ferments sugars to produce carbon dioxide, causing the dough to rise and develop flavor. Always proof yeast in warm milk to confirm it's active; expired or improperly stored yeast can lead to dense rolls.",
+            "all-purpose flour": "All-purpose flour provides the right balance of protein for gluten development, giving the rolls structure without toughness. Avoid bread flour which can make rolls chewier or cake flour which can be too soft. Measuring flour correctly by spooning and leveling ensures consistent dough texture.",
+            "cream cheese": "Use full-fat cream cheese softened to room temperature for smooth, creamy icing. It adds tanginess and richness that complements the sweet and spicy rolls. Avoid low-fat or whipped cream cheese as they can affect the icing’s texture and flavor.",
+            "brown sugar": "Packed brown sugar in the filling provides moisture and a deep caramel flavor. The molasses content enhances the cinnamon’s warmth and helps create the gooey swirls inside the rolls. Light or dark brown sugar can be used depending on your preference for intensity."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Proof your yeast in warm milk before mixing the dough.",
+            "reason": "Activating yeast in warm milk (about 110°F) ensures it’s alive and healthy, which is crucial for a good rise. If the milk is too hot, it kills the yeast; too cold, and it won’t activate properly. This step prevents dense, flat rolls."
+        },
+        {
+            "tip": "Don’t skip the second rise after shaping the rolls.",
+            "reason": "The second proofing allows the rolls to relax and puff up again after shaping, leading to a lighter, fluffier texture. Rushing this step can result in tight, dense rolls that don’t have that soft pull-apart quality."
+        },
+        {
+            "tip": "Use a sharp knife or dental floss to cut the rolls.",
+            "reason": "Cutting with a sharp knife or unflavored dental floss prevents squashing or tearing the delicate dough, keeping the rolls’ shape intact. This technique also ensures clean edges for even baking."
+        },
+        {
+            "tip": "Let the rolls cool slightly before icing.",
+            "reason": "Icing warm but not hot rolls lets the cream cheese frosting melt just enough to seep into the rolls without sliding off completely, creating that perfect luscious finish."
+        },
+        {
+            "tip": "Add spices gradually and taste the dough.",
+            "reason": "Pumpkin and cinnamon are strong flavors; adding spices little by little helps you control the balance and avoid overpowering the dough. Taste-testing the dough (before yeast addition) can guide your adjustments."
+        },
+        {
+            "tip": "Use room temperature ingredients for best dough consistency.",
+            "reason": "Cold ingredients can slow yeast activity and make dough harder to knead. Room temperature butter, eggs, and pumpkin puree blend more easily and help the yeast ferment evenly."
+        },
+        {
+            "tip": "Dust your work surface lightly with flour to prevent sticking.",
+            "reason": "A lightly floured surface keeps the dough from sticking during rolling and shaping but too much flour can dry out the dough, making rolls tougher. Use just enough to work comfortably."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using pumpkin pie filling instead of pure pumpkin puree",
+            "why_it_happens": "Many people confuse pumpkin pie filling with pumpkin puree because they come in similar cans. Pie filling contains added sugars and spices, which can throw off the dough’s moisture and flavor balance.",
+            "fix": "Always use plain pumpkin puree labeled as such. If you accidentally use pie filling, reduce added sugar in the dough and filling to compensate, but fresh puree is best for consistent results."
+        },
+        {
+            "mistake": "Skipping the yeast proofing step",
+            "why_it_happens": "Some skip proofing to save time or because they assume the yeast is fresh. This can lead to dough that doesn’t rise properly if the yeast is dead or inactive.",
+            "fix": "Always proof yeast in warm milk before mixing. If it doesn’t foam, start over with fresh yeast to avoid dense rolls."
+        },
+        {
+            "mistake": "Overbaking the rolls",
+            "why_it_happens": "It’s tempting to bake until very brown for color, but overbaking dries the rolls out, making them tough and crumbly.",
+            "fix": "Bake until golden but still soft to the touch. Check early and remove once the tops are lightly browned and the rolls spring back gently."
+        },
+        {
+            "mistake": "Cutting rolls with a dull knife",
+            "why_it_happens": "Using a dull blade squishes the dough, ruining the shape and creating uneven layers.",
+            "fix": "Use a sharp knife or unflavored dental floss to slice cleanly without compressing the dough."
+        },
+        {
+            "mistake": "Applying icing to hot rolls",
+            "why_it_happens": "Icing melts too much and runs off, leaving little on the rolls.",
+            "fix": "Let rolls cool for 10 minutes before icing to achieve a perfect creamy drizzle that clings to the rolls."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Maple Pecan Pumpkin Cinnamon Rolls",
+            "description": "Add chopped toasted pecans to the cinnamon sugar filling and swap the creamer icing for a maple glaze made with powdered sugar and pure maple syrup. This adds a nutty crunch and a rich, sweet twist that complements the pumpkin spice beautifully.",
+            "technical_note": "Chop nuts finely to prevent tearing dough; apply glaze after rolls cool to avoid melting."
+        },
+        {
+            "name": "Vegan Pumpkin Cinnamon Rolls",
+            "description": "Replace butter with coconut oil, use plant-based milk, and swap cream cheese icing for a coconut cream glaze. This variation keeps the rolls soft and flavorful while making them suitable for vegan diets.",
+            "technical_note": "Use vegan yeast and ensure all ingredients are dairy-free; dough may require slightly more liquid."
+        },
+        {
+            "name": "Gluten-Free Pumpkin Cinnamon Rolls",
+            "description": "Use a gluten-free flour blend designed for baking and add xanthan gum to mimic gluten’s elasticity. The rolls will be tender and moist, with the same warm pumpkin spice flavor.",
+            "technical_note": "Gluten-free dough is stickier; handle gently and allow extra rising time."
+        },
+        {
+            "name": "Spiced Orange Pumpkin Cinnamon Rolls",
+            "description": "Add fresh orange zest to the dough and filling for a bright citrus note that pairs wonderfully with pumpkin and cinnamon. Top with an orange-infused cream cheese icing for a refreshing twist.",
+            "technical_note": "Zest carefully to avoid bitter pith; reduce cinnamon slightly to balance flavors."
+        },
+        {
+            "name": "Pumpkin Cinnamon Rolls with Chocolate Drizzle",
+            "description": "After icing, drizzle melted dark chocolate over the rolls for a decadent finish. The bittersweet chocolate contrasts nicely with the sweet, spiced pumpkin rolls.",
+            "technical_note": "Allow icing to set slightly before drizzling chocolate to prevent mixing."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "14g",
+        "fiber_grams": "3g",
+        "sodium_mg": "290mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pumpkin cinnamon rolls can be kept at room temperature for up to 2 hours covered loosely with a clean towel to prevent drying. Beyond this, they may start to lose moisture and become stale.",
+        "refrigerator": "Store leftover rolls in an airtight container in the refrigerator for up to 4 days. The rolls may firm up when cold; reheat gently before serving to restore softness. Icing may thicken but can be softened by warming slightly.",
+        "freezer": "Freeze the rolls tightly wrapped in plastic wrap and foil for up to 2 months. Thaw overnight in the refrigerator, then warm in the oven or microwave to refresh texture. Avoid freezing with icing applied; add icing after thawing.",
+        "reheating": "Reheat rolls in a preheated 350°F oven for 8-10 minutes covered with foil to prevent drying. Microwave on medium power for 20-30 seconds for a quick warm-up. Add a splash of milk or cream if rolls feel dry.",
+        "make_ahead_strategy": "Prepare the dough and shape the rolls a day ahead, then cover and refrigerate overnight. Allow rolls to come to room temperature and rise slightly before baking. You can also make the icing ahead and store it chilled, then spread on warm rolls fresh from the oven."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned pumpkin pie filling instead of pumpkin puree?",
+            "answer": "It's best to use plain pumpkin puree because canned pumpkin pie filling contains added sugar and spices that can throw off the dough’s moisture and flavor balance. If you only have pie filling, reduce the added sugar in the recipe and skip the extra spices. However, for consistent results, pure pumpkin puree is recommended."
+        },
+        {
+            "question": "What if my dough is too sticky to handle?",
+            "answer": "Pumpkin adds moisture, so the dough will be slightly sticky. Dust your hands and work surface lightly with flour, but avoid adding too much flour as it can make the rolls tough. Knead gently and add flour a tablespoon at a time if absolutely necessary until the dough is manageable but still soft."
+        },
+        {
+            "question": "How do I know when the rolls are fully baked?",
+            "answer": "The rolls should be golden brown on top and spring back gently when pressed. Insert a toothpick into the center; it should come out clean or with a few moist crumbs but no raw dough. Avoid overbaking to keep them soft and tender."
+        },
+        {
+            "question": "Can I make these rolls ahead of time?",
+            "answer": "Yes! You can prepare the dough and shape the rolls the day before, then refrigerate them covered overnight. Let them come to room temperature and rise slightly before baking. The icing can also be made ahead and stored in the fridge."
+        },
+        {
+            "question": "What’s the best way to reheat leftover rolls?",
+            "answer": "Reheat in a 350°F oven for 8-10 minutes covered with foil to keep moisture in. For a quick option, microwave on medium power for 20-30 seconds. Adding a splash of milk or cream before reheating helps restore softness."
+        },
+        {
+            "question": "Can I substitute cream cheese icing with regular glaze?",
+            "answer": "You can use a simple powdered sugar glaze if you prefer, but cream cheese icing adds richness and tang that complements the pumpkin and spices beautifully. The creamer icing also has a thicker, creamier texture that clings to the rolls better."
+        },
+        {
+            "question": "Is it okay to use instant yeast instead of active dry yeast?",
+            "answer": "Instant yeast can be used but skip the proofing step and mix it directly with the dry ingredients. You may need to adjust rising times slightly. Active dry yeast requires proofing, which helps ensure it’s alive and active."
+        },
+        {
+            "question": "Can I add nuts or raisins to the filling?",
+            "answer": "Absolutely! Chopped toasted pecans or walnuts add a lovely crunch, while raisins bring bursts of sweetness. Add about 1/2 cup to the filling before rolling. Just be sure to distribute evenly for consistent flavor."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing these pumpkin cinnamon rolls with creamy cinnamon creamer icing as much as my family does. They’re a cozy, delicious treat perfect for fall mornings or anytime you want a little homemade comfort!",
+    "seo": {
+        "primary_keyword": "pumpkin cinnamon rolls creamer",
+        "secondary_keywords": [
+            "pumpkin cinnamon rolls recipe",
+            "how to make pumpkin cinnamon rolls",
+            "best pumpkin cinnamon rolls recipe",
+            "easy pumpkin cinnamon rolls"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade cinnamon roll dough technique",
+                "anchor": "cinnamon-roll-dough-technique"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "5200"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-09-04 00:13:36",
+        "title_seed": "pumpkin cinnamon rolls creamer"
+    },
+    "author_id": "author_001",
+    "id": "post_1788480816_723",
+    "slug": "pumpkin-cinnamon-rolls-creamer",
+    "uniqueSlug": "pumpkin-cinnamon-rolls-creamer",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_1.webp",
+            "filePath": "posts/pumpkin-cinnamon-rolls-creamer/images/pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_1.webp",
+            "relativePath": "pumpkin-cinnamon-rolls-creamer/images/pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_2.webp",
+            "filePath": "posts/pumpkin-cinnamon-rolls-creamer/images/pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_2.webp",
+            "relativePath": "pumpkin-cinnamon-rolls-creamer/images/pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_3.webp",
+            "filePath": "posts/pumpkin-cinnamon-rolls-creamer/images/pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_3.webp",
+            "relativePath": "pumpkin-cinnamon-rolls-creamer/images/pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_11.webp",
+            "filePath": "posts/pumpkin-cinnamon-rolls-creamer/images/pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_11.webp",
+            "relativePath": "pumpkin-cinnamon-rolls-creamer/images/pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Homemade Pumpkin Cinnamon Rolls Creamer | Easy Cozy Fall Drink",
+            "description": "Enjoy the rich flavors of pumpkin and cinnamon in this creamy homemade creamer perfect for your morning coffee or latte. This easy fall recipe brings warm spices and sweet pumpkin together for a delicious seasonal treat that enhances every sip.",
+            "board_override": "Pumpkin Cinnamon Rolls",
+            "source_keyword": "pumpkin cinnamon rolls creamer",
+            "reference_pin": "https://www.pinterest.com/pin/758926974756203047/",
+            "reference_saves": null,
+            "csv_exported": true
+        },
+        {
+            "fileName": "pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_12.webp",
+            "filePath": "posts/pumpkin-cinnamon-rolls-creamer/images/pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_12.webp",
+            "relativePath": "pumpkin-cinnamon-rolls-creamer/images/pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Homemade Pumpkin Cinnamon Rolls Creamer for Cozy Fall Mornings",
+            "description": "Enjoy the rich flavors of pumpkin and cinnamon swirled into a creamy homemade creamer. Perfect for adding a warm, spiced touch to your coffee or latte all season long.",
+            "board_override": "Pumpkin Cinnamon Rolls",
+            "source_keyword": "pumpkin cinnamon rolls creamer",
+            "reference_pin": "https://www.pinterest.com/pin/59250551352034095/",
+            "reference_saves": null,
+            "csv_exported": true
+        }
+    ],
+    "image": "pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_1.webp",
+    "image_path": "posts/pumpkin-cinnamon-rolls-creamer/images/pumpkin-cinnamon-rolls-creamer_pumpkin-cinnamon-rolls-creamer_pinrecipes_image_1.webp",
+    "image_dir": "pumpkin-cinnamon-rolls-creamer/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-09-04T00:13:36+00:00",
+    "updatedAt": "2026-09-04T00:13:36+00:00",
+    "pinterest_source_keyword": "pumpkin cinnamon rolls creamer",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}
