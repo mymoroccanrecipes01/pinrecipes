@@ -1,0 +1,366 @@
+{
+    "title": "Easy Pumpkin Cinnamon Rolls Recipe with Cream Cheese Frosting for Cozy Fall Mornings",
+    "promptIMG": "Food photography: pumpkin cinnamon rolls, stacked in a rustic white ceramic baking dish, soft golden-brown dough swirled with cinnamon-sugar filling, creamy white frosting drizzled generously over the top with a slight glossy shine, natural daylight from a kitchen window softly illuminating the rolls, warm wooden countertop blurred in background, documentary style, realistic warm autumn colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred home kitchen with a bright window casting natural daylight, faint reflections on a clean countertop, no recognizable objects in focus. SUBJECT: a generous stack of golden pumpkin cinnamon rolls overflowing a rustic white ceramic baking dish, the front roll sharply focused at a 30-degree angle revealing the soft, fluffy laminated dough layers and the glossy cinnamon-sugar swirl, the rest of the rolls receding into a warm bokeh. DETAILS: rich caramelized edges with a wet glossy shine from the cream cheese frosting lightly drizzled on top, a sprinkle of cinnamon dust settling into the textures, crumbs scattered naturally on the dish edge. STYLE: ultra-photorealistic professional food photography, bright airy daylight with deep golden-amber warmth, rich saturated colors conveying cozy fall vibes, vertical 2:3. AVOID: no text, hands, people, logos, or artificial effects.",
+        "img2": "SCENE: soft natural light from a bright kitchen window softly blurring a marble-toned countertop in the background. SUBJECT: the reveal shot of a pumpkin cinnamon roll cut in half with both halves facing the camera, showing the moist, tender crumb and the molten cinnamon-sugar filling oozing slowly, creamy frosting melting slightly over the edges. DETAILS: the interior glistens with a wet glossy sheen contrasting the caramelized amber crust, cinnamon specks visible within the layers, a few crumbs scattered below. STYLE: ultra-photorealistic professional food photography, bright daylight with warm golden tones, rich saturated colors highlighting the soft texture and creamy glaze, vertical 2:3. AVOID: no hands, text, or artificial elements.",
+        "img3": "SCENE: warm dark wood tones softly blurred behind with a single warm side glow illuminating the scene. SUBJECT: several pumpkin cinnamon rolls arranged closely in a rustic ceramic dish, generously topped with thick cream cheese frosting that glistens wet and glossy, a small bowl of extra frosting beside the dish. DETAILS: deep amber caramelization on the rolls, frosting gently dripping into the creases, cinnamon dust lightly sprinkled on top, crumbs scattered naturally on the wooden surface. STYLE: ultra-photorealistic professional food photography, rich golden-amber warm color grading, highly saturated appetizing tones, vertical 2:3. AVOID: no text, hands, or people."
+    },
+    "description": "These pumpkin cinnamon rolls are soft, fluffy, and filled with warm cinnamon sugar. I love how the real pumpkin adds moisture and a subtle autumn flavor. Perfect for weekend breakfasts or holiday mornings when you want something cozy and special.",
+    "hashtags": "#pumpkincinnamonrolls #fallbreakfast #homemadebaking",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Do My Pumpkin Cinnamon Rolls Never Stay Soft?",
+            "description": "Struggling with dry rolls? Discover the secret to soft, moist pumpkin cinnamon rolls every time. 🎃✨ Tap now to learn the trick and save this cozy fall recipe! #pumpkincinnamonrolls #fallbaking #cozybreakfast"
+        },
+        {
+            "title": "The One Trick That Makes Pumpkin Cinnamon Rolls Foolproof",
+            "description": "This simple tip will change your pumpkin cinnamon roll game forever. Soft, fluffy rolls with perfect cinnamon swirls are just a bake away! Save this recipe for your next weekend treat. 🍂 #homemadebaking #pumpkincinnamonrolls #easyrecipes"
+        },
+        {
+            "title": "30-Minute Pumpkin Cinnamon Rolls for Busy Fall Mornings",
+            "description": "Pressed for time? These quick pumpkin cinnamon rolls come together fast without sacrificing flavor or texture. Perfect for cozy autumn breakfasts on the go! 🎃🍁 Tap to get the full recipe. #quickbaking #pumpkincinnamonrolls #fallrecipes"
+        },
+        {
+            "title": "Pumpkin Cinnamon Rolls vs Classic: Which Is Your Favorite?",
+            "description": "Love classic cinnamon rolls? Try these pumpkin spiced ones for a seasonal twist you’ll adore. Soft dough, rich cinnamon, and creamy frosting make them irresistible! Save this cozy recipe now. #pumpkincinnamonrolls #fallbaking #comfortfood"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 cup canned pumpkin puree (not pumpkin pie filling)",
+        "3/4 cup whole milk, warmed",
+        "2 1/4 teaspoons active dry yeast (1 packet)",
+        "1/2 cup granulated sugar",
+        "1/4 cup unsalted butter, melted",
+        "1 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "4 cups all-purpose flour, plus extra for dusting",
+        "1 cup brown sugar, packed",
+        "2 tablespoons ground cinnamon",
+        "1/4 cup unsalted butter, softened",
+        "4 ounces cream cheese, softened",
+        "1/4 cup unsalted butter, softened",
+        "1 1/2 cups powdered sugar",
+        "1 teaspoon vanilla extract",
+        "2-3 tablespoons whole milk"
+    ],
+    "yield": "Approximately 8 large rolls",
+    "introduction": "I first made these pumpkin cinnamon rolls a few years ago when I wanted a cozy fall breakfast that felt special but was still easy enough for a weekend treat. Using real pumpkin puree adds such a lovely moistness and subtle autumn flavor that you just don’t get with plain dough. What really sets this recipe apart is the perfect balance of spices—cinnamon, nutmeg, and a touch of clove—that make every bite warm and comforting. I also learned that warming the milk just right and letting the yeast bloom properly makes the dough rise beautifully, so the rolls come out soft and fluffy every time. I remember the first batch I tried, I rushed the rise and ended up with dense rolls, but once I slowed down and followed the steps carefully, they turned out perfect—soft, tender, and with a gooey cinnamon swirl inside. The cream cheese frosting is the final touch that makes these irresistible, melting just a bit into the warm rolls. Whether you’re serving these for a holiday breakfast or a cozy weekend brunch, they’re sure to become a family favorite. I hope you love them as much as we do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Warm the milk until it’s just about body temperature (around 100-110°F). Pour it into a large mixing bowl, sprinkle the yeast over the surface, and let it sit for 5-10 minutes until foamy. This step activates the yeast and ensures your dough will rise nicely. If the milk is too hot, it can kill the yeast, and if it’s too cold, the yeast won’t activate properly. Watch for a bubbly, foamy surface—that’s your cue that the yeast is alive and ready.",
+            "timing": 10,
+            "doneness_cue": "Foamy, bubbly yeast mixture on the milk surface"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the pumpkin puree, sugar, melted butter, salt, cinnamon, and nutmeg to the yeast mixture. Stir to combine well. Then gradually add the flour, mixing until a soft dough forms. Knead the dough on a floured surface for about 8-10 minutes until it’s smooth and elastic. Kneading develops the gluten structure which gives the rolls their soft, chewy texture. If you skip or rush this, the rolls can turn out dense or crumbly.",
+            "timing": 15,
+            "doneness_cue": "Smooth, elastic dough that springs back when poked"
+        },
+        {
+            "step": 3,
+            "instruction": "Place the dough in a lightly oiled bowl, cover it with a clean towel or plastic wrap, and let it rise in a warm spot for 1 to 1 1/2 hours, or until doubled in size. This slow rise allows the dough to develop flavor and become airy. Avoid rushing this step or placing it in a cold area, or the dough won’t rise properly and the rolls will be dense.",
+            "timing": 60,
+            "doneness_cue": "Dough has doubled in size and looks puffy"
+        },
+        {
+            "step": 4,
+            "instruction": "Once risen, punch down the dough gently and roll it out on a floured surface into a large rectangle about 16x12 inches. Spread the softened butter evenly over the dough, then sprinkle the cinnamon and brown sugar mixture all over. This layering is what creates the gooey cinnamon swirls. Be generous but don’t overload it, or the filling may leak out during baking.",
+            "timing": 10,
+            "doneness_cue": "Evenly coated dough with cinnamon sugar layer visible"
+        },
+        {
+            "step": 5,
+            "instruction": "Starting from the long edge, carefully roll the dough tightly into a log. Pinch the seam to seal it well. Use a sharp knife to cut the log into 8 equal rolls. A clean cut helps keep the rolls intact and ensures even baking. If you cut unevenly, some rolls may bake faster or fall apart.",
+            "timing": 10,
+            "doneness_cue": "8 evenly sized rolls with sealed edges"
+        },
+        {
+            "step": 6,
+            "instruction": "Place the rolls in a greased 9x13 inch baking dish, leaving a little space between each. Cover loosely and let them rise again for 30-45 minutes until puffy. This second rise helps make them extra soft and fluffy. Don’t skip this or the rolls will be dense.",
+            "timing": 40,
+            "doneness_cue": "Rolls look puffed and almost touching"
+        },
+        {
+            "step": 7,
+            "instruction": "Preheat your oven to 350°F (175°C). Bake the rolls for 25-30 minutes until golden brown and cooked through. They should look caramelized on the edges but not burnt. Overbaking dries them out, so watch closely in the last 5 minutes.",
+            "timing": 30,
+            "doneness_cue": "Golden brown tops and caramelized edges"
+        },
+        {
+            "step": 8,
+            "instruction": "While the rolls bake, prepare the cream cheese frosting by beating together the softened cream cheese, butter, powdered sugar, vanilla extract, and milk until smooth and creamy. Adjust the milk for your preferred consistency. This frosting adds a tangy sweetness that balances the pumpkin and cinnamon perfectly.",
+            "timing": 10,
+            "doneness_cue": "Smooth, thick but spreadable frosting"
+        },
+        {
+            "step": 9,
+            "instruction": "Once the rolls are out of the oven and slightly cooled (about 10 minutes), generously spread or drizzle the cream cheese frosting over the warm rolls. The frosting will melt slightly, creating a luscious glaze. Serve warm for the best experience!",
+            "timing": 10,
+            "doneness_cue": "Frosting glossy and slightly melted over rolls"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Pumpkin Cinnamon Roll Recipe Succeeds",
+        "content": "<p>The key to these pumpkin cinnamon rolls lies in balancing moisture and structure. Pumpkin puree adds natural moisture and a subtle sweetness, which keeps the dough tender, but too much can weigh down the yeast’s ability to make the dough rise. That’s why the flour quantity and kneading are crucial to build enough gluten structure to trap gas bubbles and create fluffy rolls.</p><p>Activating the yeast in warmed milk ensures the yeast is alive and ready to ferment sugars, producing carbon dioxide that makes the dough rise. The warm environment during proofing encourages yeast activity and gluten development, while the slow second rise allows the dough to relax and expand, resulting in a soft texture.</p><p>The cinnamon-sugar filling caramelizes during baking, creating those signature gooey swirls. Using softened butter helps the sugar stick and melt evenly without soaking the dough. The cream cheese frosting adds a creamy tang that contrasts beautifully with the warm spices and pumpkin, enhancing the overall flavor profile.</p><p>Temperature control throughout the process is vital: too hot and the yeast dies, too cold and it won’t activate. Proper kneading and proofing times ensure the dough develops the right elasticity and lightness. Together, these steps create soft, flavorful rolls that hold their shape and deliver that irresistible fall comfort food experience.</p>",
+        "ingredient_notes": {
+            "pumpkin puree": "Use pure canned pumpkin puree, not pumpkin pie filling, which contains added sugar and spices that can throw off the recipe’s balance. Pure pumpkin adds moisture and a mild sweetness that keeps the dough tender and flavorful. Fresh pumpkin puree can also be used but ensure it’s thick and drained well to avoid excess liquid.",
+            "active dry yeast": "Choose fresh, high-quality active dry yeast for reliable rising. Yeast is a living organism that ferments sugars to produce gas, making the dough rise. Old or expired yeast may not activate properly, resulting in dense rolls. Blooming yeast in warm milk activates it and confirms it’s alive before mixing.",
+            "all-purpose flour": "All-purpose flour provides the right protein content to develop gluten, which gives the dough elasticity and structure. Using bread flour will make the rolls chewier, while cake flour will make them too soft and fragile. Measure flour carefully to avoid a dry or heavy dough.",
+            "cinnamon and spices": "Ground cinnamon is the star spice, providing warmth and sweetness. Nutmeg adds a subtle earthiness, and optional cloves or ginger can enhance the fall flavor profile. Using fresh, high-quality spices ensures the rolls have vibrant, authentic flavor.",
+            "cream cheese": "Cream cheese in the frosting adds a tangy richness that balances the sweetness of the rolls and spices. Use full-fat cream cheese for the best texture and flavor. Soften it before mixing to avoid lumps and ensure a smooth, creamy frosting."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always proof your yeast in warm milk before mixing dough.",
+            "reason": "Proofing confirms that the yeast is active and alive, which is essential for a good rise. If the yeast doesn’t foam, it means it’s dead or the milk was too hot or cold. This step prevents wasting ingredients on dough that won’t rise."
+        },
+        {
+            "tip": "Don’t rush the dough rising times; patience is key.",
+            "reason": "Allowing the dough to rise fully develops flavor and texture. Rushing or shortening rise times results in dense, heavy rolls. The yeast needs time to ferment and produce gas bubbles that make the dough light and fluffy."
+        },
+        {
+            "tip": "Use room temperature ingredients for even mixing and rising.",
+            "reason": "Cold ingredients can shock the yeast and slow fermentation. Room temperature butter, cream cheese, and liquids help the dough come together smoothly and rise properly, ensuring consistent texture."
+        },
+        {
+            "tip": "Roll the dough tightly but gently to avoid squeezing out the filling.",
+            "reason": "A tight roll ensures neat swirls and even baking, but pressing too hard can push out the cinnamon sugar, leading to dry edges. Gentle rolling keeps the filling intact for gooey, flavorful rolls."
+        },
+        {
+            "tip": "Let the rolls cool slightly before frosting for best texture.",
+            "reason": "Applying frosting to piping hot rolls causes it to melt completely and run off, losing that luscious creamy layer. Letting them cool 5-10 minutes allows the frosting to soften and glide over the rolls, creating a perfect glaze."
+        },
+        {
+            "tip": "Use a sharp serrated knife for clean roll slices.",
+            "reason": "A serrated knife cuts through the dough and sticky filling cleanly without squashing or tearing the rolls, preserving their shape and swirl definition."
+        },
+        {
+            "tip": "Cover dough with a damp cloth during rises to prevent drying out.",
+            "reason": "Dry air can form a crust on the dough surface, hindering rising and causing tough spots. A damp cloth keeps the dough moist and pliable during proofing."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using pumpkin pie filling instead of pure pumpkin puree",
+            "why_it_happens": "Some cooks grab whatever pumpkin product is on hand without checking the label, not realizing pie filling has added sugar and spices.",
+            "fix": "Always use pure pumpkin puree for this recipe to control sweetness and spice levels. If only pie filling is available, reduce added sugar and omit spices in the dough."
+        },
+        {
+            "mistake": "Skipping the yeast proofing step",
+            "why_it_happens": "Impatience or unfamiliarity with yeast baking leads some to add yeast directly to flour.",
+            "fix": "Always proof yeast in warm milk to ensure it’s active. This prevents dough that won’t rise and results in soft rolls."
+        },
+        {
+            "mistake": "Overbaking the rolls",
+            "why_it_happens": "Trying to ensure they’re fully cooked, some leave rolls in too long.",
+            "fix": "Watch closely in the last 5 minutes; remove when golden brown with caramelized edges to keep rolls soft and moist."
+        },
+        {
+            "mistake": "Not kneading the dough enough",
+            "why_it_happens": "Rushing or underestimating the importance of kneading leads to dense rolls.",
+            "fix": "Knead dough until smooth and elastic to develop gluten, which traps air for fluffy texture."
+        },
+        {
+            "mistake": "Applying frosting while rolls are too hot",
+            "why_it_happens": "Eager to frost immediately, some spread frosting right out of the oven.",
+            "fix": "Let rolls cool 5-10 minutes to avoid frosting melting off and losing that creamy layer."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Maple Glaze Pumpkin Cinnamon Rolls",
+            "description": "Swap the cream cheese frosting for a simple maple glaze made with powdered sugar, pure maple syrup, and a splash of milk. This adds a natural sweetness and complements the pumpkin flavor beautifully.",
+            "technical_note": "Maple glaze is thinner than cream cheese frosting, so drizzle it over cooled rolls for best coverage without soaking the dough."
+        },
+        {
+            "name": "Pecan-Stuffed Pumpkin Cinnamon Rolls",
+            "description": "Add chopped toasted pecans to the cinnamon sugar filling for a delightful crunch and nutty flavor. This variation adds texture and richness to the classic rolls.",
+            "technical_note": "Distribute pecans evenly over the buttered dough before rolling. Be careful not to overfill to prevent leaking during baking."
+        },
+        {
+            "name": "Vegan Pumpkin Cinnamon Rolls",
+            "description": "Replace dairy milk with plant-based milk, use vegan butter, and substitute cream cheese frosting with a coconut cream glaze. The dough remains soft and flavorful, perfect for a vegan diet.",
+            "technical_note": "Use a flax egg or chia egg to replace traditional eggs if your recipe calls for them, and ensure your yeast is vegan-friendly."
+        },
+        {
+            "name": "Spiced Pumpkin Rolls with Ginger",
+            "description": "Add ground ginger and a pinch of cloves to the dough spices for a deeper, more complex flavor profile. This variation enhances the autumnal warmth of the rolls.",
+            "technical_note": "Adjust spice quantities carefully to avoid overpowering the pumpkin flavor; start with 1/4 teaspoon ginger and a pinch of cloves."
+        },
+        {
+            "name": "Mini Pumpkin Cinnamon Roll Bites",
+            "description": "Make smaller rolls by cutting the dough into 12-16 pieces instead of 8. These bite-sized treats are perfect for brunch buffets or parties.",
+            "technical_note": "Reduce baking time to 18-22 minutes and watch closely to prevent overbaking due to smaller size."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "14g",
+        "fiber_grams": "3g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pumpkin cinnamon rolls can safely sit covered at room temperature for up to 2 days. Keep them in an airtight container or covered tightly with plastic wrap to prevent drying out.",
+        "refrigerator": "Store leftover rolls in an airtight container in the fridge for up to 5 days. The rolls may firm up when cold; reheat gently to restore softness. Cream cheese frosting may thicken when chilled but softens when warmed.",
+        "freezer": "Freeze un-frosted rolls wrapped tightly in plastic wrap and foil for up to 3 months. Thaw overnight in the fridge, then warm in the oven or microwave before frosting and serving.",
+        "reheating": "Reheat rolls in a preheated 350°F oven for 10-12 minutes covered with foil to prevent drying. Alternatively, microwave individual rolls for 20-30 seconds. Add a splash of milk to frosting if it thickens too much when chilled.",
+        "make_ahead_strategy": "Prepare the dough and roll it out the night before, then cover and refrigerate the rolled log. Slice and let rise in the morning before baking. This saves time and allows for fresh-baked rolls on busy mornings."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh pumpkin instead of canned puree?",
+            "answer": "Yes, you can use fresh pumpkin, but it needs to be cooked and pureed until smooth first. Make sure to drain any excess water to avoid a soggy dough. Canned pumpkin puree is convenient and consistent, which is why it’s preferred."
+        },
+        {
+            "question": "What if my dough doesn’t rise?",
+            "answer": "If your dough doesn’t rise, it’s often due to inactive yeast or improper temperature. Make sure your milk is warm but not hot when activating yeast, and that the yeast is fresh. Also, proof the dough in a warm, draft-free spot to encourage rising."
+        },
+        {
+            "question": "Can I make these rolls gluten-free?",
+            "answer": "Gluten-free versions are possible but require special gluten-free flour blends and often additional binders like xanthan gum. The texture will differ from traditional rolls, and rising times may vary. Experiment with gluten-free baking recipes for best results."
+        },
+        {
+            "question": "How do I store leftover rolls with frosting?",
+            "answer": "Store frosted rolls in an airtight container at room temperature for up to 2 days or refrigerate for up to 5 days. If refrigerated, the frosting may thicken; warm gently before serving to soften."
+        },
+        {
+            "question": "Can I freeze baked rolls with frosting?",
+            "answer": "It’s better to freeze rolls without frosting to preserve texture. Freeze unbaked or baked rolls tightly wrapped, thaw, then frost fresh before serving for the best taste and texture."
+        },
+        {
+            "question": "Why are my rolls dense instead of fluffy?",
+            "answer": "Dense rolls usually mean the dough didn’t rise enough or wasn’t kneaded properly. Ensure yeast is active, allow sufficient rising time, and knead until dough is smooth and elastic."
+        },
+        {
+            "question": "Can I add nuts or raisins to the filling?",
+            "answer": "Absolutely! Chopped nuts or raisins add texture and flavor. Add them evenly over the buttered dough before rolling. Avoid overfilling to prevent leaks."
+        },
+        {
+            "question": "How do I make the frosting less sweet?",
+            "answer": "Reduce the powdered sugar slightly or add a bit more cream cheese for tanginess. You can also add a pinch of salt to balance sweetness."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing these pumpkin cinnamon rolls as much as my family does. They’re a perfect cozy treat for any fall morning—don’t forget to share how yours turn out!",
+    "seo": {
+        "primary_keyword": "pumpkin cinnamon rolls recipe easy",
+        "secondary_keywords": [
+            "easy pumpkin cinnamon rolls",
+            "homemade pumpkin cinnamon rolls",
+            "how to make pumpkin cinnamon rolls",
+            "best pumpkin cinnamon rolls recipe",
+            "pumpkin cinnamon rolls with cream cheese frosting"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade cinnamon roll dough",
+                "anchor": "homemade-cinnamon-roll-dough"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-09-05 00:11:44",
+        "title_seed": "pumpkin cinnamon rolls recipe easy"
+    },
+    "author_id": "author_001",
+    "id": "post_1788567104_670",
+    "slug": "pumpkin-cinnamon-rolls-recipe-easy",
+    "uniqueSlug": "pumpkin-cinnamon-rolls-recipe-easy",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_1.webp",
+            "filePath": "posts/pumpkin-cinnamon-rolls-recipe-easy/images/pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_1.webp",
+            "relativePath": "pumpkin-cinnamon-rolls-recipe-easy/images/pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_2.webp",
+            "filePath": "posts/pumpkin-cinnamon-rolls-recipe-easy/images/pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_2.webp",
+            "relativePath": "pumpkin-cinnamon-rolls-recipe-easy/images/pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_3.webp",
+            "filePath": "posts/pumpkin-cinnamon-rolls-recipe-easy/images/pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_3.webp",
+            "relativePath": "pumpkin-cinnamon-rolls-recipe-easy/images/pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_11.webp",
+            "filePath": "posts/pumpkin-cinnamon-rolls-recipe-easy/images/pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_11.webp",
+            "relativePath": "pumpkin-cinnamon-rolls-recipe-easy/images/pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Easy Pumpkin Cinnamon Rolls Recipe with Cream Cheese Icing | Soft & Fluffy Fall Treat",
+            "description": "Enjoy these easy pumpkin cinnamon rolls made with real pumpkin and warm spices for a soft, fluffy texture. Perfect for cozy fall breakfasts or weekend baking, topped with rich cream cheese icing for extra flavor.",
+            "board_override": "Pumpkin Cinnamon Rolls",
+            "source_keyword": "pumpkin cinnamon rolls recipe easy",
+            "reference_pin": "https://www.pinterest.com/pin/52846995624436683/",
+            "reference_saves": 13,
+            "csv_exported": true
+        },
+        {
+            "fileName": "pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_12.webp",
+            "filePath": "posts/pumpkin-cinnamon-rolls-recipe-easy/images/pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_12.webp",
+            "relativePath": "pumpkin-cinnamon-rolls-recipe-easy/images/pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Easy Pumpkin Cinnamon Rolls with Cream Cheese Glaze",
+            "description": "Discover the perfect easy pumpkin cinnamon rolls recipe for fall mornings or cozy desserts. Soft, fluffy rolls infused with pumpkin and warm spices, finished with a smooth cream cheese glaze for an irresistible treat anyone can make.",
+            "board_override": "Pumpkin Cinnamon Rolls",
+            "source_keyword": "pumpkin cinnamon rolls recipe easy",
+            "reference_pin": "https://www.pinterest.com/pin/559853797450682246/",
+            "reference_saves": 4,
+            "csv_exported": true
+        },
+        {
+            "fileName": "pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_13.webp",
+            "filePath": "posts/pumpkin-cinnamon-rolls-recipe-easy/images/pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_13.webp",
+            "relativePath": "pumpkin-cinnamon-rolls-recipe-easy/images/pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "Easy Pumpkin Cinnamon Rolls with Sweet Cream Cheese Glaze | Perfect Fall Treat",
+            "description": "Enjoy soft and fluffy pumpkin cinnamon rolls packed with warm spices and topped with a smooth cream cheese glaze. This easy pumpkin cinnamon rolls recipe is perfect for a cozy fall breakfast or an indulgent autumn dessert. Bake these irresistible rolls to bring comforting pumpkin flavor to your seasonal baking.",
+            "board_override": "Pumpkin Cinnamon Rolls",
+            "source_keyword": "pumpkin cinnamon rolls recipe easy",
+            "reference_pin": "https://www.pinterest.com/pin/758926974756203047/",
+            "reference_saves": 1,
+            "csv_exported": true
+        }
+    ],
+    "image": "pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_1.webp",
+    "image_path": "posts/pumpkin-cinnamon-rolls-recipe-easy/images/pumpkin-cinnamon-rolls-recipe-easy_pumpkin-cinnamon-rolls-recipe-easy_pinrecipes_image_1.webp",
+    "image_dir": "pumpkin-cinnamon-rolls-recipe-easy/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-09-05T00:11:44+00:00",
+    "updatedAt": "2026-09-05T00:11:44+00:00",
+    "pinterest_source_keyword": "pumpkin cinnamon rolls recipe easy",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}
