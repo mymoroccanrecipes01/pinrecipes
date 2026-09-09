@@ -1,0 +1,370 @@
+{
+    "title": "Moist Pumpkin Coffee Cake Loaf with Pumpkin Spice Streusel and Maple Glaze",
+    "promptIMG": "Food photography: pumpkin coffee cake loaf, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This pumpkin coffee cake loaf is everything you want in a fall treat—moist, warmly spiced, and topped with a crunchy streusel and sticky maple glaze. I love making it for weekend mornings or cozy afternoons with tea.",
+    "hashtags": "#pumpkincoffeeloaf #pumpkinbread #fallbaking",
+    "board_name": "Seasonal Feasts",
+    "pin_variations": [
+        {
+            "title": "Why Does This Pumpkin Coffee Cake Loaf Taste So Moist and Flavorful?",
+            "description": "Discover the secret to a perfectly moist pumpkin coffee cake loaf that’s bursting with warm spices and topped with a crisp streusel. 🍂 Save this for your next cozy baking day! #pumpkinbread #fallrecipes #coffeecake"
+        },
+        {
+            "title": "The One Trick That Makes Pumpkin Coffee Cake Loaf Incredibly Moist",
+            "description": "Want a pumpkin coffee cake loaf that stays moist for days? The secret’s in the pumpkin and the maple glaze finish. 🍁 Tap to get the full recipe and wow your family! #pumpkinloaf #bakingtips #fallbaking"
+        },
+        {
+            "title": "30-Minute Pumpkin Coffee Cake Loaf Perfect for Busy Mornings",
+            "description": "Need a quick fall breakfast? This pumpkin coffee cake loaf is easy, moist, and topped with a cinnamon streusel that’s irresistible. 🎃 Save this for your next busy morning! #pumpkinrecipes #easybaking #morningtreat"
+        },
+        {
+            "title": "Pumpkin Coffee Cake Loaf vs Pumpkin Bread: Which Is Your Favorite?",
+            "description": "Both are delicious, but this pumpkin coffee cake loaf has a crisp streusel and maple glaze that set it apart. 🍂 Which one do you prefer? Tap for the recipe! #pumpkinloaf #fallbaking #coffeecake"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
+    "ingredients": [
+        "1 ¾ cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "½ teaspoon baking soda",
+        "½ teaspoon salt",
+        "1 tablespoon pumpkin pie spice",
+        "1 cup canned pumpkin puree",
+        "½ cup unsalted butter, softened",
+        "1 cup granulated sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "½ cup sour cream",
+        "For the streusel topping: ½ cup brown sugar, ¼ cup all-purpose flour, 1 teaspoon cinnamon, ¼ cup cold unsalted butter, cubed",
+        "For the maple glaze: ½ cup powdered sugar, 2 tablespoons pure maple syrup, 1 tablespoon milk"
+    ],
+    "yield": "1 loaf, approximately 8 servings",
+    "introduction": "I first made this pumpkin coffee cake loaf a few years ago when I wanted something a little more special than plain pumpkin bread. What sets it apart is the streusel topping that adds a delightful crunch and the sticky maple glaze that gives it a perfect sweet finish. I’ve tried a lot of pumpkin bread recipes, but this one always comes out moist and tender, thanks to the sour cream and pumpkin puree working together. The warm pumpkin pie spice fills the kitchen with cozy aromas that make it feel like fall even on the chilliest mornings. Plus, it’s simple enough to whip up on a weekend morning or for a casual family gathering. I love slicing it thick with a cup of coffee or tea, and it’s great for sharing with friends too. The trick I learned is to not overmix the batter to keep the crumb tender and to make sure the streusel topping is crumbly and buttery. This loaf looks beautiful with the golden streusel and maple glaze drizzled over the top, making it a lovely centerpiece for any seasonal table. It’s definitely become a favorite in my house, and I hope you’ll enjoy it as much as we do.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x5-inch loaf pan well. This ensures your loaf won’t stick and will come out cleanly after baking. It’s important to prepare the pan first because the batter is quite moist, and a good greasing or lining with parchment paper helps the loaf keep its shape and texture.",
+            "timing": 10,
+            "doneness_cue": "Loaf pan is evenly greased or parchment paper is fitted smoothly without wrinkles."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking powder, baking soda, salt, and pumpkin pie spice. This dry mix is the backbone of your loaf’s texture and flavor. Whisking these ingredients ensures even distribution of the leavening agents and spices, which helps the loaf rise evenly and have consistent flavor in every bite.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are well combined with no clumps or uneven areas."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the softened butter and sugar together until light and fluffy. This step is crucial because creaming the butter and sugar introduces air into the batter, helping to create a tender crumb. Use room temperature butter for the best results, as cold butter won’t cream properly and melted butter can make the texture dense.",
+            "timing": 5,
+            "doneness_cue": "Butter and sugar mixture is pale, fluffy, and slightly increased in volume."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the eggs one at a time, beating well after each addition, then mix in the vanilla extract. Eggs provide structure and moisture, and adding them gradually helps maintain the batter’s smooth texture. Vanilla enhances the overall flavor, balancing the spices and pumpkin.",
+            "timing": 3,
+            "doneness_cue": "Batter is smooth and glossy, no streaks of egg visible."
+        },
+        {
+            "step": 5,
+            "instruction": "Mix in the pumpkin puree and sour cream until just combined. These ingredients add moisture and richness, which keep the loaf tender and prevent it from drying out. Be careful not to overmix here — overworking the batter can develop gluten and make the loaf tough.",
+            "timing": 2,
+            "doneness_cue": "Batter is uniform in color and texture, slightly thick but smooth."
+        },
+        {
+            "step": 6,
+            "instruction": "Gradually fold the dry ingredients into the wet ingredients using a spatula. Folding gently preserves the air you incorporated earlier and results in a light crumb. Mix just until you see no more flour; some small lumps are okay. Overmixing will lead to a dense, chewy loaf.",
+            "timing": 3,
+            "doneness_cue": "Batter looks evenly mixed with no visible flour pockets."
+        },
+        {
+            "step": 7,
+            "instruction": "Prepare the streusel topping by combining brown sugar, flour, and cinnamon in a bowl. Cut in the cold butter with a pastry cutter or your fingers until the mixture resembles coarse crumbs. This topping adds a sweet, crunchy contrast to the soft loaf and caramelizes beautifully in the oven, giving a signature coffee cake texture.",
+            "timing": 5,
+            "doneness_cue": "Streusel mixture is crumbly and holds together loosely when pressed."
+        },
+        {
+            "step": 8,
+            "instruction": "Pour the batter into the prepared loaf pan and sprinkle the streusel topping evenly over the surface. This layering ensures every slice has that irresistible crunchy topping. Don’t press the streusel into the batter; letting it sit on top helps it bake crisp and golden.",
+            "timing": 2,
+            "doneness_cue": "Batter fills the pan evenly with streusel fully covering the top."
+        },
+        {
+            "step": 9,
+            "instruction": "Bake for 50-55 minutes until a toothpick inserted in the center comes out clean or with a few moist crumbs. The baking time may vary slightly depending on your oven, so start checking at 50 minutes. Avoid opening the oven door too often to prevent the loaf from collapsing.",
+            "timing": 50,
+            "doneness_cue": "Loaf is golden brown on top, edges pull slightly away from pan, toothpick is clean."
+        },
+        {
+            "step": 10,
+            "instruction": "While the loaf cools in the pan for 15 minutes, whisk together powdered sugar, maple syrup, and milk to make the glaze. Drizzle the glaze over the warm loaf for a shiny, sticky finish that adds sweetness and moisture. The glaze soaks slightly into the streusel, making it extra delicious.",
+            "timing": 10,
+            "doneness_cue": "Glaze is smooth and glossy, coats the loaf evenly without running off."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Pumpkin Coffee Cake Loaf Is So Moist and Flavorful",
+        "content": "<p>This pumpkin coffee cake loaf owes its moist texture to a combination of pumpkin puree and sour cream. Pumpkin puree adds natural moisture and a subtle sweetness, while sour cream contributes fat and acidity, which tenderizes the gluten in the flour to produce a soft crumb. Together, they create a balance that keeps the loaf from drying out even after a few days.</p><p>The use of both baking powder and baking soda ensures the loaf rises properly. Baking powder provides a steady lift, while baking soda reacts with the acidic sour cream and pumpkin to create an initial rise, giving the loaf a light and airy texture. This dual leavening system is key to avoiding a dense or heavy bread.</p><p>The streusel topping is a classic coffee cake element that adds texture contrast. Made with cold butter cut into flour, sugar, and cinnamon, it bakes into a crisp, caramelized layer that complements the soft loaf beneath. The maple glaze finishes the loaf with a sticky sweetness that enhances the warm spices and adds a glossy appeal.</p><p>Careful mixing techniques also play a role: creaming the butter and sugar introduces air, folding the dry ingredients gently preserves that air, and avoiding overmixing prevents gluten development, which could make the loaf tough. Altogether, these factors create a perfectly moist, tender, and flavorful pumpkin coffee cake loaf every time.</p>",
+        "ingredient_notes": {
+            "pumpkin puree": "Look for pure canned pumpkin puree, not pumpkin pie filling, which contains added sugar and spices. Pumpkin puree provides moisture, natural sweetness, and a subtle earthiness that defines the loaf’s flavor. It also contributes to the tender crumb by adding moisture without making the batter too wet.",
+            "sour cream": "Sour cream adds richness and acidity that tenderizes the gluten in the flour, resulting in a moist and soft texture. It also helps activate the baking soda for proper leavening. If you don’t have sour cream, plain Greek yogurt is a good substitute, but avoid low-fat versions that can alter texture.",
+            "pumpkin pie spice": "This blend of cinnamon, nutmeg, ginger, and cloves brings warm, cozy flavor to the loaf. Using pre-mixed pumpkin pie spice ensures a balanced spice profile, but you can make your own by combining these spices fresh for a more vibrant taste.",
+            "butter": "Using unsalted butter at room temperature is essential for proper creaming with sugar, which traps air and creates a light texture. Cold butter is best for the streusel topping to achieve a crumbly, crisp finish. Avoid substituting with margarine or oils, as they won’t provide the same flavor or texture.",
+            "maple syrup": "Pure maple syrup adds a natural sweetness and depth to the glaze that complements the pumpkin and spices perfectly. It also contributes to the sticky, glossy finish. Avoid imitation syrups, which can taste overly sweet and artificial."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature ingredients for easier mixing and better texture.",
+            "reason": "Room temperature butter and eggs blend more smoothly with other ingredients, allowing for better aeration and a tender crumb. Cold ingredients can cause the batter to curdle or mix unevenly, leading to a dense loaf."
+        },
+        {
+            "tip": "Don’t overmix the batter once the dry ingredients are added.",
+            "reason": "Overmixing develops gluten in the flour, which makes baked goods tough and chewy instead of tender. Gently folding just until combined keeps the loaf soft and fluffy."
+        },
+        {
+            "tip": "Cut the butter into the streusel topping while it’s cold.",
+            "reason": "Cold butter creates small pockets of fat that melt during baking, producing a crisp and crumbly streusel. If the butter is too warm, the topping will be greasy and dense."
+        },
+        {
+            "tip": "Check the loaf with a toothpick starting at 50 minutes to avoid overbaking.",
+            "reason": "Ovens vary, and overbaking dries out the loaf. A toothpick with a few moist crumbs means the loaf is perfectly done and will stay moist."
+        },
+        {
+            "tip": "Let the loaf cool slightly before adding the maple glaze.",
+            "reason": "If the loaf is too hot, the glaze will melt and run off. Cooling allows the glaze to set nicely on top, creating a sticky, shiny finish."
+        },
+        {
+            "tip": "Use pure canned pumpkin, not pumpkin pie filling.",
+            "reason": "Pumpkin pie filling contains added sugars and spices that can throw off the recipe’s balance. Pure pumpkin puree lets you control sweetness and spice levels."
+        },
+        {
+            "tip": "Store the loaf wrapped tightly to maintain moisture.",
+            "reason": "Wrapping in plastic wrap or storing in an airtight container keeps the loaf soft and prevents it from drying out over a few days."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using pumpkin pie filling instead of pure pumpkin puree.",
+            "why_it_happens": "Many people assume they are interchangeable, but pie filling has added sugar and spices that can alter the recipe’s balance.",
+            "fix": "Always use pure canned pumpkin puree to control flavor and moisture. If you only have pie filling, reduce added sugar in the recipe accordingly."
+        },
+        {
+            "mistake": "Overmixing the batter after adding dry ingredients.",
+            "why_it_happens": "It’s tempting to mix thoroughly to avoid lumps, but this develops gluten and makes the loaf tough.",
+            "fix": "Fold the dry ingredients gently just until combined. It’s okay if a few lumps remain."
+        },
+        {
+            "mistake": "Not greasing the loaf pan properly.",
+            "why_it_happens": "Sometimes overlooked, leading to loaf sticking and breaking when removed.",
+            "fix": "Grease the pan thoroughly with butter or use parchment paper for easy release."
+        },
+        {
+            "mistake": "Baking at too high a temperature.",
+            "why_it_happens": "Some ovens run hot, causing the loaf to brown too fast and remain raw inside.",
+            "fix": "Use an oven thermometer to check your oven’s temperature and adjust as needed. Bake at 350°F as directed."
+        },
+        {
+            "mistake": "Applying glaze while loaf is too hot.",
+            "why_it_happens": "Glaze melts off and doesn’t set properly.",
+            "fix": "Let the loaf cool for 15 minutes before drizzling the glaze."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Walnut Pumpkin Coffee Cake Loaf",
+            "description": "Add ½ cup chopped toasted walnuts to the batter for a pleasant crunch and nutty flavor that pairs beautifully with pumpkin and spices. You can also sprinkle some on top of the streusel before baking for extra texture.",
+            "technical_note": "Fold nuts gently into the batter at the end to avoid overmixing. Toasting the nuts beforehand intensifies their flavor."
+        },
+        {
+            "name": "Gluten-Free Pumpkin Coffee Cake Loaf",
+            "description": "Swap the all-purpose flour for a gluten-free blend that includes xanthan gum. This keeps the loaf tender and moist without gluten, perfect for those with sensitivities.",
+            "technical_note": "Use a 1:1 gluten-free flour blend designed for baking. The texture may be slightly denser but still delicious."
+        },
+        {
+            "name": "Vegan Pumpkin Coffee Cake Loaf",
+            "description": "Replace butter with vegan margarine, eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg), and sour cream with coconut yogurt. The loaf remains moist and flavorful with these swaps.",
+            "technical_note": "Let flax eggs sit for 5 minutes before mixing. Baking time may increase by 5-10 minutes; check doneness accordingly."
+        },
+        {
+            "name": "Spiced Pumpkin Coffee Cake Loaf with Orange Zest",
+            "description": "Add 1 teaspoon of finely grated orange zest to the batter for a bright citrus note that complements the warm spices and pumpkin beautifully.",
+            "technical_note": "Add zest to the wet ingredients to distribute the flavor evenly."
+        },
+        {
+            "name": "Maple Pecan Pumpkin Coffee Cake Loaf",
+            "description": "Top the streusel with chopped pecans before baking and drizzle extra maple glaze on top for a rich, nutty twist that’s perfect for fall gatherings.",
+            "technical_note": "Chop pecans coarsely and press lightly into the streusel topping before baking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "12g",
+        "fiber_grams": "3g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the loaf wrapped tightly in plastic wrap or in an airtight container at room temperature for up to 2 days. Keep it away from direct sunlight or heat sources to prevent drying out.",
+        "refrigerator": "Refrigerate in an airtight container for up to 5 days. The loaf may firm up and become slightly drier when cold. To enjoy, bring to room temperature or warm gently in the microwave for 15-20 seconds.",
+        "freezer": "Wrap the loaf tightly in plastic wrap and then in aluminum foil or place in a freezer bag. Freeze for up to 3 months. Thaw overnight in the refrigerator or at room temperature for a few hours. Reheat gently to restore softness.",
+        "reheating": "Warm slices in the microwave for 15-30 seconds or in a 300°F oven for 10 minutes wrapped loosely in foil. Avoid overheating to prevent drying. Adding a small pat of butter before warming can enhance moisture.",
+        "make_ahead_strategy": "You can prepare the batter and streusel topping a day ahead, keeping them refrigerated separately. Assemble and bake fresh the next day for best texture. Alternatively, bake the loaf and freeze it; thaw and glaze before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh pumpkin instead of canned pumpkin puree?",
+            "answer": "Yes, but fresh pumpkin needs to be cooked and pureed first. Use a sugar pumpkin or pie pumpkin, roast it until tender, then puree and drain any excess water for best results. Fresh pumpkin has more moisture, so adjust the wet ingredients slightly to avoid a soggy batter."
+        },
+        {
+            "question": "How do I know when the pumpkin coffee cake loaf is done baking?",
+            "answer": "Insert a toothpick or cake tester into the center of the loaf. If it comes out clean or with a few moist crumbs (not wet batter), the loaf is done. The top should be golden brown, and the edges may pull away slightly from the pan."
+        },
+        {
+            "question": "Can I make this pumpkin coffee cake loaf gluten-free?",
+            "answer": "Absolutely! Use a 1:1 gluten-free baking flour blend that contains xanthan gum to mimic gluten’s texture. The loaf might be slightly denser but will still be moist and flavorful. Avoid using just plain rice flour or almond flour alone."
+        },
+        {
+            "question": "What can I substitute for sour cream in this recipe?",
+            "answer": "Plain Greek yogurt is the best substitute for sour cream, as it has similar acidity and texture. You can also use buttermilk or a non-dairy yogurt for a dairy-free option, but the texture and flavor may vary slightly."
+        },
+        {
+            "question": "How should I store leftover pumpkin coffee cake loaf?",
+            "answer": "Wrap leftovers tightly in plastic wrap or store in an airtight container. It keeps well for 2 days at room temperature or up to 5 days refrigerated. For longer storage, freeze the loaf wrapped securely for up to 3 months."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes! Replace eggs with flax eggs (1 tablespoon ground flaxseed mixed with 3 tablespoons water per egg), butter with vegan margarine, and sour cream with coconut or soy yogurt. Baking time may increase slightly, so check doneness carefully."
+        },
+        {
+            "question": "Why is my pumpkin coffee cake loaf dry?",
+            "answer": "Dryness can result from overbaking, overmixing the batter, or using too much flour. Make sure to measure flour correctly by spooning it into the cup and leveling off. Also, avoid baking longer than needed and fold the batter gently."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips to this pumpkin coffee cake loaf?",
+            "answer": "Definitely! Chopped walnuts, pecans, or chocolate chips make delicious additions. Fold ½ cup into the batter gently at the end. Toast nuts beforehand for extra flavor and crunch."
+        },
+        {
+            "question": "Is it okay to skip the maple glaze?",
+            "answer": "Yes, the loaf is delicious without the glaze, especially with the streusel topping. The glaze adds extra sweetness and moisture, but omitting it will not affect the loaf’s texture."
+        },
+        {
+            "question": "Can I make mini loaves or muffins with this recipe?",
+            "answer": "Yes, this batter works well for muffins or mini loaves. Adjust baking time to about 20-25 minutes for muffins and 35-40 minutes for mini loaves. Check doneness with a toothpick."
+        }
+    ],
+    "conclusion": "I hope you enjoy this pumpkin coffee cake loaf as much as my family does. It’s a cozy, flavorful treat that’s perfect for fall mornings or anytime you want something comforting. Do try it and share your thoughts!",
+    "seo": {
+        "primary_keyword": "pumpkin coffee cake loaf",
+        "secondary_keywords": [
+            "pumpkin bread recipe",
+            "how to make pumpkin coffee cake loaf",
+            "best pumpkin coffee cake loaf recipe",
+            "easy pumpkin coffee cake loaf"
+        ],
+        "internal_links": [
+            {
+                "text": "pumpkin bread with streusel topping",
+                "anchor": "pumpkin_bread_streusel"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230294_638",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-09-09 00:08:55",
+        "title_seed": "pumpkin coffee cake loaf"
+    },
+    "author_id": "author_001",
+    "id": "post_1788912535_407",
+    "slug": "pumpkin-coffee-cake-loaf",
+    "uniqueSlug": "pumpkin-coffee-cake-loaf",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_1.webp",
+            "filePath": "posts/pumpkin-coffee-cake-loaf/images/pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_1.webp",
+            "relativePath": "pumpkin-coffee-cake-loaf/images/pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_2.webp",
+            "filePath": "posts/pumpkin-coffee-cake-loaf/images/pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_2.webp",
+            "relativePath": "pumpkin-coffee-cake-loaf/images/pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_3.webp",
+            "filePath": "posts/pumpkin-coffee-cake-loaf/images/pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_3.webp",
+            "relativePath": "pumpkin-coffee-cake-loaf/images/pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_11.webp",
+            "filePath": "posts/pumpkin-coffee-cake-loaf/images/pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_11.webp",
+            "relativePath": "pumpkin-coffee-cake-loaf/images/pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Irresistibly Moist Pumpkin Coffee Cake Loaf with Cinnamon Streusel",
+            "description": "Discover the ultimate pumpkin coffee cake loaf that's perfectly moist with a crunchy cinnamon streusel topping. This easy recipe blends warm spices and rich pumpkin flavor for a cozy fall treat you'll crave all season.",
+            "board_override": "Pumpkin Coffee Cake",
+            "source_keyword": "pumpkin coffee cake loaf",
+            "reference_pin": "https://www.pinterest.com/pin/422281213055434/",
+            "reference_saves": 28,
+            "csv_exported": true
+        },
+        {
+            "fileName": "pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_12.webp",
+            "filePath": "posts/pumpkin-coffee-cake-loaf/images/pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_12.webp",
+            "relativePath": "pumpkin-coffee-cake-loaf/images/pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Ultimate Pumpkin Coffee Cake Loaf with Cinnamon Crumble",
+            "description": "Enjoy the rich flavors of our pumpkin coffee cake loaf loaded with autumn spices and topped with a crunchy cinnamon streusel. Perfectly moist and ideal for cozy fall breakfasts or coffee breaks.",
+            "board_override": "Pumpkin Coffee Cake",
+            "source_keyword": "pumpkin coffee cake loaf",
+            "reference_pin": "https://www.pinterest.com/pin/68750341362/",
+            "reference_saves": 44,
+            "csv_exported": true
+        },
+        {
+            "fileName": "pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_13.webp",
+            "filePath": "posts/pumpkin-coffee-cake-loaf/images/pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_13.webp",
+            "relativePath": "pumpkin-coffee-cake-loaf/images/pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "Moist Pumpkin Coffee Cake Loaf Recipe",
+            "description": "Discover the perfect pumpkin coffee cake loaf that's moist, flavorful, and easy to bake. Ideal for autumn mornings or cozy gatherings, this recipe blends warm spices with rich pumpkin goodness.",
+            "board_override": "Pumpkin Coffee Cake",
+            "source_keyword": "pumpkin coffee cake loaf",
+            "reference_pin": "https://www.pinterest.com/pin/316729786318520137/",
+            "reference_saves": null,
+            "csv_exported": true
+        }
+    ],
+    "image": "pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_1.webp",
+    "image_path": "posts/pumpkin-coffee-cake-loaf/images/pumpkin-coffee-cake-loaf_pumpkin-coffee-cake-loaf_pinrecipes_image_1.webp",
+    "image_dir": "pumpkin-coffee-cake-loaf/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-09-09T00:08:55+00:00",
+    "updatedAt": "2026-09-09T00:08:55+00:00",
+    "pinterest_source_keyword": "pumpkin coffee cake loaf",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}

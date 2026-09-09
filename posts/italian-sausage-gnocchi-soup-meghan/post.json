@@ -1,0 +1,359 @@
+{
+    "title": "Easy Italian Sausage Gnocchi Soup Meghan Loves for Cozy Weeknights",
+    "promptIMG": "Food photography: Italian sausage gnocchi soup, served in a rustic ceramic bowl, warm golden broth with tender gnocchi and browned sausage chunks, fresh spinach leaves and grated parmesan sprinkled on top, kitchen setting with soft natural daylight filtering through a window, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred behind with a bright window casting warm daylight, faint reflections on a wooden countertop. SUBJECT: a generous bowl overflowing with Italian sausage gnocchi soup, the ceramic bowl cropped out of frame edges, the front portion razor-sharp showing tender gnocchi, browned sausage slices, and vibrant spinach leaves floating in a rich golden broth, the rest fading softly into bokeh. DETAILS: glossy broth with shimmering surface, flecks of herbs and grated parmesan melting slightly on top, natural crumbs scattered around the bowl rim, real textures with slight irregularities. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm golden hues, rich saturated colors highlighting the fresh ingredients, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no steam or CGI effects.",
+        "img2": "SCENE: soft marble-toned background with warm daylight streaming from a nearby window, airy and clean. SUBJECT: the reveal shot of Italian sausage gnocchi soup showing a ladle mid-scoop lifting tender gnocchi and juicy sausage pieces from the bowl, broth glistening with a rich golden shine, fresh spinach leaves visible, ladle filling 90% of the frame, razor-sharp focus on the glistening ingredients. DETAILS: glossy, wet textures on the gnocchi and sausage, caramelized edges on the sausage slices, broth shimmering with herbs, natural crumbs and parmesan flakes scattered below. STYLE: ultra-photorealistic professional food photography, warm golden-amber daylight, rich saturated colors, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no steam or smoke.",
+        "img3": "SCENE: warm dark wood softly blurred behind with a single warm side glow highlighting the scene. SUBJECT: several bowls of Italian sausage gnocchi soup arranged close together on a rustic wooden board, each bowl topped generously with grated parmesan and fresh spinach leaves, the front bowl razor-sharp with broth glistening and sausage pieces visible, the rest fading into warm bokeh. DETAILS: intense glossy shine on the broth surface, deep amber caramelization on sausage, parmesan melting into the creases, natural crumbs scattered on the board. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grade, rich saturated appetizing tones, shallow macro depth of field, vertical 2:3. AVOID: no text, no hands, no logos, no steam or plastic textures."
+    },
+    "description": "This Italian sausage gnocchi soup is pure comfort in a bowl. With tender gnocchi and savory sausage simmered in a flavorful broth, it’s my go-to for chilly evenings. The fresh spinach adds a bright touch that keeps it balanced.",
+    "hashtags": "#ItalianSausageGnocchiSoup #ComfortFood #EasyDinner",
+    "board_name": "Cozy Soup Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Italian Sausage Gnocchi Soup Taste So Comforting?",
+            "description": "Discover the secret behind this hearty soup’s rich flavor and tender gnocchi. It’s easier than you think to make this cozy classic at home! Save this for your next chilly night dinner. #SausageSoup #ComfortFood #EasyRecipes"
+        },
+        {
+            "title": "The One Trick That Makes Italian Sausage Gnocchi Soup Perfect Every Time",
+            "description": "I swear by this simple tip to get the sausage browned just right and the gnocchi perfectly tender. It’s a game changer for a quick weeknight meal. Tap to get the full recipe and impress your family! #WeeknightDinner #SausageSoup #EasyMeals"
+        },
+        {
+            "title": "15-Minute Italian Sausage Gnocchi Soup for Busy Weeknights",
+            "description": "Short on time but craving something warm and satisfying? This soup comes together fast with store-bought gnocchi and pantry staples. Ready in under 30 minutes! Save it for your next busy evening. #QuickSoup #EasyDinner #ComfortFood"
+        },
+        {
+            "title": "Still Making Bland Soup? This Italian Sausage Gnocchi Fixes That",
+            "description": "Packed with Italian spices and juicy sausage, this gnocchi soup is anything but boring. The fresh spinach and parmesan finish it perfectly. Give it a try and skip the takeout! #FlavorfulSoup #EasyRecipes #ComfortFood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 pound Italian sausage, casings removed",
+        "1 medium onion, finely chopped",
+        "3 cloves garlic, minced",
+        "4 cups chicken broth",
+        "1 (14.5-ounce) can diced tomatoes",
+        "1 (16-ounce) package potato gnocchi",
+        "4 cups fresh spinach leaves",
+        "1 teaspoon dried Italian seasoning",
+        "Salt and freshly ground black pepper, to taste",
+        "1/4 cup grated Parmesan cheese, plus more for serving",
+        "2 tablespoons olive oil"
+    ],
+    "yield": "Approximately 4 hearty servings",
+    "introduction": "I first stumbled upon this Italian sausage gnocchi soup on a chilly fall evening when I needed something quick but comforting. What I love most about this recipe is how it combines simple, store-bought gnocchi with savory sausage and fresh spinach for a bowl that feels special without any fuss. Over time, I tweaked the seasoning and found that browning the sausage well before adding the broth really deepens the flavor. Plus, stirring in the spinach right at the end keeps it bright and fresh. The finished soup is rich and hearty, with tender gnocchi that soak up the flavorful broth, making it a perfect family dinner on busy weeknights or lazy weekends. It’s the kind of meal I keep coming back to because it’s both satisfying and easy to make.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat olive oil in a large pot over medium heat. Add the Italian sausage, breaking it up with a wooden spoon. Cook until browned and cooked through, about 7-8 minutes. This step is crucial because browning the sausage develops deep, savory flavors through the Maillard reaction, which adds richness to the soup. Be careful not to rush this step or stir too frequently, or the sausage won’t caramelize properly and the flavor will be less intense.",
+            "timing": 8,
+            "doneness_cue": "Sausage pieces are golden brown with some crispy edges and no pink remaining."
+        },
+        {
+            "step": 2,
+            "instruction": "Add chopped onion to the pot with the sausage and cook until softened and translucent, about 5 minutes. Stir in minced garlic and Italian seasoning, cooking for another 1-2 minutes until fragrant. This gentle sauté softens the onion and releases the garlic’s aroma, building a flavorful base. Avoid browning the garlic too much to prevent bitterness.",
+            "timing": 7,
+            "doneness_cue": "Onions are translucent and soft; garlic fragrance is noticeable but not burnt."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the chicken broth and canned diced tomatoes with their juices. Stir to combine and bring the mixture to a gentle boil. This step allows the flavors to meld and the broth to infuse with the sausage and aromatics. Boiling also helps tenderize the gnocchi later on.",
+            "timing": 5,
+            "doneness_cue": "Soup is simmering steadily with small bubbles rising to the surface."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the gnocchi to the boiling soup. Cook according to package instructions, usually 2-3 minutes, until the gnocchi float to the surface and are tender. This quick cooking is important because gnocchi cook fast and overcooking can make them mushy. Stir gently to prevent sticking.",
+            "timing": 3,
+            "doneness_cue": "Gnocchi float and have a tender, pillowy texture when tasted."
+        },
+        {
+            "step": 5,
+            "instruction": "Reduce heat to low and stir in fresh spinach leaves. Cook just until wilted, about 1-2 minutes. Adding spinach last preserves its vibrant color and fresh flavor, preventing it from becoming slimy or overcooked.",
+            "timing": 2,
+            "doneness_cue": "Spinach leaves turn bright green and are just wilted."
+        },
+        {
+            "step": 6,
+            "instruction": "Season the soup with salt and freshly ground black pepper to taste. Taste-testing here is key because the broth and sausage already add saltiness, so adjust carefully to avoid over-salting.",
+            "timing": 1,
+            "doneness_cue": "Balanced savory flavor with no overpowering saltiness."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the soup from heat and stir in grated Parmesan cheese until melted and incorporated. This adds a creamy, salty richness that rounds out the flavors beautifully.",
+            "timing": 2,
+            "doneness_cue": "Cheese is fully melted and soup has a slightly creamy texture."
+        },
+        {
+            "step": 8,
+            "instruction": "Ladle the soup into bowls and garnish with extra Parmesan and fresh cracked black pepper if desired. Serving immediately ensures the gnocchi stay tender and the spinach fresh.",
+            "timing": 2,
+            "doneness_cue": "Soup is hot, garnished, and visually inviting."
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your hearty Italian sausage gnocchi soup with crusty bread or a simple side salad for a complete meal. The combination of textures and flavors makes this a satisfying dish any day of the week.",
+            "timing": 0,
+            "doneness_cue": "Ready to eat and enjoy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Italian Sausage Gnocchi Soup Succeeds",
+        "content": "<p>The success of this soup lies in the layering of flavors and the balance of textures. Browning the Italian sausage first triggers the Maillard reaction, which creates complex savory notes and a caramelized crust on the meat. This step is essential because it forms the flavor foundation for the entire soup. Without it, the broth would taste flat.</p><p>Adding the onions and garlic after the sausage cooks allows their sweetness and aroma to develop without burning. The gentle simmer with broth and tomatoes melds all these flavors together, creating a rich and hearty base. The choice of potato gnocchi is important too; they cook quickly and absorb the broth’s flavor while maintaining a tender, pillowy texture.</p><p>Fresh spinach stirred in last preserves its vibrant color and fresh taste, adding a lightness that balances the richness of the sausage and cheese. Finally, the Parmesan cheese stirred in off heat adds a creamy, salty finish that rounds out the soup’s flavor profile perfectly.</p><p>Each ingredient and technique plays a specific role, ensuring the soup is flavorful, comforting, and satisfying every time.</p>",
+        "ingredient_notes": {
+            "Italian sausage": "Look for high-quality Italian sausage with a good balance of herbs and spices. Sweet or mild varieties work best here to complement the broth without overpowering it. Removing the casing before cooking helps the sausage brown evenly and integrate better into the soup.",
+            "potato gnocchi": "Store-bought potato gnocchi are convenient and cook quickly. Choose fresh or refrigerated gnocchi for best texture; frozen gnocchi may require slightly longer cooking times. Avoid overcooking to prevent them from becoming mushy.",
+            "fresh spinach": "Baby spinach leaves are ideal as they wilt quickly and remain tender. Adding spinach at the end preserves its bright green color and fresh flavor. Avoid cooking spinach too long to prevent a slimy texture.",
+            "Parmesan cheese": "Use freshly grated Parmesan for the best flavor and meltability. Pre-grated cheese often contains anti-caking agents that can affect texture. Parmesan adds a salty, umami richness that enhances the soup’s depth.",
+            "chicken broth": "A good quality chicken broth or stock provides a flavorful liquid base. Homemade or low-sodium store-bought broth allows better control of salt levels and results in a cleaner taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Brown the sausage thoroughly before adding other ingredients.",
+            "reason": "Browning triggers Maillard reactions that deepen flavor and add texture. Skipping this step results in bland soup with less savory complexity."
+        },
+        {
+            "tip": "Add the spinach just before serving to keep it vibrant and fresh.",
+            "reason": "Spinach cooks quickly and wilts at the last moment, preserving its color and preventing it from becoming mushy or slimy."
+        },
+        {
+            "tip": "Use fresh grated Parmesan instead of pre-grated cheese.",
+            "reason": "Fresh Parmesan melts better and has a richer flavor without additives that can affect texture and taste."
+        },
+        {
+            "tip": "Don’t overcook the gnocchi; cook just until they float.",
+            "reason": "Overcooked gnocchi become mushy and lose their pillowy texture, detracting from the soup’s overall mouthfeel."
+        },
+        {
+            "tip": "Simmer the soup gently rather than boiling vigorously.",
+            "reason": "Gentle simmering allows flavors to meld without breaking down delicate ingredients like gnocchi and spinach."
+        },
+        {
+            "tip": "Season the soup gradually and taste frequently.",
+            "reason": "The sausage and Parmesan add salt, so careful seasoning prevents over-salting and balances flavors."
+        },
+        {
+            "tip": "Use a wooden spoon to break up the sausage while cooking.",
+            "reason": "This helps achieve small, even pieces that brown well and distribute flavor throughout the soup."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not browning the sausage properly",
+            "why_it_happens": "Rushing this step or overcrowding the pan prevents caramelization and flavor development.",
+            "fix": "Cook the sausage in batches if needed over medium heat without stirring too often until well browned and crispy edges form."
+        },
+        {
+            "mistake": "Overcooking the gnocchi",
+            "why_it_happens": "Leaving gnocchi in boiling soup too long causes them to fall apart and become mushy.",
+            "fix": "Add gnocchi last and cook only until they float and are tender, usually 2-3 minutes."
+        },
+        {
+            "mistake": "Adding spinach too early",
+            "why_it_happens": "Cooking spinach too long results in dull color and slimy texture.",
+            "fix": "Stir in spinach at the very end and cook just until wilted."
+        },
+        {
+            "mistake": "Over-salting the soup",
+            "why_it_happens": "Sausage and Parmesan already contribute salt, so adding too much can overpower the dish.",
+            "fix": "Season gradually and taste before adding more salt."
+        },
+        {
+            "mistake": "Using pre-grated Parmesan",
+            "why_it_happens": "Pre-grated cheese contains anti-caking agents that affect melting and flavor.",
+            "fix": "Use freshly grated Parmesan for best results."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Italian Sausage Gnocchi Soup",
+            "description": "Swap mild Italian sausage for spicy or add red pepper flakes to the broth for a kick. This variation adds warmth and depth, perfect for spice lovers.",
+            "technical_note": "Adjust seasoning carefully to balance heat without overwhelming the other flavors."
+        },
+        {
+            "name": "Creamy Italian Sausage Gnocchi Soup",
+            "description": "Stir in 1/2 cup heavy cream or half-and-half at the end for a luscious, creamy texture that makes the soup even more comforting.",
+            "technical_note": "Add cream off heat to prevent curdling and maintain a smooth texture."
+        },
+        {
+            "name": "Vegetable-Loaded Sausage Gnocchi Soup",
+            "description": "Add diced carrots, celery, and zucchini along with onions for extra nutrition and color. This boosts the veggie content without changing the cozy flavor.",
+            "technical_note": "Sauté vegetables until tender before adding broth to ensure even cooking."
+        },
+        {
+            "name": "Slow Cooker Italian Sausage Gnocchi Soup",
+            "description": "Brown the sausage and sauté onions, then transfer all ingredients except gnocchi and spinach to a slow cooker. Cook on low for 6 hours, adding gnocchi and spinach in the last 30 minutes.",
+            "technical_note": "Avoid overcooking gnocchi in slow cooker by adding later to preserve texture."
+        },
+        {
+            "name": "Gluten-Free Italian Sausage Gnocchi Soup",
+            "description": "Use gluten-free gnocchi and verify sausage ingredients for gluten-free status. This variation keeps all the flavor without gluten concerns.",
+            "technical_note": "Cooking times for gluten-free gnocchi may vary; watch closely to avoid overcooking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Keep soup covered and at room temperature no longer than 2 hours to prevent bacterial growth. If serving later, refrigerate promptly.",
+        "refrigerator": "Store leftover soup in an airtight container for up to 4 days. The flavors will deepen, but gnocchi may absorb broth and soften. Reheat gently before serving.",
+        "freezer": "Freeze soup in airtight containers for up to 3 months. For best texture, freeze without gnocchi and add fresh gnocchi when reheating. Thaw overnight in the refrigerator.",
+        "reheating": "Reheat soup on the stovetop over medium-low heat, stirring occasionally. Add a splash of broth or water if too thick. Avoid boiling to keep gnocchi tender.",
+        "make_ahead_strategy": "Prepare the soup base up to 2 days ahead and refrigerate. Add gnocchi and spinach just before serving to maintain texture and freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use ground turkey or chicken instead of Italian sausage?",
+            "answer": "Yes, you can substitute ground turkey or chicken for Italian sausage, but the flavor will be milder. To mimic the Italian seasoning, add extra herbs like fennel, oregano, and garlic powder. Browning the meat well helps develop flavor, but the soup won’t have the same richness as with sausage."
+        },
+        {
+            "question": "Can I make this soup vegetarian?",
+            "answer": "To make a vegetarian version, omit the sausage and use vegetable broth. Add hearty vegetables like mushrooms and beans for protein. You can also use plant-based sausage alternatives. Adjust seasonings to compensate for the missing meat flavors."
+        },
+        {
+            "question": "How do I prevent the gnocchi from getting mushy?",
+            "answer": "Cook gnocchi just until they float to the surface, usually 2-3 minutes. Remove from heat promptly and avoid simmering the soup vigorously after adding gnocchi. Overcooking causes them to break down and become mushy."
+        },
+        {
+            "question": "Can I freeze the soup with gnocchi in it?",
+            "answer": "Freezing soup with gnocchi can cause the gnocchi to become mushy upon thawing. For best results, freeze the soup base without gnocchi and add fresh gnocchi when reheating to maintain texture."
+        },
+        {
+            "question": "What can I serve with this soup?",
+            "answer": "This soup pairs wonderfully with crusty bread, garlic bread, or a simple green salad. The bread is great for dipping into the flavorful broth and balances the meal."
+        },
+        {
+            "question": "Is it okay to use dried herbs instead of fresh?",
+            "answer": "Yes, dried Italian seasoning works well and is convenient. Use about one-third the amount of fresh herbs called for. Adding them early in cooking helps release their flavors."
+        },
+        {
+            "question": "Can I make this soup spicy?",
+            "answer": "Absolutely! Use spicy Italian sausage or add crushed red pepper flakes when cooking the onions and garlic. Adjust the heat level to your preference."
+        },
+        {
+            "question": "How do I store leftovers to keep the soup fresh?",
+            "answer": "Store leftovers in airtight containers in the refrigerator for up to 4 days. Reheat gently on the stove and add a splash of broth if the soup has thickened. Avoid freezing soup with gnocchi to maintain texture."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this Italian sausage gnocchi soup as much as my family does. It’s a simple, cozy meal that feels special every time. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "italian sausage gnocchi soup",
+        "secondary_keywords": [
+            "easy sausage gnocchi soup",
+            "how to make italian sausage gnocchi soup",
+            "best italian sausage gnocchi soup recipe",
+            "quick italian sausage gnocchi soup"
+        ],
+        "internal_links": [
+            {
+                "text": "Easy Sausage and Gnocchi Soup",
+                "anchor": "easy-sausage-gnocchi-soup"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230166_734",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-09-09 00:05:08",
+        "title_seed": "italian sausage gnocchi soup meghan"
+    },
+    "author_id": "author_001",
+    "id": "post_1788912308_737",
+    "slug": "italian-sausage-gnocchi-soup-meghan",
+    "uniqueSlug": "italian-sausage-gnocchi-soup-meghan",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_1.webp",
+            "filePath": "posts/italian-sausage-gnocchi-soup-meghan/images/italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_1.webp",
+            "relativePath": "italian-sausage-gnocchi-soup-meghan/images/italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_2.webp",
+            "filePath": "posts/italian-sausage-gnocchi-soup-meghan/images/italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_2.webp",
+            "relativePath": "italian-sausage-gnocchi-soup-meghan/images/italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_3.webp",
+            "filePath": "posts/italian-sausage-gnocchi-soup-meghan/images/italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_3.webp",
+            "relativePath": "italian-sausage-gnocchi-soup-meghan/images/italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_11.webp",
+            "filePath": "posts/italian-sausage-gnocchi-soup-meghan/images/italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_11.webp",
+            "relativePath": "italian-sausage-gnocchi-soup-meghan/images/italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Authentic Italian Sausage Gnocchi Soup Meghan Style | Simple & Flavorful",
+            "description": "Discover the rich flavors of Italian sausage paired with tender gnocchi in this easy Meghan-inspired soup. Perfect for cozy dinners, this hearty recipe combines classic ingredients for a comforting meal you'll love.",
+            "board_override": "Italian Sausage Gnocchi Soup",
+            "source_keyword": "italian sausage gnocchi soup meghan",
+            "reference_pin": "https://www.pinterest.com/pin/24699498006519934/",
+            "reference_saves": 10,
+            "csv_exported": true
+        },
+        {
+            "fileName": "italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_12.webp",
+            "filePath": "posts/italian-sausage-gnocchi-soup-meghan/images/italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_12.webp",
+            "relativePath": "italian-sausage-gnocchi-soup-meghan/images/italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Savourez la soupe Gnocchi Saucisse Italienne de Meghan ultra crémeuse et réconfortante",
+            "description": "Réchauffez vos soirées avec cette soupe Gnocchi Saucisse Italienne de Meghan, riche en saveurs authentiques. Une recette simple qui allie saucisse italienne savoureuse, gnocchis tendres et bouillon onctueux pour un plat convivial et facile à préparer chez vous.",
+            "board_override": "Italian Sausage Gnocchi Soup",
+            "source_keyword": "italian sausage gnocchi soup meghan",
+            "reference_pin": "https://www.pinterest.com/pin/111393790781386826/",
+            "reference_saves": 3,
+            "csv_exported": true
+        },
+        {
+            "fileName": "italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_13.webp",
+            "filePath": "posts/italian-sausage-gnocchi-soup-meghan/images/italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_13.webp",
+            "relativePath": "italian-sausage-gnocchi-soup-meghan/images/italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "Italian Sausage Gnocchi Soup Meghan Style Ready in 30 Minutes",
+            "description": "Discover the rich flavors of our Italian Sausage Gnocchi Soup Meghan—an easy, comforting meal made in just half an hour. This hearty soup blends savory sausage and tender gnocchi in a creamy broth perfect for family dinners and cozy nights.",
+            "board_override": "Italian Sausage Gnocchi Soup",
+            "source_keyword": "italian sausage gnocchi soup meghan",
+            "reference_pin": "https://www.pinterest.com/pin/2322237303612280/",
+            "reference_saves": 2,
+            "csv_exported": true
+        }
+    ],
+    "image": "italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_1.webp",
+    "image_path": "posts/italian-sausage-gnocchi-soup-meghan/images/italian-sausage-gnocchi-soup-meghan_italian-sausage-gnocchi-soup-meghan_pinrecipes_image_1.webp",
+    "image_dir": "italian-sausage-gnocchi-soup-meghan/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-09-09T00:05:08+00:00",
+    "updatedAt": "2026-09-09T00:05:08+00:00",
+    "pinterest_source_keyword": "italian sausage gnocchi soup meghan",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}
