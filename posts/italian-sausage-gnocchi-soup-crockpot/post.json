@@ -1,0 +1,359 @@
+{
+    "title": "Easy Crockpot Italian Sausage Gnocchi Soup Recipe for Cozy Weeknights",
+    "promptIMG": "Food photography: Italian sausage gnocchi soup crockpot, served in a rustic ceramic bowl with creamy broth, tender gnocchi, browned sausage chunks, fresh spinach leaves, and a sprinkle of Parmesan cheese, natural lighting from a kitchen window, documentary style, realistic warm colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a softly blurred home kitchen background with warm daylight filtering through a window, faint reflections on a clean countertop. SUBJECT: a large rustic ceramic bowl filled to the brim with creamy Italian sausage gnocchi soup, the front portion sharply focused showing plump golden gnocchi, browned sausage pieces, vibrant green spinach, and a glossy creamy broth. DETAILS: the broth has a rich caramelized sheen with a light sprinkle of Parmesan cheese melting on top, fresh cracked black pepper visible, and natural texture of sausage and gnocchi evident. STYLE: ultra-photorealistic professional food photography with bright, airy daylight and warm golden tones, rich saturated colors that pop with appetizing glow, shallow depth of field emphasizing the front edge of the bowl. AVOID: no text, logos, hands, or artificial effects; no steam or smoke, no dull or washed-out colors.",
+        "img2": "SCENE: soft natural light with a blurred marble countertop and light grey background, bright window daylight. SUBJECT: the reveal shot of Italian sausage gnocchi soup crockpot, a ladle mid-scoop showing creamy broth dripping slowly, plump gnocchi and juicy browned sausage pieces glistening with melted cheese strands. DETAILS: the ladle fills 90% of the frame, the broth glossy and thick with fresh spinach leaves peeking through, edges caramelized with a warm amber glow, crumbs of Parmesan cheese scattered below. STYLE: ultra-photorealistic professional food photography with bright, warm daylight, rich saturated colors, shallow macro depth of field to highlight textures and glossiness. AVOID any text, hands, or artificial elements.",
+        "img3": "SCENE: warm dark wood surface softly blurred behind with a gentle warm side glow highlighting textures. SUBJECT: several servings of Italian sausage gnocchi soup crockpot arranged closely in rustic ceramic bowls, topped with a generous sprinkle of fresh Parmesan and cracked black pepper, accompanied by a small rustic bread basket with crusty Italian bread slices. DETAILS: the soup surfaces glisten with creamy broth and melted cheese, deep amber caramelization on sausage visible, fresh spinach leaves add vibrant green contrast, crumbs and pepper flakes scattered naturally on the wooden surface. STYLE: ultra-photorealistic professional food photography with rich golden-amber warm tones, highly saturated appetizing colors, shallow depth of field focusing on front bowl. AVOID text, logos, hands, or dull colors."
+    },
+    "description": "This crockpot Italian sausage gnocchi soup is pure comfort in a bowl. Creamy, hearty, and packed with savory sausage and tender gnocchi, it’s perfect for chilly evenings. I love how easy it comes together and fills the house with amazing aromas.",
+    "hashtags": "#ItalianSausageGnocchiSoup #CrockpotSoup #ComfortFood",
+    "board_name": "Cozy Soup Recipes",
+    "pin_variations": [
+        {
+            "title": "Why Does Restaurant Italian Sausage Gnocchi Soup Taste Better Than Yours?",
+            "description": "Discover the secret behind that rich, creamy texture and savory sausage flavor that restaurants nail every time. This crockpot version makes it easy to get that same delicious result at home. Save this for dinner inspo! #SoupRecipes #ComfortFood #EasyDinner"
+        },
+        {
+            "title": "The One Trick That Makes Crockpot Italian Sausage Gnocchi Soup Foolproof",
+            "description": "Learn the simple step that guarantees tender gnocchi and perfectly cooked sausage every time. This trick transforms your soup into a cozy bowl of comfort. Tap to get the full recipe and try it tonight! #EasySoup #CrockpotMeals #FamilyDinner"
+        },
+        {
+            "title": "15-Minute Prep Crockpot Italian Sausage Gnocchi Soup for Busy Weeknights",
+            "description": "Short on time? This recipe requires just 15 minutes of prep before your crockpot does the rest. Enjoy a hearty, creamy soup with minimal effort. Perfect for busy evenings! Save it now for your next weeknight meal. #QuickDinner #ComfortFood #MealPrep"
+        },
+        {
+            "title": "Still Making Dry Sausage Soup? This Crockpot Gnocchi Fixes It",
+            "description": "If your sausage soup turns out dry or bland, this creamy crockpot recipe is your answer. The slow cooking keeps everything juicy and flavorful. Try it soon and enjoy a comforting bowl! #SausageSoup #CrockpotRecipes #CozyMeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 pound Italian sausage, casings removed",
+        "1 medium onion, diced",
+        "3 cloves garlic, minced",
+        "4 cups chicken broth",
+        "1 cup heavy cream",
+        "1 package (16 oz) potato gnocchi",
+        "3 cups fresh spinach, roughly chopped",
+        "1 teaspoon dried Italian seasoning",
+        "Salt and freshly ground black pepper to taste",
+        "1/2 cup grated Parmesan cheese, plus extra for garnish",
+        "2 tablespoons olive oil"
+    ],
+    "yield": "Approximately 6 cups, 4 servings",
+    "introduction": "I've been making this Italian sausage gnocchi soup in my crockpot for years now, especially when the weather starts to turn chilly. The first time I tried it, I was blown away by how the creamy broth and tender gnocchi melded with the savory sausage to create something so comforting and satisfying. What sets this recipe apart is the slow cooking method that lets all the flavors develop deeply without much fuss. Plus, adding fresh spinach near the end gives it a nice pop of color and freshness that balances the richness. I used to rush the sausage cooking, which made it tough, but now I brown it slowly in olive oil before adding it to the crockpot, and that makes all the difference. The final soup is creamy, hearty, and has just the right amount of spice from the Italian sausage. It’s a family favorite that’s easy enough for weeknights but special enough to serve guests. You’ll love how simple it is to prepare and how rewarding it tastes.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by heating olive oil in a large skillet over medium heat. Add the Italian sausage, breaking it up with a spoon, and cook slowly until browned and cooked through, about 7-10 minutes. Browning the sausage first develops rich flavor through the Maillard reaction and ensures the meat stays juicy. Avoid rushing this step or cooking on too high heat, which can make the sausage tough or dry. Once browned, transfer the sausage to the crockpot.",
+            "timing": 10,
+            "doneness_cue": "Sausage pieces are golden brown with crisp edges and no pink inside."
+        },
+        {
+            "step": 2,
+            "instruction": "In the same skillet, add diced onion and cook over medium heat until softened and translucent, about 5 minutes. Stir in minced garlic and cook for another minute until fragrant. This step builds the flavor base for the soup. If you skip sautéing the onion and garlic, the soup might taste raw or flat. Transfer the onion and garlic mixture to the crockpot.",
+            "timing": 6,
+            "doneness_cue": "Onions are soft, slightly golden, and garlic is aromatic but not burnt."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the chicken broth into the crockpot with the sausage and sautéed aromatics. Add dried Italian seasoning, salt, and pepper. Stir to combine. The broth is the foundation that carries all the flavors and the seasoning ensures the soup is well balanced. Don't add too much salt now; you can adjust later after adding cream and gnocchi.",
+            "timing": 2,
+            "doneness_cue": "Ingredients are evenly mixed and broth looks clear with herbs visible."
+        },
+        {
+            "step": 4,
+            "instruction": "Cover and cook on low for 4-5 hours or on high for 2-3 hours to allow flavors to meld. Slow cooking breaks down the sausage fat and infuses the broth. Rushing this step reduces flavor depth. If using high, check earlier to avoid overcooking.",
+            "timing": 120,
+            "doneness_cue": "Soup smells rich and sausage flavor is infused throughout."
+        },
+        {
+            "step": 5,
+            "instruction": "About 30 minutes before serving, add the potato gnocchi directly into the crockpot. Stir gently to submerge them in the broth. Gnocchi cooks quickly and will absorb some broth, thickening the soup. Overcooking gnocchi makes it mushy, so timing is key.",
+            "timing": 30,
+            "doneness_cue": "Gnocchi floats to the top and has a soft but firm texture."
+        },
+        {
+            "step": 6,
+            "instruction": "Stir in the heavy cream and chopped fresh spinach. The cream adds luscious richness and the spinach brightens the soup with fresh flavor and color. Adding spinach last keeps it vibrant and prevents it from getting soggy.",
+            "timing": 5,
+            "doneness_cue": "Soup turns creamy and spinach wilts but remains bright green."
+        },
+        {
+            "step": 7,
+            "instruction": "Add grated Parmesan cheese and stir until melted and fully incorporated. This adds savory umami and thickens the broth slightly. Use good quality Parmesan for best flavor. Avoid pre-grated cheese with additives that can affect melting.",
+            "timing": 3,
+            "doneness_cue": "Cheese is melted, soup looks creamy and slightly thickened."
+        },
+        {
+            "step": 8,
+            "instruction": "Taste and adjust seasoning with salt and freshly ground black pepper as needed. This final step ensures the soup is perfectly balanced to your preference. Remember that cheese adds saltiness, so adjust carefully.",
+            "timing": 2,
+            "doneness_cue": "Soup tastes rich, balanced, and flavorful."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the soup hot, garnished with extra Parmesan and freshly cracked black pepper. Pair with crusty bread to soak up the delicious broth. Enjoy immediately for best texture and flavor.",
+            "timing": 1,
+            "doneness_cue": "Soup is steaming hot and garnished attractively."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Crockpot Italian Sausage Gnocchi Soup Succeeds",
+        "content": "<p>This recipe works because it carefully balances slow cooking with timely ingredient additions to preserve texture and maximize flavor. Browning the Italian sausage first triggers the Maillard reaction, which creates complex savory flavors and caramelized edges that would be missing if the sausage were simply added raw to the crockpot. Sautéing the onion and garlic separately also develops a deep aromatic base that infuses the broth.</p><p>The slow cooking process allows the sausage fat to render slowly, enriching the broth with meaty flavor while tenderizing the ingredients. Adding the gnocchi late in the cooking process prevents it from breaking down and becoming mushy, preserving its pillowy texture. The addition of fresh spinach just before serving adds a fresh note and vibrant color, keeping the soup from feeling too heavy.</p><p>Incorporating heavy cream and Parmesan cheese at the end creates a luscious, creamy broth that coats every bite. The cheese melts smoothly due to the warm temperature but should be added last to avoid curdling. Finally, seasoning adjustments at the end ensure the soup is perfectly balanced, accounting for the saltiness of the cheese and sausage.</p><p>Every step is designed to layer flavors and textures thoughtfully, resulting in a soup that feels indulgent yet approachable, perfect for comforting weeknight dinners.</p>",
+        "ingredient_notes": {
+            "Italian sausage": "Choose high-quality Italian sausage with a good balance of fat and seasoning. The fat content is crucial for flavor and moist texture. Removing the casing before cooking allows for better browning and integration into the soup. Avoid overly lean sausage as it can dry out during slow cooking.",
+            "Potato gnocchi": "Fresh or packaged potato gnocchi works well, but fresh tends to have a lighter, tender texture. Gnocchi cooks quickly and absorbs broth, so add it late to avoid mushiness. If using frozen, thaw slightly before adding to ensure even cooking.",
+            "Heavy cream": "Full-fat heavy cream adds richness and smoothness to the broth. It emulsifies with the broth and cheese to create a creamy texture. Avoid low-fat alternatives as they may curdle or separate when heated.",
+            "Parmesan cheese": "Use freshly grated Parmesan for the best melt and flavor. Pre-grated cheese often contains anti-caking agents that affect texture and melting. Parmesan adds umami depth and slight saltiness, enhancing the overall soup flavor.",
+            "Fresh spinach": "Fresh spinach adds vibrant color and a mild, fresh flavor that balances the richness. Adding it at the end preserves its texture and nutrients. Avoid baby spinach if you want a slightly heartier leaf that holds up better in soup."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Brown the sausage slowly over medium heat instead of rushing on high.",
+            "reason": "Slow browning develops deeper caramelized flavors through the Maillard reaction without drying out the meat. High heat can burn the outside while leaving the inside undercooked, resulting in uneven texture and less flavor."
+        },
+        {
+            "tip": "Add gnocchi only in the last 30 minutes of cooking.",
+            "reason": "Gnocchi cooks very quickly and can become mushy if overcooked. Adding it late ensures it retains its pillowy texture and doesn’t disintegrate in the broth."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese instead of pre-grated.",
+            "reason": "Freshly grated Parmesan melts smoothly and adds a richer, more authentic flavor. Pre-grated cheeses often contain additives that prevent proper melting and can alter the soup’s texture."
+        },
+        {
+            "tip": "Stir in fresh spinach just before serving.",
+            "reason": "Adding spinach at the end prevents it from overcooking and losing its vibrant green color and delicate texture. It also preserves more nutrients and adds a fresh contrast to the creamy soup."
+        },
+        {
+            "tip": "Adjust salt after adding cream and cheese.",
+            "reason": "Both cream and Parmesan add saltiness to the soup. Seasoning too early can lead to an overly salty final dish. Tasting and adjusting at the end ensures balanced flavor."
+        },
+        {
+            "tip": "Use low heat on the crockpot for slow, even cooking.",
+            "reason": "Low heat allows flavors to meld gradually and prevents toughening of the sausage or overcooking of other ingredients. High heat speeds cooking but risks texture loss."
+        },
+        {
+            "tip": "Serve with crusty bread to soak up the creamy broth.",
+            "reason": "Crusty bread complements the soup’s rich texture and adds a satisfying crunch contrast. It’s a classic pairing that makes the meal more filling and comforting."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding gnocchi too early and overcooking it.",
+            "why_it_happens": "Many cooks add gnocchi at the beginning to save time, not realizing it cooks very fast and breaks down in long cooking.",
+            "fix": "Add gnocchi only in the last 30 minutes of cooking to keep its texture intact. If unsure, check gnocchi after 15 minutes for doneness."
+        },
+        {
+            "mistake": "Skipping browning the sausage before crockpot cooking.",
+            "why_it_happens": "It’s tempting to dump everything in the crockpot to save time, but this sacrifices flavor development.",
+            "fix": "Take the extra 10 minutes to brown sausage in a skillet. This adds rich caramelized flavor that can’t be achieved in the crockpot alone."
+        },
+        {
+            "mistake": "Using pre-grated Parmesan cheese.",
+            "why_it_happens": "Pre-grated cheese is convenient but contains anti-caking agents that affect melting and texture.",
+            "fix": "Grate fresh Parmesan yourself for best melt and flavor. It makes a noticeable difference in the soup’s creaminess."
+        },
+        {
+            "mistake": "Over-seasoning before adding cream and cheese.",
+            "why_it_happens": "Adding salt early without considering the salt in cheese and sausage can lead to an overly salty soup.",
+            "fix": "Season lightly at first and adjust salt at the end after adding dairy ingredients."
+        },
+        {
+            "mistake": "Overcooking spinach until it’s mushy and dull.",
+            "why_it_happens": "Adding spinach too early causes it to lose color and texture.",
+            "fix": "Add spinach just minutes before serving to keep it vibrant and fresh."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Italian Sausage Gnocchi Soup",
+            "description": "Add red pepper flakes or diced jalapeños when sautéing the onions and garlic for a spicy kick. You can also use spicy Italian sausage instead of mild. This variation adds warmth and depth to the creamy soup without overpowering the flavors.",
+            "technical_note": "Adjust the amount of spice to taste; adding too early intensifies heat, so add gradually and taste."
+        },
+        {
+            "name": "Vegetable-Loaded Italian Sausage Gnocchi Soup",
+            "description": "Include diced carrots, celery, and zucchini along with the onions for extra veggies. This adds texture, nutrition, and a slight sweetness that complements the savory sausage and creamy broth.",
+            "technical_note": "Sauté the additional vegetables with the onion to soften before adding to the crockpot for best flavor integration."
+        },
+        {
+            "name": "Dairy-Free Italian Sausage Gnocchi Soup",
+            "description": "Use coconut milk or cashew cream instead of heavy cream and omit the Parmesan or use a dairy-free alternative. This makes the soup creamy and rich without dairy, perfect for those with lactose intolerance.",
+            "technical_note": "Choose gnocchi made without dairy or eggs to keep the soup fully dairy-free."
+        },
+        {
+            "name": "Slow Cooker Italian Sausage and Kale Gnocchi Soup",
+            "description": "Swap spinach for hearty kale for a more robust green. Kale holds up well to slow cooking and adds a slightly earthy flavor that balances the richness of the sausage and cream.",
+            "technical_note": "Add kale about 20 minutes before the end of cooking to keep some texture without overcooking."
+        },
+        {
+            "name": "Tomato Basil Italian Sausage Gnocchi Soup",
+            "description": "Add a can of diced tomatoes and fresh basil for a tomato-forward version. This adds acidity and brightness that cuts through the creamy broth, creating a lighter feel.",
+            "technical_note": "Reduce the amount of cream slightly to balance the added tomato liquid."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "450 kcal",
+        "protein_grams": "25g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "25g",
+        "fiber_grams": "3g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This soup can safely sit at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The soup may thicken as it cools; stir in a splash of broth or water when reheating to loosen the texture. Spinach may darken but remains tasty.",
+        "freezer": "Freeze in airtight containers for up to 3 months. Thaw overnight in the refrigerator before reheating. The texture of gnocchi may soften after freezing but the soup remains flavorful.",
+        "reheating": "Reheat gently on the stovetop over medium-low heat, stirring occasionally. Add a splash of broth or cream if the soup is too thick. Avoid boiling to prevent breaking the cream.",
+        "make_ahead_strategy": "You can prepare the sausage, onions, and garlic mixture 1-2 days ahead and refrigerate. Assemble the soup in the crockpot on the day of cooking for best flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen gnocchi in this soup?",
+            "answer": "Yes, frozen gnocchi works well but thaw it slightly before adding to the crockpot to ensure even cooking. Add it in the last 30 minutes to avoid mushiness."
+        },
+        {
+            "question": "What if I don’t have a crockpot?",
+            "answer": "You can make this soup on the stovetop by simmering the broth and sausage mixture for 30-40 minutes, then adding gnocchi and spinach last. Adjust cooking times as needed."
+        },
+        {
+            "question": "Can I substitute turkey sausage for Italian sausage?",
+            "answer": "You can, but turkey sausage is leaner and less flavorful. Consider adding extra seasoning or a bit of olive oil to compensate for the reduced fat content."
+        },
+        {
+            "question": "How do I prevent the soup from being too salty?",
+            "answer": "Season lightly at first and taste after adding cream and cheese. Adjust salt gradually since these ingredients add saltiness."
+        },
+        {
+            "question": "Can I make this soup vegan?",
+            "answer": "To make it vegan, use plant-based sausage alternatives, dairy-free cream substitutes like coconut milk, and vegan gnocchi. Omit Parmesan or use a vegan cheese substitute."
+        },
+        {
+            "question": "Why does my gnocchi get mushy in the soup?",
+            "answer": "Gnocchi cooks quickly, so adding it too early or cooking too long causes mushiness. Add gnocchi in the last 30 minutes and avoid over-stirring."
+        },
+        {
+            "question": "Can I freeze leftovers?",
+            "answer": "Yes, freeze in airtight containers up to 3 months. Thaw overnight and reheat gently. Texture may soften but flavor remains good."
+        },
+        {
+            "question": "What’s the best way to reheat without curdling the cream?",
+            "answer": "Reheat over low to medium heat, stirring often. Avoid boiling. Adding a little broth can help maintain a smooth texture."
+        }
+    ],
+    "conclusion": "I hope you enjoy this cozy crockpot Italian sausage gnocchi soup as much as my family does. Give it a try and let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "italian sausage gnocchi soup crockpot",
+        "secondary_keywords": [
+            "creamy italian sausage soup",
+            "slow cooker gnocchi soup",
+            "how to make italian sausage gnocchi soup",
+            "best italian sausage gnocchi soup recipe",
+            "easy italian sausage gnocchi soup"
+        ],
+        "internal_links": [
+            {
+                "text": "slow cooker sausage recipes",
+                "anchor": "slow-cooker-sausage-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-09-10 00:04:45",
+        "title_seed": "italian sausage gnocchi soup crockpot"
+    },
+    "author_id": "author_001",
+    "id": "post_1788998685_745",
+    "slug": "italian-sausage-gnocchi-soup-crockpot",
+    "uniqueSlug": "italian-sausage-gnocchi-soup-crockpot",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_1.webp",
+            "filePath": "posts/italian-sausage-gnocchi-soup-crockpot/images/italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_1.webp",
+            "relativePath": "italian-sausage-gnocchi-soup-crockpot/images/italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_2.webp",
+            "filePath": "posts/italian-sausage-gnocchi-soup-crockpot/images/italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_2.webp",
+            "relativePath": "italian-sausage-gnocchi-soup-crockpot/images/italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_3.webp",
+            "filePath": "posts/italian-sausage-gnocchi-soup-crockpot/images/italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_3.webp",
+            "relativePath": "italian-sausage-gnocchi-soup-crockpot/images/italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_11.webp",
+            "filePath": "posts/italian-sausage-gnocchi-soup-crockpot/images/italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_11.webp",
+            "relativePath": "italian-sausage-gnocchi-soup-crockpot/images/italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Easy Crockpot Italian Sausage Gnocchi Soup for Ultimate Comfort",
+            "description": "Simmer savory Italian sausage with tender gnocchi in a creamy crockpot soup that's perfect for cozy dinners. Discover this simple, flavorful recipe that brings warmth and Italian flair to your table with minimal effort.",
+            "board_override": "Italian Sausage Gnocchi Soup",
+            "source_keyword": "italian sausage gnocchi soup crockpot",
+            "reference_pin": "https://www.pinterest.com/pin/1407443631277261/",
+            "reference_saves": 5,
+            "csv_exported": true
+        },
+        {
+            "fileName": "italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_12.webp",
+            "filePath": "posts/italian-sausage-gnocchi-soup-crockpot/images/italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_12.webp",
+            "relativePath": "italian-sausage-gnocchi-soup-crockpot/images/italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "Hearty Italian Sausage Gnocchi Soup Crockpot Recipe",
+            "description": "Discover a comforting Italian sausage gnocchi soup made effortlessly in your crockpot. Perfectly seasoned with rich tomato and Italian herbs, this easy slow cooker meal is ideal for cozy dinners.",
+            "board_override": "Italian Sausage Gnocchi Soup",
+            "source_keyword": "italian sausage gnocchi soup crockpot",
+            "reference_pin": "https://www.pinterest.com/pin/24699498006519934/",
+            "reference_saves": 10,
+            "csv_exported": true
+        },
+        {
+            "fileName": "italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_13.webp",
+            "filePath": "posts/italian-sausage-gnocchi-soup-crockpot/images/italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_13.webp",
+            "relativePath": "italian-sausage-gnocchi-soup-crockpot/images/italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "Hearty Italian Sausage Gnocchi Soup Crockpot Recipe for Easy Dinners",
+            "description": "Discover the ultimate Italian sausage gnocchi soup made effortlessly in your crockpot. This rich and comforting recipe brings warm flavors perfect for busy weeknights or cozy meals at home.",
+            "board_override": "Italian Sausage Gnocchi Soup",
+            "source_keyword": "italian sausage gnocchi soup crockpot",
+            "reference_pin": "https://www.pinterest.com/pin/422281213010757/",
+            "reference_saves": 7,
+            "csv_exported": true
+        }
+    ],
+    "image": "italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_1.webp",
+    "image_path": "posts/italian-sausage-gnocchi-soup-crockpot/images/italian-sausage-gnocchi-soup-crockpot_italian-sausage-gnocchi-soup-crockpot_pinrecipes_image_1.webp",
+    "image_dir": "italian-sausage-gnocchi-soup-crockpot/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-09-10T00:04:45+00:00",
+    "updatedAt": "2026-09-10T00:04:45+00:00",
+    "pinterest_source_keyword": "italian sausage gnocchi soup crockpot",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}
