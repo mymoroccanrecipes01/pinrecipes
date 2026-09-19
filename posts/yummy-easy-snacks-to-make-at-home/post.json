@@ -1,0 +1,358 @@
+{
+    "title": "Yummy Easy Snacks to Make at Home That Everyone Will Love",
+    "promptIMG": "Food photography: microwave mug cookie yummy and easy recipe, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "image_prompts": {
+        "img1": "SCENE: a cozy home kitchen softly blurred behind with warm daylight streaming through a window, faint reflections on a wooden counter. SUBJECT: a rustic ceramic mug filled to the brim with a golden-brown microwave mug cookie, the top slightly cracked and textured with melted chocolate chips peeking through, the mug cropping out of the frame edges to focus on the cookie surface. DETAILS: warm caramelized spots with glossy melted chocolate, a light sprinkle of coarse sugar crystals on top catching the light, crumbs scattered naturally around the mug base on a wooden surface. STYLE: ultra-photorealistic professional food photography, bright airy daylight with warm amber tones, rich saturated glowing colors — the hyper-vivid look typical of viral recipe pins; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no logos, no artificial colors or over-smoothing, no steam or smoke.",
+        "img2": "SCENE: soft natural light filtering through a clean kitchen window with a marble-toned background softly blurred. SUBJECT: the reveal shot of the microwave mug cookie cut in half inside the mug, both halves facing the camera with gooey melted chocolate oozing slowly from the warm crumbly interior. DETAILS: moist golden crumb with tiny air pockets, the rich melted chocolate strands stretching between halves, a light dusting of powdered sugar on top, crumbs naturally scattered on the marble surface below. STYLE: ultra-photorealistic professional food photography, bright daylight with golden warmth, highly saturated appetizing colors, shallow macro focus; vertical 2:3. AVOID: no text, no hands, no people, no logos, no artificial elements.",
+        "img3": "SCENE: warm dark wood table softly blurred behind with a single warm side glow highlighting textures. SUBJECT: several mugs filled with microwave mug cookies arranged close together, some topped with a dollop of whipped cream and a few chocolate chips scattered around. The front mug razor-sharp showing the glossy melted chocolate and crumbly top, the rest fading into warm bokeh. DETAILS: intense glossy shine on melted chocolate, deep golden caramelization on cookie tops, light powdered sugar dusting drifting into crevices, natural crumbs scattered on the wooden surface. STYLE: ultra-photorealistic professional food photography, deep golden-amber warm color grading, rich saturated tones typical of viral recipe pins; shallow macro depth of field; vertical 2:3. AVOID: no text, no hands, no people, no logos, no dull colors or artificial textures."
+    },
+    "description": "These microwave mug cookies are my absolute favorite quick snack — super easy and so satisfying with melty chocolate in every bite. I love whipping one up when I want a treat fast. Perfect for afternoon cravings or an easy dessert!",
+    "hashtags": "#mugcookie #easysnacks #homemadesnacks",
+    "board_name": "Easy Snack Ideas",
+    "pin_variations": [
+        {
+            "title": "Why Does This Microwave Mug Cookie Taste Better Than Store-Bought?",
+            "description": "Discover the secret to a moist, melty microwave mug cookie that beats any store-bought snack. Ready in minutes and perfect for solo treats or family snacking. Save this for your next craving! #mugcookie #snackideas #quickdessert"
+        },
+        {
+            "title": "The One Trick That Makes Microwave Mug Cookies So Irresistible",
+            "description": "Learn the simple trick that keeps these mug cookies soft and gooey every time. It’s a game changer for a quick homemade snack you’ll want again and again. Tap to get the full recipe! #easysnacks #microwaverecipe #comfortfood"
+        },
+        {
+            "title": "5-Minute Microwave Mug Cookie for Busy Weeknights",
+            "description": "Need a fast, yummy snack? This microwave mug cookie comes together in 5 minutes flat with simple pantry ingredients. Perfect for busy evenings or last-minute dessert. Save this recipe now! #quickdessert #snacktime #easyrecipe"
+        },
+        {
+            "title": "Still Buying Snacks? Try This Easy Microwave Mug Cookie Instead",
+            "description": "Stop spending on packaged snacks and make this easy microwave mug cookie at home. It’s delicious, quick, and perfect for satisfying sweet cravings without the fuss. Try it tonight! #homemadesnacks #snackrecipe #easybaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 2,
+    "servings": 1,
+    "ingredients": [
+        "4 tablespoons all-purpose flour",
+        "2 tablespoons granulated sugar",
+        "1 tablespoon brown sugar",
+        "1/8 teaspoon baking powder",
+        "Pinch of salt",
+        "3 tablespoons milk",
+        "1 tablespoon vegetable oil",
+        "1/4 teaspoon vanilla extract",
+        "2 tablespoons chocolate chips"
+    ],
+    "yield": "1 microwave mug cookie",
+    "introduction": "I first stumbled upon microwave mug cookies when I needed a quick sweet fix but didn’t want to bake a whole batch of cookies. After a few experiments, I perfected this easy recipe that yields a soft, gooey cookie right in your mug. What I love about this recipe is the balance between a tender crumb and that irresistible melted chocolate oozing out when you cut into it. It’s not dry or cakey like some microwave treats can be — the trick is a little extra brown sugar and just the right amount of milk to keep it moist. Plus, it’s so fast to make that it’s become my go-to snack when I’m craving something sweet but don’t want to fuss with baking sheets or ovens. This recipe is perfect for a solo treat or a quick dessert when you have friends over. You can easily double or triple it too if you want to make a few at once. I think you’ll appreciate how simple and satisfying it is — it’s like having fresh-baked cookies in minutes without the mess. Give it a try and let me know if it becomes your favorite quick snack too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "In a microwave-safe mug, combine the all-purpose flour, granulated sugar, brown sugar, baking powder, and a pinch of salt. Stir well to evenly distribute the leavening and sugars. This dry mix forms the base of your cookie batter and ensures the right texture. Mixing thoroughly avoids clumps and helps the cookie rise evenly when microwaved.",
+            "timing": 2,
+            "doneness_cue": "Dry ingredients are fully combined with no lumps visible."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the milk, vegetable oil, and vanilla extract to the dry ingredients in the mug. Stir gently but thoroughly until you get a smooth batter without streaks of flour. The milk hydrates the flour for a tender crumb, while the oil adds moisture and richness. Vanilla enhances the cookie’s flavor. Avoid overmixing to keep the texture light.",
+            "timing": 2,
+            "doneness_cue": "Batter is smooth and glossy with no dry spots."
+        },
+        {
+            "step": 3,
+            "instruction": "Fold in the chocolate chips evenly throughout the batter. This ensures every bite has melty pockets of chocolate. You can add more or less depending on your preference. The chips will melt during microwaving, creating that signature gooey texture.",
+            "timing": 1,
+            "doneness_cue": "Chocolate chips are evenly distributed but not melted yet."
+        },
+        {
+            "step": 4,
+            "instruction": "Place the mug in the microwave and cook on high for 60 to 90 seconds. Watch closely as microwaves vary; the cookie should puff up but not overflow or dry out. Cooking too long will make it rubbery, too short and it will be undercooked. Start with 60 seconds and add 10-second increments if needed.",
+            "timing": 1.5,
+            "doneness_cue": "Top looks set but slightly moist; cookie pulls away from mug edges."
+        },
+        {
+            "step": 5,
+            "instruction": "Let the cookie cool for 1-2 minutes before eating. This resting time allows it to finish cooking gently and the chocolate to thicken slightly. Eating immediately can be too hot and gooey, but cooling preserves the soft texture.",
+            "timing": 2,
+            "doneness_cue": "Cookie is warm but not scalding; chocolate is thickened but still melty."
+        },
+        {
+            "step": 6,
+            "instruction": "Optional: top with a dollop of whipped cream, a sprinkle of powdered sugar, or a few extra chocolate chips for garnish. These add a nice touch and elevate the presentation if serving to guests or family.",
+            "timing": 1,
+            "doneness_cue": "Toppings look fresh and inviting."
+        },
+        {
+            "step": 7,
+            "instruction": "If making multiple mug cookies, prepare each mug separately following the same steps and microwave one at a time for best results. This avoids uneven cooking and overflow.",
+            "timing": 0,
+            "doneness_cue": "Each mug cookie is individually cooked and consistent in texture."
+        },
+        {
+            "step": 8,
+            "instruction": "To store leftovers, transfer cooled cookies to an airtight container and refrigerate. Reheat gently in the microwave for 15-20 seconds before serving to restore softness.",
+            "timing": 0,
+            "doneness_cue": "Cookie is warm and soft after reheating."
+        },
+        {
+            "step": 9,
+            "instruction": "Experiment with add-ins like chopped nuts, cinnamon, or dried fruit folded into the batter before microwaving for personalized flavor twists.",
+            "timing": 0,
+            "doneness_cue": "Add-ins are evenly mixed and enhance the cookie flavor."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Microwave Mug Cookie Recipe Succeeds",
+        "content": "<p>This microwave mug cookie recipe works because it balances moisture, leavening, and fat to create a tender, soft cookie that cooks quickly without drying out. The flour provides structure, but the addition of vegetable oil instead of butter keeps it moist even when microwaved. Brown sugar contributes both sweetness and moisture due to its molasses content, which helps prevent the cookie from becoming crumbly.</p><p>The baking powder is essential for lightness, causing the batter to rise and become fluffy rather than dense. It reacts quickly with the liquid ingredients and heat, which is why the cookie puffs up in the microwave. The milk hydrates the flour proteins and starches, forming a batter that sets into a soft crumb rather than a hard crust.</p><p>Chocolate chips melt during microwaving, creating pockets of gooey richness that contrast beautifully with the tender crumb. The vanilla extract adds aromatic complexity, rounding out the flavor profile. Timing is critical: microwaving too long causes the cookie to toughen as proteins and starches overcook, while too short leaves it undercooked and doughy. The short cooking time ensures a moist interior with a slightly set surface.</p><p>Finally, allowing the cookie to rest briefly after microwaving lets residual heat finish the cooking gently, stabilizing the texture and thickening the melted chocolate slightly for that perfect gooey bite.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good quality all-purpose flour with moderate protein content (about 10-12%). This provides enough gluten to give structure to the cookie without making it tough. Avoid using cake flour or bread flour as they can alter the texture too much—cake flour will be too soft and bread flour too chewy. Sifting the flour before mixing helps prevent lumps and ensures an even batter.",
+            "brown sugar": "Brown sugar adds moisture and a rich caramel flavor thanks to its molasses content. It helps keep the cookie soft and tender, which is crucial in a microwave recipe where drying out is common. Use packed brown sugar for the best results. Light or dark brown sugar can be used depending on your flavor preference; dark brown sugar will yield a deeper molasses taste.",
+            "baking powder": "Baking powder is the leavening agent that makes the cookie rise quickly in the microwave. It contains both an acid and a base and reacts when wet and heated to produce carbon dioxide bubbles. Using fresh baking powder is important for proper rise; old or expired baking powder will result in a flat, dense cookie. Measure accurately—too much can cause a bitter taste.",
+            "milk": "Milk hydrates the dry ingredients and activates the baking powder. Whole milk is preferred for richness and flavor, but any milk (including dairy-free alternatives) can work. The fat content in milk contributes to tenderness, while the water content helps dissolve the sugars and leavening agents evenly. Avoid using skim milk if possible, as it can yield a drier texture.",
+            "vegetable oil": "Vegetable oil adds moisture and richness without the need for creaming like butter. It keeps the cookie soft and tender even after microwaving. Neutral-flavored oils such as canola or sunflower are best to avoid overpowering the flavor. Using oil instead of butter also simplifies the recipe and speeds up preparation since there’s no need to soften it."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a tall, narrow mug to avoid overflow during microwaving.",
+            "reason": "A taller mug contains the batter better as it rises and expands in the microwave. A wide or shallow mug may cause the batter to bubble over the edges, creating a mess and uneven cooking. The narrow shape also helps the heat penetrate evenly for a consistent texture."
+        },
+        {
+            "tip": "Don’t overcook the cookie; microwave in short bursts if unsure.",
+            "reason": "Microwaves vary in power, so cooking times can differ. Overcooking causes the cookie to become rubbery and dry as proteins and starches tighten excessively. It’s better to start with the minimum time and add 10-second increments until the cookie looks set but still moist on top, ensuring a soft, tender result."
+        },
+        {
+            "tip": "Mix the batter just until combined to avoid tough cookies.",
+            "reason": "Overmixing develops gluten in the flour, leading to a denser, chewier texture. Since this cookie is meant to be soft and tender, mixing only until the ingredients are incorporated preserves a light crumb. Stir gently and avoid vigorous beating."
+        },
+        {
+            "tip": "Add a pinch of salt to balance sweetness and enhance flavor.",
+            "reason": "Salt is a flavor enhancer that cuts through the sweetness and deepens the overall taste. Even a small amount can make a big difference by highlighting the chocolate and caramel notes, making the cookie taste more complex and satisfying."
+        },
+        {
+            "tip": "Use fresh baking powder for best rise and texture.",
+            "reason": "Baking powder loses potency over time, especially if exposed to moisture. Using fresh baking powder ensures the cookie puffs up properly in the microwave, resulting in a light, fluffy texture rather than a dense, heavy one."
+        },
+        {
+            "tip": "Experiment with mix-ins like nuts or cinnamon for variety.",
+            "reason": "Adding chopped nuts, spices, or dried fruit can personalize the cookie and add interesting textures and flavors. Just fold them in gently to avoid disrupting the batter’s consistency. These additions can also make the snack more filling and nutritious."
+        },
+        {
+            "tip": "Let the cookie rest a minute after microwaving before eating.",
+            "reason": "Resting allows residual heat to finish cooking the cookie gently and thickens the melted chocolate slightly. Eating immediately can be too hot and messy, while resting improves texture and flavor balance."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Microwaving too long causing dry, rubbery cookies",
+            "why_it_happens": "Many cooks assume longer cooking means better done cookies, but microwaving past the ideal time causes moisture loss and toughening of proteins and starches.",
+            "fix": "Start with the minimum recommended time and add short increments of 10 seconds if needed. Watch for the cookie surface to look set but still moist. Remove promptly once done to prevent overcooking."
+        },
+        {
+            "mistake": "Using a mug that’s too wide or shallow",
+            "why_it_happens": "Wide mugs cause batter to spread thin and overflow, leading to uneven cooking and mess.",
+            "fix": "Choose a tall, narrow mug to contain the batter and allow even rising. This shape also promotes uniform cooking and better texture."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Vigorous mixing develops gluten, resulting in a tough, dense cookie rather than soft and tender.",
+            "fix": "Mix gently and only until ingredients are just combined. Stop as soon as no dry flour remains."
+        },
+        {
+            "mistake": "Skipping the brown sugar",
+            "why_it_happens": "Brown sugar adds moisture and flavor; omitting it can make the cookie dry and bland.",
+            "fix": "Use the full amount of brown sugar as specified for best texture and caramel notes."
+        },
+        {
+            "mistake": "Using expired baking powder",
+            "why_it_happens": "Old baking powder loses its leavening power, causing flat, dense cookies.",
+            "fix": "Check expiration dates and replace baking powder regularly to ensure proper rise."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Peanut Butter Chocolate Mug Cookie",
+            "description": "Add 1 tablespoon of creamy peanut butter to the batter for a rich, nutty twist. Fold it in with the wet ingredients for a smooth blend. Expect a slightly denser but extra flavorful cookie with melty peanut butter pockets.",
+            "technical_note": "Peanut butter adds fat and moisture, so reduce oil slightly if needed to keep batter consistency balanced."
+        },
+        {
+            "name": "Cinnamon Spice Mug Cookie",
+            "description": "Mix 1/2 teaspoon ground cinnamon and a pinch of nutmeg into the dry ingredients. This adds warm, cozy flavors perfect for fall or winter snacks. The spices complement the vanilla and chocolate beautifully.",
+            "technical_note": "Spices don’t affect texture, so no timing adjustments needed."
+        },
+        {
+            "name": "Oatmeal Chocolate Chip Mug Cookie",
+            "description": "Stir in 2 tablespoons quick oats for added texture and a heartier bite. This version feels more like a traditional oatmeal cookie and is great if you want a bit more chew.",
+            "technical_note": "Oats absorb moisture, so add an extra tablespoon of milk to maintain softness."
+        },
+        {
+            "name": "Vegan Microwave Mug Cookie",
+            "description": "Replace milk with almond or oat milk and use maple syrup instead of brown sugar. Use dairy-free chocolate chips. This keeps the cookie moist and delicious without any animal products.",
+            "technical_note": "Microwave time remains the same, but texture may be slightly softer."
+        },
+        {
+            "name": "Double Chocolate Mug Cookie",
+            "description": "Add 1 tablespoon cocoa powder to the dry ingredients and increase chocolate chips to 3 tablespoons for an ultra-chocolatey treat. This version is rich and decadent, perfect for chocolate lovers.",
+            "technical_note": "Cocoa powder absorbs moisture, so add an extra tablespoon of milk to keep batter smooth."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "12g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This microwave mug cookie is best enjoyed fresh but can be kept at room temperature for up to 2 hours if covered loosely. Beyond that, it may dry out or become stale.",
+        "refrigerator": "Store leftovers in an airtight container in the refrigerator for up to 3 days. The cookie will firm up and lose some softness but can be reheated gently to restore texture.",
+        "freezer": "Freeze cooled cookies wrapped tightly in plastic wrap and placed in a freezer-safe bag for up to 1 month. Thaw at room temperature and reheat briefly in the microwave before serving.",
+        "reheating": "Reheat in the microwave on medium power for 15-20 seconds. Add a few drops of milk if needed to soften. Avoid overheating which can make the cookie tough.",
+        "make_ahead_strategy": "You can mix the dry ingredients ahead and store in an airtight container. When ready, add wet ingredients and chocolate chips, then microwave. This saves prep time and keeps ingredients fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I use butter instead of vegetable oil?",
+            "answer": "Yes, you can substitute melted butter for the vegetable oil in equal amounts. Butter adds a richer flavor but can make the cookie slightly denser and may change the cooking time slightly. Make sure to melt the butter before mixing for even distribution."
+        },
+        {
+            "question": "What if my cookie is too dry or rubbery after microwaving?",
+            "answer": "This usually means it was microwaved too long. Microwaves vary in power, so reduce cooking time or use shorter bursts. Also, be sure to add the correct amount of milk and oil to keep the batter moist."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, substitute the all-purpose flour with a gluten-free baking blend that includes xanthan gum. Texture may be slightly different but still delicious. Adjust liquid slightly as gluten-free flours can absorb differently."
+        },
+        {
+            "question": "How do I prevent the cookie from overflowing in the microwave?",
+            "answer": "Use a tall, narrow mug to contain the batter better. Also, avoid overfilling the mug; fill only about halfway to allow room for rising. Microwaving on medium power can help control expansion too."
+        },
+        {
+            "question": "Can I double or triple this recipe to make more servings?",
+            "answer": "You can double or triple the ingredients but it’s best to cook each mug cookie separately in individual mugs to ensure even cooking and proper texture."
+        },
+        {
+            "question": "Is it okay to eat the batter raw?",
+            "answer": "Since this recipe uses flour and raw egg-free ingredients, it’s generally safe to eat raw batter. However, some people prefer to microwave it fully for food safety and best texture."
+        },
+        {
+            "question": "Can I add nuts or dried fruit to the recipe?",
+            "answer": "Absolutely! Fold in chopped nuts or dried fruit with the chocolate chips before microwaving. These add texture and flavor but be mindful not to add too much which can affect cooking time."
+        },
+        {
+            "question": "What’s the best way to measure ingredients for accuracy?",
+            "answer": "Use standard measuring spoons and cups for best consistency. Spoon flour lightly into the measuring cup and level it off with a knife to avoid packing, which can lead to dense cookies."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this easy microwave mug cookie as much as I do. It’s a quick, comforting snack that’s perfect whenever you want a sweet treat. Let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "yummy easy snacks to make at home",
+        "secondary_keywords": [
+            "easy homemade snacks",
+            "quick microwave snacks",
+            "how to make mug cookies",
+            "best microwave mug cookie recipe",
+            "easy snack recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "quick dessert ideas",
+                "anchor": "quick-dessert-ideas"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": "cat_1761230221_583",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-09-19 00:08:02",
+        "title_seed": "yummy easy snacks to make at home"
+    },
+    "author_id": "author_001",
+    "id": "post_1789776482_340",
+    "slug": "yummy-easy-snacks-to-make-at-home",
+    "uniqueSlug": "yummy-easy-snacks-to-make-at-home",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_1.webp",
+            "filePath": "posts/yummy-easy-snacks-to-make-at-home/images/yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_1.webp",
+            "relativePath": "yummy-easy-snacks-to-make-at-home/images/yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_2.webp",
+            "filePath": "posts/yummy-easy-snacks-to-make-at-home/images/yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_2.webp",
+            "relativePath": "yummy-easy-snacks-to-make-at-home/images/yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_3.webp",
+            "filePath": "posts/yummy-easy-snacks-to-make-at-home/images/yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_3.webp",
+            "relativePath": "yummy-easy-snacks-to-make-at-home/images/yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_11.webp",
+            "filePath": "posts/yummy-easy-snacks-to-make-at-home/images/yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_11.webp",
+            "relativePath": "yummy-easy-snacks-to-make-at-home/images/yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_11.webp",
+            "order": 4,
+            "type": "trend_pin",
+            "title": "Yummy easy snacks to make at home in minutes",
+            "description": "Discover simple and delicious snacks you can whip up at home anytime. Perfect for quick cravings and healthy bites you'll love all year round",
+            "board_override": "Yummy Easy Snacks",
+            "source_keyword": "yummy easy snacks to make at home",
+            "reference_pin": "https://www.pinterest.com/pin/6896205674459522/",
+            "reference_saves": 22154,
+            "csv_exported": true
+        },
+        {
+            "fileName": "yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_12.webp",
+            "filePath": "posts/yummy-easy-snacks-to-make-at-home/images/yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_12.webp",
+            "relativePath": "yummy-easy-snacks-to-make-at-home/images/yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_12.webp",
+            "order": 5,
+            "type": "trend_pin",
+            "title": "😋 Quick & Yummy Easy Snacks to Make at Home in Minutes 🍿🥒✨",
+            "description": "Discover simple, delicious snacks you can whip up at home with minimal ingredients. Perfect for busy days, these tasty treats satisfy cravings while staying fresh and healthy. Elevate your snack game with effortless recipes anyone can enjoy.",
+            "board_override": "Yummy Easy Snacks",
+            "source_keyword": "yummy easy snacks to make at home",
+            "reference_pin": "https://www.pinterest.com/pin/1970393584692385/",
+            "reference_saves": 15631,
+            "csv_exported": true
+        },
+        {
+            "fileName": "yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_13.webp",
+            "filePath": "posts/yummy-easy-snacks-to-make-at-home/images/yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_13.webp",
+            "relativePath": "yummy-easy-snacks-to-make-at-home/images/yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_13.webp",
+            "order": 6,
+            "type": "trend_pin",
+            "title": "Quick Cheesy Garlic Bread Bites Perfect for Yummy Easy Snacks at Home",
+            "description": "Whip up these cheesy garlic bread bites that are crispy outside and soft inside. Made with simple ingredients, they're perfect for a quick, delicious snack any time you crave yummy easy snacks to make at home.",
+            "board_override": "Yummy Easy Snacks",
+            "source_keyword": "yummy easy snacks to make at home",
+            "reference_pin": "https://www.pinterest.com/pin/2181499817745439/",
+            "reference_saves": 528,
+            "csv_exported": true
+        }
+    ],
+    "image": "yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_1.webp",
+    "image_path": "posts/yummy-easy-snacks-to-make-at-home/images/yummy-easy-snacks-to-make-at-home_yummy-easy-snacks-to-make-at-home_pinrecipes_image_1.webp",
+    "image_dir": "yummy-easy-snacks-to-make-at-home/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-09-19T00:08:02+00:00",
+    "updatedAt": "2026-09-19T00:08:02+00:00",
+    "pinterest_source_keyword": "yummy easy snacks to make at home",
+    "skip_classic_templates": true,
+    "has_reel": true,
+    "video_csv_exported": true
+}
